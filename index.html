@@ -4,7 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Travel Map — Interactive Trip Planner</title>
-    
+
+    <!-- PWA Meta Tags -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#2563EB">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Travel Map">
+    <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
     
@@ -2240,17 +2248,82 @@
         color: #1d4ed8;
     }
 
-    /* ---- Tab Panels ---- */
+    /* ---- Tab Panels (Bottom Sheet Style) ---- */
     .mobile-tab-panel {
         position: fixed;
-        top: 44px;
         left: 0;
         right: 0;
         bottom: 56px;
         background: #f9fafb;
         z-index: 400;
+        overflow: hidden;
+        border-radius: 16px 16px 0 0;
+        box-shadow: 0 -4px 24px rgba(0,0,0,0.12);
+        transform: translateY(100%);
+        transition: transform 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94), height 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+        display: flex;
+        flex-direction: column;
+        will-change: transform;
+    }
+
+    .mobile-tab-panel.sheet-visible {
+        transform: translateY(0);
+    }
+
+    /* Sheet height detents — half (default) and expanded */
+    .mobile-tab-panel.sheet-half {
+        height: 50vh;
+    }
+
+    .mobile-tab-panel.sheet-expanded {
+        height: calc(100vh - 44px - 56px);
+        border-radius: 0;
+    }
+
+    /* Scrollable inner content */
+    .mobile-tab-panel .sheet-scroll {
+        flex: 1;
         overflow-y: auto;
         -webkit-overflow-scrolling: touch;
+        min-height: 0;
+    }
+
+    /* Drag handle for sheet panels */
+    .sheet-drag-handle {
+        width: 100%;
+        padding: 8px 0 4px 0;
+        text-align: center;
+        flex-shrink: 0;
+        cursor: grab;
+        -webkit-tap-highlight-color: transparent;
+    }
+
+    .sheet-drag-handle::before {
+        content: '';
+        display: inline-block;
+        width: 36px;
+        height: 4px;
+        background: #d1d5db;
+        border-radius: 2px;
+    }
+
+    /* Subtle backdrop behind the sheet so map feels layered */
+    .mobile-sheet-backdrop {
+        display: none;
+        position: fixed;
+        top: 44px;
+        left: 0;
+        right: 0;
+        bottom: 56px;
+        background: rgba(0,0,0,0.08);
+        z-index: 399;
+        transition: opacity 0.3s;
+        opacity: 0;
+    }
+
+    .mobile-sheet-backdrop.visible {
+        display: block;
+        opacity: 1;
     }
 
     /* ---- Map Tab (default - map shows through container) ---- */
@@ -2329,7 +2402,7 @@
         bottom: 56px; /* above tab bar */
         left: 0;
         right: 0;
-        max-height: 45vh;
+        max-height: 55vh;
         background: white;
         border-radius: 16px 16px 0 0;
         box-shadow: 0 -4px 24px rgba(0,0,0,0.15);
@@ -2339,6 +2412,7 @@
         overflow: hidden;
         display: flex;
         flex-direction: column;
+        will-change: transform;
     }
 
     .mobile-poi-sheet.active {
@@ -2404,11 +2478,10 @@
 
     /* ---- Search Panel ---- */
     .mobile-search-bar {
-        padding: 12px 12px 8px 12px;
+        padding: 8px 12px 8px 12px;
         background: white;
         border-bottom: 1px solid #e5e7eb;
-        position: sticky;
-        top: 0;
+        flex-shrink: 0;
         z-index: 10;
     }
 
@@ -2458,6 +2531,7 @@
         background: white;
         border-bottom: 1px solid #f3f4f6;
         scrollbar-width: none;
+        flex-shrink: 0;
     }
 
     .mobile-search-chips::-webkit-scrollbar {
@@ -2564,14 +2638,13 @@
 
     /* ---- Trips Panel ---- */
     .mobile-trips-header {
-        padding: 12px 12px 8px 12px;
+        padding: 8px 12px;
         background: white;
         border-bottom: 1px solid #e5e7eb;
         display: flex;
         align-items: center;
         justify-content: space-between;
-        position: sticky;
-        top: 0;
+        flex-shrink: 0;
         z-index: 10;
     }
 
@@ -2619,6 +2692,7 @@
         display: flex;
         gap: 6px;
         scrollbar-width: none;
+        flex-shrink: 0;
     }
 
     .mobile-trips-tabs::-webkit-scrollbar {
@@ -2671,6 +2745,7 @@
         padding: 12px 16px;
         background: white;
         border-bottom: 1px solid #e5e7eb;
+        flex-shrink: 0;
     }
 
     .mobile-chat-title {
@@ -2710,12 +2785,9 @@
     }
 
     #mobileChatPanel {
-        display: none;
-        flex-direction: column;
-    }
-
-    #mobileChatPanel.mobile-tab-active {
-        display: flex;
+        /* Chat stays full height since it's an immersive interaction */
+        height: calc(100vh - 44px - 56px) !important;
+        border-radius: 0 !important;
     }
 
     /* Make mobile chat messages fill available space */
@@ -3075,7 +3147,7 @@
     </div>
 
     <!-- Mobile Chat Panel -->
-    <div class="mobile-tab-panel" id="mobileChatPanel" style="display:none;">
+    <div class="mobile-tab-panel" id="mobileChatPanel">
         <div class="mobile-chat-header">
             <div class="mobile-chat-title">AI Trip Planner</div>
             <div class="mobile-chat-context" id="mobileChatContext">Select an itinerary &amp; day first</div>
@@ -3107,8 +3179,12 @@
         </div>
     </div>
 
+    <!-- Mobile Sheet Backdrop -->
+    <div class="mobile-sheet-backdrop" id="mobileSheetBackdrop" onclick="collapseMobileSheet()"></div>
+
     <!-- Mobile Search Panel -->
-    <div class="mobile-tab-panel" id="mobileSearchPanel" style="display:none;">
+    <div class="mobile-tab-panel sheet-half" id="mobileSearchPanel">
+        <div class="sheet-drag-handle" id="searchDragHandle"></div>
         <div class="mobile-search-bar">
             <div class="mobile-search-input-wrap">
                 <i class="fas fa-search" style="color:#9ca3af;"></i>
@@ -3124,13 +3200,16 @@
             <button class="mobile-search-chip" data-filter="kidFriendly" onclick="setMobileSearchFilter('kidFriendly',this)">👶 Kids</button>
             <button class="mobile-search-chip" data-filter="markets" onclick="setMobileSearchFilter('markets',this)">🛒 Markets</button>
         </div>
-        <div class="mobile-search-results" id="mobileSearchResults">
-            <div class="mobile-search-empty">Select a destination and search for places</div>
+        <div class="sheet-scroll">
+            <div class="mobile-search-results" id="mobileSearchResults">
+                <div class="mobile-search-empty">Select a destination and search for places</div>
+            </div>
         </div>
     </div>
 
     <!-- Mobile Trips Panel -->
-    <div class="mobile-tab-panel" id="mobileTripsPanel" style="display:none;">
+    <div class="mobile-tab-panel sheet-half" id="mobileTripsPanel">
+        <div class="sheet-drag-handle" id="tripsDragHandle"></div>
         <div class="mobile-trips-header" id="mobileTripsHeader">
             <div class="mobile-trips-title">Itineraries</div>
             <div class="mobile-trips-actions">
@@ -3141,14 +3220,16 @@
             </div>
         </div>
         <div class="mobile-trips-tabs" id="mobileTripsTabsContainer"></div>
-        <div class="mobile-trips-content" id="mobileTripsContent">
-            <div id="mobileTripsItinView">
-                <button class="show-all-days-btn active" id="mobileShowAllDaysBtn" onclick="showAllDays()">Show All Days</button>
-                <div id="mobileDaysContainer"></div>
-            </div>
-            <div id="mobileTripsSubView" style="display:none;">
-                <button class="mobile-trips-back" onclick="hideMobileTripsSubView()"><i class="fas fa-arrow-left"></i> Back to Itineraries</button>
-                <div id="mobileTripsSubContent"></div>
+        <div class="sheet-scroll">
+            <div class="mobile-trips-content" id="mobileTripsContent">
+                <div id="mobileTripsItinView">
+                    <button class="show-all-days-btn active" id="mobileShowAllDaysBtn" onclick="showAllDays()">Show All Days</button>
+                    <div id="mobileDaysContainer"></div>
+                </div>
+                <div id="mobileTripsSubView" style="display:none;">
+                    <button class="mobile-trips-back" onclick="hideMobileTripsSubView()"><i class="fas fa-arrow-left"></i> Back to Itineraries</button>
+                    <div id="mobileTripsSubContent"></div>
+                </div>
             </div>
         </div>
     </div>
@@ -4975,21 +5056,32 @@
         // ============================================
 
         function panToMarker(lat, lng, name) {
-            // On mobile, switch to map tab first
+            // On mobile, hide any open sheets and show POI on map
             if (isMobile()) {
-                switchMobileTab('map');
+                hideAllMobileSheets();
+                mobileActiveTab = 'map';
+                document.querySelectorAll('.mobile-tab').forEach(btn => {
+                    btn.classList.toggle('active', btn.dataset.tab === 'map');
+                });
+                const mapControls = document.getElementById('mobileMapControls');
+                if (mapControls) mapControls.style.display = '';
+
                 setTimeout(() => {
                     map.invalidateSize();
-                    map.flyTo([lat, lng], 14, { duration: 1 });
-                    // Show POI detail sheet instead of popup on mobile
+                    map.flyTo([lat, lng], 16, { duration: 0.5 });
+                    // Show POI detail sheet
                     setTimeout(() => {
+                        // Try to find a matching itinerary marker
                         const m = itineraryMarkers.find(m => Math.abs(m.marker.getLatLng().lat - lat) < 0.0001 && Math.abs(m.marker.getLatLng().lng - lng) < 0.0001);
                         if (m) {
                             const poiInfo = lookupPoi(m.name);
                             showMobilePOIDetail({ name: m.name, coord: [lat, lng], desc: poiInfo.desc, longDesc: poiInfo.longDesc, gmapsUrl: poiInfo.gmapsUrl, rating: poiInfo.rating, ratingCount: poiInfo.ratingCount, priceLevel: poiInfo.priceLevel, website: poiInfo.website, hours: poiInfo.hours }, formatType(m.type));
+                        } else if (name) {
+                            // Try to find by name in POI arrays
+                            mobileItinItemTap(name);
                         }
-                    }, 600);
-                }, 150);
+                    }, 350);
+                }, 100);
                 return;
             }
 
@@ -7162,14 +7254,104 @@
         let mobileActiveTab = 'map';
         let mobileSearchFilter = 'all';
         let mobileSearchDebounce = null;
+        let mobileSheetState = 'hidden'; // 'hidden', 'half', 'expanded'
 
         function isMobile() {
             return window.innerWidth <= 768;
         }
 
+        // ---- Sheet State Management ----
+        function showMobileSheet(panelId, state) {
+            const panel = document.getElementById(panelId);
+            const backdrop = document.getElementById('mobileSheetBackdrop');
+            if (!panel) return;
+
+            // Remove old state classes
+            panel.classList.remove('sheet-half', 'sheet-expanded', 'sheet-visible');
+
+            // Apply new state
+            if (state === 'half') {
+                panel.classList.add('sheet-half', 'sheet-visible');
+                mobileSheetState = 'half';
+            } else if (state === 'expanded') {
+                panel.classList.add('sheet-expanded', 'sheet-visible');
+                mobileSheetState = 'expanded';
+            }
+
+            // Show subtle backdrop when expanded
+            if (backdrop) {
+                backdrop.classList.toggle('visible', state === 'expanded');
+            }
+        }
+
+        function hideMobileSheet(panelId) {
+            const panel = document.getElementById(panelId);
+            const backdrop = document.getElementById('mobileSheetBackdrop');
+            if (panel) {
+                panel.classList.remove('sheet-visible');
+            }
+            if (backdrop) backdrop.classList.remove('visible');
+            mobileSheetState = 'hidden';
+        }
+
+        function hideAllMobileSheets() {
+            ['mobileTripsPanel', 'mobileSearchPanel', 'mobileChatPanel'].forEach(id => {
+                hideMobileSheet(id);
+            });
+        }
+
+        function collapseMobileSheet() {
+            // Collapse expanded sheet back to half
+            const activePanel = document.querySelector('.mobile-tab-panel.sheet-visible');
+            if (activePanel && mobileSheetState === 'expanded') {
+                activePanel.classList.remove('sheet-expanded');
+                activePanel.classList.add('sheet-half');
+                mobileSheetState = 'half';
+                const backdrop = document.getElementById('mobileSheetBackdrop');
+                if (backdrop) backdrop.classList.remove('visible');
+            }
+        }
+
+        function toggleSheetExpand(panelId) {
+            const panel = document.getElementById(panelId);
+            if (!panel) return;
+            if (mobileSheetState === 'half') {
+                panel.classList.remove('sheet-half');
+                panel.classList.add('sheet-expanded');
+                mobileSheetState = 'expanded';
+                const backdrop = document.getElementById('mobileSheetBackdrop');
+                if (backdrop) backdrop.classList.add('visible');
+            } else if (mobileSheetState === 'expanded') {
+                panel.classList.remove('sheet-expanded');
+                panel.classList.add('sheet-half');
+                mobileSheetState = 'half';
+                const backdrop = document.getElementById('mobileSheetBackdrop');
+                if (backdrop) backdrop.classList.remove('visible');
+            }
+        }
+
         // ---- Tab Switching ----
         function switchMobileTab(tab) {
             if (!isMobile()) return;
+
+            // If tapping the already-active tab (that has a visible sheet), toggle it
+            if (tab === mobileActiveTab && tab !== 'map') {
+                const panelIds = { trips: 'mobileTripsPanel', search: 'mobileSearchPanel', chat: 'mobileChatPanel' };
+                const panelId = panelIds[tab];
+                const panel = panelId ? document.getElementById(panelId) : null;
+                if (panel && panel.classList.contains('sheet-visible')) {
+                    hideAllMobileSheets();
+                    mobileActiveTab = 'map';
+                    document.querySelectorAll('.mobile-tab').forEach(btn => {
+                        btn.classList.toggle('active', btn.dataset.tab === 'map');
+                    });
+                    const mapControls = document.getElementById('mobileMapControls');
+                    if (mapControls) mapControls.style.display = '';
+                    setTimeout(() => { if (map) map.invalidateSize(); }, 100);
+                    return;
+                }
+            }
+
             mobileActiveTab = tab;
 
             // Update tab bar active states
@@ -7177,41 +7359,32 @@
                 btn.classList.toggle('active', btn.dataset.tab === tab);
             });
 
-            // Hide all tab panels
-            document.getElementById('mobileTripsPanel').style.display = 'none';
-            document.getElementById('mobileSearchPanel').style.display = 'none';
-            document.getElementById('mobileChatPanel').style.display = 'none';
-            document.getElementById('mobileChatPanel').classList.remove('mobile-tab-active');
+            // Hide all panels first
+            hideAllMobileSheets();
 
             // Hide/show map-related elements
             const mapControls = document.getElementById('mobileMapControls');
-            const mapContainer = document.getElementById('map-container');
 
             if (tab === 'map') {
-                mapContainer.style.display = '';
                 if (mapControls) mapControls.style.display = '';
-                // Ensure map renders correctly
                 setTimeout(() => { if (map) map.invalidateSize(); }, 100);
             } else {
-                // Don't hide map container, just show panel on top
+                // Map stays visible underneath! Just hide the category chips
+                if (mapControls) mapControls.style.display = 'none';
+
                 if (tab === 'trips') {
-                    document.getElementById('mobileTripsPanel').style.display = 'block';
+                    showMobileSheet('mobileTripsPanel', 'half');
                     refreshMobileTripsUI();
                 } else if (tab === 'search') {
-                    document.getElementById('mobileSearchPanel').style.display = 'block';
-                    // Focus search input after a short delay
+                    showMobileSheet('mobileSearchPanel', 'half');
                     setTimeout(() => {
                         const input = document.getElementById('mobileSearchInput');
                         if (input) input.focus();
-                    }, 150);
+                    }, 350);
                 } else if (tab === 'chat') {
-                    const chatPanel = document.getElementById('mobileChatPanel');
-                    chatPanel.style.display = 'flex';
-                    chatPanel.classList.add('mobile-tab-active');
+                    showMobileSheet('mobileChatPanel', 'expanded');
                     initMobileChat();
                 }
-                // Hide map controls when not on map tab
-                if (mapControls) mapControls.style.display = 'none';
             }
 
             // Close POI detail sheet when switching tabs
@@ -7317,6 +7490,71 @@
                     sheet.style.transform = '';
                     sheet.classList.add('active');
                 }
+            }, { passive: true });
+        }
+
+        // ---- Sheet Drag Gestures ----
+        function initSheetDragGestures(handleId, panelId) {
+            const handle = document.getElementById(handleId);
+            const panel = document.getElementById(panelId);
+            if (!handle || !panel) return;
+
+            let startY = 0, startH = 0, dragging = false;
+
+            handle.addEventListener('touchstart', (e) => {
+                startY = e.touches[0].clientY;
+                startH = panel.offsetHeight;
+                dragging = true;
+                panel.style.transition = 'none';
+            }, { passive: true });
+
+            handle.addEventListener('touchmove', (e) => {
+                if (!dragging) return;
+                const diff = startY - e.touches[0].clientY; // positive = drag up
+                const newH = Math.max(100, Math.min(window.innerHeight - 100, startH + diff));
+                panel.style.height = newH + 'px';
+                // Remove preset height classes while dragging
+                panel.classList.remove('sheet-half', 'sheet-expanded');
+            }, { passive: true });
+
+            handle.addEventListener('touchend', (e) => {
+                if (!dragging) return;
+                dragging = false;
+                panel.style.transition = '';
+                const currentH = panel.offsetHeight;
+                const viewH = window.innerHeight - 44 - 56; // viewport minus dest bar and tab bar
+                const halfH = window.innerHeight * 0.5;
+
+                // Snap to nearest detent: dismiss (< 15%), half (~50%), expanded (~90%)
+                if (currentH < viewH * 0.15) {
+                    // Dismiss — snap back to map
+                    panel.style.height = '';
+                    hideAllMobileSheets();
+                    mobileActiveTab = 'map';
+                    document.querySelectorAll('.mobile-tab').forEach(btn => {
+                        btn.classList.toggle('active', btn.dataset.tab === 'map');
+                    });
+                    const mapControls = document.getElementById('mobileMapControls');
+                    if (mapControls) mapControls.style.display = '';
+                } else if (currentH < viewH * 0.7) {
+                    // Snap to half
+                    panel.style.height = '';
+                    panel.classList.add('sheet-half');
+                    panel.classList.remove('sheet-expanded');
+                    mobileSheetState = 'half';
+                    const backdrop = document.getElementById('mobileSheetBackdrop');
+                    if (backdrop) backdrop.classList.remove('visible');
+                } else {
+                    // Snap to expanded
+                    panel.style.height = '';
+                    panel.classList.add('sheet-expanded');
+                    panel.classList.remove('sheet-half');
+                    mobileSheetState = 'expanded';
+                    const backdrop = document.getElementById('mobileSheetBackdrop');
+                    if (backdrop) backdrop.classList.add('visible');
+                }
+
+                setTimeout(() => { if (map) map.invalidateSize(); }, 100);
             }, { passive: true });
         }
 
@@ -7690,6 +7928,56 @@
             }
         }
 
+        // ---- Navigate from itinerary item to map ----
+        function mobileItinItemTap(poiName) {
+            if (!isMobile()) return;
+            // Find the POI across all categories
+            const categories = { hotels: 'Hotel', restaurants: 'Restaurant', experiences: 'Experience', kidFriendly: 'Kid-Friendly', markets: 'Market' };
+            let foundPoi = null, foundLabel = '';
+            for (const [catKey, label] of Object.entries(categories)) {
+                const arr = window[catKey] || [];
+                const poi = arr.find(p => p.name === poiName);
+                if (poi) { foundPoi = poi; foundLabel = label; break; }
+            }
+
+            // Also check itinerary items directly for coord
+            if (!foundPoi && currentItinerary && itineraryData[currentItinerary]) {
+                const itin = itineraryData[currentItinerary];
+                for (const day of (itin.days || [])) {
+                    for (const item of (day.items || [])) {
+                        if (item.name === poiName && item.coord) {
+                            foundPoi = item;
+                            foundLabel = item.type || 'Place';
+                            break;
+                        }
+                    }
+                    if (foundPoi) break;
+                }
+            }
+
+            if (!foundPoi || !foundPoi.coord) return;
+
+            // Switch to map tab
+            hideAllMobileSheets();
+            mobileActiveTab = 'map';
+            document.querySelectorAll('.mobile-tab').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.tab === 'map');
+            });
+            const mapControls = document.getElementById('mobileMapControls');
+            if (mapControls) mapControls.style.display = '';
+
+            // Fly to POI and show detail sheet
+            setTimeout(() => {
+                if (map) {
+                    map.invalidateSize();
+                    map.flyTo(foundPoi.coord, 16, { duration: 0.5 });
+                }
+                setTimeout(() => {
+                    showMobilePOIDetail(foundPoi, foundLabel);
+                }, 300);
+            }, 100);
+        }
+
         // ---- Initialize Mobile UI ----
         function initMobileUI() {
             if (!isMobile()) return;
@@ -7705,6 +7993,10 @@
 
             // Initialize POI sheet gestures
             initPOISheetGestures();
+
+            // Initialize sheet panel drag gestures
+            initSheetDragGestures('tripsDragHandle', 'mobileTripsPanel');
+            initSheetDragGestures('searchDragHandle', 'mobileSearchPanel');
 
             // Update dest bar
             updateMobileDestBar();
@@ -7722,6 +8014,20 @@
             // Initialize mobile UI if on mobile
             if (window.innerWidth <= 768) {
                 initMobileUI();
+            }
+
+            // Register service worker for PWA
+            if ('serviceWorker' in navigator) {
+                navigator.serviceWorker.register('sw.js').then(reg => {
+                    reg.addEventListener('updatefound', () => {
+                        const newWorker = reg.installing;
+                        newWorker.addEventListener('statechange', () => {
+                            if (newWorker.state === 'activated' && navigator.serviceWorker.controller) {
+                                showCopyToast('New version available — refresh to update');
+                            }
+                        });
+                    });
+                }).catch(err => console.log('SW registration failed:', err));
             }
         });
     </script>
