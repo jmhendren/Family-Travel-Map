@@ -1,0 +1,38 @@
+{
+  "annotations": [
+    {
+      "id": "hoshinoya-tokyo-stay-2026",
+      "poiName": "Hoshinoya Tokyo",
+      "type": "reservation",
+      "subtype": "hotel",
+      "status": "confirmed",
+      "date": "2026-03-20",
+      "endDate": "2026-03-23",
+      "details": "3 nights, confirmation #HST-44821, family room with onsen access",
+      "addedBy": "john",
+      "source": "static"
+    },
+    {
+      "id": "sezanne-dinner-2026",
+      "poiName": "SÉZANNE",
+      "type": "reservation",
+      "subtype": "restaurant",
+      "status": "confirmed",
+      "date": "2026-03-21",
+      "details": "Dinner 7:00pm, party of 4, tasting menu, confirmation via email",
+      "addedBy": "john",
+      "source": "static"
+    },
+    {
+      "id": "saito-sushi-2026",
+      "poiName": "Saito",
+      "type": "reservation",
+      "subtype": "restaurant",
+      "status": "pending",
+      "date": "2026-03-22",
+      "details": "Lunch, concierge booking through hotel, awaiting confirmation",
+      "addedBy": "john",
+      "source": "static"
+    }
+  ]
+}

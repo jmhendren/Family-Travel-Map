@@ -5,7 +5,7 @@
 ### 1. Create a private GitHub repo
 
 - Go to https://github.com/new
-- **Repository name:** `travel-map-family`
+- **Repository name:** `Family-Travel-Map`
 - **Visibility:** Private
 - Click **Create repository**
 
@@ -31,7 +31,7 @@
 
 Your private map will be at:
 ```
-https://jmhendren.github.io/travel-map-family/
+https://jmhendren.github.io/Family-Travel-Map/
 ```
 
 The AI chat and itinerary generator will work immediately — no API key entry needed.
@@ -49,7 +49,7 @@ The AI chat and itinerary generator will work immediately — no API key entry n
 
 When you update the public travel map:
 1. Copy the updated `index.html` and any changed `destinations/*.json` files into `deploy-family/`
-2. Upload to the `travel-map-family` repo
+2. Upload to the `Family-Travel-Map` repo
 3. The `config.json` stays the same — you don't need to re-add it each time
 
 ## Security Notes

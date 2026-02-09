@@ -2151,6 +2151,163 @@
     }
 }
 
+/* Annotation badges on markers */
+.annotation-badge {
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    width: 14px;
+    height: 14px;
+    background: #f59e0b;
+    border: 1.5px solid white;
+    border-radius: 50%;
+    font-size: 8px;
+    line-height: 14px;
+    text-align: center;
+    z-index: 10;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+/* Annotation card in popups */
+.annotation-card {
+    background: #fffbeb;
+    border: 1px solid #fde68a;
+    border-radius: 6px;
+    padding: 6px 8px;
+    margin-top: 4px;
+    font-size: 11px;
+}
+.annotation-card-header {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-weight: 600;
+    color: #92400e;
+    margin-bottom: 2px;
+}
+.annotation-card-details {
+    color: #78350f;
+    line-height: 1.3;
+}
+.annotation-status {
+    display: inline-block;
+    padding: 1px 5px;
+    border-radius: 3px;
+    font-size: 9px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+}
+.annotation-status.confirmed { background: #d1fae5; color: #065f46; }
+.annotation-status.pending { background: #fef3c7; color: #92400e; }
+.annotation-status.cancelled { background: #fee2e2; color: #991b1b; text-decoration: line-through; }
+
+/* Annotation form in popups */
+.annotation-form {
+    margin-top: 6px;
+    padding: 8px;
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 6px;
+}
+.annotation-form select,
+.annotation-form input {
+    width: 100%;
+    padding: 4px 6px;
+    border: 1px solid #d1d5db;
+    border-radius: 4px;
+    font-size: 11px;
+    margin-top: 4px;
+    font-family: inherit;
+    box-sizing: border-box;
+}
+.annotation-form label {
+    font-size: 10px;
+    font-weight: 600;
+    color: #6b7280;
+    display: block;
+    margin-top: 6px;
+}
+.annotation-form label:first-child { margin-top: 0; }
+
+/* Bookings panel */
+.bookings-count-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 16px;
+    height: 16px;
+    background: #f59e0b;
+    color: white;
+    border-radius: 8px;
+    font-size: 9px;
+    font-weight: 700;
+    padding: 0 4px;
+    margin-left: 4px;
+}
+.booking-item {
+    padding: 10px;
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    transition: all 0.15s;
+}
+.booking-item:hover {
+    background: #f0f9ff;
+    border-color: #93c5fd;
+}
+.booking-item-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 4px;
+}
+.booking-item-name {
+    font-weight: 600;
+    font-size: 13px;
+    color: #333;
+}
+.booking-item-date {
+    font-size: 11px;
+    color: #6b7280;
+}
+.booking-item-details {
+    font-size: 12px;
+    color: #6b7280;
+    line-height: 1.4;
+}
+.booking-filter-tabs {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 12px;
+}
+.booking-filter-tab {
+    padding: 4px 10px;
+    font-size: 11px;
+    font-weight: 500;
+    border: 1px solid #d1d5db;
+    border-radius: 12px;
+    background: white;
+    cursor: pointer;
+    transition: all 0.15s;
+    color: #6b7280;
+}
+.booking-filter-tab.active {
+    background: #2563EB;
+    color: white;
+    border-color: #2563EB;
+}
+
+/* User indicator */
+.user-indicator {
+    font-size: 10px;
+    color: #9ca3af;
+    padding: 2px 8px;
+    text-align: center;
+}
+
     </style>
 </head>
 <body>
@@ -2183,6 +2340,9 @@
                     </button>
                     <button class="toggle-btn" onclick="showNotesPanel()" title="View all notes" style="flex: 0 0 auto; padding: 8px 12px;">
                         📝 Notes
+                    </button>
+                    <button class="toggle-btn" onclick="showBookingsPanel()" title="View bookings" style="flex: 0 0 auto; padding: 8px 12px;" id="bookingsBtn">
+                        🔖 Bookings
                     </button>
                 </div>
 
@@ -2247,6 +2407,16 @@
             <button class="swap-panel-close" onclick="closeNotesPanel()">&times;</button>
         </div>
         <div class="swap-panel-body" id="notesPanelBody"></div>
+    </div>
+
+    <!-- Bookings Panel -->
+    <div class="swap-overlay" id="bookingsPanelOverlay" onclick="closeBookingsPanel()" style="display:none;"></div>
+    <div class="swap-panel" id="bookingsPanel" style="display:none;">
+        <div class="swap-panel-header">
+            <h3>🔖 Bookings</h3>
+            <button class="swap-panel-close" onclick="closeBookingsPanel()">&times;</button>
+        </div>
+        <div class="swap-panel-body" id="bookingsPanelBody"></div>
     </div>
 
     <!-- City Activity Browser (Phase 1b) -->
@@ -2551,7 +2721,7 @@
             Object.assign(target, source);
         }
 
-        function loadDestination(key) {
+        async function loadDestination(key) {
             if (key === activeDestination) return;
             var dest = destinations[key];
             if (!dest) { showCopyToast('Destination not found'); return; }
@@ -2614,6 +2784,10 @@
             currentItinerary = null;
             currentDay = null;
 
+            // Load annotations (personal.json + browser localStorage)
+            await loadPersonalAnnotations(key);
+            loadBrowserAnnotations(key);
+
             // Rebuild categories and switch to default view
             categoryGroups.hotels = L.featureGroup();
             categoryGroups.restaurants = L.featureGroup();
@@ -2626,6 +2800,7 @@
             buildTabsUI();
             buildFilterChips();
             buildRegionFilter();
+            updateBookingsBadge();
         }
 
         function addDestination(key, config) {
@@ -3061,136 +3236,58 @@
         // CATEGORY LOADING & RENDERING
         // ============================================
 
+        // Build popup HTML for any category POI (shared helper)
+        function buildPoiPopupHtml(poi, categoryLabel) {
+            const destKey = activeDestination || 'default';
+            const safeName = poi.name.replace(/'/g, "\\'");
+            const noteTextareaId = 'note-' + poi.name.replace(/[^a-zA-Z0-9]/g, '_');
+            const existingNote = getNote(destKey, poi.name);
+            const poiAnnotations = getAnnotationsForPoi(destKey, poi.name);
+
+            let html = `<div class="popup-title">${escapeHtml(poi.name)}</div><div class="popup-type">${categoryLabel}</div><div style="font-size:11px;color:#666;margin-top:4px;">${escapeHtml(poi.desc || '')}</div>`;
+            if (poi.longDesc) html += `<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">${escapeHtml(poi.longDesc)}</div>`;
+            if (poi.gmapsUrl) html += `<div style="margin-top:6px;"><a href="${poi.gmapsUrl}" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>`;
+            // Annotations
+            html += buildAnnotationHtml(poiAnnotations);
+            html += buildAnnotationFormHtml(destKey, poi.name);
+            // Notes
+            html += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
+            html += '<div style="font-size:11px;font-weight:600;color:#6b7280;margin-bottom:4px">📝 My Notes</div>';
+            html += '<textarea id="' + noteTextareaId + '" style="width:100%;min-height:50px;border:1px solid #d1d5db;border-radius:4px;padding:4px;font-size:12px;resize:vertical;font-family:inherit" placeholder="Add a note...">' + escapeHtml(existingNote) + '</textarea>';
+            html += '<button onclick="setNote(\'' + destKey + '\',\'' + safeName + '\',document.getElementById(\'' + noteTextareaId + '\').value);this.textContent=\'Saved ✓\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
+            html += '</div>';
+            return html;
+        }
+
         function loadCategories() {
+            const destKey = activeDestination || 'default';
+
+            // Helper to create a category marker with annotation badge
+            function addCategoryMarker(poi, categoryKey, categoryLabel, radius) {
+                if (!poi.coord) return;
+                const hasAnnotation = getAnnotationsForPoi(destKey, poi.name).length > 0;
+                const marker = L.circleMarker(poi.coord, {
+                    radius: radius,
+                    fillColor: categoryColors[categoryKey],
+                    color: hasAnnotation ? '#f59e0b' : '#fff',
+                    weight: hasAnnotation ? 3 : 2,
+                    opacity: 1,
+                    fillOpacity: 0.8
+                });
+                marker.bindPopup(buildPoiPopupHtml(poi, categoryLabel));
+                categoryGroups[categoryKey].addLayer(marker);
+            }
+
             // Hotels
-            hotels.forEach(hotel => {
-                if (hotel.coord) {
-                    const marker = L.circleMarker(hotel.coord, {
-                        radius: 6,
-                        fillColor: categoryColors.hotels,
-                        color: '#fff',
-                        weight: 2,
-                        opacity: 1,
-                        fillOpacity: 0.8
-                    });
-                    let popupHtml = `<div class="popup-title">${escapeHtml(hotel.name)}</div><div class="popup-type">Hotel</div><div style="font-size:11px;color:#666;margin-top:4px;">${escapeHtml(hotel.desc || '')}</div>`;
-                    if (hotel.longDesc) popupHtml += `<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">${escapeHtml(hotel.longDesc)}</div>`;
-                    if (hotel.gmapsUrl) popupHtml += `<div style="margin-top:6px;"><a href="${hotel.gmapsUrl}" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>`;
-                    const existingNote = getNote(activeDestination || 'default', hotel.name);
-                    const noteTextareaId = 'note-' + hotel.name.replace(/[^a-zA-Z0-9]/g, '_');
-                    popupHtml += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
-                    popupHtml += '<div style="font-size:11px;font-weight:600;color:#6b7280;margin-bottom:4px">📝 My Notes</div>';
-                    popupHtml += '<textarea id="' + noteTextareaId + '" style="width:100%;min-height:50px;border:1px solid #d1d5db;border-radius:4px;padding:4px;font-size:12px;resize:vertical;font-family:inherit" placeholder="Add a note...">' + escapeHtml(existingNote) + '</textarea>';
-                    popupHtml += '<button onclick="setNote(\'' + (activeDestination || 'default') + '\',\'' + hotel.name.replace(/'/g, "\\'") + '\',document.getElementById(\'' + noteTextareaId + '\').value);this.textContent=\'Saved ✓\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
-                    popupHtml += '</div>';
-                    marker.bindPopup(popupHtml);
-                    categoryGroups.hotels.addLayer(marker);
-                }
-            });
-
+            hotels.forEach(h => addCategoryMarker(h, 'hotels', 'Hotel', 6));
             // Restaurants
-            restaurants.forEach(restaurant => {
-                if (restaurant.coord) {
-                    const marker = L.circleMarker(restaurant.coord, {
-                        radius: 5,
-                        fillColor: categoryColors.restaurants,
-                        color: '#fff',
-                        weight: 2,
-                        opacity: 1,
-                        fillOpacity: 0.8
-                    });
-                    let popupHtml = `<div class="popup-title">${escapeHtml(restaurant.name)}</div><div class="popup-type">Restaurant</div><div style="font-size:11px;color:#666;margin-top:4px;">${escapeHtml(restaurant.desc || '')}</div>`;
-                    if (restaurant.longDesc) popupHtml += `<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">${escapeHtml(restaurant.longDesc)}</div>`;
-                    if (restaurant.gmapsUrl) popupHtml += `<div style="margin-top:6px;"><a href="${restaurant.gmapsUrl}" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>`;
-                    const existingNote = getNote(activeDestination || 'default', restaurant.name);
-                    const noteTextareaId = 'note-' + restaurant.name.replace(/[^a-zA-Z0-9]/g, '_');
-                    popupHtml += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
-                    popupHtml += '<div style="font-size:11px;font-weight:600;color:#6b7280;margin-bottom:4px">📝 My Notes</div>';
-                    popupHtml += '<textarea id="' + noteTextareaId + '" style="width:100%;min-height:50px;border:1px solid #d1d5db;border-radius:4px;padding:4px;font-size:12px;resize:vertical;font-family:inherit" placeholder="Add a note...">' + escapeHtml(existingNote) + '</textarea>';
-                    popupHtml += '<button onclick="setNote(\'' + (activeDestination || 'default') + '\',\'' + restaurant.name.replace(/'/g, "\\'") + '\',document.getElementById(\'' + noteTextareaId + '\').value);this.textContent=\'Saved ✓\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
-                    popupHtml += '</div>';
-                    marker.bindPopup(popupHtml);
-                    categoryGroups.restaurants.addLayer(marker);
-                }
-            });
-
+            restaurants.forEach(r => addCategoryMarker(r, 'restaurants', 'Restaurant', 5));
             // Experiences
-            experiences.forEach(experience => {
-                if (experience.coord) {
-                    const marker = L.circleMarker(experience.coord, {
-                        radius: 5,
-                        fillColor: categoryColors.experiences,
-                        color: '#fff',
-                        weight: 2,
-                        opacity: 1,
-                        fillOpacity: 0.8
-                    });
-                    let popupHtml = `<div class="popup-title">${escapeHtml(experience.name)}</div><div class="popup-type">Experience</div><div style="font-size:11px;color:#666;margin-top:4px;">${escapeHtml(experience.desc || '')}</div>`;
-                    if (experience.longDesc) popupHtml += `<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">${escapeHtml(experience.longDesc)}</div>`;
-                    if (experience.gmapsUrl) popupHtml += `<div style="margin-top:6px;"><a href="${experience.gmapsUrl}" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>`;
-                    const existingNote = getNote(activeDestination || 'default', experience.name);
-                    const noteTextareaId = 'note-' + experience.name.replace(/[^a-zA-Z0-9]/g, '_');
-                    popupHtml += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
-                    popupHtml += '<div style="font-size:11px;font-weight:600;color:#6b7280;margin-bottom:4px">📝 My Notes</div>';
-                    popupHtml += '<textarea id="' + noteTextareaId + '" style="width:100%;min-height:50px;border:1px solid #d1d5db;border-radius:4px;padding:4px;font-size:12px;resize:vertical;font-family:inherit" placeholder="Add a note...">' + escapeHtml(existingNote) + '</textarea>';
-                    popupHtml += '<button onclick="setNote(\'' + (activeDestination || 'default') + '\',\'' + experience.name.replace(/'/g, "\\'") + '\',document.getElementById(\'' + noteTextareaId + '\').value);this.textContent=\'Saved ✓\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
-                    popupHtml += '</div>';
-                    marker.bindPopup(popupHtml);
-                    categoryGroups.experiences.addLayer(marker);
-                }
-            });
-
+            experiences.forEach(e => addCategoryMarker(e, 'experiences', 'Experience', 5));
             // Kid Friendly
-            kidFriendly.forEach(place => {
-                if (place.coord) {
-                    const marker = L.circleMarker(place.coord, {
-                        radius: 5,
-                        fillColor: categoryColors.kidFriendly,
-                        color: '#fff',
-                        weight: 2,
-                        opacity: 1,
-                        fillOpacity: 0.8
-                    });
-                    let popupHtml = `<div class="popup-title">${escapeHtml(place.name)}</div><div class="popup-type">Kid Friendly</div><div style="font-size:11px;color:#666;margin-top:4px;">${escapeHtml(place.desc || '')}</div>`;
-                    if (place.longDesc) popupHtml += `<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">${escapeHtml(place.longDesc)}</div>`;
-                    if (place.gmapsUrl) popupHtml += `<div style="margin-top:6px;"><a href="${place.gmapsUrl}" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>`;
-                    const existingNote = getNote(activeDestination || 'default', place.name);
-                    const noteTextareaId = 'note-' + place.name.replace(/[^a-zA-Z0-9]/g, '_');
-                    popupHtml += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
-                    popupHtml += '<div style="font-size:11px;font-weight:600;color:#6b7280;margin-bottom:4px">📝 My Notes</div>';
-                    popupHtml += '<textarea id="' + noteTextareaId + '" style="width:100%;min-height:50px;border:1px solid #d1d5db;border-radius:4px;padding:4px;font-size:12px;resize:vertical;font-family:inherit" placeholder="Add a note...">' + escapeHtml(existingNote) + '</textarea>';
-                    popupHtml += '<button onclick="setNote(\'' + (activeDestination || 'default') + '\',\'' + place.name.replace(/'/g, "\\'") + '\',document.getElementById(\'' + noteTextareaId + '\').value);this.textContent=\'Saved ✓\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
-                    popupHtml += '</div>';
-                    marker.bindPopup(popupHtml);
-                    categoryGroups.kidFriendly.addLayer(marker);
-                }
-            });
-
+            kidFriendly.forEach(k => addCategoryMarker(k, 'kidFriendly', 'Kid Friendly', 5));
             // Markets
-            markets.forEach(market => {
-                if (market.coord) {
-                    const marker = L.circleMarker(market.coord, {
-                        radius: 5,
-                        fillColor: categoryColors.markets,
-                        color: '#fff',
-                        weight: 2,
-                        opacity: 1,
-                        fillOpacity: 0.8
-                    });
-                    let popupHtml = `<div class="popup-title">${escapeHtml(market.name)}</div><div class="popup-type">Market</div><div style="font-size:11px;color:#666;margin-top:4px;">${escapeHtml(market.desc || '')}</div>`;
-                    if (market.longDesc) popupHtml += `<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">${escapeHtml(market.longDesc)}</div>`;
-                    if (market.gmapsUrl) popupHtml += `<div style="margin-top:6px;"><a href="${market.gmapsUrl}" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>`;
-                    const existingNote = getNote(activeDestination || 'default', market.name);
-                    const noteTextareaId = 'note-' + market.name.replace(/[^a-zA-Z0-9]/g, '_');
-                    popupHtml += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
-                    popupHtml += '<div style="font-size:11px;font-weight:600;color:#6b7280;margin-bottom:4px">📝 My Notes</div>';
-                    popupHtml += '<textarea id="' + noteTextareaId + '" style="width:100%;min-height:50px;border:1px solid #d1d5db;border-radius:4px;padding:4px;font-size:12px;resize:vertical;font-family:inherit" placeholder="Add a note...">' + escapeHtml(existingNote) + '</textarea>';
-                    popupHtml += '<button onclick="setNote(\'' + (activeDestination || 'default') + '\',\'' + market.name.replace(/'/g, "\\'") + '\',document.getElementById(\'' + noteTextareaId + '\').value);this.textContent=\'Saved ✓\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
-                    popupHtml += '</div>';
-                    marker.bindPopup(popupHtml);
-                    categoryGroups.markets.addLayer(marker);
-                }
-            });
+            markets.forEach(m => addCategoryMarker(m, 'markets', 'Market', 5));
 
             // Add all to map initially (categories view)
             categoryGroups.hotels.addTo(map);
@@ -3406,19 +3503,26 @@
                         
                         const itemIdx = dayData.items.indexOf(item);
                         const swapBtn = (item.type !== 'nap') ? '<button class="popup-swap-btn" onclick="openSwapPanel(\x27' + key + '\x27,' + dayData.day + ',' + itemIdx + ')">&#x1f504; Swap</button>' : '';
+                        const destKey = activeDestination || 'default';
                         const poiInfo = poiLookup[item.name] || {};
+                        const poiAnnotations = getAnnotationsForPoi(destKey, item.name);
+                        const safeName = item.name.replace(/'/g, "\\'");
+                        const itinNoteId = 'note-' + item.name.replace(/[^a-zA-Z0-9]/g, '_') + '_itin';
+                        const itinExistingNote = getNote(destKey, item.name);
+
                         let popupContent = '<div class="popup-title">' + escapeHtml(item.name) + '</div><div class="popup-type">' + formatType(item.type) + '</div><div style="font-size:11px;color:#666;margin-top:4px;">Day ' + dayData.day + '</div>';
                         if (poiInfo.desc) popupContent += '<div style="font-size:11px;color:#666;margin-top:4px;">' + escapeHtml(poiInfo.desc) + '</div>';
                         if (poiInfo.longDesc) popupContent += '<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">' + escapeHtml(poiInfo.longDesc) + '</div>';
                         if (poiInfo.gmapsUrl) popupContent += '<div style="margin-top:6px;"><a href="' + poiInfo.gmapsUrl + '" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>';
                         popupContent += swapBtn;
-                        // Notes textarea for itinerary popups
-                        const itinExistingNote = getNote(activeDestination || 'default', item.name);
-                        const itinNoteId = 'note-' + item.name.replace(/[^a-zA-Z0-9]/g, '_') + '_itin';
+                        // Annotations
+                        popupContent += buildAnnotationHtml(poiAnnotations);
+                        popupContent += buildAnnotationFormHtml(destKey, item.name);
+                        // Notes
                         popupContent += '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
-                        popupContent += '<div style="font-size:11px;font-weight:600;color:#6b7280;margin-bottom:4px">\u{1F4DD} My Notes</div>';
+                        popupContent += '<div style="font-size:11px;font-weight:600;color:#6b7280;margin-bottom:4px">📝 My Notes</div>';
                         popupContent += '<textarea id="' + itinNoteId + '" style="width:100%;min-height:50px;border:1px solid #d1d5db;border-radius:4px;padding:4px;font-size:12px;resize:vertical;font-family:inherit" placeholder="Add a note...">' + escapeHtml(itinExistingNote) + '</textarea>';
-                        popupContent += '<button onclick="setNote(\'' + (activeDestination || 'default') + '\',\'' + item.name.replace(/'/g, "\\'") + '\',document.getElementById(\'' + itinNoteId + '\').value);this.textContent=\'Saved \\u2713\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
+                        popupContent += '<button onclick="setNote(\'' + destKey + '\',\'' + safeName + '\',document.getElementById(\'' + itinNoteId + '\').value);this.textContent=\'Saved ✓\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
                         popupContent += '</div>';
                         marker.bindPopup(popupContent);
                         marker.addTo(map);
@@ -3844,12 +3948,36 @@
         // NOTES STORAGE FUNCTIONS
         // ============================================
 
+        // ============================================
+        // MULTI-USER & NOTES SYSTEM
+        // ============================================
+
+        let currentUser = 'default';
+        (function() {
+            try {
+                const params = new URLSearchParams(window.location.search);
+                currentUser = params.get('user') || 'default';
+            } catch(e) {}
+        })();
+
         function getNoteKey(destKey, poiName) {
-            return 'tripMap_notes_' + destKey + '_' + poiName.replace(/[^a-zA-Z0-9]/g, '_');
+            return 'tripMap_notes_' + currentUser + '_' + destKey + '_' + poiName.replace(/[^a-zA-Z0-9]/g, '_');
         }
 
         function getNote(destKey, poiName) {
-            return localStorage.getItem(getNoteKey(destKey, poiName)) || '';
+            // Check new namespaced key first, fall back to legacy key
+            const val = localStorage.getItem(getNoteKey(destKey, poiName));
+            if (val) return val;
+            // Legacy migration: check old key format (no user prefix)
+            const legacyKey = 'tripMap_notes_' + destKey + '_' + poiName.replace(/[^a-zA-Z0-9]/g, '_');
+            const legacyVal = localStorage.getItem(legacyKey);
+            if (legacyVal && currentUser === 'default') {
+                // Migrate to new key
+                localStorage.setItem(getNoteKey(destKey, poiName), legacyVal);
+                localStorage.removeItem(legacyKey);
+                return legacyVal;
+            }
+            return '';
         }
 
         function setNote(destKey, poiName, text) {
@@ -3864,11 +3992,21 @@
 
         function getAllNotes(destKey) {
             const notes = [];
+            const prefix = 'tripMap_notes_' + currentUser + '_' + destKey + '_';
+            const legacyPrefix = 'tripMap_notes_' + destKey + '_';
             for (let i = 0; i < localStorage.length; i++) {
                 const key = localStorage.key(i);
-                if (key.startsWith('tripMap_notes_' + destKey + '_')) {
-                    const poiName = key.replace('tripMap_notes_' + destKey + '_', '').replace(/_/g, ' ');
+                if (key.startsWith(prefix)) {
+                    const poiName = key.replace(prefix, '').replace(/_/g, ' ');
                     notes.push({ poiName, text: localStorage.getItem(key) });
+                } else if (currentUser === 'default' && key.startsWith(legacyPrefix) && !key.startsWith('tripMap_notes_default_')) {
+                    // Legacy notes (no user prefix) — only show for default user
+                    const poiPart = key.replace(legacyPrefix, '');
+                    // Ensure this isn't actually a user-prefixed key
+                    if (!poiPart.includes('tripMap_')) {
+                        const poiName = poiPart.replace(/_/g, ' ');
+                        notes.push({ poiName, text: localStorage.getItem(key) });
+                    }
                 }
             }
             return notes;
@@ -3882,14 +4020,17 @@
                     items.forEach(item => {
                         const poiName = item.getAttribute('data-poi-name');
                         const hasNote = getNote(activeDestination, poiName);
+                        const hasAnnotation = getAnnotationsForPoi(activeDestination, poiName).length > 0;
                         const noteIcon = item.querySelector('.note-indicator');
-                        if (hasNote) {
+                        if (hasNote || hasAnnotation) {
                             if (!noteIcon) {
                                 const icon = document.createElement('span');
                                 icon.className = 'note-indicator';
-                                icon.textContent = ' 📝';
-                                icon.title = 'Has notes';
+                                icon.textContent = hasAnnotation ? ' 🔖' : ' 📝';
+                                icon.title = hasAnnotation ? 'Has booking' : 'Has notes';
                                 item.appendChild(icon);
+                            } else {
+                                noteIcon.textContent = hasAnnotation ? ' 🔖' : ' 📝';
                             }
                         } else {
                             if (noteIcon) noteIcon.remove();
@@ -3903,10 +4044,9 @@
             const notes = getAllNotes(activeDestination);
             let html = '<div style="padding:16px"><h3 style="margin:0 0 12px;font-size:16px;">📝 My Notes';
             const destInfo = destinations[activeDestination];
-            if (destInfo) {
-                html += ' — ' + escapeHtml(destInfo.name || activeDestination);
-            }
+            if (destInfo) html += ' — ' + escapeHtml(destInfo.name || activeDestination);
             html += '</h3>';
+            if (currentUser !== 'default') html += '<div class="user-indicator">Viewing as: ' + escapeHtml(currentUser) + '</div>';
             if (notes.length === 0) {
                 html += '<p style="color:#9ca3af;font-size:14px;margin:0;">No notes yet. Click on any place to add a note.</p>';
             } else {
@@ -3917,27 +4057,320 @@
                     html += '</div>';
                 });
             }
+            // Import/export buttons
+            html += '<div style="margin-top:16px;border-top:1px solid #e5e7eb;padding-top:12px;display:flex;gap:8px;">';
+            html += '<button onclick="exportNotesAndAnnotations()" style="flex:1;padding:6px 10px;font-size:11px;font-weight:600;background:#2563EB;color:white;border:none;border-radius:6px;cursor:pointer;">Export All</button>';
+            html += '<button onclick="document.getElementById(\'importFileInput\').click()" style="flex:1;padding:6px 10px;font-size:11px;font-weight:600;background:white;color:#2563EB;border:1.5px solid #2563EB;border-radius:6px;cursor:pointer;">Import</button>';
+            html += '<input type="file" id="importFileInput" accept=".json" style="display:none" onchange="importNotesAndAnnotations(this.files[0])">';
+            html += '</div>';
             html += '</div>';
             const panel = document.getElementById('notesPanel');
             const overlay = document.getElementById('notesPanelOverlay');
-            if (panel) {
-                panel.innerHTML = html;
-                panel.style.display = 'flex';
-            }
-            if (overlay) {
-                overlay.style.display = 'block';
-            }
+            if (panel) { panel.innerHTML = html; panel.style.display = 'flex'; }
+            if (overlay) { overlay.style.display = 'block'; }
         }
 
         function closeNotesPanel() {
             const panel = document.getElementById('notesPanel');
             const overlay = document.getElementById('notesPanelOverlay');
-            if (panel) {
-                panel.style.display = 'none';
+            if (panel) panel.style.display = 'none';
+            if (overlay) overlay.style.display = 'none';
+        }
+
+        // ============================================
+        // PERSONAL ANNOTATIONS SYSTEM
+        // ============================================
+
+        let personalAnnotations = {};  // destKey → array (from personal.json)
+        let browserAnnotations = {};   // destKey → array (from localStorage)
+
+        async function loadPersonalAnnotations(destKey) {
+            try {
+                const resp = await fetch('personal/' + destKey + '.json');
+                if (resp.ok) {
+                    const data = await resp.json();
+                    personalAnnotations[destKey] = data.annotations || [];
+                    return personalAnnotations[destKey];
+                }
+            } catch(e) {}
+            personalAnnotations[destKey] = [];
+            return [];
+        }
+
+        function loadBrowserAnnotations(destKey) {
+            try {
+                const raw = localStorage.getItem('tripMap_annotations_' + currentUser + '_' + destKey);
+                if (raw) {
+                    browserAnnotations[destKey] = JSON.parse(raw);
+                    return browserAnnotations[destKey];
+                }
+            } catch(e) {}
+            browserAnnotations[destKey] = [];
+            return [];
+        }
+
+        function saveBrowserAnnotations(destKey) {
+            try {
+                const arr = browserAnnotations[destKey] || [];
+                if (arr.length > 0) {
+                    localStorage.setItem('tripMap_annotations_' + currentUser + '_' + destKey, JSON.stringify(arr));
+                } else {
+                    localStorage.removeItem('tripMap_annotations_' + currentUser + '_' + destKey);
+                }
+            } catch(e) {}
+        }
+
+        function getAllAnnotations(destKey) {
+            const staticAnns = personalAnnotations[destKey] || [];
+            const browserAnns = browserAnnotations[destKey] || [];
+            return staticAnns.concat(browserAnns).sort((a, b) => {
+                if (!a.date) return 1;
+                if (!b.date) return -1;
+                return a.date.localeCompare(b.date);
+            });
+        }
+
+        function getAnnotationsForPoi(destKey, poiName) {
+            return getAllAnnotations(destKey).filter(a => a.poiName === poiName);
+        }
+
+        function formatAnnotationDate(dateStr) {
+            if (!dateStr) return '';
+            try {
+                const d = new Date(dateStr + (dateStr.includes('T') ? '' : 'T00:00:00'));
+                return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+            } catch(e) { return dateStr; }
+        }
+
+        function getAnnotationTypeIcon(type, subtype) {
+            if (type === 'reservation') {
+                if (subtype === 'hotel') return '🏨';
+                if (subtype === 'restaurant') return '🍽️';
+                if (subtype === 'activity') return '🎟️';
+                return '📋';
             }
-            if (overlay) {
-                overlay.style.display = 'none';
+            if (type === 'ticket') return '🎫';
+            return '📌';
+        }
+
+        function buildAnnotationHtml(annotations) {
+            if (!annotations || annotations.length === 0) return '';
+            let html = '<div style="margin-top:8px;border-top:1px solid #e5e7eb;padding-top:8px">';
+            html += '<div style="font-size:11px;font-weight:600;color:#92400e;margin-bottom:4px">🔖 Bookings</div>';
+            annotations.forEach(ann => {
+                const icon = getAnnotationTypeIcon(ann.type, ann.subtype);
+                const dateStr = formatAnnotationDate(ann.date);
+                const endDateStr = ann.endDate ? ' → ' + formatAnnotationDate(ann.endDate) : '';
+                const statusClass = (ann.status || 'confirmed').toLowerCase();
+                html += '<div class="annotation-card">';
+                html += '<div class="annotation-card-header">';
+                html += '<span>' + icon + ' ' + escapeHtml(ann.subtype || ann.type || '') + '</span>';
+                html += '<span class="annotation-status ' + statusClass + '">' + escapeHtml(ann.status || 'confirmed') + '</span>';
+                html += '</div>';
+                if (dateStr) html += '<div style="font-size:10px;color:#b45309;margin-bottom:2px">' + dateStr + endDateStr + '</div>';
+                if (ann.details) html += '<div class="annotation-card-details">' + escapeHtml(ann.details) + '</div>';
+                if (ann.source === 'browser') {
+                    html += '<button onclick="deleteBrowserAnnotation(\'' + (activeDestination || 'default') + '\',\'' + (ann.id || '').replace(/'/g, "\\'") + '\')" style="margin-top:4px;padding:1px 6px;font-size:9px;background:none;color:#dc2626;border:1px solid #fecaca;border-radius:3px;cursor:pointer;">Remove</button>';
+                }
+                html += '</div>';
+            });
+            html += '</div>';
+            return html;
+        }
+
+        function buildAnnotationFormHtml(destKey, poiName) {
+            const safePoi = poiName.replace(/'/g, "\\'");
+            const safeDest = (destKey || 'default').replace(/'/g, "\\'");
+            let html = '<div style="margin-top:6px">';
+            html += '<button onclick="this.style.display=\'none\';this.nextElementSibling.style.display=\'block\'" style="padding:3px 8px;font-size:10px;font-weight:600;background:#fffbeb;color:#92400e;border:1px solid #fde68a;border-radius:4px;cursor:pointer;width:100%">+ Add Booking</button>';
+            html += '<div class="annotation-form" style="display:none">';
+            html += '<label>Type</label><select id="annFormType_' + safePoi.replace(/[^a-zA-Z0-9]/g, '_') + '"><option value="reservation">Reservation</option><option value="ticket">Ticket</option><option value="note">Note</option></select>';
+            html += '<label>Subtype</label><select id="annFormSubtype_' + safePoi.replace(/[^a-zA-Z0-9]/g, '_') + '"><option value="restaurant">Restaurant</option><option value="hotel">Hotel</option><option value="activity">Activity</option><option value="museum">Museum</option><option value="tour">Tour</option><option value="show">Show</option></select>';
+            html += '<label>Date</label><input type="date" id="annFormDate_' + safePoi.replace(/[^a-zA-Z0-9]/g, '_') + '">';
+            html += '<label>End Date (hotels)</label><input type="date" id="annFormEndDate_' + safePoi.replace(/[^a-zA-Z0-9]/g, '_') + '">';
+            html += '<label>Details</label><input type="text" id="annFormDetails_' + safePoi.replace(/[^a-zA-Z0-9]/g, '_') + '" placeholder="Confirmation #, party size, notes...">';
+            html += '<label>Status</label><select id="annFormStatus_' + safePoi.replace(/[^a-zA-Z0-9]/g, '_') + '"><option value="confirmed">Confirmed</option><option value="pending">Pending</option></select>';
+            html += '<button onclick="saveBrowserAnnotationFromForm(\'' + safeDest + '\',\'' + safePoi + '\')" style="margin-top:8px;padding:4px 10px;font-size:11px;font-weight:600;background:#f59e0b;color:white;border:none;border-radius:4px;cursor:pointer;width:100%">Save Booking</button>';
+            html += '</div></div>';
+            return html;
+        }
+
+        function saveBrowserAnnotationFromForm(destKey, poiName) {
+            const safeId = poiName.replace(/[^a-zA-Z0-9]/g, '_');
+            const type = document.getElementById('annFormType_' + safeId).value;
+            const subtype = document.getElementById('annFormSubtype_' + safeId).value;
+            const date = document.getElementById('annFormDate_' + safeId).value;
+            const endDate = document.getElementById('annFormEndDate_' + safeId).value;
+            const details = document.getElementById('annFormDetails_' + safeId).value;
+            const status = document.getElementById('annFormStatus_' + safeId).value;
+            if (!details && !date) { showCopyToast('Please add a date or details'); return; }
+            const ann = {
+                id: destKey + '_' + safeId + '_' + Date.now(),
+                poiName: poiName,
+                type: type,
+                subtype: subtype,
+                status: status,
+                date: date || null,
+                endDate: endDate || null,
+                details: details,
+                addedBy: currentUser,
+                source: 'browser'
+            };
+            if (!browserAnnotations[destKey]) browserAnnotations[destKey] = [];
+            browserAnnotations[destKey].push(ann);
+            saveBrowserAnnotations(destKey);
+            showCopyToast('Booking saved!');
+            updateNoteIndicators();
+            updateBookingsBadge();
+        }
+
+        function deleteBrowserAnnotation(destKey, annId) {
+            if (!confirm('Remove this booking?')) return;
+            if (browserAnnotations[destKey]) {
+                browserAnnotations[destKey] = browserAnnotations[destKey].filter(a => a.id !== annId);
+                saveBrowserAnnotations(destKey);
+                updateNoteIndicators();
+                updateBookingsBadge();
+                showCopyToast('Booking removed');
             }
+        }
+
+        // Bookings panel
+        function updateBookingsBadge() {
+            const btn = document.getElementById('bookingsBtn');
+            if (!btn) return;
+            const count = getAllAnnotations(activeDestination).length;
+            const badge = btn.querySelector('.bookings-count-badge');
+            if (count > 0) {
+                if (badge) { badge.textContent = count; }
+                else { btn.innerHTML = '🔖 Bookings <span class="bookings-count-badge">' + count + '</span>'; }
+            } else {
+                if (badge) badge.remove();
+            }
+        }
+
+        function showBookingsPanel() {
+            const allAnns = getAllAnnotations(activeDestination);
+            const now = new Date().toISOString().split('T')[0];
+            let html = '<div style="padding:16px">';
+            html += '<h3 style="margin:0 0 8px;font-size:16px;">🔖 Bookings';
+            const destInfo = destinations[activeDestination];
+            if (destInfo) html += ' — ' + escapeHtml(destInfo.name || activeDestination);
+            html += '</h3>';
+            if (currentUser !== 'default') html += '<div class="user-indicator">Viewing as: ' + escapeHtml(currentUser) + '</div>';
+            if (allAnns.length === 0) {
+                html += '<p style="color:#9ca3af;font-size:14px;margin:0;">No bookings yet. Click on any place and use "Add Booking" to add one, or ask Claude to build a personal.json file from your confirmations.</p>';
+            } else {
+                // Split into upcoming and past
+                const upcoming = allAnns.filter(a => !a.date || a.date >= now);
+                const past = allAnns.filter(a => a.date && a.date < now);
+                if (upcoming.length > 0) {
+                    html += '<div style="font-size:12px;font-weight:600;color:#6b7280;margin:12px 0 6px;text-transform:uppercase;letter-spacing:0.5px;">Upcoming</div>';
+                    upcoming.forEach(ann => { html += buildBookingItemHtml(ann); });
+                }
+                if (past.length > 0) {
+                    html += '<div style="font-size:12px;font-weight:600;color:#6b7280;margin:12px 0 6px;text-transform:uppercase;letter-spacing:0.5px;">Past</div>';
+                    past.forEach(ann => { html += buildBookingItemHtml(ann); });
+                }
+            }
+            html += '</div>';
+            const panel = document.getElementById('bookingsPanel');
+            const overlay = document.getElementById('bookingsPanelOverlay');
+            if (panel) { panel.innerHTML = html; panel.style.display = 'flex'; }
+            if (overlay) { overlay.style.display = 'block'; }
+        }
+
+        function buildBookingItemHtml(ann) {
+            const icon = getAnnotationTypeIcon(ann.type, ann.subtype);
+            const dateStr = formatAnnotationDate(ann.date);
+            const endDateStr = ann.endDate ? ' → ' + formatAnnotationDate(ann.endDate) : '';
+            const statusClass = (ann.status || 'confirmed').toLowerCase();
+            // Find POI coords for map centering
+            const poiInfo = poiLookup[ann.poiName];
+            let clickAction = '';
+            if (ann.poiName && poiInfo) {
+                clickAction = 'closeBookingsPanel()';
+            }
+            let html = '<div class="booking-item" onclick="' + clickAction + '">';
+            html += '<div class="booking-item-header">';
+            html += '<span class="booking-item-name">' + icon + ' ' + escapeHtml(ann.poiName || 'Unknown') + '</span>';
+            html += '<span class="annotation-status ' + statusClass + '">' + escapeHtml(ann.status || '') + '</span>';
+            html += '</div>';
+            if (dateStr) html += '<div class="booking-item-date">' + dateStr + endDateStr + '</div>';
+            if (ann.details) html += '<div class="booking-item-details">' + escapeHtml(ann.details) + '</div>';
+            if (ann.source === 'browser') {
+                html += '<div style="margin-top:4px"><button onclick="event.stopPropagation();deleteBrowserAnnotation(\'' + (activeDestination || 'default').replace(/'/g, "\\'") + '\',\'' + (ann.id || '').replace(/'/g, "\\'") + '\');showBookingsPanel()" style="padding:2px 6px;font-size:9px;background:none;color:#dc2626;border:1px solid #fecaca;border-radius:3px;cursor:pointer;">Remove</button></div>';
+            }
+            html += '</div>';
+            return html;
+        }
+
+        function closeBookingsPanel() {
+            const panel = document.getElementById('bookingsPanel');
+            const overlay = document.getElementById('bookingsPanelOverlay');
+            if (panel) panel.style.display = 'none';
+            if (overlay) overlay.style.display = 'none';
+        }
+
+        // Import/Export
+        function exportNotesAndAnnotations() {
+            const notes = getAllNotes(activeDestination);
+            const anns = browserAnnotations[activeDestination] || [];
+            const data = {
+                destination: activeDestination,
+                user: currentUser,
+                exportDate: new Date().toISOString().split('T')[0],
+                notes: notes,
+                browserAnnotations: anns
+            };
+            const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = 'travel-notes-' + activeDestination + '-' + data.exportDate + '.json';
+            link.click();
+            URL.revokeObjectURL(url);
+            showCopyToast('Exported ' + notes.length + ' notes + ' + anns.length + ' bookings');
+        }
+
+        function importNotesAndAnnotations(file) {
+            if (!file) return;
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const data = JSON.parse(e.target.result);
+                    let noteCount = 0, annCount = 0;
+                    // Import notes
+                    if (data.notes && Array.isArray(data.notes)) {
+                        data.notes.forEach(n => {
+                            if (n.poiName && n.text) {
+                                setNote(activeDestination, n.poiName, n.text);
+                                noteCount++;
+                            }
+                        });
+                    }
+                    // Import browser annotations
+                    if (data.browserAnnotations && Array.isArray(data.browserAnnotations)) {
+                        if (!browserAnnotations[activeDestination]) browserAnnotations[activeDestination] = [];
+                        const existingIds = new Set(browserAnnotations[activeDestination].map(a => a.id));
+                        data.browserAnnotations.forEach(ann => {
+                            if (!existingIds.has(ann.id)) {
+                                ann.source = 'browser';
+                                browserAnnotations[activeDestination].push(ann);
+                                annCount++;
+                            }
+                        });
+                        saveBrowserAnnotations(activeDestination);
+                    }
+                    showCopyToast('Imported ' + noteCount + ' notes + ' + annCount + ' bookings');
+                    updateNoteIndicators();
+                    updateBookingsBadge();
+                    showNotesPanel(); // Refresh the panel
+                } catch(err) {
+                    showCopyToast('Import failed: invalid file');
+                }
+            };
+            reader.readAsText(file);
         }
 
         // ============================================
