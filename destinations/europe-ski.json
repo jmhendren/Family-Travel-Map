@@ -19,7 +19,12 @@
       "longDesc": "A luxury property with world-class wine service and wellness for gourmands seeking refined mountain culture.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aman%20Rosa%20Alpina&center=46.571428,11.931175999999999",
       "placeId": "ChIJt9LEx0o5eEcRGuzlID984rI",
-      "address": "Strada Micura de Rue, 20, 39036 San Cassiano BZ, Italy"
+      "address": "Strada Micura de Rue, 20, 39036 San Cassiano BZ, Italy",
+      "rating": 4.5,
+      "ratingCount": 287,
+      "website": "https://www.aman.com/resorts/aman-rosa-alpina?utm_source=Google&utm_medium=Yext&utm_campaign=yext_listing&utm_id=GMB&y_source=1_MTg2MDI1NjktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "photoRef": "places/ChIJt9LEx0o5eEcRGuzlID984rI/photos/AcnlKN2rdgoqP4AviOenwifuVxNFkRDcuB034Hv56xyN5Rw49tcofTSuVo0_X0W2fevk04Fpqv9wMEJnxN_zKyHYsZp5ou2VHlE4E3dBXKJzVaUMlxpOo9h6d6MWLAU3bJF8rnibYqFRmv8JcWXGhAKvitnbGRXlr49JtqgrG1LsC_3Oyb2BLjDV2XdpN8RjJxo2nDDti0tGe46j1HpWiUCaaWI0XqpqRldYln3eg8DMySAZh5LcMZTmj-_wxenwD8jjUf8Aqc5XJ_mSMgbEdS4rURxEEq27nyGSJaxGFaDmfE6xFg",
+      "photoAttribution": "Aman Rosa Alpina"
     },
     {
       "name": "Lagació Hotel Mountain Residence",
@@ -31,7 +36,12 @@
       "longDesc": "Spacious apartment-style suites perfect for families, with easy access to the Sellaronda ski circuit and Alta Badia's renowned slopes.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lagaci%C3%B3%20Hotel%20Mountain%20Residence&center=46.5702466,11.933834300000001",
       "placeId": "ChIJ4Sr6dUo5eEcRtpK5ClbGjZo",
-      "address": "Strada Micurà de Rü, 48, 39036 Badia BZ, Italy"
+      "address": "Strada Micurà de Rü, 48, 39036 Badia BZ, Italy",
+      "rating": 4.7,
+      "ratingCount": 129,
+      "website": "http://www.lagacio.com/",
+      "photoRef": "places/ChIJ4Sr6dUo5eEcRtpK5ClbGjZo/photos/AcnlKN3VE1TYJrX7vPXOZaK097x_7-yL27sMbQDH0bneeAwniwcgZs03SXwaB4a1XWUDpuCopP5g8XXr3R3G_1lZvVGJwJn54peFeLiBFz_gsMFBEXXyH4Ny7WMdeLDWrN2fyQGeF0kOHflwYGPFa11s33PzR9ICUsBWTqOdBP1xonUXylE6moP7P4NIGidLuFHjlUhjQHE1jA-Tfq0i2Trz8FphsHi6ctQYqDXHPYVSj7GhArwU78vaarYdNMzAaWjtxqW6B6jD3Ejcbtxl-pGD_v8KxJZY_cFAqoqJWGStD-B1tOeiCLH5pPaM_-3vzUAXQPAb0tRtFnHIhgm7-gXaTUvK41HmjsncQYTSNvydM1lJSRQerPUG5HtkhM4s5vqUx0WUw8k2LdLxGzyoPgMEvrDujbYGVHx1MnsQZMhBBzNUtnve",
+      "photoAttribution": "Matteo Scheitz Violi"
     },
     {
       "name": "Hotel La Perla",
@@ -43,7 +53,21 @@
       "longDesc": "A celebrated family property in the Dolomites featuring one of Europe's most extensive wine cellars and Michelin-recognized cuisine.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20La%20Perla&center=47.6928112,9.2704322",
       "placeId": "ChIJ-bDKfW_4mkcR40olkPxnnCE",
-      "address": "Seepromenade 8, 88709 Meersburg, Germany"
+      "address": "Seepromenade 8, 88709 Meersburg, Germany",
+      "rating": 2.7,
+      "ratingCount": 163,
+      "website": "http://hotel-laperla.de/",
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "photoRef": "places/ChIJ-bDKfW_4mkcR40olkPxnnCE/photos/AcnlKN3d4LYjnj2Ea7hD-gSKVOI0E7iCREz1AuA50YN9hjF5LP1s-_gq6fshv1k98KZDX6pk5bAiEkthxT6UIsv_Lcc7tBXBdHL181B10ti1uc1s1PgrXVf9KV9BexEUZmcMuIpnCCGD0PhGrM8IB8GWzRr1TFWy3e2VavUVXmhML9vaNg0efi4HYjxYWKRfPAEFJKFc54oiOb9LNaEMk4f7J8zVTl4yJCJBpIvLtULzQl88jPVgSzkjeBUhO3KTbS30ULpZMamkwCBuwCpxLpQx-NKgXFDRTjAPKkFqwOSF_9ZKAZHS3IyKOUNOmSoaOZuQWuzQmHfHaAEGFNjDK_5Z26BhxSEC2kdP6WsJhXvOiUtnyK8KhPi5VZT3_DVi5vgMkOXqGKsUhCA6OX_uqDMd5K4EF7bp0m4d4e4CKFMssrJolw",
+      "photoAttribution": "吳柏儀"
     },
     {
       "name": "Badia Hill",
@@ -55,7 +79,12 @@
       "longDesc": "A stylish modern boutique with rooftop pool and Michelin-starred dining for alpine comfort.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Badia%20Hill&center=46.6066498,11.8948187",
       "placeId": "ChIJSRWcess9eEcRA1BzRa8fPdI",
-      "address": "Str. Damez, 2A, 39036 Badia BZ, Italy"
+      "address": "Str. Damez, 2A, 39036 Badia BZ, Italy",
+      "rating": 4.8,
+      "ratingCount": 252,
+      "website": "http://www.badiahill.com/",
+      "photoRef": "places/ChIJSRWcess9eEcRA1BzRa8fPdI/photos/AcnlKN2k_jA66jp8p4ay1RRdOUnBiKJ_FQu1K3lOtnt7kiMWgjzAfZEU9CDS6xROfX55xEkfFaRzwrrwlCkq3RLrJNeC0Snkz3wI8KG9R53UWt0nrfMaThBBQVpIJWsNh76BKfQS2eDBqK8r4kYtw3o1dP-4AJx0j_a0nDf8plprDYO4P0jdjI5L8MHnC2MnjArMRt7LLiS1tGB4NFBhReC6VkJd27EuEO8ZnDFwiFJs8ImmR_BqXpFOt_go5B6NwVFJL-6DK-bjke_dOLoA9cGXpYlrFTEU4lCeeCyA-FQRXBZ6aQ",
+      "photoAttribution": "Hotel Badia Hill"
     },
     {
       "name": "Hotel ChristiAnia",
@@ -67,7 +96,12 @@
       "longDesc": "A refined lodge blending classical charm with contemporary design, known for polished service and comprehensive spa facilities.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20ChristiAnia&center=46.5821724,11.9036979",
       "placeId": "ChIJHZyaS5c-eEcRYGzpBz9Uy8c",
-      "address": "Strada Colz, 109, 39030 La Villa BZ, Italy"
+      "address": "Strada Colz, 109, 39030 La Villa BZ, Italy",
+      "rating": 4.7,
+      "ratingCount": 192,
+      "website": "https://www.christiania.it/",
+      "photoRef": "places/ChIJHZyaS5c-eEcRYGzpBz9Uy8c/photos/AcnlKN3PhbCJTl6xW3SLvdWxoevSdP4w_CJgVP71_kzlwfufIfEyoSOZiENxPE6f2wv7e-JoZiq_W3MSkHBe-1ImgV06gJ35g9pqh5ANNRgSa-xdnBHxqwam_426zppQwkPBDLaz6y2RqR5r0-f17N0WbbLtJRAZc5nz3P9Dk6TMT3Rr5Bat0kCQTNSykkhb0j6wJGO7iokm5KFXqbH8f8df2wlDhV2drkSRulwbTIC7lNt1zg1kJ2VXFadZagJemJHDJq83zWY01gNtamcnKEX1Omoidv06X6yIfOFnqyfc_GaVNk23zsbwvzzzMzyuQX47-FwJT7vIgub12rAU0eVTZVngSqr2NQMnA9XwnGsqBGcaY9LFq3W-tOmgtr2kNHowjvGnwH1StheYVTS4PQE3wFWFQi-UeucxQDW1mIql9Z4hdlJF",
+      "photoAttribution": "Darko Pejchinov"
     },
     {
       "name": "Ciasa Salares",
@@ -79,7 +113,21 @@
       "longDesc": "A charming property celebrating the region's cheese and wine heritage through curated menus and cozy alpine design.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ciasa%20Salares&center=46.561301,11.955908899999999",
       "placeId": "ChIJGzV32RY5eEcRiIbdQx1sweM",
-      "address": "Strada Prè de Vì, 31, 39030 San Cassiano BZ, Italy"
+      "address": "Strada Prè de Vì, 31, 39030 San Cassiano BZ, Italy",
+      "rating": 4.8,
+      "ratingCount": 292,
+      "website": "http://www.ciasasalares.it/",
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "photoRef": "places/ChIJGzV32RY5eEcRiIbdQx1sweM/photos/AcnlKN0_tmr2FoKerSzOQVdgEUq7lcMVrSVb44vur8Gv6VFlQxyiBomflTf26GEgV0fZKqH7fsVBCy4QUuEEnWP5MbUTCcFmZ674Sk3VMl0g_piOSR48e6zbOsl0IBeAmu3QvKTZ-40bkgJZxxnQZpHlDeiyKFDKnNeGFW2fm8RoYcZ-dK4w_8Err83jQt8KHUB6rzrm6ZGj71eVLXU4IPNNa-qJSxMRxSUflR6biIdFRTNHyZXfyA8VpXVIWRNpt7sC_lYD2HL18zcFzhxK1EpSafmsR26NcBLWSl7jkV1zRy6xeA",
+      "photoAttribution": "Ciasa Salares"
     },
     {
       "name": "Hotel Tofana",
@@ -91,7 +139,12 @@
       "longDesc": "A welcoming mountain hotel in San Cassiano with strong family amenities and wellness facilities balancing active skiing with restorative downtime.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Tofana&center=46.5245792,12.1133051",
       "placeId": "ChIJ7TofS641eEcRCjCvE-7JtgY",
-      "address": "Località Pocol, 40, 32043 Cortina d'Ampezzo BL, Italy"
+      "address": "Località Pocol, 40, 32043 Cortina d'Ampezzo BL, Italy",
+      "rating": 4.9,
+      "ratingCount": 115,
+      "website": "http://www.hoteltofana-cortina.it/",
+      "photoRef": "places/ChIJ7TofS641eEcRCjCvE-7JtgY/photos/AcnlKN0Bud1rlZ-X5rEhua-c3CDOuCeAZK3dy6XRybAkVcQqcUVjV5HPBQknslSCxmXVX31cdEKCr1ase-Wq1fyIKweFJKIdjpEqIV1XeGsPyxTMaOmkKwaBZjHKvXWMs1bL_GTa8bq3cY3kgd7SENjkugoyHimdfmRhJhzE0suRM_rENpPeiOXaOrQIfp8b1DRaqQhUP_JcmoS9xQ671yhaz7okxuni3rb1EFrCIE1Krxyn2MGEibLtPbAqRa8LU5XENwYgO02Nf47cqE3TV4fSNWuuMBrnzjMIW46UBFIUdIl9Yw",
+      "photoAttribution": "Hotel Tofana Cortina"
     },
     {
       "name": "The Crystal VAYA Unique",
@@ -103,7 +156,12 @@
       "longDesc": "An on-piste gem in the Ötztal with heated indoor-outdoor pools, direct slope access, and sustainability-focused amenities.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Crystal%20VAYA%20Unique&center=46.875184399999995,11.032143",
       "placeId": "ChIJD3OIGX3MgkcRK7uEbbTtxqU",
-      "address": "Gurglerstraße 90, 6456 Obergurgl, Austria"
+      "address": "Gurglerstraße 90, 6456 Obergurgl, Austria",
+      "rating": 4.3,
+      "ratingCount": 435,
+      "website": "https://www.vayaresorts.com/hotel/vaya-unique-the-crystal/",
+      "photoRef": "places/ChIJD3OIGX3MgkcRK7uEbbTtxqU/photos/AcnlKN34btKaK_VLwceYgTzPioJGZF4nREkQVbgpiNcZKfcr5FoGibTnc59oyR4vgjguaGqscvoj8YAAOAuNozvllI6Dtc9asVe8tM6EkDqxPyJgRcYDzHdC7AZzHf8z_zdrBEUA1Qz5exem7f-9kK3ESbL1DwjGOAHlGvCHHlrSZPkGrRhF-QYB-Zsi1k6tAGE5MIWTnnJFNV9tVnqmyUoSg6yPU5Mh5qj27gMiz64dcwlszE34qF49k2fRyM59kAR9rk3Kn9awDfPyM56ksIHoHa55CeFZR9VjKHz_dY5h3lFAwA",
+      "photoAttribution": "The Crystal VAYA Unique"
     },
     {
       "name": "Alpen-Wellness Resort Hochfirst",
@@ -115,7 +173,21 @@
       "longDesc": "A high-altitude wellness sanctuary with snow-reliable positioning and extensive spa facilities, ideal for families mixing skiing with thermal recovery.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alpen-Wellness%20Resort%20Hochfirst&center=46.8736366,11.030838600000001",
       "placeId": "ChIJmRiwt3rMgkcR-ZxjZuLL-Kk",
-      "address": "Gurglerstraße 123, 6456 Obergurgl, Austria"
+      "address": "Gurglerstraße 123, 6456 Obergurgl, Austria",
+      "rating": 4.7,
+      "ratingCount": 179,
+      "website": "https://www.hochfirst.com/",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJmRiwt3rMgkcR-ZxjZuLL-Kk/photos/AcnlKN1aw9dlogIHkecC6cd2UfXeXpL9NCSN2vLCPIxnSaQOSGYD3gra2XHkj2rytFQJ138M8mLV3k2C1inlmzaxchhjkKU0-Uhx8unIsHxhNrLJdoKDXvPYXMCve1HSOv2apLQXguYP5y5d5sjzGCJxwsjS3YlPxICDU6qWPEdSzZWJe_gRpF8U4tPs78Wn5rbZQpNcDZJIRalNDyG7oaqQEvb3sY3vkCJBIAICzofONMCZ48e-FqXo1Mmy2U64HyxPzbjGEHyx5QL3EgZEFhxyjD6sxrvIu9IMigFcfVaAnl2f4A",
+      "photoAttribution": "Alpen-Wellness Resort Hochfirst"
     },
     {
       "name": "Hotel Bellevue Obergurgl",
@@ -127,7 +199,12 @@
       "longDesc": "An elegant Obergurgl base offering world-class wellness treatments in a reliable snow zone, perfect for combining adventure with relaxation.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Bellevue%20Obergurgl&center=46.8705442,11.028063399999999",
       "placeId": "ChIJ3S5QzWTMgkcRfQLp3b4vlM0",
-      "address": "Kressbrunnenweg 4, 6456 Obergurgl, Austria"
+      "address": "Kressbrunnenweg 4, 6456 Obergurgl, Austria",
+      "rating": 4.6,
+      "ratingCount": 104,
+      "website": "http://www.austria-bellevue.com/",
+      "photoRef": "places/ChIJ3S5QzWTMgkcRfQLp3b4vlM0/photos/AcnlKN3E5B45dpZd1P_73CoQeqwOsr610z9ba492MGZxZPkwE5sBCibe8uFPzpXGMHnCvljHXwgoN-VFyDYA1fc8AHLbjUNWtlBQxOT2NyVg5DbTdfGPxmhonjAilwlZ6O0mNo661ytyd5SRTmWipVBqbD-L3BePDI4691YS1GUmDOwdXCJHHnkf0ZyKprCwqUmpXA2Ut65YlZb9E5V9N4W2-TowcpQC5ysaRmbGGHMGKf6ayWk_Bsr9hFCjVh2wjbx8q3USFZ-DQvHEXymI6KxsR5SQ0CCm8w6pdF1dEnqjzCzt3jP9LNZH_QY7H8-Q5Fu-xFcU6DtHsaBQgVhKfQyPJNfzbIhiY6FgkTuHHYy1nsBhjpuj56a05vEVuCGuwdObGDRLyPWoRKQNvzu0mmkoShvpkdY-DMN7Dmi6hOg9Laeg2qo",
+      "photoAttribution": "Alban Bislimi"
     },
     {
       "name": "Hochfirst – The Luxury Mountain Resort",
@@ -139,7 +216,21 @@
       "longDesc": "A sprawling alpine spa resort with heated pools, direct slope access, and Falstaff recognition for luxury mountain hospitality.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hochfirst%20%E2%80%93%20The%20Luxury%20Mountain%20Resort&center=46.8736366,11.030838600000001",
       "placeId": "ChIJmRiwt3rMgkcR-ZxjZuLL-Kk",
-      "address": "Gurglerstraße 123, 6456 Obergurgl, Austria"
+      "address": "Gurglerstraße 123, 6456 Obergurgl, Austria",
+      "rating": 4.7,
+      "ratingCount": 179,
+      "website": "https://www.hochfirst.com/",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJmRiwt3rMgkcR-ZxjZuLL-Kk/photos/AcnlKN1e6eOFW-95vHGIpRBLCCnkO6b1LQUPtk_6kzk0xbS6I3UrSxKcYQl0jIcgSM2OMyrOfEyYzhvuGyPiSiPBj2M7E2m3GLhlawP_alhhE-uXjTFUEuvM0f_gbjoNSb_6ca5S3_WWS6iwasf_SyhYXWhfiABCDJLUcY5iZi6vVyfXkeQIBMrVMK3rbzJ_Z1GJ_87jQgsnPhXMGsIktNCeJM1341NtFQ5kmQq5PMl6V6EcyV5iQomrjWqMqJv3bvPz6py36TxaGD3fYRK0rNV7vBSn_hgoLs9rjXCiGURdkHuBuQ",
+      "photoAttribution": "Alpen-Wellness Resort Hochfirst"
     },
     {
       "name": "Hotel Gurglhof",
@@ -151,7 +242,21 @@
       "longDesc": "A Falstaff-recognized property with dedicated childcare and spa facilities, making it an excellent choice for families seeking high-altitude reliability.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Gurglhof&center=46.868508299999995,11.0249583",
       "placeId": "ChIJb_97emXMgkcRluEfyc3DlGA",
-      "address": "Ramolweg 19, 6456 Obergurgl, Austria"
+      "address": "Ramolweg 19, 6456 Obergurgl, Austria",
+      "rating": 4.7,
+      "ratingCount": 328,
+      "website": "http://www.hotel-obergurgl-gurglhof.com/",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJb_97emXMgkcRluEfyc3DlGA/photos/AcnlKN0vOjSsfBr_CImv7nl56MElxuhCVu8Tqn0WSdUUVvVGpiAv49oHDL8T4U4JGRy7kayfYeQtfPQb4Hp_7ewUPryYIAXqRwQbO9R5JjiIZUMIPBXr-5CpuB7ExnfLcsrWqQh-9Vh0ccK0eM-UaBs2fE8jK0U_1pWL9KhUTVnt9aAJ1ldU3Ohbh2uSdZpAu_Xtn4TlhIuqXO4VBMWUesiH3zp6bTbPVJ9K-lHQo41Fcpr1uta9AQyY0sDJ81yFgUJupxSuLZMvMIGW7dSYeM5_EtQkPqlvQJqxbrTsdClKEcOrHg",
+      "photoAttribution": "Hotel Gurglhof"
     },
     {
       "name": "all inclusive Hotel Lohmann",
@@ -163,7 +268,21 @@
       "longDesc": "An all-inclusive property with seamless ski logistics, including childcare, ski school pickup and drop-off for simplified family mountain vacations.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=all%20inclusive%20Hotel%20Lohmann&center=46.872499999999995,11.0288889",
       "placeId": "ChIJYz1tq3zMgkcRr35dSpSWvVM",
-      "address": "Gurglerstraße 108, 6456 Obergurgl, Austria"
+      "address": "Gurglerstraße 108, 6456 Obergurgl, Austria",
+      "rating": 4.7,
+      "ratingCount": 209,
+      "website": "http://www.hotel-lohmann.com/",
+      "hours": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ],
+      "photoRef": "places/ChIJYz1tq3zMgkcRr35dSpSWvVM/photos/AcnlKN2fOtc4KDI0tpXQu51vgDskAyJgwkjaQUWCT0jorT9_FwIN3W9QrBwF-zrHg30Zz5gqLqYIhMSi7WshLTLDSg3QjqyPSPyPsFisQsi0mHzt-58xa-loKAp60Yf5xjzYD47n0h3lUt-HGwAsaRY7sWvFJt-eptCTYVpb6D1LEFnaXtNETlSIKDsE6Hpl7izsytQXWF8hSEcPf2nbt6_btpdxdSEeZYsBJ2AdySUt3OQCKg_DXK6EOHKijwy0CD65tVN-SH2ajCQZQ4aIjZ2y2bjIbtNnHzQ8yNTrDwfp4qj6aA",
+      "photoAttribution": "all inclusive Hotel Lohmann"
     },
     {
       "name": "Alpina",
@@ -175,7 +294,12 @@
       "longDesc": "A village-centered family hotel in Les Gets with playroom facilities and direct access to the legendary Portes du Soleil ski domain.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alpina&center=46.1549339,6.667322599999999",
       "placeId": "ChIJybi4IycDjEcR77PO-RLADGw",
-      "address": "55 Imp. de la Grange Neuve, 74260 Les Gets, France"
+      "address": "55 Imp. de la Grange Neuve, 74260 Les Gets, France",
+      "rating": 4.6,
+      "ratingCount": 598,
+      "website": "http://www.hotelalpina.fr/fr/index.aspx",
+      "photoRef": "places/ChIJybi4IycDjEcR77PO-RLADGw/photos/AcnlKN0pkXM69w17NhNS9Z3UJdy3eMIH9Wm8iPeUlnu3MH3mtulzNuO0HErI3tvgzVmctSblwzasmfRmHHUw7pocpmVtxvMz550WO-HmCy4TTpR_L9io3qT9yAAVea4CB65Tw2Wijn6oG4lJa-N6ePqirsZgTDWBRCXYC7WuZYYRMrT0uTu7BOZywLVS8mLA7EBN6vChMJ1-AZjRC6WnY6A2E4VYANsunEF6Dqv-oHP9IY9CFnGputgveeNR2n1E50SXxgIcUaPOmS8vofS3o7V_v5_lb1k1dFHDBxsOA5UtE7y1PA",
+      "photoAttribution": "Hôtel Alpina & SPA"
     },
     {
       "name": "Hôtel & Spa Crychar",
@@ -187,7 +311,21 @@
       "longDesc": "A charming chalet-style property at the slope base, celebrated for home-style alpine cooking and warm family hospitality.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=H%C3%B4tel%20%26%20Spa%20Crychar&center=46.155273099999995,6.6682014999999994",
       "placeId": "ChIJXdS3bCcDjEcRSq9fHQlYAbs",
-      "address": "136 Imp. de la Grange Neuve, 74260 Les Gets, France"
+      "address": "136 Imp. de la Grange Neuve, 74260 Les Gets, France",
+      "rating": 4.7,
+      "ratingCount": 218,
+      "website": "http://www.crychar.com/",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJXdS3bCcDjEcRSq9fHQlYAbs/photos/AcnlKN2gjBuwmYfYFtLyWHItNYvJfFyg0tTCnM0CGQcw7s5eFa7vKqEDFxw7EY_Wcr5AVt9go0BbE5oUjND73MqdmyGSx8faMgfunSEwdXyUYUUHP7aRryZQuQkwsE2qUhHHEzcBAAiYPHGzj-7jpKd94vWpsmNLT0SNwrcxa5gpgQfvJ7ve1_LSJnnvsXDBXKkiSN_2RVolO206y4D4zzljsCAdSh2g1kOgAPvECuNp0v1fj8iBEzgP8O8BUBosIOGwPEBTRxyNgCXJ0ZpcUCtyGVSvgU5ri5iATIIsLIoV1cO3UA",
+      "photoAttribution": "Hôtel-Spa Crychar"
     },
     {
       "name": "Chalet-Hotel La Marmotte (Les Gets)",
@@ -199,7 +337,21 @@
       "longDesc": "A spacious resort with multiple dining venues and spa, designed for families wanting flexibility with kids' schedules and early bedtimes.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chalet-Hotel%20La%20Marmotte%20%28Les%20Gets%29&center=46.1566763,6.667534300000001",
       "placeId": "ChIJsU5iqScDjEcRCpvVZUGiZpM",
-      "address": "61 Rue du Chêne, 74260 Les Gets, France"
+      "address": "61 Rue du Chêne, 74260 Les Gets, France",
+      "rating": 4.4,
+      "ratingCount": 941,
+      "website": "https://www.hotel-marmotte.com/?utm_source=google&utm_medium=organic&utm_campaign=fiche",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJsU5iqScDjEcRCpvVZUGiZpM/photos/AcnlKN2ooprBxrsC006R7c6KswrWaYpCfKw3m0zsnwymVN4eP4gF9pRIJBu-rwZcobQvqYrecdHw31aY2EGns9MNYwDDuJN2DbTd9i8a8-ahq9ilO8WDdL4W9tWSylbei-f1VrkEJaZGsCt0WoGlMTno6wyat61D4UQbqEcxk7jdL3nBJP8CUsa9ev6dgJ83XGVZDrghZId2yKo6mhmgIAT0C3PR6J55HcRG2QM-gOt54B9fdhik3iwD68grrE_WQp8nY6CI40Qf__zsWh7jUVctjy0om6NFiP8xTHneM5s0FJssWQ",
+      "photoAttribution": "Chalet-Hôtel La Marmotte, La Tapiaz & SPA, The Originals Relais"
     },
     {
       "name": "Les Dromonts",
@@ -223,7 +375,21 @@
       "longDesc": "A retro-chic design hotel in Avoriaz with cocktail bar and light-filled rooms, capturing the car-free resort's distinctive 'streets-as-pistes' vibe.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=MIL8&center=46.1925372,6.7727395",
       "placeId": "ChIJg5opRVKmjkcR7IHjm4DXYI4",
-      "address": "241 Rue des Traîneaux, 74110 Morzine, France"
+      "address": "241 Rue des Traîneaux, 74110 Morzine, France",
+      "rating": 4.2,
+      "ratingCount": 250,
+      "website": "http://hotelmil8.com/",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJg5opRVKmjkcR7IHjm4DXYI4/photos/AcnlKN2FQYbfKBJaJXR9wnVHARZ7oC55GLWHsKn8IByXjmV7Xk1ME_dSBPYhGTxnaFIs4pCpBUuXzu1zzQVaTLEhUErvbx35JhMJNJTtgmnXJhCXHv9AXzeBP_C3YNE6h9QP6ctmnOaBX7QS50BRa3-5Cwc-Ciq6oXV2KbwnxPxckaZtPbqOmxYuu-SOUECVHwEvW0YbnBdt2ahpnDfjgqa6LDZ9vArTykswdqcdOSBSJe6VuBJy5dNtOHNXuNNbSfXX7DyvMaMqT_x0N2XdMhQmZWvYfM_PNYF_gOnMqpmQK8_9lQ",
+      "photoAttribution": "Hotel MiL8"
     },
     {
       "name": "La Bergerie",
@@ -235,7 +401,22 @@
       "longDesc": "A seasonal chalet-hotel (January-April) offering traditional format and authentic Savoyard village charm during peak ski season.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Bergerie&center=45.9512412,6.7408871999999995",
       "placeId": "ChIJy_7FbxNUiUcRYaqwaREYkIY",
-      "address": "314 Chem. des Parchets, 74190 Passy, France"
+      "address": "314 Chem. des Parchets, 74190 Passy, France",
+      "rating": 4.1,
+      "ratingCount": 555,
+      "priceLevel": "MODERATE",
+      "website": "https://www.facebook.com/plainejoux/",
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "photoRef": "places/ChIJy_7FbxNUiUcRYaqwaREYkIY/photos/AcnlKN0REJDAb3Ob3Q5w62uwvuYb1DU0uKYra2EuR6k2VK-ouKDQ_UHnT0ReUcNJFkE73jM38anJxpGxwrFdRYGdbiszgUSvHPlS6uGp_gIyBUwhcYhucz1nKmuqF7nZ9XNOQlZXdRzocMrvCpPOyqaVUanGx0j8Hr2ohQIsekeSAf3ZfmcbVD0I7kJncGyfy9Etsig1ns7VcSZnPqDQsk77iys0zZUXLmXSgGNjeZNQJtEb-H5tsXGadrVc9-3DF7P6I9B-CkAajzHtxBZL2azKtU2vZ3pjfm0anGM9VRjSkGDc-w",
+      "photoAttribution": "La Bergerie"
     },
     {
       "name": "Plum Guide – 'Alpine Modern' (chalet)",
@@ -247,7 +428,21 @@
       "longDesc": "A vetted private chalet in Les Gets with flexible timing for family naps and meals, backed by concierge support.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Plum%20Guide%20%E2%80%93%20%27Alpine%20Modern%27%20%28chalet%29&center=46.1544829,6.664641",
       "placeId": "ChIJIQrysCYDjEcRVUvxxEbqo9M",
-      "address": "683 Rte du Front de Neige, 74260 Les Gets, France"
+      "address": "683 Rte du Front de Neige, 74260 Les Gets, France",
+      "rating": 4.9,
+      "ratingCount": 114,
+      "website": "https://www.chalets-lesgets.com/catered-holidays/chalets/the-alpine-lodge.php",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJIQrysCYDjEcRVUvxxEbqo9M/photos/AcnlKN0XisRbl-_yDWsW3w463ztOJoaoAgZz8z0bV94WwzVyzC9nhJP-QAVzppYCg2KEIeJkBK_fpWuNgRWurrQ3IVUAuw9fFFv1kB30tzCGe7PLmg4QeotdGoirYv4CJivmcMErymg8z0iSQbsN0krVBATN1IGCCn9lOJnU_hEHNmi2ERZ_63p4NAXOrfG82bRx6FtJ8pnOeQvAnAYqK7LTDZyGfLEiA-c9BprsCLZcjAS65bU7PBNsoncNWHdEm-xwfspddHwaZTyrEuYTLPYX-nhkyW7EGLj6nt4rgWDe5c3J1Q",
+      "photoAttribution": "The Alpine Lodge & Loft - Mountain & Tradition"
     },
     {
       "name": "Plum Guide – 'Be Together' (chalet)",
@@ -269,7 +464,12 @@
       "longDesc": "A luxurious mountain property with direct slope access, Sisley spa treatments, and iconic post-ski hot chocolate rituals.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Val%20de%20Neu&center=45.8,6.707",
       "placeId": "ChIJTXAdI86iqBIR9Qc5XSEB4Ek",
-      "address": "Carrer de Perimetrau s/n, Nucleo, 1500, 25598 Baqueira, Lérida, Spain"
+      "address": "Carrer de Perimetrau s/n, Nucleo, 1500, 25598 Baqueira, Lérida, Spain",
+      "rating": 4.6,
+      "ratingCount": 594,
+      "website": "https://www.hotelbaqueiravaldeneu.com/",
+      "photoRef": "places/ChIJTXAdI86iqBIR9Qc5XSEB4Ek/photos/AcnlKN3oOh8CO2IXenOBsubCxclOqVNkZ_EB9FL1jbo2lDLxCDOwueZJ3ADOgXGomVgLhgu6AyTgk68FV0h6Y1iNv7cq01nPwKF19iBD-lKiLs0zpQ-1bZZV-mSK8ck37G00nHaC3dWkGvpUbrrDAK3-TIfOd4qZInCpD_YrKWQSntmChQQi-p8NPelXU86ln2-2ZHSIS1OuPI7v7dhQyFyOl2y2DU19kgYeTNq8Hb2uQrdrzX3NsVXxvri-ib4yUuTvNV93rZmbr66oP662b7chARcTy4vyBP7YHGPBWW5tkjJ2Kg",
+      "photoAttribution": "Hotel Val de Neu"
     },
     {
       "name": "Val de Ruda Hotel Chalet",
@@ -281,7 +481,12 @@
       "longDesc": "A traditional alpine hotel with wood-clad rooms and relaxed family vibe, offering authentic mountain hospitality without excessive formality.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Val%20de%20Ruda%20Hotel%20Chalet&center=45.81,6.715",
       "placeId": "ChIJ740j0JO8qBIRso0zYZNMP3s",
-      "address": "Beret Cota 1500, 25598 Baqueira, Lérida, Spain"
+      "address": "Beret Cota 1500, 25598 Baqueira, Lérida, Spain",
+      "rating": 4.7,
+      "ratingCount": 158,
+      "website": "http://www.hotelvalderudabaqueira.com/",
+      "photoRef": "places/ChIJ740j0JO8qBIRso0zYZNMP3s/photos/AcnlKN3PEcNnkbgFRfG4KphhZHKE1aKdMp_h7IoqShd328xkPyzQaBIkyuUoD7DrP7MsweOyZz15cUuu8mCnzLt1IloKWirOEYostKdnpemYiz9H6x5unebx2nsN8gA4pgijdTFe42seXuN4J8hK7NUwWyI2bI5op3RWpF0WZQW6ObXDDyuJUKxea70EJqDIhrrq9K4gssmBBu4II-h0SmVMVG2MNQp_yDPKv5YfdG6TWrAesASywRbgJCmaCVuPXHzHe4gy4XLiJ2djvlXFR10za8o0AeRV0nLWQfD40O54rUPA9BP0Ld8v_yPvw3QfO10CfqocX5SrXGLj163-8IuTgHhx_qRtHyALVbrFYOoVJZ7vkMVgz3HFQCWUUpbi6dRxsL53v2NFvbl0-TmQVVVRpNFdoNTn-VQ8VolysOOm-mhTdrO9",
+      "photoAttribution": "Fernando Oliveira"
     },
     {
       "name": "Chalet Salana (Ski Miquel / catered)",
@@ -293,7 +498,11 @@
       "longDesc": "A catered chalet near Baqueira recognized for excellent hosting and full meal service, simplifying family logistics in Spain's premier resort.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chalet%20Salana%20%28Ski%20Miquel%20/%20catered%29&center=45.8,6.705",
       "placeId": "ChIJQwZ_t5-jqBIRsd9DzxD6iQw",
-      "address": "Calle Placita Beret, 4, 25598 Baqueira, Lérida, Spain"
+      "address": "Calle Placita Beret, 4, 25598 Baqueira, Lérida, Spain",
+      "rating": 4.7,
+      "ratingCount": 9,
+      "photoRef": "places/ChIJQwZ_t5-jqBIRsd9DzxD6iQw/photos/AcnlKN0ztH8HtdMOO0F3UXtfFotp3crqteQUDlFm-MjqB5J_IlbYfdYjl4noWKJrEq1-oe882IzIc0xxeXWNGrKvOFn2Jwrqr3BjHiClB6UI1aZcsWtxvxnzJyDD31c_2npPOe7WApxBURA8DFGJ6MM7ENMh6_8KjT37BMqR_osNqJ27FgYx66jWoiF8IQ4-idg1tIvTPi8WV6145bFtn8vQ-YO3BerfSML9WKEAsIfBNFajJ0LM26J28L4vXx3Cpg_LOVb9o6bB0A2gyB3OwEIU1twJF_7wre-zHoGV5KamsWe6E3-4Q0UtUBzq7QH2XRWbn_QuoyGFtLOFdOdqbxBUJDtH0kKDXDp1uZCcfdzdmri_f7Kho4Ph1CWGV-vpcxisj5HAcnjBl2CNkgSoFPgeaIM6F0Hi0Tf7g19nZyQ79s8d8w",
+      "photoAttribution": "brian scott"
     },
     {
       "name": "Plum Guide – 'Snowfall Sanctuary' (chalet)",
@@ -315,7 +524,12 @@
       "longDesc": "A Scandinavian design masterpiece combining architectural excellence with unique winter activities like dog-sledding for families.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Copperhill%20Mountain%20Lodge&center=63.383234,13.17775",
       "placeId": "ChIJFQ_BVuwMbkYRwHKOJjE5ua8",
-      "address": "Björnen Copperhill 62, 837 97 Åre, Sweden"
+      "address": "Björnen Copperhill 62, 837 97 Åre, Sweden",
+      "rating": 4.5,
+      "ratingCount": 1697,
+      "website": "https://www.copperhill.se/",
+      "photoRef": "places/ChIJFQ_BVuwMbkYRwHKOJjE5ua8/photos/AcnlKN0Wxm8LAOt4lmUuFSqPB4FQwSnQGZOP8sfwQGMneGnNszYZ6ajn2HSfYaSR2vD4Yk9iCXOsgZcIDdRs3HFHilMfw9U1NFpwZqPUCHNLM7aP6n-0aot-DaHFq9qHzIaJzGWIAJFZvE7R8C0O_j_zV6eq7Qam4yQ1Ey4oHilEEa1BdtufIMMvogp9RUa6xz8WKxc_dnlHBmcoBzS5UeJARYsqFideq2IrSi9lgUIceWTodLDA0sOMQ36GJVj2JsTomqkdKI4w9FOI-uPXOLTZMLScjRJWSa0jju_M4O6Q63gyZA",
+      "photoAttribution": "Copperhill Mountain Lodge"
     },
     {
       "name": "Hotel Åregården",
@@ -327,7 +541,21 @@
       "longDesc": "A White Guide–recognized property in central Åre with walkable access to restaurants and village culture, ideal for families.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20%C3%85reg%C3%A5rden&center=63.399435,13.079068",
       "placeId": "ChIJyy1kIGwLbkYRX84h4_4yGV4",
-      "address": "Årevägen 81, 837 52 Åre, Sweden"
+      "address": "Årevägen 81, 837 52 Åre, Sweden",
+      "rating": 4.4,
+      "ratingCount": 349,
+      "website": "http://aregarden.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJyy1kIGwLbkYRX84h4_4yGV4/photos/AcnlKN1pl2mwTC44qWshS8PyW0TYG_rCNQCcHMW73JAhbh5gcHsW30AewZzUZJZjui0qAWQRW1spLjJYHP_a6p3IXcCwFakDvS7wZh1-dpGTTSeXUOInWfn36BRt-X2K8wjzls6xFQCAu4d4YTATDLIua8UXLFG1ElHDwq7e5eNevrhFNeY1H3KcUXTxmohpQMZAPf41wGwpk2U39JQdQ_WMBNn0LVU6UuJp7DC8Gok-jJYwFPcX93IhkE3FRJzfr2kXehru3k7s8knfKG_SArI7LolkvMzCBk5wBtrObDHK-zyDgQ",
+      "photoAttribution": "Hotel Åregården"
     },
     {
       "name": "Granen Hotel & Restaurant",
@@ -339,7 +567,12 @@
       "longDesc": "A White Guide–rated property with excellent on-site restaurant and classic Swedish alpine lodge character for families.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Granen%20Hotel%20%26%20Restaurant&center=63.3975,13.08",
       "placeId": "ChIJSawa_wsLbkYRlyP2pPXn_ZQ",
-      "address": "Tottvägen 127, 837 51 Åre, Sweden"
+      "address": "Tottvägen 127, 837 51 Åre, Sweden",
+      "rating": 4.6,
+      "ratingCount": 402,
+      "website": "https://aregranen.se/en/",
+      "photoRef": "places/ChIJSawa_wsLbkYRlyP2pPXn_ZQ/photos/AcnlKN231suk6Q0wVF8GWqFWykks_kN-KZ1Uc62178-WKjd42s1FvQmRA8dZyyWmhTuNFFHda2nGCGOrb-cnQ9emIIWDtwJVFOeXbANGJCUT8ORx6aQWwbJGlDzrG9vUhoF5l_KQV_KresNqeDZiKfnt3i0V7tqkUxcxg7ke7oADf4Ep0PyRdMx2WA7W6F3kfTWjQdjERTYLysNoPoPj57ilExTk7So-gpMkzkztYwYmY5kltXM3aCHyahPyHoz4_9GbY73slIuoACwBdQxSv5wn31LwliXjJ44AoyO4B4M5p2Q02Pl0MdIisHeIIRsW_LbmlythotXUj-qD9WbXIbylgEnuJQgwbiDVtIsU9RH2EHllutrqKZcmV5DA_pxSjZdnoyjL6vxFmdLZII4DcyosDQlCZZwGAEmOh6AHPoXOQmgCBQ",
+      "photoAttribution": "Thomas Lönngren"
     },
     {
       "name": "ValKids",
@@ -351,7 +584,21 @@
       "longDesc": "A specialized family resort offering progressive ski instruction and engaging snow park activities for children.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=ValKids&center=45.4338918,6.9930625",
       "placeId": "ChIJ1xiY25IJiUcRn8tpdNrlSAE",
-      "address": "Téléphérique Solaise, Chem. de la Vanoise, 73150 Val-d'Isère, France"
+      "address": "Téléphérique Solaise, Chem. de la Vanoise, 73150 Val-d'Isère, France",
+      "rating": 5.0,
+      "ratingCount": 1,
+      "website": "https://www.valdisere.ski/fr/",
+      "hours": [
+        "Monday: 9:00 AM – 4:00 PM",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: 9:00 AM – 4:00 PM"
+      ],
+      "photoRef": "places/ChIJ1xiY25IJiUcRn8tpdNrlSAE/photos/AcnlKN13bLwWWG625EUC4D8bhbrY3FLhqvdN0yltsJA7yjtG08euC4c3jVGDpDhQT0vnkUdVChovN9jp00hZaV0hqF3Gm-lVuZ3xskg5_da-R5Jy66Ij8_fq3pj_oK-gYYYIEoUq-dPfnshywXR5gcD2yFiIyyu89F0la2U1w6sfN2qjcKTduYoNQF6TyY1VEwSCHl-Osl1TbUb--jeIgcv7Qcxq6DYOnocye4Jhqp7_6LfO79-eSmxN95yL7k5fhMlIbBildKRgGXHkOhOQZeLtv-LiDFeLXTlMcJOgjgbAZx3F9g",
+      "photoAttribution": "ValKids"
     },
     {
       "name": "AKI Family Resort PLOSE",
@@ -363,7 +610,12 @@
       "longDesc": "A specialized family resort in South Tyrol with dedicated ski instruction and comprehensive children's amenities.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=AKI%20Family%20Resort%20PLOSE&center=46.6826026,11.6643134",
       "placeId": "ChIJQRPTLTsPeEcRy3DQYn5uH_o",
-      "address": "Via Koja, Meluno, 20, 39042 Bressanone BZ, Italy"
+      "address": "Via Koja, Meluno, 20, 39042 Bressanone BZ, Italy",
+      "rating": 4.9,
+      "ratingCount": 153,
+      "website": "https://www.aki-plose.com/",
+      "photoRef": "places/ChIJQRPTLTsPeEcRy3DQYn5uH_o/photos/AcnlKN2V9OcWfYjMDavfU78QUQEmRI1wS0HmILsEC7dwXYcxoZsCCygaZb-2iqJO8j8Yhvr3Ww3lOnr1GUn_zIXbDM83jkHYRWLkEu2qA0b7huy7Z5izARvVcCYk1YzO9qSErVAyPzr-oszZ7Erp1mgkkA3EUHiZRv96Hw8Pbm1E9-wsB7XcP5NBARn6df_C4R1IhughpylNEA62FEk1nbj3KZ3RGXFc-6wXPQH_Okf3FF77zHpw9zhIuwN6Non6yLnsNsrl2B9RUZXt5mnyvMKEG8x9KSgqraMLKtg9bVb0y2t55w",
+      "photoAttribution": "AKI Family Resort PLOSE"
     },
     {
       "name": "Livigno",
@@ -375,7 +627,9 @@
       "longDesc": "Italy's highest ski resort offering duty-free shopping, extended season reliability, and genuine alpine village atmosphere.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Livigno&center=46.5381881,10.1374918",
       "placeId": "ChIJl-h_Bvptg0cRy6r4IvWZSVs",
-      "address": "23041 Livigno, Province of Sondrio, Italy"
+      "address": "23041 Livigno, Province of Sondrio, Italy",
+      "photoRef": "places/ChIJl-h_Bvptg0cRy6r4IvWZSVs/photos/AcnlKN157HtmWGWWnCtp8CkrbN2sj0bJxfelDVLYISOB1hrMBBmZBNoJmqg3SK_r0f_U-xoZ2DsTCANnCsVK3ykGeCKfTgzCEeUYMCjOcwXOZDx3b9SmTGyiIn4YxzZSHz6U98rYTstkCyTbyw5tSj19zmk2IVpB3nYCrvOBtJZUzBKT7AuTlQovAKQOEcLU_fTjl8RN527soX1MMCDXuCx-Id3Wx2julSn41dEOiBLdEocTbSWCLCBalfBBOLhUBs12SKfaVt8FkQF3l64fjlaxHJD2P4qLeK-k-XDx_rx8vfT6EH3gsY7Th3yV1v_qzKJZXGvRXimbEhMFqpYqPaVbEEivfg9qDweQOeVU3dnZqgFrJd103XyUdjvBjAyr_wpxh_jHGXYargq3p4uq3fDojnzh28rnsYB14Lqs7pNnAqVdlw",
+      "photoAttribution": "Rolf Theiler"
     },
     {
       "name": "Hotel Mürren Palace",
@@ -387,7 +641,12 @@
       "longDesc": "An exclusive mountain property in car-free Mürren, accessible only by cogwheel railway, offering unparalleled Bernese Oberland views.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20M%C3%BCrren%20Palace&center=46.5625965,7.896655099999999",
       "placeId": "ChIJy4iP89qhj0cRxeOxJrS5Jkk",
-      "address": "Höhenmatte 1086, 3825 Mürren, Switzerland"
+      "address": "Höhenmatte 1086, 3825 Mürren, Switzerland",
+      "rating": 4.8,
+      "ratingCount": 98,
+      "website": "https://www.muerren-palace.ch/",
+      "photoRef": "places/ChIJy4iP89qhj0cRxeOxJrS5Jkk/photos/AcnlKN25wRCLvu4R22iLXQJ6tEim7y_nfl0Wb9PNF_S0Vsfrj1hTyEWJcfNZEnwoPvLQi_N1RB4d-bm0qdiOua92bYV1DdaqjUTdY0jnG3ckAiZ-wof1zihbEnn-etiYgUkemGu1glxaiYP5b6CbSU0AlvJfvOYbrHYJwrH-4YaqCcHEo2OP0GEoexAcr64ps8mlTolygd3QMql-k2qoue1rOsPtZ_7_hIqxiEKzg0AWIex3a_aERLXssUPYkl6U4rVGxSyYDdA5P8z5l_QyF8hYlvVl9sHFKIQ7d-m6jvsekHVQUQ",
+      "photoAttribution": "Hotel Mürren Palace"
     },
     {
       "name": "Six Senses Crans-Montana",
@@ -399,7 +658,12 @@
       "longDesc": "A luxury alpine wellness resort combining sustainable practices with contemporary design at 4,800 feet elevation.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Six%20Senses%20Crans-Montana&center=46.3089668,7.464275000000001",
       "placeId": "ChIJC9O74DPgjkcRcLtQ49ZNwUI",
-      "address": "Rte des Téléphériques 60, 3963 Crans-Montana, Switzerland"
+      "address": "Rte des Téléphériques 60, 3963 Crans-Montana, Switzerland",
+      "rating": 4.5,
+      "ratingCount": 256,
+      "website": "https://www.sixsenses.com/en/hotels-resorts/europe/switzerland/crans-montana/",
+      "photoRef": "places/ChIJC9O74DPgjkcRcLtQ49ZNwUI/photos/AcnlKN3OkKG1AosoQwOJFnvW6BhXXu6xz4Vuuv-Kst_u3gEIrzsCktPBFWsDCWmU2Kb8MaGTe0GWIta-I1thSGhcMR-PeaR-Od1CUReSAFdPHI6XCl6DiW3foReh66MmYk2e6rKROeJyvk1YCa49MI9I4ITI7dyErKFAJ8PRNVigsK8AaP8I_ohk8bnGvdUuEbCLGLL9R5OfDnJUDbtZtRrHAny3qWJOj78jggi0jkvYr-vUTkQ4S7K13_9tJXyr59_rWG9HgOLPA01I0dNLVozqxXGCtbM8MNk-YZLUH5DxRH4JSjsh88QPL3fM0qkR8paLYQRqTMlKUFDB7JLu0O7wC6Y2XfNvK28KkCxhynJtvlAojzOOeI2Af-bjAxYnnWeOvee0U98NXuyOs4EdpFu4ScBE4tpTZ-p2tG45DYw1DbUy90Kz",
+      "photoAttribution": "Patrice Simon.-V."
     },
     {
       "name": "Naturhotel Forsthofgut",
@@ -411,7 +675,21 @@
       "longDesc": "An environmentally conscious property emphasizing natural materials and sustainability for eco-conscious families.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Naturhotel%20Forsthofgut&center=47.439227599999995,12.715772699999999",
       "placeId": "ChIJI-ViNKT-dkcRKMOBY_lhOEk",
-      "address": "Hütten 2, 5771 Leogang, Austria"
+      "address": "Hütten 2, 5771 Leogang, Austria",
+      "rating": 4.7,
+      "ratingCount": 1124,
+      "website": "https://www.forsthofgut.at/",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJI-ViNKT-dkcRKMOBY_lhOEk/photos/AcnlKN3rqzBwkhY-1Z9MBsSrktxFXg0SG81-u6wfBgjFWxmuahREhyIo-6E8-Rdx3rYvJZG-slVXzo-D9N5VH1VAHhy4KS0e39ALisxhWe1bza7-AjzO4JznYb0kQhSweVpNt-Qq0647fdgJNXrKWmjLEI_eCgmrenbFRxjH8itUvfojKx31jfybD1unyBCqBp1xJqmwsSARv5daEQ6uBZvHZ5027tfqQ_-F3nVuCytrtNMs0BzH05VwSLgWVpBLDIRqSqgBxZ6QxzYdQ9qYLIsROo4eIH8yS_qASY-ypwYJW1TAzw",
+      "photoAttribution": "Naturhotel Forsthofgut"
     },
     {
       "name": "Ischgl",
@@ -423,7 +701,10 @@
       "longDesc": "A stylish Austrian resort famous for lively après-ski culture, reliable snow, and challenging intermediate terrain.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ischgl&center=47.011845199999996,10.2884195",
       "placeId": "ChIJ8R4D9WKznEcR18sUKu-fxmc",
-      "address": "6561 Ischgl, Austria"
+      "address": "6561 Ischgl, Austria",
+      "website": "http://www.ischgl.tirol.gv.at/",
+      "photoRef": "places/ChIJ8R4D9WKznEcR18sUKu-fxmc/photos/AcnlKN29tQm2zhd4C0ElSw0RwOzHcgpchfUZJiMQg2p62VkcX7yDiba-3V7Xd8ySKYlh2M80WHQjekV7vSKVivLlniEnYnluBG8K265TUUIDISxGiOXVdmrZIjiyqH_0LbjYA_DqdjcM_cubaCjv9VpiBeUauBiN9tH-2aJ7gCnofHqsIFZ966TkYoapidR0rlVl8__Yzz8L-PedxovDND4OvKbAsPkcuAnjZ8N1DVBJPr2H3a4Oc7fmFtq7CzW7kmojKEKWgwre_U2Hj69oFTq3pwAh0mQpi-NqURE2pU0tX1Q1Ghns9k52mOjChSpY-uq52cSCRhHeL3j5C-1jEzlAc_EOfO2aiOMJFrYljEpZIcUBda4LybK1e6rWzTzPyq4Ug-OgOybrO0Ixi69Jv3wnGIvvGnhu6m-yMzOwBu9beSEwMGVu",
+      "photoAttribution": "Flocke Erle"
     },
     {
       "name": "Bettmeralp",
@@ -435,7 +716,10 @@
       "longDesc": "A serene, car-free Swiss mountain village accessible only by cable car, offering quiet family retreats.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bettmeralp&center=46.3904991,8.0618799",
       "placeId": "ChIJWW3FsABwj0cREMtpbPAyT5U",
-      "address": "Bettmeralp, Switzerland"
+      "address": "Bettmeralp, Switzerland",
+      "website": "http://www.bettmeralp.ch/e/",
+      "photoRef": "places/ChIJWW3FsABwj0cREMtpbPAyT5U/photos/AcnlKN19IInRQJO1dhpRPnE3Zd4si2btxnKgOmjD337Y9YQ85cr-auBuWcNXhaR2U2rzJ7Vhc0_a_OKMt76u6ykje1HoPQeHvjQAdzUFbjh1QmxvTyspXllvkMproNg9t4zzDP4MPrVHx4hKgc28X94hnNXCGboAiujyWUWoZhtZibCjjmBn2liJG4y1oZrq2yaXfRu4hqoOiMsbASFURU7YOhzAPfjHKwAc7nXd5E6Mri9barxnSd-YyE0d-n3nngaoR_yei7qsvIwNP2aCHiIhjmGitlAKr1XdmooiBT02F8vA8No32_kO_CWccEcfKN5s7XFiXAYMxOc0OVJ5DLVZrrBQ3XMj5W5tzvyiEASIGewbrAixk4id4i_AYNN9O5N9c4PNzSv6whbIb3knYaO4Qg5EHUM-VamKsNvj1Wp51sglEg",
+      "photoAttribution": "Rita Schibler"
     },
     {
       "name": "Les Contamines-Montjoie",
@@ -447,7 +731,9 @@
       "longDesc": "A traditional alpine village near Mont-Blanc combining authentic local culture with excellent skiing access.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Les%20Contamines-Montjoie&center=45.822838,6.726849",
       "placeId": "ChIJG3CQYCtaiUcR3YLzCNWXivs",
-      "address": "74170 Les Contamines-Montjoie, France"
+      "address": "74170 Les Contamines-Montjoie, France",
+      "photoRef": "places/ChIJG3CQYCtaiUcR3YLzCNWXivs/photos/AcnlKN0LoN7qB7hqK0ttzpTVzLAzvHQcuDa9uDUdmERdfhiWoEUCvG_KfBC7fXU9eqpBtgAuicByDKqhbnyUWGxUATmpMo_ngZFxDBY_7dWRtDlaxFOyXyv_BbNL79n67jyfDcYsWKYp-W6YRqd_zwTCJtlm98jmlwI3fuo7o6Upr2thF5_CCp6XvSmnDNzyXHexIsr_sou-FJ9gc5SzYC21ucjiuHPW4iSI-0YYtpf4OMrfTyDXjHGjy1C5qpCl4eTj0rOZ3r9Xjn2qYSH78GTcRDuWN5L4erN0B8kQ75Aw6uklDoMQLl1BndU1ybYRygyejzmGUkFJXvoq9huHuapxg35GMTnVBlXSp8b4AsHiF6JUGyuFcTTwY67gWc00j9VwCOLk1_cpmlUPnxdgPMzyq0WDznua-T74v33_5pA",
+      "photoAttribution": "Salsoteca de Soneros"
     },
     {
       "name": "Village Club MMV Les Brévières",
@@ -459,7 +745,21 @@
       "longDesc": "A family-focused apartment resort in Tignes with flexible accommodation and comprehensive seasonal programming.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Village%20Club%20MMV%20Les%20Br%C3%A9vi%C3%A8res&center=45.5085237,6.9203921",
       "placeId": "ChIJ2Sl_QisNiUcRw-BAUgAxj7I",
-      "address": "ZAC Les Brévières, Chem. du Barrage, 73320 Tignes, France"
+      "address": "ZAC Les Brévières, Chem. du Barrage, 73320 Tignes, France",
+      "rating": 4.0,
+      "ratingCount": 676,
+      "website": "https://www.mmv.fr/hotel-club-ski-tignes-brevieres-les-brevieres?utm_source=google_maps&utm_medium=organic&utm_campaign=Google_my_business",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJ2Sl_QisNiUcRw-BAUgAxj7I/photos/AcnlKN3hi1LwpfSJg6uz90cHZ8CSpEy0KQuZKao8D-GdqPULG6EYTZyAH22CTY1A4KafD5G3UQPG6GASEMHyjHkMFzMnoG5wfrWRn8vIUtoqg5jTvaUgFz4H8mtKomU1NPtcwtmedtW-YcDuKq8DIjd8LUsAdq46xJfaF9vDmRnCq74CTcm0pmm0MUJftnSS7skT78zPIytlgl8IPGBP1ti_1ljJXy_cdY0Ax-NTbHNJjMsDB553rd3A6Au2gflhzhSeTqavb1imOXl2k2-Ri2M0TnanZ8B4d3-7VzgqSGIWDD7zNw",
+      "photoAttribution": "Hôtel Club mmv les Brévières"
     },
     {
       "name": "Tignes Station de Ski",
@@ -471,7 +771,12 @@
       "longDesc": "France's highest ski resort offering glacier skiing, season-long snow reliability, and vibrant modern resort culture.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tignes%20Station%20de%20Ski&center=45.458560999999996,6.904753599999999",
       "placeId": "ChIJERtK5rZ0iUcR4Xyjhu1lPJs",
-      "address": "73320 Tignes, France"
+      "address": "73320 Tignes, France",
+      "rating": 4.6,
+      "ratingCount": 6046,
+      "website": "http://www.tignes.net/decouvrir/domaine/domaine-skiable",
+      "photoRef": "places/ChIJERtK5rZ0iUcR4Xyjhu1lPJs/photos/AcnlKN2QI8c3rDKKS5k56zsHQtRFdhDiRS-IRwRH7pXTmdv8MeyR2tg4UoSA2Gi7q1zLfyJE2zUb6wwUyid_Xeh9vkS65I_r3Gg4jgdY4GMS5scdclxMcsfscDh2AKXLdI4xMmZSjSgJdp0eEpbB3tSEZKbfuG3g6HcfRGrXRco9ddCvA1PcS2hjaXLA8aS7gG0ryT3FnGwXzX6wGaEhq0pJnwmrpqzOZxbOVJ-BAxX8BBD2j-3CZ5I7_gIn-jgx2rndPf3EkhXKUZ27tEFfNq67wdaOc_pPK0u541jV833zaHyjUHP_oweCUbRtaucWCrqrIyp1gv0PFKLC0WN8eomBSvm9jUXKyqKWXX6BkiiB4GAELDjQtsSJFctjhR-FWiMEFgKYml-JXAvKz37ynHBiZX2doUddCCCEihYQ3xXfdUcNDA",
+      "photoAttribution": "katia alexaxel"
     },
     {
       "name": "Avoriaz",
@@ -483,7 +788,21 @@
       "longDesc": "Europe's highest car-free resort village with unique architecture where streets transform into ski slopes for distinctive family experiences.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Avoriaz&center=46.1931052,6.7733778",
       "placeId": "ChIJd0P3jVGmjkcRdzdMm1oPsz4",
-      "address": "74110 Morzine, France"
+      "address": "74110 Morzine, France",
+      "rating": 4.5,
+      "ratingCount": 3686,
+      "website": "https://www.avoriaz.com/",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJd0P3jVGmjkcRdzdMm1oPsz4/photos/AcnlKN1ptImKw3VBqSVGFKpyu-3pWy4yfnTgp-rPtpPq4ODTs2zw7c7ViuG64f5s0KdctY34EVdztIXwBFl55WnRbrq8Rhaag3k8pdyakYR2ObqHArGy1eedjmW_fENAmX1yk0fqVdzdVv1z1tKaXdTBKO-Ghi_eAr0BdTNNHNXQWe1urke_St8Yoc9huwd55L-yjzzjj6Bj2OjTgXP93NmIL5ZgSiTg7AndQSFTTS9ccxtYOLH2IXllj27_04z6KhVTw0oMAA_fZ4Y8gaTVWP1ItQdr_dmlTMys2Pc-6uM1lAjv6CmTOFV30qFt7VE6GpQc8N_a8FEkzrZZ1HWsk1NBq7af4FbYIaKz6Ff2TRxm88eoaRKCoK9uHYDjkCRtZF4JGzfQCw9qvYD91ZvSFbFZoEB0sgvtyW63VAvrwNop-NJBVJw",
+      "photoAttribution": "wei zhou"
     },
     {
       "name": "Silvretta Hochalpenstraße Aussichtspunkt",
@@ -495,7 +814,12 @@
       "longDesc": "A spectacular mountain pass offering breathtaking panoramic views and scenic photography opportunities for all ability levels.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Silvretta%20Hochalpenstra%C3%9Fe%20Aussichtspunkt&center=46.9432404,10.0607045",
       "placeId": "ChIJDykc2fNVg0cRxGzRCyVmAY0",
-      "address": "B188, 6794 Gaschurn, Austria"
+      "address": "B188, 6794 Gaschurn, Austria",
+      "rating": 4.8,
+      "ratingCount": 91,
+      "website": "https://www.silvretta-bielerhoehe.at/de/Silvretta-Hochalpenstrasse",
+      "photoRef": "places/ChIJDykc2fNVg0cRxGzRCyVmAY0/photos/AcnlKN0BIBwjESqywX0olvd6ASxDO49Akgay_AmR2cWcbMF9kbdcFdq732qU_dEdRIc-8aCxrclDAWeXbuLBG25bR4fMzf8uGQOvYtm0NL9zH_rmUbalAMa62-ZiBmngErySUClD6jIw0GXi6DbQBexfRJT3uYyCy6Cg44MuulavcPZnUaaAn1D9vCv13qs3EPrNCiQCn8FgIo8nYaw1vnNSEqncC5xHIW3D2ZJHW8hnPwvsNDWjPz1a3Iqkdnw_mvm2dXQDLXS9IfjpGY8vcPAJxa7vcDDTxZZaAAsHzN8ZlARNTjOPgRb15EwELP-58KRINGdD7_w0UXvm-StDzSK3sdSfnnoZi0CkJ_Du32lVw8_bKmHhSuWhoEz6hQoKPdRdJaJOZS4b-SKyj25OsImlEORmgJim3QhlZq2nZCzX_yic-Q",
+      "photoAttribution": "Voula Kat"
     },
     {
       "name": "COMO Alpina Dolomites",
@@ -507,7 +831,12 @@
       "longDesc": "A luxury property in the Dolomites heart blending contemporary design with Italian alpine hospitality and exceptional cuisine.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=COMO%20Alpina%20Dolomites&center=46.542777799999996,11.615555599999999",
       "placeId": "ChIJnxjCulVseEcRAgzDCQT2-bk",
-      "address": "Compatsch, 62/3, 39040 Alpe di Siusi BZ, Italy"
+      "address": "Compatsch, 62/3, 39040 Alpe di Siusi BZ, Italy",
+      "rating": 4.7,
+      "ratingCount": 603,
+      "website": "http://www.comohotels.com/italy/como-alpina-dolomites?utm_source=Google&utm_medium=GoogleMyBusiness&utm_campaign=GMBprofile",
+      "photoRef": "places/ChIJnxjCulVseEcRAgzDCQT2-bk/photos/AcnlKN2ceAXWnjFNj-dJ1X882povi9ZhOE7uL2AC0W0bjVp_LvgKDK8Nnm1J6vRPqi3NzSsrhEnMBE-xEGMzjM2kpGvir6uyWAQ8K-HM1pICO2_rmPlk-A6wtI2YzVf7wnnyGSe5tX0_NSOP4Mgrp9HQhti7AqM55XzY6IDadO9lJjdSJb_k6X5g7TOleAV_davvJShWOW4ehztVXIeN25gji_TxiFGVUrl41OnDtTcvw5YQh4gZqwbm-_y4-19oFE_GKKZoatr00krOwP3yhbLlx8iFGtBX5e5dkN4eaJivGEvLqw",
+      "photoAttribution": "COMO Alpina Dolomites"
     },
     {
       "name": "Aurelio Hotel & Chalet Lech",
@@ -519,7 +848,21 @@
       "longDesc": "Austria's famous Lech resort offers contemporary luxury, world-class ski terrain, and sophisticated mountain dining.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aurelio%20Hotel%20%26%20Chalet%20Lech&center=47.2095385,10.138880499999999",
       "placeId": "ChIJF1uQtuymnEcRUSqe59__rp0",
-      "address": "Tannberg 130, 6764 Lech, Austria"
+      "address": "Tannberg 130, 6764 Lech, Austria",
+      "rating": 4.6,
+      "ratingCount": 151,
+      "website": "http://www.aureliolech.com/",
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "photoRef": "places/ChIJF1uQtuymnEcRUSqe59__rp0/photos/AcnlKN2zzwci88mX4DLw6Jha5ZJckoP2TLbnwxk5RcbDKkXIcw3CRjhr9HGDSb2mCjpUXaosjG8WnF9pvbcqjArflsQFtsM5fo2g3Ie5rxlAO7uHXRrgn3aV3qT_IFR8F99jkdcp2KpBGARyQ_i8nPPIIbWFeZw_reIcTKa1s7DrotWRC0cvh4NufTS6fR0iQLhUOKzZi2BoXeinQIpMypi7vCS5Qx4rCwlLHF8FiYg8ObrTzOdJDb1BTB_4uzTIVjlBKEcg9OzfSatAn1T-3R-P4cxxQa1usH6l3Nw0fj7epV13reRVb1Cg3wboAMW5bxBP_7Ah8Q9MyCK7EhDjWajIhTpp9OYqb3G56ZIrJEoOx1_gsONwgDag0SrQPAJhPMXlTmv0L9MyE9_Te-TYGWxRLnoou0ERqs0aqVzxNr7tdu9ZkJfA",
+      "photoAttribution": "Georg M"
     },
     {
       "name": "Le Cerf Amoureux",
@@ -531,7 +874,21 @@
       "longDesc": "A charming Pyrenean property near Spain's premier resort offering genuine Catalan mountain hospitality and charm.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Cerf%20Amoureux&center=45.913779399999996,6.613868999999999",
       "placeId": "ChIJVcHtxrL9i0cRQyeWHNYvfTE",
-      "address": "118 Rte de Barthoud, 74700 Sallanches, France"
+      "address": "118 Rte de Barthoud, 74700 Sallanches, France",
+      "rating": 4.6,
+      "ratingCount": 55,
+      "website": "http://www.lecerfamoureux.com/",
+      "hours": [
+        "Monday: 8:00 AM – 11:00 PM",
+        "Tuesday: 8:00 AM – 11:00 PM",
+        "Wednesday: 8:00 AM – 11:00 PM",
+        "Thursday: 8:00 AM – 11:00 PM",
+        "Friday: 8:00 AM – 11:00 PM",
+        "Saturday: 8:00 AM – 11:00 PM",
+        "Sunday: 8:00 AM – 11:00 PM"
+      ],
+      "photoRef": "places/ChIJVcHtxrL9i0cRQyeWHNYvfTE/photos/AcnlKN25fvFfL1e9kplCO7d07gzLdVvD0PeRPWMWMe7hk4A0sQhAL5N3A3AIfx_k6w6BhPX0R9YAfRSuwXA9kxTS1k487is0twbguktTIWQ2YZlbmVxAvDSx9IOnNkIV0QcrwDl-aTAfT48GgpE8yElUPgJ0yPdQD9OFKM_Hf-DX3LFy-Jw3CoJ_SGM1p39T3LIhFr_4cRx7h8YO6p51H9i65PpPinEX2YqN5HTQ9faSt9T_usSQ5WLnTYP3w8-2NPW3nq59ZVmXZ8xblTtb3lmFaHJgTRnPWXhoElOLDFziG-ik6g",
+      "photoAttribution": "Le Cerf Amoureux"
     },
     {
       "name": "Tschuggen Grand Hotel Arosa",
@@ -543,7 +900,12 @@
       "longDesc": "A historic Swiss grand hotel with world-class spa facilities and stunning panoramic mountain vistas.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tschuggen%20Grand%20Hotel%20Arosa&center=46.777479299999996,9.6693303",
       "placeId": "ChIJp7Y0v_e8hEcR1NRYGOEVwVA",
-      "address": "Hotel Tschuggen, Tschuggentorweg 1, 7050 Arosa, Switzerland"
+      "address": "Hotel Tschuggen, Tschuggentorweg 1, 7050 Arosa, Switzerland",
+      "rating": 4.7,
+      "ratingCount": 640,
+      "website": "https://tschuggencollection.ch/de/hotel/tschuggen-grand-hotel",
+      "photoRef": "places/ChIJp7Y0v_e8hEcR1NRYGOEVwVA/photos/AcnlKN2SSvmqnPQ6iSktzhFGSoIgIAYgrIilj67cwlih6Cja1d-4gFuOV35m5--OpSyBs5WLat-ibRw4-RHXJii059Mt6YhbGRUCvuAucAbRftNj3fhNTRKYa_RvWp5jJ1mrwHkEzNKjlWce_HLLPYbeyBHr2C1isCsDIqFwzU0sRiiulQzZl-Naib30mKpqgpaaRYHvkXnkHd4tRbPMnlz0m-Q03mW8iS0XP82CUcNUwpJ7qAEx7tkA_9S8lSIyk6DoUcqRpOlm4fBLiV3N28YrW9Gi9VmOvEIj5XJHCGUZJ2jhGzG-YZ_cuSw6rGoCzVb5ZxnIjOcVUJEcthaWsolYTs5daZltbRQgxepmEEuI5i-VocvcCQWrbegBy5YoKZGapqW3VnsVi-DQ6kg3w8WO_k0jJG-3PldcPQx25BVffTqj9pH2n3qM90EF4dDnuMLy",
+      "photoAttribution": "Alin"
     },
     {
       "name": "Valsana Hotel & Ferienwohnungen Arosa",
@@ -555,7 +917,21 @@
       "longDesc": "Spacious apartment accommodations offering flexibility with kitchen facilities ideal for extended family trips.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Valsana%20Hotel%20%26%20Ferienwohnungen%20Arosa&center=46.7835027,9.6841972",
       "placeId": "ChIJEXAsIO28hEcR_aOSXcMt8MY",
-      "address": "Oberseepromenade 2, 7050 Arosa, Switzerland"
+      "address": "Oberseepromenade 2, 7050 Arosa, Switzerland",
+      "rating": 4.7,
+      "ratingCount": 351,
+      "website": "https://tschuggencollection.ch/de/hotel/valsana-hotel",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJEXAsIO28hEcR_aOSXcMt8MY/photos/AcnlKN0Y4o0vrBd-RvURxF1hTKnIGgM3jwIkzH7haBMAl5KjbWO1HSpws4cgK7WS8cmFVTpmUomZH-_o77HTsNzlANseCYNqy0UsItwnw1iKPoGkmwt_uKyFHVqw7hpvnR2tCn1to-r4U1XIiM4u5-in4bR8-c3y83b16d_uRdzLn7sJNMrJrFfeRFHr0_BvlUIZdNqOlop3TubJID4UpMuYvt2dLnD92jnyxyjifK-0itl7XTIEhLubqKOafT1DFVaCJSuKa-J8ZW5XeQXALVrY8pPkIRtdpMsOQS1PJsazIssKQg",
+      "photoAttribution": "Valsana Hotel Arosa"
     },
     {
       "name": "Le Refuge de Solaise",
@@ -567,7 +943,13 @@
       "longDesc": "A charming mountain refuge near Chamonix offering authentic alpine ambiance with easy ski terrain access.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Refuge%20de%20Solaise&center=45.434154899999996,6.9930015999999995",
       "placeId": "ChIJX-ad0mIJiUcRN975OJDbIa0",
-      "address": "Téléphérique de Solaise, 73150 Val-d'Isère, France"
+      "address": "Téléphérique de Solaise, 73150 Val-d'Isère, France",
+      "rating": 4.4,
+      "ratingCount": 695,
+      "priceLevel": "MODERATE",
+      "website": "https://lerefuge-valdisere.com/?utm_source=Yext&utm_medium=GMB&y_source=1_MjU3NjI1MzQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "photoRef": "places/ChIJX-ad0mIJiUcRN975OJDbIa0/photos/AcnlKN23mYpJUrE0BbXsV1dr4VeLc2PBuEYLQIVRmzagHmbOFzjeNEXkADNRh8sOBuEssgxAnm_CfNJvds9CVYRjHQNo3vZHVO6M9_t-TtLV6q6w_6GIuZsRCwtCJe4qpRLMcxwGU7XAIBl7NFrd8zbj7puXyl5Yqw30O7x-OoU5zUfiiZT9pvFfE832IxIOo1hWdyRGcxfa8ZZpfo2nioOzsR4xlG733Q3BC2p-4v8ytqcVHlmgteh7cMJI_Rgk5sTGq-dR9ufEzo_8PumS0zm3wY43OKO7C20j06OCnBPAmQHQDw",
+      "photoAttribution": "Le Refuge de Solaise"
     },
     {
       "name": "Schilthorn - Piz Gloria 360°- Restaurant",
@@ -579,7 +961,22 @@
       "longDesc": "The iconic rotating restaurant at 10,000 feet offering 360-degree views and James Bond movie set fame.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Schilthorn%20-%20Piz%20Gloria%20360%C2%B0-%20Restaurant&center=46.5573294,7.835221099999999",
       "placeId": "ChIJ9XLyDqqgj0cRsnwSQtdtgMw",
-      "address": "Schilthorn, 3826 Mürren, Switzerland"
+      "address": "Schilthorn, 3826 Mürren, Switzerland",
+      "rating": 4.1,
+      "ratingCount": 1025,
+      "priceLevel": "EXPENSIVE",
+      "website": "https://schilthorn.ch/",
+      "hours": [
+        "Monday: 8:00 AM – 5:50 PM",
+        "Tuesday: 8:00 AM – 5:50 PM",
+        "Wednesday: 8:00 AM – 5:50 PM",
+        "Thursday: 8:00 AM – 5:50 PM",
+        "Friday: 8:00 AM – 5:50 PM",
+        "Saturday: 8:00 AM – 5:50 PM",
+        "Sunday: 8:00 AM – 5:50 PM"
+      ],
+      "photoRef": "places/ChIJ9XLyDqqgj0cRsnwSQtdtgMw/photos/AcnlKN0FAPyPx2FGfWP2h1Tu1TO8aD0KEBabeuudbi37ybIMdWx7LffR2hbbX6_8EYszNzOkhI_1dnBsv0bIz215GfdRk1fsVxRgCszHrWkgs1OQBjjRVQgN_IOrNXBbwGAmKu8rRPTSL9tan08sK3cYujkngNHqkV49Ou6urXYK0VZXT0Lbx5QZLE48heqLshWokQQCwW-E7Ow2BNlnRcnQX4_GXlTdMUHd_UNSilxahYU29n90hUz0UyjWnw9SXuBMqqCsuPBFcdaTT_KtBgOY22Z-o4mYO41ubrmQZ-cX1TiOsg",
+      "photoAttribution": "Schilthorn - Piz Gloria 360°- Restaurant"
     },
     {
       "name": "Kleine Scheidegg",
@@ -591,7 +988,11 @@
       "longDesc": "A high-altitude restaurant with stunning Eiger and Jungfrau vistas, accessible via Europe's historic mountain railway.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kleine%20Scheidegg&center=46.5850153,7.9612251999999994",
       "placeId": "ChIJB5zNLqefj0cRehFWQtvhUUw",
-      "address": "Kleine Scheidegg, 3823 Lauterbrunnen, Switzerland"
+      "address": "Kleine Scheidegg, 3823 Lauterbrunnen, Switzerland",
+      "rating": 4.8,
+      "ratingCount": 758,
+      "photoRef": "places/ChIJB5zNLqefj0cRehFWQtvhUUw/photos/AcnlKN3mVsCaKC-e_nxEKV-0d6eyP9Ti6fGndv7ikjQnWphB_2NirPT1CHihSA1uQkA2oObraDbmWSl-7CeNN9Atrsv87Y8qkTH9UBN1AQ_JpB7qqAOK17hrKENbq2JHOnnsscSKOmRY02H5aAIwVEfNDTiPiiIwGd2uSBRLTQSTB55UEHwOx0Congr5wUF8oTFWfL-gtzgYmL5-iuyxbVRpZdaxAPX_JDdKVHmEGAMhRhsm2-QmuMJPYLVb0EamY6Q-1yY2y2J1H1vHrPtCqDt_OIQybddfpzrYMG6cA1Q9fMfjJRmKknjAv5Z-cJDrazWNMiKhfU60V7qOf0Scw8a9w8MsRSBQnvXHNsz2F63EPorQ1uRjodKG8iTTjuvpLdl1b7pJEGOfKeB8sM5kcjEHRSB0gVSMxjMyc1qGkonrDyjVoLXb",
+      "photoAttribution": "משה ד."
     },
     {
       "name": "Jungfraujoch Sphinx Observatory",
@@ -603,7 +1004,21 @@
       "longDesc": "The 'Top of Europe' at 11,000 feet featuring an observatory, ice sculptures, and iconic mountain railway access.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jungfraujoch%20Sphinx%20Observatory&center=46.547558099999996,7.9852246",
       "placeId": "ChIJido6eSeej0cRmtDSAjrCDFc",
-      "address": "Eigergletscher-Jungfraujoch, 3818 Grindelwald, Switzerland"
+      "address": "Eigergletscher-Jungfraujoch, 3818 Grindelwald, Switzerland",
+      "rating": 4.7,
+      "ratingCount": 6374,
+      "website": "https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/sphinx-observation-deck/",
+      "hours": [
+        "Monday: 7:53 AM – 3:17 PM",
+        "Tuesday: 7:53 AM – 3:17 PM",
+        "Wednesday: 7:53 AM – 3:17 PM",
+        "Thursday: 7:53 AM – 3:17 PM",
+        "Friday: 7:53 AM – 3:17 PM",
+        "Saturday: 7:53 AM – 3:17 PM",
+        "Sunday: 7:53 AM – 3:17 PM"
+      ],
+      "photoRef": "places/ChIJido6eSeej0cRmtDSAjrCDFc/photos/AcnlKN0g4if5aCWB2z7kbtIKLxqrmdAQdgwPgraeVzknfcd9geuos6NrgMQv4-ojJ9UP5bH1pi2CdTu1rPjepLtwvJpswUWf2BLGpgr_q_8wR9-N4S4seNDKjpiABoi5PNmsqxu2EouUIIUW12wUOfI-RZaaJcPANfRxidRnM7QzpE5-ubskXyqJKxdEZbdFsJyboseopKEHG_9Q_2e5TR5sI_qnQLXYnCc_G3yoGiOEtJNVAFPnZ504O7M5cdJXH9E55ozlEaw3oZ5sBmu54ijKrF0vsQs4f8yFaca2wMQhUQwm1Q",
+      "photoAttribution": "Jungfraujoch - Top of Europe"
     },
     {
       "name": "Schilthorn",
@@ -615,7 +1030,11 @@
       "longDesc": "A 10,000-foot summit with 360-degree Alpine views, accessible cable car, and family-friendly mountain activities.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Schilthorn&center=46.557480899999995,7.835279300000001",
       "placeId": "ChIJsUVjBKqgj0cR8gehgn7ICg4",
-      "address": "Schilthorn, 3826 Lauterbrunnen, Switzerland"
+      "address": "Schilthorn, 3826 Lauterbrunnen, Switzerland",
+      "rating": 4.7,
+      "ratingCount": 1311,
+      "photoRef": "places/ChIJsUVjBKqgj0cR8gehgn7ICg4/photos/AcnlKN1bKdJY4UcTXeQztmLtnC0Fb3TWN9Q8j7Aafylsj4tdnE33yBYER6f6-Kui0gAgQtkdSXeAFzey4wZPFgUkr6l1IP5kQesZYkFGnjyZDKZYdtveEY1p6NwuSJY5zBAW8BWikYUakgH3T2pY2tLk-AOJoe_7djzqPNDgBiTn6Ug2BvAOispSCgX_XMkmPtssLTZM6AE0Mly52Adwjc2PhHEHl-DmNweK3mB_04CgUBA23gJuWd8hZuLZXZzysFE7Q6AQ0ZP49c8zLwpEzmmIOI9aHJ3FRV3_ayb3gVp9iQVRDyuuAGx5Tm-2VXafK0_jaQDJyEcTQJKeHGYJqyQzj6-SscCcNLO061MenMcA0eYLk3JNzeMhSgN4UEORySOz2Gqke1piNnZAcUEjqQdVBF-jKY-a3dP0WJJrGatDYcJIqg",
+      "photoAttribution": "Alfredo Conti"
     }
   ],
   "restaurants": [
@@ -629,7 +1048,21 @@
       "longDesc": "Alta Badia's Michelin-starred gem offering creative mountain cuisine, worth a special-occasion splurge for culinary-focused families.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Porcino%20%281%E2%98%85%20MICHELIN%29&center=46.6066232,11.894835299999999",
       "placeId": "ChIJyTJYdtI9eEcRMh_-8G58Jsg",
-      "address": "Str. Damez, 2A, 39036 Badia BZ, Italy"
+      "address": "Str. Damez, 2A, 39036 Badia BZ, Italy",
+      "rating": 4.9,
+      "ratingCount": 65,
+      "website": "https://www.badiahill.com/de/food-drinks/ristorante-porcino/",
+      "hours": [
+        "Monday: 7:30 – 9:00 PM",
+        "Tuesday: 7:30 – 9:00 PM",
+        "Wednesday: Closed",
+        "Thursday: 7:30 – 9:00 PM",
+        "Friday: 7:30 – 9:00 PM",
+        "Saturday: 7:30 – 9:00 PM",
+        "Sunday: Closed"
+      ],
+      "photoRef": "places/ChIJyTJYdtI9eEcRMh_-8G58Jsg/photos/AcnlKN1WjxYr-lyMQFLpiPRp-W7ecr_rZNdCRp9hBN7ry-WQ9DhLegzLSz9SDZGBVD5FsE_rBsuCXque9f04dKT_dIaTTdMGkXQA_qlohYpWwYUUBhJikSPbPRJEPSNeiteDCjVF00-G02bZl_rD9deaTNH1FWMKfykuBvY-Y_jUbaYeiA1CBf7lcjDrSx2Hp8zqnHI_88G3SAbp7uuEEjBFqd8k2GR8U1niVH-vmO1wVi6dSmFmqeWrwsuxtfyuMWu8d0Lk_zFhmcTuf5VmsvhptTXCG7AGTM90xhHhuijRAuObHQ",
+      "photoAttribution": "Ristorante Porcino"
     },
     {
       "name": "La Stüa de Michil (MICHELIN)",
@@ -641,7 +1074,22 @@
       "longDesc": "An iconic wood-paneled Ladin stube in Hotel La Perla, serving heritage mountain dishes through chef-led tasting menus.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20St%C3%BCa%20de%20Michil%20%28MICHELIN%29&center=46.5471425,11.8768416",
       "placeId": "ChIJobhX9gU_eEcRSIoHkcV5l-A",
-      "address": "Str. Col Alt, 105, 39033 Corvara in Badia BZ, Italy"
+      "address": "Str. Col Alt, 105, 39033 Corvara in Badia BZ, Italy",
+      "rating": 4.7,
+      "ratingCount": 149,
+      "priceLevel": "VERY_EXPENSIVE",
+      "website": "https://www.lastuademichil.it/it/",
+      "hours": [
+        "Monday: 7:30 – 8:45 PM",
+        "Tuesday: 7:30 – 8:45 PM",
+        "Wednesday: 7:30 – 8:45 PM",
+        "Thursday: 7:30 – 8:45 PM",
+        "Friday: 7:30 – 8:45 PM",
+        "Saturday: 7:30 – 8:45 PM",
+        "Sunday: 7:30 – 8:45 PM"
+      ],
+      "photoRef": "places/ChIJobhX9gU_eEcRSIoHkcV5l-A/photos/AcnlKN2Tvy-MfcuREsbWjbo8JkU2d660y8b4qZQqoZN7aERGE9KcuYx91oOelsqndBy2RbNU2sl3Mbb6nj3A8zUEI4ULsCW9hf-Ci3bnUVb3aMbxFjqh7tSmcU5YNOE4vxwoSoI_aMvXfoTwnW6RFrmBthqdYXGon0Vq3toNfKwXmrDFb0sFR4Jx7oTK4e4tn8xk5t9AYGmZSdCgB3RNnyG92RiSD2dcGJ46KELlJ8fGGfeNqHOJus3739czOB7zBwFB-U3JKlN3OG56akc2l9Y50CdgjALMX1oBctrFSTTbd4rQ6g",
+      "photoAttribution": "La Stüa de Michil - Simone Cantafio"
     },
     {
       "name": "Bistrot La Perla",
@@ -653,7 +1101,12 @@
       "longDesc": "A refined yet approachable bistro offering La Perla's culinary excellence without full tasting menu formality, ideal for families.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bistrot%20La%20Perla&center=46.546811999999996,11.876638999999999",
       "placeId": "ChIJIazWn2Y_eEcRnBnqoAL6DrU",
-      "address": "Str. Col Alt, 105, 39033 Corvara in Badia BZ, Italy"
+      "address": "Str. Col Alt, 105, 39033 Corvara in Badia BZ, Italy",
+      "rating": 3.3,
+      "ratingCount": 19,
+      "website": "https://www.laperlacorvara.it/",
+      "photoRef": "places/ChIJIazWn2Y_eEcRnBnqoAL6DrU/photos/AcnlKN0wH-pZLx_a0k9_AvuGeB6m6uAl5V2hparzqWEy0MWf0e8mMwENKZF_FFZq9cW9_JXkV3hzkPYwpfV_utpyDOSIRIcAPvEv_XoQhM0m9ONn8QhQwS2ewgpdo2FNsWP8tCvFa05MJwahvIA-Y3WtTsPs_LB49s7NkMdbnJOcDOdSckZzdFaQcSHERWTZBZtq5KgTBTdD_P0qRmU0KuAXhAdgfu3jtCHDz1BH6WuSsiFlb4LDBPThHw-jzLNuJNX4KrGfHWIAfO9O_Hd-SS8ZDm3KPuDzUqwnK-wmlThknM7m3A",
+      "photoAttribution": "Ristorante Bistrot Music Club"
     },
     {
       "name": "Rifugio Bioch",
@@ -665,7 +1118,22 @@
       "longDesc": "An easily accessible mountain hut with standout Champagne list, perfect for celebratory mid-slope lunches with kids.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Bioch&center=46.5471,11.909678399999999",
       "placeId": "ChIJo3hXotQ4eEcR-DAbT2NMLtg",
-      "address": "Piz Sorega - Loc. Bioch, 39036 Abtei, Autonome Provinz Bozen - Südtirol, Italy"
+      "address": "Piz Sorega - Loc. Bioch, 39036 Abtei, Autonome Provinz Bozen - Südtirol, Italy",
+      "rating": 4.5,
+      "ratingCount": 2611,
+      "priceLevel": "MODERATE",
+      "website": "http://www.bioch.it/",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "photoRef": "places/ChIJo3hXotQ4eEcR-DAbT2NMLtg/photos/AcnlKN1g9VK4pEuhczgBOJkr9KI6trkZermI53pcUECCTyRYaxb5T8naq9jxSfMNC2LGlquJurgYbAiC6Tiyvr1E9JDpfaaOAlfGR4CsoqjxiDsI2f6-9ijXVS3nf1a7k_24hTk1tkkfZxuHNQ1NpG8GQuGIRkpSoZk2L-cEzIsm_63A8fwDvyd-Veq96-WqeRWbhPgToA0an20_pXP4bp-G57GBgw6fqVuG7WrccpMTEgQepqAlQ8yCBHLKwkPIQ0sq0sKYALjQKrB6NqGzMuJOdiOTiuw_hmDolnjEN1zMSiJY-w",
+      "photoAttribution": "Rifugio Ütia Bioch 2.079 m Dolomites"
     },
     {
       "name": "Rifugio Sponata",
@@ -677,7 +1145,22 @@
       "longDesc": "A wine-forward ski lunch stop stocked from Rosa Alpina's legendary cellar, offering gourmet fuel for afternoon runs.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Sponata&center=46.5891887,11.8901793",
       "placeId": "ChIJv8Uh0oY-eEcRIBV1sByPm2Q",
-      "address": "Sponata, 1, 39036 Badia BZ, Italy"
+      "address": "Sponata, 1, 39036 Badia BZ, Italy",
+      "rating": 4.2,
+      "ratingCount": 497,
+      "priceLevel": "MODERATE",
+      "website": "http://www.rifugiosponata.com/",
+      "hours": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: 8:30 AM – 5:00 PM",
+        "Sunday: 8:30 AM – 5:00 PM"
+      ],
+      "photoRef": "places/ChIJv8Uh0oY-eEcRIBV1sByPm2Q/photos/AcnlKN16Cs29_NAWj6vz3wg5Q4z7rNCGZ36lAtAAS2VcJL71-pXXS_xsLhVx_V0Dic5cWjZOFv4WvkC4PgB5fStD-khd1DfJ72EbJsOIWII9biwCDNVkOFA1UdthRQvpWEsm7TEsdZimBSrWSnvPziCqrXId6fG9JeTxvlU6X2Vd0WbVcS7XvDRYsd0iPZ2UiTnRY6INXlKIRQnkvLThnoVuSNoCksksSU9hUIhYshiQbRAiXuzRKhmDaxVru83YOII6dBZ-x8qhXKdbLQr95YIRvuFHokN39kB39UkqI7HrMNbh7w",
+      "photoAttribution": "Rifugio Sponata"
     },
     {
       "name": "Berghaus Ladinia",
@@ -689,7 +1172,12 @@
       "longDesc": "A cozy mountain hut serving classic Ladin dishes—hearty, warming cuisine perfect for refueling families after morning runs.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Berghaus%20Ladinia&center=46.547070299999994,11.8778946",
       "placeId": "ChIJE55ugQU_eEcRCYDzYJcqmGw",
-      "address": "Str. Pé de Corvara, 10, 39033 Corvara in Badia BZ, Italy"
+      "address": "Str. Pé de Corvara, 10, 39033 Corvara in Badia BZ, Italy",
+      "rating": 4.4,
+      "ratingCount": 235,
+      "website": "http://www.berghotelladinia.it",
+      "photoRef": "places/ChIJE55ugQU_eEcRCYDzYJcqmGw/photos/AcnlKN0cawZ-uOyBQtQOXa51NEMeanmbZ6StzB4hzWicKt7y2IP1wQ4nDvIVfdVmjhvPAvQTYAv5nUbqhOTYrXEVetD_i5_V9BC33auvo4tVptWvwV5UtUd502Xq2muILoOyCNcZw006uv-Mxk5Dr4o_aDNNMh_KBs8Ns5qhsOEANzeX811p19NGEuKBieJk1H_s-VXHDdS2p6UabxwE_aV7ftKJcJRgyrcpZ42WqBAdlsL0xQwAaPJAcEY669nJ2WoPQThTNBstETyLOURaQpsxf-atajxshLjUc9Rohl63g6CnBA",
+      "photoAttribution": "Berghotel Ladinia"
     },
     {
       "name": "Rifugio Scotoni",
@@ -701,7 +1189,12 @@
       "longDesc": "A rowdy, social grill-forward hut beloved for big group lunches and convivial après-ski energy among skiers.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Scotoni&center=46.5530125,11.9984591",
       "placeId": "ChIJV9gA2co9eEcRo_XKbsaxXOE",
-      "address": "Alpe Lagazuoi, 2, 39036 San Cassiano BZ, Italy"
+      "address": "Alpe Lagazuoi, 2, 39036 San Cassiano BZ, Italy",
+      "rating": 4.5,
+      "ratingCount": 2172,
+      "website": "http://www.scotoni.it/",
+      "photoRef": "places/ChIJV9gA2co9eEcRo_XKbsaxXOE/photos/AcnlKN3RFTUGL56Rj4xONaXiAe-jadd903ONnuiuog4cqdzjZ2pVobS5MvrlR2BfRN8C_ycQdn2dUHzzM1PXkqIkCeai7scevIi-6K_IQVfbHAgYtbhx6Kpayx8GvAf-CzjR2O61clh26bbJJyzvWMgPT3wEEJN8drZtMSQru6zSgRcHqAlA4AU78fGVU103s9CSvJ7LnUdNv8F6ilE0IQgx3xUcaa_l9yfsaF0y-vBqA6NfqcFe-tUeLpMm_T5noGEYY4Ykr4P9Bo7G9YSKSI7jjUty6d8vlgw2MTHxAtYtwCMeaw",
+      "photoAttribution": "Rifugio Scotoni - San Cassiano Alta Badia"
     },
     {
       "name": "Maso Runch-Hof (MICHELIN)",
@@ -713,7 +1206,22 @@
       "longDesc": "A historic farmhouse with Michelin recognition, offering a 'journey back in time' through traditional mountain cooking.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Maso%20Runch-Hof%20%28MICHELIN%29&center=46.6113059,11.888451",
       "placeId": "ChIJUbTk-Mo9eEcReBfWj_Krd0w",
-      "address": "Località Runch, 18, Localita' Runch, 18, 39036 Badia BZ, Italy"
+      "address": "Località Runch, 18, Localita' Runch, 18, 39036 Badia BZ, Italy",
+      "rating": 4.7,
+      "ratingCount": 548,
+      "priceLevel": "MODERATE",
+      "website": "http://www.masorunch.it/",
+      "hours": [
+        "Monday: 7:00 – 11:00 PM",
+        "Tuesday: 7:00 – 11:00 PM",
+        "Wednesday: 7:00 – 11:00 PM",
+        "Thursday: 7:00 – 11:00 PM",
+        "Friday: 7:00 – 11:00 PM",
+        "Saturday: 7:00 – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "photoRef": "places/ChIJUbTk-Mo9eEcReBfWj_Krd0w/photos/AcnlKN1_Hee4qVGGnHL9DFjejQtA8c0RXlXqh_pB7zAanoGBxKe2dC-ie-1vaamYTenpqn2mTIcxbXjlVbSUBXIMVHGHQ-tK4euL8_gExCecjpEsrc33bVTTlxAg-Gaq-_rEK_G8dcfLeQ804yij1AgAd38mnwOCILYWPJS6m0YWKJHWWywuBqCGhjkjq0iHzzKSnRrSobp4ESzPHemTAZzXQSjX567VfuFE_Qniu7mkhAQ5CiLRPuw_d9o2A84zKGguDhXGKOXOrd6JStTw45jaWEkmFf4GKCUv_zWUfC5yM5w5kQWBOZ1TOj_k2aKb6_iP2NlCZ7ir-W-vxKw_nbSPTPCc4Tzi7eCx7UTC0uEx83vOYnL8CipjV6BCqPWFXFekq_IOyoDSsp9LEddAa23oVx_ALSxfIb34xyU8sx0rhMF5qGeB",
+      "photoAttribution": "Emanuel Scapin"
     },
     {
       "name": "L'Ostì (MICHELIN selection)",
@@ -725,7 +1233,21 @@
       "longDesc": "A smart-casual dinner spot in Alta Badia valley, ideal for families wanting good food without multi-course tasting menus.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27Ost%C3%AC%20%28MICHELIN%20selection%29&center=46.5523418,11.873521199999999",
       "placeId": "ChIJd8E3LQc_eEcRKojdnj5-h_4",
-      "address": "Strada Sassongher, 2, 39033 Corvara in Badia BZ, Italy"
+      "address": "Strada Sassongher, 2, 39033 Corvara in Badia BZ, Italy",
+      "rating": 4.6,
+      "ratingCount": 310,
+      "website": "http://www.ristorantelosti.it/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 12:00 – 2:00 PM, 6:30 – 10:00 PM",
+        "Wednesday: 12:00 – 2:00 PM, 6:30 – 10:00 PM",
+        "Thursday: 12:00 – 2:00 PM, 6:30 – 10:00 PM",
+        "Friday: 12:00 – 2:00 PM, 6:30 – 10:00 PM",
+        "Saturday: 12:00 – 2:00 PM, 6:30 – 10:00 PM",
+        "Sunday: 12:00 – 2:00 PM, 6:30 – 10:00 PM"
+      ],
+      "photoRef": "places/ChIJd8E3LQc_eEcRKojdnj5-h_4/photos/AcnlKN0p7Jcopao_Rm48V4qQYzzGbxiK5pk_pt9SQ-fc4bNpAA_pQ4KY1VPqd-7w4BB4a2AYW18apzmo3yTSuVkG5IKyPzZ4qsV5VFNlwLlJ0tRd7j2FOeKanpF0rrRPjFFNuhdqDZNeyiTSUEAPFxVMYrUXGt25OfAffE7zt59bmTyUepiYIUtjhVFXuiTVO4ecCZIAwy3rXi0ThXGnpNd3VkocKjLU4Slf3-3lcSU76YhZdwTfrDPIeJVb3yE4iJ_4Qqe4RMmFjOBibjsM0q23nSp_zEeCdmafhZlZ6hthIi3cfYNGgGdCStbOhis9y63wM80tvD0SssUWPcRalhL4pn2dUsdkQ1W5KXPgISe2n-KLp8EaqPYXg7vP7az5MYbHjWMC0y1DmKcd2v4dUbVuaKw3eHJWlcRUe-OTdN7jDlTm4Ujiby_99z6lbqLwthDT",
+      "photoAttribution": "Andrea Babacci"
     },
     {
       "name": "Rifugio Col Alt (MICHELIN selection)",
@@ -737,7 +1259,22 @@
       "longDesc": "A high-altitude lunch stop with sweeping mountain views, best enjoyed on sunny days when reservations are essential.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Col%20Alt%20%28MICHELIN%20selection%29&center=46.5526439,11.8862062",
       "placeId": "ChIJQXPp8Bw_eEcRjxS_jaImfdU",
-      "address": "Stazione monte, Str. Col Alt, 39033 Corvara in Badia BZ, Italy"
+      "address": "Stazione monte, Str. Col Alt, 39033 Corvara in Badia BZ, Italy",
+      "rating": 4.4,
+      "ratingCount": 786,
+      "priceLevel": "MODERATE",
+      "website": "http://www.rifugiocolalt.it/",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "photoRef": "places/ChIJQXPp8Bw_eEcRjxS_jaImfdU/photos/AcnlKN3g11AUBakmppNwEqZBqVL0W8-AyJFbiBU2BXFFCcD4ySAMCL0kPtBLY7ByCBvTdu-7S_veinysRJKybEZOlcpGmSw4X1_tnKH8gz4S9ATzB7dVLYjYBYPL7kTZrNXUuP9tq8lPgUw5dMuPXNWey181oXO15xfndmurwktfkesOTJVBoyvGwbPEEXYuQuXDCJ1voeKcHv7P5oPKbs7Vw6DVHTYSKrZLJNHXnbQbAUrxF8rEhUrWY4svML7-yWc2G8X1L2yL_z_7MpxU2sMmfFqAR0-baZm6Lj6GPH5Bx01Fj9MQdC2rmXRg20e3x4xhSYeUa4TyJDu-08MzVQ258-h0DQKbSDEvGKQtg-adbwLH8EBjaTj5gheF-Biy0t9969Jz2jNfXPrjWCEk2XvHJEdnZ5Cc-N4rxsRl1IOGFZtmNQ",
+      "photoAttribution": "Volha Svirydon"
     },
     {
       "name": "Austria Stuben (Falstaff)",
@@ -749,7 +1286,21 @@
       "longDesc": "Obergurgl's gourmet anchor featuring refined Austrian cuisine paired with an impressive wine program in elegant surroundings.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Austria%20Stuben%20%28Falstaff%29&center=46.8710658,11.0286111",
       "placeId": "ChIJ__DleFjNgkcRMzISQdlcMlQ",
-      "address": "Kressbrunnenweg 3, 6456 Obergurgl, Austria"
+      "address": "Kressbrunnenweg 3, 6456 Obergurgl, Austria",
+      "rating": 5.0,
+      "ratingCount": 3,
+      "website": "https://www.austria-bellevue.com/austria/austriastuben",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 6:30 – 11:00 PM",
+        "Friday: 6:30 – 11:00 PM",
+        "Saturday: 6:30 – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "photoRef": "places/ChIJ__DleFjNgkcRMzISQdlcMlQ/photos/AcnlKN3Do_OPp4NmLIhhAZyp9ja_mFs8iY0u4oYkdKDYDVCyOr4Mnf8bGpx1U1UODhPpJRk5AurJCb-zkfAs5CJY2jAmZz1MwKgfx3raTyxDKRNQ8dHoTLV53wtWtEyldidfw4z_P_AuOAjFQalUbdmLjp3rmDJo04gACkIV-vxJ88Ts-p6fD7ubNe5DVJ05D8SxT87qLsqpQdJgJ-jd3-9ffZFhMBpB4R-hww_tCzL1LrXpjNLYHcd4uRLl2V_JAidN6njD-N4xS_9KYp9uc2KUmjNWtuPAamBtQYfGUVxp9D_OgQ",
+      "photoAttribution": "Austria Stuben - Kulinarik auf 1930m - a Michelin Star Restaurant"
     },
     {
       "name": "Gourmet Restaurant Grünerhof (Falstaff)",
@@ -761,7 +1312,21 @@
       "longDesc": "A Falstaff-rated property serving classic Tyrolean comfort food elevated with modern technique and impeccable service.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gourmet%20Restaurant%20Gr%C3%BCnerhof%20%28Falstaff%29&center=46.8685178,11.0256509",
       "placeId": "ChIJ-6QzL3zNgkcR06RsfDL0_zI",
-      "address": "Gaisbergweg 2, 6456 Obergurgl, Austria"
+      "address": "Gaisbergweg 2, 6456 Obergurgl, Austria",
+      "rating": 5.0,
+      "ratingCount": 17,
+      "website": "https://www.gruenerhof.at/restaurant-oetztal/",
+      "hours": [
+        "Monday: 4:00 – 10:30 PM",
+        "Tuesday: 4:00 – 10:30 PM",
+        "Wednesday: 4:00 – 10:30 PM",
+        "Thursday: 4:00 – 10:30 PM",
+        "Friday: 4:00 – 10:30 PM",
+        "Saturday: 4:00 – 10:30 PM",
+        "Sunday: 4:00 – 10:30 PM"
+      ],
+      "photoRef": "places/ChIJ-6QzL3zNgkcR06RsfDL0_zI/photos/AcnlKN0ImQXqd6Sz3VIoD1vxRml0Rac6XZE9Yzq-EIjcwRkWV00kbVUCfULEqfZL_bkDj0iLoTD_rXSXWbFN9u55Y1rpfjtL4KYDAw5ydGIV6il-H4SiXiNAN9D3zeZx17bq33dneN9VqOhTPtqP0AwBS7XMJrUZoRmLBQTWoIKKQ5M26_1ewuaL7QrIUTWDKp7TJ6MvzmfNILXke4QYTP1x3uJZl0rN_dqiqyUjJ3lOUGRf_xJ5qSwQN-N9lFa4yFasvh9SAxSu1kr0np9VqBa9kmTz-laUhKhhNz0cxLih-o0rnA",
+      "photoAttribution": "Restaurant Grünerhof"
     },
     {
       "name": "Edelweiss & Gurgl (Falstaff)",
@@ -773,7 +1338,12 @@
       "longDesc": "A Falstaff-recognized restaurant famous for fondue dining in cozy fireplace-warmed parlours, perfect for early family dinners.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Edelweiss%20%26%20Gurgl%20%28Falstaff%29&center=46.869865999999995,11.026142",
       "placeId": "ChIJzYjWGGXMgkcR7kZa3Z-tfvM",
-      "address": "Ramolweg 5, 6456 Obergurgl, Austria"
+      "address": "Ramolweg 5, 6456 Obergurgl, Austria",
+      "rating": 4.7,
+      "ratingCount": 815,
+      "website": "https://www.edelweiss-gurgl.com/",
+      "photoRef": "places/ChIJzYjWGGXMgkcR7kZa3Z-tfvM/photos/AcnlKN3ybHczfOIeiIB58Oc151DkgtzCtcoqSObSm9zFzeCs0UUaQgRY_Jwzw9emuLFNJfMaQH6-WlBjXN21pJpEzNqzrpUy1-e2NyBoP4JptC0zDVcTDTM0cAgnhQFIPjXFxkD8dw_RXnM7iCE8hb6UHY41NK3PSQk0yQv0W8Lr1t-S04oY4cH1YG9Xhk0qJAN0V69gQNxcBEUbGS_NFJBq-9ma8ZYMjy1Gw6hx15r0SlhURN4vQSW8XWAgfKl9wmitx0ltEI67nYee_CIMtJgvHvMiB4Z6_8ztlIbKGu3rb-lsYg",
+      "photoAttribution": "Hotel Edelweiss & Gurgl"
     },
     {
       "name": "Top Mountain Star (après / views)",
@@ -785,7 +1355,22 @@
       "longDesc": "A high-altitude bar offering panoramic drinks with Ötztal views, perfect for sunset celebrations on bluebird ski days.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Top%20Mountain%20Star%20%28apr%C3%A8s%20/%20views%29&center=46.880192099999995,11.082933599999999",
       "placeId": "ChIJ_cPoagXLgkcRiFBPA0jUays",
-      "address": "Wurmkogel, 6456 Hochgurgl, Austria"
+      "address": "Wurmkogel, 6456 Hochgurgl, Austria",
+      "rating": 4.7,
+      "ratingCount": 1153,
+      "priceLevel": "MODERATE",
+      "website": "http://www.tophochgurgl.com/de/ds5/kulinarische-highlights/top-mountain-star.html",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "photoRef": "places/ChIJ_cPoagXLgkcRiFBPA0jUays/photos/AcnlKN1Z5XLpuwLZzNYxLDOzZy-4Oou2eobvHioJ7E147EsifC2JQyszkyZ5PmVr-BdFHVcIm6S2yvlKfTcj_HvMyZkn_HatYudSHoSl4G5uO0MXBwh4eYMW2eUomKfZBdppbCPjrJM87Jqi0PEiGxTzi234PDxc_AsVXa-qJ46cIMjnCOJxAciUsxZhNlMis_oenPUgVKHlhQq1IjW6z4S5VRaDqX5NpIiByBPJupimnYIF5eNx2RwN_9DeftxtjFJ__aowyh_j1sBxhQ3dctJBbrR4Isj8yGN5jMCXPqOXQfdYnEilP8NFTqgyAzA1_L4YPwD_UVVpA1cxob-D0qLWlBgCL_hGKOpvW6BQLPoVWEMa47Bjdkcko_pvoYQqil5JLpBWoEYGSHXxj5qUc2IXzfna44env0BIFU8nqnou5RkpFFGO",
+      "photoAttribution": "Thomas Oberhofer"
     },
     {
       "name": "La R'mize (MICHELIN selection)",
@@ -797,7 +1382,22 @@
       "longDesc": "A polished dinner option in Les Gets village, ideal for parents seeking date-night escapes while kids rest.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20R%27mize%20%28MICHELIN%20selection%29&center=46.1599031,6.6719788",
       "placeId": "ChIJhUMmx9cCjEcRIr08B8rNYfI",
-      "address": "160 Rue du Vieux Village, 74260 Les Gets, France"
+      "address": "160 Rue du Vieux Village, 74260 Les Gets, France",
+      "rating": 4.8,
+      "ratingCount": 499,
+      "priceLevel": "MODERATE",
+      "website": "http://larmize.fr/",
+      "hours": [
+        "Monday: 12:00 – 2:00 PM, 7:00 – 9:30 PM",
+        "Tuesday: 12:00 – 2:00 PM, 7:00 – 9:30 PM",
+        "Wednesday: Closed",
+        "Thursday: 12:00 – 2:00 PM, 7:00 – 9:30 PM",
+        "Friday: 12:00 – 2:00 PM, 7:00 – 9:30 PM",
+        "Saturday: 12:00 – 2:00 PM, 7:00 – 9:30 PM",
+        "Sunday: 12:00 – 2:00 PM, 7:00 – 9:30 PM"
+      ],
+      "photoRef": "places/ChIJhUMmx9cCjEcRIr08B8rNYfI/photos/AcnlKN2gSwpMY78sQJeQ-_vzblHjAxC-izWYEUwS_nxxE4uQHHq-tJbneAPMZvZJxNRJhcVBl0rSZsaRgLHnVjSgROpbeEIHbpRKOi-JcB3qccEjaEUGu0aRwhGrvlymadGL7kaJjJREQEd3rCkP8aZmugwv7-55bcLmLq76uJftgbTU7p1R7-HXAP-lFPgo2ju5Gz4NCDmZBKDmqKHsVdhBgDeqmuVCernvaQimeqy8LMyzlmXCCjK3zrU4x7AlvVHbhWcJZICEk5jpwh5LFY69Bz7_AqB4Y542vvWKsC_R_i_Vjrg8HMtPNSIVAqtpDDoOdcoivcy1iJniw8OoyBRM3kMkh4RQ1YBhWksyxlqGyte3YhWosDGGhbs736L6N7KkMVZghbEnmF7hj7Zt5TQRgsD_dS_-I1OVVvBVEAnEEnccxokChzmh9-V1nHgtTA",
+      "photoAttribution": "Mary Williams"
     },
     {
       "name": "La Paika",
@@ -809,7 +1409,21 @@
       "longDesc": "An on-slope restaurant linked to La Marmotte, solving the logistics puzzle of gourmet family lunches without village detours.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Paika&center=46.1432605,6.6701216",
       "placeId": "ChIJb8Sgx-MCjEcRx9DXH1OfKoM",
-      "address": "Piste des Vorosses - La Turche, 74260 Les Gets, France"
+      "address": "Piste des Vorosses - La Turche, 74260 Les Gets, France",
+      "rating": 4.5,
+      "ratingCount": 289,
+      "website": "http://www.restaurant-lapaika.com/fr/accueil?utm_source=google&utm_medium=organic&utm_campaign=my_business",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "photoRef": "places/ChIJb8Sgx-MCjEcRx9DXH1OfKoM/photos/AcnlKN2SA7Eco4N5uMMuqwUHVPKJ2couXzjoB5RCVqSmCNuQunrfzEWWcvZckZQtGC4EU3OG8UF8OI6YWOzp8hSYTZzkK27U9oclRdhyo3noeJOwyi-g0WR_t0RUBOzY0KiwNJnQ4e8c9n0ZBxQddWumtzcvmqQw0M90taILzbfTgeI04trAUPJ7hBj0Ivh7oFpuKZnSCJpllI8c0wz9uPFgE5e7fyh4lzwnPDw_mKEAEKgygMJGiR9fKExhrtS9RWy4zaRyKRLdkBeuN0h9wKA0R7_gzUIlaRx7PqkM2e0QoivgsA",
+      "photoAttribution": "Restaurant La Païka"
     },
     {
       "name": "La Pivotte",
@@ -821,7 +1435,21 @@
       "longDesc": "A cozy restaurant serving Savoyard classics, striking the balance between 'kid-friendly' and 'genuinely good' that families appreciate.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Pivotte&center=46.1566827,6.6676594",
       "placeId": "ChIJJzFurScDjEcRSA42aw39gWY",
-      "address": "Chalet-Hôtel La Marmotte, 61 Rue du Chêne, 74260 Les Gets, France"
+      "address": "Chalet-Hôtel La Marmotte, 61 Rue du Chêne, 74260 Les Gets, France",
+      "rating": 4.2,
+      "ratingCount": 123,
+      "website": "http://www.restaurant-lapivotte.com/fr/accueil?utm_source=google&utm_medium=organic&utm_campaign=my_business",
+      "hours": [
+        "Monday: 6:30 – 9:30 PM",
+        "Tuesday: 6:30 – 9:30 PM",
+        "Wednesday: 6:30 – 9:30 PM",
+        "Thursday: 6:30 – 9:30 PM",
+        "Friday: 6:30 – 9:30 PM",
+        "Saturday: 6:30 – 9:30 PM",
+        "Sunday: Closed"
+      ],
+      "photoRef": "places/ChIJJzFurScDjEcRSA42aw39gWY/photos/AcnlKN0c80M0u8hzuL7IxWLlfzd-M71sIB5FQK1w5tUpWlGgTt6H78U8YxYyI5IYggHdBIJiBfUFRE72E4TyuVxQeYY7aZwzkOkIkJqSMG1cwZnjQAx9-lkL-A_VqKvbh7vQ1Cuj6kq4vOWMRG9qvNNOwbeBxtR1ceOp8tdWaeB6rt6Sq9lQYu02GzLOuNAUZ9ILC5oAkNErRr85R8Vj20XalNwn1vueNHa4d8gZuLbglhEBnFqI5bHirQjJFp0AYuyCerasg1UMQtactFu6uXRPHGaPVLmq_8wluDjGdpCIg3B2Iw",
+      "photoAttribution": "Restaurant La Pivotte"
     },
     {
       "name": "La Biskatcha",
@@ -833,7 +1461,21 @@
       "longDesc": "An easy-going restaurant with simple comfort food, perfect for families wanting good meals without complicated menus.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Biskatcha&center=46.1567362,6.6673792999999995",
       "placeId": "ChIJl_ElrScDjEcRO2FNNOqkwgo",
-      "address": "61 Rue du Chêne, 74260 Les Gets, France"
+      "address": "61 Rue du Chêne, 74260 Les Gets, France",
+      "rating": 4.2,
+      "ratingCount": 618,
+      "website": "http://www.restaurant-labiskatcha.com/fr/accueil?utm_source=google&utm_medium=organic&utm_campaign=my_business",
+      "hours": [
+        "Monday: 12:00 – 2:00 PM",
+        "Tuesday: 12:00 – 2:00 PM, 6:30 – 9:30 PM",
+        "Wednesday: 12:00 – 2:00 PM, 6:30 – 9:30 PM",
+        "Thursday: 12:00 – 2:00 PM, 6:30 – 9:30 PM",
+        "Friday: 12:00 – 2:00 PM, 6:30 – 9:30 PM",
+        "Saturday: 12:00 – 2:00 PM, 6:30 – 9:30 PM",
+        "Sunday: 12:00 – 2:00 PM, 6:30 – 9:30 PM"
+      ],
+      "photoRef": "places/ChIJl_ElrScDjEcRO2FNNOqkwgo/photos/AcnlKN1fmhBSNZlh8MnNYVbGTQr8xI5IIRgAQbx6PTUPJW3kScCCVRYD3ZcQzzdj4i4sZo93gWCyOQoqLFbOqV2kmYme4CQ15nrDVtN8P8n4kt3XtFYuSG4cO-VsYqiU21BeI5xqp97UjAzPIdHImtmoezmDNTqtPufLW2KZ68yikxjdjLUil4eXQfulh8e9RGpKWKsL9uB9GCYHpxKrRTN6MC-xfdUxDHObyHcXfKDeSYSYC7oMsoLzja_bFsLti_pm_N_F1isbjrNoVuKq0bdIlqmktOBli7MwESPwV2n-zKiyvw",
+      "photoAttribution": "Restaurant La Biskatcha"
     },
     {
       "name": "Semba Bar",
@@ -845,7 +1487,21 @@
       "longDesc": "A lively bar in Les Gets village, ideal for parents to enjoy après-ski beverages once kids are settled for evening.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Semba%20Bar&center=46.1566644,6.6673293",
       "placeId": "ChIJNTkXHPMDjEcRWs5C2nQmLy4",
-      "address": "61 Rue du Chêne, 74260 Les Gets, France"
+      "address": "61 Rue du Chêne, 74260 Les Gets, France",
+      "rating": 4.8,
+      "ratingCount": 51,
+      "website": "https://www.hotel-marmotte.com/fr/bars-les-gets",
+      "hours": [
+        "Monday: 6:00 – 11:30 PM",
+        "Tuesday: Closed",
+        "Wednesday: 6:00 – 11:30 PM",
+        "Thursday: 6:00 – 11:30 PM",
+        "Friday: 6:00 – 11:30 PM",
+        "Saturday: 6:00 – 11:30 PM",
+        "Sunday: 6:00 – 11:30 PM"
+      ],
+      "photoRef": "places/ChIJNTkXHPMDjEcRWs5C2nQmLy4/photos/AcnlKN3arJ5_Pcc-qyQp5j1XNI-y6gbDoyFIQ1V30Oc5_E8bhAHDb5ls3q3kf7WIJu_SppHNmYpM-VZ0gcU7x0fGacTL4chmeeBp2W8sqZm6DYWGAuF3Lql13yRaKVPak7lWNBpONqQ-pcJVFUkwafFGe7zgGebOgeb363YseQ3ZwkSHVWjo3yJwrYw0nCyX9yLmSAN6-8fAlw9PJk-DQsZXrzzmmmbTb8lvCbm3R42s8CfrOOtD_vGbO8E1rHHdOHIWxN1VIlz_f_-lzBWc7rC4qLOr-dtPXXvTTmHhgVv4RbL4SA",
+      "photoAttribution": "Semba - bar à cocktails et plats à partager"
     },
     {
       "name": "Le Festival (MIL8)",
@@ -857,7 +1513,21 @@
       "longDesc": "Convenient on-mountain dining in Avoriaz with retro charm, solving the challenge of gourmet meals while ski boots remain on.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Festival%20%28MIL8%29&center=46.1925372,6.7727395",
       "placeId": "ChIJg5opRVKmjkcR7IHjm4DXYI4",
-      "address": "241 Rue des Traîneaux, 74110 Morzine, France"
+      "address": "241 Rue des Traîneaux, 74110 Morzine, France",
+      "rating": 4.2,
+      "ratingCount": 250,
+      "website": "http://hotelmil8.com/",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJg5opRVKmjkcR7IHjm4DXYI4/photos/AcnlKN0--NgNSXsUUotBYhPLAdUSY3jprF6DdUlt7JL9NXjdtKVs2pNIfniQJpTf5kyZviyksfMdIF3gpgOo9J-yt861g73tSz3VEavEIkj4Ru_Ri1xpFX_SF0CIbou_8AZioeC2bMXEuaL-CYsiAJR4WF7ZD_TrIX8q07vOJjFDYmx2l80iJuitoxspOjNNYBifbcv-h4lMKKvOB6ULDo_laz6jZVhQPaE0Ehm5XYLdLkv4pfVdQto92hOpU-psSYvds-MtmpJQaGf-1uh95Z-gSTyolCMEPC0X0JOvg2_nlzdaWw",
+      "photoAttribution": "Hotel MiL8"
     },
     {
       "name": "Les Enfants Terribles (Les Dromonts)",
@@ -869,7 +1539,21 @@
       "longDesc": "An iconic Avoriaz restaurant offering a special night-out experience without leaving the car-free resort.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Les%20Enfants%20Terribles%20%28Les%20Dromonts%29&center=46.1894121,6.7764524999999995",
       "placeId": "ChIJJ1yhtU-mjkcRjrEIB_Kw1Js",
-      "address": "40 Pl. des Dromonts, 74110 Morzine, France"
+      "address": "40 Pl. des Dromonts, 74110 Morzine, France",
+      "rating": 4.1,
+      "ratingCount": 69,
+      "website": "https://www.hoteldesdromonts.com/actualites/restaurant-les-enfants-terribles",
+      "hours": [
+        "Monday: 7:00 – 9:00 PM",
+        "Tuesday: 7:00 – 9:00 PM",
+        "Wednesday: 7:00 – 9:00 PM",
+        "Thursday: 7:00 – 9:00 PM",
+        "Friday: 7:00 – 9:00 PM",
+        "Saturday: 7:00 – 9:00 PM",
+        "Sunday: 7:00 – 9:00 PM"
+      ],
+      "photoRef": "places/ChIJJ1yhtU-mjkcRjrEIB_Kw1Js/photos/AcnlKN30qLTJDN2_Dz2gFJJAOz77mhbrbPS1mNaD8prPbgFvKT9E0fh04giddXVDlr0t5b3psv0GOrt7KxiGTY6lU99pc-0cNJQv1LKAX5s0pUsOTJcv9qICe4sPnjH2-nvltGdll8uJqkWhD5u-Lk5WGh7fNUuAf1mfhdGuWyjn4jK0IkyJ5igX_uq_3TiDJyb6nLVyybT1HEJfVqek5IhgYRVNmlYz365UiQ3cmTGhQZAVbc1OvPhIi45iGEmSwvJlvqp7dno-_TF5MXSo-H6kNrKzCRiBz4ceUnghwYZtc169hg",
+      "photoAttribution": "Les Enfants Terribles Avoriaz"
     },
     {
       "name": "Era Coquèla",
@@ -881,7 +1565,22 @@
       "longDesc": "A classic local Aranese restaurant anchoring non-ski evenings with authentic regional cuisine and warm hospitality.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Era%20Coqu%C3%A8la&center=45.8,6.707",
       "placeId": "ChIJ0Ri53HmaqBIR7N-8G8B6Rxo",
-      "address": "Avenguda Garona, 29, 25530 Vielha, Lleida, Spain"
+      "address": "Avenguda Garona, 29, 25530 Vielha, Lleida, Spain",
+      "rating": 4.7,
+      "ratingCount": 1931,
+      "priceLevel": "MODERATE",
+      "website": "http://www.eracoquela.com/index.php",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 1:00 – 3:00 PM, 8:00 – 10:00 PM",
+        "Wednesday: 1:00 – 3:00 PM, 8:00 – 10:00 PM",
+        "Thursday: 1:00 – 3:00 PM, 8:00 – 10:00 PM",
+        "Friday: 1:00 – 3:00 PM, 8:00 – 10:00 PM",
+        "Saturday: 1:00 – 3:00 PM, 8:00 – 10:00 PM",
+        "Sunday: 1:00 – 3:00 PM"
+      ],
+      "photoRef": "places/ChIJ0Ri53HmaqBIR7N-8G8B6Rxo/photos/AcnlKN3oQ8EL_5UhC0FubdfJ5maz6UhIPyWFaGAYT1fLm8kuP_j9wUj20f6Z4yjdKnKFc_MpJXwztx7pafXQY_KKNeGvASd6kGPvt8E7JvQvXu1EV5CX1Fa5xaU8l5Gmeb6tA5y1OoXrP_H262aYF1fhegFrBAdNsvI7b4_W2Nr1LykWUDzz7MDoPD6bexfFbj1XcQPyN6d2GYaz-izilE1L5O10fU-4E_Mh5xk_XlSxc5djy-fIDnobPrmtEGjVoWt3WXUFCbN8WP0h8qyv3QtpaBR9dO2WQDO0Rxk8N72yD3ko5TbOlYeXqwCVIZ3NoVrsvdFi_v5kILioh8oXvRGYQiZsP0zUzFP-nJrRDa_rG0DX5mWlN_zwgpJs0Ro0n-9UotklOTVX3TEQikBzNUL9qEYDxflwM9XTeFF0MST4Oekl-Iwq",
+      "photoAttribution": "Edu Grim"
     },
     {
       "name": "Moët Champagne Bar & Lounge",
@@ -893,7 +1592,21 @@
       "longDesc": "A high-energy slope-side champagne bar near Baqueira, perfect for celebratory après-ski moments with families.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mo%C3%ABt%20Champagne%20Bar%20%26%20Lounge&center=45.802,6.708",
       "placeId": "ChIJn62bEmcFdkgRGbJEgy3b-FU",
-      "address": "87-135 Brompton Rd, London SW1X 7XL, UK"
+      "address": "87-135 Brompton Rd, London SW1X 7XL, UK",
+      "rating": 4.4,
+      "ratingCount": 76,
+      "website": "https://www.harrods.com/en-gb/restaurants/moet-chandon-champagne-bar?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing-harrods-moet-&-chandon-champagne-bar",
+      "hours": [
+        "Monday: 12:00 – 9:00 PM",
+        "Tuesday: 12:00 – 9:00 PM",
+        "Wednesday: 12:00 – 9:00 PM",
+        "Thursday: 12:00 – 9:00 PM",
+        "Friday: 12:00 – 9:00 PM",
+        "Saturday: 12:00 – 9:00 PM",
+        "Sunday: 12:00 – 6:00 PM"
+      ],
+      "photoRef": "places/ChIJn62bEmcFdkgRGbJEgy3b-FU/photos/AcnlKN2rfcc6zer0QjFR1NpTF8dTQLADyfHuu0yyBFI01q89Bw76dqLbMt_u9_ekTI8zYclMZY6BhysVJsuCiOG_5Ox6UG9qq8n24PA1yxVxL8_xtcrrZc1GYDAqZ9dBBYxPLYbWsmXGFRSIUieyiwcSi39ekUKl5mQws4ddiJSFCZefgMc503H1ngtCesg5ABgW2ydsQNLjONYIMMiq1c2DvVl9GwGmV-kq1nRKOW6PlyX7pGLv4WtjO-pK-ZafLsaooFgWVBAh-4kCVmFOpFbs8tgdqjufs9AIKE0Wc-Lqjh6PFJxCg8xYlZYz2EL41OWfb1X160WbN1tTyRsCm6ydysc496teusuyvEps3umAlDjUgawGPZ9lEYPhnrCT3aWjt1KVrfGOV4pUO46EI-vruCkxvrBt8IX0WgdRGn3jgyJqbQ",
+      "photoAttribution": "B"
     },
     {
       "name": "Hotel Val de Neu – dining",
@@ -905,7 +1618,12 @@
       "longDesc": "In-hotel dining near Baqueira combining convenience with fireside charm and easy spa day flow for families.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Val%20de%20Neu%20%E2%80%93%20dining&center=45.8,6.705",
       "placeId": "ChIJTXAdI86iqBIR9Qc5XSEB4Ek",
-      "address": "Carrer de Perimetrau s/n, Nucleo, 1500, 25598 Baqueira, Lérida, Spain"
+      "address": "Carrer de Perimetrau s/n, Nucleo, 1500, 25598 Baqueira, Lérida, Spain",
+      "rating": 4.6,
+      "ratingCount": 594,
+      "website": "https://www.hotelbaqueiravaldeneu.com/",
+      "photoRef": "places/ChIJTXAdI86iqBIR9Qc5XSEB4Ek/photos/AcnlKN2dAs_CFy1rNvrJ_c8BOjf5oBm3Y7fv4kKXxkHTXWqFODLKvLcBCComg1KBGfOhJGxAQXuJEjCtd-PruELIrRcvKSrCUN78IGDcc3KrzgyMPUnAsSdUxZmSyaj31cHteS1xwfMUIMEBt0keNNnjKCkPBvtlQdbk0I85-tzs2Xy8a8vmP8hhtUj2PRsmaPpqzTRcjSjuPESDEe1LuYlG0KBfDE0vsv8nqWr0SRZ7hiQCZG7Q8Ng5MUL-OosmIOIWmf_87XQ82YqDY1xFMI5Vb9vTyjEFgWhCM_rp8Ji2CRsmrQ",
+      "photoAttribution": "Hotel Val de Neu"
     },
     {
       "name": "Tapas crawl in Vielha",
@@ -917,7 +1635,22 @@
       "longDesc": "An easy, stroller-friendly evening strategy offering 2-3 short tapas stops instead of one lengthy dinner commitment.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tapas%20crawl%20in%20Vielha&center=45.81,6.72",
       "placeId": "ChIJ-8z-qXCaqBIRFm7JXfkAg-w",
-      "address": "Av. deth Pas d'Arró, 4, 25530 Vielha, Lleida, Spain"
+      "address": "Av. deth Pas d'Arró, 4, 25530 Vielha, Lleida, Spain",
+      "rating": 4.2,
+      "ratingCount": 2740,
+      "priceLevel": "MODERATE",
+      "website": "http://www.urtau.com/",
+      "hours": [
+        "Monday: 11:30 AM – 10:30 PM",
+        "Tuesday: 11:30 AM – 10:30 PM",
+        "Wednesday: 11:30 AM – 10:30 PM",
+        "Thursday: 11:30 AM – 10:30 PM",
+        "Friday: 11:30 AM – 10:30 PM",
+        "Saturday: 11:30 AM – 10:30 PM",
+        "Sunday: 11:30 AM – 10:30 PM"
+      ],
+      "photoRef": "places/ChIJ-8z-qXCaqBIRFm7JXfkAg-w/photos/AcnlKN0dW6opLMM05FEAnqzGQl4LfnclEcYwRAfY5Je_yyI0kmnWNQ2YQjBSNChEPvbsoWU69rYSMVTJNrbSqrzdZ0YbqLOuE3-tOzIah9lMv540OQRzSayGSe0IcpqQaccRjCG7qrUd7HwpDnvf6z19pBLDdUyxnn-2s_QwYHRIAazXFqI0xmtGb2tPWfGkvWTpQ40_kfWPgLJq_ixwPaKSLu8-G6X0eE6zZfTMUxMYn4BnCUO6RryzWUHREdQ8mnm8KpLT-GB9V2Puv5FpMsD_fNtMRMtOx7U5qJKFP-Udi12C1A",
+      "photoAttribution": "Tauèrna Urtau Vielha"
     },
     {
       "name": "Granen (White Guide)",
@@ -929,7 +1662,12 @@
       "longDesc": "A relaxed-elegant Swedish lodge restaurant with fireplace ambiance and serious wine cellar, perfect for family dinners.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Granen%20%28White%20Guide%29&center=60.493199,14.804693",
       "placeId": "ChIJSawa_wsLbkYRlyP2pPXn_ZQ",
-      "address": "Tottvägen 127, 837 51 Åre, Sweden"
+      "address": "Tottvägen 127, 837 51 Åre, Sweden",
+      "rating": 4.6,
+      "ratingCount": 402,
+      "website": "https://aregranen.se/en/",
+      "photoRef": "places/ChIJSawa_wsLbkYRlyP2pPXn_ZQ/photos/AcnlKN1OSlPt3Q8dcAOmF3_iKcARkuM2DHPTe_Cp7alG8MRuI-id2eLqvFGGmvMy0W6sC5dxKW_niGe0LKtHXbQ1fQI9u36ctgY6I6JHwTrL6yRF0FCP33QFQB6HjElbPDn5Vmbognhvs9sjZH_rEkaDCSibI-t0e5YB_ulpFCtUXnOnOy98PN3bCLixkOJ1cVFA-9fjzD7WLLL6zRPIrvb4OJCRsLgo4gS6ellyzcX97g48gweEuCHbqL9yQpxgEopmy5m9xKWSqD4U88JOVJTcQsQzZfZjRX31YMJ0txxzbRg0zvUt6KZSRi8qqG_4nP6u7CMRrJ0e9E2iUnVAUAmyDXsWdbO4KVq4SW_dr96yfmeM-hba_V-S2xTK43H4aTE_pGmjWjE8RnUrmD7Q1T3JDdXwEwLisFxs7SoErbZqlqid3Q",
+      "photoAttribution": "Thomas Lönngren"
     },
     {
       "name": "Vinbaren Åre (White Guide)",
@@ -941,7 +1679,21 @@
       "longDesc": "A lively Nordic wine bar offering half-portion menus and small plates, ideal for families seeking flexible dining.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Vinbaren%20%C3%85re%20%28White%20Guide%29&center=63.399536,13.078816",
       "placeId": "ChIJF2tyjQ4LbkYR8s8mhYnZ0kI",
-      "address": "Stationsvägen 11, 837 52 Åre, Sweden"
+      "address": "Stationsvägen 11, 837 52 Åre, Sweden",
+      "rating": 4.4,
+      "ratingCount": 217,
+      "website": "http://vinbaren-are.com/",
+      "hours": [
+        "Monday: 5:00 – 11:00 PM",
+        "Tuesday: 5:00 – 11:00 PM",
+        "Wednesday: 5:00 – 11:00 PM",
+        "Thursday: 5:00 – 11:00 PM",
+        "Friday: 5:00 – 11:00 PM",
+        "Saturday: 5:00 – 11:00 PM",
+        "Sunday: 5:00 – 11:00 PM"
+      ],
+      "photoRef": "places/ChIJF2tyjQ4LbkYR8s8mhYnZ0kI/photos/AcnlKN2aacC8oyziuOOlA7g7ER0ovtqyO9Tan2fCKI7l9AZ5oJtvBVzUfAo6xVulmvomZpHx6E3XosBtOFmCeUHGmhPfBvUDupGtbA6or6cDRQq73054d1RR8Nv2l5rCu2tkICtj64Me20om9ClFfCROD4zv2vtN_4KnjpidlCxcRyJMeL2OcJTTtYqFSDVDKbl9xtY2Su1lKa6uTqlj0q1ZWHWa78d-_bX1JIfeEtt2nTGgV52PoG72P6Ldkr-CISZmSkmDAN-43Sn482X2udTVL5TGPLMSK0yEoSTYuOzZMI1aGA",
+      "photoAttribution": "Restaurang Vinbaren, Hotel Åregården"
     },
     {
       "name": "Copperhill – Niesti (hotel dining)",
@@ -953,7 +1705,12 @@
       "longDesc": "On-property restaurant transcending typical hotel dining with memorable meals.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Copperhill%20%E2%80%93%20Niesti%20%28hotel%20dining%29&center=63.381174,13.171505",
       "placeId": "ChIJFQ_BVuwMbkYRwHKOJjE5ua8",
-      "address": "Björnen Copperhill 62, 837 97 Åre, Sweden"
+      "address": "Björnen Copperhill 62, 837 97 Åre, Sweden",
+      "rating": 4.5,
+      "ratingCount": 1697,
+      "website": "https://www.copperhill.se/",
+      "photoRef": "places/ChIJFQ_BVuwMbkYRwHKOJjE5ua8/photos/AcnlKN3WgP-ZD_cRS_Ao0TCiwNr9rMtrjGdgn-cMhvjwVDhRlXNjbaMGrUGDanHjao6MeRcJ7w4GhkwqaNb4T6zGEKZQL0Hkt3E_3PkZ0FcHSLGK_Xoizvt0VazllwIiy-yIGsKnDj0RHrYQhJtCNnl-TPgIfnRONJef8CgRCZOToEZieB3mwbTAF1tSOGt8GYtqyc5MYlUGlZK4LLNw66rpiG4ctnUDbU9CrvWfPzO-StWHQCo8CDQf8ZsXbDbWBGA4Ce5LaeX2zByQMWhepJWMBCS1UaSa8rwQwyoeKiYll0LfwQ",
+      "photoAttribution": "Copperhill Mountain Lodge"
     }
   ],
   "experiences": [
@@ -967,7 +1724,12 @@
       "longDesc": "The gourmet capital of skiing with world-class wine culture integrated into slopes and the iconic Sella Ronda circuit.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Resort%20snapshot%3A%20Alta%20Badia&center=46.550511199999995,11.8406697",
       "placeId": "ChIJYZ4mMMY_eEcRG-ehq-j1hwI",
-      "address": "Via Rönn, 15, 39033 Colfosco BZ, Italy"
+      "address": "Via Rönn, 15, 39033 Colfosco BZ, Italy",
+      "rating": 4.8,
+      "ratingCount": 16,
+      "website": "http://www.chaletroenn.com/",
+      "photoRef": "places/ChIJYZ4mMMY_eEcRG-ehq-j1hwI/photos/AcnlKN3opiWGMJLHglERVLFz55iasBEEQZymaZFA481Vea9fVSpK2DzRNiatloycjz3Lk_fhY7vVF2i5fyYysin4IaXJ9yaygHzOTGCq_GHMpV4KSV5d3vtCktmzxLm8zavo41Tern7XpAdiuIwtr9LksY569PMOzmiveVH9xGoeD_0fSw4b6GLcxyJqKOqg6x4vZoP9Dw0Z6WSwluzB7NH31HqpIPzn4pU_n05XGVx7euciq613vjqCq2heBmon-Bx9ysXLRxuUp2O8EFB3R1PxOjSNMu7MqJciEXuTLzdykUoceQ",
+      "photoAttribution": "Chalet Rönn Luxury"
     },
     {
       "name": "Resort snapshot: Les Gets (Portes du Soleil)",
@@ -979,7 +1741,21 @@
       "longDesc": "A traditional Savoyard village offering access to Europe's largest ski domain with extensive cross-border terrain.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Resort%20snapshot%3A%20Les%20Gets%20%28Portes%20du%20Soleil%29&center=46.2552382,6.8417296",
       "placeId": "ChIJix0yyYinjkcR1E1C5fclgRw",
-      "address": "1401 Rte de Vonnes, 74390 Châtel, France"
+      "address": "1401 Rte de Vonnes, 74390 Châtel, France",
+      "rating": 4.5,
+      "ratingCount": 877,
+      "website": "http://www.portesdusoleil.com/",
+      "hours": [
+        "Monday: 9:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Tuesday: 9:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Wednesday: 9:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Thursday: 9:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Friday: 9:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "photoRef": "places/ChIJix0yyYinjkcR1E1C5fclgRw/photos/AcnlKN22BDxBFU3M0GCvemCBD1O58Tq98kpCeaaPYq3biBSLdsXeVMn8ECPlEBrz7xJeDFscRDq0Qn2pF28ZuJqMI3LlsDWxiI6Ley4a8CXDW-k0UZt8Id99CXgTy-DgeFVeL1iGPOMR_r_AzRF1lMQQ4osXbjJOD8x-M4FTx9XTUlSM9qYO9JtmtGIUeN0fBg5uSJTyMU99e0uBrm57cg7r1TsgLWLtbtO9xOKrHZ4_LJBKkPbUoRvv5ykdLb8msxn1N7xtd7g3Kd_sWkFUD0tvN9ZROU3r9ZqbNNIQ15rIJCMcjlaai33ZgSl5nue2TGeC1z8Odx0tYEL7GBYi2Ovw6iMAvYpsdUTNb-vaxCxW-t3PaadK70BOg7hHpZ4fzpvMDuu1RfsAKLoKRVrNjVru-H2ZVQm3TeDJwlbbCrF1L9hUXWEf",
+      "photoAttribution": "M740"
     },
     {
       "name": "Resort snapshot: Gurgl (Obergurgl/Hochgurgl)",
@@ -991,7 +1767,12 @@
       "longDesc": "A high-altitude snow-reliable resort with strong ski school culture and understated luxury for families.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Resort%20snapshot%3A%20Gurgl%20%28Obergurgl/Hochgurgl%29&center=46.8745419,11.030115",
       "placeId": "ChIJDVeq1XzMgkcRH-6nFXmyMv8",
-      "address": "Schlossweg 3, 6456 Gurgl, Austria"
+      "address": "Schlossweg 3, 6456 Gurgl, Austria",
+      "rating": 4.9,
+      "ratingCount": 109,
+      "website": "https://www.chaletobergurgl.at/",
+      "photoRef": "places/ChIJDVeq1XzMgkcRH-6nFXmyMv8/photos/AcnlKN1j0-BXfDAHMCEIbibRnHYi-Q0PB3CCVwJIfTs2NnB3wKaX8qKbg5Z_WIpPaC9fo9CPDKr9LLNNZM_X0emq8XI4YCMc242gFPc4QdgYni76DBz9RerxVdn_DiqlizP8onuVOaVjos6j1nycg1c1fB69vCLNdC9jSP3E9-G5B9dFFaCh4Y70bsqcqJY89kHlemTE7fQ41ZNeDcaOOPUa0fUJ44aK7G2fLCKdnl-3pB1tYTy6Jw40W5379nWk80bprYJ5NXmVpDOGLEV_z-WWoEb3d-gQn4Funj4xM85DwFA49w",
+      "photoAttribution": "Chalet Obergurgl Luxury Apartments"
     },
     {
       "name": "Resort snapshot: Åre",
@@ -1003,7 +1784,12 @@
       "longDesc": "A Scandinavian resort offering tree runs, dog-sledding, and snowmobiling for families seeking non-ski activities.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Resort%20snapshot%3A%20%C3%85re&center=63.399,13.0815",
       "placeId": "ChIJj-9NGmcTbkYRfs4uNQL3DKQ",
-      "address": "Åre Strand 50, 837 52 Åre, Sweden"
+      "address": "Åre Strand 50, 837 52 Åre, Sweden",
+      "rating": 4.0,
+      "ratingCount": 2713,
+      "website": "https://www.holidayclub.se/",
+      "photoRef": "places/ChIJj-9NGmcTbkYRfs4uNQL3DKQ/photos/AcnlKN1qCK8kUC5pjx-tnbZqqP1d-DIDNhfJrdA6kgDyaDQGryYVTzDJvVbz1RWtTfW_vRLwNgpjJcluEO4UmRhZK5iu6KHu_aq5llo0KZXMYVxPrllulE2iDyvHSP2Xn3vBnB8qoHiocmAk1oizM8pYXA9wYJ0oefmsLH9nHSihz01ljg0hKCS2dLlQyL7RcHC-he0WYeyUGbw8_sKNtAA1dlY6O_AqArOJLUppn1HH9kTEIm-o2uWtz2asNMcXw4MvwBU4T9sQCOH8KrVXxLH3-1Ir_s352fQ3Sbsn30IDOzpU8f41seIm3r9Psa32dHofnZm6D4tHwHWKt25eDcqQsgqe5qgAYTmP-MD9dF2nJe6mAPglxXYkm0ZW2kJlCiZOPhJDr5qhRrBCbRnEAAwrtvs0paTtPcqJ7_o0Z-p66ou658xX1aBNRHOwnz6_EAgD",
+      "photoAttribution": "gj w"
     },
     {
       "name": "Sellaronda day circuit",
@@ -1015,7 +1801,12 @@
       "longDesc": "A full-loop ski day through iconic Dolomites terrain visiting multiple valleys with stunning scenery and famous huts.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sellaronda%20day%20circuit&center=46.5540391,11.7601122",
       "placeId": "ChIJL7lCjdcVeEcRL-O0CrSfjTo",
-      "address": "Str. Meisules, 213, 39048 Selva di Val Gardena BZ, Italy"
+      "address": "Str. Meisules, 213, 39048 Selva di Val Gardena BZ, Italy",
+      "rating": 4.9,
+      "ratingCount": 37,
+      "website": "https://www.sellarondabikeday.com/",
+      "photoRef": "places/ChIJL7lCjdcVeEcRL-O0CrSfjTo/photos/AcnlKN1I9C6YkvdDAAnGfl0Ib9knqUqoRbLuEnro1X7OCfny-I33mGl7paMxBmyMAP4UC236I-ymr1FArU1eh4CLWqxU1uTLcXP2vl7qXNYUUCBTtACywOOf8VEc2jZDE7W1QZd0w4XUq7ISlEl-mOxdKyBhF8sA9SeZc9Tgnm9NcdKEFO_hoIWkLqW2wCrzpVBn-GwnMEA-mg-_e3Rg8olgpXpiHfYz_gXS9tvlMiFohxSM6P3qC_cFaWNMGYt0FSCXwmLs2uJpwmCN5NHQqZgzpWQ2CZwpwO7fIeUOt6RJehiOa92M8MXMEQv3JI5Zz0eVDlpVDs1aRPw7HvlN7zAP8J2odhB7ht79CJ3oLhcygIjZpx5fW39fh144sUBteIfPq0wwq7wc0efhz7D-RZJLl7-hUWRqeUF8Zrs5NNmFs-I",
+      "photoAttribution": "Michaela Infanger"
     },
     {
       "name": "Gourmet Ski Safari / 'sommelier on the slopes' vibe",
@@ -1027,7 +1818,22 @@
       "longDesc": "A unique Alta Badia experience treating ski days as culinary itineraries with wine-focused huts and sommelier expertise.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gourmet%20Ski%20Safari%20/%20%27sommelier%20on%20the%20slopes%27%20vibe&center=46.5650926,11.9065005",
       "placeId": "ChIJHX7TXZw-eEcRwj7G0QT8sWw",
-      "address": "Piz La Ila 154, 39036 Badia BZ, Italy"
+      "address": "Piz La Ila 154, 39036 Badia BZ, Italy",
+      "rating": 4.2,
+      "ratingCount": 2514,
+      "priceLevel": "EXPENSIVE",
+      "website": "https://clubmoritzino.it/",
+      "hours": [
+        "Monday: 8:30 AM – 10:55 PM",
+        "Tuesday: 8:30 AM – 10:55 PM",
+        "Wednesday: 8:30 AM – 10:55 PM",
+        "Thursday: 8:30 AM – 10:55 PM",
+        "Friday: 8:30 AM – 10:55 PM",
+        "Saturday: 8:30 AM – 10:55 PM",
+        "Sunday: 8:30 AM – 10:55 PM"
+      ],
+      "photoRef": "places/ChIJHX7TXZw-eEcRwj7G0QT8sWw/photos/AcnlKN3XRDWD3scD6tmHiw3KARNc71MdN_jBmbCOwG93aF_56uh4mPnqgvLCZHcu_V6kO4qLmCAmBt6Lf4pv_lacnyPgz4lMj9r31Njiy44KYUAss3E0v7xjncfy0grjw1BGFz5P0w7BWIA40lx53C43DpBYfF-pWyh0rPzehDd1OE-95FqEktbSeJ_E9ImDAZSyFeSmthhQ7e1rummlYnAiiUfncAzAkaZlsTYPqbVFZxMT25BxQuLxwTI4nrKDt97jeydF32ZmSrxtRBUpfI0dXhQh_Rgq581NjoZA0QQIn9Hwr5D0wzNZeBBwa6YAXL5-AX9VtyUCsFff4ZSrypW8vTSrKffafOltWYr-aOsk85ZZxnUlqR9mB4sKhtIa3zXmU61eJHjqGH4VnEEzwsUhjC6gQ6gLSZFStABfEiAYq_H_-LJC",
+      "photoAttribution": "PK"
     },
     {
       "name": "Rifugio-hopping lunch day (Bioch → Sponata → Scotoni)",
@@ -1039,7 +1845,22 @@
       "longDesc": "A curated route connecting expert-picked huts with serious wine cellars, building the perfect ski day around food and drinks.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rifugio-hopping%20lunch%20day%20%28Bioch%20%E2%86%92%20Sponata%20%E2%86%92%20Scotoni%29&center=46.5891887,11.8901793",
       "placeId": "ChIJv8Uh0oY-eEcRIBV1sByPm2Q",
-      "address": "Sponata, 1, 39036 Badia BZ, Italy"
+      "address": "Sponata, 1, 39036 Badia BZ, Italy",
+      "rating": 4.2,
+      "ratingCount": 497,
+      "priceLevel": "MODERATE",
+      "website": "http://www.rifugiosponata.com/",
+      "hours": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: 8:30 AM – 5:00 PM",
+        "Sunday: 8:30 AM – 5:00 PM"
+      ],
+      "photoRef": "places/ChIJv8Uh0oY-eEcRIBV1sByPm2Q/photos/AcnlKN2pjgkInyyxDyJcG1WG2xNkbdW9yfiGJ4gMqFgRv57m1HRDktABg7pDxFIIaKmq2ZxrTsgpqCS0C9u0keq1vV1a_S3BvKTAeA0pqwKegI1K3MOBwx_C0ObMuzg9qFZ5JVsSH2iofCI3hB2LpQWvTNWd28DrEculbSnPQpCjuJqDPU9AyyipA1H0b8IODybbNeRFkmz5X5of73XEwzr7ecJKprIjeY4YEGOuSmIkctIXPb2IkNdhBRY9h-klB-8sJx1voc7sSMUsLRykqRGjigIwd3JLW3XVpqscw4oandm60A",
+      "photoAttribution": "Rifugio Sponata"
     },
     {
       "name": "Porcino tasting night",
@@ -1051,7 +1872,21 @@
       "longDesc": "Booking Michelin-starred Porcino for an unforgettable evening of creative mountain cooking in intimate Alta Badia surroundings.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Porcino%20tasting%20night&center=46.6066232,11.894835299999999",
       "placeId": "ChIJyTJYdtI9eEcRMh_-8G58Jsg",
-      "address": "Str. Damez, 2A, 39036 Badia BZ, Italy"
+      "address": "Str. Damez, 2A, 39036 Badia BZ, Italy",
+      "rating": 4.9,
+      "ratingCount": 65,
+      "website": "https://www.badiahill.com/de/food-drinks/ristorante-porcino/",
+      "hours": [
+        "Monday: 7:30 – 9:00 PM",
+        "Tuesday: 7:30 – 9:00 PM",
+        "Wednesday: Closed",
+        "Thursday: 7:30 – 9:00 PM",
+        "Friday: 7:30 – 9:00 PM",
+        "Saturday: 7:30 – 9:00 PM",
+        "Sunday: Closed"
+      ],
+      "photoRef": "places/ChIJyTJYdtI9eEcRMh_-8G58Jsg/photos/AcnlKN0RrwIpxCbYE8ufhsAdJVc_ZWPOciJfRqK8MLKtn2zrFQ2kURbeoOUdXI3v62hs6nsi8V-B5WDAyXo-FBb0PLnCElvzV7gD2xcvOen0gfnLh-EYar5UUl1ahvjw_kyB2wRPyp-SlBVB6OZpo67iRw9zzcFN5DUuDK53G8u-GLkeKPv1BPO4Va2JciTvBcT3v44TZ119X99JdIzcUV1fbilbXNWHjDPMxVeawe2OpkchcnEzfNTtnrkzVT34kLeip447e3x5PMA0UU-lsGFJK1ahiq2XxGx-5a7kCWl97MO0vw",
+      "photoAttribution": "Ristorante Porcino"
     },
     {
       "name": "La Stüa de Michil dinner (Ladin stube setting)",
@@ -1063,7 +1898,22 @@
       "longDesc": "A signature Alta Badia splurge featuring intimate wood-heavy ambiance and heritage Ladin cuisine in Hotel La Perla's iconic stubes.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20St%C3%BCa%20de%20Michil%20dinner%20%28Ladin%20stube%20setting%29&center=46.5471425,11.8768416",
       "placeId": "ChIJobhX9gU_eEcRSIoHkcV5l-A",
-      "address": "Str. Col Alt, 105, 39033 Corvara in Badia BZ, Italy"
+      "address": "Str. Col Alt, 105, 39033 Corvara in Badia BZ, Italy",
+      "rating": 4.7,
+      "ratingCount": 149,
+      "priceLevel": "VERY_EXPENSIVE",
+      "website": "https://www.lastuademichil.it/it/",
+      "hours": [
+        "Monday: 7:30 – 8:45 PM",
+        "Tuesday: 7:30 – 8:45 PM",
+        "Wednesday: 7:30 – 8:45 PM",
+        "Thursday: 7:30 – 8:45 PM",
+        "Friday: 7:30 – 8:45 PM",
+        "Saturday: 7:30 – 8:45 PM",
+        "Sunday: 7:30 – 8:45 PM"
+      ],
+      "photoRef": "places/ChIJobhX9gU_eEcRSIoHkcV5l-A/photos/AcnlKN0e1CsFJW5zNIXy4LLi78jFaYynckr5FZNhP9dRLOnG2QeFy23eyarksdH-SPza_uvoCwjp0aIPg2vqTfwrelMN99pnwT1ccPioQN9dL60DhzR3UGhO-v_fIWtDCpKwb7ydyA1SyLCVZFu1iI_P2VrUYmGDbthP-FvDuCZ6tRzA0JcRJKImNwIRp-1lWXZwTpSfAig7Nwd6asU0n-YOWlsZMiLLpRnPMYkS3vldtKZZ7p3Tzn9L5-m_ikBxZ7jfXF2Dyb6WlefD5xQoypCh9LirnM4sibDpjNZjqmpHIpNanQ",
+      "photoAttribution": "La Stüa de Michil - Simone Cantafio"
     },
     {
       "name": "Aman Rosa Alpina spa afternoon",
@@ -1075,7 +1925,12 @@
       "longDesc": "High-end wellness and recovery after intense ski days, combining world-class spa facilities with mountain views and expertise.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aman%20Rosa%20Alpina%20spa%20afternoon&center=46.571428,11.931175999999999",
       "placeId": "ChIJt9LEx0o5eEcRGuzlID984rI",
-      "address": "Strada Micura de Rue, 20, 39036 San Cassiano BZ, Italy"
+      "address": "Strada Micura de Rue, 20, 39036 San Cassiano BZ, Italy",
+      "rating": 4.5,
+      "ratingCount": 287,
+      "website": "https://www.aman.com/resorts/aman-rosa-alpina?utm_source=Google&utm_medium=Yext&utm_campaign=yext_listing&utm_id=GMB&y_source=1_MTg2MDI1NjktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "photoRef": "places/ChIJt9LEx0o5eEcRGuzlID984rI/photos/AcnlKN0qVaqpJ-MxbEHsvHR_vaPZB1l3kw92rYJA-IlSsQoIbWltkdBvb-_FRJe_xWvlRss69Oje3JoHGLJrIQD4b9r7Do8aZmx-0EAsD6sj2-KL4ts9Pw4Ml5yPV44D3-nEMJ_tqRfeC5lKoErehV4roZ9ViQvjzrRDGJ_jjKizIIA5p-CqNNkNealBuSN_kC7Gu4LTuUqV7X3C5WxQLMP9oWUTQJmjrYk-BTcUH58Hg8dtuaG7B-0Odq2IAQC2-HG7HchZNChvwGKYwq5eVjKvjI2njEY1zWSXuPpfUu0gLSC2zw",
+      "photoAttribution": "Aman Rosa Alpina"
     },
     {
       "name": "Badia Hill rooftop pool / spa session",
@@ -1087,7 +1942,21 @@
       "longDesc": "A contemporary spa experience with rooftop pool views and design-forward facilities, perfect for mixing skiing with wellness.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Badia%20Hill%20rooftop%20pool%20/%20spa%20session&center=46.5686229,11.565190099999999",
       "placeId": "ChIJZ5L-1NwMeEcRNGZOboEC4gE",
-      "address": "Via Panider, 21/1, 39040 Castelrotto BZ, Italy"
+      "address": "Via Panider, 21/1, 39040 Castelrotto BZ, Italy",
+      "rating": 4.6,
+      "ratingCount": 750,
+      "website": "https://www.abinea.com/",
+      "hours": [
+        "Monday: 7:30 AM – 10:00 PM",
+        "Tuesday: 7:30 AM – 10:00 PM",
+        "Wednesday: 7:30 AM – 10:00 PM",
+        "Thursday: 7:30 AM – 10:00 PM",
+        "Friday: 7:30 AM – 10:00 PM",
+        "Saturday: 7:30 AM – 10:00 PM",
+        "Sunday: 7:30 AM – 10:00 PM"
+      ],
+      "photoRef": "places/ChIJZ5L-1NwMeEcRNGZOboEC4gE/photos/AcnlKN2GvkADfmmTG95o_5uB2jZAgXl-Vcaw1RNI3OKbvNA1W4KT833efG3XoWJU0O8ACrQWCX6JXordl5ScKsSsna4JjgvWrGC7JC78kHHyeZZ1RAZz9q_zW8Y-J0p9znUIbIZ1yf1MVfaA2G6rq_LpRHwM6B1Y2LSG2JvdDlDXulF9u5nO-SLqvky5WFuHRt61Jd1aXSh-0837xrk9lx5gv7X-Q2OCQOxrxzo9ON646Vzn7beTKOX_n-eEkPfsVi3LLk3G60Wb5M1DQYgZ_5ODf-kiztDPUeVhSgghFOYkgsE",
+      "photoAttribution": "Abinea Dolomiti Romantic SPA Hotel Südtirol"
     },
     {
       "name": "High-altitude 'snow-sure' week",
@@ -1109,7 +1978,12 @@
       "longDesc": "Specialized 3-4 year-old ski clubs with progressive teaching methods designed to build skills and confidence in young skiers.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=BOBO%20Ski%20Club%20/%20Kinderland-style%20progression&center=47.4389463,11.696589999999999",
       "placeId": "ChIJeTjGUwZ_nUcR6Zibf6JQ0Dc",
-      "address": "Kirchstraße 18, 6213 Pertisau, Austria"
+      "address": "Kirchstraße 18, 6213 Pertisau, Austria",
+      "rating": 4.0,
+      "ratingCount": 4,
+      "website": "http://www.kinder-club.info/",
+      "photoRef": "places/ChIJeTjGUwZ_nUcR6Zibf6JQ0Dc/photos/AcnlKN3uQcLkTpFUfNuzW4uXoLLwFTSsuiA-mSpvZLQOmxFlSJaSjKj8YPDp2A3YU4FjXaprS8Aj4cYpnbdoITMDxHNFwjuUw7-mC4fYIq8qrGggl5828wgkEZ335mpFnGzRAdNylaMtMqE2_0PGE6kfb6mVS7GnTMQe0cSA8VTeeQQ6YmHqgrLp2f9QDgsQBC0yxsjrzw12a18MoABxYF1vQJreMROANq-dWexl8qkBbIEjcWgc4x9xDeYkT9KEtxJImej9321IsQi-DWqnPHA9b5cjlJI1kOnBFJgq7NS6Mi2-Nw",
+      "photoAttribution": "Kinder-Club Bobo"
     },
     {
       "name": "Hotel-led child-minding logistics",
@@ -1121,7 +1995,12 @@
       "longDesc": "Accessing hotel-provided childcare and ski school coordination services that simplify complex family ski day logistics.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel-led%20child-minding%20logistics&center=46.870451499999994,11.0285192",
       "placeId": "ChIJkZXHLnvMgkcRb47DOrRkKAM",
-      "address": "Kressbrunnenweg 6/U3, 6456 Obergurgl, Austria"
+      "address": "Kressbrunnenweg 6/U3, 6456 Obergurgl, Austria",
+      "rating": 4.7,
+      "ratingCount": 187,
+      "website": "https://alpenland-obergurgl.at/",
+      "photoRef": "places/ChIJkZXHLnvMgkcRb47DOrRkKAM/photos/AcnlKN05VPTq9K8QQalNAZBpq88DSA711jXoFyv_hrvtIuHRPNc4__F-yHeRS1w_17xZ47CX9x7rRdud-5OtrpnZjxvuNagQYrionWs9JaCdNka5bhUOPj8rjx8-XFVCkczwltqQcklar9utx3VLviFbrF5lacCiQBSw_Qnb9WaYSbrZRIAA8F5WvLDkD4mqcKhaoxMasBBibDbpKTCohZNivuqcbGH5Ojha0Psv1Mxe891LvjdqgM6jiX6IN8hjdDP1iJjf8lXb4x85gHtd8srj69mw_W750Ol-a8hp6wkYbGSUyQ",
+      "photoAttribution": "Hotel Alpenland"
     },
     {
       "name": "Hochfirst Alpen Spa circuit",
@@ -1133,7 +2012,21 @@
       "longDesc": "A large thermal spa complex with pools and saunas, ideal for non-ski days or rotating adult-only spa time.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hochfirst%20Alpen%20Spa%20circuit&center=46.8736366,11.030838600000001",
       "placeId": "ChIJmRiwt3rMgkcR-ZxjZuLL-Kk",
-      "address": "Gurglerstraße 123, 6456 Obergurgl, Austria"
+      "address": "Gurglerstraße 123, 6456 Obergurgl, Austria",
+      "rating": 4.7,
+      "ratingCount": 179,
+      "website": "https://www.hochfirst.com/",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJmRiwt3rMgkcR-ZxjZuLL-Kk/photos/AcnlKN0_E1uUWioa5BaZYoMO6m4rauCzv-s91avF1B9z78sJ7nwiLIhPD5tUNuJPxzkHzO5lP56pKCS98pYUh6Gmx_A-n1XuWjilWqUGz5XIiJl_Bj0JxjvKInZiBUM5KYxFnAGiJimldjFVBFqXYjoZ1MIxdKtDkm0PMCIVzzCv2jXtyLxzTVhO20gNT1EyhZ4kDKDh39B0rg3rwQARXCpsPL1Dr5HXPSqTfTIYrDgxHtAZ4PvqKKQSCyt0CuWSTBlFf0JFx8IhdeqfZbxS83gAGLTUBrbsEqHRQaJh9rBLK54L6A",
+      "photoAttribution": "Alpen-Wellness Resort Hochfirst"
     },
     {
       "name": "Falstaff-rated gourmet dinner (Austria Stuben)",
@@ -1145,7 +2038,21 @@
       "longDesc": "Wine-forward fine dining in Obergurgl, combining serious cuisine with impressive cellar selections for special occasions.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Falstaff-rated%20gourmet%20dinner%20%28Austria%20Stuben%29&center=46.8710658,11.0286111",
       "placeId": "ChIJ__DleFjNgkcRMzISQdlcMlQ",
-      "address": "Kressbrunnenweg 3, 6456 Obergurgl, Austria"
+      "address": "Kressbrunnenweg 3, 6456 Obergurgl, Austria",
+      "rating": 5.0,
+      "ratingCount": 3,
+      "website": "https://www.austria-bellevue.com/austria/austriastuben",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 6:30 – 11:00 PM",
+        "Friday: 6:30 – 11:00 PM",
+        "Saturday: 6:30 – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "photoRef": "places/ChIJ__DleFjNgkcRMzISQdlcMlQ/photos/AcnlKN0Qnn8kYHMcQhQWLQKcLWr47R166shlwxw-7fbtxPSYDJCPZTT2qfDY-CNrIAj5A6wGEwvkCRwmvtV5H_mzvyOmlvPDOi8B_WC44uvodLmW3ksMRAbSE0tyKkpCT-81MEY5rmvT5eNzO5QOKSdz4eDUQ16Sjydm4wN2XwxRb5Gz3kz9EuSAGf5sziuHOxU97U3TP5gB31aVJ5ucqWuLYPongt0HcCYP3G66AbZFE9OHgbPgwWEI5V4ZPGggsaS-igc53V-Br0rYJZwbiyh7NcaAePFwQLndEmpYGNyW9beT1A",
+      "photoAttribution": "Austria Stuben - Kulinarik auf 1930m - a Michelin Star Restaurant"
     },
     {
       "name": "Fondue night",
@@ -1157,7 +2064,22 @@
       "longDesc": "A cosy, early-evening dining experience that aligns perfectly with family schedules and picky eaters' preferences.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fondue%20night&center=46.2109345,6.1491337",
       "placeId": "ChIJ_2D-ECRljEcRyNWplKSRJE4",
-      "address": "Rue des Pâquis 20, 1201 Genève, Switzerland"
+      "address": "Rue des Pâquis 20, 1201 Genève, Switzerland",
+      "rating": 4.6,
+      "ratingCount": 5015,
+      "priceLevel": "MODERATE",
+      "website": "https://www.aubergedesaviese.com/",
+      "hours": [
+        "Monday: 12:00 – 11:00 PM",
+        "Tuesday: 12:00 – 11:00 PM",
+        "Wednesday: 12:00 – 11:00 PM",
+        "Thursday: 12:00 – 11:00 PM",
+        "Friday: 12:00 – 11:00 PM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 12:00 – 11:00 PM"
+      ],
+      "photoRef": "places/ChIJ_2D-ECRljEcRyNWplKSRJE4/photos/AcnlKN30mSPaWszUF4f7TsqacU3VQDLXEujkHinDdRI6pn33JbV8ZJdFgZuXwtwdZ-RYWno5_lw7NiywgNfKLeat8SJzogjQipSa3YOY17CXFTyEzH4sIPoqTmACBy6trPgM6zPvbp1JUHK1fFrchIjCObL0-BjcDtiTqOitB8VvQ-_xPsk9JX17T59qU2lAZ-YUmP8oAKI06v-Rb77S0pf3Z805uh-1BtkXLtb_wjE6jtxhzvGyMciw6q7X5ei8NsbuOrYmnVjobsFV0efyGvz1JunfYNnOuFRO3D_bva3gaUjHkg",
+      "photoAttribution": "Auberge de Savièse"
     },
     {
       "name": "Portes du Soleil 'domain day' (France ↔ Switzerland)",
@@ -1169,7 +2091,21 @@
       "longDesc": "Cross-border skiing through 11 resorts with 400+ miles of terrain, offering endless variation for confident skiers.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Portes%20du%20Soleil%20%27domain%20day%27%20%28France%20%E2%86%94%20Switzerland%29&center=46.2552382,6.8417296",
       "placeId": "ChIJix0yyYinjkcR1E1C5fclgRw",
-      "address": "1401 Rte de Vonnes, 74390 Châtel, France"
+      "address": "1401 Rte de Vonnes, 74390 Châtel, France",
+      "rating": 4.5,
+      "ratingCount": 877,
+      "website": "http://www.portesdusoleil.com/",
+      "hours": [
+        "Monday: 9:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Tuesday: 9:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Wednesday: 9:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Thursday: 9:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Friday: 9:00 AM – 12:30 PM, 2:00 – 5:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "photoRef": "places/ChIJix0yyYinjkcR1E1C5fclgRw/photos/AcnlKN3PKN8mG_xjnNgaLbSdD2mmuZqDgsJ8mxrKSBg-m1C16WAaQqrf8EXyF63uNTM7BSgRscd3jiPxUzyzdD-hpL321pCrx9opLm8YE0FfjwQDVD_MZNc5yzbzPQhl07rMitceh3kZGS-jKsiycyx5cE34n6Nt0_QnY496CT6ZnCLT7ezdr3d-NaVAGwsCEkMb8zvQXIfe2flNCWh9HkFeknuWTsjhz8ooBgAZwgcYi5s30p3-ndSm-Sgp3s5fM8R3gpoeN5RfuUKozziUl89m7T-5Z0iWBLJt1REbzJco9cvwSfBqbiTORCvlLkiFrvnZ2L2YmOaHD9Ge13bsLAtGPZtSzNkjnw7S4jL33wq7ww5OAJVn-ggPG6qsvEP0a0L09_QjXyNzyxImOxvxwXBLQ15O1XCD6boYnfAOAFZ2DHJt-wU_",
+      "photoAttribution": "M740"
     },
     {
       "name": "Traditional village strolls + easy access lifts",
@@ -1181,7 +2117,11 @@
       "longDesc": "Non-ski mornings exploring Savoyard village character while maintaining quick access to afternoon slopes.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Traditional%20village%20strolls%20%2B%20easy%20access%20lifts&center=46.1369359,6.6835016",
       "placeId": "ChIJZ6D1O_ICjEcR7Qm_lc5FlQU",
-      "address": "Maison des Gets, 74260 Les Gets, France"
+      "address": "Maison des Gets, 74260 Les Gets, France",
+      "rating": 4.6,
+      "ratingCount": 376,
+      "photoRef": "places/ChIJZ6D1O_ICjEcR7Qm_lc5FlQU/photos/AcnlKN3-PtiC-YPuCp597BRDBRxrew8wur4NwsL_5Py8k3hh6ttIRkY5VtplJVn0ts8qpxh3PN37JFLsfkUn84ozKAZ4v9bQsASvQGlsqct5B92JQi4acCDzQQUdXgc3H4dP3QWfVoqtwd03GE_UnBWXHq_rOKFa4I5rNm4mdl7EaBvi4R9nVY3PVfMUgr5glBP6nK3NYadusQgnf82qaUD5S5sG6XrqDMQBeiTgItq4OYoTIccn0BqUG2nafd0jM1pFb-i8s1gbLQkUa5HxgAj8_c1_tJIPJwy16hg7w1LFcE1goSAteOM0_n2IfqY4X1y0oTnv6pMjLSlS64BFGmVlxW0q-EztK6fTqOG3L0aAp-iiZSqEvBSlokVzTgquejotwtaQpeamTDvTDR2BfeZnT4P1b8yPMMxkJF0IocRrrm0jvg",
+      "photoAttribution": "Benjamin Mugnier"
     },
     {
       "name": "Car-free Avoriaz day",
@@ -1193,7 +2133,21 @@
       "longDesc": "Experiencing Europe's unique car-free ski resort village where streets double as slopes and kids ski directly from chalets.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Car-free%20Avoriaz%20day&center=46.1931052,6.7733778",
       "placeId": "ChIJd0P3jVGmjkcRdzdMm1oPsz4",
-      "address": "74110 Morzine, France"
+      "address": "74110 Morzine, France",
+      "rating": 4.5,
+      "ratingCount": 3686,
+      "website": "https://www.avoriaz.com/",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJd0P3jVGmjkcRdzdMm1oPsz4/photos/AcnlKN1kTtG5HulxxqqknJcqcWG9q0d9DxUx8YfwJ3o0D87Ac6QDFyg04eM5KABsJfZJQgqGTU4kMjBv50qahZKKyWSMuPvm7lT8-Xat1J68ZKwg6jw-aMEN1pKrBM412WPsTT8CjesWUF8FzRd7tBb9GJcXkBc9BTkKnSUOhMVVQijv2kEGkrKrb6Vtn7P7kEgU4OfPx3OdUDhT6sukmxEGBza-YLSgIrfStWzPxdCB1wxw7XSHw4Xd_u27qUCnHsdDw-3PvVg-359T4UuXBcNUPlQmRKSmrkzMNIB4QjGVpdTSWTaf0kl2L1HxOVpUWQ0cKOBbGSgACRf1cORs6mbd4Fl9L02D6yTZfppynbvuOW55Jf6jXUWTzE7ylzsaK788mYQz1hUFFkADwsThBN9K7C6BW4o3gnq814VfMXwZXHXYevs",
+      "photoAttribution": "wei zhou"
     },
     {
       "name": "Indoor pool + playroom recovery day (Alpina)",
@@ -1205,7 +2159,12 @@
       "longDesc": "Utilizing hotel amenities during weather closures or low-energy days, keeping kids engaged without outdoor activities.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Indoor%20pool%20%2B%20playroom%20recovery%20day%20%28Alpina%29&center=46.1549339,6.667322599999999",
       "placeId": "ChIJybi4IycDjEcR77PO-RLADGw",
-      "address": "55 Imp. de la Grange Neuve, 74260 Les Gets, France"
+      "address": "55 Imp. de la Grange Neuve, 74260 Les Gets, France",
+      "rating": 4.6,
+      "ratingCount": 598,
+      "website": "http://www.hotelalpina.fr/fr/index.aspx",
+      "photoRef": "places/ChIJybi4IycDjEcR77PO-RLADGw/photos/AcnlKN0h6isd0qbu-Fxs4DFLp2ddpeFGemYjQo6JH5kDvmeG0tSyCQt6_QSx90LWblNdEGiIbgHxD1H2_GeayCsRDwYVvJ0Gzx4eW1ei_VMmJbocAU31foRHILWPTSdObVFTI2BjuMzK__dE6MRXhW3SqFhhufY7GA52w20YF9RGOAqeEK-CUqnVNk5f506mVej1boMoIAjl_j_3Ayh5DIQ5H77cf8SwjShrrLAMENKlI4X7CR81VB-djW19xb-ykR6fR6MLyhlpAO04SXzv1PkmSjIlz4ogNeZpub-pRD9ax6PS9g",
+      "photoAttribution": "Hôtel Alpina & SPA"
     },
     {
       "name": "Catered-chalet rhythm (lunch out, dinner in)",
@@ -1217,7 +2176,21 @@
       "longDesc": "A flexible lodging strategy combining restaurant lunches with in-chalet dinners, enabling naps and early bedtimes.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Catered-chalet%20rhythm%20%28lunch%20out%2C%20dinner%20in%29&center=46.15997,6.670672799999999",
       "placeId": "ChIJQcugl1EDjEcRtse7sI5apfU",
-      "address": "155 Rue du Ctre, 74260 Les Gets, France"
+      "address": "155 Rue du Ctre, 74260 Les Gets, France",
+      "rating": 4.8,
+      "ratingCount": 180,
+      "website": "http://ochaletlesgets.fr/",
+      "hours": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "photoRef": "places/ChIJQcugl1EDjEcRtse7sI5apfU/photos/AcnlKN3W0fiiavzuO5Z3d6kiX2-prFs-u-JHKSlIszZqf85a0zBM_3fWKuHWJkBa8UMHD-zMYJo5lTQK9V2ZmyOSBFrksurWUim9ur8XG8F2qPABLk19egoteN9KowKRs7z1wLvva1pYudulh3KoC60arj-J_fqGmFoaKYV_t-U5XDwrI3Enizd57E27Zjr9hEzAP-Y2Zg63NgVaQHRQQpJ0T6P4n1QT8oxKdPhHjKCgCqb_10wHC-t08MRisR8LrqwxF_7C3NqhDwuHm2pElNYl9KUeLkbNGybfi_S7l7qb8m_wiA",
+      "photoAttribution": "Ô Chalet Les Gets"
     },
     {
       "name": "Baqueira big-mountain days (less queue pain)",
@@ -1239,7 +2212,21 @@
       "longDesc": "A celebratory après-ski moment turning 'just one glass' into memorable family-friendly downtime and connection.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Apr%C3%A8s%20at%20Mo%C3%ABt%20Champagne%20Bar%20%26%20Lounge&center=45.802,6.708",
       "placeId": "ChIJn62bEmcFdkgRGbJEgy3b-FU",
-      "address": "87-135 Brompton Rd, London SW1X 7XL, UK"
+      "address": "87-135 Brompton Rd, London SW1X 7XL, UK",
+      "rating": 4.4,
+      "ratingCount": 76,
+      "website": "https://www.harrods.com/en-gb/restaurants/moet-chandon-champagne-bar?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing-harrods-moet-&-chandon-champagne-bar",
+      "hours": [
+        "Monday: 12:00 – 9:00 PM",
+        "Tuesday: 12:00 – 9:00 PM",
+        "Wednesday: 12:00 – 9:00 PM",
+        "Thursday: 12:00 – 9:00 PM",
+        "Friday: 12:00 – 9:00 PM",
+        "Saturday: 12:00 – 9:00 PM",
+        "Sunday: 12:00 – 6:00 PM"
+      ],
+      "photoRef": "places/ChIJn62bEmcFdkgRGbJEgy3b-FU/photos/AcnlKN3VJ0vAQXDkTt2u-DW8CnZQqoHw_LLmIYKgp3eCNFH6G5UysiB04hCGzMOjHcFoOJbYNzOCqTyqnaR58vVcPKkBKFlAeUuQr1UEa9E9n5BAubu1uoM8asSTZOq9UVXUk_Nth1qjFXfrsuMtLdMoNdpMSyCa3vBxYbmN7G4GcoQFvnHJkYa7gf5m2Bg2FgG7tFDhEtNF7kvNbnt4yjpqsg72xTsvLii6rA90knjPAa9bEe6_vIFmHNDMjyGoYnzb3rLPmfqTqE1QQYixZNaW27ox6qVtfKXWuO8-RsIVXitx5_x1naEI2XcLBto_lCgoQpXOW6Zb4z89qpOpzozRn4Tz0lLLJPv6LWp9yGurtpmpASG09BnQ1TbkGM2sE90e2RdaKHKkVhbY-mYERTjCLFZvkmPI0bnUFi-Nk_PMs3-2LA",
+      "photoAttribution": "B"
     },
     {
       "name": "Val de Neu Sisley spa (thermal circuit)",
@@ -1251,7 +2238,12 @@
       "longDesc": "Spa and hydrotherapy access while kids are in lessons, offering parent-only recovery time during ski days.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Val%20de%20Neu%20Sisley%20spa%20%28thermal%20circuit%29&center=45.8,6.707",
       "placeId": "ChIJTXAdI86iqBIR9Qc5XSEB4Ek",
-      "address": "Carrer de Perimetrau s/n, Nucleo, 1500, 25598 Baqueira, Lérida, Spain"
+      "address": "Carrer de Perimetrau s/n, Nucleo, 1500, 25598 Baqueira, Lérida, Spain",
+      "rating": 4.6,
+      "ratingCount": 594,
+      "website": "https://www.hotelbaqueiravaldeneu.com/",
+      "photoRef": "places/ChIJTXAdI86iqBIR9Qc5XSEB4Ek/photos/AcnlKN2PD5wy2qpNUgFWbkfB5CN-uo7CZ4SCHH0jY6x7wBdEYIzC_8NO13g3xUMcYSnBnFUBf0Bm2qBCUKG_7DAESdMRID6yJgIDC07NhwWEGrT0t5dgo4XYObKGyDlQF_gNCeYOjl2jHxDhgWL7K3D5b3zWYXTeTqYX5OhSp1gnHMh4x-e8YWNZxgPVm2z0aiY6injUW9zVevoTx9qm_ozhMW7zEMg9qjgXYY6-qVVF_FAZrtvQJKSd91RNbHEavmNkpHKZALV3Muyf1uHP0nX3jNqNej-slRIMjmaNIfnOl5KZiw",
+      "photoAttribution": "Hotel Val de Neu"
     },
     {
       "name": "National park day trip: Aigüestortes i Estany de Sant Maurici",
@@ -1263,7 +2255,21 @@
       "longDesc": "Catalonia's pristine national park offering seasonal hiking and lake activities, perfect for non-ski cultural reset days.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20park%20day%20trip%3A%20Aig%C3%BCestortes%20i%20Estany%20de%20Sant%20Maurici&center=45.9,6.65",
       "placeId": "ChIJ47cklEOgqBIR7AoXw9AKW-w",
-      "address": "Lleida, Spain"
+      "address": "Lleida, Spain",
+      "rating": 4.8,
+      "ratingCount": 6825,
+      "website": "http://parcsnaturals.gencat.cat/ca/",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJ47cklEOgqBIR7AoXw9AKW-w/photos/AcnlKN3P2Ezm3PlX4LfPAf969JGXQ__chBBqT-L_dmQo5st12hPRL5qlebF9s3GeBCHjs4HZzQ7h_TRKbTBbqmh9HgWEnsQgFompqIxv8U145uH4anSP-bPg75CPKechowVcO7W29SmW7gKlwASF0KwMIlcQN1cbQjDdA3QpRe6ABNzZlyUiIUTF-42EtKSsU-M7_gdxKFab5adlr0S5nxbT-ZUy3QAMc3lhl_5ks3ERMvj0tGo7kmPtb-HB9EcT0Yz7jgsRcJ77G9LXbLze1brMqjIVv3FEWbCIZruestPP7RtA2xjnjYylE60uMifVleg0v1h4rnESOKiSwjONGPs8xeaX0TnFtzqDqnv-_Q1kCY8JfesRFc4x-igscCyF6xxGhPBXU7GnuFDoTLqUvUgBw3gbgcMEvC8uXzEHzsb4EG0",
+      "photoAttribution": "Auxi Garcia"
     },
     {
       "name": "Romanesque churches of Vall de Boí (UNESCO)",
@@ -1275,7 +2281,21 @@
       "longDesc": "UNESCO heritage churches offering cultural substance and short visiting times, ideal for weather closures.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Romanesque%20churches%20of%20Vall%20de%20Bo%C3%AD%20%28UNESCO%29&center=45.9,6.65",
       "placeId": "ChIJh0aQF8wgphIRysAEi3rlnXg",
-      "address": "Carretera de Taüll, 31, 25528 Boí, Lleida, Spain"
+      "address": "Carretera de Taüll, 31, 25528 Boí, Lleida, Spain",
+      "rating": 4.6,
+      "ratingCount": 1026,
+      "website": "https://www.centreromanic.com/esglesia/sant-joan-de-boi/",
+      "hours": [
+        "Monday: 10:00 AM – 2:00 PM, 4:00 – 7:00 PM",
+        "Tuesday: 10:00 AM – 2:00 PM, 4:00 – 7:00 PM",
+        "Wednesday: 10:00 AM – 2:00 PM, 4:00 – 7:00 PM",
+        "Thursday: 10:00 AM – 2:00 PM, 4:00 – 7:00 PM",
+        "Friday: 10:00 AM – 2:00 PM, 4:00 – 7:00 PM",
+        "Saturday: 10:00 AM – 2:00 PM, 4:00 – 7:00 PM",
+        "Sunday: 10:00 AM – 2:00 PM, 4:00 – 7:00 PM"
+      ],
+      "photoRef": "places/ChIJh0aQF8wgphIRysAEi3rlnXg/photos/AcnlKN2z0FXGgCSIIQfNA99jOl56T1pZBA_FaEDGkI0Y30eaFqxykCZcUYrq-ZohLxSO7ZLDQEQDrxNvc8eSQ8b_cNrQrMA11AU8dJPwp6eSgL0QmGtF-t3dxw_38VJI37JPYB7NTtX2SG810AV2u1sZrGRO5ITuJ9qaRrFxi1uU2MP0elsne2JNgLnuxa_713wJMh7nk6R4vrEOn5TKFgOMUzPqbI_dh0gV00425D6klTEPWBSQjwdjzXq8Qv5O5JQeE5cVrhAjVKQ2IswZpHYmoRuVYjErlYyN3-voLEL-lTxOVHkiDEnPlbNFMvkFhE-tmztqK6C_1Cpwd0JJDVbduRBLt5p2F1sgbmfUQ9-w806tuOc-SXnuIdGbP8EB8-Fge9LdF--awK_Agnhufg7D1VmfBzQ3WXR54HFNv47LDcrGOtRkgzOx3hQYJEhoMa2z",
+      "photoAttribution": "Carme Modol"
     },
     {
       "name": "Vielha evening for local food",
@@ -1287,7 +2307,22 @@
       "longDesc": "An Aranese evening exploring local cuisine and village culture, grounding the trip in regional identity and flavors.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Vielha%20evening%20for%20local%20food&center=45.81,6.72",
       "placeId": "ChIJuQRPl36aqBIRONvzvMdsx20",
-      "address": "Carrèr Sarriulèra, 26, 25530 Vielha, Lleida, Spain"
+      "address": "Carrèr Sarriulèra, 26, 25530 Vielha, Lleida, Spain",
+      "rating": 4.4,
+      "ratingCount": 1418,
+      "priceLevel": "INEXPENSIVE",
+      "website": "https://www.elmolidevielharestaurante.com/",
+      "hours": [
+        "Monday: 1:00 – 3:00 PM, 8:00 – 10:30 PM",
+        "Tuesday: 1:00 – 3:00 PM, 8:00 – 10:30 PM",
+        "Wednesday: Closed",
+        "Thursday: 1:00 – 3:00 PM, 8:00 – 10:30 PM",
+        "Friday: 1:00 – 3:00 PM, 8:00 – 10:30 PM",
+        "Saturday: 1:00 – 3:00 PM, 8:00 – 10:30 PM",
+        "Sunday: 1:00 – 3:00 PM, 8:00 – 10:30 PM"
+      ],
+      "photoRef": "places/ChIJuQRPl36aqBIRONvzvMdsx20/photos/AcnlKN1sj6G4bkId6QtPHvwMboFvkH3mv_n754LxGY9vXiiyQ2nd4YMjEDljoM4KqmcxssfoO8w-V1HY_N1_kfNK_ThauEvmOpNplURCx6jx5p4OLIZlrQrspmdp8CwA6xtBklJroxRuOUxh_ZXKurnBSz5vVbK-TVIt77yUhWk051SfYHYKivHgw9Mib-ui5dzbdif6pGdqjmAmpFqyNtehcOe6av3DWaER9Mk1zx31bSWRXhlzkkSEpCPcoa5qC0CxDZhGTsk98ViHDwoRtVk09Ji8bDwQiw-6ds0v8fUilRScTA",
+      "photoAttribution": "Restaurant El Molí"
     },
     {
       "name": "Plum Guide ski-in chalet setup",
@@ -1299,7 +2334,21 @@
       "longDesc": "Ski-in/ski-out chalets solving toddler logistics with easy access to naps, snacks, and gear management.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Plum%20Guide%20ski-in%20chalet%20setup&center=45.8,6.705",
       "placeId": "ChIJL99TL6ccdkgRE8FMn6vemt4",
-      "address": "8th Floor, Becket House, 36 Old Jewry, London EC2R 8DD, UK"
+      "address": "8th Floor, Becket House, 36 Old Jewry, London EC2R 8DD, UK",
+      "rating": 4.4,
+      "ratingCount": 287,
+      "website": "https://www.plumguide.com/",
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "photoRef": "places/ChIJL99TL6ccdkgRE8FMn6vemt4/photos/AcnlKN1z6TGqnJYvFpyZuciWQ3yqX5fQnPNUmKDvRe-gzvp4ct1qnIF70GtRrfSdusMjpdj14xU3MfqDlZ7wXH9-d_Yyeb6Y8MKR406GOtU-NyerXt3msiEDKvWAJ_dII7HZCz4ZJZS2b3dwRqybYRZ5O4zvk74laBedDIqEfPfS81b4ldPB82O7mLTz_uQXSd4JMLxI1NuJvKUNRFmD2MHQQa0U_PGowGH1pzVNytGoNGFc-Yv2-aV-YY-6__k1pgwSUW03M_buL30TQGxX2PxHshj0KuAvyWFkD4QsZurHVvyXrA",
+      "photoAttribution": "Plum Guide"
     },
     {
       "name": "Tree runs + family-friendly terrain",
@@ -1321,7 +2370,21 @@
       "longDesc": "A thrilling non-ski Nordic activity offering winter adventure and unforgettable memories beyond traditional piste skiing.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Snowmobiling&center=63.393,13.0815",
       "placeId": "ChIJsxBJKgwLbkYR8LmFvpYWSQA",
-      "address": "Årevägen 76, 837 52 Åre, Sweden"
+      "address": "Årevägen 76, 837 52 Åre, Sweden",
+      "rating": 5.0,
+      "ratingCount": 121,
+      "website": "https://areguiderna.se/",
+      "hours": [
+        "Monday: 9:30 AM – 6:00 PM",
+        "Tuesday: 9:30 AM – 6:00 PM",
+        "Wednesday: 9:30 AM – 6:00 PM",
+        "Thursday: 9:30 AM – 6:00 PM",
+        "Friday: 9:30 AM – 6:00 PM",
+        "Saturday: 9:30 AM – 6:00 PM",
+        "Sunday: 1:00 – 6:00 PM"
+      ],
+      "photoRef": "places/ChIJsxBJKgwLbkYR8LmFvpYWSQA/photos/AcnlKN0SDdm5ZIO1gnvlW4sSqyJ-4EJNtxSkkA0r9a6e601pEZPoczhQFNpHCLZ7N8wmpb-OLEwwPP9JTt9Z9redcjbn4LIlJILNo-SBR-iiVfGN9VslqJ4MS0eqWDsBO2EUzMOmcqAVHZu9IujgO_bxLT27nv8DrVWqAOh0HdjL_RWbi_m7Td9DJiuhacL2VWD-5P91LbK3lLvugUYmvfd9iKUEqpO7HJpfRhRzfiIoBfqTKGjpZuG6HhdqxdeK6ZaBLH_YlWRXz6LqmY6V3gcFqxd5SXdo_uHL1K41qmNcGv8ESA",
+      "photoAttribution": "Åreguiderna - Aktiviteter och konferenser i Åre"
     },
     {
       "name": "Dog-sledding",
@@ -1333,7 +2396,21 @@
       "longDesc": "A thrilling Nordic winter activity offering unforgettable memories and adventure beyond traditional skiing.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dog-sledding&center=63.395,13.0845",
       "placeId": "ChIJLT7XE5hybkYRMF_uFr3THBM",
-      "address": "837 96 Undersåker, Sweden"
+      "address": "837 96 Undersåker, Sweden",
+      "rating": 4.6,
+      "ratingCount": 79,
+      "website": "http://www.aresleddog.se/",
+      "hours": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ],
+      "photoRef": "places/ChIJLT7XE5hybkYRMF_uFr3THBM/photos/AcnlKN3E6XjKNeU2bJxph_3MGJYjUp73nBx1zVtUChFk8R00UYUzhfbaKfFRDagu-6N-JNDZH0j2ubLm8pG-vnfSh69UxthcrrVak_8T_RcJfM3A05Gvr5TImW18GjBy1Yvr7AYJEjxzT9HKg8nbYTNdMlHVPq3Z7NNH9-kLEomTdqE-Ao44H3U1oDxhIIYuHfgQOR2dnvkfrLAhh1TNp8B1rwdKdn5k67Owr4aElzzIOMYEgmx_4pdic1cuMqBGNLrfnC44W2AeN572PhvwawfdnoRleADRPsJ-TGHjc5Fp67FAQ89GotssozDS_rDd-69kSsEftfuVBYQkleVdHtZ5kF0o8F3bdzr1aPzMfa-SyKkmKCu-91T9EgHDR_zUOe8KUmZ2QEXnhw3F4t5BsfEDFczSEGcSwLgXwd6GYfgMAq2ktw",
+      "photoAttribution": "Sebastian Gedda"
     },
     {
       "name": "Polestar Drive Below Zero (winter golf + test drive)",
@@ -1355,7 +2432,12 @@
       "longDesc": "A design-focused Nordic lodge combining architecture appreciation with post-ski spa recovery and wellness programs.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Copperhill%20%27Design%20hotel%27%20stay%20%2B%20spa%20day&center=63.399,13.0755",
       "placeId": "ChIJFQ_BVuwMbkYRwHKOJjE5ua8",
-      "address": "Björnen Copperhill 62, 837 97 Åre, Sweden"
+      "address": "Björnen Copperhill 62, 837 97 Åre, Sweden",
+      "rating": 4.5,
+      "ratingCount": 1697,
+      "website": "https://www.copperhill.se/",
+      "photoRef": "places/ChIJFQ_BVuwMbkYRwHKOJjE5ua8/photos/AcnlKN1JY6mVKi2FRK02CLktxdNacFXsIZWk76p42gY9d97qh6lP7SMi9rb9E1-JlsHH47YL94Zu63Gj5IXkJFjf-XXsLPV8rUgRpXUaRf2OriVfBFtWwSZ51ai0KqgE4z95HJ6qf7NZmUYo-xa8XK32Bys_SY8NDoD-8-i3u46PDxRgql5hPr1HDCz5Mj905dvY6Hup0GqIAYX7tSYc7d3O2ygRzq3gn1VAfx04xyteFj-8kzTJgjRl_rV-zsLs2_iveNRg0IRqdbAvOCwBWe7n5levVm0LRkGq5U0-xDRUGO4w1g",
+      "photoAttribution": "Copperhill Mountain Lodge"
     },
     {
       "name": "Après + small plates at Vinbaren (White Guide)",
@@ -1367,7 +2449,21 @@
       "longDesc": "A lively Nordic wine bar offering flexible dining with small plates and high-energy atmosphere for families.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Apr%C3%A8s%20%2B%20small%20plates%20at%20Vinbaren%20%28White%20Guide%29&center=63.401,13.0785",
       "placeId": "ChIJF2tyjQ4LbkYR8s8mhYnZ0kI",
-      "address": "Stationsvägen 11, 837 52 Åre, Sweden"
+      "address": "Stationsvägen 11, 837 52 Åre, Sweden",
+      "rating": 4.4,
+      "ratingCount": 217,
+      "website": "http://vinbaren-are.com/",
+      "hours": [
+        "Monday: 5:00 – 11:00 PM",
+        "Tuesday: 5:00 – 11:00 PM",
+        "Wednesday: 5:00 – 11:00 PM",
+        "Thursday: 5:00 – 11:00 PM",
+        "Friday: 5:00 – 11:00 PM",
+        "Saturday: 5:00 – 11:00 PM",
+        "Sunday: 5:00 – 11:00 PM"
+      ],
+      "photoRef": "places/ChIJF2tyjQ4LbkYR8s8mhYnZ0kI/photos/AcnlKN1UTxx7N5w20GeftSHhE9dYdyJFJPkIAOI0fBRgkJSLgrHazeoKTrIK1SrDohXQ7ET5nKKLlVoja99tupcOurPektHW6cMer_MnTb1074MRf7BGWsTme2MWsiJ7cm0izWYmI1SwrEr0SX6ynrTgQrznsdDCbLkj5zHR8qsMLyawmmgmafuFycug7s-N61x-vtOYXfXkQ97xofXM_2djSSnnh5Q6gox5WLCZJigOh3s-ZJDBS0ADddgwB47IexpyPMex7hzTiH4873AjVA3s7-dtGXkeYZfU6gGLH9PvzyMCrA",
+      "photoAttribution": "Restaurang Vinbaren, Hotel Åregården"
     },
     {
       "name": "Dinner at Granen (White Guide)",
@@ -1379,7 +2475,12 @@
       "longDesc": "Relaxed-elegant Swedish lodge dining with serious wine focus and cozy ambiance, perfect for special evenings.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dinner%20at%20Granen%20%28White%20Guide%29&center=63.403,13.0815",
       "placeId": "ChIJSawa_wsLbkYRlyP2pPXn_ZQ",
-      "address": "Tottvägen 127, 837 51 Åre, Sweden"
+      "address": "Tottvägen 127, 837 51 Åre, Sweden",
+      "rating": 4.6,
+      "ratingCount": 402,
+      "website": "https://aregranen.se/en/",
+      "photoRef": "places/ChIJSawa_wsLbkYRlyP2pPXn_ZQ/photos/AcnlKN0Zyjg0lKLTe_4zxLbJml6vcCSX38Gu6VOlly9PcuhZMUb9SWSS0DupUFkPA5j4aaAwZK8NylzgpBiBSR6mvJy4yce_i3pJoGnA6DQDF4OkX7WiygwFAo_fcB97arP9dlLevP2CaW4nQx0tgutEDxj06uSZ6scJ0sZkydGhIzn9P0SpDWzA6iQ60wqoQaZohwDpVHpFR-rS1CnAxy2oNP8Wg-vxktoupF5ufm8wYlw_4CEZJSUZpldh5xBTW-UbkLoxWjfAVNF67P6yEl-SuA7H395LO3jrtmn4DuNeTwjsJ7_2n0EJaNu3O3XmR9iUUBJuDSceVeGzDbWPGKZSa20qJQPDEh-56FvEMl5icsmJqEEs0S3HR0pDDRp9usOBL07RSskSP32cfQsv8Q_l6dzBA8uIiTAElZaTMYTg44dAtw",
+      "photoAttribution": "Thomas Lönngren"
     },
     {
       "name": "Book ski-in/ski-out lodging (reduce friction)",
@@ -1391,7 +2492,12 @@
       "longDesc": "Eliminating gear-laden walks reduces fatigue and enables quick returns for warm-ups and naps during ski days.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Book%20ski-in/ski-out%20lodging%20%28reduce%20friction%29&center=46.137805799999995,7.2407444000000005",
       "placeId": "ChIJWRRJYVnFjkcRBNSycMK2FvE",
-      "address": "Rte de la Croix-de-Coeur 24, 1918 Riddes, Switzerland"
+      "address": "Rte de la Croix-de-Coeur 24, 1918 Riddes, Switzerland",
+      "rating": 4.6,
+      "ratingCount": 11,
+      "website": "http://www.chaletbigbear.com/",
+      "photoRef": "places/ChIJWRRJYVnFjkcRBNSycMK2FvE/photos/AcnlKN1l_EuHguRCAbXpSbbo1hnrOwKrtMNyGdehBcvaW7rIlTkMnL-p8pgBB_9g_wRecgELVrmcDu2JGgVCyXnXI9mSeDlmLsvYT5Zal4sTISmecJ7Lp4bXz3lZ8oIKfK9tIiBtn-P_fk5XBHDkDb_nopJOS_u-yIEgnZFQAU_dOJJqdUJH9ZT6l7qcKGWwGwmYmX9VImipIkZo5JXWRPTO0C8XSaVTwTdYGVu8n_Ji7g-hmy-JuRYcPdRf2mCq86XCO-ToHgHaFWSH4f1lZLM7m6DqhSsVy6LNykYRJlVLL3McKA",
+      "photoAttribution": "The Big Bear luxury chalet, ski in - ski out"
     },
     {
       "name": "Choose lodging with laundry (gear rotations)",
@@ -1413,7 +2519,21 @@
       "longDesc": "Understanding structured, skill-test oriented programs helps families prepare kids for rigorous European instruction methods.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Plan%20for%20serious%20European%20ski%20school%20culture&center=45.0076658,6.122391400000001",
       "placeId": "ChIJOdElDsESikcRAlVgSqERGoo",
-      "address": "102 Av. de la Muzelle, 38860 Les Deux Alpes, France"
+      "address": "102 Av. de la Muzelle, 38860 Les Deux Alpes, France",
+      "rating": 4.8,
+      "ratingCount": 172,
+      "website": "https://www.ecoledeskiles2alpes.fr/",
+      "hours": [
+        "Monday: 8:30 AM – 7:00 PM",
+        "Tuesday: 8:30 AM – 7:00 PM",
+        "Wednesday: 8:30 AM – 7:00 PM",
+        "Thursday: 8:30 AM – 7:00 PM",
+        "Friday: 8:30 AM – 7:00 PM",
+        "Saturday: 8:30 AM – 7:00 PM",
+        "Sunday: 8:30 AM – 7:00 PM"
+      ],
+      "photoRef": "places/ChIJOdElDsESikcRAlVgSqERGoo/photos/AcnlKN1_Lgor6qaaWDuPMdZoWtXBKfXkTot3vsgsmviX4ZVSEPT38quqD_GcNUJLl81wdqt5dYgzk9-ZpDB8fQ2FLbEu7GS1yrFnllzzKQGtIyTqlGYGgk4N4b15mqM676MNawwhlET8GCDo9koK5As-pIXK0PB3MmBUKrYrg9MBEPgU70LczofNmdwjHCfaprqYWEuMfyTOFmeMOlXP-pXL6f4g03f3a74DIsHisx-nJL_PMm2VeCRI-ws7SnxUi9f4uIy17du2ui_4muxE0U-xjxQGH_KQnzcOIKx9lpez15zM1w",
+      "photoAttribution": "European Ski & Snowboard School - ESI Ecole de ski"
     },
     {
       "name": "Watch European school holiday calendars",
@@ -1445,7 +2565,21 @@
       "longDesc": "Leaning into long, sunlit lunches and relaxed apéritif moments when weather cooperates during ski trips.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Apr%C3%A8s%20spritz%20%2B%20sunny%20patio%20lunches&center=46.553773899999996,11.852945499999999",
       "placeId": "ChIJhRULULE_eEcRffN6yEBWCzI",
-      "address": "Str. Col Pradat, 45, 39033 Colfosco BZ, Italy"
+      "address": "Str. Col Pradat, 45, 39033 Colfosco BZ, Italy",
+      "rating": 4.4,
+      "ratingCount": 214,
+      "priceLevel": "MODERATE",
+      "hours": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 9:00 PM"
+      ],
+      "photoRef": "places/ChIJhRULULE_eEcRffN6yEBWCzI/photos/AcnlKN2EgZ-yCIuq1OMOwsLZZExXvmsW2KG389rdmUv8LBTyZtZ059UFH2mmr6mpQWCGKML4dErgLlDc2lylu9bwIpsnf7YqY4-CnZooXtpdcKZ020NEJPvQuYU8jSnXMmegQh9d2c1YjLH_7Qu8_PUfG2EmLbaEBHt_e4m0IEJ_aJAgU9fyvrKmgY--t-uCGWrvy5z0mRC4AQAyD7DrmCW8-m2QL0O1UF_17QxnP8vETyOZWSPr5rjFilpmZ5h3XpAK-jSmDcq2v58FWiryXZc0YIx_xvBX9VMq0fmhp-_jKlVF8FHml4ri-39raa2Om9BohMb6HAVVjCw7QCwvVWA1bkXGCV19EfmTekRQbLerZKY3yMuHXEXmbk4mg0xe8Pz2JriuQeO2xnKurGSqGelfjCEDq1wvivF3PwVb72hWjoGD1XPu",
+      "photoAttribution": "Natko Marasovic"
     },
     {
       "name": "Indoor/outdoor heated pool recovery (The Crystal)",
@@ -1457,7 +2591,21 @@
       "longDesc": "Soaking in heated pools with Ötztal views, creating memorable end-of-day rituals for families.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Indoor/outdoor%20heated%20pool%20recovery%20%28The%20Crystal%29&center=46.8715,11.0298",
       "placeId": "ChIJs38TvggVw4kRH-RnBkKF6aE",
-      "address": "1 Wild Turkey Way, Hamburg, NJ 07419, USA"
+      "address": "1 Wild Turkey Way, Hamburg, NJ 07419, USA",
+      "rating": 4.0,
+      "ratingCount": 2484,
+      "website": "https://www.crystalgolfresort.com/?utm_source=GMB&utm_medium=organic",
+      "hours": [
+        "Monday: 7:00 AM – 10:00 PM",
+        "Tuesday: 7:00 AM – 10:00 PM",
+        "Wednesday: 7:00 AM – 10:00 PM",
+        "Thursday: 7:00 AM – 10:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 10:00 PM",
+        "Sunday: 7:00 AM – 10:00 PM"
+      ],
+      "photoRef": "places/ChIJs38TvggVw4kRH-RnBkKF6aE/photos/AcnlKN1HAHsiryqLh536qgu4pGz8ZGepxk94N1SKcknCyc1522NWJYG6JrE_MKtzjVNBrt3m5WSf1cwMgXNOmG-uZ4xg4c3gemT7xfAe11ozkwboyrHx-zPsJSIqZdxz3iZ8wjQ-E64nuuKk-foQM1-1c8GLHcIf2VrrHxZmBy6c8cHktSMwKYMcyedGjHRo-ykQ67ZEt5vmg90uakXWFvsm9CeefsW8zHlqxvsbgd9V8jEdXlTIefyxh0Fd6eBqzpFfGKF_XxJh3_CJf8iyaq5PQVY4tMhuJesOgPWZJYLKKRqLyg",
+      "photoAttribution": "Crystal Springs Resort"
     },
     {
       "name": "Base in traditional Savoyard villages (vs. modernist blocks)",
@@ -1479,7 +2627,21 @@
       "longDesc": "A thrilling summer adventure river activity extending the destination's appeal year-round beyond winter skiing.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Whitewater%20rafting%20%28Noguera%20Pallaresa%29%20%E2%80%93%20off-season&center=45.9,6.65",
       "placeId": "ChIJudbaHeEFphIRYaue_ca44lI",
-      "address": "Passeig Les Vernedes, 25560 Sort, Lleida, Spain"
+      "address": "Passeig Les Vernedes, 25560 Sort, Lleida, Spain",
+      "rating": 4.9,
+      "ratingCount": 107,
+      "website": "http://www.raftingpallars.com/",
+      "hours": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 2:00 PM"
+      ],
+      "photoRef": "places/ChIJudbaHeEFphIRYaue_ca44lI/photos/AcnlKN0seWhi28oJtcTayyUXoJO7s7Yp63j9XknZXbDAUfsL3pLvQIPQ89y4AOj1OWUmfpCZSP4x7O5KVgE17tbaoynXcgnFPsTFZeFCiFuuE3R35G9gjD_khp4D5yY09GdUPUu_0gApoBnbP7mWsFvdhjBGfMTnxi9jbpX-EMhJR3AmlcGBIzRLkpoTX4D20tqrkJzDn_ho9J8kAuBlLM3sq6QoeqAtlgNKM5O6RhhRY-X_DrCDfdXHczvRa-z1JwTq4QcyNNKcPqJfDH7P0P2OfmDDMDptXhxnsw437Bcd6onEvA",
+      "photoAttribution": "Rafting Pallars - Noguera Pallaresa"
     },
     {
       "name": "Cadí-Moixeró Natural Park (Pedraforca Massif views)",
@@ -1491,7 +2653,21 @@
       "longDesc": "A dramatic landscape drive offering big views and short walks for non-skiers or weather-dependent days.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cad%C3%AD-Moixer%C3%B3%20Natural%20Park%20%28Pedraforca%20Massif%20views%29&center=45.92,6.67",
       "placeId": "ChIJZ2q4ykyZpRIRLrLlAWrtbxc",
-      "address": "Carrer de la Vinya, 1, 08695 Bagà, Barcelona, Spain"
+      "address": "Carrer de la Vinya, 1, 08695 Bagà, Barcelona, Spain",
+      "rating": 4.7,
+      "ratingCount": 4915,
+      "website": "http://parcsnaturals.gencat.cat/cadi",
+      "hours": [
+        "Monday: 9:00 AM – 2:00 PM",
+        "Tuesday: 9:00 AM – 2:00 PM",
+        "Wednesday: 9:00 AM – 2:00 PM",
+        "Thursday: 9:00 AM – 2:00 PM",
+        "Friday: 9:00 AM – 2:00 PM, 4:00 – 6:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: 9:00 AM – 1:00 PM"
+      ],
+      "photoRef": "places/ChIJZ2q4ykyZpRIRLrLlAWrtbxc/photos/AcnlKN0IaQqMIga_cwskHB03K-A6AMsoVqFd54N0fxQ8uVT-1LHVicGRsHqUmmeRex1yrfiPJX7VDf_tXsI5u6w3doEGELpO5IF3dx_u9aciF_W-FTKJtW-pJjLN1zaSH35KxBVS-6_RpJYZnWFgWEYfnkzFJWhi9fD9nc-irMAku4uCQ3PX6uwzd1tvpskwauPYMR3n8bG7FYZNXFE7Xm-viCeUcuMJFq7pxLttXErwdx2Y2zehHPUCKI66xqEhQMzO8ypwpUqK90OIndKZKEsRoc_PWZWNjzpMjATcb5lUrcNIPrTIx_c_tSdDLBsdESV1soxXTTbeYzTeAY4uo4_JiCqy1DO9LZi_R4bgPoABfgwa6Omg4Fv1riayo_kbM0WX71KOkwj4_2l4eUvYm0wY6SjAdXwaCFFk1AtJ_IUPYQbf7Sw",
+      "photoAttribution": "Arnau Morell Alsina"
     },
     {
       "name": "Dalí Theatre-Museum (Figueres) day trip",
@@ -1503,7 +2679,21 @@
       "longDesc": "A high-culture detour combining Surrealist art immersion with Mediterranean city lunch experiences.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dal%C3%AD%20Theatre-Museum%20%28Figueres%29%20day%20trip&center=45.93,6.68",
       "placeId": "ChIJybYdOd2NuhIR8KFMB8YPP0k",
-      "address": "Plaça Gala i Salvador Dalí, 5, 17600 Figueres, Girona, Spain"
+      "address": "Plaça Gala i Salvador Dalí, 5, 17600 Figueres, Girona, Spain",
+      "rating": 4.6,
+      "ratingCount": 50375,
+      "website": "https://www.salvador-dali.org/ca/museus/teatre-museu-dali-de-figueres/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 10:30 AM – 5:45 PM",
+        "Wednesday: 10:30 AM – 5:45 PM",
+        "Thursday: 10:30 AM – 5:45 PM",
+        "Friday: 10:30 AM – 5:45 PM",
+        "Saturday: 10:30 AM – 5:45 PM",
+        "Sunday: 10:30 AM – 5:45 PM"
+      ],
+      "photoRef": "places/ChIJybYdOd2NuhIR8KFMB8YPP0k/photos/AcnlKN3MH2Qv5QIUIxCyMR0-EM_lw0-7186SXV2bM5zAbtmyR8tOOg6xgi8ISfk6dHydpIg6shwzn9KjHNjccIwvO6qSu06FP1ydbWSGUQIl6OfdShEkrtorT8IhSH2ihzCGRnov-AXSKT2A1a30_RWx1MtJ4t2G8gXAHiOEmmMP7PEv6nG77CARO44H62Jx2h1DWhkL-lk1iLFnQDoRN6MfWrWg3vEFnc0C-1Dcx1rX7pfWKNU8fGZ32JpP1LbjypjlFJtxsBUNsCedXtVMpkBHTe4yIidAfq-rrZ1wXPrdX2yTDn_rACrjQDHPTz5WqrXYDtv9qH0lqF6T4U3oCtfUhOnb3k5RAyu4lW9aKsRC5sxfNchc4V8CWx249Zqp4gQADnINrBO1PZgwumU6YfuBg-D2GRPW6wBKv4Msn7O5zZxi4sWaIVHvpjp2k5w-uA",
+      "photoAttribution": "Dariusz Pstruś"
     },
     {
       "name": "Nordic spa + design-hotel downtime",
@@ -1515,7 +2705,21 @@
       "longDesc": "Åre's dual focus on spa recovery and architectural design, perfect for families seeking wellness and aesthetics.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nordic%20spa%20%2B%20design-hotel%20downtime&center=63.405,13.0845",
       "placeId": "ChIJWV98x1mdX0YR5EdSzB7s070",
-      "address": "Södra Blasieholmshamnen 4B, 111 48 Stockholm, Sweden"
+      "address": "Södra Blasieholmshamnen 4B, 111 48 Stockholm, Sweden",
+      "rating": 4.6,
+      "ratingCount": 93,
+      "website": "http://www.grandhotel.se/",
+      "hours": [
+        "Monday: 6:00 AM – 10:00 PM",
+        "Tuesday: 6:00 AM – 10:00 PM",
+        "Wednesday: 6:00 AM – 10:00 PM",
+        "Thursday: 6:00 AM – 10:00 PM",
+        "Friday: 6:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ],
+      "photoRef": "places/ChIJWV98x1mdX0YR5EdSzB7s070/photos/AcnlKN0ndqUPoXRYtcITQeTpDNQFiiTMEmbxi4_qoCb4fGp8oR54fbZc2dX3dS71r-szv_6fW5EwMxL1NBZm-uOD9ohq_V5J4KT9cOCx0VP2rjM8mwZZoFPaWdsHPHY3PACP9CiPurtNti-F631bQ1vboAO7X0TBvPhzzeT_gIoh33ldKKPLSS4kpBI90PMssSTqKpM_kay8znl3KJvvIv2VAJs-r2bvlZGdK4JDC8OCEyjZ7tGqqCOMpe_SOwVNH21SC7lYWL3eLJ1U1NV-QhvWHruKOX6_8r7Jlp-Tr5-Dj0IqEf3u1fwlQHKFeOMakCbiJXx7MNkm_vuRFqKKPp8OEHu717RyRm_gBAJ5wNozZ8Kv8DcGjCqIV4VyGeRNb1n5WTldNbqMY5AF9naULicKTEoD8p7RnYB9ciR-ljnkn8CcHhfL",
+      "photoAttribution": "Mark Collins"
     },
     {
       "name": "'Don't even need to ski' resort-day (hike + design)",
@@ -1527,7 +2731,12 @@
       "longDesc": "Copperhill positioned as a design destination with winter hikes, appealing to non-ski-focused families.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=%27Don%27t%20even%20need%20to%20ski%27%20resort-day%20%28hike%20%2B%20design%29&center=63.393,13.0875",
       "placeId": "ChIJew0t0ggLbkYRKWfmGhbJziE",
-      "address": "Trondheimsleden 52, 837 51 Åre, Sweden"
+      "address": "Trondheimsleden 52, 837 51 Åre, Sweden",
+      "rating": 4.2,
+      "ratingCount": 648,
+      "website": "https://www.skistar.com/sv/vara-skidorter/are/",
+      "photoRef": "places/ChIJew0t0ggLbkYRKWfmGhbJziE/photos/AcnlKN2S4pZ-v0ePaF-9T3Ih4rg49mci9_v3UwBedqw94OqXlwtTwPhKU9Nm_aKRQpUQWAS4OduFzZ8F5pK7vah6_z2MVTy-KcPFHztwswT6sJy-UK7PAW_hJHih20UenFHAKcVYfEsMtjejmJ9Wg64Xm8fYjsThSS0WzvF9Jhm3X6NoE25XZvyIKJuat5qMt4jf_Olv9zjgT-mAH0PF27cG3hIe2NMZTR5THCPNHaThYuD45DPD0PzxiCfsa8oBwqukzEd7QvmEx5EcZ8rBViwjC9fq3Y9W4MW2YJzM5H2aR0ruTg",
+      "photoAttribution": "SkiStar Åre"
     },
     {
       "name": "Use Åre as a 'yin/yang' slopes-to-spas base",
@@ -1539,7 +2748,12 @@
       "longDesc": "Åre's 100+ runs within a broader Nordic mix of spas and cultural activities for balanced family trips.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Use%20%C3%85re%20as%20a%20%27yin/yang%27%20slopes-to-spas%20base&center=63.395,13.0755",
       "placeId": "ChIJew0t0ggLbkYRKWfmGhbJziE",
-      "address": "Trondheimsleden 52, 837 51 Åre, Sweden"
+      "address": "Trondheimsleden 52, 837 51 Åre, Sweden",
+      "rating": 4.2,
+      "ratingCount": 648,
+      "website": "https://www.skistar.com/sv/vara-skidorter/are/",
+      "photoRef": "places/ChIJew0t0ggLbkYRKWfmGhbJziE/photos/AcnlKN1pwiu_GFB-n-dhhWvI9ECOsx16vf4-SPn5inn8uQtNA7_gZdssEsQRiepXwFMESId4Z2FAu3bPxUGGfiAyVnzxEqRXmmVRCZIUlfmKcJdJK5ZBEqKjVA_5-enLkSFpKItwSG75BFsT9yvgDNU_yZNaHU0U_jasnfqSLocZilMWBeKVPitoRncYfzk1fXkMsZqWRpBJ0W_R9kOhp1xdTWNoOmIL7xL3ODBIoCfDOKF5SyK5TaS_icCDiV5t3WoMrpdDT9HmeqjgKsdYiyFnbeORbxiTGieqVN6tMVS7Nk-0oA",
+      "photoAttribution": "SkiStar Åre"
     }
   ],
   "kidFriendly": [
@@ -1553,7 +2767,22 @@
       "longDesc": "An easily accessible mountain hut offering natural meet-up points and kid-friendly servings from expert-curated wine lists.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kid-friendly%20hut%20lunch%3A%20Rifugio%20Bioch&center=46.5471,11.909678399999999",
       "placeId": "ChIJo3hXotQ4eEcR-DAbT2NMLtg",
-      "address": "Piz Sorega - Loc. Bioch, 39036 Abtei, Autonome Provinz Bozen - Südtirol, Italy"
+      "address": "Piz Sorega - Loc. Bioch, 39036 Abtei, Autonome Provinz Bozen - Südtirol, Italy",
+      "rating": 4.5,
+      "ratingCount": 2611,
+      "priceLevel": "MODERATE",
+      "website": "http://www.bioch.it/",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "photoRef": "places/ChIJo3hXotQ4eEcR-DAbT2NMLtg/photos/AcnlKN1wZXRO-tDZ_tacL8fWPIryXLL8EnDgyhd9MXZ7bl1J6crWddAnL6Y3AHbaxC8sMSuVX-ULrt2qNuIokrX8w70xbtqAPjNSwch8B3N5n6jeqENoHgCPe4Gq4elmwz3-TG4NSCZaPF4ZwOrCv_AUkuwg2IxSPC-qaBcUpynQgD7OE_Hc0afxoeI_h36HmtgOSCnGni2QZetG655iA85Z4qcagmCWouOYrFzkurpGBck-R5pElGtuI2RGCno6Yh_ZrCvrL5js6wMFVcPL0SwlCl0Qz9MlZMlgpusa3MosYa9eHg",
+      "photoAttribution": "Rifugio Ütia Bioch 2.079 m Dolomites"
     },
     {
       "name": "Family base: San Cassiano village",
@@ -1565,7 +2794,20 @@
       "longDesc": "CN Traveller frames San Cassiano as highly family-friendly with strong kid amenities and easy lift access.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Family%20base%3A%20San%20Cassiano%20village&center=46.550781199999996,11.8675746",
       "placeId": "ChIJufnMvKk_eEcRf8aPhbvPr8Y",
-      "address": "SS243, 39033 Corvara in Badia BZ, Italy"
+      "address": "SS243, 39033 Corvara in Badia BZ, Italy",
+      "rating": 4.6,
+      "ratingCount": 18,
+      "hours": [
+        "Monday: 8:00 AM – 4:30 PM",
+        "Tuesday: 8:00 AM – 4:30 PM",
+        "Wednesday: 8:00 AM – 4:30 PM",
+        "Thursday: 8:00 AM – 4:30 PM",
+        "Friday: 8:00 AM – 12:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "photoRef": "places/ChIJufnMvKk_eEcRf8aPhbvPr8Y/photos/AcnlKN2-D9nlWE1IZvvVYaXtA3M5yoiW2gZcjZkxwIxzx1hTaLXSvzcs3nvYwr1qgtF40TM4mVTjUO0xdLSfk-qfuonTS-xgStTyUFko4YbF-PEP-2DdvvLFc5UlWluvO9gJbCBmBX_OqxxNNkg7SwLdtPvgJqVGYGdMtbj77gZJYEJzOW_By-bVK4l6PXIvuvPkfeOlbrMyaZDOCMqBotAkicHBf02zZxVh-GDc-961E0D64iAS1kH_r1wS2ozmj5CjKrTUDQGAbEnjxMGcpkF6zPj_m47ccva_t7k15lYpIKPlQmBFFwq6A8gCrOAKjyI22ZQdbHHqi1jcuiIkACNAE2WwYp7E9R9yiW-H1uS5fW6_PryjhW54OajgckzSRKv13PyK4tpglRc_7R5bnaDnnf1RB7Tc6smyUaHD5vGmz2o",
+      "photoAttribution": "Marco Falcone"
     },
     {
       "name": "Apartment-style suites (snacks + naps)",
@@ -1577,7 +2819,12 @@
       "longDesc": "Spacious suites enabling flexible toddler naps, early dinners, and gear storage during ski days.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Apartment-style%20suites%20%28snacks%20%2B%20naps%29&center=46.567062799999995,11.8866389",
       "placeId": "ChIJm1npQ3iegkcRnaAuTJ9WETE",
-      "address": "Via Varda, 5, 39036 La Villa BZ, Italy"
+      "address": "Via Varda, 5, 39036 La Villa BZ, Italy",
+      "rating": 4.6,
+      "ratingCount": 143,
+      "website": "http://www.predanai.com/",
+      "photoRef": "places/ChIJm1npQ3iegkcRnaAuTJ9WETE/photos/AcnlKN1l7GBBG64xcjvIixGFvxtKvjEYkuV2ZO7KozLkCmWUAYIIBNBfd1X1NUzXictu71mGlE4su8coxBT75vlhAHjwJLIXTUCqDw5rNtS6DmBXRtkH8mV7xYPkdgELdpH22KzGtZkbNg1kH89oV2RzbNCl_gnoZuvG9X0rM8Ujj306kXkErR1jce9mhiqGtHKMnfBcQWkEFz0TaLNrkVV-D8r8WQA2cCkocM2yBcp0FkClu6JFu3u6ce9VWp1Bp8mvf6mDdvYp50OIbrWkHpWkmUORBIe3aICpDQV8Tnu7QzmWnJ6RkTwvUUZDt2vgKezR8-dZPC8XrNhmkjjskYf0d-Q3_oEpfmE9VgnhvF0UnA-SEXyXyHq2TuMkJurOjk2bx8XBJL41qVHZyjJGIquPS5AbK5C_ez2uWfeuhYdzurCteQ",
+      "photoAttribution": "Cosimo Ventrella"
     },
     {
       "name": "Gourmet-but-easy lunch planning",
@@ -1609,7 +2856,21 @@
       "longDesc": "Hotels offering child supervision services in addition to resort nurseries, simplifying logistics.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel-based%20child-minding&center=46.725952,10.8575722",
       "placeId": "ChIJH5oqvxfbgkcR1zaKCT-kc2s",
-      "address": "Frazione Madonna, 26, 39020 Senales BZ, Italy"
+      "address": "Frazione Madonna, 26, 39020 Senales BZ, Italy",
+      "rating": 4.7,
+      "ratingCount": 300,
+      "website": "https://www.adlernest.com/de/",
+      "hours": [
+        "Monday: 6:00 AM – 12:00 AM",
+        "Tuesday: 6:00 AM – 12:00 AM",
+        "Wednesday: 6:00 AM – 12:00 AM",
+        "Thursday: 6:00 AM – 12:00 AM",
+        "Friday: 6:00 AM – 12:00 AM",
+        "Saturday: 6:00 AM – 12:00 AM",
+        "Sunday: 6:00 AM – 12:00 AM"
+      ],
+      "photoRef": "places/ChIJH5oqvxfbgkcR1zaKCT-kc2s/photos/AcnlKN2pq4IR72lQNDCm6cW2M1HxcuYOJTTzaLs8VFBJFJ_6nm_shExxzDbkPXCelgJqygPTQmqPArgFvTeJd22CA3pPS3CcQxq7zvHosNLdd_Xtm3Bz7UDD2AaTwYMa26Mjekoaj9Wc-1wo_o-NhEi_V9qlP-L299nV50vlKbI3q7wLXu2LRwZr8-VJXHZC_9oQKW7YdvO91qJkQDlOayIUu4Np-zDOEb4X37xS2-f_4pySpylX6ziU1chLsClaRU6DBAGfoWUMjl_UTh5A2xfEiq045scuhu6vHL-I9NzsobXvBw",
+      "photoAttribution": "Aktiv & Familienhotel Adlernest"
     },
     {
       "name": "All-inclusive 'pickup & drop-off' service",
@@ -1631,7 +2892,21 @@
       "longDesc": "Short snow-play sessions keeping toddlers happy even when not actively skiing, preventing end-of-day meltdowns.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sledding%20/%20snow-play%20breaks&center=46.8598164,10.7152017",
       "placeId": "ChIJv7XJQPIpg0cRiiayssTuqyg",
-      "address": "6524 Kaunertal, Austria"
+      "address": "6524 Kaunertal, Austria",
+      "rating": 4.6,
+      "ratingCount": 58,
+      "website": "http://www.snowpark-kaunertal.tirol/",
+      "hours": [
+        "Monday: 9:00 AM – 4:30 PM",
+        "Tuesday: 9:00 AM – 4:30 PM",
+        "Wednesday: 9:00 AM – 4:30 PM",
+        "Thursday: 9:00 AM – 4:30 PM",
+        "Friday: 9:00 AM – 4:30 PM",
+        "Saturday: 9:00 AM – 4:30 PM",
+        "Sunday: 9:00 AM – 4:30 PM"
+      ],
+      "photoRef": "places/ChIJv7XJQPIpg0cRiiayssTuqyg/photos/AcnlKN3sziLY41qi-J9OcPO1o_YgWX6ry_42_BQ2pbpOXhk1_pObFqLpkNcVQeesuENZFYw_RgRHFW6u7H7gw4jN2Ahpyu2-r04yuVtjhRJd7YP01j4C6oQvZ4rDjM5B2WWfjUPHz3HTIHUWNVj8ZOGg92gs3__mLr7FjlSwxla8coKaAl5GzWes1376odBv1JpKGrZ6p9Lb_CHF2rwok36t_U5pUTGaGVIUfk1czFMammoYNYRWVqC0rszVEcYsOm0DuZWm8-exBgwEDzP2p4xYV0dVvEVDa-zoKslIKOYcO9wX5O4N1gzdhwYPo9TgJDu1Oy7eHe-w9oBg6txXk-agRaehqzETZCdl161xzX1RmpQTFpTP2VEQcMcqpypFgaAEAWfQvdi_O89haQvw3-MmFjxeGBSNDF0SzA1iqS-IleVhwF4s",
+      "photoAttribution": "Tobias Balkheimer"
     },
     {
       "name": "Fondue early seating",
@@ -1643,7 +2918,22 @@
       "longDesc": "Fondue's interactive nature and early dining times align perfectly with young kids' rhythms and preferences.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fondue%20early%20seating&center=46.2109345,6.1491337",
       "placeId": "ChIJ_2D-ECRljEcRyNWplKSRJE4",
-      "address": "Rue des Pâquis 20, 1201 Genève, Switzerland"
+      "address": "Rue des Pâquis 20, 1201 Genève, Switzerland",
+      "rating": 4.6,
+      "ratingCount": 5015,
+      "priceLevel": "MODERATE",
+      "website": "https://www.aubergedesaviese.com/",
+      "hours": [
+        "Monday: 12:00 – 11:00 PM",
+        "Tuesday: 12:00 – 11:00 PM",
+        "Wednesday: 12:00 – 11:00 PM",
+        "Thursday: 12:00 – 11:00 PM",
+        "Friday: 12:00 – 11:00 PM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 12:00 – 11:00 PM"
+      ],
+      "photoRef": "places/ChIJ_2D-ECRljEcRyNWplKSRJE4/photos/AcnlKN3SdSLR6vZW8lZ-fYzXroUwbqL2kM7eFA_60qREgzMG4gI_eoWtAbQi57XPsQiaPO9pIo4ZBp58PMVXbZL6DLwj7_sl67dEYaqEmCcedjq3BZHL1VAY14vS6VgWk0hHxoFmIN1bK70So_ktZ3SGAWQrtcG9tDaYg6tMeBiOgUbTu8bXjt1tN7NF2uO3Svviaxn4X1FIo355gTI1Xl_PUZ3lFzuG1HPQ1IVhXlYHVhC8p_pHfgnV0lqMH_MmtOX5wxcR564t-Fu51lS02Ej6UosoGIwqKJxlOR29qllLbNwTPQ",
+      "photoAttribution": "Auberge de Savièse"
     },
     {
       "name": "Alpina hotel playroom + indoor pool",
@@ -1655,7 +2945,12 @@
       "longDesc": "Multi-age playroom facilities plus aquatic activities, solving storm days and low-energy afternoons.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alpina%20hotel%20playroom%20%2B%20indoor%20pool&center=46.1549339,6.667322599999999",
       "placeId": "ChIJybi4IycDjEcR77PO-RLADGw",
-      "address": "55 Imp. de la Grange Neuve, 74260 Les Gets, France"
+      "address": "55 Imp. de la Grange Neuve, 74260 Les Gets, France",
+      "rating": 4.6,
+      "ratingCount": 598,
+      "website": "http://www.hotelalpina.fr/fr/index.aspx",
+      "photoRef": "places/ChIJybi4IycDjEcR77PO-RLADGw/photos/AcnlKN19OVU6UJaFprlc0lUqaQRL7GMElZf9lccaqDkoLOSoNk9LLOX-tV2FqfDaiI-hHSaw-ZOvCUvoHEQYZZmD3QrjhUyb6y0vH7pj_BrJ3Nu82oirMSW8-iqLp1SmrzxD50W6s5JTr_d5PBVzSGaqJsMRjTjRju6VcvSrhqHWOWOunoUMrpbs94yM8IkvI6QRgN05zv1hC9JFXjYMLakZj6dU25ro-RdNCmLa0v2PJ7efTERMMNNS5mFS3V9i6PSI88ZZm8FVTgY13050NJwnrTDkUfLXBFDt6dJZ3S28sApHrA",
+      "photoAttribution": "Hôtel Alpina & SPA"
     },
     {
       "name": "Traditional village vibe (easy stroller evenings)",
@@ -1667,7 +2962,22 @@
       "longDesc": "Les Gets and Morzine's walkable charm, enabling stroller-friendly evening explorations with families.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Traditional%20village%20vibe%20%28easy%20stroller%20evenings%29&center=46.1556,6.6706",
       "placeId": "ChIJvUkhUWyNwokRtbaJJ_erw58",
-      "address": "3 Fifth Ave, Pelham, NY 10803, USA"
+      "address": "3 Fifth Ave, Pelham, NY 10803, USA",
+      "rating": 4.3,
+      "ratingCount": 48,
+      "priceLevel": "INEXPENSIVE",
+      "website": "http://thevillagevibecafe.com/",
+      "hours": [
+        "Monday: 6:00 AM – 4:00 PM",
+        "Tuesday: 6:00 AM – 4:00 PM",
+        "Wednesday: 6:00 AM – 4:00 PM",
+        "Thursday: 6:00 AM – 4:00 PM",
+        "Friday: 6:00 AM – 4:00 PM",
+        "Saturday: 6:00 AM – 3:00 PM",
+        "Sunday: 7:00 AM – 2:00 PM"
+      ],
+      "photoRef": "places/ChIJvUkhUWyNwokRtbaJJ_erw58/photos/AcnlKN3C2BQ-X-hJPR_xS7gHNWARNxpbNXvRiEHrqVjEywT_d4lChwV4zdw1riL4k-zB0TbagHVaehEbveI9pBCI6qsoPgJmZhhyqfwYORMc6PKknw6YJ66KGaUCloFcqxQj0B-NBRSZsLfT2dHO0EI7ZjgWNxWg3duIMZ3CwHjctRiBhZpdNyHFWpR-U7IoM7y8Y5yVSOcC1rYJM_lHrYBlZ1nSsV7rnKayEntbuUGK_9ECCz6D1IS6BXsfK6gYSeJ6CjVe1nr9MGoElO3jEotJypio4fPkMr3UDhJhTW-DK0V4BQ",
+      "photoAttribution": "The Village Vibe cafe"
     },
     {
       "name": "Car-free Avoriaz 'streets-as-pistes'",
@@ -1679,7 +2989,21 @@
       "longDesc": "The car-free environment simplifies navigation with kids, removing vehicle traffic and logistical complexity.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Car-free%20Avoriaz%20%27streets-as-pistes%27&center=46.1931052,6.7733778",
       "placeId": "ChIJd0P3jVGmjkcRdzdMm1oPsz4",
-      "address": "74110 Morzine, France"
+      "address": "74110 Morzine, France",
+      "rating": 4.5,
+      "ratingCount": 3686,
+      "website": "https://www.avoriaz.com/",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJd0P3jVGmjkcRdzdMm1oPsz4/photos/AcnlKN1VPFlV5nGJlgGRm2zhGe74Ke0tt9SnAmU9NngMbwZAtn_UyyuGYrzm_yk_-CJypc2IEw0-ICyTzCFZ0PGA8D7CRRz8RCyVWpgojovouQZhOwulkQSdUJpWS0DMm7qGVLztchMiQFofi9T2OT8HXg37rt1UgRdlVD5Pr-y79EplQs4sAxYBnUrFD0sRyNuVaMSXZo2GY17LWB2CrkeAZTkOnU13MV-l_vNBbivRdTcWdIuEKCZItmBQrZ-jJq-gHB8ijLnlSRHRQGQ9a7ah8yhc8vqeTaIVxIXHa8fyt2jZJ0o6zGJ5uxvIg68mfsuKWr0beVd5s0kzDS-Coi3EZfTgvrWy-glZYdh1IFSfQel4dWRvaygnFggxrQlmg1HRl6rSr6Ax7LhWUpoO8f6SD8XZc3PJEqqxN_02ijYzgLfdYKo",
+      "photoAttribution": "wei zhou"
     },
     {
       "name": "Catered chalet routine",
@@ -1691,7 +3015,12 @@
       "longDesc": "Chalet kitchens enabling flexible toddler mealtimes and early bedtimes without restaurant timing constraints.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Catered%20chalet%20routine&center=46.1810712,6.7122722",
       "placeId": "ChIJjQRkYFwdjEcRhhz8IrtiMIw",
-      "address": "97 Chem. de Seyrosset Haut, 74110 Morzine, France"
+      "address": "97 Chem. de Seyrosset Haut, 74110 Morzine, France",
+      "rating": 4.8,
+      "ratingCount": 32,
+      "website": "https://www.treelinechalets.com/chalets/plan-des-pierrys/",
+      "photoRef": "places/ChIJjQRkYFwdjEcRhhz8IrtiMIw/photos/AcnlKN06ygGr3t3BJhKdByzfqoXIvLo8Uwh8vdRzlpF3UWyrEs1UFjm-hdLVQOHP-gCY3aLp9ZVReZ030TedVS9fvt772JDoUeiahdBXAv018LHdwvAyYNMzX2aREIDrSjPoJPhz2nYZXmY1fY7H8rXxHHblEGgaAkroLAWhB6KQ0TKqCF9AvkY1YRsZJppRCEN3yuFwXH2Y4E_GbhKTVJ2O_bH5bf-99nFmj5dkllqlVVg_hEVnARWZQi8KaKu_8zrHJj3GCLOYZdsqXV8j7ecSc_g9sXPXwVagSFwmkXv5Viq-4w",
+      "photoAttribution": "Treeline Chalets - Chalet Plan des Pierrys"
     },
     {
       "name": "Conveyor-belt sledding hill (common in resorts)",
@@ -1703,7 +3032,12 @@
       "longDesc": "Sledding hills with lift assistance provide high-reward, low-effort activities for young children.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Conveyor-belt%20sledding%20hill%20%28common%20in%20resorts%29&center=45.9,6.5",
       "placeId": "ChIJpRYu5AIKlVQRaY0iIKP8Mck",
-      "address": "87000 US-26, Government Camp, OR 97028, USA"
+      "address": "87000 US-26, Government Camp, OR 97028, USA",
+      "rating": 4.5,
+      "ratingCount": 3844,
+      "website": "http://www.skibowl.com/",
+      "photoRef": "places/ChIJpRYu5AIKlVQRaY0iIKP8Mck/photos/AcnlKN1_AoMAQEh2sb4JDBP0WTiU-ea4iVj-PSrrtLGWxTGoOvbO9N_ez-nNFrxCF2OOPZhFuI1I55NqlfaKjbFvqRUD12ruJtD2YbDGzv4QbhrluMyoWdcjOPoEUbRUhQveVlOvS81Flma1SfPwor6I3rnrpa4GrSSfRriaR5KmV0YEjC5tTmwNeOIL8NXvSiocpFMpNrq8t3RaOBqzTx0IXsNkNm_E7myMcoMhiOtJJ6GDp2KnEf_ZJ2Q7CeAkAO9ct9QflDI7lxwJPK-Pg93KcZzrNhYLlGgLtwTa2PzeKwpA82Vsb1-dgbvnBDYL_H-IAV23HZf_LaIcVWTPKylOXwTRE2T0jZxXGPpm2Yn76VE4W-bN1mRAv6txK0JTKMLT2Jvjx-bUpw633RdEe5Eg3vd_aoLrXNC_j7T_KuzwiUs",
+      "photoAttribution": "Alaina"
     },
     {
       "name": "Ski school in English (Baqueira)",
@@ -1715,7 +3049,21 @@
       "longDesc": "BB Ski School's English-language instruction and family-focused approach; verify minimum ages with resort.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ski%20school%20in%20English%20%28Baqueira%29&center=46.134119,7.244705",
       "placeId": "ChIJf8_wiw-bqBIRT_D-gWawrLE",
-      "address": "Estación Baqueira Beret, sector 1800, 25598 Baqueira, Lérida, Spain"
+      "address": "Estación Baqueira Beret, sector 1800, 25598 Baqueira, Lérida, Spain",
+      "rating": 4.7,
+      "ratingCount": 758,
+      "website": "https://escuelaskibaqueira.com/",
+      "hours": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 9:00 PM"
+      ],
+      "photoRef": "places/ChIJf8_wiw-bqBIRT_D-gWawrLE/photos/AcnlKN2hZuQY62MtlBgVeH34RJrqIStqulHBLFQV0sKl7MREMqTAoLgLOwp4k7kngo40jNFWYxywKAe7r2d5_mY8sZ6-5ltccDKjtowjyRX7sHQ-v2PO7lEgJurJG04asfcLO1zS_gHbI7EdRbTt13GRNIfIv22aoDLDbKVlLcIjHDlK0EKTdTTkq7_0HsxZvv3xYEnPczwH2dVw3Sat9Y_ASXGszIviGRpeLkmFOAh_Pg-60aiXCmUjjO2B0yo7MuJ5b0RHPn4jNsl0td1_4jlK2INnWQf7c4uttk89AIbvc9DfIgKRT91_R6c5ZTiFzAa89dgfq1C4TLsZQI1PqIbsNH1cfbtZ422WjWPjhKbzA3Hnhn9uMvNbRJHy2NVWqi_X13XENY53e7XrLP_nEwf1ahYXqGmLKCwxyTZizMpSLuxYWHVaCRqlphlnVxFTXw",
+      "photoAttribution": "Tamara Reznichenko"
     },
     {
       "name": "Hotel Val de Neu: fireside + spa",
@@ -1727,7 +3075,12 @@
       "longDesc": "Fireside hot chocolate and spa facilities enabling parent-child downtime and parental spa rotations.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Val%20de%20Neu%3A%20fireside%20%2B%20spa&center=45.8,6.707",
       "placeId": "ChIJTXAdI86iqBIR9Qc5XSEB4Ek",
-      "address": "Carrer de Perimetrau s/n, Nucleo, 1500, 25598 Baqueira, Lérida, Spain"
+      "address": "Carrer de Perimetrau s/n, Nucleo, 1500, 25598 Baqueira, Lérida, Spain",
+      "rating": 4.6,
+      "ratingCount": 594,
+      "website": "https://www.hotelbaqueiravaldeneu.com/",
+      "photoRef": "places/ChIJTXAdI86iqBIR9Qc5XSEB4Ek/photos/AcnlKN1dYY3fqnyDtUuWh5oSKgT_reuYHj2RKPAr28qzvsRdh24-tRSn8wRPMN1VQZq5GOro9vDPBdJ6uXbsdgEiluKVcL7-NBZz6YUEPWcBwVmuCHkWBBqDPWIys18pMQH0xNcpE9WjkG3JRW5TsP0lHf6BbO_ezNyihI-VgFpEwv2xB5o-iJ8jzOGdacgmxwu9cvuitHWqnyyTiXH6dJ4LmYXMndPU7FbYIBDdNewc_QtMokKLjNrzZitwjSkQoFw1gLQr56dZ4hw1d3uT0Mtr7XXlbNd_v1LY0kivyIndsri7mg",
+      "photoAttribution": "Hotel Val de Neu"
     },
     {
       "name": "Tapas early-evening strategy",
@@ -1739,7 +3092,21 @@
       "longDesc": "Short tapas crawls keep kids engaged in restaurant culture while allowing parents quality time together.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tapas%20early-evening%20strategy&center=46.0188902,7.743856900000001",
       "placeId": "ChIJDY2wHTs1j0cRswI9iRxnmGI",
-      "address": "Metzggasse 35, 3920 Zermatt, Switzerland"
+      "address": "Metzggasse 35, 3920 Zermatt, Switzerland",
+      "rating": 4.9,
+      "ratingCount": 234,
+      "website": "https://www.sonnezermatt.ch/de/restaurants/apastapas",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 6:30 – 9:00 PM",
+        "Wednesday: 6:30 – 9:00 PM",
+        "Thursday: 6:30 – 9:00 PM",
+        "Friday: 6:30 – 9:00 PM",
+        "Saturday: 6:30 – 9:00 PM",
+        "Sunday: Closed"
+      ],
+      "photoRef": "places/ChIJDY2wHTs1j0cRswI9iRxnmGI/photos/AcnlKN27ElkdniC1Rchc_YX0veJ9Giuxr2UyhLPjFo8wvWUKJkDX66oBokrtqxT1XoabZ-nnMg7NK5UVyDwc0yQnfPYmU1cf1B-kG8euvFgMSz6-Sz10Dcpf2CSc9g9x06y24T9_OGov2xdbpTBAFJq4IOtvTWUjvOE8bZPaOzBFW7pxQBABtlrsVTcnK0oWHo4tR8SG6zOwfPp-QMcduTmUKkfk6lGphtM-bh4-iole9xc0zFLhr5P_-M4zu_bFJhfNomgGrGTfKqanrsiAGZ8RpaNO_fzlLXOAS-HrdL0uvqB4CQ",
+      "photoAttribution": "apasTAPAS Zermatt"
     },
     {
       "name": "National park day (snowshoe/hike when open)",
@@ -1761,7 +3128,12 @@
       "longDesc": "High-impact cultural visits with short duration, suitable for older kids' attention spans.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Romanesque%20churches%20%28short%20cultural%20stops%29&center=45.8548934,6.7230642",
       "placeId": "ChIJxY0ItPxZiUcRSRwvJrhaxVM",
-      "address": "Rte de Saint-Nicolas, 74170 Saint-Gervais-les-Bains, France"
+      "address": "Rte de Saint-Nicolas, 74170 Saint-Gervais-les-Bains, France",
+      "rating": 4.7,
+      "ratingCount": 429,
+      "website": "http://eglise-de-veroce.lany.io/",
+      "photoRef": "places/ChIJxY0ItPxZiUcRSRwvJrhaxVM/photos/AcnlKN2_cMDsl47ATBWOTa2LrITcT1-8Ydn2tu9Qxza-t1Y-Em_oz15arcTWMhp56HZfF4ejg63Gvmt9ICF1zeQnkTwrSHKUqB1CdVOHlx-xqWvsqKtqE_PSNHxZ7Vr2cAJXaC1IOalwkV4a2Yr7GHpAGI79Yl-od1ftBPMmmvGhtnwjRmf6QU_q9kY2HjsAj_9XHcvDp6QqqrcHGplFlSp7yuYux2LwNDGp7BdM2RcnbnIt5R_U63QqO3JK_CUX-4JoYmsXKSuo2e48ONfQ73zw-OGAP23qSJOy9LYicFO_HLS8oiimisavNsA_S1JVARzjApJjYVO8wiZWeinPTiMs-tTcb5wObm-ar3qu5cTd80kllb3trzZevr0KUzK1ypWMbpe8Gq3H3AsH1p56EjUlUWuJD4p_6YYjxC0yUOhbqEWMvS6o",
+      "photoAttribution": "Christian Pourre"
     },
     {
       "name": "Tree runs that are 'great for children'",
@@ -1783,7 +3155,21 @@
       "longDesc": "A memorable non-ski activity often surpassing skiing in kids' lasting memories and family connection.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dog-sledding&center=63.399,13.0815",
       "placeId": "ChIJLT7XE5hybkYRMF_uFr3THBM",
-      "address": "837 96 Undersåker, Sweden"
+      "address": "837 96 Undersåker, Sweden",
+      "rating": 4.6,
+      "ratingCount": 79,
+      "website": "http://www.aresleddog.se/",
+      "hours": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ],
+      "photoRef": "places/ChIJLT7XE5hybkYRMF_uFr3THBM/photos/AcnlKN1y3cXDH1GArXQv5SKUOVDTMB_KsMVKXM8t0V4Bk_s42J9aqir_Q5tAuvgHp5EVKGVOpRjWtBTMzg75NDCyIttCOThSB49rchRtQk0U0XEy5Ea-zBQOcjWqNc-A9EtXYXEq1I11_fGCx9nMkXBlO88KejOW4-Vy3zLu3BUPEgSJdfW_YmEXyUjWkuHxCoPctrHddJUA9L6ig56wncTYGjyPgWoNv3BV0-WO6YAJhD3cCyu3To6f-3BoDEkidXEz8yOL2bH_fBVg15k1zgTnWZiUazcCuJdM8_vN7gELlJjKOHtn8wdWD0WCdIuwaJqgzEp2MJ7SktXGwpjNu_ywFA__Bmx-E2pZjIuqKhxvalzPcML9h5QBwXeSCMblDJfS7EJVMh_n4Vk-v-062LK601FPq5NlBrQDNC6hSjmHc0vCFg",
+      "photoAttribution": "Sebastian Gedda"
     },
     {
       "name": "Snowmobiling (youth passenger options)",
@@ -1805,7 +3191,21 @@
       "longDesc": "White Guide–listed central property enabling walkable family exploration of Åre's restaurants and activities.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20%C3%85reg%C3%A5rden%20central%20base&center=63.399435,13.079068",
       "placeId": "ChIJyy1kIGwLbkYRX84h4_4yGV4",
-      "address": "Årevägen 81, 837 52 Åre, Sweden"
+      "address": "Årevägen 81, 837 52 Åre, Sweden",
+      "rating": 4.4,
+      "ratingCount": 349,
+      "website": "http://aregarden.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJyy1kIGwLbkYRX84h4_4yGV4/photos/AcnlKN1cJ2L32MtdXExYO1Uhnt7__6xr2gcuu3lRPMHGCtAvE8B5Npjh_y7ZL6HpcayTYzyMz1MUYbmBCPBVrcRLTv4sxkRZZ1m6lELBgBJPiH5QoE_tMM3FkKz-m-QxixHqnP4L5h9_Q9K82cccX7F08lVFCu1Qra7ZaHvv4gk3R5YmcfAT9il6OYuZdHVjilkSO9ytU8nvNlPBZnjPvveVbRL99Uh5SNjhjfRqwzwbd4_V4Jp8jqz6rhp-t_jGXQ6FmLqQMPs-X4NOwL02CCFSMCE6CW2X_Him9VX_WYLv2I6N9w",
+      "photoAttribution": "Hotel Åregården"
     },
     {
       "name": "Prioritize a snow-sure resort",
@@ -1817,7 +3217,21 @@
       "longDesc": "Open terrain reduces kid frustration on weather-dependent weeks, maximizing quality ski time.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Prioritize%20a%20snow-sure%20resort&center=46.5198379,10.455261499999999",
       "placeId": "ChIJlx496OUag0cRIC5CrjrV5xs",
-      "address": "23032 Bormio, Province of Sondrio, Italy"
+      "address": "23032 Bormio, Province of Sondrio, Italy",
+      "rating": 4.8,
+      "ratingCount": 96,
+      "website": "https://passostelvio.eu/",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "photoRef": "places/ChIJlx496OUag0cRIC5CrjrV5xs/photos/AcnlKN0l2Hx1sHcaRaePAnpmA3r112fCGSwQTR0jVeg3CHKJmmAFQTxOvxvgECts7LIrzDLEmh6kiSlmWEZy5JkpZp4C0UnY2Cx-TSImRmUIoVPbOQMOfbx9azpMWNe_ePLDaexxKCcmFn9GWExvTZmN7WbZX0xAchuvLvmIeW1rpMUpy_rS3YLqVM5xkg8egfFr2vuCN0UXMwNV5188Ry-WjEJvBdbFAhXkt0X4G5dnypLF0r6lFuzowQb4UrTSglupvzt_VbM9s--dZVFKYfDKr28SVeuivJru2AV0DCUFDB6GGNrvLZ5eyuOHcrTCoi-F9-e-nIATX_0U2XMebXvNN4BZeCXV30pleXe1keVPAmx9lU3s88hSsXZarEkaEjkW7v4FMZRrqykDtb1ItWklQQvPjFMxa6hI9i-6Tj94d12-uoXaFi7z7J_nhs31YDIO",
+      "photoAttribution": "Francescoco"
     },
     {
       "name": "Direct flights + private transfers when possible",
@@ -1829,7 +3243,21 @@
       "longDesc": "Lower-friction logistics reduce toddler fatigue and meltdowns during travel segments.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Direct%20flights%20%2B%20private%20transfers%20when%20possible&center=46.48,10.55",
       "placeId": "ChIJCdCYLe8EYg0RDb1ttproBP0",
-      "address": "C. Emilio Ortuño, 15, 03501 Benidorm, Alicante, Spain"
+      "address": "C. Emilio Ortuño, 15, 03501 Benidorm, Alicante, Spain",
+      "rating": 4.5,
+      "ratingCount": 955,
+      "website": "https://www.shuttledirect.com/",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ],
+      "photoRef": "places/ChIJCdCYLe8EYg0RDb1ttproBP0/photos/AcnlKN2d81qvXejAX-RCMOQ8V5WSc6orXesHYottCBu7RGTWbp5KVEPqjIaSvsilM6G7DxcgArKbtxMrCQhNlGJOFh_an3XRWVHlK_a5XXpaXHifYTc4dkp1deRQLR5Xek1sqSsipIZCOlsGdD0TNWtfjLejkONWFifGN5GHOH38otzNCoxDGOY38uv0IeXTUCw_Uy3S0sF7MUHv0NbBIBzf0ZVcySUy541V7S9sEfBNVrnOQ3e3QwKiAv0E-yLRpeV2QLkXqoLfanQougoLFsGMNgYRiaZSr4ixd6wz05r_755oMA",
+      "photoAttribution": "Shuttle Direct Alicante"
     },
     {
       "name": "Pack boots/helmets; rent skis",
@@ -1841,7 +3269,10 @@
       "longDesc": "Packing fitted items but renting skis ensures proper fit and ease across age ranges.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pack%20boots/helmets%3B%20rent%20skis&center=46.9234039,15.016138699999997",
       "placeId": "ChIJcUOi997Zb0cRO6-1QU9gTMk",
-      "address": "Pack 250a, 9451 Preitenegg, Austria"
+      "address": "Pack 250a, 9451 Preitenegg, Austria",
+      "rating": 5.0,
+      "ratingCount": 2,
+      "website": "https://www.hebalm-verleih.at/kontakt-infos/"
     },
     {
       "name": "Build daily downtime (one 'big thing' per day)",
@@ -1865,7 +3296,21 @@
       "longDesc": "Alta Badia's 'gourmet capital' positioning emphasizes wine, sommelier culture, and culinary skiing experiences.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taste%20for%20Skiing%20%28gourmet%20ski%20safari%29&center=46.5717384,11.9318148",
       "placeId": "ChIJC4eFv0o5eEcRN1RkzhG-fTg",
-      "address": "Strada Micurà de Rü, 23, 39036 San Cassiano BZ, Italy"
+      "address": "Strada Micurà de Rü, 23, 39036 San Cassiano BZ, Italy",
+      "rating": 4.9,
+      "ratingCount": 87,
+      "website": "http://www.dolomitemountains.com/en/home.htm",
+      "hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "photoRef": "places/ChIJC4eFv0o5eEcRN1RkzhG-fTg/photos/AcnlKN0e8d6ujw2OEaKhw4MHBH6dM7g_goMUrxcqlHjVB59inDFfbYbSL_mAmiEIn-EnGlZEzpRXkhNTZDH-ACwB3Jj6upuq__l14yiyFl8kx6jdNaesE7yhw0jLFi0rIWfEiGng7sn2eY91KbXIYqVdZ8jYTczPKEWE-IY5sKVw2q77bEXNrJVdpQTUsrZZU4ARRS06gyVvbinWuljjs1Q7YtpQCjQBaro_SLqGAoqo4RWHFqANC2kZEvyU-N-nL-6QkFMtUNXobvENllgGFWxP17L_Kvjlw8STKlY4-5a7paQKFg",
+      "photoAttribution": "Dolomite Mountains"
     },
     {
       "name": "Aman Rosa Alpina – wine library & dining",
@@ -1877,7 +3322,12 @@
       "longDesc": "Aman's Dolomites outpost showcases wine curation alongside multiple dining concepts for diverse preferences.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aman%20Rosa%20Alpina%20%E2%80%93%20wine%20library%20%26%20dining&center=46.571428,11.931175999999999",
       "placeId": "ChIJt9LEx0o5eEcRGuzlID984rI",
-      "address": "Strada Micura de Rue, 20, 39036 San Cassiano BZ, Italy"
+      "address": "Strada Micura de Rue, 20, 39036 San Cassiano BZ, Italy",
+      "rating": 4.5,
+      "ratingCount": 287,
+      "website": "https://www.aman.com/resorts/aman-rosa-alpina?utm_source=Google&utm_medium=Yext&utm_campaign=yext_listing&utm_id=GMB&y_source=1_MTg2MDI1NjktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "photoRef": "places/ChIJt9LEx0o5eEcRGuzlID984rI/photos/AcnlKN3rxhThEizGVA6yzZwptW4WQUTirwEXBw8KAvOvt2MTKlOBq-nwTT7rE5_ql_22eGs5lzcvVL7pS0o_uHfO0IVKgpjtRDHlHgCp5SIR-KQxQFQfmdAUFC_VKo9_g0jtGSVugvIE3n14M1oq6htg_BPJCpekrnA5O00uyt0ZrVK2sbqx5mFnFiVBfgEww4gBJBazo4B6NbhZbM9npaub_LrQb6CWxVSYIVAhqXq_OoAiC5jqdNUX6CUYEZENRhvURUsEB1NLHnQOSx8OiOM2bq9wJejF8Y36mFlECDf1QaRCTg",
+      "photoAttribution": "Aman Rosa Alpina"
     },
     {
       "name": "Hotel La Perla – cellar focus",
@@ -1889,7 +3339,21 @@
       "longDesc": "An extensive cellar with thousands of vintages, recognized by MICHELIN as a major wine destination.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20La%20Perla%20%E2%80%93%20cellar%20focus&center=47.6928112,9.2704322",
       "placeId": "ChIJ-bDKfW_4mkcR40olkPxnnCE",
-      "address": "Seepromenade 8, 88709 Meersburg, Germany"
+      "address": "Seepromenade 8, 88709 Meersburg, Germany",
+      "rating": 2.7,
+      "ratingCount": 163,
+      "website": "http://hotel-laperla.de/",
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "photoRef": "places/ChIJ-bDKfW_4mkcR40olkPxnnCE/photos/AcnlKN3F81j_MhtIH0Z04HE3oSSxbzulKkuJdyF1rxsh7owIJbk9cvXEinpjIwNqXX81NvSRW-Ydp0iiaLikgTsTdNEKdg_0MIJttf_DZibV5Jo9TTPJXmluknrnYZ68efAdjhff1NxRuamcFiD-MVo_BRaerYIuGrt7S9wL6mEiWsyzWYVGwbEtdTYpWmNp0K-3qWSeg--hwgJpPjkuwlpOF2HqlkkjkVSghuKzEH5QZNcMK9cQ0sONdGU0xXYmNVcywGXu7pn7_-8t3epnC8nG95ch5VyPLfXi244BMsgIOw30SGpHi7x9LyfoW9T-ugKiQ9Hlso1kO5aWbY2Ab7cXOn1CWhGLtmwYTckISGP0aOHdVgW13-Bszn-LwrIFLB094s4DcArAxUB4DCmpCvZt1fiA735Xn0MqO_RZBCumuzCkLA",
+      "photoAttribution": "吳柏儀"
     },
     {
       "name": "Badia Hill – cocktail lounge + Bistro",
@@ -1901,7 +3365,12 @@
       "longDesc": "Multiple dining concepts from cocktail bar to bistro, offering variety alongside Porcino fine dining.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Badia%20Hill%20%E2%80%93%20cocktail%20lounge%20%2B%20Bistro&center=46.6066498,11.8948187",
       "placeId": "ChIJSRWcess9eEcRA1BzRa8fPdI",
-      "address": "Str. Damez, 2A, 39036 Badia BZ, Italy"
+      "address": "Str. Damez, 2A, 39036 Badia BZ, Italy",
+      "rating": 4.8,
+      "ratingCount": 252,
+      "website": "http://www.badiahill.com/",
+      "photoRef": "places/ChIJSRWcess9eEcRA1BzRa8fPdI/photos/AcnlKN2OZRAwFHQbWJIYiEVJr1tA5wEAifhnlzYv2AwyHysPjRs51iRFufGFMijeTrn905T4DTc9fPrP-qeWHNpUBNXlneBHrbVO_IMlLv2x2oTAR9qXQwc5RBN0jO1Q0Gxo5l1sx4wxtc0AJx1j2YOXY1nxT3BXtwXwBoQnWSKhXBa-9gaH9sKUm7QFSmiIkGj2huyTcNF78bigjsFjoKM5dGkqXl8LzCwZV0FvMod_FWQffyXJgWHhTvrhpzwv-sXuS2dw5V_p0omRDpQwMpkZyW7nmW3-IoWmmLzJBWRkyQO2-w",
+      "photoAttribution": "Hotel Badia Hill"
     },
     {
       "name": "Rifugio Bioch (Champagne list)",
@@ -1913,7 +3382,22 @@
       "longDesc": "An expert-recommended hut known for serious Champagne curation despite mountain hut accessibility.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rifugio%20Bioch%20%28Champagne%20list%29&center=46.5471,11.909678399999999",
       "placeId": "ChIJo3hXotQ4eEcR-DAbT2NMLtg",
-      "address": "Piz Sorega - Loc. Bioch, 39036 Abtei, Autonome Provinz Bozen - Südtirol, Italy"
+      "address": "Piz Sorega - Loc. Bioch, 39036 Abtei, Autonome Provinz Bozen - Südtirol, Italy",
+      "rating": 4.5,
+      "ratingCount": 2611,
+      "priceLevel": "MODERATE",
+      "website": "http://www.bioch.it/",
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "photoRef": "places/ChIJo3hXotQ4eEcR-DAbT2NMLtg/photos/AcnlKN1codcQdflUlTSotrxY2MrJlXvwBT8_7PS8pG7wLYk6fl5zgax5EE9fhF2ll9icp9lJu5KkXjqQi6HjlxPrGtSBzhE-L7B_M3CN-a5rOhiR5evkNK6GxdrAuxqQZgZRrSD6Cg4lYXOm2wVLXvmX1O8YPSrqqFLW5Nhf8zBmLY555kkT0jKDZVOmhSzGgF-NQqE-dlUvzHhwEvXJQLzoxwnwPRffQVeChWxOCCevXB1d5K72R8SnHacT-e7kmKsJPAP9VynPfMtugh0MKeWiWYYPbMd3YzKIZaGaUjCFUd4GSw",
+      "photoAttribution": "Rifugio Ütia Bioch 2.079 m Dolomites"
     },
     {
       "name": "Austria Gourmet & Wine Hotel – wine-forward dining",
@@ -1925,7 +3409,12 @@
       "longDesc": "Falstaff-highlighted gourmet and wine pairing experiences integrated into Austrian mountain hospitality.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Austria%20Gourmet%20%26%20Wine%20Hotel%20%E2%80%93%20wine-forward%20dining&center=46.8709841,11.028664299999999",
       "placeId": "ChIJ19LaMHvMgkcRErSLxvOKJrw",
-      "address": "Kressbrunnenweg 3, 6456 Obergurgl, Austria"
+      "address": "Kressbrunnenweg 3, 6456 Obergurgl, Austria",
+      "rating": 4.5,
+      "ratingCount": 137,
+      "website": "http://www.austria-bellevue.com/austria/hotel-austria/willkommen.html",
+      "photoRef": "places/ChIJ19LaMHvMgkcRErSLxvOKJrw/photos/AcnlKN0du8c-VpFNf8H44VKEU345oJW2GkNdyLxQLafFRSE964NJdfKhVE1xpdhCBjdaNcqJ_SCDp9nBnZ-RtQ3PoD9kVj_oORAILkqu_eJ_Fe1skhmr2mWCEOMgv3DXC6pb0Kf1AXEBWV7mSb87XbIqfdkbhPGBMsEmhSorv-1wo1JMz0D8tWiGdbZZ8MWv3fEb7Z1TcYy7qmreP-F6b27vCDu2-7durMimwncWIoI6LV2MEdjJsoao3KzKBmj7tQ4cTTdhijgws02fUUwrhtAVIflgyYU7AHUYI4CSp1nrogDQ5Q",
+      "photoAttribution": "Gourmet & Wine Hotel Austria"
     },
     {
       "name": "Hochfirst Alpen Spa – après wellness lounge",
@@ -1937,7 +3426,21 @@
       "longDesc": "A large wellness complex positioned for post-ski recovery, offering thermal pools and spa treatments.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hochfirst%20Alpen%20Spa%20%E2%80%93%20apr%C3%A8s%20wellness%20lounge&center=46.8736366,11.030838600000001",
       "placeId": "ChIJmRiwt3rMgkcR-ZxjZuLL-Kk",
-      "address": "Gurglerstraße 123, 6456 Obergurgl, Austria"
+      "address": "Gurglerstraße 123, 6456 Obergurgl, Austria",
+      "rating": 4.7,
+      "ratingCount": 179,
+      "website": "https://www.hochfirst.com/",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJmRiwt3rMgkcR-ZxjZuLL-Kk/photos/AcnlKN2I0Jaz0iElZAu8JK336BmjIR6tg0ezRUnVfyrvPm1q9-2SIxfT6J_LS1KVRZauw1Y55aZ0trLAnZu_XPhItqbivpSL1Fbj11TsLOgRx0ImQ53JVse3QsaKdRfTH07-w7OI8VW4HZzOI0yel2-ZjAwRCaXwGl9LNXb4YerLI8RQnmCjoeslgOICO6fwkLgJFCSbtdUpqX_H_eWMKE_mrfvmkPBsYopXrhZ9_lczvF0hBRGcK29CmuwugbODcukZd3CfdFAqklkdT0wr7w4be9G2x6DjDVug2I7z7mH9XbcEyA",
+      "photoAttribution": "Alpen-Wellness Resort Hochfirst"
     },
     {
       "name": "Edelweiss & Gurgl – fondue rooms",
@@ -1949,7 +3452,12 @@
       "longDesc": "Falstaff-recognized fondue dining with fireplace ambiance and elevated ingredients.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Edelweiss%20%26%20Gurgl%20%E2%80%93%20fondue%20rooms&center=46.869865999999995,11.026142",
       "placeId": "ChIJzYjWGGXMgkcR7kZa3Z-tfvM",
-      "address": "Ramolweg 5, 6456 Obergurgl, Austria"
+      "address": "Ramolweg 5, 6456 Obergurgl, Austria",
+      "rating": 4.7,
+      "ratingCount": 815,
+      "website": "https://www.edelweiss-gurgl.com/",
+      "photoRef": "places/ChIJzYjWGGXMgkcR7kZa3Z-tfvM/photos/AcnlKN2p8LdTfnW6vrwgB6wPwMqnX1f4wo5rmIYzH2W8XltoaE0HmAPjhwHunBY9dI0IlY2MpoOsAwjkd5V3Cx8ZzyqWOgNLQ1GHkyJLgxzFOGWZoVpUw6Vdwpxe-SbKTvWjRs0qqc-lCAAXcv294oUC6CwyF4iSWc79IHDcHSGJ-Vn_XIyrlbb3_gPt0kqLUCSSg64PdE8k0YKbImZNjLNyd46qu5H_kq5ZqO96yfkWDhC1cg8_xg3ZyM0DxaTBEHJYYSRXUzOnXe1Q4lZCeebFaWpkghmI6tA4YHebEn5hWEquGw",
+      "photoAttribution": "Hotel Edelweiss & Gurgl"
     },
     {
       "name": "Hotel La Marmotte – multiple dining options",
@@ -1961,7 +3469,12 @@
       "longDesc": "Three restaurants plus tapas bar offering flexibility for families with varying dining preferences.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20La%20Marmotte%20%E2%80%93%20multiple%20dining%20options&center=46.156705599999995,6.6673507",
       "placeId": "ChIJmYTqe7EDjEcRG3MymbS6Xj8",
-      "address": "2183 Rte des Grandes Alpes, 74260 Les Gets, France"
+      "address": "2183 Rte des Grandes Alpes, 74260 Les Gets, France",
+      "rating": 4.8,
+      "ratingCount": 20,
+      "website": "https://www.hotel-marmotte.com/en/hotel-les-gets",
+      "photoRef": "places/ChIJmYTqe7EDjEcRG3MymbS6Xj8/photos/AcnlKN3pQSCOmNdoW9myyurcdFgLoAXt5bznObTb04Jo9fi3KFuXsXfL2pq3VMMmC-T8PlBmpZURs3i7q26o4h-UzutZBD8lylG8nNhSlRG8gil_pc1GovOePgKqFJr-GbHGAmz9q7Q8AtjovOGJu0LgyXCnHEdbvpFAt_rYbNRbpGWzQ5xOv_xkFvR_rLjw3CEfTlZ69l33EmFwNi0zYd2RcK7j6gmZCmdrIfmH73LAYO5UEu1lVIMtj5ZhA7RpQRPS_CsClRLs7W-trt2fOb4MIhJ-a_2z9ej503TgeF0CkH_vxEWXpbV6zG5l0Z7dJ3YYEHFvkeLkLKh4rKG2GBAJsbsgHxBAnldTJt5QnjhUD0NhTeyzWs3gtwzLcyuuIE99T3sPXXlqy1BFzbFrM879KGt0tsNwsc7FUILd-mkve8L9pQ",
+      "photoAttribution": "Manon Mosnier"
     },
     {
       "name": "Avoriaz 'streets-as-pistes' après at MIL8",
@@ -1973,7 +3486,21 @@
       "longDesc": "MICHELIN notes MIL8's retro cocktail bar, embodying Avoriaz's unique car-free après culture.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Avoriaz%20%27streets-as-pistes%27%20apr%C3%A8s%20at%20MIL8&center=46.1925372,6.7727395",
       "placeId": "ChIJg5opRVKmjkcR7IHjm4DXYI4",
-      "address": "241 Rue des Traîneaux, 74110 Morzine, France"
+      "address": "241 Rue des Traîneaux, 74110 Morzine, France",
+      "rating": 4.2,
+      "ratingCount": 250,
+      "website": "http://hotelmil8.com/",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJg5opRVKmjkcR7IHjm4DXYI4/photos/AcnlKN01zSlty2zgVJ6782Eg5x9F21jIEjDPIEHEUSy-6VlSbYHYJKV75IRZSAKvkBbLk_nCk6Pt5BFCwIId9Ib22gwXqZYrqseQGEy-et1F4aXCZXuaFKC1MrpcSmHi9MhlNjX_SSYLy8kGlg7W7brMwNct10hJu7BkleYmTJOFiRbKPhRg1v6EtmlDPBUEc9yU-l5JeUK_eenAJ1oPVuZxdxSqKSlPeXr8rfJD85JnOdY7f6YikmHI4TY7rwy77_oQqlfYyffW_BY75o_v25djO-iEiBGm51RIm6xNDhkT4PXm_g",
+      "photoAttribution": "Hotel MiL8"
     },
     {
       "name": "Savoyard village feel (Morzine/Les Gets)",
@@ -1985,7 +3512,11 @@
       "longDesc": "Traditional village character with bike trails and cultural authenticity in Morzine and Les Gets.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Savoyard%20village%20feel%20%28Morzine/Les%20Gets%29&center=46.159358,6.6825648",
       "placeId": "ChIJbxKPtgMDjEcR8OHXyZubx_o",
-      "address": "2208 Rte des Chavannes, 74260 Les Gets, France"
+      "address": "2208 Rte des Chavannes, 74260 Les Gets, France",
+      "rating": 5.0,
+      "ratingCount": 2,
+      "photoRef": "places/ChIJbxKPtgMDjEcR8OHXyZubx_o/photos/AcnlKN2jEuxdIb4MFpWPDpqAWTov-4ywUuQ_bmT1O4JGLh1h3mNhHki1DyhW7bvb4ST-ex0NnsPxKiSSNO2g_rAe1Ojf9IWBZwzC1YiuXV_qAdUahmsJGa_tDJwKGtL4r5cyP6666mXDt-dosyFfIS0nGRh2wYUQqM4Y8SiJTRs7aCBuCde1Tzzxe7-aOFfRQXqGNpZf7Yf8qUxJF_UTVUvPgtwDkFJlZfJ-DM-ASSUDa6t_FLJvYsBCbrMb8MGuN-0Rf2-kirFVl4lttQvdopl9_4PqzXVBzsXmI5Gu-pTaMxIcBZY2TYt2VBtJf1i7aWqISLXHKmcRDqwu_Y8h4MNRrE55ExZQ1VNnfyPBkp_fobFnz0l-6BhViIKKrV7H3o_p7DvgidO1IldRKOTcoyPOYsL9wlXMONFpnaGxkH2dPsHSzA",
+      "photoAttribution": "Nicole Gudit"
     },
     {
       "name": "Val d'Aran local specialties",
@@ -1997,7 +3528,21 @@
       "longDesc": "Regional specialties like Tupí cheese and Girella lamb sausage highlighting Catalan mountain cuisine.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Val%20d%27Aran%20local%20specialties&center=44.470679,7.347344",
       "placeId": "ChIJ0Qr0836aqBIRqT85e45MDb0",
-      "address": "Closas, 12 BAJOS, Carrèr Closes, 12, 25530 Vielha, Lérida, Spain"
+      "address": "Closas, 12 BAJOS, Carrèr Closes, 12, 25530 Vielha, Lérida, Spain",
+      "rating": 4.7,
+      "ratingCount": 10,
+      "website": "http://www.restilhe.com/",
+      "hours": [
+        "Monday: 6:00 AM – 3:00 PM",
+        "Tuesday: 6:00 AM – 3:00 PM",
+        "Wednesday: 6:00 AM – 3:00 PM",
+        "Thursday: 6:00 AM – 3:00 PM",
+        "Friday: 6:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "photoRef": "places/ChIJ0Qr0836aqBIRqT85e45MDb0/photos/AcnlKN0HjQHqaz64MnkPdM8MQtJAlYFo-MS0qcnF3e7UlIDzjYvQ3JDznM-vJwdJyw5jk0lWxJWC6DFRFR_n7Tx3O7NxSzgiD93Gm9mQkIuoWK6ZS4tDjjtEgIXxLPf-hGyIvoSE0p5jc_p85j8lP6uha_ImeN7t4OTNa5FVP7hlaEMdoCKv07Uo2KCrM_LyyEUc8qP3hQ87cWdekx53OMLVHKsCVHxeo6yt-xvvp4aR1u8ql1Q_dYZa03Gyhb58EFqJXMGSQVZp11xk7IBzJX0dFaCAHZwdjbY5vM5AqvnAYBCGnA",
+      "photoAttribution": "Er Obrador deth Restilhè"
     },
     {
       "name": "Hotel Val de Neu – fireside hot chocolate",
@@ -2009,7 +3554,12 @@
       "longDesc": "The iconic post-ski hot chocolate vibe combined with spa access, perfect for family wind-down.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Val%20de%20Neu%20%E2%80%93%20fireside%20hot%20chocolate&center=45.8,6.707",
       "placeId": "ChIJTXAdI86iqBIR9Qc5XSEB4Ek",
-      "address": "Carrer de Perimetrau s/n, Nucleo, 1500, 25598 Baqueira, Lérida, Spain"
+      "address": "Carrer de Perimetrau s/n, Nucleo, 1500, 25598 Baqueira, Lérida, Spain",
+      "rating": 4.6,
+      "ratingCount": 594,
+      "website": "https://www.hotelbaqueiravaldeneu.com/",
+      "photoRef": "places/ChIJTXAdI86iqBIR9Qc5XSEB4Ek/photos/AcnlKN3J2jDSSpy-bncbVdkeV4XcGDFLTtcbT-HebhT4fT_EoyhRofJjQekYWqK-0cRgQG_UFOOuYBrI8VRDWsDmYV-Mj6Am6QGZZEJPazKkjz9qyMpWZgBLqu-z-VzlBbmhd6RUFa9NYUbv0Z3vxsfOIr0HfJdc1wKvcXa2-hcguE9Ghf_qq828mTfzwbE1HnAPez2gt6yWFUFOABtaEGtH4z0a-VRZOc8Ll6UxB4IUKScJttNNrYW7SUslZMCK-Wko_xavtwWrG_IWwh4Wm0_AlmksFBq1Hi_qgT11dTNS9Zu5tA",
+      "photoAttribution": "Hotel Val de Neu"
     },
     {
       "name": "Tapas + Rioja après rhythm",
@@ -2031,7 +3581,21 @@
       "longDesc": "Vogue highlights Plum Guide's curated Baqueira properties including ski-in/out options.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Plum%20Guide%20vetted%20chalets&center=45.798,6.706",
       "placeId": "ChIJL99TL6ccdkgRE8FMn6vemt4",
-      "address": "8th Floor, Becket House, 36 Old Jewry, London EC2R 8DD, UK"
+      "address": "8th Floor, Becket House, 36 Old Jewry, London EC2R 8DD, UK",
+      "rating": 4.4,
+      "ratingCount": 287,
+      "website": "https://www.plumguide.com/",
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "photoRef": "places/ChIJL99TL6ccdkgRE8FMn6vemt4/photos/AcnlKN3MyVz06s3E2hltZHXOGnIDn8vCyeEqIxBlaBi9lJIuHxFqQ8-s15OyuNjYekEX-hc5Qmoe40gZSwgdn6jyGwT_VLamWCjBsPhWBmq2YQZJFY-xR9NHIVX5H3Dd2_yoYFg-C054wF-WG2FtdndAgECrHr20JmNLQ6DwRCT0ye3-0ZijPIU2v_4Hx9p18Gea5RbXQhp2i2lgd3osRLXE7MMWCoOqVQlrDWxLYRfKm3aBmsDgdPa9VdyEAPzpVmooLJAVNBnpvpBAngPblwF3Nk2zoBDdpVs9O4lVewuTutYG9w",
+      "photoAttribution": "Plum Guide"
     },
     {
       "name": "Granen – wine focus",
@@ -2053,7 +3617,21 @@
       "longDesc": "White Guide–listed property anchoring Åre's in-town dining and bar scene for families.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20%C3%85reg%C3%A5rden%20%E2%80%93%20bars%20%26%20restaurants&center=63.393,13.0785",
       "placeId": "ChIJyy1kIGwLbkYRX84h4_4yGV4",
-      "address": "Årevägen 81, 837 52 Åre, Sweden"
+      "address": "Årevägen 81, 837 52 Åre, Sweden",
+      "rating": 4.4,
+      "ratingCount": 349,
+      "website": "http://aregarden.com/",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "photoRef": "places/ChIJyy1kIGwLbkYRX84h4_4yGV4/photos/AcnlKN2aYTPHG0lkGTGDg1F_wkHG5fRC7YWSUt12kbItjn-F_rowvG0ujszWbCe_m9t2dZd1CR16YPPrsc5fCStD3PWDzggwwzNJp1X22AADhnRNssBFB18WDOFjwj4gPeEt2qmSjAvYjuC5-BZjeh90X02i0c-lrhTviL4Tpe7KII1pexKhPc4dpWIcfwwQcLyzv9zSoFXQUEHvGyxGPVMOUsPuY7ER9mIUPRrVfStj_ha82nyAZ-LZfxb_GiRUaGlrt_FmVbmdN2OTOguVZTa3dMKBONhdSYgCgqTDeM6OhbWsGQ",
+      "photoAttribution": "Hotel Åregården"
     }
   ],
   "cityCenters": {

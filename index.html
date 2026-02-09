@@ -1948,6 +1948,121 @@
 .qr-modal-link:hover {
     text-decoration: underline;
 }
+/* ============ Share Modal ============ */
+.share-overlay {
+    display: none;
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 1100;
+    align-items: center;
+    justify-content: center;
+}
+.share-overlay.active { display: flex; }
+.share-modal {
+    background: white;
+    border-radius: 16px;
+    padding: 28px;
+    max-width: 420px;
+    width: 92%;
+    box-shadow: 0 10px 50px rgba(0,0,0,0.3);
+}
+.share-modal-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: #1e293b;
+    margin-bottom: 2px;
+}
+.share-modal-subtitle {
+    font-size: 12px;
+    color: #64748b;
+    margin-bottom: 16px;
+}
+.share-link-box {
+    background: #f1f5f9;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 10px 12px;
+    font-size: 11px;
+    color: #475569;
+    word-break: break-all;
+    margin-bottom: 8px;
+    max-height: 60px;
+    overflow-y: auto;
+    font-family: monospace;
+}
+.share-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    width: 100%;
+    padding: 10px;
+    font-size: 13px;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.15s;
+}
+.share-btn-primary {
+    background: #2563EB;
+    color: white;
+}
+.share-btn-primary:hover { background: #1d4ed8; }
+.share-btn-secondary {
+    background: #f1f5f9;
+    color: #334155;
+    margin-top: 8px;
+}
+.share-btn-secondary:hover { background: #e2e8f0; }
+.share-btn-close {
+    background: none;
+    color: #94a3b8;
+    margin-top: 12px;
+    font-size: 12px;
+}
+.share-btn-close:hover { color: #64748b; }
+.share-divider {
+    border: none;
+    border-top: 1px solid #e2e8f0;
+    margin: 14px 0;
+}
+.shared-banner {
+    display: none;
+    background: linear-gradient(135deg, #dbeafe, #ede9fe);
+    border: 1px solid #bfdbfe;
+    border-radius: 10px;
+    padding: 10px 14px;
+    margin-bottom: 12px;
+    font-size: 12px;
+    color: #1e40af;
+    align-items: center;
+    justify-content: space-between;
+}
+.shared-banner.active { display: flex; }
+.shared-banner-dismiss {
+    background: none;
+    border: none;
+    color: #1e40af;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 0 4px;
+    opacity: 0.6;
+}
+.shared-banner-dismiss:hover { opacity: 1; }
+
+/* ============ Print Styles ============ */
+@media print {
+    body * { visibility: hidden; }
+    #printFrame, #printFrame * { visibility: visible; }
+    #printFrame {
+        position: absolute;
+        left: 0; top: 0;
+        width: 100%;
+    }
+}
+
 .copy-toast {
     position: fixed;
     bottom: 40px;
@@ -2357,11 +2472,20 @@
                 </div>
                 <div class="filter-chips-count" id="filterChipsCount"></div>
 
+                <!-- Shared Itinerary Banner -->
+                <div class="shared-banner" id="sharedBanner">
+                    <span id="sharedBannerText">Viewing shared itinerary</span>
+                    <button class="shared-banner-dismiss" onclick="dismissSharedBanner()">&#x2715;</button>
+                </div>
+
                 <!-- Itinerary Tabs (hidden in categories view) -->
                 <div id="itineraryTabs" style="display: none; margin-top: 15px;">
                     <div style="display:flex; align-items:center; justify-content:space-between;">
                         <div class="sidebar-title" style="margin:0;">Select Itinerary</div>
-                        <button onclick="openGeneratorModal()" style="padding:4px 10px; font-size:10px; font-weight:600; border:1.5px dashed #7C3AED; background:white; color:#7C3AED; border-radius:16px; cursor:pointer; white-space:nowrap; transition: all 0.15s;" onmouseover="this.style.background='#7C3AED';this.style.color='white'" onmouseout="this.style.background='white';this.style.color='#7C3AED'">+ Generate</button>
+                        <div style="display:flex; gap:6px; align-items:center;">
+                            <button onclick="openShareModal()" style="padding:4px 10px; font-size:10px; font-weight:600; border:1.5px solid #2563EB; background:white; color:#2563EB; border-radius:16px; cursor:pointer; white-space:nowrap; transition: all 0.15s;" onmouseover="this.style.background='#2563EB';this.style.color='white'" onmouseout="this.style.background='white';this.style.color='#2563EB'">&#x1F517; Share</button>
+                            <button onclick="openGeneratorModal()" style="padding:4px 10px; font-size:10px; font-weight:600; border:1.5px dashed #7C3AED; background:white; color:#7C3AED; border-radius:16px; cursor:pointer; white-space:nowrap; transition: all 0.15s;" onmouseover="this.style.background='#7C3AED';this.style.color='white'" onmouseout="this.style.background='white';this.style.color='#7C3AED'">+ Generate</button>
+                        </div>
                     </div>
                     <div class="itin-tabs" id="tabsContainer"></div>
                 </div>
@@ -2507,6 +2631,20 @@
             <div class="qr-modal-actions">
                 <button class="qr-modal-close" onclick="closeQrModal()">Close</button>
             </div>
+        </div>
+    </div>
+
+    <!-- Share Modal -->
+    <div class="share-overlay" id="shareOverlay" onclick="if(event.target===this)closeShareModal()">
+        <div class="share-modal">
+            <div class="share-modal-title" id="shareTitle">Share Itinerary</div>
+            <div class="share-modal-subtitle" id="shareSubtitle"></div>
+            <div class="share-link-box" id="shareLinkBox"></div>
+            <button class="share-btn share-btn-primary" onclick="copyShareLink()">&#x1F4CB; Copy Link</button>
+            <hr class="share-divider">
+            <button class="share-btn share-btn-secondary" onclick="copyFullItineraryText()">&#x1F4DD; Copy as Text</button>
+            <button class="share-btn share-btn-secondary" onclick="printItinerary()">&#x1F5A8; Print / Save as PDF</button>
+            <button class="share-btn share-btn-close" onclick="closeShareModal()">Close</button>
         </div>
     </div>
 
@@ -2663,8 +2801,11 @@
                     sel.appendChild(opt);
                 });
 
-                // Load the default destination
-                await fetchAndLoadDestination(manifestData.default);
+                // Check for shared trip link first, otherwise load default
+                const sharedLoaded = await loadSharedTrip();
+                if (!sharedLoaded) {
+                    await fetchAndLoadDestination(manifestData.default);
+                }
 
             } catch(e) {
                 console.error('Failed to load manifest:', e);
@@ -2759,7 +2900,7 @@
             [dest.hotels, dest.restaurants, dest.experiences, dest.kidFriendly, dest.markets].forEach(arr => {
                 (arr || []).forEach(poi => {
                     if (poi.name) {
-                        poiLookup[poi.name] = { desc: poi.desc || '', longDesc: poi.longDesc || '', gmapsUrl: poi.gmapsUrl || '' };
+                        poiLookup[poi.name] = { desc: poi.desc || '', longDesc: poi.longDesc || '', gmapsUrl: poi.gmapsUrl || '', rating: poi.rating, ratingCount: poi.ratingCount, priceLevel: poi.priceLevel, website: poi.website, hours: poi.hours, photoRef: poi.photoRef, photoAttribution: poi.photoAttribution };
                     }
                 });
             });
@@ -3236,6 +3377,51 @@
         // CATEGORY LOADING & RENDERING
         // ============================================
 
+        // Build enrichment data section for popup (rating, hours, website, photo)
+        function buildEnrichmentHtml(data) {
+            if (!data || (!data.rating && !data.website && !data.hours)) return '';
+            let html = '<div style="margin-top:8px;padding:8px;background:#f8fafc;border-radius:6px;border:1px solid #e2e8f0;">';
+            // Rating + price row
+            if (data.rating) {
+                html += '<div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;font-size:12px;">';
+                html += '<span style="color:#f59e0b;">★</span> <strong>' + data.rating + '</strong>';
+                if (data.ratingCount) html += ' <span style="color:#9ca3af;font-size:11px;">(' + Number(data.ratingCount).toLocaleString() + ')</span>';
+                if (data.priceLevel) {
+                    const priceLevels = {'FREE':'Free','INEXPENSIVE':'$','MODERATE':'$$','EXPENSIVE':'$$$','VERY_EXPENSIVE':'$$$$'};
+                    const pl = priceLevels[data.priceLevel] || data.priceLevel;
+                    if (pl) html += ' <span style="color:#10b981;font-size:11px;margin-left:4px;">' + pl + '</span>';
+                }
+                html += '</div>';
+            }
+            // Website
+            if (data.website) {
+                try {
+                    const domain = new URL(data.website).hostname.replace('www.','');
+                    html += '<div style="margin-top:4px;"><a href="' + escapeHtml(data.website) + '" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;">🌐 ' + escapeHtml(domain) + '</a></div>';
+                } catch(e) {}
+            }
+            // Hours (collapsible)
+            if (data.hours && data.hours.length > 0) {
+                const hoursId = 'hrs-' + Math.random().toString(36).substr(2, 8);
+                html += '<div style="margin-top:4px;">';
+                html += '<a onclick="var el=document.getElementById(\'' + hoursId + '\');el.style.display=el.style.display===\'none\'?\'block\':\'none\';this.textContent=el.style.display===\'none\'?\'🕐 Hours ▸\':\'🕐 Hours ▾\'" style="font-size:11px;color:#1a73e8;cursor:pointer;text-decoration:none;">🕐 Hours ▸</a>';
+                html += '<div id="' + hoursId + '" style="display:none;margin-top:4px;font-size:10px;color:#555;line-height:1.6;">';
+                data.hours.forEach(function(h) { html += escapeHtml(h) + '<br>'; });
+                html += '</div></div>';
+            }
+            // Photo (lazy-loaded via API key)
+            if (data.photoRef) {
+                const apiKey = localStorage.getItem('tripMap_apiKey') || localStorage.getItem('japanTrip_apiKey') || '';
+                if (apiKey) {
+                    const photoUrl = 'https://places.googleapis.com/v1/' + encodeURI(data.photoRef) + '/media?maxHeightPx=200&key=' + encodeURIComponent(apiKey);
+                    html += '<div style="margin-top:6px;"><img src="' + photoUrl + '" style="width:100%;max-height:150px;object-fit:cover;border-radius:4px;" loading="lazy" onerror="this.parentElement.style.display=\'none\'"></div>';
+                    if (data.photoAttribution) html += '<div style="font-size:9px;color:#9ca3af;margin-top:2px;">Photo: ' + escapeHtml(data.photoAttribution) + '</div>';
+                }
+            }
+            html += '</div>';
+            return html;
+        }
+
         // Build popup HTML for any category POI (shared helper)
         function buildPoiPopupHtml(poi, categoryLabel) {
             const destKey = activeDestination || 'default';
@@ -3246,6 +3432,7 @@
 
             let html = `<div class="popup-title">${escapeHtml(poi.name)}</div><div class="popup-type">${categoryLabel}</div><div style="font-size:11px;color:#666;margin-top:4px;">${escapeHtml(poi.desc || '')}</div>`;
             if (poi.longDesc) html += `<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">${escapeHtml(poi.longDesc)}</div>`;
+            html += buildEnrichmentHtml(poi);
             if (poi.gmapsUrl) html += `<div style="margin-top:6px;"><a href="${poi.gmapsUrl}" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>`;
             // Annotations
             html += buildAnnotationHtml(poiAnnotations);
@@ -3513,6 +3700,7 @@
                         let popupContent = '<div class="popup-title">' + escapeHtml(item.name) + '</div><div class="popup-type">' + formatType(item.type) + '</div><div style="font-size:11px;color:#666;margin-top:4px;">Day ' + dayData.day + '</div>';
                         if (poiInfo.desc) popupContent += '<div style="font-size:11px;color:#666;margin-top:4px;">' + escapeHtml(poiInfo.desc) + '</div>';
                         if (poiInfo.longDesc) popupContent += '<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">' + escapeHtml(poiInfo.longDesc) + '</div>';
+                        popupContent += buildEnrichmentHtml(poiInfo);
                         if (poiInfo.gmapsUrl) popupContent += '<div style="margin-top:6px;"><a href="' + poiInfo.gmapsUrl + '" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>';
                         popupContent += swapBtn;
                         // Annotations
@@ -3828,6 +4016,279 @@
             toast.textContent = message || 'Copied!';
             toast.classList.add('show');
             setTimeout(function() { toast.classList.remove('show'); }, 2000);
+        }
+
+        // ============================================
+        // TRIP SHARING
+        // ============================================
+
+        // Unicode-safe base64 helpers
+        function utoa(str) { return btoa(unescape(encodeURIComponent(str))); }
+        function atou(b64) { return decodeURIComponent(escape(atob(b64))); }
+
+        function openShareModal() {
+            if (!currentItinerary) {
+                showCopyToast('Select an itinerary first');
+                return;
+            }
+            const itin = itineraryData[currentItinerary];
+            if (!itin) return;
+            const dest = destinations[activeDestination] || {};
+            const destEntry = (manifestData && manifestData.destinations || []).find(d => d.key === activeDestination) || {};
+
+            // Build share link
+            const shareUrl = buildShareUrl(activeDestination, currentItinerary, itin);
+            document.getElementById('shareLinkBox').textContent = shareUrl;
+            document.getElementById('shareTitle').textContent = 'Share Itinerary';
+            document.getElementById('shareSubtitle').textContent = (destEntry.flag || '') + ' ' + (dest.name || activeDestination) + ' — ' + (itin.name || itin.title || currentItinerary);
+            document.getElementById('shareOverlay').classList.add('active');
+        }
+
+        function closeShareModal() {
+            document.getElementById('shareOverlay').classList.remove('active');
+        }
+
+        function buildShareUrl(destKey, itinKey, itin) {
+            const base = window.location.origin + window.location.pathname;
+            if (itin.isGenerated) {
+                // Generated itineraries: encode the full data in hash
+                const minimal = {
+                    n: itin.name || 'Custom',
+                    c: itin.color || '#2563EB',
+                    d: itin.days.map(function(day) {
+                        return {
+                            dy: day.day,
+                            t: day.title,
+                            i: day.items.map(function(it) {
+                                var o = { n: it.name, tp: it.type };
+                                if (it.coord) o.co = [Math.round(it.coord[0]*10000)/10000, Math.round(it.coord[1]*10000)/10000];
+                                return o;
+                            })
+                        };
+                    })
+                };
+                return base + '#trip=' + destKey + '/' + itinKey + '&d=' + utoa(JSON.stringify(minimal));
+            } else {
+                // Built-in itineraries: just the key (receiver loads from JSON)
+                return base + '#trip=' + destKey + '/' + itinKey;
+            }
+        }
+
+        function copyShareLink() {
+            const link = document.getElementById('shareLinkBox').textContent;
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(link).then(function() {
+                    showCopyToast('Link copied!');
+                }).catch(function() {
+                    copyFallback(link);
+                });
+            } else {
+                copyFallback(link);
+            }
+        }
+
+        function copyFullItineraryText() {
+            const key = currentItinerary;
+            if (!key) return;
+            const itin = itineraryData[key];
+            if (!itin) return;
+            const dest = destinations[activeDestination] || {};
+            const destEntry = (manifestData && manifestData.destinations || []).find(d => d.key === activeDestination) || {};
+
+            var typeEmoji = {
+                hotel: '\u{1F3E8}', breakfast: '\u{1F373}', lunch: '\u{1F35C}', dinner: '\u{1F357}',
+                sightseeing: '\u{1F5FA}', optional: '\u2728', nap: '\u{1F634}'
+            };
+
+            var text = (destEntry.flag || '\u{1F30D}') + ' ' + (dest.name || activeDestination) + '\n';
+            text += (itin.name || itin.title || key) + '\n';
+            text += '\u2550'.repeat(30) + '\n\n';
+
+            itin.days.forEach(function(dayData) {
+                text += '\u{1F4CD} Day ' + dayData.day + ' \u2014 ' + dayData.title + '\n';
+                text += '\u2500'.repeat(30) + '\n';
+                dayData.items.forEach(function(item) {
+                    var emoji = typeEmoji[item.type] || '\u{1F4CB}';
+                    var poiInfo = poiLookup[item.name] || {};
+                    text += emoji + ' ' + item.name;
+                    if (poiInfo.desc) text += '\n   ' + poiInfo.desc;
+                    text += '\n';
+                });
+                text += '\n';
+            });
+
+            text += '\u2550'.repeat(30) + '\n';
+            text += 'Shared from ' + (dest.name || 'Travel Map') + '\n';
+            text += window.location.origin + window.location.pathname;
+
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(text).then(function() {
+                    showCopyToast('Itinerary copied as text!');
+                    closeShareModal();
+                }).catch(function() {
+                    copyFallback(text);
+                    closeShareModal();
+                });
+            } else {
+                copyFallback(text);
+                closeShareModal();
+            }
+        }
+
+        function printItinerary() {
+            const key = currentItinerary;
+            if (!key) return;
+            const itin = itineraryData[key];
+            if (!itin) return;
+            const dest = destinations[activeDestination] || {};
+            const destEntry = (manifestData && manifestData.destinations || []).find(d => d.key === activeDestination) || {};
+
+            var html = '<!DOCTYPE html><html><head><meta charset="utf-8">';
+            html += '<title>' + (dest.name || 'Trip') + ' \u2014 ' + (itin.name || key) + '</title>';
+            html += '<style>';
+            html += 'body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:700px;margin:0 auto;padding:30px 20px;color:#1e293b;line-height:1.5;}';
+            html += 'h1{font-size:22px;margin:0 0 2px;}';
+            html += 'h2{font-size:16px;color:#475569;font-weight:500;margin:0 0 20px;}';
+            html += '.day{margin-bottom:24px;page-break-inside:avoid;}';
+            html += '.day-title{font-size:15px;font-weight:700;color:#1e40af;border-bottom:2px solid #dbeafe;padding-bottom:4px;margin-bottom:10px;}';
+            html += '.item{display:flex;gap:10px;padding:5px 0;border-bottom:1px solid #f1f5f9;}';
+            html += '.item-type{font-size:11px;color:#64748b;min-width:70px;text-transform:uppercase;font-weight:600;}';
+            html += '.item-name{font-size:13px;font-weight:600;}';
+            html += '.item-desc{font-size:11px;color:#64748b;margin-top:1px;}';
+            html += '.item-rating{font-size:11px;color:#f59e0b;}';
+            html += '.footer{margin-top:30px;padding-top:16px;border-top:2px solid #e2e8f0;font-size:11px;color:#94a3b8;text-align:center;}';
+            html += '.hotels-summary{margin-top:24px;padding:16px;background:#f8fafc;border-radius:8px;border:1px solid #e2e8f0;}';
+            html += '.hotels-summary h3{font-size:14px;margin:0 0 8px;}';
+            html += '.hotel-item{font-size:12px;margin:4px 0;}';
+            html += '.hotel-item a{color:#2563EB;text-decoration:none;}';
+            html += '@media print{body{padding:10px;}}';
+            html += '</style></head><body>';
+
+            html += '<h1>' + (destEntry.flag || '') + ' ' + (dest.name || 'Trip') + '</h1>';
+            html += '<h2>' + (itin.name || itin.title || key) + ' \u2014 ' + itin.days.length + ' days</h2>';
+
+            // Collect hotels for summary
+            var hotelSet = {};
+
+            itin.days.forEach(function(dayData) {
+                html += '<div class="day">';
+                html += '<div class="day-title">Day ' + dayData.day + ' \u2014 ' + escapeHtml(dayData.title) + '</div>';
+                dayData.items.forEach(function(item) {
+                    var poiInfo = poiLookup[item.name] || {};
+                    html += '<div class="item">';
+                    html += '<div class="item-type">' + escapeHtml(formatType(item.type)) + '</div>';
+                    html += '<div><div class="item-name">' + escapeHtml(item.name);
+                    if (poiInfo.rating) html += ' <span class="item-rating">\u2605 ' + poiInfo.rating + '</span>';
+                    html += '</div>';
+                    if (poiInfo.desc) html += '<div class="item-desc">' + escapeHtml(poiInfo.desc) + '</div>';
+                    html += '</div></div>';
+
+                    if (item.type === 'hotel') {
+                        hotelSet[item.name] = poiInfo;
+                    }
+                });
+                html += '</div>';
+            });
+
+            // Hotels summary
+            var hotelNames = Object.keys(hotelSet);
+            if (hotelNames.length > 0) {
+                html += '<div class="hotels-summary"><h3>\u{1F3E8} Accommodation Summary</h3>';
+                hotelNames.forEach(function(name) {
+                    var info = hotelSet[name];
+                    html += '<div class="hotel-item"><strong>' + escapeHtml(name) + '</strong>';
+                    if (info.website) html += ' \u2014 <a href="' + escapeHtml(info.website) + '" target="_blank">' + escapeHtml(info.website.replace(/^https?:\/\/(www\.)?/, '').split('/')[0]) + '</a>';
+                    if (info.desc) html += '<br><span style="color:#64748b;">' + escapeHtml(info.desc) + '</span>';
+                    html += '</div>';
+                });
+                html += '</div>';
+            }
+
+            html += '<div class="footer">Generated from ' + escapeHtml(dest.name || 'Travel Map') + '<br>';
+            html += window.location.origin + window.location.pathname + '</div>';
+            html += '</body></html>';
+
+            var win = window.open('', '_blank');
+            win.document.write(html);
+            win.document.close();
+            closeShareModal();
+            setTimeout(function() { win.print(); }, 500);
+        }
+
+        function dismissSharedBanner() {
+            document.getElementById('sharedBanner').classList.remove('active');
+        }
+
+        // Load shared itinerary from URL hash on startup
+        async function loadSharedTrip() {
+            var hash = window.location.hash;
+            if (!hash || !hash.startsWith('#trip=')) return false;
+
+            var tripPart = hash.substring(6); // after '#trip='
+            var dataPart = null;
+            var ampIdx = tripPart.indexOf('&d=');
+            if (ampIdx > -1) {
+                dataPart = tripPart.substring(ampIdx + 3);
+                tripPart = tripPart.substring(0, ampIdx);
+            }
+
+            var parts = tripPart.split('/');
+            if (parts.length < 2) return false;
+            var destKey = parts[0];
+            var itinKey = parts[1];
+
+            // Load the destination
+            await fetchAndLoadDestination(destKey);
+
+            // Set dropdown
+            var sel = document.getElementById('destSelect');
+            if (sel) sel.value = destKey;
+
+            // For generated itineraries with embedded data
+            if (dataPart && itinKey.startsWith('gen_')) {
+                try {
+                    var decoded = JSON.parse(atou(dataPart));
+                    var restoredItin = {
+                        name: decoded.n || 'Shared Itinerary',
+                        color: decoded.c || '#2563EB',
+                        isGenerated: true,
+                        days: decoded.d.map(function(day) {
+                            return {
+                                day: day.dy,
+                                title: day.t,
+                                items: day.i.map(function(it) {
+                                    var item = { name: it.n, type: it.tp };
+                                    if (it.co) item.coord = it.co;
+                                    return item;
+                                })
+                            };
+                        })
+                    };
+                    // Add to itineraryData as a shared itinerary
+                    var sharedKey = 'shared_1';
+                    itineraryData[sharedKey] = restoredItin;
+                    buildTabsUI();
+                    itinKey = sharedKey;
+                } catch(e) {
+                    console.error('Failed to decode shared itinerary:', e);
+                    return false;
+                }
+            }
+
+            // Switch to itinerary view and select the itinerary
+            if (itineraryData[itinKey]) {
+                switchView('itineraries');
+                selectItinerary(itinKey);
+
+                // Show shared banner
+                var dest = destinations[destKey] || {};
+                var itin = itineraryData[itinKey] || {};
+                document.getElementById('sharedBannerText').textContent = '\u{1F517} Shared: ' + (itin.name || itinKey);
+                document.getElementById('sharedBanner').classList.add('active');
+
+                return true;
+            }
+            return false;
         }
 
         function toggleDayCard(header, dayNum, key) {
