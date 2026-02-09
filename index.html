@@ -461,7 +461,7 @@
             flex-shrink: 0;
         }
 
-        /* Mobile responsive */
+        /* Mobile responsive - old sidebar styles removed, handled by new tab-based UI */
         @media (max-width: 768px) {
             .container {
                 flex-direction: column;
@@ -470,143 +470,6 @@
             #map-container {
                 flex: 1;
                 z-index: 1;
-            }
-
-            .sidebar {
-                position: absolute;
-                bottom: 0;
-                left: 0;
-                right: 0;
-                width: 100%;
-                max-height: 85vh;
-                border-radius: 16px 16px 0 0;
-                box-shadow: 0 -4px 20px rgba(0,0,0,0.15);
-                z-index: 100;
-                transition: max-height 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-                overflow: hidden;
-            }
-
-            .sidebar.mobile-collapsed {
-                max-height: 145px;
-            }
-
-            .sidebar.mobile-half {
-                max-height: 50vh;
-            }
-
-            .sidebar.mobile-expanded {
-                max-height: 85vh;
-            }
-
-            .sidebar.hidden {
-                transform: translateY(100%);
-            }
-
-            .sidebar.mobile-collapsed .sidebar-content,
-            .sidebar.mobile-collapsed #categoriesCheckboxes,
-            .sidebar.mobile-collapsed #itineraryTabs,
-            .sidebar.mobile-collapsed #filterChipsRow,
-            .sidebar.mobile-collapsed #regionFilterRow,
-            .sidebar.mobile-collapsed #filterChipsCount,
-            .sidebar.mobile-collapsed #destTitle,
-            .sidebar.mobile-collapsed #destSubtitle {
-                display: none !important;
-            }
-
-            .sidebar-drag-handle {
-                width: 100%;
-                padding: 12px 0 8px 0;
-                text-align: center;
-                cursor: grab;
-                touch-action: none;
-                flex-shrink: 0;
-            }
-
-            .sidebar-drag-handle::before {
-                content: '';
-                display: inline-block;
-                width: 36px;
-                height: 4px;
-                background: #ccc;
-                border-radius: 2px;
-            }
-
-            .sidebar-drag-handle:active {
-                cursor: grabbing;
-            }
-
-            .sidebar-drag-handle:active::before {
-                background: #999;
-            }
-
-            .sidebar-header {
-                padding: 8px 15px 15px 15px;
-            }
-
-            .sidebar-title {
-                font-size: 12px;
-            }
-
-            .itin-tabs {
-                gap: 6px;
-            }
-
-            .itin-tab {
-                flex: 1 1 100%;
-                padding: 8px 12px;
-                font-size: 10px;
-            }
-
-            .toggle-btn {
-                font-size: 11px;
-                padding: 6px 10px;
-            }
-
-            .sidebar-content {
-                padding: 15px;
-                overflow-y: auto;
-            }
-
-            .day-card-header {
-                font-size: 12px;
-                padding: 10px 12px;
-            }
-
-            .day-item {
-                font-size: 11px;
-                padding: 6px 10px;
-            }
-
-            .show-all-days-btn {
-                padding: 8px;
-                font-size: 11px;
-                margin-bottom: 10px;
-            }
-
-            .categories-content {
-                padding: 15px;
-            }
-
-            .category-checkbox {
-                padding: 8px;
-                margin-bottom: 6px;
-            }
-
-            .category-label {
-                font-size: 12px;
-            }
-
-            /* Mobile expand hint chevron */
-            .mobile-expand-hint {
-                display: none;
-                text-align: center;
-                padding: 2px 0 6px 0;
-                color: #aaa;
-                font-size: 10px;
-                letter-spacing: 0.5px;
-            }
-            .sidebar.mobile-collapsed .mobile-expand-hint {
-                display: block;
             }
         }
 
@@ -1175,23 +1038,13 @@
     color: #2563EB;
 }
 
+/* Chat FAB/panel hidden on mobile - handled by new tab-based UI */
 @media (max-width: 768px) {
     .chat-fab {
-        bottom: 160px;
-        right: 16px;
-        width: 50px;
-        height: 50px;
-        font-size: 20px;
-        z-index: 101;
+        display: none !important;
     }
     .chat-panel {
-        bottom: 0;
-        right: 0;
-        width: 100vw;
-        max-width: 100vw;
-        height: 85vh;
-        max-height: 85vh;
-        border-radius: 16px 16px 0 0;
+        display: none !important;
     }
 }
 
@@ -2258,14 +2111,655 @@
     text-align: center;
 }
 
+/* ============================================
+   MOBILE TAB-BASED NAVIGATION
+   ============================================ */
+
+/* Hide all mobile elements on desktop */
+@media (min-width: 769px) {
+    .mobile-dest-bar,
+    .mobile-tab-bar,
+    .mobile-tab-panel,
+    .mobile-poi-sheet,
+    .mobile-poi-sheet-overlay,
+    .mobile-map-controls {
+        display: none !important;
+    }
+}
+
+/* Mobile layout overrides */
+@media (max-width: 768px) {
+    /* Hide desktop sidebar and chat FAB on mobile */
+    .sidebar {
+        display: none !important;
+    }
+    .chat-fab {
+        display: none !important;
+    }
+    .chat-panel {
+        display: none !important;
+    }
+
+    /* Make container fill viewport accounting for top bar and bottom tab bar */
+    .container {
+        flex-direction: column;
+        padding-top: 44px;  /* dest bar height */
+        padding-bottom: 56px; /* tab bar height */
+    }
+
+    #map-container {
+        flex: 1;
+        z-index: 1;
+        position: relative;
+    }
+
+    /* ---- Destination Top Bar ---- */
+    .mobile-dest-bar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 44px;
+        background: white;
+        border-bottom: 1px solid #e5e7eb;
+        z-index: 500;
+        display: flex;
+        align-items: center;
+    }
+
+    .mobile-dest-bar-inner {
+        width: 100%;
+        padding: 0 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .mobile-dest-btn {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        background: none;
+        border: none;
+        font-size: 15px;
+        font-weight: 600;
+        color: #1a1a1a;
+        cursor: pointer;
+        padding: 6px 12px;
+        border-radius: 8px;
+        transition: background 0.15s;
+    }
+
+    .mobile-dest-btn:active {
+        background: #f3f4f6;
+    }
+
+    /* ---- Bottom Tab Bar ---- */
+    .mobile-tab-bar {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 56px;
+        background: white;
+        border-top: 1px solid #e5e7eb;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        z-index: 500;
+        padding-bottom: env(safe-area-inset-bottom, 0px);
+    }
+
+    .mobile-tab {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 2px;
+        background: none;
+        border: none;
+        color: #9ca3af;
+        font-size: 10px;
+        font-weight: 500;
+        padding: 6px 0;
+        cursor: pointer;
+        transition: color 0.15s;
+        -webkit-tap-highlight-color: transparent;
+    }
+
+    .mobile-tab i {
+        font-size: 18px;
+    }
+
+    .mobile-tab.active {
+        color: #2563EB;
+    }
+
+    .mobile-tab:active {
+        color: #1d4ed8;
+    }
+
+    /* ---- Tab Panels ---- */
+    .mobile-tab-panel {
+        position: fixed;
+        top: 44px;
+        left: 0;
+        right: 0;
+        bottom: 56px;
+        background: #f9fafb;
+        z-index: 400;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    /* ---- Map Tab (default - map shows through container) ---- */
+
+    /* ---- Floating Category Controls on Map ---- */
+    .mobile-map-controls {
+        position: absolute;
+        bottom: 12px;
+        left: 0;
+        right: 0;
+        z-index: 50;
+        display: flex;
+        justify-content: center;
+        pointer-events: none;
+    }
+
+    .mobile-cat-chips {
+        display: flex;
+        gap: 6px;
+        padding: 6px 10px;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        pointer-events: auto;
+        max-width: 100%;
+        scrollbar-width: none;
+    }
+
+    .mobile-cat-chips::-webkit-scrollbar {
+        display: none;
+    }
+
+    .mobile-cat-chip {
+        flex-shrink: 0;
+        padding: 6px 12px;
+        border-radius: 20px;
+        border: 1.5px solid #d1d5db;
+        background: white;
+        font-size: 12px;
+        font-weight: 500;
+        color: #6b7280;
+        cursor: pointer;
+        white-space: nowrap;
+        box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+        transition: all 0.15s;
+        -webkit-tap-highlight-color: transparent;
+    }
+
+    .mobile-cat-chip.active {
+        background: #2563EB;
+        color: white;
+        border-color: #2563EB;
+    }
+
+    .mobile-cat-chip:active {
+        transform: scale(0.95);
+    }
+
+    /* ---- POI Detail Bottom Sheet ---- */
+    .mobile-poi-sheet-overlay {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0,0,0,0.3);
+        z-index: 550;
+    }
+
+    .mobile-poi-sheet-overlay.active {
+        display: block;
+    }
+
+    .mobile-poi-sheet {
+        position: fixed;
+        bottom: 56px; /* above tab bar */
+        left: 0;
+        right: 0;
+        max-height: 45vh;
+        background: white;
+        border-radius: 16px 16px 0 0;
+        box-shadow: 0 -4px 24px rgba(0,0,0,0.15);
+        z-index: 560;
+        transform: translateY(100%);
+        transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .mobile-poi-sheet.active {
+        transform: translateY(0);
+    }
+
+    .mobile-poi-drag-handle {
+        width: 100%;
+        padding: 10px 0 6px 0;
+        text-align: center;
+        flex-shrink: 0;
+    }
+
+    .mobile-poi-drag-handle::before {
+        content: '';
+        display: inline-block;
+        width: 36px;
+        height: 4px;
+        background: #d1d5db;
+        border-radius: 2px;
+    }
+
+    .mobile-poi-close {
+        position: absolute;
+        top: 8px;
+        right: 12px;
+        background: #f3f4f6;
+        border: none;
+        width: 28px;
+        height: 28px;
+        border-radius: 50%;
+        font-size: 16px;
+        color: #6b7280;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 1;
+    }
+
+    .mobile-poi-content {
+        padding: 0 16px 16px 16px;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        flex: 1;
+    }
+
+    .mobile-poi-content .popup-title {
+        font-size: 16px;
+        font-weight: 700;
+        color: #111;
+        margin-bottom: 4px;
+    }
+
+    .mobile-poi-content .popup-type {
+        font-size: 11px;
+        font-weight: 600;
+        color: #2563EB;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        margin-bottom: 8px;
+    }
+
+    /* ---- Search Panel ---- */
+    .mobile-search-bar {
+        padding: 12px 12px 8px 12px;
+        background: white;
+        border-bottom: 1px solid #e5e7eb;
+        position: sticky;
+        top: 0;
+        z-index: 10;
+    }
+
+    .mobile-search-input-wrap {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        background: #f3f4f6;
+        border-radius: 10px;
+        padding: 8px 12px;
+    }
+
+    .mobile-search-input {
+        flex: 1;
+        border: none;
+        background: none;
+        font-size: 15px;
+        color: #1a1a1a;
+        outline: none;
+        font-family: inherit;
+    }
+
+    .mobile-search-input::placeholder {
+        color: #9ca3af;
+    }
+
+    .mobile-search-clear {
+        background: #d1d5db;
+        border: none;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        font-size: 12px;
+        color: white;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .mobile-search-chips {
+        display: flex;
+        gap: 6px;
+        padding: 8px 12px;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        background: white;
+        border-bottom: 1px solid #f3f4f6;
+        scrollbar-width: none;
+    }
+
+    .mobile-search-chips::-webkit-scrollbar {
+        display: none;
+    }
+
+    .mobile-search-chip {
+        flex-shrink: 0;
+        padding: 5px 12px;
+        border-radius: 16px;
+        border: 1.5px solid #e5e7eb;
+        background: white;
+        font-size: 12px;
+        font-weight: 500;
+        color: #6b7280;
+        cursor: pointer;
+        white-space: nowrap;
+        transition: all 0.15s;
+    }
+
+    .mobile-search-chip.active {
+        background: #2563EB;
+        color: white;
+        border-color: #2563EB;
+    }
+
+    .mobile-search-results {
+        padding: 8px 12px;
+    }
+
+    .mobile-search-empty {
+        text-align: center;
+        color: #9ca3af;
+        padding: 40px 20px;
+        font-size: 14px;
+    }
+
+    .mobile-search-card {
+        background: white;
+        border-radius: 10px;
+        padding: 12px;
+        margin-bottom: 8px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        cursor: pointer;
+        transition: box-shadow 0.15s;
+        display: flex;
+        gap: 10px;
+        align-items: flex-start;
+    }
+
+    .mobile-search-card:active {
+        box-shadow: 0 1px 6px rgba(0,0,0,0.12);
+    }
+
+    .mobile-search-card-body {
+        flex: 1;
+        min-width: 0;
+    }
+
+    .mobile-search-card-name {
+        font-size: 14px;
+        font-weight: 600;
+        color: #111;
+        margin-bottom: 2px;
+    }
+
+    .mobile-search-card-desc {
+        font-size: 12px;
+        color: #6b7280;
+        line-height: 1.3;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    .mobile-search-card-meta {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        margin-top: 4px;
+    }
+
+    .mobile-search-card-badge {
+        font-size: 10px;
+        font-weight: 600;
+        padding: 2px 6px;
+        border-radius: 4px;
+        text-transform: uppercase;
+        letter-spacing: 0.3px;
+    }
+
+    .mobile-search-card-rating {
+        font-size: 11px;
+        color: #f59e0b;
+    }
+
+    /* Category badge colors */
+    .mobile-search-card-badge.cat-hotels { background: #dbeafe; color: #2563EB; }
+    .mobile-search-card-badge.cat-restaurants { background: #fce7f3; color: #db2777; }
+    .mobile-search-card-badge.cat-experiences { background: #d1fae5; color: #059669; }
+    .mobile-search-card-badge.cat-kidFriendly { background: #fef3c7; color: #d97706; }
+    .mobile-search-card-badge.cat-markets { background: #f3e8ff; color: #7c3aed; }
+
+    /* ---- Trips Panel ---- */
+    .mobile-trips-header {
+        padding: 12px 12px 8px 12px;
+        background: white;
+        border-bottom: 1px solid #e5e7eb;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        position: sticky;
+        top: 0;
+        z-index: 10;
+    }
+
+    .mobile-trips-title {
+        font-size: 16px;
+        font-weight: 700;
+        color: #111;
+    }
+
+    .mobile-trips-actions {
+        display: flex;
+        gap: 6px;
+        align-items: center;
+    }
+
+    .mobile-trips-action-btn {
+        padding: 5px 8px;
+        background: none;
+        border: 1.5px solid #e5e7eb;
+        border-radius: 8px;
+        font-size: 14px;
+        cursor: pointer;
+        transition: background 0.15s;
+    }
+
+    .mobile-trips-action-btn:active {
+        background: #f3f4f6;
+    }
+
+    .mobile-trips-generate {
+        font-size: 11px;
+        font-weight: 600;
+        color: #7C3AED;
+        border-color: #7C3AED;
+        border-style: dashed;
+        padding: 5px 10px;
+    }
+
+    .mobile-trips-tabs {
+        padding: 8px 12px;
+        background: white;
+        border-bottom: 1px solid #f3f4f6;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        display: flex;
+        gap: 6px;
+        scrollbar-width: none;
+    }
+
+    .mobile-trips-tabs::-webkit-scrollbar {
+        display: none;
+    }
+
+    .mobile-trips-tab {
+        flex-shrink: 0;
+        padding: 6px 14px;
+        border-radius: 16px;
+        border: 1.5px solid #d1d5db;
+        background: white;
+        font-size: 12px;
+        font-weight: 500;
+        color: #374151;
+        cursor: pointer;
+        white-space: nowrap;
+        transition: all 0.15s;
+    }
+
+    .mobile-trips-tab.active {
+        color: white;
+        border-color: transparent;
+    }
+
+    .mobile-trips-tab.gen-tab {
+        border-style: dashed;
+    }
+
+    .mobile-trips-content {
+        padding: 8px 12px 16px 12px;
+    }
+
+    .mobile-trips-back {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        background: none;
+        border: none;
+        color: #2563EB;
+        font-size: 13px;
+        font-weight: 600;
+        cursor: pointer;
+        padding: 8px 0;
+        margin-bottom: 8px;
+    }
+
+    /* ---- Mobile Chat Panel ---- */
+    .mobile-chat-header {
+        padding: 12px 16px;
+        background: white;
+        border-bottom: 1px solid #e5e7eb;
+    }
+
+    .mobile-chat-title {
+        font-size: 16px;
+        font-weight: 700;
+        color: #111;
+    }
+
+    .mobile-chat-context {
+        font-size: 11px;
+        color: #9ca3af;
+        margin-top: 2px;
+    }
+
+    .mobile-chat-messages {
+        flex: 1;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        padding: 12px 16px;
+    }
+
+    .mobile-chat-input-area {
+        display: flex;
+        gap: 8px;
+        padding: 10px 12px;
+        background: white;
+        border-top: 1px solid #e5e7eb;
+    }
+
+    .mobile-chat-settings {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 6px 12px;
+        background: #f9fafb;
+        border-top: 1px solid #f3f4f6;
+    }
+
+    #mobileChatPanel {
+        display: none;
+        flex-direction: column;
+    }
+
+    #mobileChatPanel.mobile-tab-active {
+        display: flex;
+    }
+
+    /* Make mobile chat messages fill available space */
+    #mobileChatPanel .mobile-chat-messages {
+        flex: 1;
+        min-height: 0;
+    }
+
+    /* ---- Leaflet popup mobile override ---- */
+    .leaflet-popup-content-wrapper {
+        max-width: 280px;
+    }
+}
+
     </style>
 </head>
 <body>
+    <!-- Mobile destination bar -->
+    <div class="mobile-dest-bar" id="mobileDestBar">
+        <div class="mobile-dest-bar-inner">
+            <button class="mobile-dest-btn" id="mobileDestBtn" onclick="toggleMobileDestPicker()">
+                <span id="mobileDestFlag">🗺️</span>
+                <span id="mobileDestName">Travel Map</span>
+                <i class="fas fa-chevron-down" style="font-size:10px;margin-left:4px;opacity:0.5;"></i>
+            </button>
+        </div>
+    </div>
+
     <div class="container">
         <div id="map-container">
             <button class="locate-btn" id="locateBtn" onclick="toggleGeolocation()" title="Show my location">
                 <i class="fas fa-location-crosshairs"></i>
             </button>
+
+            <!-- Mobile floating category controls -->
+            <div class="mobile-map-controls" id="mobileMapControls">
+                <div class="mobile-cat-chips" id="mobileCatChips">
+                    <button class="mobile-cat-chip active" data-cat="hotels" onclick="toggleMobileCat('hotels',this)">🏨 Hotels</button>
+                    <button class="mobile-cat-chip active" data-cat="restaurants" onclick="toggleMobileCat('restaurants',this)">🍽 Restaurants</button>
+                    <button class="mobile-cat-chip active" data-cat="experiences" onclick="toggleMobileCat('experiences',this)">🎭 Experiences</button>
+                    <button class="mobile-cat-chip active" data-cat="kidFriendly" onclick="toggleMobileCat('kidFriendly',this)">👶 Kids</button>
+                    <button class="mobile-cat-chip active" data-cat="markets" onclick="toggleMobileCat('markets',this)">🛒 Markets</button>
+                </div>
+            </div>
         </div>
         
         <div class="sidebar" id="sidebar">
@@ -2580,6 +3074,113 @@
         </div>
     </div>
 
+    <!-- Mobile Chat Panel -->
+    <div class="mobile-tab-panel" id="mobileChatPanel" style="display:none;">
+        <div class="mobile-chat-header">
+            <div class="mobile-chat-title">AI Trip Planner</div>
+            <div class="mobile-chat-context" id="mobileChatContext">Select an itinerary &amp; day first</div>
+        </div>
+        <div id="mobileChatSetup" class="chat-setup" style="display:none;">
+            <h3>Connect to Claude</h3>
+            <p>Enter your Anthropic API key to enable AI-powered day planning.</p>
+            <input type="password" id="mobileApiKeyInput" placeholder="sk-ant-api03-..." />
+            <button onclick="saveMobileApiKey()">Save Key</button>
+            <a href="https://console.anthropic.com/settings/keys" target="_blank">Get an API key &rarr;</a>
+        </div>
+        <div class="mobile-chat-messages" id="mobileChatMessages" style="display:none;"></div>
+        <div class="mobile-chat-input-area" id="mobileChatInputArea" style="display:none;">
+            <textarea class="chat-input" id="mobileChatInput" placeholder="e.g. I want knife shopping + great tempura today..." rows="1" onkeydown="mobileChatKeyHandler(event)"></textarea>
+            <button class="chat-send-btn" id="mobileChatSendBtn" onclick="sendMobileChatMessage()">
+                <i class="fas fa-paper-plane"></i>
+            </button>
+        </div>
+        <div class="mobile-chat-settings" id="mobileChatSettings" style="display:none;">
+            <div class="chat-model-toggle">
+                <button class="chat-model-btn active" id="mobileModelHaiku" onclick="setChatModel('haiku')">Haiku</button>
+                <button class="chat-model-btn" id="mobileModelSonnet" onclick="setChatModel('sonnet')">Sonnet</button>
+            </div>
+            <div class="web-search-toggle">
+                <span class="web-search-label">Web</span>
+                <button class="web-search-switch active" id="mobileWebSearchToggle" onclick="toggleWebSearch()" title="Enable web search"></button>
+            </div>
+            <span class="chat-settings-key" onclick="showApiKeySetup()">Change API key</span>
+        </div>
+    </div>
+
+    <!-- Mobile Search Panel -->
+    <div class="mobile-tab-panel" id="mobileSearchPanel" style="display:none;">
+        <div class="mobile-search-bar">
+            <div class="mobile-search-input-wrap">
+                <i class="fas fa-search" style="color:#9ca3af;"></i>
+                <input type="text" class="mobile-search-input" id="mobileSearchInput" placeholder="Search places..." oninput="onMobileSearch()">
+                <button class="mobile-search-clear" id="mobileSearchClear" onclick="clearMobileSearch()" style="display:none;">&times;</button>
+            </div>
+        </div>
+        <div class="mobile-search-chips" id="mobileSearchChips">
+            <button class="mobile-search-chip active" data-filter="all" onclick="setMobileSearchFilter('all',this)">All</button>
+            <button class="mobile-search-chip" data-filter="hotels" onclick="setMobileSearchFilter('hotels',this)">🏨 Hotels</button>
+            <button class="mobile-search-chip" data-filter="restaurants" onclick="setMobileSearchFilter('restaurants',this)">🍽 Restaurants</button>
+            <button class="mobile-search-chip" data-filter="experiences" onclick="setMobileSearchFilter('experiences',this)">🎭 Experiences</button>
+            <button class="mobile-search-chip" data-filter="kidFriendly" onclick="setMobileSearchFilter('kidFriendly',this)">👶 Kids</button>
+            <button class="mobile-search-chip" data-filter="markets" onclick="setMobileSearchFilter('markets',this)">🛒 Markets</button>
+        </div>
+        <div class="mobile-search-results" id="mobileSearchResults">
+            <div class="mobile-search-empty">Select a destination and search for places</div>
+        </div>
+    </div>
+
+    <!-- Mobile Trips Panel -->
+    <div class="mobile-tab-panel" id="mobileTripsPanel" style="display:none;">
+        <div class="mobile-trips-header" id="mobileTripsHeader">
+            <div class="mobile-trips-title">Itineraries</div>
+            <div class="mobile-trips-actions">
+                <button class="mobile-trips-action-btn" onclick="showMobileTripsSubView('notes')" title="Notes">📝</button>
+                <button class="mobile-trips-action-btn" onclick="showMobileTripsSubView('bookings')" title="Bookings" id="mobileBookingsBtn">🔖</button>
+                <button class="mobile-trips-action-btn" onclick="openShareModal()" title="Share">🔗</button>
+                <button class="mobile-trips-action-btn mobile-trips-generate" onclick="openGeneratorModal()" title="Generate">+ Generate</button>
+            </div>
+        </div>
+        <div class="mobile-trips-tabs" id="mobileTripsTabsContainer"></div>
+        <div class="mobile-trips-content" id="mobileTripsContent">
+            <div id="mobileTripsItinView">
+                <button class="show-all-days-btn active" id="mobileShowAllDaysBtn" onclick="showAllDays()">Show All Days</button>
+                <div id="mobileDaysContainer"></div>
+            </div>
+            <div id="mobileTripsSubView" style="display:none;">
+                <button class="mobile-trips-back" onclick="hideMobileTripsSubView()"><i class="fas fa-arrow-left"></i> Back to Itineraries</button>
+                <div id="mobileTripsSubContent"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mobile POI Detail Sheet -->
+    <div class="mobile-poi-sheet-overlay" id="mobilePoiOverlay" onclick="hideMobilePOIDetail()"></div>
+    <div class="mobile-poi-sheet" id="mobilePoiSheet">
+        <div class="mobile-poi-drag-handle"></div>
+        <button class="mobile-poi-close" onclick="hideMobilePOIDetail()">&times;</button>
+        <div class="mobile-poi-content" id="mobilePoiContent"></div>
+    </div>
+
+    <!-- Mobile Tab Bar -->
+    <nav class="mobile-tab-bar" id="mobileTabBar">
+        <button class="mobile-tab active" data-tab="map" onclick="switchMobileTab('map')">
+            <i class="fas fa-map"></i>
+            <span>Map</span>
+        </button>
+        <button class="mobile-tab" data-tab="trips" onclick="switchMobileTab('trips')">
+            <i class="fas fa-route"></i>
+            <span>Trips</span>
+        </button>
+        <button class="mobile-tab" data-tab="search" onclick="switchMobileTab('search')">
+            <i class="fas fa-search"></i>
+            <span>Search</span>
+        </button>
+        <button class="mobile-tab" data-tab="chat" onclick="switchMobileTab('chat')">
+            <i class="fas fa-comments"></i>
+            <span>Chat</span>
+        </button>
+    </nav>
+
     <!-- Leaflet JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 
@@ -2599,6 +3200,19 @@
         let originalItineraryData = {};
         const cityCenters = {};
         let poiLookup = {};  // Maps POI name → {desc, longDesc} for itinerary popup cross-reference
+        let poiNamesList = []; // Sorted POI names (longest first) for fuzzy matching
+
+        // Fuzzy POI lookup: exact match first, then check if a known POI name is contained in the itinerary item name
+        function lookupPoi(name) {
+            if (poiLookup[name]) return poiLookup[name];
+            const lower = name.toLowerCase();
+            for (let i = 0; i < poiNamesList.length; i++) {
+                if (lower.includes(poiNamesList[i].toLowerCase())) {
+                    return poiLookup[poiNamesList[i]];
+                }
+            }
+            return {};
+        }
 
         // Multi-destination framework
         const destinations = {};
@@ -2728,6 +3342,8 @@
                     }
                 });
             });
+            // Build sorted list of POI names (longest first) for fuzzy matching
+            poiNamesList = Object.keys(poiLookup).sort((a, b) => b.length - a.length);
 
             // Load destination-specific modifications
             modifiedState = {};
@@ -2769,6 +3385,9 @@
             buildFilterChips();
             buildRegionFilter();
             updateBookingsBadge();
+
+            // Update mobile UI
+            updateMobileAfterDestLoad();
         }
 
         function addDestination(key, config) {
@@ -2943,6 +3562,9 @@
             kidFriendly: null,
             markets: null
         };
+
+        // Legend control reference
+        let legendControl = null;
 
         // Itinerary markers and polylines
         let itineraryMarkers = [];
@@ -3423,6 +4045,13 @@
                     fillOpacity: 0.8
                 });
                 marker.bindPopup(buildPoiPopupHtml(poi, categoryLabel));
+                // On mobile, intercept popup and show detail sheet instead
+                if (isMobile()) {
+                    marker.off('click');
+                    marker.on('click', function() {
+                        showMobilePOIDetail(poi, categoryLabel);
+                    });
+                }
                 categoryGroups[categoryKey].addLayer(marker);
             }
 
@@ -3461,6 +4090,11 @@
         }
 
         function addLegend() {
+            // Remove existing legend before adding a new one
+            if (legendControl) {
+                map.removeControl(legendControl);
+                legendControl = null;
+            }
             const legend = L.control({ position: 'bottomright' });
             legend.onAdd = function(map) {
                 const div = L.DomUtil.create('div', 'legend');
@@ -3471,17 +4105,18 @@
                     { label: 'Kid Friendly', color: categoryColors.kidFriendly },
                     { label: 'Markets', color: categoryColors.markets }
                 ];
-                
+
                 items.forEach(item => {
                     const legendItem = document.createElement('div');
                     legendItem.className = 'legend-item';
                     legendItem.innerHTML = `<div class="legend-color" style="background-color:${item.color}"></div> <span>${item.label}</span>`;
                     div.appendChild(legendItem);
                 });
-                
+
                 return div;
             };
             legend.addTo(map);
+            legendControl = legend;
         }
 
         // ============================================
@@ -3618,13 +4253,14 @@
             currentDay = null;
             allDaysActive = false;
             updateChatContext();
-            
-            // Update active tab
+
+            // Update active tab (desktop)
             document.querySelectorAll('.itin-tab').forEach(tab => {
                 tab.classList.remove('active');
             });
-            document.getElementById(`tab-${key}`).classList.add('active');
-            
+            const tabEl = document.getElementById(`tab-${key}`);
+            if (tabEl) tabEl.classList.add('active');
+
             showItinerary(key);
         }
 
@@ -3652,7 +4288,7 @@
                         const itemIdx = dayData.items.indexOf(item);
                         const swapBtn = (item.type !== 'nap') ? '<button class="popup-swap-btn" onclick="openSwapPanel(\x27' + key + '\x27,' + dayData.day + ',' + itemIdx + ')">&#x1f504; Swap</button>' : '';
                         const destKey = activeDestination || 'default';
-                        const poiInfo = poiLookup[item.name] || {};
+                        const poiInfo = lookupPoi(item.name);
                         const poiAnnotations = getAnnotationsForPoi(destKey, item.name);
                         const safeName = item.name.replace(/'/g, "\\'");
                         const itinNoteId = 'note-' + item.name.replace(/[^a-zA-Z0-9]/g, '_') + '_itin';
@@ -3674,6 +4310,14 @@
                         popupContent += '<button onclick="setNote(\'' + destKey + '\',\'' + safeName + '\',document.getElementById(\'' + itinNoteId + '\').value);this.textContent=\'Saved ✓\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
                         popupContent += '</div>';
                         marker.bindPopup(popupContent);
+                        // On mobile, intercept popup and show detail sheet instead
+                        if (isMobile()) {
+                            marker.off('click');
+                            marker.on('click', function() {
+                                const mobilePoi = { name: item.name, coord: item.coord, desc: poiInfo.desc, longDesc: poiInfo.longDesc, gmapsUrl: poiInfo.gmapsUrl, rating: poiInfo.rating, ratingCount: poiInfo.ratingCount, priceLevel: poiInfo.priceLevel, website: poiInfo.website, hours: poiInfo.hours, photoRef: poiInfo.photoRef, photoAttribution: poiInfo.photoAttribution };
+                                showMobilePOIDetail(mobilePoi, formatType(item.type));
+                            });
+                        }
                         marker.addTo(map);
                         itineraryMarkers.push({marker: marker, coord: item.coord, day: dayData.day, type: item.type, name: item.name});
                         markers.push({lat: item.coord[0], lng: item.coord[1]});
@@ -4070,7 +4714,7 @@
                 text += '\u2500'.repeat(30) + '\n';
                 dayData.items.forEach(function(item) {
                     var emoji = typeEmoji[item.type] || '\u{1F4CB}';
-                    var poiInfo = poiLookup[item.name] || {};
+                    var poiInfo = lookupPoi(item.name);
                     text += emoji + ' ' + item.name;
                     if (poiInfo.desc) text += '\n   ' + poiInfo.desc;
                     text += '\n';
@@ -4135,7 +4779,7 @@
                 html += '<div class="day">';
                 html += '<div class="day-title">Day ' + dayData.day + ' \u2014 ' + escapeHtml(dayData.title) + '</div>';
                 dayData.items.forEach(function(item) {
-                    var poiInfo = poiLookup[item.name] || {};
+                    var poiInfo = lookupPoi(item.name);
                     html += '<div class="item">';
                     html += '<div class="item-type">' + escapeHtml(formatType(item.type)) + '</div>';
                     html += '<div><div class="item-name">' + escapeHtml(item.name);
@@ -4331,9 +4975,27 @@
         // ============================================
 
         function panToMarker(lat, lng, name) {
+            // On mobile, switch to map tab first
+            if (isMobile()) {
+                switchMobileTab('map');
+                setTimeout(() => {
+                    map.invalidateSize();
+                    map.flyTo([lat, lng], 14, { duration: 1 });
+                    // Show POI detail sheet instead of popup on mobile
+                    setTimeout(() => {
+                        const m = itineraryMarkers.find(m => Math.abs(m.marker.getLatLng().lat - lat) < 0.0001 && Math.abs(m.marker.getLatLng().lng - lng) < 0.0001);
+                        if (m) {
+                            const poiInfo = lookupPoi(m.name);
+                            showMobilePOIDetail({ name: m.name, coord: [lat, lng], desc: poiInfo.desc, longDesc: poiInfo.longDesc, gmapsUrl: poiInfo.gmapsUrl, rating: poiInfo.rating, ratingCount: poiInfo.ratingCount, priceLevel: poiInfo.priceLevel, website: poiInfo.website, hours: poiInfo.hours }, formatType(m.type));
+                        }
+                    }, 600);
+                }, 150);
+                return;
+            }
+
             map.flyTo([lat, lng], 14, { duration: 1 });
-            
-            // Find and open popup
+
+            // Find and open popup (desktop)
             itineraryMarkers.forEach(m => {
                 if (Math.abs(m.marker.getLatLng().lat - lat) < 0.0001 && Math.abs(m.marker.getLatLng().lng - lng) < 0.0001) {
                     setTimeout(() => m.marker.openPopup(), 500);
@@ -5543,6 +6205,9 @@
             container.appendChild(msg);
             container.scrollTop = container.scrollHeight;
             chatHistory.push({ role: role, content: content });
+
+            // Sync to mobile chat if active
+            if (isMobile()) { setTimeout(syncChatMessages, 100); }
         }
 
         function addTypingIndicator() {
@@ -6491,126 +7156,572 @@
         }
 
         // ============================================
+        // MOBILE TAB-BASED NAVIGATION
+        // ============================================
+
+        let mobileActiveTab = 'map';
+        let mobileSearchFilter = 'all';
+        let mobileSearchDebounce = null;
+
+        function isMobile() {
+            return window.innerWidth <= 768;
+        }
+
+        // ---- Tab Switching ----
+        function switchMobileTab(tab) {
+            if (!isMobile()) return;
+            mobileActiveTab = tab;
+
+            // Update tab bar active states
+            document.querySelectorAll('.mobile-tab').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.tab === tab);
+            });
+
+            // Hide all tab panels
+            document.getElementById('mobileTripsPanel').style.display = 'none';
+            document.getElementById('mobileSearchPanel').style.display = 'none';
+            document.getElementById('mobileChatPanel').style.display = 'none';
+            document.getElementById('mobileChatPanel').classList.remove('mobile-tab-active');
+
+            // Hide/show map-related elements
+            const mapControls = document.getElementById('mobileMapControls');
+            const mapContainer = document.getElementById('map-container');
+
+            if (tab === 'map') {
+                mapContainer.style.display = '';
+                if (mapControls) mapControls.style.display = '';
+                // Ensure map renders correctly
+                setTimeout(() => { if (map) map.invalidateSize(); }, 100);
+            } else {
+                // Don't hide map container, just show panel on top
+                if (tab === 'trips') {
+                    document.getElementById('mobileTripsPanel').style.display = 'block';
+                    refreshMobileTripsUI();
+                } else if (tab === 'search') {
+                    document.getElementById('mobileSearchPanel').style.display = 'block';
+                    // Focus search input after a short delay
+                    setTimeout(() => {
+                        const input = document.getElementById('mobileSearchInput');
+                        if (input) input.focus();
+                    }, 150);
+                } else if (tab === 'chat') {
+                    const chatPanel = document.getElementById('mobileChatPanel');
+                    chatPanel.style.display = 'flex';
+                    chatPanel.classList.add('mobile-tab-active');
+                    initMobileChat();
+                }
+                // Hide map controls when not on map tab
+                if (mapControls) mapControls.style.display = 'none';
+            }
+
+            // Close POI detail sheet when switching tabs
+            hideMobilePOIDetail();
+        }
+
+        // ---- Destination Bar ----
+        function updateMobileDestBar() {
+            if (!isMobile()) return;
+            if (!activeDestination || !destinations[activeDestination]) return;
+            const dest = destinations[activeDestination];
+            const flag = document.getElementById('mobileDestFlag');
+            const name = document.getElementById('mobileDestName');
+            if (flag) flag.textContent = dest.flag || '🗺️';
+            if (name) name.textContent = dest.name || 'Travel Map';
+        }
+
+        function toggleMobileDestPicker() {
+            // Reuse the manifest data to show destination options
+            if (!manifestData || !manifestData.destinations) return;
+
+            // Build a simple list modal
+            let html = '<div style="position:fixed;inset:0;background:rgba(0,0,0,0.5);z-index:9999;display:flex;align-items:flex-end;justify-content:center;" onclick="if(event.target===this)this.remove()">';
+            html += '<div style="background:white;border-radius:16px 16px 0 0;width:100%;max-height:70vh;overflow-y:auto;padding:16px;">';
+            html += '<div style="font-size:16px;font-weight:700;margin-bottom:12px;text-align:center;">Choose Destination</div>';
+
+            manifestData.destinations.forEach(d => {
+                const isActive = d.key === activeDestination;
+                html += '<button onclick="this.closest(\'div[style*=fixed]\').remove();fetchAndLoadDestination(\'' + d.key + '\')" style="display:flex;align-items:center;gap:10px;width:100%;padding:12px;border:none;background:' + (isActive ? '#eff6ff' : 'white') + ';border-radius:10px;font-size:14px;cursor:pointer;text-align:left;font-weight:' + (isActive ? '600' : '400') + ';color:#111;">';
+                html += '<span style="font-size:24px;">' + (d.flag || '') + '</span>';
+                html += '<span>' + d.name + '</span>';
+                if (isActive) html += '<span style="margin-left:auto;color:#2563EB;font-size:12px;">✓ Active</span>';
+                html += '</button>';
+            });
+
+            html += '</div></div>';
+
+            const div = document.createElement('div');
+            div.innerHTML = html;
+            document.body.appendChild(div.firstChild);
+        }
+
+        // ---- POI Detail Bottom Sheet ----
+        function showMobilePOIDetail(poi, categoryLabel) {
+            if (!isMobile()) return;
+
+            const sheet = document.getElementById('mobilePoiSheet');
+            const overlay = document.getElementById('mobilePoiOverlay');
+            const content = document.getElementById('mobilePoiContent');
+            if (!sheet || !content) return;
+
+            // Build content (reuse existing popup HTML builder)
+            let html = buildPoiPopupHtml(poi, categoryLabel);
+            content.innerHTML = html;
+
+            // Show sheet
+            overlay.classList.add('active');
+            sheet.classList.add('active');
+
+            // Pan map to POI
+            if (poi.coord && map) {
+                map.panTo(poi.coord);
+            }
+        }
+
+        function hideMobilePOIDetail() {
+            const sheet = document.getElementById('mobilePoiSheet');
+            const overlay = document.getElementById('mobilePoiOverlay');
+            if (sheet) sheet.classList.remove('active');
+            if (overlay) overlay.classList.remove('active');
+        }
+
+        // Swipe-to-dismiss for POI sheet
+        function initPOISheetGestures() {
+            const sheet = document.getElementById('mobilePoiSheet');
+            const handle = sheet ? sheet.querySelector('.mobile-poi-drag-handle') : null;
+            if (!handle) return;
+
+            let startY = 0, startTransform = 0, dragging = false;
+
+            handle.addEventListener('touchstart', (e) => {
+                startY = e.touches[0].clientY;
+                startTransform = 0;
+                dragging = true;
+                sheet.style.transition = 'none';
+            }, { passive: true });
+
+            handle.addEventListener('touchmove', (e) => {
+                if (!dragging) return;
+                const diff = e.touches[0].clientY - startY;
+                if (diff > 0) { // Only allow downward drag
+                    startTransform = diff;
+                    sheet.style.transform = 'translateY(' + diff + 'px)';
+                }
+            }, { passive: true });
+
+            handle.addEventListener('touchend', () => {
+                dragging = false;
+                sheet.style.transition = '';
+                if (startTransform > 80) {
+                    hideMobilePOIDetail();
+                } else {
+                    sheet.style.transform = '';
+                    sheet.classList.add('active');
+                }
+            }, { passive: true });
+        }
+
+        // ---- Floating Category Toggles ----
+        function toggleMobileCat(catKey, btn) {
+            if (!categoryGroups[catKey]) return;
+            btn.classList.toggle('active');
+            if (btn.classList.contains('active')) {
+                categoryGroups[catKey].addTo(map);
+            } else {
+                categoryGroups[catKey].removeFrom(map);
+            }
+        }
+
+        function syncMobileCatChips() {
+            // Sync chip active states with actual category visibility
+            document.querySelectorAll('.mobile-cat-chip').forEach(chip => {
+                const cat = chip.dataset.cat;
+                if (cat && categoryGroups[cat]) {
+                    chip.classList.toggle('active', map.hasLayer(categoryGroups[cat]));
+                }
+            });
+        }
+
+        // ---- Search Tab ----
+        function onMobileSearch() {
+            const input = document.getElementById('mobileSearchInput');
+            const clearBtn = document.getElementById('mobileSearchClear');
+            if (!input) return;
+
+            const query = input.value.trim();
+            if (clearBtn) clearBtn.style.display = query ? 'flex' : 'none';
+
+            // Debounce
+            if (mobileSearchDebounce) clearTimeout(mobileSearchDebounce);
+            mobileSearchDebounce = setTimeout(() => renderMobileSearchResults(query), 200);
+        }
+
+        function clearMobileSearch() {
+            const input = document.getElementById('mobileSearchInput');
+            if (input) { input.value = ''; input.focus(); }
+            document.getElementById('mobileSearchClear').style.display = 'none';
+            renderMobileSearchResults('');
+        }
+
+        function setMobileSearchFilter(filter, btn) {
+            mobileSearchFilter = filter;
+            document.querySelectorAll('.mobile-search-chip').forEach(c => c.classList.remove('active'));
+            if (btn) btn.classList.add('active');
+            const query = (document.getElementById('mobileSearchInput') || {}).value || '';
+            renderMobileSearchResults(query.trim());
+        }
+
+        function renderMobileSearchResults(query) {
+            const container = document.getElementById('mobileSearchResults');
+            if (!container) return;
+
+            if (!activeDestination) {
+                container.innerHTML = '<div class="mobile-search-empty">Select a destination first</div>';
+                return;
+            }
+
+            // Gather all POIs
+            const allPois = [
+                ...hotels.map(p => ({...p, _cat: 'hotels', _catLabel: 'Hotel'})),
+                ...restaurants.map(p => ({...p, _cat: 'restaurants', _catLabel: 'Restaurant'})),
+                ...experiences.map(p => ({...p, _cat: 'experiences', _catLabel: 'Experience'})),
+                ...kidFriendly.map(p => ({...p, _cat: 'kidFriendly', _catLabel: 'Kid-Friendly'})),
+                ...markets.map(p => ({...p, _cat: 'markets', _catLabel: 'Market'}))
+            ];
+
+            // Filter by category
+            let filtered = allPois;
+            if (mobileSearchFilter !== 'all') {
+                filtered = filtered.filter(p => p._cat === mobileSearchFilter);
+            }
+
+            // Filter by query
+            if (query) {
+                const q = query.toLowerCase();
+                filtered = filtered.filter(p =>
+                    (p.name && p.name.toLowerCase().includes(q)) ||
+                    (p.desc && p.desc.toLowerCase().includes(q)) ||
+                    (p.longDesc && p.longDesc.toLowerCase().includes(q))
+                );
+            }
+
+            // Sort: by rating (desc) then alphabetical
+            filtered.sort((a, b) => {
+                if (b.rating && a.rating) return b.rating - a.rating;
+                if (b.rating) return 1;
+                if (a.rating) return -1;
+                return (a.name || '').localeCompare(b.name || '');
+            });
+
+            if (filtered.length === 0) {
+                container.innerHTML = '<div class="mobile-search-empty">' + (query ? 'No results for "' + escapeHtml(query) + '"' : 'No places found') + '</div>';
+                return;
+            }
+
+            // Show count
+            let html = '<div style="font-size:11px;color:#9ca3af;padding:4px 0 8px 0;">' + filtered.length + ' places</div>';
+
+            filtered.forEach(poi => {
+                const ratingHtml = poi.rating ? '<span class="mobile-search-card-rating">★ ' + poi.rating.toFixed(1) + '</span>' : '';
+                const priceHtml = poi.priceLevel ? '<span style="font-size:11px;color:#6b7280;">' + escapeHtml(poi.priceLevel) + '</span>' : '';
+
+                html += '<div class="mobile-search-card" onclick="mobileSearchCardTap(\'' + escapeHtml(poi.name).replace(/'/g, "\\'") + '\',\'' + poi._cat + '\')">';
+                html += '<div class="mobile-search-card-body">';
+                html += '<div class="mobile-search-card-name">' + escapeHtml(poi.name) + '</div>';
+                html += '<div class="mobile-search-card-desc">' + escapeHtml(poi.desc || poi.longDesc || '') + '</div>';
+                html += '<div class="mobile-search-card-meta">';
+                html += '<span class="mobile-search-card-badge cat-' + poi._cat + '">' + poi._catLabel + '</span>';
+                html += ratingHtml + priceHtml;
+                html += '</div></div></div>';
+            });
+
+            container.innerHTML = html;
+        }
+
+        function mobileSearchCardTap(poiName, catKey) {
+            // Find the POI
+            const arrays = { hotels, restaurants, experiences, kidFriendly, markets };
+            const labels = { hotels: 'Hotel', restaurants: 'Restaurant', experiences: 'Experience', kidFriendly: 'Kid-Friendly', markets: 'Market' };
+            const arr = arrays[catKey] || [];
+            const poi = arr.find(p => p.name === poiName);
+            if (!poi) return;
+
+            // Switch to map tab and show POI detail
+            switchMobileTab('map');
+
+            // Small delay to let map render
+            setTimeout(() => {
+                showMobilePOIDetail(poi, labels[catKey] || catKey);
+            }, 200);
+        }
+
+        // ---- Trips Tab ----
+        function refreshMobileTripsUI() {
+            if (!isMobile()) return;
+            buildMobileItinTabs();
+            renderMobileItinContent();
+        }
+
+        function buildMobileItinTabs() {
+            const container = document.getElementById('mobileTripsTabsContainer');
+            if (!container) return;
+
+            let html = '';
+            const itinColors = { a: '#2563EB', b: '#059669', c: '#D97706', d: '#DC2626', e: '#7C3AED' };
+            const GEN_COLORS = ['#06b6d4', '#8b5cf6', '#ec4899', '#f97316', '#14b8a6', '#a855f7', '#f43f5e', '#eab308'];
+
+            // Built-in itineraries
+            Object.keys(itineraryData).forEach(key => {
+                if (key.startsWith('gen_') || key.startsWith('shared_')) return;
+                const itin = itineraryData[key];
+                if (!itin) return;
+                const name = itin.name || itin.title || ('Itinerary ' + key.toUpperCase());
+                const color = itinColors[key] || itin.color || '#2563EB';
+                const isActive = key === currentItinerary;
+                html += '<button class="mobile-trips-tab' + (isActive ? ' active' : '') + '" style="' + (isActive ? 'background:' + color + ';border-color:' + color + ';' : 'border-color:' + color + ';color:' + color + ';') + '" onclick="selectMobileItinerary(\'' + key + '\')">' + escapeHtml(name) + '</button>';
+            });
+
+            // Generated itineraries
+            let genIdx = 0;
+            Object.keys(itineraryData).forEach(key => {
+                if (!key.startsWith('gen_')) return;
+                const itin = itineraryData[key];
+                if (!itin) return;
+                const name = itin.name || itin.title || 'Generated';
+                const color = GEN_COLORS[genIdx % GEN_COLORS.length];
+                genIdx++;
+                const isActive = key === currentItinerary;
+                html += '<button class="mobile-trips-tab gen-tab' + (isActive ? ' active' : '') + '" style="' + (isActive ? 'background:' + color + ';border-color:' + color + ';' : 'border-color:' + color + ';color:' + color + ';') + '" onclick="selectMobileItinerary(\'' + key + '\')">' + '✨ ' + escapeHtml(name) + '</button>';
+            });
+
+            container.innerHTML = html;
+        }
+
+        function selectMobileItinerary(key) {
+            // Use the existing selectItinerary function which updates map markers too
+            selectItinerary(key);
+            // Then refresh our mobile UI
+            buildMobileItinTabs();
+            renderMobileItinContent();
+        }
+
+        function renderMobileItinContent() {
+            const container = document.getElementById('mobileDaysContainer');
+            if (!container) return;
+
+            if (!currentItinerary || !itineraryData[currentItinerary]) {
+                container.innerHTML = '<div style="text-align:center;color:#9ca3af;padding:30px;">Select an itinerary above</div>';
+                return;
+            }
+
+            // Reuse the existing daysContainer content — copy from desktop
+            const desktopDays = document.getElementById('daysContainer');
+            if (desktopDays) {
+                container.innerHTML = desktopDays.innerHTML;
+            }
+        }
+
+        // ---- Trips Sub-Views (Notes/Bookings) ----
+        function showMobileTripsSubView(type) {
+            const itinView = document.getElementById('mobileTripsItinView');
+            const subView = document.getElementById('mobileTripsSubView');
+            const subContent = document.getElementById('mobileTripsSubContent');
+            if (!itinView || !subView || !subContent) return;
+
+            itinView.style.display = 'none';
+            subView.style.display = 'block';
+
+            if (type === 'notes') {
+                // Build notes content (simplified from showNotesPanel)
+                let html = '<div style="font-size:16px;font-weight:700;margin-bottom:12px;">📝 Notes</div>';
+                const allNotes = getAllNotes ? getAllNotes(activeDestination) : {};
+                const noteKeys = Object.keys(allNotes);
+
+                if (noteKeys.length === 0) {
+                    html += '<div style="color:#9ca3af;text-align:center;padding:20px;">No notes yet. Add notes from POI popups on the map.</div>';
+                } else {
+                    noteKeys.forEach(key => {
+                        html += '<div style="background:white;border-radius:10px;padding:12px;margin-bottom:8px;box-shadow:0 1px 3px rgba(0,0,0,0.06);">';
+                        html += '<div style="font-size:13px;font-weight:600;color:#111;">' + escapeHtml(key) + '</div>';
+                        html += '<div style="font-size:12px;color:#6b7280;margin-top:4px;white-space:pre-wrap;">' + escapeHtml(allNotes[key]) + '</div>';
+                        html += '</div>';
+                    });
+                }
+                subContent.innerHTML = html;
+
+            } else if (type === 'bookings') {
+                let html = '<div style="font-size:16px;font-weight:700;margin-bottom:12px;">🔖 Bookings</div>';
+                const allAnns = getAllAnnotations ? getAllAnnotations(activeDestination) : [];
+
+                if (allAnns.length === 0) {
+                    html += '<div style="color:#9ca3af;text-align:center;padding:20px;">No bookings yet. Add bookings from POI popups on the map.</div>';
+                } else {
+                    const today = new Date().toISOString().split('T')[0];
+                    const upcoming = allAnns.filter(a => !a.date || a.date >= today);
+                    const past = allAnns.filter(a => a.date && a.date < today);
+
+                    if (upcoming.length > 0) {
+                        html += '<div style="font-size:12px;font-weight:600;color:#2563EB;margin:12px 0 6px 0;">UPCOMING</div>';
+                        upcoming.forEach(ann => {
+                            html += buildMobileBookingCard(ann);
+                        });
+                    }
+                    if (past.length > 0) {
+                        html += '<div style="font-size:12px;font-weight:600;color:#9ca3af;margin:12px 0 6px 0;">PAST</div>';
+                        past.forEach(ann => {
+                            html += buildMobileBookingCard(ann);
+                        });
+                    }
+                }
+                subContent.innerHTML = html;
+            }
+        }
+
+        function buildMobileBookingCard(ann) {
+            const typeIcons = { reservation: '🍽', booking: '🏨', flight: '✈️', activity: '🎭', transit: '🚂', note: '📝' };
+            const icon = typeIcons[ann.type] || '📌';
+            let html = '<div style="background:white;border-radius:10px;padding:12px;margin-bottom:8px;box-shadow:0 1px 3px rgba(0,0,0,0.06);">';
+            html += '<div style="display:flex;align-items:center;gap:8px;">';
+            html += '<span style="font-size:18px;">' + icon + '</span>';
+            html += '<div style="flex:1;min-width:0;">';
+            html += '<div style="font-size:13px;font-weight:600;color:#111;">' + escapeHtml(ann.poiName || '') + '</div>';
+            if (ann.date) html += '<div style="font-size:11px;color:#6b7280;">' + ann.date + (ann.endDate ? ' → ' + ann.endDate : '') + '</div>';
+            html += '</div>';
+            if (ann.status) {
+                const statusColors = { confirmed: '#059669', pending: '#d97706', cancelled: '#dc2626' };
+                html += '<span style="font-size:10px;font-weight:600;padding:2px 6px;border-radius:4px;background:' + (statusColors[ann.status] || '#6b7280') + '20;color:' + (statusColors[ann.status] || '#6b7280') + ';">' + ann.status + '</span>';
+            }
+            html += '</div>';
+            if (ann.details) html += '<div style="font-size:12px;color:#6b7280;margin-top:6px;">' + escapeHtml(ann.details) + '</div>';
+            html += '</div>';
+            return html;
+        }
+
+        function hideMobileTripsSubView() {
+            const itinView = document.getElementById('mobileTripsItinView');
+            const subView = document.getElementById('mobileTripsSubView');
+            if (itinView) itinView.style.display = 'block';
+            if (subView) subView.style.display = 'none';
+        }
+
+        // ---- Mobile Chat ----
+        function initMobileChat() {
+            // Mirror the desktop chat setup
+            loadApiKey();
+            const setupEl = document.getElementById('mobileChatSetup');
+            const messagesEl = document.getElementById('mobileChatMessages');
+            const inputArea = document.getElementById('mobileChatInputArea');
+            const settingsEl = document.getElementById('mobileChatSettings');
+
+            if (chatApiKey) {
+                if (setupEl) setupEl.style.display = 'none';
+                if (messagesEl) messagesEl.style.display = 'block';
+                if (inputArea) inputArea.style.display = 'flex';
+                if (settingsEl) settingsEl.style.display = 'flex';
+
+                // Sync messages from desktop chat
+                syncChatMessages();
+            } else {
+                if (setupEl) setupEl.style.display = 'block';
+                if (messagesEl) messagesEl.style.display = 'none';
+                if (inputArea) inputArea.style.display = 'none';
+                if (settingsEl) settingsEl.style.display = 'none';
+            }
+        }
+
+        function syncChatMessages() {
+            const desktopMessages = document.getElementById('chatMessages');
+            const mobileMessages = document.getElementById('mobileChatMessages');
+            if (desktopMessages && mobileMessages) {
+                mobileMessages.innerHTML = desktopMessages.innerHTML;
+                mobileMessages.scrollTop = mobileMessages.scrollHeight;
+            }
+        }
+
+        function saveMobileApiKey() {
+            const input = document.getElementById('mobileApiKeyInput');
+            if (!input || !input.value.trim()) return;
+            chatApiKey = input.value.trim();
+            try { localStorage.setItem('japanTrip_apiKey', chatApiKey); } catch(e) {}
+            try { localStorage.setItem('tripMap_apiKey', chatApiKey); } catch(e) {}
+            initMobileChat();
+        }
+
+        function mobileChatKeyHandler(event) {
+            if (event.key === 'Enter' && !event.shiftKey) {
+                event.preventDefault();
+                sendMobileChatMessage();
+            }
+        }
+
+        function sendMobileChatMessage() {
+            const input = document.getElementById('mobileChatInput');
+            if (!input || !input.value.trim()) return;
+
+            // Set the desktop chat input and trigger send
+            const desktopInput = document.getElementById('chatInput');
+            if (desktopInput) {
+                desktopInput.value = input.value;
+            }
+            input.value = '';
+
+            // Call the existing send function
+            sendChatMessage();
+
+            // Sync messages after a delay
+            setTimeout(syncChatMessages, 500);
+            setTimeout(syncChatMessages, 2000);
+            setTimeout(syncChatMessages, 5000);
+        }
+
+        // ---- Hook into existing functions ----
+
+        // Override loadDestination's UI updates to also update mobile
+        const _origLoadDest = typeof loadDestination === 'function' ? null : null; // Will be patched in init
+
+        function updateMobileAfterDestLoad() {
+            if (!isMobile()) return;
+            updateMobileDestBar();
+            syncMobileCatChips();
+            if (mobileActiveTab === 'trips') {
+                refreshMobileTripsUI();
+            }
+            if (mobileActiveTab === 'search') {
+                renderMobileSearchResults((document.getElementById('mobileSearchInput') || {}).value || '');
+            }
+        }
+
+        // ---- Initialize Mobile UI ----
+        function initMobileUI() {
+            if (!isMobile()) return;
+
+            // Show mobile-only elements
+            const destBar = document.getElementById('mobileDestBar');
+            const tabBar = document.getElementById('mobileTabBar');
+            if (destBar) destBar.style.display = '';
+            if (tabBar) tabBar.style.display = '';
+
+            // Start on map tab
+            switchMobileTab('map');
+
+            // Initialize POI sheet gestures
+            initPOISheetGestures();
+
+            // Update dest bar
+            updateMobileDestBar();
+        }
+
+        // ============================================
         // INITIALIZATION
         // ============================================
 
         document.addEventListener('DOMContentLoaded', async function() {
-            await loadConfig();  // Load config.json for family deployment (pre-configured API key)
+            await loadConfig();
             initMap();
-            loadManifest();  // Load destinations from JSON files
+            loadManifest();
 
-            // Mobile bottom-sheet behavior
-            const sidebar = document.getElementById('sidebar');
-            const dragHandle = document.getElementById('dragHandle');
-
+            // Initialize mobile UI if on mobile
             if (window.innerWidth <= 768) {
-                dragHandle.style.display = 'block';
-
-                // States: collapsed, half, expanded
-                let mobileState = 'collapsed';
-                const COLLAPSED_PX = 145;
-                const HALF_VH = 50;
-                const EXPANDED_VH = 85;
-
-                function setMobileState(state, animate) {
-                    mobileState = state;
-                    sidebar.classList.remove('mobile-collapsed', 'mobile-half', 'mobile-expanded');
-                    if (!animate) sidebar.style.transition = 'none';
-                    else sidebar.style.transition = '';
-
-                    if (state === 'collapsed') {
-                        sidebar.classList.add('mobile-collapsed');
-                        sidebar.style.maxHeight = COLLAPSED_PX + 'px';
-                    } else if (state === 'half') {
-                        sidebar.classList.add('mobile-half');
-                        sidebar.style.maxHeight = HALF_VH + 'vh';
-                    } else {
-                        sidebar.classList.add('mobile-expanded');
-                        sidebar.style.maxHeight = EXPANDED_VH + 'vh';
-                    }
-                    // Restore transition after frame
-                    if (!animate) requestAnimationFrame(() => { sidebar.style.transition = ''; });
-                }
-
-                // Start collapsed
-                setMobileState('collapsed', false);
-
-                // Drag logic
-                let startY = 0, startH = 0, dragging = false, lastVelocity = 0, lastTime = 0, lastY = 0;
-
-                dragHandle.addEventListener('touchstart', (e) => {
-                    startY = e.touches[0].clientY;
-                    startH = sidebar.offsetHeight;
-                    dragging = true;
-                    lastY = startY;
-                    lastTime = Date.now();
-                    lastVelocity = 0;
-                    sidebar.style.transition = 'none';
-                }, { passive: true });
-
-                dragHandle.addEventListener('touchmove', (e) => {
-                    if (!dragging) return;
-                    const currentY = e.touches[0].clientY;
-                    const diff = startY - currentY;
-                    const now = Date.now();
-                    const dt = now - lastTime;
-                    if (dt > 0) lastVelocity = (lastY - currentY) / dt;
-                    lastY = currentY;
-                    lastTime = now;
-                    const newH = Math.min(Math.max(COLLAPSED_PX, startH + diff), window.innerHeight * (EXPANDED_VH / 100));
-                    sidebar.style.maxHeight = newH + 'px';
-                    // Toggle hidden content visibility at threshold
-                    if (newH > COLLAPSED_PX + 20) {
-                        sidebar.classList.remove('mobile-collapsed');
-                    } else {
-                        sidebar.classList.add('mobile-collapsed');
-                    }
-                    e.preventDefault();
-                }, { passive: false });
-
-                function snapToNearest() {
-                    if (!dragging) return;
-                    dragging = false;
-                    sidebar.style.transition = '';
-                    const h = sidebar.offsetHeight;
-                    const vh = window.innerHeight;
-                    const halfPx = vh * HALF_VH / 100;
-                    const expandedPx = vh * EXPANDED_VH / 100;
-                    // Use velocity for flick gestures
-                    if (lastVelocity > 0.5) {
-                        // Swiping up fast
-                        if (mobileState === 'collapsed') setMobileState('half', true);
-                        else setMobileState('expanded', true);
-                    } else if (lastVelocity < -0.5) {
-                        // Swiping down fast
-                        if (mobileState === 'expanded') setMobileState('half', true);
-                        else setMobileState('collapsed', true);
-                    } else {
-                        // Snap to closest
-                        const distCollapsed = Math.abs(h - COLLAPSED_PX);
-                        const distHalf = Math.abs(h - halfPx);
-                        const distExpanded = Math.abs(h - expandedPx);
-                        const minDist = Math.min(distCollapsed, distHalf, distExpanded);
-                        if (minDist === distCollapsed) setMobileState('collapsed', true);
-                        else if (minDist === distHalf) setMobileState('half', true);
-                        else setMobileState('expanded', true);
-                    }
-                }
-
-                dragHandle.addEventListener('touchend', snapToNearest, { passive: true });
-                dragHandle.addEventListener('touchcancel', snapToNearest, { passive: true });
-
-                // Tap handle to toggle collapsed <-> half
-                let tapStartY = 0, tapMoved = false;
-                dragHandle.addEventListener('pointerdown', (e) => { tapStartY = e.clientY; tapMoved = false; });
-                dragHandle.addEventListener('pointermove', (e) => {
-                    if (Math.abs(e.clientY - tapStartY) > 8) tapMoved = true;
-                });
-                dragHandle.addEventListener('pointerup', (e) => {
-                    if (tapMoved) return;
-                    if (mobileState === 'collapsed') setMobileState('half', true);
-                    else setMobileState('collapsed', true);
-                });
+                initMobileUI();
             }
         });
     </script>
