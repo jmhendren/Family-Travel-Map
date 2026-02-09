@@ -25,7 +25,12 @@
       "priceLevel": "VERY_EXPENSIVE",
       "website": "https://www.ritzparis.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_ritz_paris",
       "photoRef": "places/ChIJVSOS5FBv5kcRmaCCdrMCfk4/photos/AcnlKN1GD-Q1EpPWQckZcHOjQY3bskkC4Fdpa66vqKoxUJ4LJuUXd4lo9QKZWnG68H_0H2eMByYnCwanYHOlULRlcGIPJW5ZyzaNSnolbzgjw8HlLGtUxcwvTgokaXXHFMDV3QsVXA5rWuk38mOX1fPJGOZTPcy6P7FCVySKkoeDAchCuu0EClRcVuSteQB8hayKczJ0kYh0oBxIs3xeSeNm2J7SVBYI5Drcj3IlZnM3PhkB8ubHTAdBXWXo5i6UIT19AZN9mWivmJ2Os63qSqoa4mj_Q6ai3ZB1Bd12fuQqaiiqeA",
-      "photoAttribution": "Ritz Paris"
+      "photoAttribution": "Ritz Paris",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Art & Design"
+      ]
     },
     {
       "name": "Le Bristol Paris",
@@ -51,7 +56,11 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJVeUHqupv5kcR4taEicvH7ww/photos/AcnlKN1wtm7-lde-guuXKbXu6REhhgmBQsIVK6A8wBoHcsIS_r5U68vADcB04PzXPxynQvnAeMc_z3cQg4MNKwMSgntReGsTUpEcbZ1v9jmjFDFl5a3G46K_c2M_toA06gV_OTMIuv2SCmoWGQivXWihrEOcNQIlouTJgPXRw91q2xsnJGHt9qVYsuRBqKHqD6unYduu9jrYxvevjiUkYZOeYch95uL1ftleElfeAT-glUf1nXu_nmbIDplGoCiAi9K5sONljLfY5mG-ch0LTKi1GL1qREYOoPe4hykBBlkhlmrTsw",
-      "photoAttribution": "Le Bristol Paris"
+      "photoAttribution": "Le Bristol Paris",
+      "tags": [
+        "Romantic",
+        "Splurge"
+      ]
     },
     {
       "name": "Plaza Athénée",
@@ -68,7 +77,12 @@
       "ratingCount": 2793,
       "website": "https://www.dorchestercollection.com/paris/hotel-plaza-athenee",
       "photoRef": "places/ChIJkd-uh8pv5kcRe9TvkndT36Y/photos/AcnlKN25swdLymfjXhRxaMUYGlNlnLaHzxsd-nx3WzHNPbloQSzesnCFuR-q0NlkhCwuMoKKPZzk9tjLgs5dBHdezi_fhr8ANnM46-ol-HHF0Ds-wM4lx4_7T1ppJQsBYux5ez4vQ0Y0v0_P80N2-2EdA30QtlboR60xi20RQzZK8PDnacJR1b3nzUWx34of5iqdg92ybXKE5FFI6Xt01WKZDHdMh9XS2yu4dkftebOoMxgTrr_syuhg1ViZm15zgBkqHnlR6jyU4JDcUGjxVradXO7yh2IKBDkpLjrXb5UNrAsplg",
-      "photoAttribution": "Hôtel Plaza Athénée"
+      "photoAttribution": "Hôtel Plaza Athénée",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge"
+      ]
     },
     {
       "name": "Le Meurice",
@@ -85,7 +99,13 @@
       "ratingCount": 1978,
       "website": "https://www.dorchestercollection.com/paris/le-meurice",
       "photoRef": "places/ChIJUVJY3Ddv5kcRlFyqerxxoeA/photos/AcnlKN21HjneOz8V_Ys0Mg3VETVw_7OzMLOv3SfQQW3RU8QKY1TSAxr7m50vuZIUdRt-QA1AIc9CepL555yYx7EUBuj7-gWeRc0udQJfwgepfQrDFvPfqOtje5R3BvwoZiTvy1VodrJgZ9Tn3sO6j46E6AE8zQJ7OuoHBm-BSlMOEUuPzz4BI75auACUBNLqZ97LuZAO8vXqNyIzDZV-1qHVxixVonVTQsT4uhOlCyYeK3z5CqNCutKlPoJ0pu-wUdutEOvlioZ0HRARQ7sM1-bCptaAZBeVq2wrSPWQe5wdDS9pww",
-      "photoAttribution": "Le Meurice"
+      "photoAttribution": "Le Meurice",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design"
+      ]
     },
     {
       "name": "Hôtel de Crillon",
@@ -103,7 +123,11 @@
       "priceLevel": "VERY_EXPENSIVE",
       "website": "https://www.rosewoodhotels.com/en/hotel-de-crillon",
       "photoRef": "places/ChIJC_jkvdJv5kcRqjbmf7Zql3s/photos/AcnlKN2xGqfyARBTsMB-ZDQBX66LVgQTfEH-pFjd0piLftIAC_OO2VT0L7F_ZHPUTbaNXytwhiGew7mGIeLiHrdKgGgQu8snQoG-AS98oPrtSqSIScjY8paoQZlJvk4-dXpmZgwg2wC9BiDN2pYuCx2MnhnTeUEu1XpX8XC5--xkB5Bi_TMEuJogGdFyZI6ZvTGrWt-73Q4JQd5uSYAbXnt9_Rsd4CfAbx4UPoZsFG2nNiSGnqr1l9GFo7oxNv5ShjjHXjD7ufN10j1C4XyqRHgUa_xosbvXYJAqAoS_cFG3jZOpeQ",
-      "photoAttribution": "Hôtel de Crillon, A Rosewood Hotel"
+      "photoAttribution": "Hôtel de Crillon, A Rosewood Hotel",
+      "tags": [
+        "Romantic",
+        "Splurge"
+      ]
     },
     {
       "name": "Mandarin Oriental Paris",
@@ -120,7 +144,14 @@
       "ratingCount": 2458,
       "website": "https://www.mandarinoriental.com/en/paris/place-vendome?src=loc.local-listings.mopar.ggl",
       "photoRef": "places/ChIJZazOcjJu5kcRmwkL7N7ZOHQ/photos/AcnlKN2TSSu9spVReuzH7R73jBt8MBmcj9YAPElrT8vyFLyNz_IQFK2ogozsekZcrCyfyEOoD1V1nrCT9MPgTa7mMZJkWaD_aAzgN5_bh2-hXVVG5bUOR8RHdS8maVU7yUqtlGEOJiTOaqTYAFde3HTlr6Ffzaw7RaCsr5WQHTfGmvLUluC_YY9lJXzZXL8F711zisFwECNUKcYHUAz0iB3wRYag7E6z1f91dAdr6X61updT3wjp_rd0ZCXD5rrQQZFfqMxG4ENxkNlNStPqyjEStBqA1qoxnIfccfmOPe3cbkjk4A",
-      "photoAttribution": "Mandarin Oriental, Paris Hotel"
+      "photoAttribution": "Mandarin Oriental, Paris Hotel",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Shangri-La Hotel Paris",
@@ -137,7 +168,12 @@
       "ratingCount": 3359,
       "website": "http://www.shangri-la.com/paris/",
       "photoRef": "places/ChIJB7rdOORv5kcRoBirgNG42xE/photos/AcnlKN3OflIt6b2oZi5y6E5tUP9LPeLbOGUmpyYifMdq2ot2YUhu-1tS7xEgMbNmaWux7sz0XHDnjpNI4F-cMGgAuzuHUWfZXoJaauLofsqCvYVtSQA4GbVoq2o1x5mFmRG8368kqdA7QzzJmvBFeibVPlLwc4XrNdQQZrRCMN83LRUs7RZxavb0w2QrqtgHwxJy6nnbfG0EJQRByZFRHgon4nZ3NoasBsHiwjp_B-LGaUmWnOllKT-Pu7C5yjD86KEHMfwtjqPVrTAQ3CbpnSG1NlGZ7lz14Gw5zUvPucCsX4DYHA",
-      "photoAttribution": "Shangri-La Paris"
+      "photoAttribution": "Shangri-La Paris",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Four Seasons Hotel George V",
@@ -155,7 +191,11 @@
       "priceLevel": "VERY_EXPENSIVE",
       "website": "https://www.fourseasons.com/paris/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-par-hre-mid-seo-na&utm_content=na-na&utm_term=na",
       "photoRef": "places/ChIJAcNYmcJv5kcR7EQ_IeMZp8c/photos/AcnlKN21wnv71Ue5o5wiE9RWySQ0BTLUec40UpdV2utEytwKGJ6JCiSCjXE7ffvXoaO9QzogR9Ejv91hsTKuJBkhgLrRaBrItC-RsVy7psaULtlyK72H1rY5xkPPV8GxIr8T_ucMPrF_HW7DYFQexsJT5YOAZsavUjK49CNN1VxYur8-Ze-SLacAjumyFC3Nmv_AClPYw3PYdJiKquoyFJAcgM30WX_V7VnP2NJdZKyfinduXSGP1fE0hQTJ5fYasJrlTHGni-fnzyZpyJy8t6yR6e5-5t-J0t2f_0TFS1ZUCASFLg",
-      "photoAttribution": "Four Seasons Hotel George V, Paris"
+      "photoAttribution": "Four Seasons Hotel George V, Paris",
+      "tags": [
+        "Romantic",
+        "Splurge"
+      ]
     },
     {
       "name": "Sofitel Legend Métropole Hanoi style",
@@ -172,7 +212,11 @@
       "ratingCount": 5878,
       "website": "http://sofitel.accor.com/hotels/1555?merchantid=seo-maps-VN-1555&sourceid=aw-cen&utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps&utm_term=Sofitel-Launch",
       "photoRef": "places/ChIJTbX4mOurNTERJV-mNCKY1pA/photos/AcnlKN2iAXvVKZ6VKfMzHzzgpTJgznx0cWxerhKt6Tr-j-KxwHuJZnbLoegIZ-YdJPZZ7UcsaugeczbJ39mTr2rM3gZ0qYNO85TGo1heZ1thfidpF3orC_8BcMAHTbR5bQxpWoWQ6ioyZrm9nPYfQ97pSHRrFxmvhZiH6nuvvGQhOeF4xqkC01BmHLbYavmSorzpjctUuZA4hcfkg-ELjiUMIa19DWoR0gav7HKTL3uIKaldEiAEiUpvUVs6rn3Pq3IbhBhZ2kSSyGn4Oc770coXyamrtwj8uJ4Nppphya6C1Ymzqw",
-      "photoAttribution": "Sofitel Legend Metropole Hanoi"
+      "photoAttribution": "Sofitel Legend Metropole Hanoi",
+      "tags": [
+        "Romantic",
+        "Art & Design"
+      ]
     },
     {
       "name": "Hotel Costes",
@@ -190,7 +234,11 @@
       "priceLevel": "VERY_EXPENSIVE",
       "website": "https://www.hotelcostes.com/",
       "photoRef": "places/ChIJsa_SADJu5kcRQPS1EqkYIPQ/photos/AcnlKN3d-chsk6WYj-ro824VUIogcTRakRcoY_2xq13g6B9YnPImhIzao2M3Qk2JXhoithsE2cOl2sW760UtIMYAmgU6UpcZPdwdeWlmYX3JAKofEpF7lkrn5T2y_WqaRdcqliz39_FdKG3u8Ifp9bwK0NTteOaFaAqs2U7EVJ1BN6DPi3cdlbdJnzEdWD916Y7IdpYFBMm-OSusgGgnogY_LmtgnjPnmd4cfrX6GuEwq0kai-voCW97dvhf7SLhPpOgWNM1DnAixFpzjc0MaV-yl11Y_tlzpQLOLg1lGoDs-gyaD-gFfS8p289M-jw5A-ETDNfWDvrvqNZqB8BxhxLPFFystld_6XM-VNsfS1yUdwHqMkVd-6F2wjQZ_S8HvxolZp-i3AnQOYkq0Yd7H9I6G33QQhkOCDIrF-TfuqCEGBCIqauO",
-      "photoAttribution": "Hugo Avegno"
+      "photoAttribution": "Hugo Avegno",
+      "tags": [
+        "Splurge",
+        "Art & Design"
+      ]
     },
     {
       "name": "L'Hôtel",
@@ -216,7 +264,11 @@
         "Sunday: 7:00 AM – 1:00 AM"
       ],
       "photoRef": "places/ChIJu6gMdthx5kcRY2v3BNo0WvA/photos/AcnlKN02MBOPkTWq7KbSQsJWOOmifcJuJT9MEtMePqbRBAwqiJmjHk9qHDWQC2s5g0n23wb0yq96K30lBq1mgmyzlCaZXUOyqszEW26D0Exuu-obZ4ehcX-XA0GyUWe1aVEyh7uUjxgwKR5Y1H-Ai5OnHV7oj8ANQmMoRUyLLO3-DfCnrUeicIbEtZW9obHbmM5kAS1Q8APHUiUc0OgfNsDozwyC-Ab2SdlapmbodnI5iP1SC927tLVZZPklHzvfXIiEGCgWET2dk1NI2DSMOUbQHNo4mRY_Gw5elXkFs370BC351w",
-      "photoAttribution": "L'Hôtel"
+      "photoAttribution": "L'Hôtel",
+      "tags": [
+        "Romantic",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Relais & Châteaux Hostellerie Bérard",
@@ -233,7 +285,11 @@
       "ratingCount": 673,
       "website": "http://hotel-berard.com/?utm_source=gmb",
       "photoRef": "places/ChIJN_SLZG4IyRIRxxQ3YLpTqkY/photos/AcnlKN3pI8G08BaTaG4o2FlXZWSvsNwsQDJhMH-IOiq16rpXhh_oFOreCsRJ-8ECfHJTDcUnxgAsKq8Y9lzj9k2BCy8JDTM9HHRylf1arITuw9Rj7Auyo2WvXG63fxudjIRfDtslyLxTA2huZ9gLaWqT0BNOIRvb2uT6g49z7OeLpy5KuL-Eha_vCBSvjyXVi4bhBEg84debz4gfkPqKh05jtehvUj5XlmMIILkuybz1CHuNAkKERMzAjMGJOJhMK3bgR9Uu9fvWuekbkwJ0Ir-d0apdZ7FfTgii8HyjZPekWz9Q1w",
-      "photoAttribution": "Maison Bérard"
+      "photoAttribution": "Maison Bérard",
+      "tags": [
+        "Romantic",
+        "Family Friendly"
+      ]
     },
     {
       "name": "La Bastide de Gordes",
@@ -250,7 +306,12 @@
       "ratingCount": 934,
       "website": "https://airelles.com/fr/destination/gordes-hotel?utm_source=google&utm_medium=yext",
       "photoRef": "places/ChIJ2UuLUtsNyhIRyWiV_tmXcL4/photos/AcnlKN34Wsqk5_UiMSgbyhbmFPy4cc0E47IT5psZE1ZTTkVtc6QVKM3KlwidHzXmfipy4X8NorhwzCh0-HNgjFmw5SPhTVu6bt6BNpRPHTy2ORTbqc6nQ0iXISJuqGNTLYihklJccH0yIzGvWcYtyj39Ul8X_CAECBQKsAzf8_w8hj80YXmMddlgctABrbqqY_Q2MXr81YcNp6hORD9KQUnKoYsaWUOeKH6S5bWmWtGp_ErVdeNnjzoXQAbGFePy952woqKM1yxPdQaizX6mcBBVJL4B2-nNKSLz6oosXlAG5MWm5w",
-      "photoAttribution": "Airelles Gordes, La Bastide"
+      "photoAttribution": "Airelles Gordes, La Bastide",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Château de Varennes",
@@ -276,7 +337,11 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJaS9Nco2UtRIR58ebtqeV_-E/photos/AcnlKN3KFROT24dlkqy7EkSqp3vDRIx6Sx1WDM4vRqa6yAobFB3Ugm7_q1dS2rwtpjgrwMEDFyIrbRr4km_mt3Jpg1MOy6EAqrJtN2mfFEcw179ew36A8u7wZcSPU2K0W55PYVgXl86tKtSSPhE1hiWXsvjkIgB1ms-Sl55H7i3J70qN9JcH6m3vdWBm_Bh0F5MvzKkb1PLCGgzo7b0aCyTJQ7PUZ-61gJVORRp56ttXUulm5E9fmRUIY-d11B7PHm-YE0ugvXbvjS9YVUT8EpqFn2ix00oPhwmpjAe0zeamHK3GLA",
-      "photoAttribution": "Château de Varenne"
+      "photoAttribution": "Château de Varenne",
+      "tags": [
+        "Photography Worthy",
+        "Splurge"
+      ]
     },
     {
       "name": "Mas de la Rosa",
@@ -288,7 +353,12 @@
       "longDesc": "An idyllic mas surrounded by fragrant lavender and ancient olive groves, offering spa treatments, cooking classes, and authentic Provençal hospitality.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mas%20de%20la%20Rosa&center=43.7281,4.8317",
       "placeId": "ChIJTffRCCI0oRIRGYh_G_9Ru04",
-      "address": "Mas de la Rosa, 43739 Porrera, Tarragona, Spain"
+      "address": "Mas de la Rosa, 43739 Porrera, Tarragona, Spain",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Airelles Gorges du Loup",
@@ -305,7 +375,12 @@
       "ratingCount": 934,
       "website": "https://airelles.com/fr/destination/gordes-hotel?utm_source=google&utm_medium=yext",
       "photoRef": "places/ChIJ2UuLUtsNyhIRyWiV_tmXcL4/photos/AcnlKN3hS_wQpp0KIL1pEG23YBM9_DkWTwmGB0d78izSjCLiGu3ltck-RQVR5H6rKcHkdmwuHuV3WAEvAx1SkAsYpWywk4iCDyOJGKw7yFYqx4vGmXstxaYVkQB45CDB010kt3yyDTtp0rA3CYYezSPf40s1c92sKeTk9xa73Dlzc2xLEo-d2dYtHwOU2gK5TbAbFkMTqqH_J9Q1u3XgDBzsKRcOYM8gd2fQynHqQdTuGcJRNgdhbU1kzuGirFPTlkga01IPzsCsHgEybChfyoKCuSEdK4AUYVStDU1GenlGxhB5Vw",
-      "photoAttribution": "Airelles Gordes, La Bastide"
+      "photoAttribution": "Airelles Gordes, La Bastide",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge"
+      ]
     },
     {
       "name": "Château de la Chèvre d'Or",
@@ -323,7 +398,11 @@
       "priceLevel": "VERY_EXPENSIVE",
       "website": "http://www.chevredor.com/",
       "photoRef": "places/ChIJkzb602fDzRIRnT5iz2d2u4w/photos/AcnlKN139FnBf8OztgdwWWOoXZ8J_p5U4o0tDueGmWBdOyWSRhQgoFUNSXtgakcCpNbunMEoWcgRFvhzn3lwrQ1tr4kLzAXq_9EZom7PVyYa9-kWmNV66ybMGehAd3BUmXlwjTqbhVBNpHV9u1PHJoNLkKvYfrePZBRdisHP-1CZgL-VpClt3s9D2806CUJj7Y0sk-pa7wdV0yKoLuat5V84SaG2i5dTyTDPygejoPoCaWAgJQdcLcdiGIuNqYDNN0qS0GmIR5zOLoiKc6cNIkCvfHKV-fL2rbLerkME-0VYW-d3InDGwJ9zIcnODyMGVAeQe-Apw1KcgD1OC-PKPhkrlua429AeGiRnPU_vIntKTJTanxH2CgyeJumtrpLhmU9nbMmv9WsRdGT2OOcaI9-hJUWRNGIAfvy9pRWKa65wkJ40Pg",
-      "photoAttribution": "Danny-jazzcity Ahn"
+      "photoAttribution": "Danny-jazzcity Ahn",
+      "tags": [
+        "Photography Worthy",
+        "Splurge"
+      ]
     },
     {
       "name": "Hotel Belles Rives",
@@ -341,7 +420,12 @@
       "priceLevel": "EXPENSIVE",
       "website": "http://www.bellesrives.com/",
       "photoRef": "places/ChIJ5wajFYt_zhIRbozG_FekPkA/photos/AcnlKN2LpBxQnROjJXoeVatB7DpXwqrn13TmE84GbybOIm0zJhhJgoDpl-r3E7msXBIAO_fb4WedmjlwT0qwp0-VFhrhITBt7wTXYHbGh2DS5834Nj_uemNxrkgVBJaucUb8c1IWQ_ppiRQ0kkwF7JneQtW9rGKnos61_u2NXh8h1PGzLU7NbuHTvK7Q2JZn1kAvzn_im1p8Wzecr8zkbr4rOyLTPbXw3E-My7ydTTUZZpP29u0ZeZDkFqLC-yRtPeoJsSQXyM5HtArnLEnQt3S77fpfJN0D3bUdYHIBeMmUMaN0hQ",
-      "photoAttribution": "Hôtel Belles Rives"
+      "photoAttribution": "Hôtel Belles Rives",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Art & Design"
+      ]
     },
     {
       "name": "Hotel Martinez",
@@ -358,7 +442,12 @@
       "ratingCount": 4515,
       "website": "https://www.hyatt.com/en-US/hotel/france/hotel-martinez/jcagh?src=corp_lclb_google_seo_jcagh&utm_source=google&utm_medium=organic&utm_campaign=lmr",
       "photoRef": "places/ChIJ82aVG72BzhIRKfmuyQnWQmI/photos/AcnlKN3MBSiasRiKce1ncut-Ay2joRRL0resLT6GLGs9f9dGNvSE9G5DLpBN-Ro7GfKTqfvZMotLdcXGSIbKPlfY7txYR3znos9f65ISYqGwv1XikgeTT1-jvgQJ3tK-C490e25s1u9CHp8Gd3nS3qMwj_gZa0NCz3y9n0cVqGTNrp1hCzDFkhAB210AsPrQF1tp0-ecM94EnJVOmdlHcY3DE8TG3vvk6mFrkHNqT_Jybpfa4MgrUzOpImEd5M9O9P3ewkEJCh3y6U6i1tWDDFSdAcpQVfajcJRCg4ZerGYZ_b3nMQ",
-      "photoAttribution": "Hôtel Martinez - The Unbound Collection by Hyatt"
+      "photoAttribution": "Hôtel Martinez - The Unbound Collection by Hyatt",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Art & Design"
+      ]
     },
     {
       "name": "Villa d'Este",
@@ -385,7 +474,11 @@
         "Sunday: 12:00 – 2:30 PM, 7:00 – 11:00 PM"
       ],
       "photoRef": "places/ChIJiSmhJ6HazRIR2k1HQIxE7dE/photos/AcnlKN2HSdoFHRW0KCLBWU_aPFFmsWwvbFsNJc1tJv2Wm3ECLlku_mNzR1sJdu3V3MlMHAYAm9j7zZvFVCYaO3e8eLWDwHZPYiPjlaCAPfomDXVVnbRDFroaIfOaZXLD1J4lzTjO4ooIAUctp6RN69pXFGC1b0FMfLrA71JXxHKLcnTBKQgUaj3TVsMEX1DJJ52EDyCSRl-IFqgsuKruIN8oIb-Y_MPNqepnFHgsDmevcJQTDnOGboEa69RQlBtNST_bubXgYPYWbtYTo4tErsi4ikN5sL2OaL6y094XzeIEb7T4_A",
-      "photoAttribution": "La Villa d'Este - Restaurant italien Nice"
+      "photoAttribution": "La Villa d'Este - Restaurant italien Nice",
+      "tags": [
+        "Art & Design",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Le Negresco",
@@ -402,7 +495,13 @@
       "ratingCount": 6321,
       "website": "https://www.lenegresco.com/",
       "photoRef": "places/ChIJtzA17YPRzRIR5Lu8Yh7BihA/photos/AcnlKN305NW8X931BscJYRFyRv9jD_2rdcLZYvQhe06vPQb-3HyWkcjGLmlYGROf2B3302ZPH19GGwKA1YQR-hBnpcahN4hfiJYm-lvsep9_WfgyGwTZRyswel_v_SI8p3OIBhxbp_ZOGbHsW8uGVIm01fJuzZJ3210JLJuMOsY11R5ZiIKyVUwmlN8874Fgmo7Y1mLG8HKRbNTIniLH7hKZaFGXwkqQvC5JTuyC_j3_bKPeF4pTb6Zw47OfQLTkSjwTulJxHzhERu6TgZd_7s4l2bTExdsn9oVwNEUU0H0IsDIdxA",
-      "photoAttribution": "Le Negresco"
+      "photoAttribution": "Le Negresco",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design"
+      ]
     },
     {
       "name": "Villa Marie",
@@ -419,7 +518,12 @@
       "ratingCount": 187,
       "website": "https://saint-tropez.villamarie.fr/",
       "photoRef": "places/ChIJ0wLIqOTGzhIRzIkCx4yhRlo/photos/AcnlKN2SKUrO3kLDlEkUkMN1Gdyea9RIMWVNZR6KYJTDCZF6iLThKDvPPX7f92v-rSk6iJ9mhFeZWI4u9usLTbeKD9y_yDhEiH5ebOJnGDDzche9xl21bAKOK7mA58H65jZuWgQy2sf02e9C4uTTzsMu-g8u1wI1v34dd39VBfly1Euh6wzrePGVPczNl9eWuGlGwjN-xVQnDsTCv-ZkT3g8yV_LnXDhHdXHwW1UgqLwLUpr0G77ZfU7EUkRC7gPXCe96HKctfNi_nlbte6LHCtnJ7RMWQxhWoy9Z43MFsuAeBKHmQ",
-      "photoAttribution": "Hôtel Villa Marie Saint-Tropez"
+      "photoAttribution": "Hôtel Villa Marie Saint-Tropez",
+      "tags": [
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design"
+      ]
     },
     {
       "name": "Hotel Sezz Saint-Tropez",
@@ -436,7 +540,12 @@
       "ratingCount": 231,
       "website": "https://saint-tropez.hotelsezz.com/",
       "photoRef": "places/ChIJeV_BxMzAzhIRQPyxTsQkeF8/photos/AcnlKN3jaGsyogWC-vHgJ3QqDX3dDAPC87BC-1yfecZzDo94yyxosswE_hyvnQ59Ib1hLr56zTBXmoRhMZCe7yE4Z0b9t584jy_sFdvC2ByOduXwwafbJuEQRkDgLeU0t1Q4pQmoapfc6K1ruyWH62wS5bfY9TX0NgUF7nsQz4UygD6a25tcABa3t65eczqPSvcKlw4vCTkmBDixOrKpxU0S6relnVGjJG4btTf8jXCffDXspi9Ris4INbPc6eXkWhOWWtep0UhYlIqUXDr9hrpSHLfTgSihmIhUubnxJGOyXgVtXg",
-      "photoAttribution": "Hotel Sezz Saint-tropez"
+      "photoAttribution": "Hotel Sezz Saint-tropez",
+      "tags": [
+        "Romantic",
+        "Art & Design",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Château de Valmer",
@@ -462,7 +571,11 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJZcbBT0Yz40cR25dvqSoxr9c/photos/AcnlKN30Qs0hboZfKEt2AgTAbnFchv3qOhRWzfrB5azeKvWC9Seod--wP4ImpUWxiF3tVholVzY05pPcWW-ONv6eL94aCcXgduJx5XLpxH66DS0MUlfPrdOK7z2TiI0uyEu2ZR9xreka4zzxwx-fxACyaImxrlCqmzbobEnXS25WXb7VZjUmZRiMfnciQvoV1yFqQN9RcuoSAGTsrIb21d9yO02ZzvjrXgb2BwoFpRYR23Z-5uFxYLz83xFxMZwYkI9i8Ra6ja16oQhGmzvjPjDpnSJAWRnknM4lyHgfG0dm0fN_JA",
-      "photoAttribution": "Château de Valmer - Vins et Jardins"
+      "photoAttribution": "Château de Valmer - Vins et Jardins",
+      "tags": [
+        "Romantic",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Relais & Châteaux Chateau de Jallanges",
@@ -488,7 +601,11 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJ8_zeFFPN_EcRzE0YElUIYpM/photos/AcnlKN1JIfu0QRctacvFLRI2BzbyL2eut2VhT8dSZZeE7Pe8Gb8hfdz5S79sattaf7v9yKazFzzFpc_Mu5uthsWfbbd-XF00vY0VhkHzA5H0K2O5wzQG1NTW3Mm7JpCzfKOl_jyDzPEmIVkEd50a38cVKzUVqznQkMnelDps6Zs9tnQFDPyqDKh6Dhn8_ipW8Lyg7jsT6zbgrmvXYBYwTNfVBPf_7G0mSyGuuvIEh85Yk1i5v23bkkLSmYNjLfbHqVLeynLeLEakEeNSit9BSOTnK9FPo62YvcbBi711eqllhKR0XQ",
-      "photoAttribution": "Chateau de Jallanges"
+      "photoAttribution": "Chateau de Jallanges",
+      "tags": [
+        "Romantic",
+        "Splurge"
+      ]
     },
     {
       "name": "Château de Pray",
@@ -505,7 +622,11 @@
       "ratingCount": 488,
       "website": "https://www.chateaudepray.fr/",
       "photoRef": "places/ChIJ4_XbQZfM_EcRRgEjHNPWqQs/photos/AcnlKN1fN3SbqtbyJ_6dOWpnVQ6ndP8sEsbJ8JxSl6x39rgWqQQGVEmSlD-jRbyyAg4lVYobKTbAYJvcR5oWh5chksDBwiCqBr5NoYCW_IxJLk2Ms8sUAntCibAg4lll-z1-cP9UCfGRKYC7znuzdvs00bWWFO5peK1s9rX6bUt3xr1x5A_rkSvOLix9wRVffvcggCnNLYAcLc9SCED8w3RTIP1WdFmQRfP_OnCdrC7k8pWBqsKiPbkvrdloA7e2EaaoCk-abcduoa4QZBiBoqCvntHH2FJvKIyZTpWJ915VFfPPMvj9ATAJQP6zkuzPVGy5g_yvKwXkVHRYe7qRPVYzOk5XEfWzLRzRdIgSmZw8iZUu7qpVe7l2NMpdRTGoNlGeG-eF-yCSaZvuwgE6CDpVblCJDWcgepMlaL8vmkyT_P-Nn7si",
-      "photoAttribution": "Kate"
+      "photoAttribution": "Kate",
+      "tags": [
+        "Photography Worthy",
+        "Splurge"
+      ]
     },
     {
       "name": "Le Pavillon de Nénuphar",
@@ -515,7 +636,12 @@
       ],
       "desc": "Loire riverside inn, gourmet restaurant, romantic terraces",
       "longDesc": "A charming riverside retreat with a celebrated restaurant, flowering gardens, and terraces overlooking the Loire that epitomize provincial romance.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Pavillon%20de%20N%C3%A9nuphar&center=45.5045,1.2556"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Pavillon%20de%20N%C3%A9nuphar&center=45.5045,1.2556",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Château de Montpoupon",
@@ -541,7 +667,11 @@
         "Sunday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM"
       ],
       "photoRef": "places/ChIJBdYI8dO6_EcRwMYHo65phq8/photos/AcnlKN0Oc4WcXOx4IH3iLWZq2-wQv6OeKrIyehCOiclayXamLuSOdCnJmzIYBB-VbyPIVAF7uKEX-Ry0r0_mQWDg5p8hAi99fyPoiZ7WPB4KYrrDbgv_OeSQTmSr16xdME0cui452BeS9RcitIqe1E7kNRqzBgrGjM707oIekuGrkzXX2tvY15nugEVsr2wuX73dG9sa5GdvI4Nbsz5TD30S7rSa9QA6_WPT0eiZnTNUTp_NpY5EFYQksrnEZTli0A4piiLfiSuIcfRWq6hC0eY-kRM7Ijvkxa6g6FK2sOSEM9DnNA",
-      "photoAttribution": "Château de Montpoupon"
+      "photoAttribution": "Château de Montpoupon",
+      "tags": [
+        "Photography Worthy",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Les Sources de Caudalie",
@@ -558,7 +688,11 @@
       "ratingCount": 1653,
       "website": "https://www.sources-hotels.com/bordeaux/",
       "photoRef": "places/ChIJ82kXZakhVQ0RqBJyHiJQh8g/photos/AcnlKN3YiE3vU2ZuNZ48C4QG3b0vKhsJmzhLIP80i6R1H_BNwNS_W5MPrR5Y1qHLkxpfQfnmVmE8uqssVXAa3ScWMcHsTYrM_zanP9LpofwCmIb-TYzuraJSLzX85qxdIk9Ts3XpHGb77FUWqMIbYkLQHmPlOqC3yGvtGStW9GXPsvt9DromtS66yx-G_VcqXPWvcb-OE_aLRHJIl2qZgLJ_hIyp7HB8N79wk7kpP0JVowf7vw8hgmNA8az6OAImuzP_Oxd_r721idoxQ53v0nYd0lrY8yhdpLlEebTf9UJaq-khyg",
-      "photoAttribution": "Les Sources de Caudalie"
+      "photoAttribution": "Les Sources de Caudalie",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "La Maison du Bordelais",
@@ -575,7 +709,11 @@
       "ratingCount": 17,
       "website": "http://www.lamaisonbordelaise.net/",
       "photoRef": "places/ChIJQdx3NfknVQ0R9bu7XOmpG_A/photos/AcnlKN0Z394gMZzYb1hNIxhVotIeMK876p-P-QQYSziLudik80mR4gzJwxqNk-kboqFqhVpsVooTNoaKEa4T1purIzk5DQ-qLg4I7HVkJz4_5YpCsWHFIWTV8zC9fNCE9I2O7KXVllcsVUg_rGkSNJUflyHZT3chpUwLWKRx-SXhkU43MCvu8Uy5zKonEW4FdrvkVWT2Y27WBB0oR-g_tQE3D42Xc7XgBwOiG-9uOJ06ofuuN1_HsYJVYJNuYRJsiyGpAwlNFHoFPUcQ8kSpyw3xvkmmNpk5E6WQ5db-uLFlic8Azy5G5-TCLpiJkyQvz5ErCzaawi4jPt1UAj02l6eKwjzseRGj1q_alZiOBiuH8lUhGu96ohkCHOb0MPOr5VGI9pcyapu2FYojk17qO436sMX__tOFsVnyohCIdqzVkymk5A",
-      "photoAttribution": "olivier clary"
+      "photoAttribution": "olivier clary",
+      "tags": [
+        "Romantic",
+        "Splurge"
+      ]
     },
     {
       "name": "Château Lafaurie-Peyraguey",
@@ -592,7 +730,11 @@
       "ratingCount": 183,
       "website": "http://www.chateau-lafaurie-peyraguey.com/",
       "photoRef": "places/ChIJdUNTKH8SVQ0R_wDhCKW-kPM/photos/AcnlKN30VvcAmfaVwFakk1y9Ng0vMIaKjSTzFN-qNZ3ZTZigDQGYNTsdi_3BwOrmCu47z185HhVNR6uzTNj_mNQjd5MFy8W4vSvteZVrRIf1nPwsdAZsNBZ_bI9b1pfAlF8hMGlgnu2qIIL6wUVrThiD2RRvKkHkq1YWp-zeuvN0dU3rH-Av3sehvs_TXRyb_aKPq-kV_mrjahHSqoKBvdIPTX9edPODYQjbjqklIhEK_LsAeAr3oTQbp7UPELZzj0w2ZIve-kiva6I_ACHA4-CStBmAhSTyGXLwtM7dlYFH0Z6gUw",
-      "photoAttribution": "Château Lafaurie-Peyraguey - Vignobles Silvio Denz"
+      "photoAttribution": "Château Lafaurie-Peyraguey - Vignobles Silvio Denz",
+      "tags": [
+        "Romantic",
+        "Splurge"
+      ]
     },
     {
       "name": "Maison Pic à Valence",
@@ -609,7 +751,11 @@
       "ratingCount": 1576,
       "website": "https://anne-sophie-pic.com/",
       "photoRef": "places/ChIJPW8V6jxY9UcRviWonC3leP8/photos/AcnlKN0QSl0bcwHiqIYY8s9B2OjQrbbs5-y_m3atMWDpZgGi8_Kxa-mz_ZLIaz4W7y3c0_0vMSyzmbDYlLPyrT56QSDKL5xOA9JrO_yzlkqS1WM2GQp8s8dlbWkoWJvvGad8EQ1FSkhrtalnYooMr7RGprbBRJXR6TgHYTn5vwv57g-giyMtkUdkCTUdFeUKWVC6dCM5FtunNO3_1VKLwOUh8m56Hctik3txMAE0rrxxzuKqD-N6BQjoNvp2GcstdK9I8bGWe7HchbR1zNmLeGdtA4stQMD__YBhrusojco5wR0ry3JPPKvOdeYLg68wVWW6hA5N09d7xJF6GAFhDzIafc_81QSjf3oFlNVJACxEuMNfoNl2n7ZNVhS8AWCxHmW5JG8gwPJU8TdMnuYW_fdWpiurFFcxk-OjAUBN6ogH0-qddSAX",
-      "photoAttribution": "Mathieu Libs"
+      "photoAttribution": "Mathieu Libs",
+      "tags": [
+        "Romantic",
+        "Splurge"
+      ]
     },
     {
       "name": "Hotel Beau Rivage at Lyon",
@@ -626,7 +772,13 @@
       "ratingCount": 792,
       "website": "http://www.hotel-beaurivage.com/",
       "photoRef": "places/ChIJI-bfqfMe9UcRKRPArMcPBmc/photos/AcnlKN2rq96H9cVW8DpHBuNvwEuEHA7kjeM_MQwwq5Pn8rOXVaOt5ZRzgurBy8ZlevPYMPD9DtvWWTGIWcKQVcrNW-H_AKTppjL9pLdkHBJJvXI3bup9-ujANELEI1Vw0rc1dCRn1qIDRnMbDluez_YDNRJzlztcAsYPYwjgCv3d007aY0x8Eqja0_LitnvPpFjOMPqTaexfw4QysvVdaD5xTtzMP0TNlsjT3Qqt-5yYknFsgBfu_BcZvNlZ2NEF6lBIMEg4N6TIdLDRKi7sDILqenGBFftb6TvNb1mRqDh2hCL7Mw",
-      "photoAttribution": "Hôtel Beau Rivage"
+      "photoAttribution": "Hôtel Beau Rivage",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design"
+      ]
     },
     {
       "name": "Collégiale Hotel",
@@ -643,7 +795,11 @@
       "ratingCount": 28,
       "website": "https://www.collegiale-beauval.com/",
       "photoRef": "places/ChIJWQ5AIspZ-0cRcpNpC7H5Jtw/photos/AcnlKN3YBwPTyGMAVOkLlH7Gzt24lg183N0W-8fX8PtLU3yUq1ayDmKDFTdmEVDk9pcUQdmGsOndsdfTH9XaZc49NlX4PzawqS9NPI4n78JQi6P2dTwOR6Gau6vn-_Wy4s37PKgu24ZEPW6bAtwYKqT-xzySru8ZSWCjypZcRNGozb1_yMVQXdpBX18zWmxb6KByiMVvYqRtVcWY7eVK0E1aWWPfg8HGwDnNbSxbxu_o7hiV4KkZZMV97-Ar9QCNrmUoZklWJ9SaVF6W9GxmLB1A_6rKW2zmnHFhAJ92jrydwDMpYq_GFDVGMtfUa2OP-vCqfVTQW4IWTiwQ5NRlPEzr2zV8nKeX4uJxeeY9Eod4SYE_dXthZEY83XxnyyM0nsLMz_4M8yYnNGKihxjgsNuKD7frNg19ro9H1gJ9vP-x1V_PLA",
-      "photoAttribution": "Paola Nacios"
+      "photoAttribution": "Paola Nacios",
+      "tags": [
+        "Romantic",
+        "Art & Design"
+      ]
     },
     {
       "name": "Villa Florentine",
@@ -669,7 +825,12 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJw22Raarr9EcR-k8_EwTNO54/photos/AcnlKN03rNIzCbZ-rOTBdGvY4zmxgz0Cp0xMKgXmmiDMBWY2Bv93UhX6n_g3YHDWgpRpgbY5GRV6Gqm0cWkxLznU7lHg0LwwpBs8SCjTha7DqwEL5dJIzhczQRFXaoW0Eq8Nz_GhjXKsh1SJs1-pwB4j2UnDgZjX2Alm5WePDYJ2RLeYGeVa1zpntxQJOhtI9E91mCbF6B3tAWxYgE8ff3hKM9mjZ248lZNyeZLHiRVn77hd_yfzPuUHCvKtvMo-zl43e37GRN3VVjPA7lvUJQVwRiNw_FknA47OEs8uu9xci_dzKQ",
-      "photoAttribution": "Villa Florentine"
+      "photoAttribution": "Villa Florentine",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge"
+      ]
     },
     {
       "name": "Le Cour des Loges",
@@ -687,7 +848,13 @@
       "priceLevel": "EXPENSIVE",
       "website": "https://www.radissonhotels.com/en-us/hotels/radisson-collection-cour-des-loges-lyon?cid=a:se+b:gmb+c:emea+i:local+e:rco+d:ukirwe+h:FRLYSLCL",
       "photoRef": "places/ChIJd-T3karr9EcRGhZeMiQ6NQQ/photos/AcnlKN24Rc-X23Sso1_wF4GLPiYBNSKc9f7Xitj2ndRa4wpqJ5SKTl5driNFMhYc5v3p_cstO6XGOhXInChfwo44SBMzFmmF3gm9lnsVa_7LLnGZny9I1bSV78YjB4ibapsRnDHIV6X8oXaI7dx_xtaUsFH8qs0By48Y30PoDb2K02FVX5ieFk6CLW96kM8x9NBJ1dhWOL-i7Z6tYfpC6sGoVEZKBVk-eN1qpCR7rflHl2sjI_gBefOJu03XbysKF7-Jro6nSaqP8sUkDZgwQJIzKmsY5n6aWSsNxz1A8bZpPCP5aQ",
-      "photoAttribution": "Cour des Loges Lyon, A Radisson Collection Hotel"
+      "photoAttribution": "Cour des Loges Lyon, A Radisson Collection Hotel",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Paul Bocuse House - L'Ouest",
@@ -714,7 +881,11 @@
         "Sunday: 12:00 – 2:30 PM, 7:00 – 10:00 PM"
       ],
       "photoRef": "places/ChIJobz6vT_r9EcRlXEekFf7Nr4/photos/AcnlKN2aVduNk2rh7ez5L-2AYrGKotXWT68b95dCQA59j-CERkfpvsAHABAuvCmVHtf3dGtRT0juVrKZ_S0NyGhmGsNc48Svr0_imr4N2uZClTTxPx_PDA-TGIK7oYwum_16sVhcTILkzd00Ixya5_TXWjHMlN8l-WrxpWlKqszC6qwTMQAuCgNKOxMg7y9WfbRD3QZto-fCD8F4CxeybGo4d26mUVOeP195FOi6T4SHT_5gBt_ETR-gPGUQwbeUUf6ddJmK-LPitjyPkkPZFPSMGTeWSOy4gef_FIFRNxFfbYQlIA",
-      "photoAttribution": "Brasserie L'Ouest - Bocuse"
+      "photoAttribution": "Brasserie L'Ouest - Bocuse",
+      "tags": [
+        "Romantic",
+        "Splurge"
+      ]
     },
     {
       "name": "Auberge du Jeu de Paume",
@@ -740,7 +911,12 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJ0d0E2RhI5kcR3JRPXOwr838/photos/AcnlKN1GySTuE-o4DCZGv0O3bgqZ2QTLtqRFvL7JZAqHyta-hTy25DvAbl_SwQjLCWhbi62iZ3fM6GHAeQWiplK0N01Ci7NYAEfFLaa7paCXgy0QPd-IFpsoDgkiUs63zJTr0tYEZtkuEiux1trSsE96QD1hhQlO-_kJzdYhWbnXOuv-zn2fZx9CIxWVNh50eTOqLMQHpeFQo9X91t1QxAmfnjpmNk9qgSZS85GeXT1WJpssCHa35Nn5VSCLZNjKV7LBi-1Tj3NfKWHEjzFMVkTiQmiuJI2KSuZSlKg_T-Ll4ueGIw",
-      "photoAttribution": "Auberge du Jeu de Paume"
+      "photoAttribution": "Auberge du Jeu de Paume",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge"
+      ]
     },
     {
       "name": "Relais & Châteaux Château du Domaine des Hautes Glaces",
@@ -766,7 +942,11 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJLVJqxpgqyxIRnduD-FEUo7o/photos/AcnlKN1UBTjK9dRDtV4r-H_FNwlD5p4luHoOlsID32ZoesYECWWxAr1zTfuyQ_kYUp06XqJQPKPj7HvZzfLDqBi7FSD8riU15WPzFZH-J3s6oCinSUNcMOtD4_U1ETtzqhKZfHFesKlZb_Z2GRqQPXAvDYfhjdjQaes78dhbruF51ebsrsjNiwSfIgTuviPKnzHGnJFtnV7x-X_HbkuIGuGULFa1Jy5JcYSFGnVhz4fNxMny1aNsPwZkB-Cyr0jem_BNmqraToje2v_gu1tV62bkdTv9LN7P_ps4E7HhkH3NAIdyeQ",
-      "photoAttribution": "Hautes Glaces"
+      "photoAttribution": "Hautes Glaces",
+      "tags": [
+        "Romantic",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Six Senses Crans-Montana",
@@ -783,7 +963,11 @@
       "ratingCount": 256,
       "website": "https://www.sixsenses.com/en/hotels-resorts/europe/switzerland/crans-montana/",
       "photoRef": "places/ChIJC9O74DPgjkcRcLtQ49ZNwUI/photos/AcnlKN0sR2ek5NH3w8B-4uYi1s0dTsxaTjF-LYUIOfrOsRrthaqGPOkopdEu1L9djRWBl1s7-mH7Z5lsJiC6WboSsdPwUKh6SABqCzE7GW1l5mqYQjupgrsMMCs7_rcv7yhHIfwBk__toq80sOz0i-A6J7fgGmHkFRNB-Mz4AP3RPdGDvNaG1i3LAjB5unobZKjLXgKj9nffjmdIHAz64GjzmHEBX5xnzEBTkuIOsRM33yN8vQlbLkrjC2lTj4AlV9ot2NBscZ3dy1n2Myy_9JvkSw2Fte2YCttI0qu5gVKLRvVk6JQsgf_xcgJrzZI7fZY6AWi6Ka-OzTpzvvo9pay1qptD1vdBJol7sX4Tqir6KWqgebLIPN3CfBbMv_zJ6ZOphn1ud7FgPDyMYGH6WP4wpBkuvoXZO570SEMb5xBEFppRxcp0",
-      "photoAttribution": "Patrice Simon.-V."
+      "photoAttribution": "Patrice Simon.-V.",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "The Chedi Andermatt",
@@ -809,7 +993,12 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJA3rwat1xhUcRKZxeGFYI5Ek/photos/AcnlKN1tgocpTGE71M4-tHtyMkrxq7Z0tSKav_0FVuaA3GyLbE4BxGHFfPp-qSalzh0VrRvR911g-FwfwCm-YYCTlXiEbWvOwIVSQi5QcrMZpJ8g31Sj0ZDLcCrEM-NgUSfrC4YrcRr9AgZnZhymqCXYwDHp3h7ndDU_1B8garyFA3KfVC5_wFI3L8dA28_YL65lkRLSse9Gag02piWTQHGIMgqnlNCIK_Ez-_R4hqt7bYEP-CuIKVoZOgeVxI_wGB0rdS9V4FQl30HJrrv6Hg-unRfC1Iuen0lZjcq-gG8wPzTPYw",
-      "photoAttribution": "The Chedi Andermatt"
+      "photoAttribution": "The Chedi Andermatt",
+      "tags": [
+        "Splurge",
+        "Art & Design",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Monégasque Monte Carlo",
@@ -823,7 +1012,12 @@
       "placeId": "ChIJza3f3ofCzRIRbGhb2W4pFe4",
       "address": "Monte Carlo, 98000 Monaco",
       "photoRef": "places/ChIJza3f3ofCzRIRbGhb2W4pFe4/photos/AcnlKN0-Q88l9apLCn-kY46HwvEqt_ZrMRvkdQsvDh5B9V2AL-EOpNgymFqTAq6tT57NOZwu2ZDF5DTV0vlm82i66wthk8yzIJiVva9zB0mwb1s_yDPzEJYC1WlYiU-Tfgwo-ap63PomPvW6i7_EBUHQ4JI0Ni6di_rIr70p2LAZNuoZur2NfYqESdwYwvbFldxaWCLomszzhvIwszvmoYunV-VhgAkr3_1UmyKLm0G4mEyn3DG9lmoUADlNR-ScBp0-DroqUxV6csIQvoh07aBs4-6nSIKdf5b4MoGUpB_EcSnbQxqr5KCCRAHu85koCdUTSMSa4nnZt6jOVnELm53UfKJjvLXXavznOchptNAbkCnV1JB2mvxTyG-qT-blWM2wxqHaAQtDRE_dhFIrSb4L7r0IWT3emKy3oDRP9ujZmy0",
-      "photoAttribution": "Aneela Jameel"
+      "photoAttribution": "Aneela Jameel",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Art & Design"
+      ]
     },
     {
       "name": "Hôtel de Paris",
@@ -840,7 +1034,13 @@
       "ratingCount": 2116,
       "website": "https://www.montecarlosbm.com/fr/hotel-monaco/hotel-paris-monte-carlo",
       "photoRef": "places/ChIJFY1s1ofCzRIRtwOFQihi098/photos/AcnlKN2yqo-x0QMmoLG-GgbfQCd-wF_iUr-1nFaZzUA7KIrVXgDoUvs0hf0RhQs6VT5hKgsI03VMUUEbEnMctazytVCJB62Eu4IWl8ZtrxI9XwsWoX4ZWFYljp39INDu4yJUBzLRpt8zXNgd-HOfhxZpanc5qa9AbNs5FOhdy8d5v47OSnnJcw8R-2r5oX9DKCz4qoMKBhp7CEoJ9ybIFRlLRyPJJFLceBJstjzgHOdziN3-pTuv3cYNOzOarK4Y6WSldCb7aLlfOq-wEvFIMDmD4Yq02jv3_HlCUzpiHdLj0AKFpA",
-      "photoAttribution": "Hôtel de Paris Monte-Carlo"
+      "photoAttribution": "Hôtel de Paris Monte-Carlo",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design"
+      ]
     },
     {
       "name": "Hotel Bürgenstock",
@@ -857,7 +1057,13 @@
       "ratingCount": 4552,
       "website": "https://burgenstockresort.com/en?utm_source=google.com&utm_medium=referral&utm_campaign=gmb",
       "photoRef": "places/ChIJOdaL69H5j0cRaFE99l6D5lw/photos/AcnlKN3RxjlirSiLCS7f1h1RHI2kHhMH2s5pWqZdTaRLMfk1t2_IyeuFF377TtLSEYFOiNULT_SXH5DHBHdOz9-bef45GuwaJ3U2gViarFENO7ieaD-s05FN3PSr8EbUpxVP9AOHCXdF0TIxVGb6M_7FYnU8aLKaWHn3NUqQNFnYApZZvGRSDgFmORrvD1-86AD0hlbbZRS1ctfxOYEMITl5o9ZkmAxvIJfAFixkJF8t3dR2HtGjyKZFKGu7w_HibueC96IHCy5Nk2N1a9FHfLAqa7u8--tcmougo9gopBB1_Tcc5w",
-      "photoAttribution": "Bürgenstock Resort Lake Lucerne"
+      "photoAttribution": "Bürgenstock Resort Lake Lucerne",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Métropole Hotel Monte-Carlo",
@@ -883,7 +1089,12 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJXegNVX3CzRIRrR3oUcS2iCU/photos/AcnlKN2rfUgGaEt8GnIT-nHibn5N4ckTrawpXeH6yj_ZVa7VvcxqNK7qd3okKxQjxHJd-sk7rJQVR6hZ6QbxliZbH8u95U0Y-3AFEdO2SBc4Rse1sO4YReksYb7oZ-y2StM_igzIaotUF0y4RnJeBHiUIezyP-VQ_gOzhU9FoLPrWiK4qKcdYWihh3xnSQUYQWZurBLiRW9b62KwoLq2FBCAXJq5xlwWow7PBUZ5sjw5a4IM98HN8asJrqx6fwGQ4yXmLwBsACeJEcfbBn8I_iU_gV-dhs3TdGr81_BaazCR8YZkDA",
-      "photoAttribution": "Hôtel Métropole Monte-Carlo"
+      "photoAttribution": "Hôtel Métropole Monte-Carlo",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Art & Design"
+      ]
     },
     {
       "name": "Fairmont Grand Hotel Zermatt",
@@ -900,7 +1111,13 @@
       "ratingCount": 573,
       "website": "https://www.zermatterhof.ch/",
       "photoRef": "places/ChIJqVJbiYU1j0cRFugExITNSzc/photos/AcnlKN2kOt4YDiSX2ohQGkKUPtIA-WwDl4oVtI7Bbnbmt_PWgZ8xn4BCjMDer0t_1H8ayaUMaC_grvg8HNAZDd4I30pz_ghGTF_JZl3n7TY3ThPO9PHlYUkWUMBScenh4TKlD8e5rNxGMP9APHt8k4kUZlGX8rc6NeThwYK7_GF9Q2IX620iaIqZBJUushlP_13xRTed3v43s4DPVwZvD6gE2uLbvOfaFen1tvEOiAT9KuR4DyT9F1LuuttSddL7PuROoKbP0ORkLSTEBJTdezdIVvZ0MfBZaRtNjmU0M9xxTetabQ",
-      "photoAttribution": "Grand Hotel Zermatterhof"
+      "photoAttribution": "Grand Hotel Zermatterhof",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Relais & Châteaux Château de la Treyne",
@@ -917,7 +1134,11 @@
       "ratingCount": 655,
       "website": "http://www.chateaudelatreyne.com/?utm_source=google&utm_medium=organic&utm_campaign=fiche",
       "photoRef": "places/ChIJvdk0HmzbqBIRlII340anKoA/photos/AcnlKN0OW0wK34TxnizM3tEEXuq3BH64ImVbAMJtkBh-MEMLFg74tYkP6G6h7SGOY9hePuD9DceuZ0nGPh0F39tKf3Xghg8Yqy4HXQ11hHDXp4iBFyhE9-DD4mFT-rp9fpPCaLmFoE4YbtBNgeTpwjhtgiiFq0Gico3tOxSlu8UcFgNxsk2ewi0l2tf7-wV6--od_S30_orT1SIDM-UNRIt3u9E9b6nodNQS11pgIgxjl8HI_ZzWiIRjW5iVxKPywvqmLMpq53y603vKVqCwK47vZu5W4nSTRc69YvoeVayLqgib6w",
-      "photoAttribution": "Château de la Treyne"
+      "photoAttribution": "Château de la Treyne",
+      "tags": [
+        "Romantic",
+        "Splurge"
+      ]
     },
     {
       "name": "Les Eyzies - Abri du Perigord Noir",
@@ -934,7 +1155,11 @@
       "ratingCount": 2,
       "website": "https://www.sites-les-eyzies.fr/",
       "photoRef": "places/ChIJDY5FhR5NqxIRQTDacTuj7Yo/photos/AcnlKN2g04EQGBqZk3_D5q_tlT5H8wEH5xKxvpt9bJcU6soU19U0Bv5FKq_PrecCVHrlSxzL6Ucmy67Z0ZOaZ-gLFvlEkNI4G25FEEWhdNaozmP9v44Y4lKODuZf1frPTsssO9Z6tHuAypYBDTttudK5v6oqugwKFkDjLNslDMGYwKr2wRo52h0f72tCy-2Y6TXLL2fluADR7MEDTWSLbB4vgrdPkS_1kAPmQUlFSDpfGPPbeLBRurFgeYcEh7qOZoGPFIvoaqnHQ71JQTt5tHwifv39rbsXioZawTAKv4iDZWzsSg",
-      "photoAttribution": "Abri du Poisson"
+      "photoAttribution": "Abri du Poisson",
+      "tags": [
+        "Romantic",
+        "Art & Design"
+      ]
     }
   ],
   "restaurants": [
@@ -963,7 +1188,15 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJK-TZ1v9x5kcRvQoSvNJ21Vo/photos/AcnlKN1lYFA4G40AvJjmK4KgbsAm3SVn1DIsmyAW9gRjxSbdvh6yHOdDulA_9Cpvlf8mcRAJpDe-UoL2YySywJpGrSchhylLeOdGVrVJVQDERZd0JYOc7OTQRWotIh3vJDx3ep3NMhZ_q_HiqWrVIEoWd49da0eXrC99yjOzo4WMwMsIndfVWbmbdgi1IjUTW_C3t5FdXVck7ViMs1cmk6iPnnA99foiy0oaxx4NlJm5kNb9tGoOewgqMTJ8-v-VevVW_Gc_FIDta_kbJOmwKpSmda1xNqfPZr801Dnq6y8uMs0FwQ",
-      "photoAttribution": "L'Ambroisie"
+      "photoAttribution": "L'Ambroisie",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Fine Dining",
+        "Casual Eats"
+      ]
     },
     {
       "name": "Arpège",
@@ -990,7 +1223,12 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJQ-oAFypw5kcR2T9NszPcZO4/photos/AcnlKN0XLLwoJkpK8-fUHGm5NhBuvHTUYTgCPG2Laif8BU_x6wd3lDuHxaVbXC3b2_ylA6SsP3HNLkrgEvDT1-birtbUtuoj7SXU2JySvxoQBsJfMWwk-EC9tWiK7l8C9txbPD_3WgXPOtEGa-hzKd8OFCZFIxKgO7DNzOcv7DpCEjqQg7M6B-1EIPru-vw414Iqml35MtqyBE6mzYjuij88q260iPxGHkX--L3aNY2xVY5xWW4Adjot_NII-_-U9fDjNZ4Z4CWdjBJngr5UwV33qIJAenaVv6Xxmyx-XljImpY",
-      "photoAttribution": "Arpège"
+      "photoAttribution": "Arpège",
+      "tags": [
+        "Splurge",
+        "Good for Dinner",
+        "Fine Dining"
+      ]
     },
     {
       "name": "Guy Savoy",
@@ -1017,7 +1255,13 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJ64SRn-xv5kcRH7AlSsBFASQ/photos/AcnlKN3fZ3p6c6h3vDiNwSRkD5HM1uyQd5_3EJYzciPjv9MkRfND-dIGuqdbvjU2w8YMlmVc8ME8rlPLtbn2NTlTf_FdHhlYiGEA3fkH0Uehm8szUHVyG6SP8hXQJwxfP5OmTVPFXjNsfS8M8iYE5zcuIGBU4bXY4GNrZkG7BbG7rRkTCSKe4JfVWY3RSFiQdHfQdwwlzuhNihQsX7CTkrDe-T4-Erk9w_7-p9HODXdsiUgzqdYCd6IhmaHrxYntCUN0Wby_wUAu7rSUYXBRzdDA3a6G3FyGw6J0eL_IWSVYILXmug",
-      "photoAttribution": "Restaurant Guy Savoy"
+      "photoAttribution": "Restaurant Guy Savoy",
+      "tags": [
+        "Splurge",
+        "Good for Dinner",
+        "Fine Dining",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Pierre Gagnaire",
@@ -1044,7 +1288,13 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJn82-Depv5kcRbitLK3lP0Bg/photos/AcnlKN3Pu7-_uxkVXltcoONOKDHC2ShZJalRiG7iuiCsmJ62Z_mMCrW4szXI1klYE2Xl1FUt_PD4ulEmksCrHjoWago3D5pjikEWpdc1S68aEyVdOAnfwlwTw9qKmHTNTceAdWDucRrLdsqaPvFPxzeNI1wzajuThiEgZYxFu8qZd4SjLheBoN2szz3dxycxxpVUk1hx7GzCTgEKESJPLkoWyRmffLzsa7n9f3Wt1L5nB1d0gIODJDcDOEcWlriDuo-DDNKaDyuDfwlBypEtiKg0MaJnDSA6VEjnVOCjOT4HeAkjAc8bhmgAfjzWcyBulOt8U0rB-KlXo540uiNLnegaboBAIdKH364_MAL5DCEDk7Z_YCFEev6FzAiKvPouEJVGDemps5ceILJrH6wcIBxWkY5OCNmvxI-pHOpwPo8UMv8",
-      "photoAttribution": "Abdullah"
+      "photoAttribution": "Abdullah",
+      "tags": [
+        "Splurge",
+        "Good for Dinner",
+        "Fine Dining",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Paul Bocuse",
@@ -1071,7 +1321,13 @@
         "Sunday: 12:00 – 1:30 PM, 8:00 – 9:30 PM"
       ],
       "photoRef": "places/ChIJ_ZtSoCSV9EcRwSyhmyggeeQ/photos/AcnlKN0cyBYf14TLuPrX_SfU1-LkYcp2N6eSAm4lGLDqX8XWQXYA4MR3WJwKJUkuXW_T8pL1V-ZxERy0jkRj8Fud_A3vHW4stlxjpT6VVXhNDMypKHfSquzehRxseB-NicirjYRNpkNU3XFMFFGl5YZG9Zu7nav7RiTzd83f3uEW1EDyYixgzpCdQ4_Ek2iyK1SEEgHau1AGb2zz5IzKYuo3r_m0LhB7p2vR162t1sBotL51O0L18n2AdLH8RbOcaW1_4AKh5z4scin6YS3AaN6U6nwoTdSRwzNTCK5fahM3uMDbiQ",
-      "photoAttribution": "Restaurant Paul Bocuse"
+      "photoAttribution": "Restaurant Paul Bocuse",
+      "tags": [
+        "Splurge",
+        "Good for Dinner",
+        "Fine Dining",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Maison Pic",
@@ -1088,7 +1344,12 @@
       "ratingCount": 1576,
       "website": "https://anne-sophie-pic.com/",
       "photoRef": "places/ChIJPW8V6jxY9UcRviWonC3leP8/photos/AcnlKN08T31ZnhXFbdfulNw3gUTXdOKeo1WA2bKuZrTMps4IyfGTUrn5yWONPsDHKul0fm1ShHd6tvayh-ba2BeQS9X6dzFYGQTvC5pjRhZXWcGjuc5bVApTsoBQ9RSEszo4Nlpnos6cxwdkGICO3TqcX0B9eeqnj7ozejoIMI58FIIqLgif9SDZskTZgFsryHQwxUF3OCLDtu3mzppF_8mfMZHyVmk2aAQ38WwPxRn5MbxjrmBlvs9vVrmG2U4W3J_h4f1qi8poW4-A7RVDonWgNF4mn8TqLLn3dHGQQv8lFt7YSQP5utH0FyX4Ye7BxJ8CVBJa3pWTJhXcK90zB3gyAXmixReF5cBg2hfr0MZvh57Shfo7GlL5_MBI6ZqUg_dzP4xRIJexmpnemuWb-RvmxR2oZXAIkg96aWuL81mngypji8XZ",
-      "photoAttribution": "Mathieu Libs"
+      "photoAttribution": "Mathieu Libs",
+      "tags": [
+        "Splurge",
+        "Good for Dinner",
+        "Fine Dining"
+      ]
     },
     {
       "name": "Le Bernardin-style Seafood",
@@ -1115,7 +1376,15 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJV7QQ6kdZwokRax4615zpSGU/photos/AcnlKN1SzD0xLATuXj5K_sHTLWL1_BIm_6no9GEW60vFDkRjepCjOhtqtRu9lmkNMv_42mhocfd5Uj2cSDPerV37pbaEopqJDVRUbGiT8LS56A77-YQvWGqogZbC3MDPzUsMLzl2UZZRkLbHrdHm9cBd0evqxVyRl_6SSsedG9zcjh-fdASPylc4lMdPGaNLMVX4y07dDWf1gWRG_vd-301rga4FSfmp6o6OjaUqfDtQVBjbm-s1BtZwj7erTPH4-Gi3MbwGk1Q1hCttn1x9CXtzoN8yWUNNTvTw5jBVuBC_hdVOrw",
-      "photoAttribution": "Le Bernardin"
+      "photoAttribution": "Le Bernardin",
+      "tags": [
+        "Splurge",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Fine Dining",
+        "Casual Eats",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Septime",
@@ -1142,7 +1411,15 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJE6kCUghy5kcRmWSg3RUHIwM/photos/AcnlKN201NCbrSxRmalagPe3EGaR71FagyZ-N94gaMilmZpfJ2Mnkab10-zP0i5hHK77RWm2Bk21zmYcq-PqBiKsHElPzRm4ZZH_BIvrpWC2I1Qy33U9_gTtWVJDilxx5CWhDdBqy0iL9CpgtOJ0mevble3CektnZZ1lZe68DZsC2SCWVjjUTeA82qtOpVcbI-1bvs18uvmXxBSw6A6m7SESK7M49UDBZ2fYtrWa5qgeCbAUixC3A7XwHPMqscSde4gMm_xlAOF_AxBbIHV4jX1pMilw5ql1KN4nSISwA5uY2pmDo5NIkyyJlyr-jSFCdfgnsdnoW-fvRDQCiNvR8elpPI5JY_Dw3OmwNsmfJCiAWFpBMGHGyaI677k6j1gx2xeyWsIAGSQkOPLAvjCa4fg-o1R4XbktYxyhc26-lM7i9FI",
-      "photoAttribution": "Lin Li"
+      "photoAttribution": "Lin Li",
+      "tags": [
+        "Splurge",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Fine Dining",
+        "Casual Eats",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Abri",
@@ -1169,7 +1446,13 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJl2szvj9u5kcRztUQCxoG-Ew/photos/AcnlKN2liZUc7iacgPCqx0t2sUl1nijrLo1meBHVASfAnAkpPU-38MVzjIETjgXiege3vDVe5uWhnBlPNZvWD6fl4RY8dAT9jy82eJ11YMum3l0Q0wEnG8WsWPgvRT1vpZYLbm0Oju7K8T6KqJgHpY-Y1bTFOgXtXxPmObmTtJwnpkpmLZi7thfGwdKENMQEItHZGsb988GvF6rFKrtIgZuJpAcPvCQ7j9lCNh951Qu58at60DCqKq06tMH3PepE_6xIYbEGa4hEy-mnxDdmh31frgYy1YpJdvN6oiP6oyTX2GW_OaYiWMkkHuF1_K2pM7ezPNQMzc1dV1YkiVrfv545YM3JhAJ6QU2XoIPfJf1nSLufxS7wod63RfO3xjPq-PhAJD0jTEVQIhTSBIjqJfx8gP_zjFIEvZBLoZloSMiiVmXYVw",
-      "photoAttribution": "Tien-Jen Hsieh (T.J.)"
+      "photoAttribution": "Tien-Jen Hsieh (T.J.)",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Good for Dinner",
+        "Fine Dining"
+      ]
     },
     {
       "name": "L'Ardoise",
@@ -1196,7 +1479,13 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJH0K4jC1u5kcRCenOd61qxwo/photos/AcnlKN1UH6VbU2IS0zeJUkYK-MV_uh3VvqvDI6uPw5aRLv0TPrxbYEJbTFQTELmQhTxvQL36UfRvHSm0p3AUeAz0hJpbH9pdi0QRcVPAYAPpc5XFSHDC5bMyMz2PLOqjw3UcdqteuggjGidxaq7kT3QSGvDA2lZ7FTim-Z2LURnfqRjUk1PllPmpvUqv185UfFkFOSdf1er5juPw3whFUP65xM-um3Wo63nEw6OGBfr8oYD1zFVVfvK0TOt0gIibPJYY6cuH3C6k3TK_VdOreKU0MXmztDD4U1yTi2mDEigEuDnssFqatMG8tx9r4PtCEBvLoVvEyKQb8kyKbIFx_QIJTNuyM7C-T0cJhiCUb-MdhFI5r2ErVCLUG9y7y5RG5eGYZdG88d6p7evOxt_Myj74GaFOS2w5vsKVzmhMKqbVUz3jbzJ1",
-      "photoAttribution": "Jay Finesilver"
+      "photoAttribution": "Jay Finesilver",
+      "tags": [
+        "Good for Lunch",
+        "Fine Dining",
+        "Casual Eats",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Quinsou",
@@ -1223,7 +1512,14 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJh1sXFdJx5kcRPk-FmWcYRfU/photos/AcnlKN2IOwKsqsH3LNGlxY9joNvybl9h6NNEaDa8TUYHYks-1eEXrBjdoQZGG8zTNZhMU4Bjp7x_ZMgsvPwjz3I-DedetdS3d7tL3t3OemBO-kcBFkVCAydEhQmSoIV_u5FHJdd27MWw5LRZnDjbNH8qC0n5xihM9Q44ANEOYmmWHLbKm9o2FbEg8qi9Mno45sRvFnxkv9tl-aLyGRl-vst2M38voKlBzNIhsvlHl5oa-KD0otkon46rU23GCjTBf7IfcG2FbDukW3E4wrvsIiM-SnX9KiegQHK9tqOpvCWVghFKiQ",
-      "photoAttribution": "Quinsou"
+      "photoAttribution": "Quinsou",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Good for Dinner",
+        "Fine Dining",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Restaurant David Toutain",
@@ -1250,7 +1546,14 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJEfipg79v5kcRpfj267gqR0k/photos/AcnlKN0aMFdJmZqowg4OLoWUQmyuc8XwI_mPwkzHCd8avgWLUfA9NU1qHs9RN3qIJt9VbpXCrRuTtVzbWnFpSsZ-7MTDrAQd07fgqUUEcudmpAbxnwScAQcJdxMQx7JMgq9tW-03nhnaJkGWeNs1EbF0bDrymgxJd9EYR4kHn1Viz3G-vwKYOKPBTyY55qvCaVYEuhh7jxrOx7WLkB5JF6RRP0moNvnazweSLf_st6Vs6mbtATuIwknWyEME0IWTvgl1Q3AyBraRjS-wFkZe59l9vuzu4_3Vg64jL4oPNe09L7f7Ag",
-      "photoAttribution": "Restaurant David Toutain"
+      "photoAttribution": "Restaurant David Toutain",
+      "tags": [
+        "Photography Worthy",
+        "Splurge",
+        "Good for Dinner",
+        "Fine Dining",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "NHOME",
@@ -1276,7 +1579,14 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJxcBu_PVv5kcRHZkD-hm_UEE/photos/AcnlKN2cGxx3Z95sl3NwNWGr_c9OmXtuUtteaH6KPghSnyCcRcYAcMCapIsmAvQOD9hV9Wq0PqKFBLxQaMj2j0LFT5oEpUaiN_2RC7qnYPk24i2kCpjG6iC4qDFWVaDRW94CqAVqrBRz2whU7tLmzwNUcKlzSFStpYYiX3e3lTBQmwzJdTH-cGHETgD3h_GSBzY7BpUK51RNq_G-l8KZMtcrSNhtmS3_aafdILqWTk3SNnglccm6d-WdHuRUS5a7wT-sTOfXg-0QvnkWHSA64fzO9RnLMlzTY1UH00xEIyKjYXLhQQ",
-      "photoAttribution": "NHOME"
+      "photoAttribution": "NHOME",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Good for Dinner",
+        "Fine Dining",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Restaurant ES",
@@ -1302,7 +1612,14 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJ3dS2pSpw5kcR_W2ALSc4OWA/photos/AcnlKN0jimW3cU_vRhFE_KvXWnzJm1o4-shnrYiuFlWZ-pKutakJwz41wY4BZift-ovKUriywAxky-VdQV-XNt89BbvAtyAcCGy6en0Du942QbHQIejSmyoCrmtrEQvyN1JVqVoiBM1mYHgfAjZE1hT_p4KKHWdxZ2I0l5vp43n9pE-ETrgPsKAizIWLtorfIhjOj2ZdwjjO9hU-nPAMES8E9CS4WQeVdVFNKSvfLTXFCE-fBwuDF6yAI4btM8oA6lvubN_aOA49iHEHgBRsQllQgQNMIONAWkvJqq4PVrGjb3USRw87ZMbeufkvXK9gqXilbG87535jbdha2_EUaZTmTmINtCE5GjYIsxGt9a5HG2nnso_WcI6Jap8-YZmk0mRx6MRanLqpGd2Kjaju9Uisn12lx4E1sYpR4rPVHYvnKARgjTA",
-      "photoAttribution": "MichelinStarsChallenge R"
+      "photoAttribution": "MichelinStarsChallenge R",
+      "tags": [
+        "Photography Worthy",
+        "Splurge",
+        "Good for Dinner",
+        "Fine Dining",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "La Scène",
@@ -1329,7 +1646,14 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJF81Lvo5v5kcR34BLAZe2U1o/photos/AcnlKN1dn4TLv9IeHh3SrbXkXbpTo_9wiT6rp3Td-zbmP_ckb5nH00YN42GvN27mKNfA_Y3GXr6KcDy9McjkQa_gTqcgUtQsdpHI2zNoUBH8IXBp_RvLHF8KGEMCX_DFdCmYwqWN6wngpp-PAvt1f7zuu6OSA8Lg1q7lSmx99AniQ20ALI47aRzUr_5k2gw0Hnk0H3MIZB7VDgS4eW1IKh-z_dZbTDsG95_aC6aDqmDYIpzLXgL9TbooEswrn5yawi-u8s16-E2jAilo5qCM08MLJ58h3U5MOb9OLEAn9oUOUjf96w",
-      "photoAttribution": "La Scène par Stéphanie Le Quellec"
+      "photoAttribution": "La Scène par Stéphanie Le Quellec",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Good for Dinner",
+        "Fine Dining",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Comice",
@@ -1355,7 +1679,11 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJAc56Jah65kcRPUvIVLIaIjI/photos/AcnlKN1b1IuGsUo4xFtC9gP1URGXIIOzwXR1M3Wuiho9Uag2RI4I6asgybEuBkyRjBTYwEritj0kw2GxKPzRE8LAOVvyZ9YdGyF-j8KBdKqEZsymNcv2JdFYA-ScP3aiO5B400wLzGEoeFyuvuKf8u5TCjLLWotFDtvKLnvHvXzOgxFOhmrdQlrdVEEgJR3STpnyPGe_mNjfjn4EPXC4hPW3x0ZxE9iW8MFEUwDZz69x7ViMAtTWrVTNBD5DaqiXbbgNzLUuyijBxTj8qIg5ZT50yMA76g-kdA8elRXhrsgwzxlF6Q",
-      "photoAttribution": "Comice"
+      "photoAttribution": "Comice",
+      "tags": [
+        "Romantic",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "TOWA Restaurant",
@@ -1382,7 +1710,11 @@
         "Sunday: 12:00 – 2:00 PM, 7:00 – 10:00 PM"
       ],
       "photoRef": "places/ChIJfe0cOQ9y5kcRa69y4RFpF_s/photos/AcnlKN1mrHQp61mZXILLM_-Par3ywIN5E0KMi6akAziX4erG9z2TGBDI5weqpJ4mTFmyXilf4OOSQY3KicB-6bK6rfveKay6Z1-ZSse5kqK9hamlZ7rQQJE6FNrvWXeyS1xWDPnfVFnXMRInr-Khy5vIyI2dBsqp4pYD2QATRmQuQ3bq2Bp8NQ4cJ9ZkwKtT5bfCzuo_Bno9R_21lm3GvFzFUZp5gyyNNlEp9PJxh_l0AWHeR2RAJ31stF8zXb6p1emHSYXjoSBDn-jYtkVwnxW0UjfNQFfer-jAxhPw9kDB7-Dx2A",
-      "photoAttribution": "TOWA Restaurant"
+      "photoAttribution": "TOWA Restaurant",
+      "tags": [
+        "Local Delicacies",
+        "Good for Lunch"
+      ]
     },
     {
       "name": "Joséphine Chez Dumonet",
@@ -1409,7 +1741,12 @@
         "Sunday: 12:00 – 2:30 PM, 7:00 – 10:30 PM"
       ],
       "photoRef": "places/ChIJUa6ZvTJw5kcR3W8PtZgq2A8/photos/AcnlKN1gbvsBGNZQZApRpR-EFhSXCkWrJ5f6Rb_to35OhjfIgUqiONtmjheIeWqmbLI4avVDCGds6xmjKsIS-MmwyJYhRTnDqZi00_m6ZXTgVJ1a5xfUA-WgVnZ5M7blo4ClhgLcnvX5WS6j95i9vPWc-hOPqulAeOixNKVcN7XD1A1_UidMOVv3DPOAEB9bG1Cs_lrPcK6YVco4poC1TDcLHJQlZKI3tpG5sWZ5FAk8Xs1hzJw8A36_uI-Lqcja38wRFmHME0MHbIr2UAYofBi7ARyazjKjCUavzHP7PjfczqE8vQ",
-      "photoAttribution": "Restaurant Joséphine Chez Dumonet"
+      "photoAttribution": "Restaurant Joséphine Chez Dumonet",
+      "tags": [
+        "Good for Lunch",
+        "Casual Eats",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "À L'Épi d'Or",
@@ -1436,7 +1773,13 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJkcKzviNu5kcRAD_uiFEnr-8/photos/AcnlKN2oVCBpR4bYSaTBPlRj9k2ASfc7HKEiC1f8AHnFvbP2aherUkHU7UZ1BbDY8H4-aUbbXHzwXQx6T0sqOeJUyo7wuurRZjWyKW1nfZC7KgGSAOvZl3bb28U5FTm9GbWgKjmCSLXFaVT76JgxLPQ_RM-bU5zzan7xelgzVS8oA59kevXM7GEmXFNUPl-vjJ7s-bxFNvQB0IP5WvLPeYcSkNdUsxsdcnfbwKUYmpdBLMIWrTyftWvDxOC7xzH5Kj90XDweq8K1-K3-V-sLTq8AH0CA9zsrbFlRW9sydXWBsqHJwaIUa-nw4Jdi571o7vptkBhjDC1ko_fUtXhHBwZ8WwRK1_sbTTwc48Mu0tkzFocrl2E1dggci7UvaSheGE3Mie-1xXfvG2ZJNb1tO7zMULR-kNvYQ0L5LpQuC-2xnfmDfRKI",
-      "photoAttribution": "Santiago Cano"
+      "photoAttribution": "Santiago Cano",
+      "tags": [
+        "Romantic",
+        "Good for Lunch",
+        "Casual Eats",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "La Poule au Pot",
@@ -1463,7 +1806,12 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJ0WI5IyJu5kcRzsRZXnwIp5Y/photos/AcnlKN2DS-_IYtY_hQL3VkITUBenNQTyL8X_541xF--MReLaPc7sYA8FnWa1904nJKq078kObyYp6CklSy19q3_tiUs7GsVDYGMrZhYAhOAA6Fpoe4s_8tr_lk_FGJ_DHr6PlhZslrbjGx7uk3N0xglukyFLdZAHU0NtC8jl4BWetd-80sFA2abAWkOZw5FjAyGYC6RwYrbUWXD9rpdEHt_Ud342LcqU_Pr3GV6sNArrOkNYuXDqlUiGdCYkCO8fnkPfwbvzodJFbH6XXtkTCaIp7wkWwjdkd9h12Fh3VxU-03NSAQ",
-      "photoAttribution": "La Poule au Pot"
+      "photoAttribution": "La Poule au Pot",
+      "tags": [
+        "Good for Lunch",
+        "Casual Eats",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Les Climats",
@@ -1481,7 +1829,11 @@
       "priceLevel": "VERY_EXPENSIVE",
       "website": "http://www.lesclimats.fr/",
       "photoRef": "places/ChIJpSSqgylu5kcRK-RJTRI5f34/photos/AcnlKN3T8nsHdHciMjkZlXs_OgNOCkBpgVKdbXGPCMQLuj7zxo2BqCOvMWbMIUYj_flZ7bbOXciUY79lVQK4LsR_EmBmxG6ApIa9tIZR2LFp0wTV-dplBEEX6S0ccgDboVNQg7FYtxIOi5V6EcP-rJOFV4ql0whOf-nYEHmD4B4MRwPt_D7IYV5PWAiFUbHMMM36Sc92zTb2rhyDXOVOvyJhqOES0kdhjU5LXJrfILYfBGh8VhCeLrTeYPDy57hKO-fbTXXIMYvH_rboglkaB8-cEcVO6rcvty12mgDgDd0jLxfXqw",
-      "photoAttribution": "Les Climats"
+      "photoAttribution": "Les Climats",
+      "tags": [
+        "Splurge",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Au Bistro",
@@ -1508,7 +1860,12 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJIfLv0i9u5kcR_Mw1tnH7mJs/photos/AcnlKN0fLZ_7RsIjY1sspe-nCm7i1jTxdpIXYvr67kEWpPK5PfTi8RIXGO8H8lsLdzjrhvbFdmeCe4bcTIysXlktp84oh04XHMUtuukdvLv-EZjTzWVuyHyU40rsXs2Qqu7NL0C48bN3OLLUd2mo7m0PcaWLD4IiTyRLv3kIyNODDjD6bRuhcCsoQKd3RCGpKYHnaD23obzpPHt3j1cbhIbuofAqhwIZfeyY7E7XGWxDalQP52KpGoCC8X4BMKGXQGRWzuXkbJgRAz_Uj0mJwrjLpxR8g2UY4mg-qb9vD29AqoOGDQ",
-      "photoAttribution": "Au Bistro"
+      "photoAttribution": "Au Bistro",
+      "tags": [
+        "Good for Lunch",
+        "Casual Eats",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "L'Oseille",
@@ -1525,7 +1882,13 @@
       "ratingCount": 23,
       "website": "https://oseilleetcompagnie.com/",
       "photoRef": "places/ChIJCTDXC0Ru5kcRFBZpMGgfdb8/photos/AcnlKN1uDptDw_8Oy78vJlI9fKEZTNFgdiZ6lii3aW8_zmzDZnRMDck1PXMIJaiQl2yvMeMDvsFiNZUVtJMm4W9bjA90ABGobYgt9v_rZr-5oq_rEX3UIA3vFiIo4VD0zKOJsrLOOPPZy5wR5rKjw8EePsu-ntv529hBJJO0eQsTe03yVKNZd9nYbkij_myvA02shfSd-39jIx51lgjAp8Azdas45h_BB71jeZlLsicVoJMrYnlf6Jzlo522MU_sQlwExPxMhI4Y1J0vfa5oztTO4zCrOzl6cCJdbi08Abmkw1XYnA",
-      "photoAttribution": "Finances personnelles - Education financière - Oseille Et Compagnie"
+      "photoAttribution": "Finances personnelles - Education financière - Oseille Et Compagnie",
+      "tags": [
+        "Good for Lunch",
+        "Fine Dining",
+        "Casual Eats",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Loulou",
@@ -1552,7 +1915,11 @@
         "Sunday: 9:00 AM – 12:00 AM"
       ],
       "photoRef": "places/ChIJxaKkUudx5kcR7DyJdf662DE/photos/AcnlKN2MJ-R9ioltponGOyuIJw8_PxeISDJkQbay3cNNyQDT5uJdo1WFcvGKeXgJUcpFjzIV_srJHf1SJemYx5poW_Pw4CPCTMbQ3mVkr1rAbfLFBoZAvlocM5GZni9JbxecDkrgMCv_mWQt2T180Viat5yMM9304kVngq7PEcMsfj0N1_WYdcj4ejRlUDZJ5IZTO5aF0rYcbxk7U1bxOldOeCcqhlecQ-GwTTy5jAV33tAf-quD-Pecm1amJ7Xi16MT2snPtv5idaBblTZ5sSikjHtwfxj91RDd7JFUqB9sLZy6RQ",
-      "photoAttribution": "Loulou"
+      "photoAttribution": "Loulou",
+      "tags": [
+        "Photography Worthy",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Le Bougainville",
@@ -1579,7 +1946,11 @@
         "Sunday: 10:00 AM – 12:00 AM"
       ],
       "photoRef": "places/ChIJ15VQrDxu5kcRzTdFQhy2wvg/photos/AcnlKN0t7WJJz5glFM-SDRLgbbcpP6hgXitvKx8WnNG34eUJo5FkyPE3gUA860--dvSzOMYPRAlU_y9pHRxvWnmLO2CdG_qsWDuipYFgjja0iN9N2bZlL4ahXYwIOW3v6TkWbEvMEVVmxXWTHqnmeGYGfuVR4Ej7J7nCmKximIdMbSXmb9wb6-RMVxKaiJRwY1vXzA195Oo3ztG3RZkEg0bu65NAiX6yO4cB8CvtEGk5iqH0OwiXRisVr4yNbOXiM5wOMwU-GC5VDpcKWvHwI6XYAGCfPqp5eoSEp8ew3bjKHUYXVg",
-      "photoAttribution": "Le Bougainville"
+      "photoAttribution": "Le Bougainville",
+      "tags": [
+        "Romantic",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Caviar Kaspia",
@@ -1605,7 +1976,11 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJF9e2RzNu5kcRO_LSRfLJCgQ/photos/AcnlKN2R6XeKcAxRvJl47364SShKH82b2MwZev4Q2mqUvjTj_rbXReezRHFsuR52qxqgLY9ekYsEgliuVycG22w9oxpMllv-VQQYHnsEEu6vDP998qOBzYljdUtHyLCv60XCdKXqWHr8Ky8p5UOEoZANmowk_UEISuDkUkWYx6NCLtd3wLxC5VddQmtzQ3OoVto9xNsADJ-WThvu_i4Fp62YPEHWPA6UqhJ6WLVbtAYVXSn1Pg5AECsW3e4hKtjVCAg4IzPa2S8hYpl6BP7UBGOk95nDd7AvmJ7RgJuCSgB24FoEjg",
-      "photoAttribution": "Caviar Kaspia"
+      "photoAttribution": "Caviar Kaspia",
+      "tags": [
+        "Romantic",
+        "Good for Lunch"
+      ]
     },
     {
       "name": "Angelina",
@@ -1632,7 +2007,11 @@
         "Sunday: 8:00 AM – 7:30 PM"
       ],
       "photoRef": "places/ChIJWVhEdi5u5kcRRl0Vdpqt7RI/photos/AcnlKN0M-fJziR4gBi7BOt4NQM59dn1HEGETB6KdqJgeIOUY4ZRgmxDEQ9c3MSOt7a2bfQ2bwSxr4DBpS3bF0dbagNQvIHpSxyoj0UOTGhF9ujVtpIcjZSRxbk0ztfiGJZkkFMMNou-QUDmvqA3tbmzmHaPsbJ6oVP62fTNiodG240xuFf0ylK2aVRz-QT_z7e5yh3D3ostHASmiehhYd-v5yAlqY3fra3rQXPWFdwh2-tpmCST4uaUNgxM-x3DbD0UDMa0zUnm7rAV_nCYXiHerXYbqOm1njGlP2ts3P35VHI0umw",
-      "photoAttribution": "Angelina Paris – Rivoli, Salon de thé historique"
+      "photoAttribution": "Angelina Paris – Rivoli, Salon de thé historique",
+      "tags": [
+        "Photography Worthy",
+        "Sweet Treats"
+      ]
     },
     {
       "name": "Pierre Hermé",
@@ -1659,7 +2038,11 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJIwQq1wJu5kcRnBn8wIWcSj4/photos/AcnlKN3FFC6NqNjA6cQ7OAkIAVslu58PA_lJwnLnj12CzfPwYIqpsRBRJdUfTFv21wgknoWUjRcid8ZQT6v-Rcc6OwVNqxm9ZaZbRR46tve5xJ4ulFk7z2wTQXvBfiNxcZt8DJvUCsvluvsvSHX8p3i8ZQh57MrqlHb0HxJc07xPr89IVwca4HZTFK3yfySCZZYb7zjOmHfG6OtY8Mc9DXiILDN2i42rqbwX4eOtvM_e6ZETIzxN-3vNU1AIKRQ6oTOlscNrYwaw1gSKii2ClYV98-zkOd2_lGDTKeEyTba6_4pFM5WcX3pe3QJa2SigctJzK7hArSmLcPZU0HpaPKptIxPC2SXTieQoYeB0AsiXW2SOkRGDAgXBM5a_wGsU18_4LPAuMx1z2ep5kYxIM9bcSCZBhDLE06PoKqw4xIziOZFdCg",
-      "photoAttribution": "Karthik Subramaniam"
+      "photoAttribution": "Karthik Subramaniam",
+      "tags": [
+        "Fine Dining",
+        "Sweet Treats"
+      ]
     },
     {
       "name": "Patrick Roger",
@@ -1686,7 +2069,11 @@
         "Sunday: 11:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJkYWLcN5x5kcRJ3QEOYNgOzk/photos/AcnlKN0xbo94efQWwJn7qBj8bb2YChdMGM7Jm4KI-zngvBuprMznZylDw0Y_XczRFWSagjvmVnyiqhQZQwqLv7zwVw3Tp9Yx7wjZHc0Een9H_YIaKEyo36R6dU0_ZTF23m8xd2PzLdcqg0nZT8PsIfr3Fiu0S26_qNbheyikC3ivVyTS8ozRnHGop0odPT06jtDtwfOpMVc0GIMyPIqic-HI1jLxCauCp9640gM0NKNHDZ3lM1NjHahltrYhECndNA-5cz5L6_KlRxwnrcDcqp2OQuntX2Hy_Fv3iIDrDVaH1lQ0q51M6d7lQe-L6JEDFiFKLu0yHKmn7cK-K3XMa0xz7ttpYSyCBUX1ynko4vwkOv293rNw5mPrKfExax2GpKHIRbJb0iAFRQHKuvagGKg-eeXGWV4zzoKBm5JDlzvHGC9rUQQ25u6CvQ9iIckkbsHq",
-      "photoAttribution": "Will C."
+      "photoAttribution": "Will C.",
+      "tags": [
+        "Splurge",
+        "Sweet Treats"
+      ]
     },
     {
       "name": "L'Ami Jean",
@@ -1713,7 +2100,13 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJjVT2MNlv5kcR4QtneAsLSdU/photos/AcnlKN2RdgDngo9leSZM0MCvVHvZEZU1HzK8LKuyYHPKbkAl4waMJTWSdeBfhylHm3w120T6EuW2bZVREqbF3uc-HG59W6xpSZUB2tgKNLU6eGZ54mKU-SzfsJ7DRddE6hx64lKRxl4U9Tz0WPOUlIvpUa13B4MQWn8W8U6cpMs0O8Ki4ckTc8E9I2jTrgXEddVWuUisAbQEw510kmZ4wyWewSOM6H3mlgHqWikEjvo7-wPauaM0Q1cdDB0-2SPhQMfwRlgELjXWVL-EDgRP-aRRTY2y0Kr9v_WwE4sa_Rnk-GgupXpRkRE_GBG4ZYhWNAw2y-gk38AFp8OaKW8sbPmnf8cFg07omxTjNWZ2-nKGAWrTqUKfQurFFf_Q_hsyp2TFKFdwezLj9c2xv0hudFQj5BZHxMqNdj4rR0Azb6rJQFyyINYlHhycW9OI4vKH9dXb",
-      "photoAttribution": "Edward Chen"
+      "photoAttribution": "Edward Chen",
+      "tags": [
+        "Photography Worthy",
+        "Good for Lunch",
+        "Casual Eats",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Brasserie Bellanger",
@@ -1740,7 +2133,14 @@
         "Sunday: 9:00 AM – 11:30 PM"
       ],
       "photoRef": "places/ChIJLzkwDG5v5kcR4iljevWUw_M/photos/AcnlKN2rPpNYLLhMD397LTpK2dtzrLYG16QHYfLlX0maD2sD6OrgSL-7KbYGK9PWmEJ1P3u4Ld1wldqJeRqEJgbtUhT3lP9xRt7PN0COdtXeym5F0YK19STYdtDZY4AwlBqaVMc5zvMXk_AJtsGeiBPpeDJ0QziL5Ore2G5-Df5gVLc-XhwTT19Hmf_5wAT4b8a2CO-efo5ROkjR5DZ6BbRkxS47ANDXz4PS_R3y5V18kJZN-xijc2iqFOLFDwGoJmW22_3r9FlM0ZhpGIS4gjkC9bCJ4V2EUon_ph_GXsW6G2RXoQ",
-      "photoAttribution": "Brasserie Bellanger"
+      "photoAttribution": "Brasserie Bellanger",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Good for Lunch",
+        "Casual Eats"
+      ]
     },
     {
       "name": "Café de la Paix",
@@ -1767,7 +2167,12 @@
         "Sunday: 8:00 AM – 11:00 PM"
       ],
       "photoRef": "places/ChIJlW2G2zBu5kcRhim6uqUi8Fs/photos/AcnlKN0p8I7aAa7dqw8DgbPbrP_5Q97u_5g0V75dFFGUtaBN0XHi57IsIFbdtZ30KxHuTJfx71k-iWCGXXA9XOlLErlVKxT2CEY3vzkbVBH9tKrUGIgk7E5k6jFUDoRRwWZRl0vKaClSyu21Ert1AdKXeMiGcPVQerHsUSn7J8BKXzFsTuA9VpXIWTnOYnXyIJeRs7wFztrth7ekUAHlYOuoyvYw-z2xnrlYLJ9eYMGG7D9As_Y_UoTCQbivnElXHGXERMaE-eBFlw8bWjlGeZISSA4zQ5T3RFcX1VuhE0hvIDIHyA",
-      "photoAttribution": "Café de la Paix"
+      "photoAttribution": "Café de la Paix",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Coffee"
+      ]
     },
     {
       "name": "Café Jeanne - Park Hyatt",
@@ -1793,7 +2198,11 @@
         "Sunday: 7:00 AM – 12:00 AM"
       ],
       "photoRef": "places/ChIJJ7rl4l1v5kcRykcwPKQAk5E/photos/AcnlKN3AttPne06W0BeQyOfMaAesevmcv83eLeylkqFWGqhrcdBBWigcvMTj8am-rHNV2iGu-Qbq1QXy_5umy0BtEs4ZvliUXWihBpeekGpadvPsGjmD4q8J_7znLcpty3d1pjnuYnU4K9R83GS9JNV__ryBzb1GITFIROPI475fLvrXEiygEIxBC8T2FaJuov-WPSW3xMHa2Qo7yMApmuq2mAgIg4X3oM--cIrvfDt9Fu5kXVJeX1NnuYLvCBlL8WPwnauFFWWZuWpAL6v4M93u-cyI89FJWzpqRp3ErQmN6OZROw",
-      "photoAttribution": "Café Jeanne - Park Hyatt Paris-Vendôme"
+      "photoAttribution": "Café Jeanne - Park Hyatt Paris-Vendôme",
+      "tags": [
+        "Coffee",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Bar Vendôme",
@@ -1819,7 +2228,12 @@
         "Sunday: 9:00 AM – 12:00 AM"
       ],
       "photoRef": "places/ChIJ4zqoizFu5kcRlP1cLrF_wVg/photos/AcnlKN1S2EFmGm2FccUiMnH02efjGv0aArhfE6DIoGmygSMDKy37S7IiWc7fZw-xEOojxw-Iibr7zNz9-Qp1HO0liw_LEPnQ49TAOk9ky4GDrFlsZq47MW0B8-VpV-rjzCgcxoU6ji5Qku5eDJP-tHmyX32d6k0xUZftjsyr52Se9dHfmMCZc8UrlVk7TX60ctRSurFHKXwEX8lIm0fY96MAyl-Ro3d40HRD1DZ6SEE-4C4n_QGXhwQ481ByzGavDmxOE6WOzIlgBT9Wv-evwd9c3gYFtKEKro9ogXjllDussDqzxA",
-      "photoAttribution": "Bar Vendôme"
+      "photoAttribution": "Bar Vendôme",
+      "tags": [
+        "Romantic",
+        "Cocktails & Bars",
+        "Nightlife"
+      ]
     },
     {
       "name": "SUGO",
@@ -1845,7 +2259,11 @@
         "Sunday: 12:00 – 3:00 PM, 7:00 – 10:30 PM"
       ],
       "photoRef": "places/ChIJ-WZa4A9v5kcRPgA2aczQBnQ/photos/AcnlKN07g3GSIQMEziYUL9riFneGoCPCqnSeX8ccKTgACrPmA5L7gWYza_pwIf39GGNnCZQaMaZwNZ5XHHIgZ2fGVt6wa1sKy4Uu4KAe_Byb6ljIhxl66GUyo0qatEwEQZ_EWGDbVEfEc1pov4Z_O7dk7L86nOvjcc9NIEOmSV7rtQLvbB32H6MzHxSZQXAo32ELeTM2SsTbXUpr4dkcyngSgM89tp0TQWQO8z1_dzdl0_qhbq0RPHghWwWfzVAr8WWY4hfc1xsI5r5sJsATl4QlWBnqPjt4q3Gzg2VqWuYgTiI8Ag",
-      "photoAttribution": "SUGO pasta fresca - Saint-Augustin"
+      "photoAttribution": "SUGO pasta fresca - Saint-Augustin",
+      "tags": [
+        "Romantic",
+        "Fine Dining"
+      ]
     },
     {
       "name": "AO Izakaya",
@@ -1872,7 +2290,11 @@
         "Sunday: 12:00 – 2:30 PM, 7:00 – 10:15 PM"
       ],
       "photoRef": "places/ChIJJ_415TNu5kcRqJBa2RJ7-xQ/photos/AcnlKN2LGOF8RrLUyzL22ZyZ9KS-DIDYQwuytePtgJ81QS0LA56r1NIoyRxH0dsO51mgYvCQPbwqzH6ap33WuWPFepfTbANZTm9tod4nCJFGhdKnqdIzXK9mzywdhukxG5MZoquEKUdRanBml5hwpjqvKzZdIaB_HwWf6bLimbs_lEvWzMjA7QiWKyPuSPMdqS4BAmcmKv5ihpIoZyqoh_vUIB1XIj_4A7B2ORUV95m7SnfYS8xolXS7R-EWauXdLzOwOeIrjt7Z6kLja2R80nd2HPLsSPNxAf-haz8j3kSiegkJCg",
-      "photoAttribution": "AO Izakaya"
+      "photoAttribution": "AO Izakaya",
+      "tags": [
+        "Family Friendly",
+        "Good for Lunch"
+      ]
     },
     {
       "name": "La Diva des Prés",
@@ -1898,7 +2320,11 @@
         "Sunday: 10:00 AM – 2:00 AM"
       ],
       "photoRef": "places/ChIJFxCm1Ylx5kcR3zje0Un7i10/photos/AcnlKN1-3PmSwyKzULoTGo4uqpIjaMHWmlxMXaifO8EeccxY_2V-QNWfgdfAspMYOvrEHovacZrIZK5AicihK1DXKz9DkiosBB_b8J4Jk67rj3tn1zFeR8tkzvztiGtc9WjO8JolS_H_uGsY9eKBgnqYiDxtDE32uF2VcT026afnoqeWTS4uP-GMdLAjIXYDohQleqt1AMb1qo7-IFpUwPRbR8oll3Zbkp29VXi1NIiaHPcr_92ODtOwXxSbwK1c_n2ClY01rgpiMTgpwVK-Oqt92LZiRoyMv8F-F79i9d9GdTs91g",
-      "photoAttribution": "La Diva-des-Prés"
+      "photoAttribution": "La Diva-des-Prés",
+      "tags": [
+        "Romantic",
+        "Fine Dining"
+      ]
     },
     {
       "name": "Philippe Excoffier",
@@ -1925,7 +2351,14 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJWZiYcN9v5kcR0NtR8D6uvPw/photos/AcnlKN3NfrUX2UuoS0VuVQ40YJy2optFoawDP9iUnDX0Waq_LHLqL_nW-ZcGiCCJg60YxhmQZiwScNDFtLBLMvQTw5ZPt3DWB-WS0QhH7NJDfIJnuOUDIB7jLOZMVNcohO8-vx8IGXstq3z0bAgS3MIZcqpoiyOJludWsFTpQeHPbtTWcvL3EgRH8FH3084VNI_Orq8wqKzC2WQHB1KiNI8HtUGoLuDAwd67-TZVUrbPlpylp7EDA7hPjulVxL8_R6xBnNQqWffSiyX7AzWwXrDgOwd2d9KXVO8v4S4uoFcP4OHpLA",
-      "photoAttribution": "Philippe Excoffier"
+      "photoAttribution": "Philippe Excoffier",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Good for Dinner",
+        "Fine Dining",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "L'Avenue",
@@ -1952,7 +2385,14 @@
         "Sunday: 9:00 AM – 1:00 AM"
       ],
       "photoRef": "places/ChIJ39Tjq8Rv5kcR1w6f5hIjLc8/photos/AcnlKN2yuAxivrF3ea_RA1RA_qmRP2uG0dcru7wKiKRa5Q2HNcm7kZcvzvTCPOG67ZPJsB10Olf1lgQnezHLWeIDfzHIU5WkJRHRLURVuhkWXV_X-Y1A_JmCcqBaGzIBMh-9bajvn6b0K1a0mmRbawsPuda9qaWrLZXeQsLGNlq88meFOvmdgP_SpPT5C9INDMytlSvQAWhZoNEeZzG6vbSc0O7Y_IO8LZNLMmgUtXo-1laAnhPuPk416T5QSI8ix9ZmfRfpzl40y_JL_n4QaR6mPqZGUc55C0Noy0nhMbI3wNVzwf_6eolAfxKlL-aYphBXdh_aRlhdVtdL216N-11TmeY9gIr5p-e5PK2ckA_9yGAZNHqBqWk590kB9jaImjEiBSqqY6jRv9Egc1VU0xD8xNnuR7IRHl9wc_uguiExE6ST-K0w",
-      "photoAttribution": "akn akh"
+      "photoAttribution": "akn akh",
+      "tags": [
+        "Photography Worthy",
+        "Splurge",
+        "Good for Lunch",
+        "Casual Eats",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Drouant",
@@ -1979,7 +2419,12 @@
         "Sunday: 12:00 – 11:00 PM"
       ],
       "photoRef": "places/ChIJeQAhgjpu5kcR2eETKOOnYng/photos/AcnlKN2OStvW6dH2BUBM4kwwdi31sMavXts8psBVow5TAW0UCDstkbLDUGVo5ZXVXtBmCDXis_QrIAMOBT1OTpCAUBSRN84Va4OmKVDorlAsJBfe7HF8XV-EOKycIeA9nL0amyObiMUl8q6YsNrXJgGgy_GqEpKDYxD28ArLUyAZVeOwS3iLXTQ_uQ4uc7Ua5qFbx3WsRIzdqJnHGW0iqAiczwQvCr2p3tzYrmRm4-gjVVWld0gliFwFkuZaacoLzWiRJe9Pb3l9458qnmLimvR24CANx9TYjC3NX0RjChGxvl_Q4g",
-      "photoAttribution": "Restaurant Drouant"
+      "photoAttribution": "Restaurant Drouant",
+      "tags": [
+        "Good for Lunch",
+        "Casual Eats",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Grand Café Capucines",
@@ -2006,7 +2451,12 @@
         "Sunday: 7:00 AM – 1:00 AM"
       ],
       "photoRef": "places/ChIJkx1IsDBu5kcRkKzFD4HjFMc/photos/AcnlKN29hWRuDTV_zdBKaNh_kcs1n-G5Progav9zRA1bmFbQdprfMkSuokJi-i-a6_vjIBuKiD7COrhxDIPhASbSAvfcW8CTtDJxT1MliLe55nZAJofiWOLpKqPLX3cZPm9XZg0YOtpEq2TxVgW5J4lq8Nt-0doTAq3gLeIvwYmcKo9MvlbfIJdFLvc5-k37fK712AiCHI4Mcbaif2qWKnQAAn4oMFx5KpGZUZbZjyBUoFcEP12CWVg8Qr4Qe8pGHkUw-kShQRg2k3_tMvWuDkbr9Igu5H0ITw5JWJSgclYd40DAww",
-      "photoAttribution": "Grand Café Capucines"
+      "photoAttribution": "Grand Café Capucines",
+      "tags": [
+        "Romantic",
+        "Coffee",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Brasserie Lazare Paris",
@@ -2033,7 +2483,11 @@
         "Sunday: 11:45 AM – 11:00 PM"
       ],
       "photoRef": "places/ChIJAbPJYTVu5kcRuFw8L6Iuy6M/photos/AcnlKN2BFTOKX1pEeW4fxjbl3XwWTpy4vh2VkJ0HnVDysv0SPvOAFZkDFjcHavnW94E_xxypmY6pnXf67ehlMQU1RDsPNziWIiQ3ByzbDtVgf5rIB5bitNxWPr1k-iY-z3LWKSJUebeXKQZfUN_dnjJSY2YQSA7TnIHRefzEt0TENWYRysm9sXel_vJun0tF262VdL3TMTi_0HaJOQOmzOi3LkovOdZ2BzqbXcNc5Aa0VUan58vN-QEL_bs1Of08_TxfjQAMA0WreuBon65A9rNLHXFTCi_8W0btdvbWj2W3DRtyVA",
-      "photoAttribution": "Brasserie Lazare Paris"
+      "photoAttribution": "Brasserie Lazare Paris",
+      "tags": [
+        "Good for Lunch",
+        "Casual Eats"
+      ]
     },
     {
       "name": "Café Lapérouse Concorde",
@@ -2059,7 +2513,12 @@
         "Sunday: 8:00 AM – 11:00 PM"
       ],
       "photoRef": "places/ChIJy0uxFbFv5kcRY5pz2Ruz8aM/photos/AcnlKN28VgBNUHNU8_33wMCOqFA71quLg0WfTsqsD7YgtL6NUazOyqnuHETT7mHjRHbPFHb3W4sg03NOV2s7wDJpppeqI1GRQpg5KplWJAWrd9E-ia_tu7oKHSAfc2RoHXgVJ5IzqR7mp2N2QeDYikcRvSziElxDsNagbBY73M5UeWyJ73H_2EXQXLR0ugzyeFiPKwG6nEGZIuVDrnqnSqbZ-88xu_xfVQr7MR7eh3K3Mu9rPf10YfzaX1RJ3CIDUFFOphqing8zPth_QWnU_Vuu9xdjidHDCUSntDxVY_JwZsDM2A",
-      "photoAttribution": "Café Lapérouse Concorde"
+      "photoAttribution": "Café Lapérouse Concorde",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Coffee"
+      ]
     },
     {
       "name": "L'heure gourmande",
@@ -2076,7 +2535,13 @@
       "ratingCount": 429,
       "website": "https://heuregourmande.fr/",
       "photoRef": "places/ChIJRy3dy9hx5kcRNZ6RXORmH7A/photos/AcnlKN3f83Aju7aviJg33W_iJDJeDMU6zQyCTIBONGvNI5U82UrWFJ3hiXRaSpjquhW8XkupwVZo651WcVkF9QQa66Nd2eUqz5OK46Ot4jGBLK5O0BANzHPgg0A7zNdr4PAXTiDuMLULC4TzAME-LX9Le0AfoaZiDYuLGhqqst2r35PULnNQDMRa_LbfbXx_zsv7i-_-_LjSTsXnL4owE-KOMvSzEtgjhPynsR2kYFKeaRIZm0eeQkYuPWvrsRFcLB3q4vGRRWwN1QgnOd2c8nWFQsU3nfe6DWQ4TmatbmyDpvywOA",
-      "photoAttribution": "L'Heure Gourmande"
+      "photoAttribution": "L'Heure Gourmande",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Sweet Treats",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Brasserie Flottes",
@@ -2103,7 +2568,13 @@
         "Sunday: 9:00 AM – 11:00 PM"
       ],
       "photoRef": "places/ChIJDeI4Jx9v5kcRItEpEe0E6jo/photos/AcnlKN0VFBrYVp_hJlusfTCH16Zc1VoNfOVB4H1WH_eW4p46Za8RRaGEcsnxqv-4dneOz-0tRvH6PUwMcf2VcXe76qtKPFK1bua7NeqzZW-apS6IDSf9Qx43HhwCfzky5b4XT7YoyLPUBm_ITB5KBIgCIHJZqUf3wb_gMNphbA1M8dAWyPP7xbR4VbdJ040n0mr8FsG8DZKm8qni1OELNw52f9Ni5u8MIPzGUWn1zLW8WxQsBJtQJWFIwwsnqw-MkQxgE5QJ_z_Bzx9rZbKbgen5UXaQVj62moHFWvYPWnjngz8CpA",
-      "photoAttribution": "Brasserie Flottes"
+      "photoAttribution": "Brasserie Flottes",
+      "tags": [
+        "Family Friendly",
+        "Good for Lunch",
+        "Casual Eats",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Bistrot Vivienne",
@@ -2130,7 +2601,12 @@
         "Sunday: 8:30 AM – 12:00 AM"
       ],
       "photoRef": "places/ChIJH1iNbLMh-kcRr5A4zRPWuSc/photos/AcnlKN1QNvgLTGJ-GbXGczkg62lH2SRJM9dxRZtuwgkAZVd-UagXerC91qFJYBH8MyFtfPlxf-gIsdzvp_-UA46s626v_YyfDpm6S772_7hAeU36kRytT3wgKka_pO_9YC5nat9Qcc-0PuuKDzQIrkpGWkCaXXQA-aYhbsBEEY1Z_PQPo0-iNnkqHJ-OeHoxppI0yaAk0ZP8ptCzu8a0F7f8rozK4JbeYCLP5GTCju8YGgKsry_Vr5-3pnkQuvm01xG-ZFUfPCSIRwNJVJEI-urf9Qx9PLfho8cHhbt9jKOgbkJ99A",
-      "photoAttribution": "Bistrot Vivienne"
+      "photoAttribution": "Bistrot Vivienne",
+      "tags": [
+        "Good for Lunch",
+        "Casual Eats",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "La Rôtisserie d'Argent",
@@ -2157,7 +2633,11 @@
         "Sunday: 12:00 – 4:00 PM, 7:00 PM – 12:00 AM"
       ],
       "photoRef": "places/ChIJg4octORx5kcRijmhQTSm1Fs/photos/AcnlKN0EzPubu4E9eioQPOt6_gSJ5dLCrhrvcv3JMc_ZkijIf1P_0vrIy7n8fXvvfdXYZZTn1LsuMmEMjsbI2Mhq8AawQiWk60Wbnnz8_W8HTjzu6W0Kb9vVg2-gJ7FWSSvHpP9MrlB1ry-NCtVuzLhtUMXKu8Mm1hChVGjsDnU_QV1bl3eKk2ZvYWFMFiOkP2qP1TnytsE0kyypJm8YN-_WcAPW59imXE0qA53WWp-nzT5hpO2J0meFl5jP9U_0n7dTFESjwcKUkineX3WJyuKwqf6Hyw2FprgOE87r4EY2o3N6rQ",
-      "photoAttribution": "La Rôtisserie d'Argent"
+      "photoAttribution": "La Rôtisserie d'Argent",
+      "tags": [
+        "Splurge",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Les 110 de Taillevent",
@@ -2184,7 +2664,13 @@
         "Sunday: 7:00 – 10:30 PM"
       ],
       "photoRef": "places/ChIJO_mYQsBv5kcRlypSHnx3ctY/photos/AcnlKN1pHgWqPgeHIUlPke9iSaXVQsz6tjB0wEzI5GpM1WXGU7vTq0odpOcq9-mV5wQiU8rAZZThstwuIkp1jxhLDPjLGgw32uQnIzEcaqT60RCCzNImCmnHdclfE-di_LaFpXsgd021dM8LaeAlUQdoRMy3CGWDrrztwuBpHn7kw7vRILow-YYETmQokUAhG9mY1LKr_o9axDeEU7La9eRSYYNgL6e--Kr6SpsKYnJq9YrLDpcy8WmqZ2G5Q163A58uFeVQGmEZciC9xGbWEaYziM9AWwdNvH-C_T2_r02aQmcVrg",
-      "photoAttribution": "Les 110 de Taillevent"
+      "photoAttribution": "Les 110 de Taillevent",
+      "tags": [
+        "Budget Friendly",
+        "Good for Dinner",
+        "Fine Dining",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "ACCENTS table bourse",
@@ -2211,7 +2697,11 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJCfSJczxu5kcR5iWOIrx0RLg/photos/AcnlKN2CpyLQta2gpBVq-5byn3hHzweDT1Fjd3fiPt-kaZKb0C--vbE82mQsI6o4qvKmwbDOC1V4QaDyTxZ0fzkPyBSsEkOZis1gaaSqbWvHIz4vkzRajPiBXsU908apuKwHHuGXXBPIUrZOZR1zFwOzO50ZyJTk4D5EseLK94bf96uFbhUs2Hd_Am4IjLWMP-Ti3zGPCzVhFBlJCVNaV9NEMWU-VwxF3yegWBKtAtqIYm6ZC_wjItBqf83r5dsL-OnMKBFy1H2EbqdT7fnecvr8HBg63gSeG2KF_P2OMrdpeuDvlw",
-      "photoAttribution": "ACCENTS table bourse"
+      "photoAttribution": "ACCENTS table bourse",
+      "tags": [
+        "Local Delicacies",
+        "Good for Lunch"
+      ]
     },
     {
       "name": "Accents",
@@ -2238,7 +2728,11 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJCfSJczxu5kcR5iWOIrx0RLg/photos/AcnlKN1t-on6bba-sCvcpyYGDjbQTjnsId-HGyYIAFzM0hlFE1Jo3pk0dn0ea2aBkfyurSr8nNl2t_T0jcMEpuSmonTqC4Cdiky1aVGBj1KnGYc_mATpx3LHnQZ8lKaFyuvmPB0jnpgC_42BYbrb3M13CRbhslpITg0ZOUHxdkJ9rLJQ1XFiN3JkZ_cTJOAAiX25miCNmZ0m80tZcLwQs1HftwOO49t19mvoKvGLjU4hHxcAGwwlWaYmlsBCvcYULGMTODd0SeFamrOuJjeFFJvJSzzAD3S1VoGdQpoiqycx28YXbg",
-      "photoAttribution": "ACCENTS table bourse"
+      "photoAttribution": "ACCENTS table bourse",
+      "tags": [
+        "Local Delicacies",
+        "Good for Lunch"
+      ]
     },
     {
       "name": "CoCo",
@@ -2264,7 +2758,11 @@
         "Sunday: 1:00 – 10:00 PM"
       ],
       "photoRef": "places/ChIJaWwsnzpv5kcRGLjGAlCPWfo/photos/AcnlKN0o5bgw_BOAmyC9yAKrk_moph4PoXcq6-RuwV8U6iH1e8tW_Tl1gLTJBjSn-NdIex3mmu3aj15Dkp2gYfo6FLEmu4mjNNxLb6w6TaBTiwNWKDoQjl0nnHf2qA7eLvLP7xVxYlzaK7yUmwwa9NyqtgUTs9TGLH0_D3J4uZ1a2iILIldEeaUnxYzHPhHmCpLGMtiZOsKKF-8qWLsL3mhsIo8t7CiIxtuVWHfnBNGO9HDMkHcq6ZRlTI_gNGvLh8Mqdrv8lwIBdaabnXufQzwkdeZb5rZq-mPCLSt53TmIJ-80HX5RpcsbEukyQI-kfF0oolEOuAG8OkFD7jq78uPfsm6ZqI7oLNbH3CNccP-c9q9pL18_eOgCuPikJrLprcr-UFiJovwhY8nnHI6Tgekis5O663M1F51oNykVzp8CMXvvcQ",
-      "photoAttribution": "Not Found"
+      "photoAttribution": "Not Found",
+      "tags": [
+        "Fine Dining",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Maison de la Truffe",
@@ -2291,7 +2789,14 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJxcWDRjNu5kcR6Hrbk-Vi82Q/photos/AcnlKN02YvtGuAo1Uf4dX3sdFinglC45rytJNTN_pB-UEj8MeMz1J-q0_nS_y8RhZcYQ41_AaGxncBWoG_6Kn7llP-Yt--_l4QB-3Bbr-4boxQ58bZ9w8KBmALVu5BgNgBPlH40rAWGrFVxulyfjc4SBoB-rft5A4i26EnX2fyXrN8yijdVLeS_vSyZf72qT9SJLi7ghdqDoQZpkDbRStWKw_bwmU5q7omnWCjZIkA0U95igDvacPQDaTADOaD7YTyacEwzWAGNfON6a4jFf6Eto5XYZLF4UM17kO9ztjXk5e9Bs-g",
-      "photoAttribution": "Maison de la Truffe"
+      "photoAttribution": "Maison de la Truffe",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Good for Dinner",
+        "Fine Dining",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Paul Bocuse Museum Restaurant",
@@ -2318,7 +2823,11 @@
         "Sunday: 12:00 – 1:30 PM, 8:00 – 9:30 PM"
       ],
       "photoRef": "places/ChIJ_ZtSoCSV9EcRwSyhmyggeeQ/photos/AcnlKN1UC7QgY1z8LaYRX8vkTf1HfoskjCxmXmeVOAsufYPeYTPcfM73t_Zbe-vy2xKNqiXAKMcihSI6wCxh2HOjii2l--H85mADMXUg4WmC77gwWzSVT9Wys1v4B1vTau176EuHwLyA78uV6a0L5TJ4qadyMur0RXXWJxMTu_29K_M2bxabevL0bgDoTtXaOllB0btVOOzPfTxnz2Xo2n-JjdHfNLNhgcGs8XFVUCu_8Gsfe25kvSTCR72T3cfcqrnjgpwg9b1XrTiMBJmgwUXTXio5O0Rsjcr03wqeEvWFe16BFA",
-      "photoAttribution": "Restaurant Paul Bocuse"
+      "photoAttribution": "Restaurant Paul Bocuse",
+      "tags": [
+        "Splurge",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "L'Etincelle Val d'Isère",
@@ -2345,7 +2854,12 @@
         "Sunday: 9:00 AM – 6:30 PM"
       ],
       "photoRef": "places/ChIJUcidd8ILiUcRO_dq86ZqMlI/photos/AcnlKN0CWT0u1oa_6D958AfHDKlgsGrG4uVjNI61Jl3EAq96jKqphUYfyOmZZQuGfBcF0s7uwmexSDOfLA2IkWSsm0kSQ9-EwL0RTpRzjJGlRmo-JhG6UOz1HfbuKjSWFeTTvNsO41YcwdVWk-atzKCYRRI8aXYNwugh1M8381eUSWbX08cVdeeCjidNZRK6GtWsIZqBFpQSI0zrG9umqI8hl-qW9KweppIXs1xjfEstxJSDJ2eKiz4qIl3ZV7mtt33fA05-dSONDnNfG-eyyV-LMAs-l7UGe5qNAOFYGAcXKON2tg",
-      "photoAttribution": "L'Etincelle"
+      "photoAttribution": "L'Etincelle",
+      "tags": [
+        "Good for Dinner",
+        "Fine Dining",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "La Peau De Vache Val d'Isère",
@@ -2371,7 +2885,11 @@
         "Sunday: 10:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJdbQJ-L0LiUcRp5V47VX80ss/photos/AcnlKN2FhZVdDIsyq51mREmIWmtfuX4Y3B1feI_n7gVV2V7YSibdPXuJ8HSmCir9n1ivVGewCp_Fi9jc5MiAm9QwwAKTXusJljgQwb2l0xctv2YWFfm7ZonYPxFiWcqHhtjwy-UM0DyHegqOrydfiDUwBPC43zXx5kuyde0pO-qSnUWB_knqD6FjF59Fj2aRJcIceAlfhfeBXF88IiLRehs5s7iVk-VaQ1gswaAdZZxU_ueHSZd3b7Q6PEI6p_2VDhrXj9bBrsCTFdk153IXQR-gPJGDFcRyeLD_oI3UlcVtThxJWhuzjFWxI7J_W8fOn5Pd2bV7X66EIbtxBia6ltf1Xx5puLG6BeeurJ9AAnu_JBH38xjJq_Ou9oqDAGqcNpbQtRdWuyM97atwVoyux8chaSKT78biONm1YXQK9wuXM9BePg",
-      "photoAttribution": "Zeid Ramtoola"
+      "photoAttribution": "Zeid Ramtoola",
+      "tags": [
+        "Family Friendly",
+        "Good for Lunch"
+      ]
     },
     {
       "name": "La Folie Douce Val d'Isère",
@@ -2398,7 +2916,11 @@
         "Sunday: 9:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJ4-A_aXoLiUcR2EW1IZGH1wE/photos/AcnlKN2gpQFP5VNaCJNkvPbbu16actVZqBdDda6C7ZfrIsiXlByeWAxaY-JH3a90SKsIkyfe30g7SMwvAXnceAl2NM9-RXy_wu4iUDhI00t3WZW7aeiBGzlYEQHU4oGTb6B5wPUJIK-ZQu4qaNTMniAAfn7V79rG8efqVxyBYC90n9m5M6t-tfdzH6MuuOTkz-B9kQo74iMFr37LGwyOYI27tTzD-S0q-dnQJFk1ZXMbk-CEY_GGZiARzRTygjOJxW9sguqGaDiDTQqUW13tPbShnd2Af0jCHLNEn_Zb0UjFNvyrwQ",
-      "photoAttribution": "La Folie Douce Val d'Isère"
+      "photoAttribution": "La Folie Douce Val d'Isère",
+      "tags": [
+        "Photography Worthy",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Le Panoramic Val d'Isère",
@@ -2425,7 +2947,11 @@
         "Sunday: 9:00 AM – 4:30 PM"
       ],
       "photoRef": "places/ChIJ8dJ1CisLiUcRfXq1q-GOhAA/photos/AcnlKN1ZTEMCiw-DFLrFJioSYvxPmAZ28oI3er-G5dnpViW_hMeNxMptaSMKrlHcKe3AvVPwaxjHjYRFXEZvQ5Wel_LwvPAgGVJtGEg8KhAUjpMzPe5DX8rdxFIMxZ6OaJEm3oag0XDySa1ceSl-kE2sB2L-V1WtaNMG3bXBawpNfJHTGSVm9GJQ2Tk85qoERUfD5yg_8dh-1_6awjrkBaOqS46GOWk6deG9Pac6Se0KYORVymHhCYhB7yluFTqpWxnU0E8P4nPPQou-PBTpJc5rQG6aH0xZTTTNX5q3gU_EZ5bVVw",
-      "photoAttribution": "Le Panoramic"
+      "photoAttribution": "Le Panoramic",
+      "tags": [
+        "Photography Worthy",
+        "Fine Dining"
+      ]
     },
     {
       "name": "Restaurant l'Edelweiss Val d'Isère",
@@ -2451,7 +2977,11 @@
         "Sunday: 8:30 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJffkHvTouVUARA34kUTLlT-I/photos/AcnlKN2kFXKGv5LJirHsROOHCm1vGCA4YFk2xGaeX3nG_xoBa5kzcri5oI4QO04WxKuu3TNX8EweSv89H4qpz5SsBVdC3cvDeS-7k9WpKHnnNbTojyFlBXjDzfeqbr9PRJKaqXYG61tqZnA9FTimTAq2BvrSaVDf32Lelzf7phsXciJ2cVgCJNv2cDbwm9_Xpsk8oc_ZU3XKhh97t8p2uVxY_MsGQXn1p9_mJYQn27WBXkQp9K1d7qG0BIgGFfO66vjCU-4bTQxY_axl70tbeo8xb4j9rLRgCrUpgJdHj6XSiKcuGm3vqhuNtkAFoP-xp32Dj6NcN8Olh2xxdzAweBakCi8qybGhjUP7tNAlH2SJlqh0WuSbC0UEMDQS7mD8fYY6W1G4uIKFQEZUniAd4pUv1BIxebD8lujtJdz6E0v84iZE2Ol4",
-      "photoAttribution": "Avi Maimon"
+      "photoAttribution": "Avi Maimon",
+      "tags": [
+        "Local Delicacies",
+        "Good for Lunch"
+      ]
     },
     {
       "name": "Restaurant L'Alpin Val d'Isère",
@@ -2477,7 +3007,11 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJOZljGqMLiUcRn83f8rDfAY0/photos/AcnlKN0s03JrlnBWZ6w9y5gH5-nBwCcy6TDkuR7tlEGbbpYoXqIYEhGppJiS4imRu2YdY-W90pSO7qJfq38ssgsm48mPAGmZR60_LJ-V7SaONCf6GO39459KUX5zW-WB_HZZFunjeObdW6zPJSO-fN_MIz5i-8W9Xu4GfUFaptZtTDnKmfWOiijqhzZlYqWz0GK83EZCkG5BgWCx29qMZzFRF0B_-KkY8qqQy4MrF30rY2L73DnUfEAafx3eivouaPducoER4uOVhMFHF8KUUqdxumc3jgi2p6SUBJuBmYjqAwsIyoXxEjlp_MiC86UelaQ4h2g2QQ20Zvu3MdX_Q90FqQCfErN7ohNdbu63FQ7PCuIpQjAJTk6l3Y3grMsFABnTA713HV-t8qyT67o3bM7Pf-vbxmAYrYImQtMKuD_DSkggXSY",
-      "photoAttribution": "Pérgolas BARCELONA PGL-BCN"
+      "photoAttribution": "Pérgolas BARCELONA PGL-BCN",
+      "tags": [
+        "Local Delicacies",
+        "Good for Lunch"
+      ]
     },
     {
       "name": "Brasserie Brunet Val d'Isère",
@@ -2503,7 +3037,13 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJt18o_IOPi0cR98z9GSoAIIc/photos/AcnlKN1LPGd8siKkuOQC3mGLNxPqK7BmFV4x43HMb-lmmUBeQ2-CeqGzy8DUQQcvNp7NL2LkMfuWhT8VGfBktXeBdcVreT0Hxz8LhUq4rh9nXeIFgW4mkk53niNuuIdTMUtsZWNLBWGy4L5Pll3-h1FxReJcfznIvT0dgbCijRlq0Grskvj66ccMygRKsYI7k7hynK3tJKRwdf63IEsEkaeClG2cnOnH22FhEqoVpR727XIzlxYOFpeCxFVWfAhnecUa-RGMBJz4xeBxJoyk6yqWaOyIuu9kqoM32jQHqONkHIM",
-      "photoAttribution": "Brasserie Brunet"
+      "photoAttribution": "Brasserie Brunet",
+      "tags": [
+        "Family Friendly",
+        "Good for Lunch",
+        "Casual Eats",
+        "Local Delicacies"
+      ]
     }
   ],
   "experiences": [
@@ -2531,7 +3071,15 @@
         "Sunday: 9:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJD3uTd9hx5kcR1IQvGfr8dbk/photos/AcnlKN29JY1BnbogmVRODYHfHFf2ifKibswTQWge-XhNh_-rtVwl_lpYOPr8fLzs3Jh9aQV25EvPqwEZurQUPrOR_4iYYkoDhRt7pe0OQjDheTxilOEZ2Y0Hi-54lEo80KoXF24bqYhzd_D4p504kl5UBmAfOCzdn53-Rff1mxwFDWALPQwT72hVlGbxjAZKpoSUgzU1oHKScsgFk4R6FdKHe6-SC7YLnekRVqtGUHmvbds8rtu-YMjFafB6ZPy4lVnUtNcUuxfdv9kBWYr1tD8wgA2gFKTc7RG9A-5rucGcucFul61mNB3pKekvDfd7DifhP5QQeQrbmcmjwhToZHFbCrb0tANx01FTslsOSNVBr_NuIFXLWAlQmuEcXqqz_cWyfL2u2A6QyVN6AWjj2PhS9lHOlG_kvPaR7LvTM6kWv67-A0YM",
-      "photoAttribution": "niell brogan"
+      "photoAttribution": "niell brogan",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Cultural & Historical",
+        "Art & Design",
+        "Wellness & Spa",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée d'Orsay",
@@ -2557,7 +3105,11 @@
         "Sunday: 9:30 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJG5Qwtitu5kcR2CNEsYy9cdA/photos/AcnlKN3uGM_eApftZgUNGYcAfB4owWA2q9vpn9G97zmVgeGW7U922EmXuio5SFa28xja8lQOx7b1ijqeavtaGG8MfsQ30DV5Z8bLP7lw8hC27IqE3sazBV0KY8KRGM6XBzmRS4UCCyMairYm1xH_eSRNqy2GUasN4KXWiPhZoOKtc-Lek_3TgcuSE_hMzBNtRNaEtEKEE4X-AdxWkFckZTKw-MhqNFNPfd3rdZrfbr7Aohiv8wDnIgqf3JK8lbCjA8dZf8eY0B_S_U8fbnsit1FhUOSCM3MNDIP53vzo0Rd9xJ7FYn4akyIGjJXTLFRkJMt_Pf7YBJGLK_2ArOChexUufjQBHAbWLiO8lzgGnmhDUIvIJTRYusTLR_bSP3Keo2DggMBbUjgfntwf5JZC9lQIxA-xgvOx_oDZ486-masKjVQqXm1S",
-      "photoAttribution": "Rami Maki"
+      "photoAttribution": "Rami Maki",
+      "tags": [
+        "Art & Design",
+        "Nightlife"
+      ]
     },
     {
       "name": "Palace of Versailles",
@@ -2583,7 +3135,13 @@
         "Sunday: 9:00 AM – 5:30 PM"
       ],
       "photoRef": "places/ChIJdUyx15R95kcRj85ZX8H8OAU/photos/AcnlKN3x2ywVSsWNnOXWXeqw457LEjzc-qaK86R8e2V2IyI7uWQyoIbhtUE9hf1VwDrv4iGv35J8rnSusG5z6C3vpHAO2M7V8m53L3-sJ0c2Zl-T5YRhImFZMvP3tJaO4RYzLE984ZriGLZcdWKT6xPDVeHH-3fNR3-THskjquYFGKauQda5CEY6QOnHB7nptxDV0vzQ2lyw9K7V3Pu6y686Dp2hxYSdDHp4gvp9mloUFpfqCmUUSO2MM2AMXjv2xzt23nhZyk-M1jB6YfrB-bB1nqzpy4z_VKQy5d4io7OigalzzmNRnIPWMASE_erL8Ru4dnv-3hFer06c0AJnTx_7LcUUjljU3tFdImvA9DZdlcpOmhhJwTEM5hK4nrn-WfznEhdK9U-It__W9bbYtdCoU-_qv8GuB7U3i652x6gfm4KSOD15",
-      "photoAttribution": "Leandro Freitas"
+      "photoAttribution": "Leandro Freitas",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Outdoor & Nature",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Mont Saint-Michel",
@@ -2597,7 +3155,11 @@
       "placeId": "ChIJs-6cfNaoDkgR_sMNfuRMg8U",
       "address": "50170 Mont Saint-Michel, France",
       "photoRef": "places/ChIJs-6cfNaoDkgR_sMNfuRMg8U/photos/AcnlKN1IEuwe_lk7nndnbSE5bKYUF1PHl35_Kd-B926s_iZ1qeAdb9Xj8UuWOLJcHbK1Kiis_gJHKmwzZv7GeXsG0J2IKTXig9yIbUy-K0oIcMj-aMRc5hvopEKFoJr4vnOWVAuYjN1WQts_UzxbyjD9ELlNmr5xepcOukIAlwo-7NDyvvtNt4HTerxsyY920OJjX8iIHMiTV-ayUf42MjqQNucKdKz8g82O5owkb5PZG4okt-TLVKflg0nIyAbbkqZTfbsh1sVrO7-SaAJc7hwsOmb74F8XCexzwLFk36E4pqaBeSRkstbKmDwjMFfCLmY8UYD-1z_sxW3tvyPH-zuhasY0FMPEf6Iw_eBMAP7ZeB3mfnC2nyU8kUS6vbbKM89O6xfXcsfUIY_m2e-OM3atIa5XwwgH1z42yEHzy8FgWGHezQ",
-      "photoAttribution": "Saraipara Ideal School & College"
+      "photoAttribution": "Saraipara Ideal School & College",
+      "tags": [
+        "Art & Design",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "Notre-Dame de Chartres",
@@ -2623,7 +3185,11 @@
         "Sunday: 8:30 AM – 7:30 PM"
       ],
       "photoRef": "places/ChIJlYA6J0QM5EcRISiIn2K1IBs/photos/AcnlKN3t9A1OhkW0uTJS7ODEpLjQVtB-jtdAUma8Vou6_WQwYiK4PqDQW21QMaFTOI9w-G19MEstApH1Un9b_MKzc790_VrPuDXScDrYeDJ50qk5oQaWOmFX8vy36JNjsKGxUfKZAhyuOq3R7ZFPDxwg3dF6Gy-se5tfhAAct0smk2tIHw00HHmq0-PY5OKv5VAaUWymRll7DUsvoO79YjjlbpH7Cd322XG2UrjaV7PZOjgoRFxo7yWG5AMx07y9Ea53SK9bgvo4d8hKMOp9SL0P1l4E_Eoo222VZ2hds21DBTnRTkrPD-qDCRF3SFeFKiok5D_DrZSyvsLcOfAu_WCt2sTwGzUg5SX_Eav3Vs6HvuiXUveFN1c9k1IeLpqMAaz09NXpj-krXCkPXY8FLj9hTHrLP2pp5L2k2RmpDDGjR_dWoYUT",
-      "photoAttribution": "Kate Harding"
+      "photoAttribution": "Kate Harding",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design"
+      ]
     },
     {
       "name": "Sainte-Chapelle",
@@ -2649,7 +3215,11 @@
         "Sunday: 9:00 AM – 6:30 PM"
       ],
       "photoRef": "places/ChIJR3122B9u5kcRaCck3PlB9DM/photos/AcnlKN286yNqeRa80qXcPqWN6FFiiYixVZSXj9dDjhAvJVUzS4K29CjEMskSXpf6mSnG7sTJidY7Gv88alB0u5xkBHXdfQfdPydX8Iz8JWPd8rdIfgdnkFzc5UG0TOpW7vhFXgSxtS0kxzQeE-foa659dTKxwxZOc0cfjjinGANWa9YqlgXUK2Vu4PX4hMbZEZd2BFIpFIN0PGwkV8kPD1JyOmP371-_41yHZ_wqOzSafn0pFc57Rhuhge84VIh_V-PcaL8qiLMlTld9zG76QopuRqZgRj3d8x-Dz8EHnbydDCB5tPRybGlArzIlzev7S2D2fJz306e0WzN6ZwiVqSLzrD0G0j7l9Tuv5xTyN7FfUsxFcH90knXyJiyPdq4DoFZQJfJqzIe07liDQaxKOUPserBOPT6-uiC56IPsqIP_yPNdgg",
-      "photoAttribution": "Rich R."
+      "photoAttribution": "Rich R.",
+      "tags": [
+        "Photography Worthy",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Arc de Triomphe",
@@ -2675,7 +3245,11 @@
         "Sunday: 10:00 AM – 10:30 PM"
       ],
       "photoRef": "places/ChIJjx37cOxv5kcRPWQuEW5ntdk/photos/AcnlKN2rMhL67sMqDfqjNfzcX-nGYRXSmXEE4-vmW9SCdwbQQXMsvPKkbXdZM6dxUprPCtc8sXGzPVIAiwJnLJ_-Q7KxM7qvhrgKEbsBDt3b593AWb8hbhECGCaV3sWlk2jz68qQMZgfuHSLX20pxUuvQStYXEYmCazKTMr-coMyPFr8aGKoE7JcI8t5KmUiNJaG9gFWE6jrPmyDMqv1MUXA2uJcgrp9PESW4rtvi9F-1zgAxx4-LQVHrjJ71VUB1QBx0vdDqSnzXAJRxyPbYjqjLUlVXhOMjuZMe22ExyGs0a8I1x40BLGo_eQWbeBUNjS4E3dZYkKlhmErcXCtFYYocb6Zq8uBCruT65ZwpcLQMyh3EwmJeTg147wUrjz5ToLK5zmGMKqr6bfDYkrZ6W_V9S6qTFabGLtfuo99OCbtCwk",
-      "photoAttribution": "Oscar Mac Rory"
+      "photoAttribution": "Oscar Mac Rory",
+      "tags": [
+        "Romantic",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "Eiffel Tower",
@@ -2701,7 +3275,11 @@
         "Sunday: 9:30 AM – 11:00 PM"
       ],
       "photoRef": "places/ChIJLU7jZClu5kcR4PcOOO6p3I0/photos/AcnlKN1rFch2XqbsKHxt-5pZBDi_znF4Ldn1YNOHahYSj7qwb3tRRNhdO0gyFvzH2A5iyW9fRoDYeiG8F9COf7ToZIrN-bHuHsWRruWfvJbvx2svpbEs1xnoh_lxwKTyeIdYwX45NdMrPGExYex6mZpel0rrTIOkbvFT5HdtKiqalFOvrmVZEF4DCD4c6UFaGcDsOv_n6ZjgyALL4ltqH2CoLRUReDfD51TWSbDzHGyHKMoqoDhDRRyDPN1OP0cZHc49cklnlCPpIJYKZJkhSDd0-antgNAw8j58izWqE9hAg344cwLNfLGX_mxGTwAYhwHJJj3B3SgZkrsOEWaP_YZRao0rKUIpORAe5joU7BZQ6Tce6Iqc6SJIXUFLZJN7CeUZyLbzyCe9ZtA85qXzEqPM5wR96ZDHAT3S5Jl_faanIqROOyzM",
-      "photoAttribution": "Sampoi. kz"
+      "photoAttribution": "Sampoi. kz",
+      "tags": [
+        "Photography Worthy",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Musée de Montmartre",
@@ -2727,7 +3305,12 @@
         "Sunday: 10:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJWcXsQltu5kcRbqfaH0NhNxE/photos/AcnlKN1UjXniiC7Rp2fUcl_J4NvHcyKia4KPNaL0PmL4IDVXwqSO1JYKpw6hV7vtOPQP_ziZF9EMrw7HqJQnQzu_ivBIpbARLurez2UHT_9_r02Y2UlXDcHzQzGDpLIOZ_Pj2z_T-hAQc3vaiNMHrZJ6YvQTZUVJlB2YvM_BRYc9LIqyGyWU0OMORnEHAXeOWHNCea58BrqITMLUiDkeEibakmP3rr11BxEPkz5QBXDprfVpspIwDKKMpa0cGn_HqT1ZfBNQUucaEIH4B6RIWj93mthHqQl-u0pyMtNELeNUAalb6qIlvPaLAwztYJ82-2XX1zdI6107BRqqibGL9DvlWtlplwtIXyrEyw9MR_zt6pqZZ-8WGRjABbp2Wbuav3l-Kh8VBTQLGMVz67EGWm8wcsMOQdPq7iPHXRPtwkJXuwqFqQ",
-      "photoAttribution": "Aurelia Cheraiki"
+      "photoAttribution": "Aurelia Cheraiki",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Sacré-Cœur Basilica",
@@ -2753,7 +3336,12 @@
         "Sunday: 6:30 AM – 10:30 PM"
       ],
       "photoRef": "places/ChIJ442GNENu5kcRGYUrvgqHw88/photos/AcnlKN2HQY1sFEY_Krru-KoVd-nmWNpXQXvnEEeisJ5oCSg-ZhO4vtfj1tX3sJMxxtTljkpCz5x5NweAaiLJ-X2nX7u1ppKI67jCZIpcY3cKyCzDIgHSRrPkMflY3Na6t-zOFi1qm_GSSgKKHXJGrtceTOPX_A2n4pyD6c0FBU6OkGuykLQOQpzdxnKYidX1VRtlz_tv_t9HmkdtQIk58iwPqeyZsGdncnUJgyaPc8nU0dIJPxQNKXCQDvSSL-yMJsvTgcY41sPqo7655Yo4YaTChAeYRNrDROjpxD9MqHKxk_gOCJEUMfdr9IqpTfGUr-UYyDN8uEodh2ZPBxp2yU7YYmkBU8IBk81C60VCT99SwCGSVhSTDnYNbVZ-zh1WveBWHaomeDPCRa6hMUMApRQfgJzPgY059_qfxo0MxwPZuNYTew",
-      "photoAttribution": "hiszpan400"
+      "photoAttribution": "hiszpan400",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Art & Design"
+      ]
     },
     {
       "name": "Musée Picasso Paris",
@@ -2779,7 +3367,11 @@
         "Sunday: 9:30 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJS2t0QgFu5kcR92388prakcE/photos/AcnlKN2aZhaelof-hVSk2WSBWh6GXHShM_sQ5JP0jxY9lKY_FoERfjc1OE_NTc7XtJt6VFediXV4jX37eSMRUFoeBdl2bjOFXSXLovAZq19oMS_e0OORzvIv_cFIV6qxM-xysiT6K9OH6M-jdlrGVl8xxQjdSWpsnIi02ObKnqsR8tp729WQ1NNvq-rDWbP7XlKwjnXPK9ItRyZKvBYp0rlcFz9y0En_D6WWr_rp5bRkMLAP9HC2E0J_IwLVs9uLDasQ7xRIDZUpcZMGpZrj6oXN-I_S1PcW2JW5vsYTLmuvIrh96o3A4StjNUrlXRCuxolxYzy67qcBXiekunrT6uXQC5hW6RTsAaXM8RbYaZqQmoMZpEXfUMGWGLemhK6RRor1RatwdHC6M1gQ7BBTrE2XQM-jCo-zMXpwXd0tEqxlVXc",
-      "photoAttribution": "Franck Diverd"
+      "photoAttribution": "Franck Diverd",
+      "tags": [
+        "Cultural & Historical",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Centre Pompidou",
@@ -2796,7 +3388,11 @@
       "ratingCount": 57260,
       "website": "https://www.centrepompidou.fr/fr/",
       "photoRef": "places/ChIJoyC4CRxu5kcRRTPcWX5srLc/photos/AcnlKN1cViW02kLqjf5QLQTW8wxzabhfmfUfpgquiQ4XzABTdjICkT2lDhpCFu2SEB7W27ekb7-7nnX4n3qcNmaZ86-aTwS6SEj2dX7hW2u1B2VcW79e0toRfI8knwa4XBQJOvI903syg_TG2BZbRhhVft_baBY8S8XBRit7MwGmr8m8seFcKJ-KvvebrpbPKrtaABrezc2VruCbHkOjbW_nRFvJB3qjJTdU6WYy2DPZpjf_jm3k0907H4zuLhD5bV4UFWRIef4rijL49uyjPMRY6JtgrL-9s2R2mHhbfjRKNMlBH38ZQPU70mqf3Y7eDDAOvdAFU4qwonfJg-ii-74VMzsChj2NeI2RB88XgmSPreX8sH4Ay8kEVS7pbr9Y_fxZbH5cAxlvyyK-r5Cq-Z1hKTTFuKSuuzBxdB465qcYnb8",
-      "photoAttribution": "王永年（Chris Wang）"
+      "photoAttribution": "王永年（Chris Wang）",
+      "tags": [
+        "Art & Design",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "Panthéon",
@@ -2822,7 +3418,11 @@
         "Sunday: 10:00 AM – 6:30 PM"
       ],
       "photoRef": "places/ChIJc8mX0udx5kcRWKcjTwDr5QA/photos/AcnlKN2OWQoHBDQ-Tpo9iJXhxlydn8a6RqZTc-c_jR3fmRCZg2SUZOa27ujDil7K0uwFucjgp4v9aljbp2wJY6yR7v0Q1FhgXpc0lILzmu13CDX15Dxa-KMs_u756kSJR6j_APWzrybjTw7KqrrGTw3crgtuIHN8I8efCg6jIIORvZtBoTCpckQ-9PzPopm3dLxBzUpn3vyqnO8ybbvkSB1EeMsxSPKxNj5ePpoC4ylxAuQ3v39QVWS16uPYNWbaqrd3M6ucFty1sh8b9vX94otV5SYuskpnDCUptcH4gFWAUIOGb7fit4S4IukD00_ABTXRoxE0QSrvVV_x9_jWf1450qhcn3s2CgD2zvWBuokZLUTF_3I9OkxZVoHAahJD2vBsBjkvmv13cy_QjjYLzEPhuzRHjXBmLDUm5hrOiGTDQUT17v_e",
-      "photoAttribution": "Arin Khachatoorian"
+      "photoAttribution": "Arin Khachatoorian",
+      "tags": [
+        "Photography Worthy",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Musée Carnavalet",
@@ -2848,7 +3448,12 @@
         "Sunday: 10:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJfRtS-QBu5kcRwRg5JXVrwcg/photos/AcnlKN20WSq9UL_KuAXnwBZSgbO_sC3SBB1UKolH3vYdZAHYS-QZA_qejdyH7ejNPbOG8rdbQ_x-JMdRINLAiNxWBmMnNo6mSZ2P3icp3-hwqk0UzS6JpCjXequ9Fxrz4GmRzqZBmN5nzVBEqg181hs9Zq4QTRdcgB9xYRDTxlofvqfFIu_PxRT6_-uZU2C-T3CshWzyKMVcYuN4zt8_CoVEDp1HR0iKvkMz7sd8NSlhNfQ0PEd5yZSLkbem5bLsjdS6iJeKxxkeVToTgTPC3shUXklojyv9_ny4UU1pgH7aX2imvksR4Sxlm1FdooOXtK6DzCnGjNI--N7NV3KjUWQ36PdsJ7b6vA79mIGvvT4fAn9iPuYAsZuTKtriKYg7pzpDf2UFelXgehaL6ws6Jf_evnCbYV5cFD3f3E2QhF3XfeLlnOc5",
-      "photoAttribution": "Jérémy Huang-Yau"
+      "photoAttribution": "Jérémy Huang-Yau",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée Rodin",
@@ -2874,7 +3479,12 @@
         "Sunday: 10:00 AM – 6:30 PM"
       ],
       "photoRef": "places/ChIJQ9vMHipw5kcRWHC2ESjYaGQ/photos/AcnlKN22Vuz9UfIQVvqsLTOYnulSEP5wsd9-T6z5iLhrlOv0DVLEBIM1RaAsqW9QefYw_bTU72p_dg2eYECW1JagDTsYz-ijfYioBMPG1Mskfz-PZR3HfuLcbTi8-rPVT-SssEcnV-6HbiWDln86JxV6SnGKn-Bfq9u5Geul_oqmQGLi9TiQkJ1feyZDefKwhzZ_bXgh9jeRtFeezKnmtc1Hd0WgUX55CfNuqSGKwu9c-wBFfF5cxqGItpQFC8HRn-ZiST5d96syEgMiSvpaJQmQvlstjclbjVUSLp2dfKTS2zY_2D88Wwl_NXFruI6ULnFILaXn9vW4YRQ8BcsFHZgQmD8wonAp9-xW3Wy1Fr9a90up2nUUqyJFACo76avg8WS5ve5wWn3hfemyEH8VGeWTUsIR-RjYcZtR2kQEPrZdxe4MZA",
-      "photoAttribution": "Josephine Pacate"
+      "photoAttribution": "Josephine Pacate",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Art & Design"
+      ]
     },
     {
       "name": "Luxembourg Gardens",
@@ -2891,7 +3501,13 @@
       "ratingCount": 122932,
       "website": "https://jardin.senat.fr/",
       "photoRef": "places/ChIJe2jeNttx5kcRi_mJsGHdkQc/photos/AcnlKN2guS3gHcU3v97wQWa4xXjogTGQV39GGE7idODpbr1Mh2lRsjcTOB8YA2W3Cm0v9gdk14KnZ3vbSsYg0xtU9-gZhUFfaf5UaaSsdQDjDoBdCKBwGHJumde9LGo8Ld5XhpoMth9puR2OcR5-ASJcvrbcdzfXx7wLnNDXwx4i1__7Viek1MWKQA3cWTidUXn2lI9LZUqyi55nUM0OE3RAM1kUQpGAajs_l2NxTP5nTtwxot7sX9-J9TG81E6HFGCvK7dPuxO1-Ja4wKhLJrf4Q6nEzXucS00PSj3weyqWH-H8sZnE-0rmCAoHpqnsfcOczvQD0a59ML3VjHjK4-u82gqrhSzSAncQRewEsjzF2SKoVSCXnvpBR-L7sKP5esvgHvm8VB4wBM7Vi8PHm7u3pKsPctK66T74bImpGT50NCQvfw",
-      "photoAttribution": "Camelia Rosoiu"
+      "photoAttribution": "Camelia Rosoiu",
+      "tags": [
+        "Romantic",
+        "Family Friendly",
+        "Splurge",
+        "Outdoor & Nature"
+      ]
     },
     {
       "name": "Tuileries Garden",
@@ -2917,7 +3533,14 @@
         "Sunday: 7:30 AM – 7:30 PM"
       ],
       "photoRef": "places/ChIJAQAAMCxu5kcRx--_4QnbGcI/photos/AcnlKN06ok7UV_A_yzophlkakR4oh9KNPEikzAIbR7IbdUAkpzlDwk2U3SwgzsCSSqXb97MG3xl689gTppxbQvBOg2qw27DxwiKxgZS6vatI5gLGWlLs0OTPXCc5Gmz9HU7vsNqPruOlewd3sBiEXU0RbZj4vsIPzdkXZ3-S8SqDfy-A4xsniIR7lkIqOHAlDDlJ6Sb3LHmg6VZ4qL5V5QpX1Xec3TesgXLkeTjOI9DeiFBVUNoj0eQPmflCUKO2XIf3XGzwCanUJmWmEcluxEdoaEjcgD_FWSgP2ZQ-ffazGoTSH5AIQ2EIiKVPPXZ5skOpEMDuTsPJrV6HvUsou6DVrrdwXyXL13CMiM1SeUAQPHIIew6IyDf3GwngJXtZX4o_MNPKLpfCO686aj1caWHbu8lz5SnrdmNNXnRdFWpZonA",
-      "photoAttribution": "Serg Brandys"
+      "photoAttribution": "Serg Brandys",
+      "tags": [
+        "Romantic",
+        "Photography Worthy",
+        "Splurge",
+        "Outdoor & Nature",
+        "Cultural & Historical"
+      ]
     },
     {
       "name": "Musée de l'Armée",
@@ -2943,7 +3566,11 @@
         "Sunday: 10:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJv-rX7Ndv5kcRJ0IdTc55HnY/photos/AcnlKN0etr9Y2fG781rYX09jcV9kiq-kE1Kj7lrKTzI2BzyJUHojo5QkV4KHoz6OK8dVz3b1biLejmQj8hXx0bEe55iQ-WCNvFJPd13dF8mcmGn2vgkAhcngPAzR8xDtVXmhF4SFuivoho3FXO8XGyG0masY_a5V1d8FEXxo6BmIiUkwX0ArTQVQiU-VmHSWNoZjDbJaInH5ScpOVgZ6kEJGoVkDYZ9WdGVLWBvvAiOtP5lKW-K0jkY5qAsW7M3AwvDUy_bjHwQ54UVflWq66V2O4xeRQDpT4vs32Pf6y4zt8ZpSR8nSj2EwXl-s-zQsTd1alb2uyOiByT_uD2eJbBRtjHl8PXJd6CtsvTrrT5QhUz9oXPOAx3Z_NJ5tOdp-n8aFOvF_AhaF06UIinsO1Acr0V0pscsTOFXZAlKkdUJzIPLpnuxC",
-      "photoAttribution": "Nicolas RITA"
+      "photoAttribution": "Nicolas RITA",
+      "tags": [
+        "Cultural & Historical",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée des Arts et Métiers",
@@ -2969,7 +3596,13 @@
         "Sunday: 10:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJNUTIphpu5kcR4h07VuxFIHc/photos/AcnlKN3ENtRRc3167ZzDBX5XTRvNCfnZlntH72uDvS2P8GacI_oRGKnLhDKm-t51oXXSV7T0oGcxlcFPk7AYcoIeTkjHQzaVA6QjxIDJnkaiQ8juB0BUbUqxWBs_bs7DU7TQ2s0EYKwmy6bM5vjlMmu0EjNzux6wAB6b-mVnPfBEJ3AZzMT96mHuDXUK4Er03BcoSsw0LcWQ7DS-3NMoFQ_Cii5-7LWHs5rX_SLnMGzf5wPJSXWGab6C4sh0mV9uFdYsv8u6ibeZGbm0IifJJX9cIOZot5sQOfiowpVfUFSEWsFd7aaQ20OiCRBfTsAJ5g4wSSpvuQXEKDR4rEch3GsKHEC6SaSCXqstJS0zBmPCyw8_yKLskqxgHdOzco4fSADmSHcsBmVDBCThvtmWx6v_3k39PDtikEdbio7tReAUUZ0Bbw",
-      "photoAttribution": "Andrea Ferretti"
+      "photoAttribution": "Andrea Ferretti",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Adventure & Active",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Bibliothèque Nationale de France",
@@ -2995,7 +3628,11 @@
         "Sunday: 1:00 – 7:00 PM"
       ],
       "photoRef": "places/ChIJAflt_zxy5kcRmeE4zjXi9ig/photos/AcnlKN1uHnWDLYnulpj3wubGbReoFOr1OjNPicwAyTzpZjV42CVxeKATtSkI2bBDvYk1r-DqkiLoJ-6rfVqaEccIbl3IxwOSxZAK29hNNEAGKZ-bRIgGbawmVfqaiufhqO20Ai1rmYjE_d5ROq3osEaeeHIMWtHNDhApxpcVgoRuTp_xuqyrqy5gJ06-X0EACj5wsPAVAiQEcqeF05Lvj6iS2Q0b6gjnRooHB5zTLsl9urOi19U5xs4H8c55Hu_FvlWRET9Nh38vDIJeyuCbjalqzf_xfwe4TRHRRpQFIDpgQuFLKGnbZnJOxceUQo8qMEK9gPlyy47PLwtAhlY57SkL8xFXKNI6SYyeyRltwY2hYn_3hvLyeoUbIXC2CMfNQk408Tt5CKFHkbOeHWvHfo1IEaLOfgDW7iNOtq5UaPpVkh7jEH1W",
-      "photoAttribution": "Pierre BERTHOU"
+      "photoAttribution": "Pierre BERTHOU",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design"
+      ]
     },
     {
       "name": "Gorges du Verdon",
@@ -3011,7 +3648,12 @@
       "rating": 4.8,
       "ratingCount": 5654,
       "photoRef": "places/ChIJfbkvB735yxIRCeXMqWH0znQ/photos/AcnlKN0vIa-Fz9BGeq8uLPyBgUwBi0S2d6_Pt8LKUv5t5bkTMyy-ebzXAfnvF64lhwvHtj6k_OHFtxAGgqqRpllM4gX7lodoBME-ZtNX0uC2cwho2cwRqjW2FY-RzH6d6jkQYYX01pq3cXK-e2uFg373LRvC4jCvz4f-34HikDET4SE7pXvZQ_MaAX73JlsrC0CdnuHKSSc5cC4iqf8AjJMUL0sLRf33EymS60UUWRXGdjMNCmSU4Vt6HUOxIG8bTabalS1iddPJv41wlCyhf3DG7Ay67LBPnsKU70OxYEtFfZ0nfqhhbg6-pItVFVmcLzYXhjrHduc1ptFBD9-ruiqRzQGh0iUhEPA5Ace_oBoDwMoiOuIBT7RXQQGSRZw9x3pdWhsJOBzjbDLAVG3hbneIsea0pNavCLi9EVOr7rRAbaMP4Owv",
-      "photoAttribution": "InHz Prod"
+      "photoAttribution": "InHz Prod",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ]
     },
     {
       "name": "Lavender Fields of Provence",
@@ -3027,7 +3669,11 @@
       "rating": 4.5,
       "ratingCount": 145,
       "photoRef": "places/ChIJjYBB61TFyxIRDXKdKPRYP24/photos/AcnlKN3EDr6AzPBkVSOUqfvXC-LTREJtuZKWyXdy_XTWnvUw68O4Rkih_fLOiTespElfDzPiE0LvRqS3KP-zvr1mDMuH2c5LTrybBI77R-V01KBmTdHPCBIr9UX_rkOQ95FYl4afhNwIBkbx5xb8ETXcpIe45n_FUb6TdFP76-zW8zIpv83TV720ISAziOQdQWRAQpupFmQbvQ9BM-GaPbZmPBkEkv2CuIAiGcoMeo7XPuxm167PTL9aqKyMJPHwnCTIQ111TwdVirS3y9EvSOmfq2x2m2uu-90-0R2G3HTxyFehLhq9s4e5ZTK_rYiDd3FCfNj0HI0AP0ypoiwoGEeRbQW60HgKTeVD8Urz9hal51eaBMCuV4jXhlutzv3_oA7XYEU7JJWKCTBWKGA-EkclLRwbXxHuJkQ2VZ8utFMagBVjQ8m2",
-      "photoAttribution": "PIYUSH"
+      "photoAttribution": "PIYUSH",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ]
     },
     {
       "name": "Pont du Gard",
@@ -3053,7 +3699,12 @@
         "Sunday: 8:00 AM – 12:00 AM"
       ],
       "photoRef": "places/ChIJ1QTnSMLItRIR4uqG8xlzsSY/photos/AcnlKN1cIfa0Cgr85XI0-NQpk_2sf2Q3sHgWwETch5PH0bRQnTIw77X7RtV0PCx140Lx7EyF831r1P-oaqjzazQ2kcfX2bIvFiX_-xWJtabxjti0iSSD_P6mAW9FNaNJkk2vHt4qKrORs8KiyLVF21TFwv7kR1XcLChZaT_nyf-s4lAhSlIlMWtoW95wT0QOWkXI_KTXHeL9K5Wl7kgndKCLU6LRBlTk3pI3HONmsOxYKPTjzk9Ci-WR9tEcCi-EgYddFGiw0yG_ttHSd18Cu_YGszi6ig5f9Dp-qNWVLgFmcoHQoLNDoCanKuiAprN7bAHiWryK5_wqomkvBIlWEaoe4GxkjtDZJJkWcbLHKghdb5M_OfREvXq_iQrkHVGIkDBvCVb2DdDX4lE6fz_I5qJ-t2jVPYIutHlq9sYbv229dKW9jhQiOuxry4e0k6Dpqw",
-      "photoAttribution": "- “‪Antoine‬” -"
+      "photoAttribution": "- “‪Antoine‬” -",
+      "tags": [
+        "Romantic",
+        "Outdoor & Nature",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Palace of the Popes",
@@ -3079,7 +3730,14 @@
         "Sunday: 10:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJb_jbjobrtRIRy9KIwWXljHc/photos/AcnlKN19w0C6HJmrIHkRsZo8oyTm5y14lHcAgSC_YYWpKLkcHc-_zYKzU-ebYO1Te8xZF4Zu2NvzBVodO6FNJTfMNtL1NtjusJDn6UiooO1mem04jNPyWUIfI7hZ_osRWvX3MCT0uRtAhuvPbpxcM37RrlAH5zQ0O8JfSp1yiAA4JlG-pPNeAiWRQHYbe3fhBhL0-__olvS1bylxWalKHN9a5hSpOKgiLPK54JBYPpZafe7-h8njPJ4ZwoE9vQAXP2RcARkuHlkSjoXnIiAc9LhfuXjdipS_Mdd7fIkNyLzcKAokup44pu7Q5FeUX8pnG1a7It8bZf7D1XZFX1Qnu7Enl72G6nDs3OozhYPUysyrde4P1ARB_0Ddaw8R1_HluuWjNm6NcHpSRW8ZY_g1YXFoT8XanNyGyER7L1GGOROTb7I",
-      "photoAttribution": "Niels Ruge"
+      "photoAttribution": "Niels Ruge",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Outdoor & Nature",
+        "Cultural & Historical",
+        "Art & Design"
+      ]
     },
     {
       "name": "Musée d'Art Moderne, Céret",
@@ -3105,7 +3763,14 @@
         "Sunday: 10:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJp4qxL06guhIRQYZg8MHkkOE/photos/AcnlKN1_yzdEHaFqyNUVJFMaEAp_TUqSDlWzoS2d_2_UhTeatdCAo35mvciNfmLlarzYEZocucr3PjAt1dVMidqeah2DG_7kOUVrqF_ge3Kx4ffhAKVzrP72Oc1BSqz5nzsZIuSjOWrRto-DxBLoCLlHB0bNFbkfT6ih2pvyYRg-vhUXL_XWhAmLUTfMyMOQwWP4gloyLg_L_TzOt610q4lsU47p3SU5uWgk7CI5VGbPk6HDY0RmN7lPYhtTLqV7Ozu7pxq-VsRfCi7nmJ0VMO0q6Fb8BebgsZDGUDJS5dXobFk-oETwi9TdZ5KaPQqcWMFLj-JWzHQKdEMS1zEeK7ggLHRM-FCtd8npYtdyEH_Q7GnMMPpjmUDuBIGyfiT1IBOc4w72HS8dyLJf3nL6YYEQLxPG3SxzsZKHEqhiwthiqSsHVwyS",
-      "photoAttribution": "Jens C. F. Nielsen"
+      "photoAttribution": "Jens C. F. Nielsen",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Art & Design",
+        "Shopping",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Faiences Musée, Quimper",
@@ -3122,7 +3787,12 @@
       "ratingCount": 295,
       "website": "http://www.musee-faience-quimper.com/",
       "photoRef": "places/ChIJTS0J8JjVEEgRkEbt2mlAyyk/photos/AcnlKN3hIq49hO3J8yzvYxu2NiWn2rZKR72VNnPCVzUJQhN0TXT_zTQlHbL27gwkEdsj7zPQDuTL_5SdbhjZhGCssmY6jWZUPuek7ONExZfNZ6QUWNYxx3t_B_IGyGSQmBKNXtLkiHiR4eNSRLJinwUmpM89v8h7Q5-a0Gu-YP8V1BJQwxahKFTXGivTqCUCPAzzovqFBMug8FHYGW6t1jde-hjO46_TPKpfybLWm-bRznDNvtloBrEqQXodjTEVefdS6407xbZHMoqKCdSk4XJAshTe1bQ_eTKZ0Ixyud1RD9JAsg",
-      "photoAttribution": "Musée de la Faïence de Quimper"
+      "photoAttribution": "Musée de la Faïence de Quimper",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Rainy Day"
+      ]
     },
     {
       "name": "D-Day Beaches",
@@ -3147,7 +3817,11 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJJen8Im1WCkgRlC1igloYO4Y/photos/AcnlKN1f_ObJD15StsOoWfdJBnMAC0t64jmuRpXTy0tqYXe5Ev_o5c8I9VimO28DkqDv1zEjfsqGz9yLZC2Qfypunv5FnBpK0T6WgqfViVrva0t0s5kqg3PRK3NkFT_hRnZ013fAKjEYUaRZhwb_a2qMx9jhInXK7E3tAxAiK5NNMnoyFht6wqNCxHsZmYtLp8u9XAUYZoZxUp4WrxnpGBMr4QHn062U6MaN_RG5sNwyPLTaAFVhRvv22-LpdiqOmLV4Dm-8Estw3B02Uj-RjuQH8eHw3691FdEK0GDjtv_Z-0Xs3WEdtxsdP7T0yzdVbKFFlye4hpndPle-CKQkuzi10ERQqes-5D9oB82H07z3ZH9R2iXM1_5YVQ8Fw_fT5AJUeZQ3jDPk-0XEgzrmI_SShaEfvjgyulm8qWupcD58kC8",
-      "photoAttribution": "Akmad Redha"
+      "photoAttribution": "Akmad Redha",
+      "tags": [
+        "Cultural & Historical",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Mont-Saint-Michel Abbey Museum",
@@ -3173,7 +3847,14 @@
         "Sunday: 9:30 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJHdzEgyGpDkgR4cESJdSzFjU/photos/AcnlKN2khtFgP9sejkt1SzP0n6m6Fg5l1PdX5FfOq58GJhOWuhpp_SPV15dDZecJWcB6ete80_klRWGfUdqJqkYVoKyZ6xoFT-4jB30Oaq6UJUn-p7i36R1_Hx2r5Rs03PPOBJJJq0N_rJRL92q2zYzifu6-qLqPPz5iWmqCpqTDAGXKASMnp8dY9STZZVsq2l9RogqIgoI-umI7MEUVaYSXfBbyQDq_GdryPULZALdJPbCStZBPSBi4p-jXGpJcGaAoZfR3k9bsO91CFCKZT6N2VRg4u-AjwkKkUdUX9PlCLFMWQDyo9bu7vExVW8ZLGEfD1m2ivClDN6KLxQzmmPt1gLCA_RR5qdsZ8ZWweUzdU3PvuyRkg9wc9QrNis9LNcBvuTpWA0kZ5yBTSAA3Uy6hrwgxUndzR_5PAHq-9ZrCXPrExvItI0e1wILxllzxdQ",
-      "photoAttribution": "Marco Maritano"
+      "photoAttribution": "Marco Maritano",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Art & Design",
+        "Adventure & Active",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Loire Valley Châteaux Tour",
@@ -3199,7 +3880,13 @@
         "Sunday: 9:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJU44Pl7TV_EcRc1loTlWRf6Q/photos/AcnlKN1GvDSsJE43BFqscZYr53FcGuyaCCj4QvTvxursOQFdoDKuVlXxqdB99lBV6gzBSRYDYjQYLp8I4bLSjFq_yjeUsNzUooKgIxah3Br0B9c-lxqhmSGA6M9RyxS4WpDh-MFFMUB1FIJAbsTYUMBm9tBh3Mzke0Asq0flsipfVi5ZJOSwM-XdW243UnCeFdb7yps5QsTHMzto4GWEw1pGILJ8lEIQf10TH65MFK6eSOPFqJI3z4fTIeQXm8qaEVmWMzIP8VQjJygB_qKivqK2JK3ACmLHjefTmAf_nDYW21xUVw",
-      "photoAttribution": "A la Française! Loire Valley"
+      "photoAttribution": "A la Française! Loire Valley",
+      "tags": [
+        "Romantic",
+        "Outdoor & Nature",
+        "Art & Design",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Chambord Château",
@@ -3225,7 +3912,11 @@
         "Sunday: 9:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJISi4ftOt5EcRcSgOYXWwH20/photos/AcnlKN1BCgmXvmKdNwnMm0BUyhvIJwSj2mUqQb9RCi-52_fB7zu5LEuMc8CkvjCfsS4zNeCWe2vDzkcZToEsCOXkClZhNAnsj2Lym5-b3LPnjdHscHPfiQy97Gc2oAesnPXON46mz5GTo9ruJd0FaMeFiamYbTxWkRkEHX9U-qw8pw3bPVBTw2vbYit5XWXYodZZVnjdPiG-eoPseGKJSNRcoJ7sKhQVKjLK9TjDAcP7PT8Lu4i6sp3_yr7puUJwVpB-jXQRaupDIlAh2qtT8i1X_vMu90Bl9OHrDVK5aJR1lw1TJf5rWy5WRAOwyiw7Oq0XASBG1VUgYpHk3hSrEvwXsXfWEyxHKrtaBW492lUnpYgyyTdrMWKh7il76dGc03lNyL_Xth-f8L5axc6AG5Q1JWdPNEo7zb_ZaHKH5oT6x4avIA",
-      "photoAttribution": "Chadi Abdallah"
+      "photoAttribution": "Chadi Abdallah",
+      "tags": [
+        "Art & Design",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "Chenonceaux Château",
@@ -3251,7 +3942,12 @@
         "Sunday: 9:30 AM – 4:30 PM"
       ],
       "photoRef": "places/ChIJoaig2dWw_EcRARD_ye9ZEiY/photos/AcnlKN3o1AS4gbstVidR5S09KwJpKULPpQ88emFTguciPmYIHHFVIF35_WPWMST6QKEslYK8cpt_09R2fZpGvf4O_2MZ3i-sHMQ7FootfeFJ7oApl8DpT81G-ia15E8nlibxYJo5fan9AKOVHvpnib5W1_VM6EENIIIuggyEm0sTsckrQvLYBwlAiCwW5xgWQAdnQcHJs0fkW4b9bUVyYeTm7u-HdLospz3jHMAqe6YiOEJELlNTF7acsNQRMlsZYYLc22aRfzUyB03r_bRvgtiMGQj9AfDFVHX0qr4MoEg908op5l1KFDlnqXQQ-t6v5lPiDvE0NNNXQTQWTJrcTTGU9NeAYLCZOmd4pqi1br6tFqA6xqb8bQpF352J7NbFyuVIaq30Kb0jqMBwJMqVdy9AP5cbikaKnDLYDXibM4OV_CD93MLDqoEAhebXS-ORUhTq",
-      "photoAttribution": "Alin Militaru"
+      "photoAttribution": "Alin Militaru",
+      "tags": [
+        "Romantic",
+        "Outdoor & Nature",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Villandry Château Gardens",
@@ -3277,7 +3973,11 @@
         "Sunday: 9:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJE75fPFsu_UcRmxO9llahBpk/photos/AcnlKN2TfXM6s5o6i4WuzfNGjFCpazSSFNN6OIDq-GDp8UDxNiaV6jNb0Gheh67PhS5fdahZ--zniqF5pVAUQecn7rSu3_KtqGFhqlWyco2SAW6cKXfRcYSHzez7uv4fgPtMD2X8bwGle-VXGqslQ2pDix8LEPFfnvY0Uao3ztmUYbQG7P33__aa8w3uAEQhdgia7KhbMWyycB-W7Dh9WBklr74kg8rwhDps6UQOGufBdkCT7cRTqFt8JzlLaABWR-r0Q19L8Z2eaQxXSyUhDhjtMXQ9zI0rdoK-ZsLMCYUA9IyfHONJ5tV-WJORHe0m4wfYrR1NBgCBuLcqIe49VgKs5vn2XyBYxtZfzznOM1yutzaynakZ38GSpEVwMKEpsWZ8mW23d7Hz8ala_WkFR_-Gx-deDFKmUrZXB7D1PZezK00n38GK",
-      "photoAttribution": "Alaattin ŞEN"
+      "photoAttribution": "Alaattin ŞEN",
+      "tags": [
+        "Outdoor & Nature",
+        "Art & Design"
+      ]
     },
     {
       "name": "Bordeaux Wine Region Tour",
@@ -3303,7 +4003,11 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJRRMUnL4nVQ0RNHbiY6jvWf0/photos/AcnlKN31g01Nc-TjJUhuDPHGf4yPJz_Moig37TnYZUEekXxDcsl9kxzgkAbfyjT5RaO20K_BJ_U-Te8m0j7_ofsQBvOfDjCJFnu6cBHHUEYMg_AILEGl7Hw5UtvBs3nFwNaBerRuNFwJlsOBcXB05fZ6GgPjqfBs1Jc3O1pzB8ImmkZLpie9khwnDH3rc1Gr3HMfZE8YmfSmvphz_iUu5jRkYSEcJKiYscd0yWJQeS4xOecmthdRMOTr41QZoDJaW1Dlux-bR3FTcp-7z-b6daMjHH_8RWCHiuVgI5rx8T2_9HFotg",
-      "photoAttribution": "Bordeaux Wine Trails - Wine & Bike tours"
+      "photoAttribution": "Bordeaux Wine Trails - Wine & Bike tours",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "Burgundy Wine Route",
@@ -3329,7 +4033,12 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJTwO5IkiQ8kcRmjkXT44S3nM/photos/AcnlKN0lGaADssks4h5v8KveCA_9vqEXPk65W4ngDhomTxnTa9vGsx0gW7F-1QYnafzJu5U8JvVzQNXmuLBybuowUMRJq6F-SJ45sZBRqjf97yc1K2PzoLOys80naG50qoyCbIoS98D1NWOSApKfEZL0RRDsGvQbP-hVHj-yYwOmH0CuYVQtdyH9jWcaqZM6P8fO8DfzORbvwIGeEwTuQ7pDWcS5EzLVQWK-Dmr3i93QK4utySLflPMJkdd38TLfIGi8SKu6hPRt1faMYc5J44Zc8dYZ_yAdd5OXcaE_g0IRwmQAkQ",
-      "photoAttribution": "Domaine Armelle et Bernard RION"
+      "photoAttribution": "Domaine Armelle et Bernard RION",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Shopping"
+      ]
     },
     {
       "name": "Champagne Region Cellars",
@@ -3355,7 +4064,11 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJzc6ETFNr6UcRpK0bfkp3mRc/photos/AcnlKN2DZpZsFChBNYBDgSdwBIcCNYc7A_j6TtJOTaJjTcHvzZYjlT9iG7gJGCBZZEeVAxEl1aojXEmqO8QczPU0yiqsp8gDPxESxcemPNoGyDLgm58OS8BNed0yLmC6kMkmGPqZTyuqqhjw8iA4q9ObwyuDcgXnQNtjvIu3rzHDRxhV3MTevUZe4GHqS-a52pJdms3OJx6McJDIye04iSI176M3vlbeq-A_iMxe85ckWJYkVG8s3loXpCpcQGVIm4hCSJcWfczh1EXCtRWWpqfr0-Ethcl5go470-ZWzs4797ATxQ",
-      "photoAttribution": "Champagne Charles Mignon à Epernay"
+      "photoAttribution": "Champagne Charles Mignon à Epernay",
+      "tags": [
+        "Photography Worthy",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Normandy Apple Cider Route",
@@ -3381,7 +4094,11 @@
         "Sunday: 9:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJKdgU7n_Z4UcRB--7lGiGkow/photos/AcnlKN3FPb6dE39Qu8ATmUJDwd3tu2ly8ts-ZBR4CvX3lK_2YdQonZePHuillZ2BlXtKqHzyCPeZYMv5G8GuwvjoX0v0Nm1XSSEusrT-5BP86BNxyWMjlE0CPBQzNbie3oG_GVlOgsjrPOGT2V8gT9-FsDsqvSqDIuOXNVg0f8IM5abqEFu3HIz05_s0QhJLsQAXtJQHxc02fBJYdfJoYOAFc4p9IbYri7iQrVm1qT2Y6k0R_1CrxuJ3ZvqVO3WHhSyN0Vh4ILCCdRvO1if3EWEvOeKrDZCHbfPwef7niVNcbA3K32iIN04y8DG5BP5wSaN-D5LtVXBMziIO44D-lGklCU-12UnNlwCuJLE3AiDb6x_V9TIfLQqOLxXIYNYAnYJ4gvQd8KHKJp4Mq_AH0MMmSRvDsRM25KQKegIM98GvuMWjpMM",
-      "photoAttribution": "Soizic Charrier"
+      "photoAttribution": "Soizic Charrier",
+      "tags": [
+        "Photography Worthy",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Musée Claude Monet Giverny",
@@ -3398,7 +4115,12 @@
       "ratingCount": 24382,
       "website": "https://claudemonetgiverny.fr/",
       "photoRef": "places/ChIJe_U29f7I5kcR9t9laCm2xXc/photos/AcnlKN2VDHN_kDeYXQEuIi73dIRb7NtXuadXteKDl0l-WzKS4nmQes5EUSsiDCsUuYabtyFlaAFUhAXdSLncMZr759gLOi6sKF8M2qZSYRsCMAEVjtb1Fx15BCmPO7SUoofdY6xoGYGUHwirbQ-LYXabLd8GKLgjpOx2rx60yQJ75bQ6mioyRjptcQTc39KSkuVgE7otzuyKrOWrLe28Qy2cwS9XlbESX23r_tYtsy9DtsHPI2thINIrz5KBWf-gwnwwJ39YtyFu_587LI4xZcMm50xIb0bAOUhd8RjcABP5CHg4VzQsITh00qWZRQWHXKRSEIQ0MG4s2EiFn0Bm2TJDlF8jVy7ZjeYpcCH8NXt3SD7UCWdAL6fxiNH4GuaOP_03VCt2mSUabfFHdTnnvAmPYQRZ42wCdkHI8f_WqLRTUXQ",
-      "photoAttribution": "Sunita Shah"
+      "photoAttribution": "Sunita Shah",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Art & Design"
+      ]
     },
     {
       "name": "French Riviera Coastal Drive",
@@ -3424,7 +4146,11 @@
         "Sunday: 9:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJ02ANrdvbzRIRWaRsW8qSidA/photos/AcnlKN2TNgeRtTyJMTl2HqyRg04uNGIYjz0bMJOfdg1mgj4n_NdWwVilndFSSuN7VwaYDMSGkkG3LAOdWcvRRGCW7BQ-gurLB1RUorjsGq9mpqnHtD2FdCunIWlgRGnXZoAQAANzYZ4pIr47NBrAb5C7_97r0p9U--GkA8NHRmNJqcWRiNF1ry_QR-SG8TZERr-5TAf8GNDoXPmmt7VYWeT2-jegLRVtsY2bpwWagKcd4wwCZ8gxJvPy_vA3kVzZADZhRZWIkZ6mWAoJozNq5z6bV0YC0m5DeUUMWlw5YWG2Xf6Q3Q",
-      "photoAttribution": "Riviera Drive Experience"
+      "photoAttribution": "Riviera Drive Experience",
+      "tags": [
+        "Photography Worthy",
+        "Shopping"
+      ]
     },
     {
       "name": "Cité Véhicules Automobiles",
@@ -3450,7 +4176,12 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJFc6LRStY9UcRGhpw4sjhpG0/photos/AcnlKN1TR5vdIoDK4B8zdWHnINQ5Jp1Ta9DUlZhlS5wsM_F9E0oOzCg6kYmlCD3GOHQcaFwLE4tXrlH7mETX0w-l06lhLwNMg2lJoDDO3y8zN_MXtHu8C7-6M2nxUUKk_LPRHSg3sqpblLqekdprrBu9tJP0VaecVozOhaFPDpqJbQfMcTZco1lLWyhfYMZdONGgPoetj_nBP4-O8cj3CHA6QJD2ZxBjvfMlX6s2ZMjWwLNvgv7EU1QJsqRj2BBdM6WzsFQJq4KetBIZNHUbvfJd_2yniMkYjQqe2XoLdNmZfoF6Ww",
-      "photoAttribution": "Citéa"
+      "photoAttribution": "Citéa",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée Matisse Nice",
@@ -3476,7 +4207,11 @@
         "Sunday: 10:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJnz74K1DFzRIRiRaLt2c5MhA/photos/AcnlKN1N5f5w8nTYtBaIF9x0zjlH5BMbIySPdnk9kd2aE4Vc7iYd0IZUdESya2LQAn0kueiEWztLDsxBKSWwkhMZbCwZcFjzss6QKDLFMEoo-9MY95CRgxUWrDMe2JUSKjjB1g2hiMpiePPpBR8qzYqypFBXUWBLRv9jMXaobtl_MzioCbSQQCkQAgEhWnA9XCH6zGQ_ZIoAlZ5hIByqrYQ_-t49eyfJURf0xe0QPYlo9BiVRuQ6D_5DV1xRTajNZlitFJ6Mt0lGO2NMCNTJrY9HF0C7GE_NNRl7q_CovcgQMRST_VuAe3faSeXDiInP_5y1XuhY443Le6Fz98bNWa9RLTd8rYYNkkwJheX-x6HB0DR9UAKo1rasCCQX35rqalzp_NTDj6tr8Qf5BI7XBHF-13HEvvGowhzP8WYKgvrOqDA",
-      "photoAttribution": "cahilus"
+      "photoAttribution": "cahilus",
+      "tags": [
+        "Art & Design",
+        "Nightlife"
+      ]
     },
     {
       "name": "Musée de l'Annonciade Saint-Tropez",
@@ -3493,7 +4228,13 @@
       "ratingCount": 420,
       "website": "https://www.saint-tropez.fr/culture/musee-de-lannonciade/",
       "photoRef": "places/ChIJq7zsEhXHzhIR1vC4dSADWKs/photos/AcnlKN3ifuDhFvrulYGSsvh-U9clnc8okYOd1vgNmfZaJfLMGu25IF3HglmyUkQz-uZrLMPYbPtoGCfU0qdRkym3W-WTlUNSOuE1XCrFT-RQXuYn5uEAEOrJLJg5TQN6uQ2O33ou4yrCaFXd1-8FRvvyP0-jWxIrjR28er_GlUsdN5mmxpIYvN-dudxX-MWHj8Ic0UMaWRlyOaJqM_CQ-p-BL4GTXedWY8TnzfoXanEGIKsVbOrY2F7Yalw1mZA0MFelgOpdZeF1ESPPtOh_BqjmRuC1EiyYEmvDwQNzr67I-PWJwJqlBDS33FnEabNq0QZ3TN9Afw5L4u-ePX3hnQOmHjjGNWXTP1FiFPBxgCLIFhKTibkFvVqiG4nQTQxTizj6A9n8Bbgi0yAguRIr6_1rIcmVma7r6E8x-OMwgvpjd4hGlMXDoL14lcpXA6rlaA",
-      "photoAttribution": "Florence Lelièvre"
+      "photoAttribution": "Florence Lelièvre",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Art & Design",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée Picasso Antibes",
@@ -3519,7 +4260,11 @@
         "Sunday: 10:00 AM – 1:00 PM, 2:00 – 6:00 PM"
       ],
       "photoRef": "places/ChIJ3cH6_XDVzRIRXWN7WYBWE1s/photos/AcnlKN3CVjAKm8e_8u88RNAkImatYHPlAXMDXLXXXHPJaSyKFP2-v7lvIGRo5QWZBqc9OTmV1CfAILdQrUY1t510-9IZPmYa3I13NAkiYSoos3V39N6CjQxXQ7VphaefY6IFsh99rRJRPNVBTXFr2_j5NuW-CRzbeqirBxwHGvUx1EAuhXgxF5wVl3trsdGOp2dgT68g1JgXffoTSDetss3MFoyvdKNlcgsMklcQttx4uTqsdoBaoSLqvFiuyxc6f17wfZ5Sy4LmTJiMy7dTfDe-jDgUfI6gfhNpoIOpBZEGWzFM7e2Kx3uQPAaYlcjoavW4-9mztibfE_uOzaTWhmSiNycz8Xtp60qwLB3YTzfnq6gZTmm786FeDHBbsplhwMmEnr5VHyL-_ZKY4b-oX4hmmAmgHNJIEz-mi4N60ypTfhsLUQ",
-      "photoAttribution": "ravindranath reddy"
+      "photoAttribution": "ravindranath reddy",
+      "tags": [
+        "Art & Design",
+        "Nightlife"
+      ]
     },
     {
       "name": "Musée Léger Biot",
@@ -3545,7 +4290,11 @@
         "Sunday: 10:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJlexfT8LUzRIRiqDZ1lra9dU/photos/AcnlKN2v-1KEWQ8TvqVPErXHopsRea8eFxQ97GuL-T4Mk9v85FESzTq7maImshuUZj9dqi6M0zkvNkvbHXJVxsehclF_y2TxE55MjwkkwUkMquCE2yY2PDuSvBiWCnlwUMKbAMe6EB6MQtYnOMhlBPv60IHHFwwjQe-_8RqcuQszZB47hUIgSlgajPbt8PtY5u_Ou46qNPAGPnz8NRF6VE8jhDnzYPl4KmP2EgJL4YPM1aScAZnkT58UlUjEq2jrrM1c5VK88kXiHhzZSUxCBaE_RhAKEgaK1j5P8nx7UGuaxbN5eg",
-      "photoAttribution": "Musée national Fernand Léger"
+      "photoAttribution": "Musée national Fernand Léger",
+      "tags": [
+        "Cultural & Historical",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Îles d'Hyères",
@@ -3561,7 +4310,11 @@
       "rating": 4.7,
       "ratingCount": 86,
       "photoRef": "places/ChIJKUwWoU7UzhIRs4bsKI0Rndc/photos/AcnlKN0OCDo5yvv97bjkZL4GL6n2-FoC4owrrdMCr-FdDYqw69jGgZ1PIk_D0G00K1sh_KOTLD-GMNX5Uzm2LMcVHK6sl7AM1lOLmm48PcdiXhyz22cWe0upByzC31cDFXk2M3-Qe28hGbuOMD2yA3L3a2OP9c4RNkyWLDzOUq4w6-b-SpCDdvgml_biO3l3vxmLC9DL0dXt4v_iJ6_8z1-LS36y14ymNhRtG9_SrvR7C0-y9nN6rMPC3ke4DCkzzCvn4iejAAelfMrMQ6YcqVRqkCK0rjRtvMina2IR5Oz05o5IEcFzYYSxZIjkhd5ylAy0KcehGRv3lriJ4pa1_dJeqJwMSPz6Y2EVr6z5OZtu3wTTfALIYqdhY0WYv_aiOBlA5tapyFOk2gNwHdzOYXlfBLAHTGqB3MeOWYOQcNuwVwE9AUNX",
-      "photoAttribution": "Emile De La Binotte"
+      "photoAttribution": "Emile De La Binotte",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ]
     },
     {
       "name": "Musée de la Camargue",
@@ -3587,7 +4340,12 @@
         "Sunday: 10:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJVVacJyp6thIR97ucGBBETig/photos/AcnlKN3Bvgu4JA9ETgmrrCVdkgTUHX1-PIJbcaB_0EqGJ1KF4DaP1hi_2o04i_wBJ9Tm2Q3pNW0sbGVR9t6XuUcJ5n9WtPwScFlPyueA9c2wOTrcvZQy0N_rKiDyC_IL7uanZVqwM9U-JjH6I3-xk6ymRQyG_qm50u4btz_Fnt3RjdSLIY7hy4jwJeM-2UOkE-U4HhlXWGGNY7Q24CQHjFWpoZjzspkujaOHitt6-JmSVM8JhnPm5LA8DEwh2IU8EAdPMDL8O_gT5SSjflb7FkUR8z6vwesAfVlDsLysJnZgOtgmjg",
-      "photoAttribution": "Musée de la Camargue"
+      "photoAttribution": "Musée de la Camargue",
+      "tags": [
+        "Outdoor & Nature",
+        "Cultural & Historical",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Cite De Carcassonne",
@@ -3613,7 +4371,11 @@
         "Sunday: 10:00 AM – 6:30 PM"
       ],
       "photoRef": "places/ChIJtzSv52osrhIRdMhoy9K25VI/photos/AcnlKN2xBSYB1mRQo-VykJH_LEsp0jEuWVZ-YI0EAPpT-AMMwgNuUrG116pUfYZcEyJugl0us0V7Wi4tOirMMiyq_JvmlQO97VPR4oWyjOpOJcdl0s5ozgWVI1vjwdF_tM3ZRApUwRJ1JYMJD82AAYxIdRKRUNpx_ledtKJmCUK3ul2DCwKCEpKRyBAYmf4Gr9DMaYmWPP-S6jDHDp_163Z8wpAh9Y7qcwE5N_fCCOvVSeL4CfK2pgxhRMp_H05qqibWYTApiWwPDDH_ibHRa_IYXX3UizwrT_MzCW2XAcOKUR2FH58tfzLqCRty98Hs_3KJNoITWYApY1oeCvXTttty9zTc7QvbmPdU7mto8Ezs6w8bM6FJvJ79sbv9Eg-UemZGca0ZP9O-68qUNh12SC7oY60U9mbjAPiJl4RYT3kJgXXr4xjf",
-      "photoAttribution": "Emilie Hct"
+      "photoAttribution": "Emilie Hct",
+      "tags": [
+        "Art & Design",
+        "Adventure & Active"
+      ]
     },
     {
       "name": "Rocamadour Sanctuary",
@@ -3639,7 +4401,11 @@
         "Sunday: 7:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJ93QfhErErBIRwGF0_EjmkL4/photos/AcnlKN0di_hzuraz7th2BJYgQB5tII8m7cp_9IIvwTa3yHsvgrT98uLmptqWq7KZkf888hFpzhd9eeojpk_8nGgMZ0pbGgXFLrwmpOFw89ZuDWr-3kA4uxumya2v5mp8qHd24knTijyPtiKlW39-W0-awGZbnrfAPKv0WcSJNRs8RUwt3DmGpZyd1_X2D_eSTblBKmOXEJLutoxYy21Z8-6evwc1O0BXyaNqvJpKmzt8jXImSdxllgdGFoN7zoQx8ZuR_AW0A0WXBxjx5OyV0UKSeieBTYSEIBB58XekqfzDbj_rbWmXOsMNbLjUWM8wT3UXGcqGwXqCz128vW6xmV2p_pG8xXXFn3CIuXwfwWm3CaT_hYJD_6rqJybXobC1bh-B5HgMoJvzjc14A3dYGC10hf4OXrmj7Ffg7pQpOYHQ-tRO8SB2",
-      "photoAttribution": "Vanessa McCormack"
+      "photoAttribution": "Vanessa McCormack",
+      "tags": [
+        "Photography Worthy",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Musée de Montserrat",
@@ -3665,7 +4431,13 @@
         "Sunday: 10:00 AM – 6:45 PM"
       ],
       "photoRef": "places/ChIJoweuv1b1pBIRxgLAjxCZL5k/photos/AcnlKN3dpw5b13J1pZst6LXFP4mPmI8w9VULRqST_mEkRtFHIcG9tMuWdmfTfOBdzU5fa8jGNdC8ZB84ZigK8KmigVQnlmjvPVXDvf6V8Svu-REaXjHBxKJ7RFgKvd7IrzhHTmD9k0-niQvgJTH2vobpAcr5ZcemHOLVcu3aCMEzqlYqN2rgIUvPm_cdeEGHqIKCumsYZLkHlLT3Ywn4_Ju08izD_r9dD2GNsYRZaXXAAEV_5FpAdjz-9OMUhQQxIkaNY95_KHATC2VACIpxxwltXhZ8MYkv1GShzUj9p5h9laRHlu_qNV1f8Zqa_BBsVA7JCI4nE9MEDB2CIhcLIbR6QJlING7XyTTTuIQOvPJpfpHum9gSLdfU4nN671k76cQ9ULtPoTtN7XTw9l9FwxFpd2r0rQJND75cmeaCK2jiXPo",
-      "photoAttribution": "Li Ceci"
+      "photoAttribution": "Li Ceci",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Wellness & Spa",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée Ingres Montauban",
@@ -3691,7 +4463,12 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJJWDkAuQNrBIRhDGB_S4euMw/photos/AcnlKN346XmP4JeY64mli0O-REXSvY-7C9nVX1CwseehWT3exgNL16erXcf5CAAi7aw0XJps7DtiacLH8F9vtc3G25KWiREZSuFzdTB7eGL8SQe5tUeQhZzoNRY97OxKFpCzy4MtGxKacfqtkyxnosXrhdYUskcnc595LRrg0JtXhLxwrI4DxeT2S5JiXMD2OUw1-ssHm9cCLrS5KlC1cTbxOtRo0Ek7MU-EKLXvlOnF_D4thG5-Wm010-crvLS7VbGlk1vOkj7CyDLIDSxsyEc2aTqstnSCd153EPJscPAZPNSXzQ",
-      "photoAttribution": "Musée Ingres Bourdelle"
+      "photoAttribution": "Musée Ingres Bourdelle",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée du Louvre Denon Wing",
@@ -3717,7 +4494,11 @@
         "Sunday: 9:30 AM – 5:30 PM"
       ],
       "photoRef": "places/ChIJhwuws0Bv5kcR0KSrpnR0ISs/photos/AcnlKN36YcHh5YstY46ErzldBO9gvjMPqtZ0D9aJxQBR0rz1OZjVVLfySuMJpqLVnlRCIwp6h_mt6AjKdrmVJHxVxiyoQ_xkLI9pxmKpYGEMmW3fY84-S-d1WmoEmbTIo8E2QnM0W3cYyMnpR4XjEHxndwXxPB6L4hK9s0iPCNmGFTgwZRXXTYoRrubqAcSVe6nfi0a9azk5gxiQwJXSD8J4eomDq-YBxx3mGWtbxkXVcUp-h3Ni4pfwBqXLGH6pGrRbFB9fjVUlaFNTlHr0pdtAgg70GUcM4VQMLAgOfsN7r20QozzgdhHkHddpbqAgI7Kl9K9y845kCjt2dqnkDknAv7FCUw292AXq6L1iYA7V0HLIXI4lyd0sQnRXPids3-VYjee7hkx9s7jiOZodyytQYFBDB27pQ8skT3hMSR6UMfVwEuk",
-      "photoAttribution": "Ermest Sollaku"
+      "photoAttribution": "Ermest Sollaku",
+      "tags": [
+        "Romantic",
+        "Art & Design"
+      ]
     },
     {
       "name": "Musée de l'Orangerie Monet",
@@ -3743,7 +4524,11 @@
         "Sunday: 9:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJo6qq6i5u5kcRCpYBp4rQP9w/photos/AcnlKN21eJSFBa9McuXOokV1ccRxgxN7xGsPbdngUwhoMxM93bdDyuMxhVUmrHBM2KUgXfdz6D_TK37cJnVpHDJkUQuqnz3Me5YLcUzg7axK1Yxm8wN6S30fyEL15ElEqUVNgHbXGlpzDYEpZ3-uMEjsVZk-vdU6zQ0i278wBjDrxwH0W9D_XgT1VmkdN_jtJXWJI0G7LjOwxZbUAyUj2IzjMGM-vrnId9LV7VM4Yq3R6zDm0z2Fhe5rG2BpEsNowSUsJ8btAeFDl1Gja0cqEoiljZJPQ2VzduuzeFM_n2BPFfCxIaGLG3K7GDq62d58su2ynY3RpVv8Np1wC7j3jhDY6aH2P8YGAF2h575YpCKqjAD3xf000Je13nJOG7Wsh0hDbNiA7u2dUHMpUpcXXNxvr4JLF1WcBC4bOvnL96iUGxcgr1w",
-      "photoAttribution": "William Cheng"
+      "photoAttribution": "William Cheng",
+      "tags": [
+        "Art & Design",
+        "Photography Worthy"
+      ]
     }
   ],
   "kidFriendly": [
@@ -3771,7 +4556,11 @@
         "Sunday: 9:30 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJveJ6yhkd5kcRYOYQY8v4-lc/photos/AcnlKN0Gv7MBPqV-ONovP2uEOssOVUSTMEP1F2B_KIVs3OJ5orEadsYdd0aZqTOYwcjX6SLIBHWoJNkqODBNjZSphjcSCxDSCB3yYqIJFY74EtoKiBjrOK4ZikFgpi_LEMWZbox09xcMwEokHmPd5I_eoEMsA962P2lU0gJXLnkUIvkF79ipybVL8LcJkT9uEVa6dvrnEfUxbcOngDBd-MqTIb2WXeIXdQwBErdLrp6aE6MDQ8gvDLmwwskt8uM1fMSR_xbYP6edmTXgdnwFsypouvFyHe-eQImXU3KIAviW99GIutAevJH4STTSURk3W6z4QFjXuMUDqJzVa--jwGlj6NfapBbldjoLbewrtbxTslcd7rdLMFBy8NF0Hd6JrBOWn3ssXySpXV-Gzz753-MYM4SAKjK6XabWb96Pleb-UJa7xAg",
-      "photoAttribution": "Loic Rob"
+      "photoAttribution": "Loic Rob",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Parc Astérix",
@@ -3797,7 +4586,11 @@
         "Sunday: 10:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJu0FPRK5x5kcRQvu8cZ0oz5U/photos/AcnlKN1RHOHjfH6wiilfQDZJqYjvqYzDpdedxuxjMsDUOnBq5ZGTd1SCbh8EqGjmRcPn98QdGZFqN4HWzEKZkHwel0os7T4lwisv2DmeWgGA7wuxHonQ_H5fUnv9aFGwidI1SHq9FUIS-gLgTTnqf9rq2SQ9W03ATiy2DLKUCBBk4FtM7qmNH7bs63HyRKNr4KaBYnSxGp0btZF_BPHHRUrzRB5M9TOwecFEhvu8SIWCOIPYtpS5j176J7vjzo7IYXASOOZ39lkjuSIfch17_CiUTyYs0udMqNd0QNa9RZgJLjJvW7YalaluJyUrCcmAHpbzgpvPrBMThFNBVB3MLzREaCsnYFpLTxLaslgCb0Inbp6Il9_Fa_Vj0i9HEK_eAyzofSfwlSIe2i1khhMhpHO1JbgFoqd3Jsft2wXgwZncXYdwFaU",
-      "photoAttribution": "Mickael Deneuville"
+      "photoAttribution": "Mickael Deneuville",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Cité des Sciences et de l'Industrie",
@@ -3823,7 +4616,11 @@
         "Sunday: 9:15 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJD6qS3zJs5kcRJ8_ebdhX0VI/photos/AcnlKN0tjq5aTYAiI_ptrkvEk-dIu0zwVShsS7uImOwSPYMBlTqO9vq1oUwrtN7eZj4v9afK3mld6qjHJriwWEhKKpL_x4-h4Al_Xf9ppJiSFOqGvOMtL9vkyOJLbzIsyYlCD-qe7vgjTv80fNiWK1SWqC-pg6gxBdz4NbrGwjw3Lglhl69MLjLXp58oUYSVmXm6ofGlOpqia66UKlEWZ69ACHo0u9z8fG_0iSpFwRbsxvw8G2IgM5fGRdk9jsS4OipjIdq_fVqgjhbDvmvbpraeY38tWI6m7WKXGYZEeaBsKonDQk3PL0hJ7KeFl7lqkPg1VdmuiROpoSQjHNBHaois3jgnJv4xssVRItBkv9HViAKhtTd2arOb5_U5lbddNBdLDZjiMLLirCUgeUdb3PhF-5a66U5RHeQsimgNCx4BjGGHG68",
-      "photoAttribution": "田村和浩"
+      "photoAttribution": "田村和浩",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Aquarium de Paris",
@@ -3849,7 +4646,12 @@
         "Sunday: 9:30 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJ5YcxPONv5kcR6ES0Plzsivg/photos/AcnlKN2AUhiR6YStf6PfmvI6OQrz--FX-6FpEp9Rgez1l20LL08jf0N85W_ckHHG-gxrVBgpf8AB2y7n8orO47AGdqxI6_asCErO9yr4LZBuxpU4ygIPaxdeVm9ICa2yQpNiD3OTQOF_aGrOWBnKe-D8eqLtmUCbAr2Lv73VdYJR4ne-N_TrhM1tMBZfjC5nRWL3n_ECkkvWj_bs_C-barMddHlWcTc_AnN8IGbWYTesRq7F2GUHW71rsnss-E7XHjcaV4UPMf-syrHnhMopuvifoYkr3yMiMcQnt9BRBu-GxLX2nw",
-      "photoAttribution": "Aquarium de Paris"
+      "photoAttribution": "Aquarium de Paris",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée Grévin",
@@ -3875,7 +4677,11 @@
         "Sunday: 9:30 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJVUrgmz5u5kcRWPSN-T8a730/photos/AcnlKN0WowhhUOXVi7fNLyALBEN889Nsz8WcjTe_8dv7O1O9VKoFrARubCQdQ_hAJdtQcpPW18Cs__BLdwrdeVDqanSjiVsFQhOP-niP_MEcLl2waoUW1Q5VovlhpMNaIGKfNdQwQSYiaP3L5iZmZxYwT9BSniMNF90ADMP6RPLTMe6KsEoqYXbyoIrMvmIooNsy7kGhjXreMQyN_z5wI_oXOuXb_s5UBICB3AgaVPeoef9R8rrmFhaKD4u3jhEP6T-4lTiQzTCfPiivPLfp-tTOLjPEmQmnIGq1gbvJQDBudtt9xMxFF3UwPJ71zHcNpEghG3Cwx4U0DQ-_hN56Is1OCPoP5Kc8m934CeF-xziTuQz4MOgVmy_nF4W2Z2t-yQ55VDSd4OEhB72sYLr_oktHntiEVVe55tY1uwfayGuO0gHtbpcTdJNSOuqdDTNudq0z",
-      "photoAttribution": "Michael Wu PhD"
+      "photoAttribution": "Michael Wu PhD",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Carousel du Louvre",
@@ -3901,7 +4707,11 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJ6SJcCP5x5kcRJt8m9_lR7_Q/photos/AcnlKN2C33pTbUcgt9YfoMecWgI10cQyLbwbvoUrNgwikE-4LVgWTqOYf8nib9UqlnJJrhBfi445D2GLmt2b68p_psZ3AlHGKJbxuCaglVKwDQlrTWFL_BEwmScQgOjxWv066bK1P5nvvSJvd6jnO5qArIA3mJHy-N5XZvnh4BljPLMWy6jq1xcAVj5b_nOA0_7NLk5fgESaqe0rAouEaGnx9xuJfdzUp07MHRVsQpW3fGc91Sg4oDpvwpIzXjB5MNU3WjmI0QVwx9bIumKlxmz9ZiDdnEfy9djSth1YB3ecS60W4A",
-      "photoAttribution": "Carrousel du Louvre"
+      "photoAttribution": "Carrousel du Louvre",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Luxembourg Gardens Playground",
@@ -3927,7 +4737,11 @@
         "Sunday: 10:00 AM – 4:30 PM"
       ],
       "photoRef": "places/ChIJq6qqOttx5kcRQ2Tp22iTFSU/photos/AcnlKN3vg0QCS8-Znhbe3CxW0ptvHyeMc63k1ZOY7SGjSSlZM59G3BJ3lBp-wGX25JzQJ6pM2m-HpOZntLZoZ7W0N2MdRs5eoWJiGWxPUDI1AIL4ha9pJqLPLcR8C9nHIFoCAFSL6_lXjCGIpYZWA3EEtWwPYn6mkeI5fZm3wsTaqk-JJpefKg4ruv4Rnbc4sY0L9jT0ZO-67vv1ljYWPrKyQqrjn61i1qBOsch83UNSl-_DwxFeWJGMc18_-9bc_uv85CPf49fmSlMt-KPE_C9p4L_o_vSOD_9kDGUNJTRZSxjT9A",
-      "photoAttribution": "LudoJardin"
+      "photoAttribution": "LudoJardin",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée de la Vie Romantique",
@@ -3944,7 +4758,11 @@
       "ratingCount": 3599,
       "website": "http://museevieromantique.paris.fr/fr",
       "photoRef": "places/ChIJg4YBxUhu5kcRoIeyo9blO00/photos/AcnlKN0Ny2SC8PI-RbxRNk1t9SXcBrG4uikHn2YGV__CqfHEJ-y0R2zekNL0Q_-bbfBXS_av2HdSYoLfRWnl_LKkgxstV0sAb2fjs_PT4YxIBC0GNqPSgLbGJYca5k2qpKbNGJDzCfuvvBqmGr86py_oK4Nm6vjzHjmwriYnGPD6wQeQ1is3h5vythK01s_Tp8ribQuF2iqXLYecZj40X062VGmRQoKBN0tBY5aSC6IuVUgJDZxy_tqsV53EhOItu9qJ-MpujfoMBL3xplY6xuEhy7cX97vZ3raVcXzjeuwa59myxlOmKA_6gajTTWHtCx4hM7VmdoP4haLbLmcHbNaeRXb3nPDJkkz2HodcEEnUbl-10JiyelaYXXAkQbuJySo7k_V5hMKjlAN9YE0BTckskrBukp2oTL2h6Uy8UMmSvaA78w",
-      "photoAttribution": "patricia staub"
+      "photoAttribution": "patricia staub",
+      "tags": [
+        "Romantic",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Parc de la Tête d'Or Lyon",
@@ -3970,7 +4788,12 @@
         "Sunday: 6:30 AM – 8:30 PM"
       ],
       "photoRef": "places/ChIJRSpfGOvq9EcRPFTYvmRr9Q4/photos/AcnlKN1qspVuM_lW3T4TVNSBztc3OdHH_F3izaonKz761OXBfGTAiWsarwk37D04hczo4UKbMBGYChOHjon_UAby_Li7zjf3SbcGch4pZLTfZSbAmo-8yEheP9LrFj3KtNf1BEIazrx22Lv03I0z-8Wm8qdK8dgLnRGqWoXr7d71KjabLelGEa_3Cib0QuhXA2Xk9LEqNIrP57pKAG1cvz4YONfz2LrhVE6Ftaqh1ZtbL3kiwwleTVNH_HCDxXhph3kzs7yTnoQ8ihkbKmp7yUgs_sXs1gmPq3M-HJQJwQWmKsJHIZQ3eMPq2M4X5euvjaESEhS_IEPuk8yD6F0gVCcA1OqnOlQ43Q_5GPWr2qfBBqWoPE520MOruP_4vZ1oJj0fOq3nBlhS_jt6vxCqin7nW8fIoroT69IMSxKDpS_Z5Ggxhw",
-      "photoAttribution": "Anaïs Castro"
+      "photoAttribution": "Anaïs Castro",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée de la Confluence Lyon",
@@ -3996,7 +4819,11 @@
         "Sunday: 10:30 AM – 6:30 PM"
       ],
       "photoRef": "places/ChIJVZBs3e3q9EcRN8Py9QApPq4/photos/AcnlKN0mwfLEtzDiACMjJofHIms3h4H-njX3wGICNMctbSjGv5yuOVNEThTjFeXQ7GG-FPNeRdRjKZiorlHv12XSjSkOoOHobiiOZuxSxE1uKrPS7GqLbrB75xVzWplADq7ua48JHPGple6i9pt_5p9yOaysWH97LCp_T9tT7cPDcXGm8LieXFYjxOG4suBwedfgV6lUhq7_UHrFsSAbxD9bzAZdadwgR3BLMejpsmQEWnckbWUpK2DKqhlcsp2PGubY_HmcZdt7CWANFpdcw7eXgdQqKiYZbzs9SkIJU6t9-WzgR6EUGq9_23z4qSL48Y42kt4SeCQOkhukcCnENMhvvMt5WpEJkeg8sOQnv67MjQzJMRobAt-tZZqm0301dgmQYTYb6YzXSXXo4wzqPKs52m4sAxc4AW1lRsAqUH1Dg-kOJs-8cx7F4DoFrBq-AIic",
-      "photoAttribution": "Kossi ADJETE"
+      "photoAttribution": "Kossi ADJETE",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Marineland Antibes",
@@ -4013,7 +4840,11 @@
       "ratingCount": 17186,
       "website": "https://www.marineland.fr/",
       "photoRef": "places/ChIJgyev0-TUzRIR9Sn0bQrhzRE/photos/AcnlKN2-HfbE3JPTOcVV27QmLmJzNT5Kah2tfYEXr5AyHIqpx7da3DvKK8dECg59YGj87MEWgdmAWd-uo-AZnI54nmy5jZnFOE__fklyPupiLK2NdDy9QXmDysdigtkNHfYmVmmUBnDowP0BsT3vQpfixGcKr_lO3ltTMzXUtYyhQu9Y4BIAVVIXaGJjVKIvH_GSMC5B-LfIYHhXyQanqYvm7r3M_4rd7NG4bUbphtKyp5O1ghhuOsLizLhntwmMzNLMRFCyd-r4TLjWpwaPSw2SHGh6v0C-v85qvB_O0Nth-lxeKg",
-      "photoAttribution": "Marineland"
+      "photoAttribution": "Marineland",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Palais Idéal du Facteur Cheval",
@@ -4039,7 +4870,12 @@
         "Sunday: 9:30 AM – 5:30 PM"
       ],
       "photoRef": "places/ChIJjSFeXbA29UcRKXyFtaB1jcM/photos/AcnlKN3rGwzzS0XLzt3h61m0-MgN0ZuTUea_JFdVBPQoGcjkqJIyVenolwUiNdM_L7UlOJscHdYWi9VCMbrJlSlV5GtzkcVIEKA-9sxn_kiRIFUEw-WtwmwazOQ36KQieZoh_N7CmtRyDb2sjH4eDumwxionUFbus_EPSARcumowmbdWsAtk_Z72pkaYGw1nrC6ynzmSMC2EMNzZ0LhYCuWLohE-aoljb7Jny0hrAy6qH5OYIBvWA8QoS9KqOxJCvQRzurn-3SruyBJfU0zaImnNuiPYNM8RoY_UmHZYllOtuifMtJ57wcl0UGP_SKz4wONpdyy1c12mwJoBFh_X3emxQvFAUT8uu8JtL9s5BnrMtEwOubqtU6p81qAyL724pDqzKJDhZ2am0Osj2IbgtS-dm49RdDw2Dtm0Xz1l5VNbykytSB0ONKd66Vd451C-Fg",
-      "photoAttribution": "Daniel Zehn"
+      "photoAttribution": "Daniel Zehn",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Musée du Jouet Strasbourg",
@@ -4065,7 +4901,12 @@
         "Sunday: 10:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJq_-f7uNlkUcRtWRbSP9cmRU/photos/AcnlKN36GXDXYpDx3cS_SUurnnjz6hOOSf6swmUCuVqa8t7Dd0Az_EctI2pt0OoQMwEKqSWDJpUWtJNYuhkIJXgIRvoIOh4CiDZLqRdYv4uPSk8HktV8Cu0GqPNYY34MpfBCTBp2gaCp36aeaLd5CrWSxuF8CjAd5SJZQAxmJJ6vKgXORIb4ZkJa4MhPUGWRB3MsW-N183vJk5KJjTTcqm1c06_kF_cZLbuTUbn7H_WLwULVvqvcnO2upaVDZh_ipmZescd5ppmwcAuAuEebnGCXRx-JNTui3XJyN7jUZxtifhFSfw",
-      "photoAttribution": "Musée du Jouet"
+      "photoAttribution": "Musée du Jouet",
+      "tags": [
+        "Photography Worthy",
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Grotte de Lascaux Replica",
@@ -4091,7 +4932,11 @@
         "Sunday: 10:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJiWqvK2VU_0cR2-rmEz-UcO4/photos/AcnlKN3D5qEpr_pqi0UaMMMhS85a6zHct71ZvE9KBmZSSPpJPMXoRZlvHhCgsmsQdcjog7y1MGZWuol9IzzXjsvxIRgbBIpfIFjx2NcTYA_TU3hSeHbzAn-_3IAZRGcDnsK3KmxwMzaHcTlVQHFRehqBFjcWBTVjYREipCEWjG5J7z8O9GXxJVJkEOEwN2XQZtFfWETLN0vYPUKgN2IvK9JA_Gc75XNS8udvOgkHl6zu8Z8ry0v_Y7Fkgi1tVB07ruJBnuYgdCi30jIvQyrzgaPrDK_vT8lfFhkNORtzSXP8_pAsYg",
-      "photoAttribution": "Lascaux IV Centre International de l'Art Pariétal"
+      "photoAttribution": "Lascaux IV Centre International de l'Art Pariétal",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "ZooParc de Beauval",
@@ -4117,7 +4962,11 @@
         "Sunday: 9:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJ_2FvLVVY-0cRmzXLALjfzwk/photos/AcnlKN1bhgv3YAjJ2w888hqK--Txl37Q3tNGyaJ9jhXuqq6qGw1LtMTPDNxI6f-4asDFGAEIY1cH2EIFVEcKd9drE0NeNXZtssnCP2RH2-YGKh3YPfqVb9ZavIegvlfhV-pbKZBMz_snaEnFZZu1_JPP8sNV09MwY5idu2F4eeGrzVVL-Dv2FasM-l5vFEukJ6oq0kbwhYOgXAtNtiAB8M7B40yUsa2lJDTNUK9EhuBqY9in0dkGqh226xVPNGI3iBeFIIQVnChudTP32rVfWGL-jUouzNELE1d3LMjVpXY-ISt21BJZ41eYZvWj-iVANF689z6vtU9IhoLw75debcdvolCLkvkTcEhg1WIHXFtEH0PPAPAFBrfrUIjFySq1cB6sBMOWjrSEQiV4S6hDtnjevBapcfjqxk1Ebo0aP4Q_KPCADA",
-      "photoAttribution": "pascal Lefebvre"
+      "photoAttribution": "pascal Lefebvre",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Parc de Clères",
@@ -4134,7 +4983,11 @@
       "ratingCount": 1,
       "website": "https://www.parcdecleres.fr/",
       "photoRef": "places/ChIJt_bOSgDD4EcR8nnrGVkwKTo/photos/AcnlKN14dNiVl5gUbpZdBbTePWtD2QCyGRwsZfpuHUvGfQXhd2bhSm9fx2jDpxLXNeV4qBF2nCxVH2UBRCwPvE630OdOzEyex2kym8gtHGJTgFdgZ_qj0MqY-2p18fYHTTtWyZfb3K_8_dsK9hXbRu7Bj5p48zXkQ17G8cBTkAXUnCARlI2lW_gEf5IaVXJyVTsozXpU0wP-_9m8C8hzGisk3q1fg8DgDJ9U4j7QaRS8IJAsRrHW_FlksUMPQLmSJ2STzSkFzJrKuuqQj9JnK76XBZIqXwA2K80BayifsfbzJ6BbFo6ynU7DEvXcYZdWDI6oPO8cvRGZuzLcwiTg0SCUOveHu4pIjT1wpjCq3D_4NAtD1brJkLyGrmjz_S6hhy0DT1oxBIvtLy1If2LLFZEj8AkWrNU1BN8cNj6YkQXOgzqkmgUT9WYzOW-9SomW8uLZ",
-      "photoAttribution": "Daniel Lesueur"
+      "photoAttribution": "Daniel Lesueur",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée Océanographique de Monaco",
@@ -4160,7 +5013,13 @@
         "Sunday: 10:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJU2WkJZDCzRIRbGhKwmhB-cI/photos/AcnlKN2L61hXEEvix6uBP1QypxflP6_1cLKpi3ovdoyWZwuOtGU5VT3rFpk7Tlofrw24NDGsAhCXJ5u1e22Yi2aQ0oVvB_1knFDiofaOxnNWQ5ponWl0E3YjdaQBAXbFyAFj4boampOaGlpGk3b5AmT2QjhBUHNXgiyJzBS9bKa2FS5mvFUB5gDjz0zF2sKjcyA64GwfTQnfApzeeZoqryDCcH7TgkdhUiy2YJs2fnTZh4NgadxEhi55Qviv7D9YlAPERIAvhaQ36mM7pzcDJ7BEKrY7wUyu7Y3GH9ruDg1E7xW8vzSIorTwITIJUle0kbUawcRQojbnvkvSKH-cV4i_jF4otog-NZ4LqfL0WIYn673zGB-w929sMKt4lPjH2Rb3mQdHrffOaU1GUSuyCrRC6g08d9Eaz_Yqc1abU09YwaY8ASFxGrrkoZUUzH2RVD7v",
-      "photoAttribution": "M R"
+      "photoAttribution": "M R",
+      "tags": [
+        "Romantic",
+        "Splurge",
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Accrobranche Aventure Parks",
@@ -4186,7 +5045,11 @@
         "Sunday: 12:00 – 6:00 PM"
       ],
       "photoRef": "places/ChIJv-sPMW_TzRIR0bXwE6Lbi0I/photos/AcnlKN0aeaIyv17eHLJhol_SaRXDcwA46WZ1hhXdUChLdMc5g1SMPNtuqJ0AA6B7Y89nrD0wYcTuPeEHWSsEANmfSre_-lNafgjYGL8kPQdgJko2uyUMP0WlJCZZbT5DrrCcYwi1f9Bw0jVHQmgesYSLFf8EdlzdW0A2SXmZ1_Pbch_Boy3QuLufd-YzbuAajoj3--HAshzlFycLocfic0Hh0XGUTMYfTs1VYCQBQj3vzR_J2oHfg-yIaU9mDbYmmG74n12h7J1m9zSK_1VKJn8-D6EOXFhEyAsAAU3jHS-01UhVUA",
-      "photoAttribution": "Canyon Forest"
+      "photoAttribution": "Canyon Forest",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Château de Villandry Kids Tour",
@@ -4212,7 +5075,11 @@
         "Sunday: 9:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJE75fPFsu_UcRmxO9llahBpk/photos/AcnlKN35ukFlHEO1X9dRt4L3Kvl0VxL0ysPzR3sEIYatFjExkm4JDufbb5VHPwqJ8rgmiiK_J6tmRumS1zzMlBlxgBhkcxlMnFLmaZGjBUHPxI3_G1nlIhJOkpZpo2GaCiO8MmVPC5e7u-wbBzN0I-H3Y5q9otP-r1u0NyUuwjFFWueb7eeFTvwt7B7qL4ooCbwQJDPzw9juIxtk1iNeB0VNLhHlXPXfNA-i6ruepcWapZWBBB4uRpWcvY1EaSlMwboMwASl7Cz-3PBIriAfopbfPAwewH09Z_tUj0TKacEMIFf5cBI-0wLdc5rmTQX-267ctpzN7VXrMAzLZfEb_bcwdh4pUUnQkDB1oXBr0NmDh5esG6zu696zyAYPmRT9Ik71x6H0e7k94COEjdLXU2GEd1-_sxsCrbkLXKWb4OgQ2-aeB3R8",
-      "photoAttribution": "Alaattin ŞEN"
+      "photoAttribution": "Alaattin ŞEN",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée de la Toile de Jouy Jouÿ-en-Josas",
@@ -4238,7 +5105,11 @@
         "Sunday: 11:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJxWfDrJB-5kcRJrlmOZdA3lU/photos/AcnlKN1U7Ifo9KP5_rTT6xIZXpwM1nyoj4u-WXqaQ4s2YOl_F96HzbfQElhIQ2Vfq0VePOivzbEN-WAzgkO5OJmHWLzR-Z_c9ZkMZUwzTaAR6gmAAuawaBODGtS-Yfj5a7eox_51WV3xTZCxSSduCe2d06pCMwNdlFURI4PZQJlC2is5E5usNGwFGC-u8O1B69uihuHZWphgfaiY3ehk4f-q80CMpwIk-dnX5LxP9T73hkTKZNeNWHRwbCS0psrnARw1pw4a_uGyHlh5mrkfZl5-krqk9q_VZCjZ1FeONg2kel58CQ",
-      "photoAttribution": "Musée de la Toile de Jouy"
+      "photoAttribution": "Musée de la Toile de Jouy",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée des Automates Souillac",
@@ -4254,7 +5125,11 @@
       "rating": 4.1,
       "ratingCount": 408,
       "photoRef": "places/ChIJBeFZV_S2rBIRXxgDLEEgrg4/photos/AcnlKN1s8NJXaBHcAd3mSnL7WHWDuqVCJDdrdG0_mG0t2PT1xZRABwe4LRePS6Lw5cF9gVNKx2s9zA3MqJcY2J6vzhB4w27MWfXk7T1t9h80IUYHwch43PJ2Ju1rXipZgXc4OrW29N8JkmCuwesRdy7CqnRadVdZCulVOg4R5fzRqxc4ZAyjd5ufbWrIyT-vG9V1uPwPJk42_fNsMdmycXbc6JXJEFSPBS_yy_JkWxB4wX5W7oyZZc-znxZAhSn72Hqb4mp_wSi7Xu1XAssuMl-ZOQIPlD9M-px4zUmJpPBzZ2j7O1NLBv969kBPMlKvTVeqxinIFHknq8NOlaJLtqAZJEHwaoecNSU38LkQdWJxgentpqKPoWwiEFmqx5e1sxeJ2NLt6gFFYi834zKW9Kl1jkG-wB-GqaR_vWkO_esppnyB4kGI",
-      "photoAttribution": "Paul “Paul” Simons"
+      "photoAttribution": "Paul “Paul” Simons",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Parc de Préhistoire Tarascon",
@@ -4271,7 +5146,11 @@
       "ratingCount": 2856,
       "website": "https://www.sites-touristiques-ariege.fr/parc-de-la-prehistoire/",
       "photoRef": "places/ChIJK96VnssUrxIR5cHce1wAi3U/photos/AcnlKN3xBMurvs4b1OuzxFlvPK_C5jH1d7G4w2jhnCzM9K-LlyDEX1NIW6TVqNoecYr5bSh3_NTAcmDe1BvMR63DLOnPxP25fo4qP7_6CxiQiKrWw4tSmkB1TaV_fekACt-vyOMT5F4_yZ3lVKmZzCF6CDuls49mOlnF1KWfSbTzvRXdhBnRYKDLWPju8bou_hlPMyFZDOOCYRUVwnpi88mGXhbRq1XZlM0XUHBn5RMNacEYdTO35wbGAiP3CyDihqXLNg6UFOB506TKyzhMjBVzbMNFph_Qhj4WLvNAORbF3Zy3gVoHwf77adNI7cutbFWw3V9r0B0C73NO-JUT9KBGXpEV_MRDICGJgynuUXMHPPK4Zt02fz4tuguw6j5jPRGGUDVrnyqX5JkVvGEgUpIoK7VIMLFRvdkCiUzHco7YakAeR4E1",
-      "photoAttribution": "Sonia Rabuteau"
+      "photoAttribution": "Sonia Rabuteau",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée de la Miniature Lyon",
@@ -4297,7 +5176,11 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJ7-V74qrr9EcReweyBTQBAOM/photos/AcnlKN0hUMXq7gWVw0Ov0uyRhqexMUNX6k-3fkSEnAjam23z196w0wea2TI9pbP2aXYo1K2saks_A4v7sPbp6L5kOx4t38dwLOiF6PJxMmxg60Pe8aZricP1wID9i9ZkPeTAcAvserbUkDjt729AZgYgFsbZIy_sXGQnkU34A5jZlE47QpbsAdC43rdavDzLAk6xgBmeJU2kSKuEzXfUMnCaTg06dyNomrreg1g6lRDnEd9ukezd2M8xlxijxvR5BfO6UUMZqbVq4FHlnFe9aviv0t0VeHslmfhXEjAqNCwOcuKmdXAFrdjHz8s2qU124PjLz61-QDTHk7G2wwVR4I6Pie3dTidtomPNsPUEdtS6mxnCEcnp8uROR_CHoNw5byqmcVxNWtj1pmRA3LQTdEFXfJS-XAcmoqBcL3wyl26c63IvlbQ",
-      "photoAttribution": "Pascal Perrier"
+      "photoAttribution": "Pascal Perrier",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée Volcanologique Clermont-Ferrand",
@@ -4323,7 +5206,11 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJZ_Cr3YEW90cRWAofLtWciRQ/photos/AcnlKN1On_OmS-GXUxhu8YpAZMzatd3sinxiBF7fv54YjV8Ie9Q4b-MFOPPYhIqo4VhbaTUjhrcCJJs_SLXg0RNpi2O7zHMuT9KMQnj_wXCem08yvyIqk7wTQJ3t2tDvq23FwanSSh-W0yAdQrsUxrDBsoLpNiKERFb0QQr5AzldllfiDDXzImmgZHOiR-6Iu_syyHLVdtFWicOi8eN0AEhqzqeK7AXqTOyE5YjWAaOiZTxABb5aiwIpL7v8Kb27qX6fUfX5EJE25g7noiVx7cL0mPozR8OmGQJnqaFYm1g-TENNjQ",
-      "photoAttribution": "Volcan de Lemptégy"
+      "photoAttribution": "Volcan de Lemptégy",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Cité de la Volcanologie",
@@ -4349,7 +5236,11 @@
         "Sunday: 9:30 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJdwCZI8oKeCERKxqmHp0kY6c/photos/AcnlKN3SQel12aIJ99_lZyqfawkW9lugijtIFwh2H_bTWSRm2PbNDNIW0c6Ag8ChDY3jLBoQjuc9mdGU99RYbswrsDqR5B3XEJP9jeTEj_CdQ_ZUkIXlGwi1m_o5XDEKzbbqvbfXRR13KakBw9SkUU10p3wSnOV3_0ndzkDYzDdrhzFkMDCvI3WpCkl9NUnh4_-BEkLKLWMEvO9E_ZS6dF_vxjWIh0e3wIg7vm3MFFaVFqGVL6Hy61RWMvWC-kGzhaPMQvB-WIqpsXhAsoqAr5aGGGkOq5zdQWdxSUzRgceWJpqZeDMN-AVjUDJ9evy4l6GBqiGWJREOpFgV-B20c50-QWFHMPsU76dhO0gahsrbzKIT1YLIHsPO3ql9_0gtJ6XLjAmLiSxKBiDHK_nhGJ2E-Rbr14_su4KgidzuVBA3abJH8kfZ",
-      "photoAttribution": "Roland Käser"
+      "photoAttribution": "Roland Käser",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée de la Civilisation Gallo-Romaine Lyon",
@@ -4375,7 +5266,11 @@
         "Sunday: 10:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJHzRu5q7r9EcRQV-RJ_hw2iU/photos/AcnlKN007GBpTHUtxX04WwQT0_QIOXviQ0lTINpG0AyGjTxg8RWRjvGI1pwvYKjMZu6jzR9PjOmm1FdYJClOBmOQR9A8S0rBfwKPj9BQR1qPzuIMcnUqmGUoUvYKgtEpXdqN8A6w3S8mqcJeEPu3bCkjQ2kbg-BUPdF8l4ENkIgH9K6hxGFB5mJVx2ef1dXGNLKpxNm07RCXFlj73zYHYtHLQWSFbL75DK98eVqHGxkksRqD1y-fJbYo6csAzsXlsm1LJratMhknOERu22wmbK-Z5BJAPM37pUBFsjNqbrQK7m3f2A",
-      "photoAttribution": "LUGDUNUM - Musée & Théâtres romains"
+      "photoAttribution": "LUGDUNUM - Musée & Théâtres romains",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Parc Astérix Île de France",
@@ -4401,7 +5296,11 @@
         "Sunday: 10:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJu0FPRK5x5kcRQvu8cZ0oz5U/photos/AcnlKN06u9QhxbwZbpXcFnqOT3n8Zwow2ou5h4-GftpfBRtHyFIHPeEYOpXIuPJPJDzs_kSJXh_8vzlrznoHjaNiSR_c-7h1yU0jFFTvY4Opy8DseI51HQ8yjB2b9BXA330uwmxXar8CWllE4lcuw_l3YdnhXXKWP0J-9BnIbh77gDelhbN1Sh4w4riTwiOIlaK8ACLGu_ZmbSBRhrJS5U2EgGswoAgNJVSUq3bm9jh57Vko4oRF4dQBEazbbh2GVUXI7D0s0Bc46Gv46m3_ngUCn5RWqpLmpnSvIaJZHSY_xf_VNOj_QD1qytrjmfq6PrbNUFbpMWLdEl-bV47IQALULuBO7_PREM0ZPEYbc3S7hJNbOhFImoRuaGr1RapiB2PAvaHEN1ylH8YN5W0zRMWRD6begzvewNoehkAPC9gIsVXmUSw",
-      "photoAttribution": "Mickael Deneuville"
+      "photoAttribution": "Mickael Deneuville",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Atelier des Créateurs Strasbourg",
@@ -4426,7 +5325,11 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJCV_Z9JHJlkcR4b4gSo4_Al0/photos/AcnlKN3F7P3O4gQawmPpaRdaDxjnP7gI509YwSiVAqTsKGVvt-BQytAk4nQMOxjiK45MFSPXyF9fyw51UImKbyT05Sd-fNECRTanPfZAxMUwl9SElyA9B7EZ5Ka_xYy53COclsKSwJ9Aux-738blWFSbvoBU3cWm0B3iqJr0q-UoQb8gWwiwF6fsf8iurHsuKIkLQKM5iZy4rUWL66HM23isQgg3dgMV89wtHa3Bco9ukBFQAzBgT8HK3i0hHGaq4gRWVpTktmi_7g4k6eOnmY1eQ5o39XXGS3LmvmS6_A-Mj1i2mQ",
-      "photoAttribution": "Le jardin des créateurs"
+      "photoAttribution": "Le jardin des créateurs",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Musée Archéologique Dijon",
@@ -4452,7 +5355,11 @@
         "Sunday: 9:30 AM – 12:30 PM, 1:30 – 6:00 PM"
       ],
       "photoRef": "places/ChIJB00aF-ud8kcRfWxNM5oHsHU/photos/AcnlKN1Xr626b1I4lea8zBbFRU63sI_uiQ1F6LmXfqLC1lLoktqQcUzQiYFcZ6KFd_uP6eH-WQZkVVd5YUtxZj9LuwoObKLeebkd61s1G7mO8ZoXZPsYotHrbfoeaPunVQXmRlc7ZUa3Db6l32csc2c6nCJHDTGdMzssLtOqd8TRhDISaJKeSVU8TMYnh8jFJGn6FYv1_EUbn0z9WpLZzCEe3eGLAS9eVar7R0dGx4sf6-b29LN1X4VLNa-ioZ-AkYVjgNW9zquyCxnx5UWGacU0dgG2gZXsVyHuA2POAT_rLZ0Pqw",
-      "photoAttribution": "Musée archéologique de Dijon"
+      "photoAttribution": "Musée archéologique de Dijon",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     },
     {
       "name": "Parc de Walibi Rhône-Alpes",
@@ -4478,7 +5385,11 @@
         "Sunday: 10:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJ-1rqToYXi0cR5ZJ7X-EYJiE/photos/AcnlKN1bdzN948Vxe25MBCvR0HWngjvrD9z5n4ncpMaVPQF6s-9dS_0Hn8gV8aJIHbCJ2I9WcyoLncL-RCz0SpZhrU0LpVYnePb91D6akDhrLw3ffkFTDf4rGUIv_f7WHC4n05ZVXLLEn5F4ptsJ2bdLuFHjQSE834XEkSMVso2DjmMVqBlemkp5EwQOPhz1sNIjnE9xbgdrxSgVrbB8Vu3cwn62yh1XR7WmGk3MN7DaRV4yB87o8o_qgnlbV7FYkMirnn6NceVtYBh-NXBIWOBRKBaggMlgBeImP8sdJ6w1zWxjZg",
-      "photoAttribution": "Walibi Rhône-Alpes"
+      "photoAttribution": "Walibi Rhône-Alpes",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ]
     }
   ],
   "markets": [
@@ -4506,7 +5417,12 @@
         "Sunday: 7:00 AM – 2:30 PM"
       ],
       "photoRef": "places/ChIJL3BZAABz5kcRGrnS5FhhL6Y/photos/AcnlKN1HgW-J5ZTdKqBo0JT6yeCO8PpLx4n_TlFeCU_jQWozoNNhmFYaOe6knUTuMwtzeqORoHZSyxhT-Ph4jvYX9ECOWNmbFgZ_PZ3HDFZxl7Hl2SHioOQQ6kZB55bwwIZe8e9Q09JLjQKf0oW8j0YimG9hPaEBG2nOrQo3SWzq2ShsgurSFN5jZpFz9Jxhtas9Uy3q0Q8orsrWFj-Dz4_PceXXLDIG4hfl38ujYwW3Jv2hQDm5hEZepa4d9f6hvUqn9mrzrnsgKqtHwkJgGF43h9X7FPVOKncl9nN0ixtnUQ1-He5VFQwNaDcWhzo9iS3-hQP1U_U9BkOqR3WwOkrNikNa4SX9tzCXJYJdyDgmkroPZ-oUemSJeUncXIRg90QxV13td3ytme7GVOXh5Nddhylpd9GF4M8j9LFCcUY_SC1WrmY",
-      "photoAttribution": "chawki nassar"
+      "photoAttribution": "chawki nassar",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché Rue Mouffetard Paris",
@@ -4532,7 +5448,12 @@
         "Sunday: 8:00 AM – 1:00 PM"
       ],
       "photoRef": "places/ChIJS3JfE-xx5kcRBwxbA7agJOQ/photos/AcnlKN3ygTw_j_FHOl9RNCJgkwPLcFSWXQIDHAVqdTat52PtBsyU-itAlvN2ZmnivPm4CmeD9YJ3A7uCWm6aXu_BPOBZ1oJxZjLVqDQoPTCJhP8MtDQQh1kin_ita9GF6ebo_9sge-PDyvp8kVE2ojOX5wAfszsz6pk6-bbMlyJvCJxNJcc_0Clz3JJ5uVp7O-zPjwnu6P7zl6NSlAfDCDna6gbG7Gigi6dMnqzlo7TVzQ54KnoJYNxF5u4ZZHLnL-2hTBr3zTqmOM3jby1LBIIOjJXrYj-ldqKfNYqS39y6ganum3EOWTj-Vs631Tn-18i5Zp0LdioFRpu62l4PO1UnhwGxv2kGWKgAkqJUaczr9-7rtqllFqyBHWH26BgHKiTvIuJJVQ_lPKO8pO-Rdy18A5jD3sNSc6uGtzBV7rNxHLxIwKNt",
-      "photoAttribution": "Katalin Száraz"
+      "photoAttribution": "Katalin Száraz",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché Rue Cler Paris",
@@ -4558,7 +5479,13 @@
         "Sunday: 7:00 AM – 12:00 AM"
       ],
       "photoRef": "places/ChIJU-XFaSdw5kcReNgoNaOVGe8/photos/AcnlKN0UmNpp9xoOLu5J-HEN9tDjOMY1GXv82IrQB5u4JZm8cKYydVRryC4vK8_ApB7dTCRA9wl0K2yVG7ATG1ElUQcikzdnjf7n_LEBsmLJIjME_hJqza12arodlvk9OboK3shRLqyMbuZpRrlMG683b9pbVSQtxY8t1pm9u_JScV-_IUOFrHh7Tns8j3L3JDQ_D_awrWhmNrYhH_sIUxwrzW0oSXEA28D1Awu6uxT4sBx2trEF33G8h5pEFhwgz2WB4jyHQGcJ4PYsUSeWAQNqzY0qYNekLIX3ljEqqwU_cvZtgg",
-      "photoAttribution": "Café du Marché"
+      "photoAttribution": "Café du Marché",
+      "tags": [
+        "Photography Worthy",
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marchés Aligre Paris",
@@ -4583,7 +5510,12 @@
         "Sunday: 8:00 AM – 1:30 PM"
       ],
       "photoRef": "places/ChIJxZ3pZQ9y5kcR5gM1lDfZsXc/photos/AcnlKN3V1PzilVZ2Hx1FDcrIo66dFE0rJbXG06rmVJa8sgi7bD1yi_Uv1nmxFWXlEBUy37J15h8VAe6D6diK9RbyHolUr_VAeZ-SFASJmB_wn3iBXZd2zAD7_D9HpkiuDMbWBd9eGAQ1VlZtK_pRnm1Pk_1O5XmLpAfar3eYvYTdT_zSIoOYOem7PBNAGcbn6Z5EP6KG9GE5NgZ1fen5r29GfUCTdshpUz2eqtkXBv2daLxfuecFrz2xcHEi3ivZPD3D9S9K9GGye3mZhXm3sbxDrD3kmmdIhG9xW6ENZdIw89g1ABOuklUpe80TFx9cXA-U_ApbZPZkM3bGi_qB7TGgQtXsy_HFj7vUadhDeH9MLP9UCtKsxu9NkDtLp8gGWefG7pTc4uKxd-w0Cq2l_3UhtHorqXdyvfCw7k6acvT_m0hCofzz",
-      "photoAttribution": "J K"
+      "photoAttribution": "J K",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché d'Aligre Antiques",
@@ -4609,7 +5541,12 @@
         "Sunday: 8:00 AM – 3:00 PM"
       ],
       "photoRef": "places/ChIJc9FQEytz5kcRsJ9kN0AAKFk/photos/AcnlKN1AVyuqddLRBCljqInuI8ot7L-lp1RbpjBsERP3NW6ijWHOCrikQvD8j7CY2250CskD9B0gaHepQUpkKhkfSZoOSYkzf7YjcaCv_JD4h9PT2ijEa0Txwlaq4yIFPrBNHGLC1CrtcuGZevcAyEsrWI2OfvTmghleZrpRF4qHn7vzzjoLaxvdpjmEtGwDk7Xa0k19ynX9ppO--zW9zV0qd2thO3DlnDFwaWTeKXteIf5tuG_WDGifRz4asPXcG0YgFkWPbXyMs8Rqp_SBg61hPTdaPqPDU5n1mkbS6XY_gzv52bzWfXGHX1u2kLNaIgiZ3aYsMJ-is8OXnfl5Ixc9wraF7jhalKESs-D1Ju6TKtJMNNEyfzwukYnTwWR277t_awLuAB4nIFKQR_cN_hKVrvKP38sfEud7JIVm6KbfZdU",
-      "photoAttribution": "Gilles Lebois"
+      "photoAttribution": "Gilles Lebois",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Rue de Rivoli Market Paris",
@@ -4634,7 +5571,12 @@
         "Sunday: 10:00 AM – 8:00 PM"
       ],
       "photoRef": "places/ChIJxyptaC5u5kcRcE-2GP1x61M/photos/AcnlKN3Gzrle4B-4N1bVTn4iFiWaCyu34D5s5NvdEN2NVN82_-N4RrgZJLDaC9smZLzCajD8xg09YcIG-mYFNBrE5oXeL4GL0p5c9XTTgzjDI2S4ymXsb9J1LK0hC3l_3PhaoFaMn_iZA9tND9nMPRjSPhSNOL_K5eeCtMfeJ_IOVKfZ21by6Q24ZEN82VOAhA1DltDFxL_qvkTRuMG9krAxDEQhSSXyeMvBFSL1CxEFamE7hoKY9pbPwrYNmPHqh4CM7V_O5Oi_YXS3wmBlTTY1ZJfrK5lLvbVshrTBLCRFgn8oGfoO7AEMnYQWFGQjY2OrIZS9e7lg0PrPpzKwMQiXChij2x47_P5uOO7WH-lvYPPVv4MTASZryVCErV7CYOSvCmmu2dV_hjDkWmbCNExicj7kT-hwdQHp788aT2NLHrw",
-      "photoAttribution": "Ivish Ivishelectrobeat"
+      "photoAttribution": "Ivish Ivishelectrobeat",
+      "tags": [
+        "Photography Worthy",
+        "Shopping",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché Raspail Paris",
@@ -4660,7 +5602,12 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJpbsjXi9x5kcRWYBzzRohbYo/photos/AcnlKN2DRTMdoHrqEhZzF42tKxxxW08Ja8Z6MeKubAO__zc0j-EGxWCboWpwHnCocS7s0WH5WcPY-jNf2FoMKS9wzV2gybtlB9IYWAkRhcB8w74dmGo5cy7yktacAItY3cRRd5mGhiCs5DQ16fVjE2q9E-QE0dgwx1vsxz8CfiSGKMWRaKySBu92wlQT80yvJxYFsf8CzhUV1doEMjgciSR5UgmnwvVWV4rxB564Xt6l6K6-01p1qHsfbtFlYlFlZUluhmM0_fRXrjIB86Zlbi0VpbCvymZsIfAy4dKZMbV971dtG2jZ23baUJZMdEW0Ltb__1RhKSHnfxGWfmFLarYDzqaQCRRGlIFT5jDKWT-EO66I51vyhCOc03ecE3D7lVduDBUv_siTBsXj6a-1ulGmxQrBeYb7h_Zjo4o5sZb30mlFow",
-      "photoAttribution": "Dominique"
+      "photoAttribution": "Dominique",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché Saxe-Breteuil Paris",
@@ -4686,7 +5633,13 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJ-bNQ_cxx5kcRXI0Dkjm-wuk/photos/AcnlKN07iDPqZ_JJAM8UbaRlaWY_7FS2SpaBDlFxe-CNvBBYj5EHaebMbQWuw21ZYN1gBv11ZW2Is0AJ24FrxMc8tT_v3QY-5u0Y9K59t8G5skw9joOfN8mgVkBgTCJeScn71ku6Ai7FxCnncL5aWFN0429lGHrllhYvwT6T_SsewFRykuTLS5idr-4ptstOxv6uClMmKBZHKZbJhhuOOx1c1_rH2CdR6XSYZJZqu0tCNHZULKgrXciGax6LMMFrfv-A1hP_jIq3djCHMBLoMHtwSfzST3ThtDRdkW6vi2NEVUprBq6WBfrd_7RENfyzO6hXZbwbegeqFkDMT8N0fFnZLKMvZVqDTs6V8KpMHBQwCiWi6xWTpC5wGME-B8kC9B1ID8uevbzRlJpuDOQYxYK1vO-HIVR2IDxiqPQIZbxt5j-vyA",
-      "photoAttribution": "Alaa Aldin Alsabbagh"
+      "photoAttribution": "Alaa Aldin Alsabbagh",
+      "tags": [
+        "Photography Worthy",
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché Enfants Rouges Paris",
@@ -4712,7 +5665,13 @@
         "Sunday: 8:30 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJF4z0gwZu5kcRmxOUEU2R8Iw/photos/AcnlKN1051h5sdaO1nDkp8qEydOXxCLxp_eP3szI8ElIqP1ksswbd_zZsNjEToiXtDPknCrSLLru-LO5ShLk2_CxYpWtEr5r7w07m1jT-wBLB4BTCSM97VJMowaHJHeRamYjWeMBoLR7xnQbnF7nhAufuVJcWORp-lq36DKBVcOPNzI46c9FCLISVonwfKq4gVRULrV7V4Ff6a_sNU1NtvOorG-ThK6N-NwcMyNtY1O1yW21T4nblJwwEjKsp3ndhp78C4_e8yiCruCPXSvNoj_qeulH6cyshIM4UhUTzPU5L1K3GHZ-Xz809M1LPq0GWzcUGJ-ZBy7NOGIshNRdsCurz_qPsUB3rGfLeXN99XyItWHabViDqaNQJXHXT-CJae3qvaFz6UZko0qLKOzkHWmkdsS5JuiBPywIS0ofZRVTI52vwQ",
-      "photoAttribution": "lefteris apostolatos"
+      "photoAttribution": "lefteris apostolatos",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Shopping",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "L'Atelier des Chefs Cooking Class",
@@ -4738,7 +5697,14 @@
         "Sunday: 11:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJv0fLaHpy5kcRJRnvSy1AMLg/photos/AcnlKN1nXTY6QTHIdntUqaWqqJ4q8SXwkfCANSJHhW6VSv3vlBbeR3Y6UQK8nsDzdjfGMMVhxmeX9NwfVrhPOkPZcxvkppNQIKZIMfmoNH0rggs69imgZKIu-WW38eaIOxKtPHF0ugaOpbevthxeMvVy5FzqAViQLJtoiLrK9OEEyIVkSF45EonVBPNnJT34p0DteX90y-gy65iQWL8Ui2Dmp9zfoVI2qKjx8otQf5rXcr5j5OCdnroqli-0GM5d8u8jM5OHpks17A3pryIWDlFiU2luOaFXDIMD5IlaeSTp6ckJTomW0uO-6Iu0pcf3rPGASKgaojQV0dhDS-G_aQKszSmWXld8FbMOQElmOWE0jSMCG8RiIjvNya1ogLX0zyNXnUNJRIVgO10HzAtfA6SsIh-LNlReP7R9HMGWzMq4ak2Q4BzH",
-      "photoAttribution": "Sonia Ould Amrouche"
+      "photoAttribution": "Sonia Ould Amrouche",
+      "tags": [
+        "Romantic",
+        "Family Friendly",
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Rue de Buci Market Paris",
@@ -4764,7 +5730,13 @@
         "Sunday: 9:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJg5nRHtlx5kcRo24yikaH5R0/photos/AcnlKN2R7ggCr-g9KoLJ9ahabUlo9_F6Oww4mqY4I8MTfjtG0wuYytpqyyjiJQlytSGJuF-1gWG_Bye2gwYvxPhnsiXUPY7h6YdB0HzN7F2L7hrvaEZ9MpLhPgPGgycL7B6vIGVNEjHtG4d2V1xohjJACCtdyfR8vHpAfWmdIlmGQyLzLKQAl30eBgVfM7RnCLyW6gNs8DzKQ-FfCbcdancJHzRp36hjuEL9ZHeKaEfAhqZA2mxLJWle4Kno76V_b6HQmhjVnE6sFM3Ugt-VeVkgoza8SCXtbp7vzomuKulKYmWJQPAXPT7Jdvm2_nkxxRQ6SWLFnnaONJFv_TB78xBwrmYPFJGQQinlBBaUKhwvWa8IDbj2V1UpFAZWv8-HlWeW3lJXN-gMbjnWBGxsttSvjvlp0QUj_PrjwwxDLH06Cy5gjA",
-      "photoAttribution": "Icare Phenix"
+      "photoAttribution": "Icare Phenix",
+      "tags": [
+        "Photography Worthy",
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché Passy Paris",
@@ -4790,7 +5762,13 @@
         "Sunday: 8:00 AM – 1:00 PM"
       ],
       "photoRef": "places/ChIJSfq0duRx5kcREfPxW0LPEMU/photos/AcnlKN0yVgyoxS3Q0QnXkj_nnhI6Kx4V3XWHtPOQeDrbivSDN15pSMfKL5xw7_FDRHIH--1dqseGWY0jm9MV4DTemzOjd4pO_a7aMYqUvNCAGWak3uTBAL8FAIFG4KLvLU-2Xhy8nojeA-ywMZ7YxvBnvm8X3H18r8GlAFQpKDb4hura4mX-o1Yel9fd6m3i60KTnwCUjfzDlbCYjruy5Hhc1qGwV4iPjIpAd7Z3Feb5yQ8QiFQ-RCVandefL_sRrqO8AY7fgnMg2UQVBcidYFQlKHTAWQTbRUX5Fd93zn2blThjItqVs-Y3HXavmC9Dmqw51hPEIUX6SP9IR_O83rYkxkaJCp1NxwJtSXEfMtGifw8YzeHvigicEr2DXrLWGlL5c-3siQ64dU6xnKyeP-sOy_QK2z_LjLLRK8rJKEfNAkIvJQ",
-      "photoAttribution": "Maps Communication"
+      "photoAttribution": "Maps Communication",
+      "tags": [
+        "Photography Worthy",
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché Organic Belleville Paris",
@@ -4816,7 +5794,12 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJ9StsGOdt5kcRN_hEpGGLHmQ/photos/AcnlKN1CDQBYr3g4lvYY1RAgQGfdsphc6I-o72WkrbAslpESfuQOCzz8uSM-2nMx25ozm5M3RRyKzalemit1rZhQiJYmBu8kxDMAvXOBEZzrkkCD33wspq4TTfwKdasyjfDDOzUicX6UF7vU8PzTjPgAxxXrIY5noAHW1Vwxu4L8e4x9NN2bowenOI3TDH7cy3_cPILCAuolvWkdiiOvcvYZaJJ21iRq6XjhTI7vor9o8vfnbS9L7yX0t5IWaJde-eHBTs63C4VyxwAB8hILKJcvoayl-2r9PMR9igupo-G2o1uH6Q",
-      "photoAttribution": "Bio Marché Belleville - 有机食品"
+      "photoAttribution": "Bio Marché Belleville - 有机食品",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché Provençal Antibes",
@@ -4842,7 +5825,12 @@
         "Sunday: 7:00 AM – 1:00 PM"
       ],
       "photoRef": "places/ChIJ2ehIqHHVzRIRHAKd30wbdAU/photos/AcnlKN3bZEX3xKkDm9fpu-zamSbUoENkHQhHnHJgmW2eDVIT6sqc-mkem8Kd9x3A3Od9YCBS8Fq4raHAJaVss7puWbj7OHpWQb8e-UCmuvOy7ZckY8H9MihoLML39zljumdIxQoXcV1TJBD4ZKllHfqVjV3Lx3ypfX0wx4VUkHzusEQgsmv7fC6ZscwCzrnOI1-n2lTY7XLeTDQ0ATgn1bcyHJ7Z2I4z1wKr3gkh3npkE_nw5pUTdoKPeRR1jLraKjJopDj0u8nbP5W_b-xZTEHOmTKiXCzgt95SQnnulWdImWGI6TWnhGJJXqohmWfn_kSJtcNzsL0IlVvcWXYiPDbt_zR3aAWXNaajdQ1aGMqol6JtoxF2bpmpT6bLdUIt0aUbPCr5HFESvd1bKX185T0V5T9cs7PQjVTi-OCxW1RwIRqjYt4",
-      "photoAttribution": "Domitille Collin"
+      "photoAttribution": "Domitille Collin",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Cours Saleya Nice",
@@ -4858,7 +5846,12 @@
       "rating": 4.7,
       "ratingCount": 393,
       "photoRef": "places/ChIJO2a3IKPazRIRvoDhP3QCfcE/photos/AcnlKN0tb2AlW5YLJXCOfJQPcy5VbYE3fAtjYFgah7PA9WJ-Ku75aRHxZERu-D5zn9V28JIvIRY0GSd9a8RryWtjN11tPtSeu5qyr5Ug9aqVr7VhSNBpRWC_jiFpDylb2PSSmo0Rur5T_2AqUdRXz5lm4LJgY0QBo5lq5o98K6IlyMRAVPO-MgZVgVOr45Tou66vdXpGH5fMJVhgEivdnAYDCq_F10fLWMqTuS3COt3DU3EeL9C9NZfONYDyG23Y2rU62TJJjcNdCq5FCyler7idI2NSP_IMrNpZUedza9keuyS1b_Z5agIl9wpT2y5E31bUMwxsPlk_SIAJisYHuR_E8HC4Tnd0vOwNkhO5pH4t2UGNe3_2SNygVigdIjbJCMF1UA6mXeJLCniaQx-TUsJQqfce_SVL33OYKGiIxkMl195Ooanr",
-      "photoAttribution": "Albert Alfieri"
+      "photoAttribution": "Albert Alfieri",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché Forville Cannes",
@@ -4884,7 +5877,13 @@
         "Sunday: 7:00 AM – 1:00 PM"
       ],
       "photoRef": "places/ChIJhzuV_4uBzhIRYfOrwv9hRMM/photos/AcnlKN2rWIi__e70OnAh8JF7ZHR8Wl_wjdOlSNiktO_ANA2q8bRrqEdU8UFBrJj6nVBE1a1FazWD7MuLMNrMGNcuaAYic1FwqUEL-l7xxn8kANioFTRonKSrs7OrArjZdteauWIm_oIWvzbTe2k_mP00xwJE2uOjoz_3WKmpB4xM5LjT1PyNd7Fni4_uPpYBiTwVXR6ckb8g1R6bjbmfoQMjTcUmZXFyd4Zvyz_Obhj_Sg_3AUcJRNh3X11Qrr1qJfFNmgAlkmuxfkYTevyXa1eOYoFkfDELSxeLM-7HmcUBdM3_CejhQOtmma17BHgCLUE_nOq29YnZ3fct0FPivKw2zO9oaGnKRvrm11LdCzqU7jC0cQ44KI9nNsK117XSfhkq9KlfLn5kbIq5dWVRaXOTxcU5GXOreYIsUbVengF8yuTCAQ",
-      "photoAttribution": "Yuri Cattabriga"
+      "photoAttribution": "Yuri Cattabriga",
+      "tags": [
+        "Romantic",
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché Campredon Saint-Tropez",
@@ -4909,7 +5908,13 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJJxvbrhXHzhIRc2M1iLMykWE/photos/AcnlKN07VDos_znqTRIMqu8FT8FdPF2oWM-VbIdGZr3z3mfIUWHREk5nHAqKQ5BrpBWVioLkHsytKh22mK-y693OOgwKJUd4VvqtL94UpFX22cjCjIvrWZHyM_b0DdMgT2AOp76NJHXGPGHPFBeZezpCUb4UYcPKDYv_KWBsnrenOzoj1Pnv2DvAJRFZjpndznUr_b4Q7qonOcS4qBWcMunX4243El0KWCBg0xDNGLPMbfMEq2YSIZFr5mWN-hMjMN4XEPJuOMxL9HpsdJutki8HgaP-h_kEzH89tlOIyOd9g_KuPkwwrNuW0s2F44_OPA4WbW8qEZ9E398lQ09XJevRYI27eeirMv1ADhsGU5TC39MAtkcWdDQDKLs5gTTX4E4S6SVMv8EYaYUpFwBJGNy_0P482StmRgie6ZyYfVqlaYgjVBg",
-      "photoAttribution": "WALTER"
+      "photoAttribution": "WALTER",
+      "tags": [
+        "Photography Worthy",
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché du Vieux Dijon",
@@ -4934,7 +5939,12 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJN485te6d8kcRF-SfMeU0Uso/photos/AcnlKN1Sj4vqmn2AGTkKI1k7NT7-gCD48I4-lqOvAVNEidRbcvhjtzXRDZRCsMXlSG44PMAYsKrnDZ8R6YN37X6Oyi_6tJmfNvn051TnWhPq3gGLV150bcSoQxpWyKPPkp3HYBZV4k2QX5xiuTRpyD1TuJsqvyokHcvw5n8-x4P0zq4jMZI8XZX9L1uy4F8jyUO7KDeyo0-vPf7-Q4OUh5aLf3Xivog71Yd1p-f4iKLzAAzlJcxAh1m4oQphas8mIqAjNdTR4juY0ngB8oHWpjTqFfhgiIvaFWiU_Vxp7T1n7o8_kw",
-      "photoAttribution": "O Maquis Corse"
+      "photoAttribution": "O Maquis Corse",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché Quai Saint-Michel Lyon",
@@ -4959,7 +5969,13 @@
         "Sunday: 6:00 AM – 2:00 PM"
       ],
       "photoRef": "places/ChIJkbFIf1Xq9EcRsIogqrDkXiw/photos/AcnlKN00IplermycFCci2dNwutrBKdF0ba1wDPKrMCWJiC5_gZ5wC4g9pN-yETv2SlgBHUqs8GaYE0uL_WeCkgLF3GhERQBuY014_G4MFt9qAJ7ur8wIh1oX4-ekoHRC3WYhb5kOUggJyTKxSF8PEqx5jqJ30AYiUVKoK5zWjLuP-FFy0eciAc_xdiA0Kq0kI2KLMaMWF9fN-uDWLNu2vRTmS9A0oj6DHv8esegtcVnwHl04UpEPYacAag8MhgRLbxYHy9-38ERDs9IxqWx823C7LNgUfiY4-QMrkx7dRpDQq3vFxA",
-      "photoAttribution": "Marché alimentaire Saint-Antoine Célestins"
+      "photoAttribution": "Marché alimentaire Saint-Antoine Célestins",
+      "tags": [
+        "Photography Worthy",
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché Percier Bordeaux",
@@ -4984,7 +6000,12 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJ_eIJ0XkoVQ0RG_iB9dRckGE/photos/AcnlKN0bJKxGKWRfZmY1tXVv0VyrhZyBwcBUPVldj79u12jgOxCa7rH19u-n7MLl7kwCcDNE2eo3UiqJESjrRhV1QP7keHN1BmIdUNNcGdkd57E_HTIlOk8rVxVDK3M8FwDzDrbfhxz9vHzbOTCkv2VK8dPfnsr36EBhao9c0Hu9WwjpnpMlfbHxGmwrr6hZePZBmYu4jVpRgfqd3HXP03mH94A34UVRcDqkqG_RtiGZd-9UJf-_yPlHaH1k2XdCbpISCtgIhO4vCPuPFdrfWOqwPbrrXcaJyZei60HgGE5rMFHj_DNVS5w9xPKVeU-Bq02vQ4qOWSgWGi_SdhoEoBkPG89budXuB3OIvidHOc9DF4VVUf7HitkdSbV-pxxivdhzfXNzsrqjcj5QGabadyN07Rwpc-wv_2az1qdnT2waJk0",
-      "photoAttribution": "Eddy Piters"
+      "photoAttribution": "Eddy Piters",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché aux Fleurs Strasbourg",
@@ -5010,7 +6031,12 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJ02KNX0fIlkcRSy8XY1hHOHI/photos/AcnlKN3JH7PwMaqa_LJfJn8YREV2_MGXAwWpEbJSFM1Apn0ZYfcxnInnk6n6N6-f8xEbst5J_MiSBlnsksFEUFMWwZkCA0YfjeQNsdDpvkvsZun30ShVmWWPy8NRL4D_8uJ7JmtkXUH-X-XXgNaehhUN0CrGTPIWvDq95WYu_xA26ulpL3-HkXFjCBGC23RROPcDcVWAkQ9bVAjMExPAjxfVefafOjevBgkJUgn9-oVv2DgETcBTU8p81LfUlcI-Z1ALNEycflBNaiKz2UjjtQNWUaOxBaBCJq-H4uHFSqfKabGu2Q",
-      "photoAttribution": "FleuraMetz Cash & Carry Strasbourg"
+      "photoAttribution": "FleuraMetz Cash & Carry Strasbourg",
+      "tags": [
+        "Photography Worthy",
+        "Shopping",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché Saint-Rémy Champagne",
@@ -5036,7 +6062,12 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJMX7rICh76UcRPuAFe3a2We0/photos/AcnlKN2Ur0b4l8EFCtq9gElX0mprmZ6VbAEcqaOFGGqUHO8Oo7hsyCl6P0NZyjSt_jyRUzuePj9nFr4BBTDQKiiMPhFyQGX98ZxRaYV0jxzp8FWIPXzxYNrxbaVpG-TihovwM2nHxtwtuWZhrt5BcY4olh74oMu3DrTIer2sb1tZOxNiC7NqW7XvvkdUnfepthtrKtqdDpzAfgIWWEWxkqOUUjTkmftzGfy32opWkgBlsYoGOqFPAEY2GlDcNYpSwe-zR-laPpJ8hWISf5Hl9SLDTuLggkgWhgoY6VkZhYETC4Si0w",
-      "photoAttribution": "Champagne S.Remy"
+      "photoAttribution": "Champagne S.Remy",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché Saint-Lazare Périgueux",
@@ -5061,7 +6092,12 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJW7aqYjtx_0cRJIV0LeGD-xE/photos/AcnlKN0q1IREA_2ubKw6OxZyzHr109TSVS1ReyVfiWTXO9KBlwo6XRQ_kcqpco8PPT_vd5syaGpRAjvldZbDIKzRmmhpmzkF2shpGaiVXBAVPvbwS1VZKGiX0bOxYeL7EUZM2DO225nuZZIK3PdCfwW-S_AnwyckK5srWHTFW817ysbJi6D7xPdHaYuHpmgbVBSpPYdKVahThgQ5apZx1nPqVc14Jm3k3_7yBZkXPKtVpxHRsR5vE1dfQ1gRcrs1k4v15yBVRoy69CgeX1g576vRpPeL-3XUh2IhTMGrsdhPjuVPM4IO5Fs_p8DhBmPkuor_Ckmq-Lpf5H5LfZ8jtEUeye2b1sGQxAvScyijInTZlF5VuVoJTLPG-tYfph9UnvdyVZwe-pxg606DLTHFWl136VLdWgYQXoZnIcVSsEBmLXE",
-      "photoAttribution": "Raymond Gerard"
+      "photoAttribution": "Raymond Gerard",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Les Halles de Provence Avignon",
@@ -5087,7 +6123,12 @@
         "Sunday: 6:00 AM – 2:00 PM"
       ],
       "photoRef": "places/ChIJtcIr8YfrtRIRg3N5-KFfJKs/photos/AcnlKN1_mW2fCxY6ZLDhMubNeFE200aj6plH8eAh_iRO57QIAv_4_IQ9Yg-5VS5p3IZt7CNHZicEhRgfs-dzu-RsoY7OYDHw8O2qObSpoDMmLf4k-dKrHVUVfSXshgv6N8qL17ItqlkBx0XqnkyLyArTPdqHnNvT9y9YFXMXDZdhvUMuE7VEDRHojnn65cEoREdZLJoEPDoqscAY2sjdKPyeRstcVMFdVQoww6z2T8qzmt_tto2gqOzsW_VKWEZdZYGYS4pNF_DMW9aelpmhA6iSZiKTjEE3IOIRP22yu2rIG49Z7ssQKdsLbLC3GmJ2PnID0dZJGtNZlg4FszHDSwzObqdJXuGRfXEw22KwWN2lNwGN_naRc3niAsrkbGuKKlDNLE3U253DgiNXDrlFSTdCktDgbZ4frpx3L232Y8jrSjktmA",
-      "photoAttribution": "Julz Jazmin"
+      "photoAttribution": "Julz Jazmin",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Marché Olive Oil Route",
@@ -5104,7 +6145,12 @@
       "ratingCount": 1026,
       "website": "http://provence-guide.net/marches/provencaux.php?id=1746&lang=de",
       "photoRef": "places/ChIJuyyGLdUOyhIRGOtKNDijBFU/photos/AcnlKN2HdQo87c1wA2-5wV0HMoR39egYFrduqjvCuNBS96fhLeNgnuYsUpUI4flHgfg6cYpVbV-tVQgfi-y5dI89R70RDOn-vVSZlVLGC1G4ilV-SDtSOiFa4fOls6tUvuQ_n13kYAntdGwU2fCw1YcTO6GSvLGlI6J1QcJ1gO_CE9ZJpxKgcfXm0UIOm8Wu29aIjafeq6KoLeNKww7fPyAKlB8gE-Z56WRc5nYYxHJx1Gw3Q6aUmkxiwBe5O12RFHQVEe0PZxXFBeYft1VesTMCzllBXKvCQcJ7f1PzKsLIkOorS7ztgV972MlB25tAogtGO7r0uFVzXgcXNaSvStuOleXB5g4N-yDNp0YJUCgQZkCBSqRpKaSf1616f7ro-pu94W3fsRsMaiXW1s1IRJ-IKaO0CbNLXtVbu5p6x-SzRGtM1w",
-      "photoAttribution": "Alfons Meyer"
+      "photoAttribution": "Alfons Meyer",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Budget Friendly"
+      ]
     }
   ],
   "cityCenters": {

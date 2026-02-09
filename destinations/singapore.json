@@ -24,7 +24,14 @@
       "ratingCount": 62517,
       "website": "https://www.marinabaysands.com/?utm_source=google&utm_medium=GMB&utm_campaign=hotel_info_main",
       "photoRef": "places/ChIJA5LATO4Z2jER111V-v6abAI/photos/AcnlKN0lBPFdzCAq6qVUllFT7zO6pNz_g-fgjp6MG4lJGCiDBg4s76hGuOQ3wNDGHAZYfIwhN6iJhvlDawhfCzkEuF0Q_oBicWldWB5APdfO0PF4DjAdDESMoeCUfD7RrE7kwD1wVPFn687hsdefImvYWzPy6clNHItZMMB4nIWTZlJQV9SGJOGeb7mZPBelLo1nYX9BLt1VS5jsIgPfQKiU-Ph1K96JfB1KzAnxhU5MoOkred_y_E9Om7KYo-lQMZ7fBrzR9rm9295hdAmiDuCvdw-98NW11P056wC0qQUyXWqcNw",
-      "photoAttribution": "Marina Bay Sands Singapore"
+      "photoAttribution": "Marina Bay Sands Singapore",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Art & Design",
+        "Family Friendly",
+        "Splurge"
+      ]
     },
     {
       "name": "Raffles Hotel Singapore",
@@ -41,7 +48,12 @@
       "ratingCount": 6133,
       "website": "https://www.raffles.com/singapore/?goto=fiche_hotel&code_hotel=A5E1&merchantid=seo-maps-SG-A5E1&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
       "photoRef": "places/ChIJwUTKu6UZ2jERwt5ctkU4f2Q/photos/AcnlKN39hqm4iGMBYkzUdnaVnu8l9EPS_Iq65ALoTn0gp-8YWee3VesINg6kvH5bdu_kdBUet1HYDm5mnUpGa0NeZG5aPdCryJ02zFXSLDoFhFmxsKOfCFlhvIynloO5g0PRZXqtj08gRTMiKOc6BnGZGGREDRJU-QgTT8SKOQwkWglnUeUxjGAlW3sN1wwyZLFVFNXKaxZ6Yj5LF9BxbkO8jQ35a6wcRUyzSrJfZGmBEYkojPbpL0PAZkZvSaOzJZk7Nbgpytokw8dOaTqFrVKao5SddDMmFV5TQpkadZjta1ZZzw",
-      "photoAttribution": "Raffles Singapore"
+      "photoAttribution": "Raffles Singapore",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Splurge"
+      ]
     },
     {
       "name": "Capella Sentosa",
@@ -67,7 +79,14 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJF75fVaoe2jERZYVUuHEz-lQ/photos/AcnlKN3kTXFfLeDFg4frSzoNJRnv2CVop07EAkxUb0quZHVnGJysVliZ6fcxllqJ1xJ8kumKfW2OLT2L-LgoYfDYdyJNlIeElPRBrWHuM4Lnh1tCC26DQd9D_mCpiKPEOYvx8NNgdblOdgxtNaF2Jp6qsaPdqyvsLTvWeS-UQ3NlGhx4lhk4bOsPIrh6wWEFsUAxFcxxyvMzeX3dbXomuwz6QWE51sraccWWwv3QvRnkz7suyp-8o3522E0h-NzoClqaquhDuTjg6V83yDk54PYhmob0Le4xYKQ5m1PU1WY39eqMZQ",
-      "photoAttribution": "Capella Singapore"
+      "photoAttribution": "Capella Singapore",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Wellness & Spa",
+        "Romantic",
+        "Splurge"
+      ]
     },
     {
       "name": "The Fullerton Hotel Singapore",
@@ -84,7 +103,13 @@
       "ratingCount": 9116,
       "website": "https://www.fullertonhotels.com/fullerton-hotel-singapore",
       "photoRef": "places/ChIJbxecDwkZ2jER0HC_ulAswUE/photos/AcnlKN08VKKaE9HVaAHE7Q8Sd4JueGkFg93mT2GCyjtCRLumWH8-QxSojLV0We8Nbf6kT7P63yQwQsiD_UQ_CiXvQR1Vmh9ssVpEDzK95Inmt7mUE1jPK-gXn8WI4-tbYA7oQolmoLcHj-saON8PDVM0gTJ3HkzzcjSi8QqTcMeAM4kbYeQYuWiVWf_UOezRE2nzyMMLcIoN418WDPMZL86J_0JxJyN8J2zWB-YWeMvfBqUtjLFXEMWZ5_jaXOgU76imPjEnbSxNhA_ciL-YZ6p_4i0y9cryDR9mQ9Lv8ivuMYeTKQ",
-      "photoAttribution": "The Fullerton Hotel Singapore"
+      "photoAttribution": "The Fullerton Hotel Singapore",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Art & Design",
+        "Splurge"
+      ]
     },
     {
       "name": "Six Senses Maxwell",
@@ -100,7 +125,12 @@
       "rating": 4.4,
       "ratingCount": 115,
       "photoRef": "places/ChIJscbNSG0Z2jERiGxlMFKnG44/photos/AcnlKN3EmGyheuuVI9fB_Y4dGqVydTQnFMGxSUrPg9CNXJaSg3fEHAWM4kpvkgW8FGReEgThZpyhIYDoBdLb0dS8hto0mTD4Jxjf7r8oW0KPivU-p2F8u4b7ZeTEAoTCdkg1QeIVrsva9C4dlApTJGE2rRqHJdYFF8nSNKW9Bn-kuWEtLz_V_MlrO-D74qtc3eqsOdbL-Cr9f8PIOhlmGHr6L3vBZi13Sn7Nhn7IPbW7jwTUn81lqoGTHWCri4cPbEgKBl38oTQZppN_Rpj6G4WOsKiEVLiS83jotjfI_70WHP90gXcl57Ni3t6MPVn2PqyMBN20v8ishRgLOWTfu5DiZLmT5VmNe-lru_5lgZ6bO3kElTpJaHWrdEDd5HWLgwF3kVplsj5M-a44ujaNnfcF1kipBc_C8gWV4lc9JrUFuygxrME",
-      "photoAttribution": "Lloyd Sng"
+      "photoAttribution": "Lloyd Sng",
+      "tags": [
+        "Budget Friendly",
+        "Art & Design",
+        "Family Friendly"
+      ]
     },
     {
       "name": "The Warehouse Hotel",
@@ -126,7 +156,14 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJ3x3BIHYZ2jERaKVKVHoczD8/photos/AcnlKN2RExoPNlW85KhhA6QIn1iaSZkHjCiwoZPMDon--_zfoO4fh4A_Nl1wZEliBF8SDidkoZ6LnX7AJ48AzzGxAwrB6U2RKvMtNiKR6eVJiw35ONVcIGxksyylxj-h5Xg3B8MehaXdPUj5NAFEV3Is2VVJvSSIXAMJSNZy-nSJaPS3TLTtanwmye5Bebm1p48MnXOfTppXnFgFu7wfj-CBTUeWicVG0Nqk03Wv7xq7D2r6lOd7KPEl0TeSmC4LDkJ_JEeIFSCrp20wIcZEZObf1NHOPYCVqkCdG3aGBPYYhb5JXQ",
-      "photoAttribution": "The Warehouse Hotel"
+      "photoAttribution": "The Warehouse Hotel",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Art & Design",
+        "Family Friendly",
+        "Splurge"
+      ]
     },
     {
       "name": "Andaz Singapore",
@@ -143,7 +180,13 @@
       "ratingCount": 3445,
       "website": "https://www.hyatt.com/andaz/en-US/sinaz-andaz-singapore?src=corp_lclb_google_seo_sinaz&utm_source=google&utm_medium=organic&utm_campaign=lmr",
       "photoRef": "places/ChIJB87pIbAZ2jERwfGaus_7am8/photos/AcnlKN3UKPmhyhmgQHPQMz29lFg7tMBhEl198eXLMPLrqvJkF7hsQ1Q_1mDueVg-2uOBwF_oEcRxrQtP8PCjLvSwIJfTHdFEZwGu4vAkyobqcRgwdXv5NDCED78eCTIeSasAI3xCc6-egLI3CxA9ggcXbXJ9TgtHMHRJ8HeS3oGGnfRn4JqJyC0fGVbuJfQK42hN25a4IeEqGrXRHrqIZrwiS2WQfuz4B_GAq7hXcl6y-gpYUQkUebNmLGpCPPh2CF_GSaxPnDWIoE-A-8CRj_CMVFSvhAQ-a0v7X8BHWv4yRnuibA",
-      "photoAttribution": "Andaz Singapore, by Hyatt"
+      "photoAttribution": "Andaz Singapore, by Hyatt",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Art & Design",
+        "Splurge"
+      ]
     },
     {
       "name": "Hilton Singapore",
@@ -160,7 +203,13 @@
       "ratingCount": 2162,
       "website": "https://www.hilton.com/en/hotels/sinorhi-hilton-singapore-orchard/?SEO_id=GMB-APAC-HI-SINORHI",
       "photoRef": "places/ChIJU2DzfLcZ2jER4WGAnEnqNFw/photos/AcnlKN0um5ZaFsU0haQ9in1JcLlZCyKPR036bBsqoVsDMS07rqUvXz18-ELu5cmQfy07gtyuL0z_0Jrxzh_F6mIHKKCInE1WExAYOBsC-vn6skN6tefO2t044kkA3bq1hHyjYbI080ZoODHQthrAi9tTQCbt_dM-Be8sVqFndCmnxPlE8tK5cJqsEaDobHVIVqG8AIL4k8xz7_lN48eQ4_BxiNLxMRl1rca0l-R34jjZ88k5mGGDA25V6TfLki-21Bb0H3vSgaivY1lh6A952Lff0wS-4_xDGHqkILE3R09eRHapLQ",
-      "photoAttribution": "Hilton Singapore Orchard"
+      "photoAttribution": "Hilton Singapore Orchard",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Family Friendly",
+        "Splurge"
+      ]
     },
     {
       "name": "Pan Pacific Singapore",
@@ -186,7 +235,12 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJsQvJ8KgZ2jER9PL5Qty0i9Y/photos/AcnlKN0-Az_KoMbJJFeRAxBDgLD0-VRGdIfTwW0Q9ynTRgRTbYIl5Com2dXdaQZjnGjFJePVjaiUhcGuePpZE5uzTdIMaxi8RRl2-F8r4lq5GfOxiihRbaJh1_eoScVWQmymRagS-dK5t8IkkkgoJS33XwV_u-0dW5BM-uASCRU9bRp-8WkOG9bml-zMyW-BENV6_Wv2koGHrBaAgLT8qCljlucLEkx9004lAQoYKRFg1qntZhjAlyjnlowVpcpukHSK3yEZesxfBQduL0miViwSthbOaRv5nv5ziiSPMHm3CCYQHg",
-      "photoAttribution": "Pan Pacific Singapore"
+      "photoAttribution": "Pan Pacific Singapore",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Splurge"
+      ]
     },
     {
       "name": "Shangri-La Singapore",
@@ -203,7 +257,13 @@
       "ratingCount": 13107,
       "website": "http://www.shangri-la.com/singapore/shangrila",
       "photoRef": "places/ChIJXU9FcvQZ2jERiz8HeaqV70E/photos/AcnlKN0Cd2u3EozxJyOWu9ouYnanuF0XyRe_mzMFXNUjbnLvbntRDezxksmhmA3qxwzFUgix4o4-iBHZ2vhAY9lMWawu_ayFsTdDLWftMl2O9vIkhcLIX4JtsgTW0ATtTuoZSPYdG584GxU40vQrkeEaq25fyc0nnaorL92a8WiICKYGGcQC2QBJnfirxK0QcaTU2V-fqNE0Bfl2cU770tNHjPHLVoIPVU2W0qrmokQCHV3MJfxo8gD8sPIVvePIjInrs5fJyJCmesR_KKAxiaUrwifo-QEBNUh2WHiowUmlfgLKZw",
-      "photoAttribution": "Shangri-La Singapore"
+      "photoAttribution": "Shangri-La Singapore",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Romantic",
+        "Splurge"
+      ]
     },
     {
       "name": "National Gallery Hotel Experience",
@@ -229,7 +289,13 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJFQzeR6cZ2jERgM6--iWeY-U/photos/AcnlKN17Cw4lsfw3iCeZWmt9_g8ynGy6jdhdeMj5E3r2q_FvOo-OIVZwted9KEouYBacAn6pU3jH6ivH0skqpYbCkY1c76jFU5RvGpDVEMl1LwyxzwYOeKTnc99iQsHlXezEJuHDztAlJ_JkstCTwSup8AvhnFJTt2Vz2kcGjI3oIevT4EngszhjbgRDrzMAOa-KOUZ0OitypadjszqSPuNFIt1VBPX3KZTEVrE5ppzY1VAF9N7j8vMt-wxJ7ooJ6gllz8y3TA7DJnSWS_nO0k0bKECHiENbhuMN7tTE0S2wiPDO6_PJ1d0LaLRUxXD0QMgZ7JTqVDrR2irLEVSaFlZnXTl5M6mbsAjzBPgmM5St1fX5ER-Gm3hNZN2qczw9WphHSknqYP2UYwnYBDTCW4oJ6Vu8NKfN_xA1Bm-JdlbqcTdvcpY",
-      "photoAttribution": "陳澔子"
+      "photoAttribution": "陳澔子",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Art & Design",
+        "Splurge"
+      ]
     },
     {
       "name": "Mandarin Oriental Singapore",
@@ -246,7 +312,12 @@
       "ratingCount": 7416,
       "website": "https://www.mandarinoriental.com/en/singapore/marina-bay?src=loc.yext.mosin.ggl",
       "photoRef": "places/ChIJt7a1YKgZ2jER1U6XOjXyMCA/photos/AcnlKN2EifCfyqWZCAyzSSL88a83vfS0ltOD8Fwr1wWqvjMtb3Wo-d5TT0XmbfoLXpFcwIoN2gAbs9EZ2VL33YU_Ku0Z8o2SU1XuWD6eK8pV3Dabh8WnwhaxtxXQDiKFuyrBdAIE7iL2CvPU6ahEL7Vt2qpJ5vHZ6o759BDM13Bv2rPPFAsg3FoK0sUugvhoZWzyx2sciJdJd-mf7WdVAtUqwcsKrG3QAHBtnf0x66kknXvFDlO0p-eDHY09scBhgn67bx54zoyIbSsdms2vNS_8qh-i28JFZweir-_7FabCWXFBaw",
-      "photoAttribution": "Mandarin Oriental, Singapore"
+      "photoAttribution": "Mandarin Oriental, Singapore",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Splurge"
+      ]
     },
     {
       "name": "St. Regis Singapore",
@@ -263,7 +334,12 @@
       "ratingCount": 3939,
       "website": "https://www.marriott.com/en-us/hotels/sinxr-the-st-regis-singapore/overview/?cid=NAT_google_hotel_url",
       "photoRef": "places/ChIJb9RocosZ2jERYG-hayjKLIo/photos/AcnlKN2MppYIq932x-zQKxhDwF-mZ7EG0WLBhKcz7cATtYBxOrdPkjB-cHjF1fBohklDD8rCyn4OWlKc8CwrUSQvWnIBvkkZ_dUya9BlehtlpiDMz6LYmCdWbQVx2fb6PNXBOsi_2q-yBOcGcGmwAF54nS77hKdPXNdlRqYF_rdSAp5Sofb-7wrjhDlGZo_glQeJIp5-HWbperg5FRY7RcpREr_WbPL03epv_3aAIEXadyRtZzGi8jFM7coCtZnMKJDSNgRuSIIQGTQkSI4U3UPW2kljPWqT1l5otlg9F4Jvfam5nQ",
-      "photoAttribution": "The St. Regis Singapore"
+      "photoAttribution": "The St. Regis Singapore",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Splurge"
+      ]
     },
     {
       "name": "InterContinental Singapore",
@@ -289,7 +365,13 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJZRZ9yroZ2jER4R3Hm0_9Phs/photos/AcnlKN3B4qvgy8JsVZAV4KC8WPmTy2X5t_s0tgoKE0P01lFXiNZxIrD68KLQ9RmgbCKvkLyNJTuOJsYOcrxK-TNzQys0hdAx2vX9UKHiqv2ps_1QqBoty89kfkxMedfKJvE_KwGYlMDD6_MQSogd-Azh4_QB0LJCZJNx1qJYjiBdjub3Wt4cxL44lbg9kJ23Qn_ORhQyy3cq6W7WjMlBYlRNWps8gB3mcmJMcwZ5OCDajUtPDveZBQ2hdOJQ1rG65K29aozK-MUlZAk6LqSRuSHqlyxdan1S0-470yS6p3UfiUWHoQ",
-      "photoAttribution": "InterContinental Singapore"
+      "photoAttribution": "InterContinental Singapore",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Art & Design",
+        "Splurge"
+      ]
     },
     {
       "name": "The Scarlet Singapore",
@@ -315,7 +397,12 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJedOwSA0Z2jER2MzP7abeptc/photos/AcnlKN2tVLFYZJ-a7p6zDrMtiVMj2Y4axnSLsnAhhNcA9yuUEcm_vP5Mbkbj460bK97uQ3CWbbfT2XepI0lSglp8mnFnMdVjT8afVYVXVvL8e6gB6RrRZ5oPKt8C8f8dLV_79pivEyOfQ5ItYB9L7oi78GtSZnL0czIOTIaBCVW50ojJPGJAmpNLLIYC25wvxdDCD_Cm6CYorHQ1WwwZl58u9pijM4uCH9hySiRs-47Sy1MpeUJvei4AxHzxM91hxuX79f22a8sqkEayz8x25SGM1RRGEFkdAnTG0y03k1SLSvg4nw",
-      "photoAttribution": "The Scarlet Singapore"
+      "photoAttribution": "The Scarlet Singapore",
+      "tags": [
+        "Budget Friendly",
+        "Art & Design",
+        "Romantic"
+      ]
     },
     {
       "name": "Naumi Singapore",
@@ -341,7 +428,11 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJha8gn6UZ2jERGvxowvZkPXs/photos/AcnlKN0Kxc498Y7NaPgtzeXzJjBSIU1qPH_tJXiou671Ab3dcNm6F0eMqZCR0mEUtXaKatTkEgPz6FDLGbdV78-0s5b7cZdmXDVXX8SFEgQbRpYibwrHaS48xX7kM3LDCdsAQSiMn9Pt8rbgt96YZW9E0E65tH941DJupBlZ45Jr_-5A1aSn_Y97s92pFRQCWiXwiDDJI9_HngK7_VPj_tU2NGBZAxr5M6VJCOe3Z2XylKARk55PYGDkqAlaG6U3SjlpJF0uiky78YqbqDVZnc7K_OruFhvoQSvWRHI9dnOzn1Lciw",
-      "photoAttribution": "Naumi Hotel Singapore"
+      "photoAttribution": "Naumi Hotel Singapore",
+      "tags": [
+        "Budget Friendly",
+        "Art & Design"
+      ]
     },
     {
       "name": "Hotel Picotin",
@@ -367,7 +458,11 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJ2w4_lkIZ2jERbhRsPTw-Sco/photos/AcnlKN0GXjUpdku095N4QmKusLZTTKY5HsYxpwOitu848lk7kkoNbzj4kCTIL1TQYBbRjFEBi9Gh2CwtorV1-XIukGEBDAb0abNu1BFGKBEkiA-jYBUPf7Ylvccn7amLUjOM3JH1a2lBAk6gtoMaUWn5aPhyTaSUzfOlKguvCb3l1Vbp2KpDdbuAqMZnH7JiSpMeoB4ztEwm2EFLKYhf8GHWmdQyI8kUhq63yRkqpPN3UrdCO4HG3MrriNqtwybGVJCoRrVy0qB9PiqYJifW81jS12IBeNKSGsz_VPJ8BW_t48I9aOjfGoULidjLDxHcKR-aORMgs8-VX2rR8AWqoFynlP1-0Yh1aXhu7Rw2TMHqto_WgLOF0VhThjp_VKBAWXcgvr_Rc7hm6Zc4uYNv_0qwgWJfM_alIESefoI8VKLHT1RZ2w",
-      "photoAttribution": "Matt C"
+      "photoAttribution": "Matt C",
+      "tags": [
+        "Budget Friendly",
+        "Art & Design"
+      ]
     },
     {
       "name": "Amara Singapore",
@@ -393,7 +488,11 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJrXZUXmsZ2jERdZPWv7o3QHA/photos/AcnlKN29pnY8fiFXfrQSMqHblT9FGao9ceiZ69bT6K8y_YvFkarrBFpKFOOcxbAuXWFExv67p8-R55sgkBJOTldoMMs1W6LWLEU4bLx6RQMpuH4qw2ItPFuthukLCZWhqx3WuFB76NcA5TjNbOAh3N8l-e8w61V3YDMmMcvDlUK_6EOq9M0CSV-f1bE5sgrLsod_cisd9oYPrMibHlpBGXhUEdv_VNMjTllJ-u95p4Kjs5gfB3GL16IB2FfVNptYCMqwwR0LSCU5Q4PUWFwMbU1G7bPVnh5Ht1ma83Tk8JPGFmbugg",
-      "photoAttribution": "Amara Singapore"
+      "photoAttribution": "Amara Singapore",
+      "tags": [
+        "Budget Friendly",
+        "Art & Design"
+      ]
     },
     {
       "name": "Coral Island Resort Sentosa",
@@ -419,7 +518,11 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJ2fMLhvkb2jERGXi1umRWDuE/photos/AcnlKN27b0miQy8emDdA6_OJq56BCu31TzkRMt2zh1XZEjbP2iv1CFB_qbDOCRfe24ladwF4iYeE1-f3xK4L8a2hXOqyULEFCioo-lldpyIujIeflwcJxxE4MR9UYZrX_eqtAzBhGfssQtOJPyzqlN9cspe46eKsIy5BbeDlS7GFoBT4_SOwNlbOHv2O7_AVk8nyvaV1qBz-buj4HdF0bfhSsmQQFf03mzypvdYizOyrM7oQ2vv537UyFDK5Nq9AZQS8MHbcmb7Pp8N0Hju2dzFKK7a_jFHPjf3wVdOE06XqE4YvzQ",
-      "photoAttribution": "Siloso Beach Resort - Sentosa"
+      "photoAttribution": "Siloso Beach Resort - Sentosa",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Meritus Pelangi Beach Resort",
@@ -445,7 +548,13 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJ9crYOQqISzARz-_OkgQOIAw/photos/AcnlKN1K5LN-wDERwaAkPOeFUYqypQK1cKO_8G43o_bOPU9rPOacf-IzjYyjmprkJq3Btb3kXKyU52iVsCQ9wOIwUkXoR4gkpuT93MUvfaEVYzNFnjB9ximdzPEYPRxJZlieykbEUlcGlnlb78i5jtJAK6j6q1KegsT9TrjROrUZ6TCigp799Sx-cQ6wa00C_ED6ZuYi1ReImKk1Iws7Xdf3HAHA9w4-O2911MZzk4Dc0UVRo0rMFEr4NUFFliuNLRcjXN2lMZrVFvaJTBDxPp5hZXHemQ9SLlmUWZIHmz53wj4thg",
-      "photoAttribution": "Pelangi Beach Resort & Spa, Langkawi"
+      "photoAttribution": "Pelangi Beach Resort & Spa, Langkawi",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Wellness & Spa",
+        "Splurge"
+      ]
     },
     {
       "name": "Sofitel Singapore Sentosa Resort",
@@ -462,7 +571,12 @@
       "ratingCount": 6209,
       "website": "http://sofitel.accor.com/hotels/9474?merchantid=seo-maps-SG-9474&sourceid=aw-cen&utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps&utm_term=Sofitel-Launch",
       "photoRef": "places/ChIJyyaE0q4e2jERSZ9xGmqPcI0/photos/AcnlKN0Knt0kn0z1LbO4pj5gK0cGKS1Bj-lsJqikSKd2Jlxq3_sxecMDK_FlgzfGpylDCASjEf94g_cF_wS_s4MLnZFsXftNUlyt_c7Zgjp2jcqoV-O0ajvCYT0Be4DEctk51JoGzxRryBlygQbZbehBjAI65mdK8V61EAlvio2F9qOXUPm6ZWI8wWDYsf2RZyrKskkU170QRPvLDMYlSY3UDoEqvIPn_33SfIBhdSEX2Ldzr-wKqFHEFTdP6rARqYuGvQ_g4sIlJ33k-mxtWqjvcaW3dqmrijnI-C2jtE3AF82Q5A",
-      "photoAttribution": "Sofitel Singapore Sentosa"
+      "photoAttribution": "Sofitel Singapore Sentosa",
+      "tags": [
+        "Budget Friendly",
+        "Family Friendly",
+        "Romantic"
+      ]
     },
     {
       "name": "The Landmark Hotel",
@@ -489,7 +603,14 @@
         "Sunday: 12:00 – 10:00 PM"
       ],
       "photoRef": "places/ChIJcyN1v7AZ2jERf48XMangRO4/photos/AcnlKN1ghmfBEZRTPKkLAKJ81zazOL9OOrGSsfOnK7CBmYUC1C4ariOjl_4DwAc1H6xnBwcYBjUrisERQxgpi8cyc-P60u9GX4EsPRO_RKZwWUYTdgv2-pLUkLJKMqEPBKO1fPaMnE-zLP4sqjwHcWLqLUwvyXpGtwDwoo2hHiOB_AihmTgDQlV2UQlGvfpXo39SHPyoILFQMvzs-h-LhzXLUdIcgWkKx9hW_B-AawVuKjIqtJ9ip8P95108QKRzJ0bOVOapF6JHaYn_Xow41g8o_8R4s8Lqu5Z4l113H3I4aiQRDg",
-      "photoAttribution": "The Landmark Restaurant"
+      "photoAttribution": "The Landmark Restaurant",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Wellness & Spa",
+        "Art & Design",
+        "Splurge"
+      ]
     },
     {
       "name": "Parco Marina Bay",
@@ -515,7 +636,14 @@
         "Sunday: 11:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJ6UJjigYZ2jERIYv7ksgLyaA/photos/AcnlKN1mrjDsBR4lnAcvlWk5e-qzeheqWnbAddSY6gF_40s6rHMhO3DT_uo79bbPgfs6YqgQeF05b4IhwvlJP926hwZbHrFa3vCaIPuPCTecAPS9eKEzBcdms0YD3kNdOXxlZLATA3R0cRqfHwDANlUGKSLQuHXsNz6p70PamEf_G4wuAnvuViaD4Hljf-hm_SM_6ep1kn-oVpeHZDS3kw1lxhx-35ujaJgGJGcjaQgCKNmA0BPAjL1sQWxuWfknNR1Dy-1TTP3ZGfKM7pw1_l4qj9LAOCqWLhAFm95PezrfJuae0LI6fLhb2KDkVj-VUi_zmo7IcLawsQOG9F9EBuqGY8kKPqAkxDmlKdApGx17gtWMTOk3rAv8nZQgwCIQ4KntuETVG0V6jxbMc4THgEFXWEo03mFOdd__OXRSh2WTXwVsrE6M8lEQeagnTGT-hA",
-      "photoAttribution": "Cinderella Indie"
+      "photoAttribution": "Cinderella Indie",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Wellness & Spa",
+        "Art & Design",
+        "Splurge"
+      ]
     },
     {
       "name": "Parkroyal Collection Pickering",
@@ -541,7 +669,13 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJo8cvPgsZ2jERzUp0v52SdI0/photos/AcnlKN3fxwuVTRv16xRjQqUFjd8Llr3VQQr-J2sniT40F7TCbbdbH3m-pG9kx5ZNSkCimvSrFk3CEFV5CB_Z9a1AQaCKdoOFmnn5dl917ZqZhwGHp_6QrZju5cUa0MLAuobKfBZtBLLWsvJe7PO3f2efTotFHGiuqulxhDMGbNMNaasag6QlHb1cX5DsBCB61u-7HIVHoCWtliPGNO0Kim7MkfFrd-JL4kwL3QUDD8KesITVvcSHmYR_-py6sx29SCTIBXXnzasLnlFx_1xA1hML7erQjk95K3d-XXxf_vu5O7zVQA",
-      "photoAttribution": "PARKROYAL COLLECTION Pickering"
+      "photoAttribution": "PARKROYAL COLLECTION Pickering",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Art & Design",
+        "Splurge"
+      ]
     },
     {
       "name": "W Singapore Sentosa Cove",
@@ -558,7 +692,14 @@
       "ratingCount": 3519,
       "website": "https://www.marriott.com/en-us/hotels/sinwh-w-singapore-sentosa-cove/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
       "photoRef": "places/ChIJVV19ebYe2jERR-8J-QgvBlY/photos/AcnlKN2p1-XzXNUB1TS8LQplDrICqnRV55whyc4YpqroSE4ciNt2x-FZAC0uvVtfFGbbLOfm_03bIxXlD0YJaTfz2f3xcowRGnO8TNiCwjRMKiwcdrCA0unk9eFMJ4COQxktsp0711Gv1PHG5BY7yYCe5ZRbDlJonGbTuZ6FXXdtxqPo93bomW_PV4Q9ffU-LTuBcF5isA2pY604Joh6lmmsdS1D7t4Q9YDrmxcoFVhJvjoKIKenwJGayA544Bf6tp7UMFKvo3412VsUdYvucckHQfNxAUXPfhDxKAqxrjrWiDsS1w",
-      "photoAttribution": "W Singapore - Sentosa Cove"
+      "photoAttribution": "W Singapore - Sentosa Cove",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Art & Design",
+        "Family Friendly",
+        "Splurge"
+      ]
     },
     {
       "name": "The Ritz-Carlton Singapore",
@@ -576,7 +717,12 @@
       "priceLevel": "VERY_EXPENSIVE",
       "website": "https://www.ritzcarlton.com/en/hotels/sinrz-the-ritz-carlton-millenia-singapore/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
       "photoRef": "places/ChIJOek7q6kZ2jERX8_FX0BTcq4/photos/AcnlKN2plIcOlQSJ7GuD1cZ-KIYwRgf29Fi3L_dk9yALinVWGYtj9QgEZHE1W-A7Uud0n671wOumjClYZL638J-9qNipNzEJWDk5Hluo9157imbl08bQ-UsP98m7g-2PYG2yMLjVjGmS8PBYCwXdJoZPLx9lfObKXWWIdhtzZKOyPotIXUvQ9DEcXMPnN7Vv20v4gxHHSxiF00HiNGRc0NBj_uEs0lZcemxCTlEQanYiV9YrLtiIUHcqyLxO_RCsZAlgPOlNGIDc-A2oMxd1SfuXejoEDSIKsIea5sVSZ63mPZHP9A",
-      "photoAttribution": "The Ritz-Carlton, Millenia Singapore"
+      "photoAttribution": "The Ritz-Carlton, Millenia Singapore",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Splurge"
+      ]
     },
     {
       "name": "Sentosa Villa at Capella",
@@ -602,7 +748,14 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJF75fVaoe2jERZYVUuHEz-lQ/photos/AcnlKN1vVsJ9JT9gkGsI0EJWbZjYVmP5lhfm2JnCChon-w2L3TZYtaRWfOULc9Un4WeThz6tzlqNc0UEnCk5CLj0qV66BDbZnmR8My4Vnaaqsqdxv0HSal9VrC_IimlelD1hY-FWCzUK41Zkr5nzx7NQ0rTt50ON-t3CGDtQ1iI5HpBCWW1bplA5Tud5Wn_gfMIG_SenEqQFJ_tukRikfzKkKG_UN_V0onzqjOGmyMu3uxyc_JeRDPpzA1wMCSjx0s283TVrJpd_1_XqTht1sPpo7s4BaDa8eSKJn6qo6ZH2X5YOrw",
-      "photoAttribution": "Capella Singapore"
+      "photoAttribution": "Capella Singapore",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Wellness & Spa",
+        "Romantic",
+        "Splurge"
+      ]
     },
     {
       "name": "Four Seasons Singapore",
@@ -619,7 +772,13 @@
       "ratingCount": 3284,
       "website": "https://www.fourseasons.com/singapore/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-sin-hre-mid-seo-na&utm_content=na-na&utm_term=na",
       "photoRef": "places/ChIJqbrxYIwZ2jERV9rTVcsl1Lk/photos/AcnlKN1bI8CohnxtiaMViG1tVIenDn524rdQO6epoekVVMXyzBD59xyaE0dwc5uCP5bk0v8llChnWsv2NtqK7F31PhCrewl5OSBltwHgJ0LGmaKQJi6w9uyzEB9_XCAoNpZeL4cLylhrIoJ7UoSb2LDXiKLHKTtAmXPLfwKXRwldczDnXqQ4Duo5k19Pa9eCtz-bP5PfThimXz3wKw2icL1-Kao56N2dGQnasA2pLhQEDyLIzPdbz-MNYKOyLwUywwu0ks-ZyEpiTG8G6Il_Le17uJPuxbWPELX6CEafxZdW72LdoQ",
-      "photoAttribution": "Four Seasons Hotel Singapore"
+      "photoAttribution": "Four Seasons Hotel Singapore",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Art & Design",
+        "Splurge"
+      ]
     },
     {
       "name": "Hotel Jen Orchardgateway",
@@ -636,7 +795,11 @@
       "ratingCount": 4603,
       "website": "https://www.hoteljen.com/singapore/orchardgateway/about/",
       "photoRef": "places/ChIJE49v1JAZ2jERWDP05HHNONo/photos/AcnlKN3G6XDXirhj2xa9AWJxR5sCefzwARBokolwl-7EgQ13KFbLw8vU9Q7JipG0-QyClC656WbzV5DQ1XUwwGU9vt_i46mCQdKqh_TQod2wyNkdaQ-_LmPitnVCJjqtOODRv3B7sj9SEiCiPEervthiKOschcJkifrG-aVMNaQf-KNQ4z4BCDjF6f8tCC5BkbrvbAlZ9hTovAaxZUI_HFSEzDI3F2ioCPRV-85gjznV0V9jS6LG_kh-SW0-TOTPssluhnOO9tAMbJ0k-xh9vKyVD9OxMZMZTrasQ9vUww9xJkfeuQ",
-      "photoAttribution": "JEN Singapore Orchardgateway by Shangri-La"
+      "photoAttribution": "JEN Singapore Orchardgateway by Shangri-La",
+      "tags": [
+        "Budget Friendly",
+        "Art & Design"
+      ]
     },
     {
       "name": "Fortune Hotel Singapore",
@@ -652,7 +815,13 @@
       "rating": 5.0,
       "ratingCount": 2,
       "photoRef": "places/ChIJYacra90S2jER6Bui06Qdc_E/photos/AcnlKN2kv9YPVoevyzqQ17gJvy58uv0wW2d9ED17H24DLqAw7X4-Aep1J1cpBq-aAHPACAH5QI1QyqbpP_7ADrRIdHuouMApSL33PyG1KAUVXwaELMTUF5WnF8rDK11fAfk4MYfrUXP_cM7G6fjiqex9c-O8mnNNZL6B0Y6ureACXh7K2KMAEjzxQa5Pn1ykN9MqD9vSUo7PNXeIlPlwipjGLOAMaRGzQtH-DJUpncGMeP0GOJN5xs1-NloJao_dvOAJs-qrXXvfQbqYLx42Xo0CyT9c4lWgDFl3-ZFyzSlvC_0HNTUhjA5uT60c_Rd3-XewcB0pZErgjSRR5eJtZh9M8kn4d6MNwYANyrRf_6fEbiQ3TpPOwuJePuzDlp0fQIS436aPEducctsJ1wlVAJjc7S_lGeuUNoTXZRg7F1-tqy_GtM4",
-      "photoAttribution": "Henry Wong"
+      "photoAttribution": "Henry Wong",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Art & Design",
+        "Splurge"
+      ]
     },
     {
       "name": "Oasia Downtown Singapore",
@@ -669,7 +838,11 @@
       "ratingCount": 2984,
       "website": "https://www.oasiahotels.com/en/singapore/hotels/oasia-hotel-downtown?utm_source=googleplaces_ohd&utm_medium=organic",
       "photoRef": "places/ChIJ35FiVWsZ2jERVJ3rokz2Nbw/photos/AcnlKN2Ty2mMDoFwl-3zQVs0wS_qKS-PANZai2pbwcjBqdtlfAF7GWA9WTAJMi9lSTVz6VlCciZNnCEIqMYXcwPye9Z0tjtTbnZiW04fGNm4fts5NRLFJbfakad0XsKt9RtcVnVsD5m42ZDa2ID7nYHIOWP2E9p7L_thNxmk4j_aJ1LauNzu_zyVoO49fXmMGwXkfwAqNNzUI_K87SRanHdtg6RwyQFPjGJ7iLuCI3lj2_RD_8IqBljMx2REiYYtW1deanLAQdRqSAitkj7ENeXuZiXAC8ozcuN-CgxvWo74vnKtqw",
-      "photoAttribution": "Oasia Hotel Downtown"
+      "photoAttribution": "Oasia Hotel Downtown",
+      "tags": [
+        "Budget Friendly",
+        "Art & Design"
+      ]
     },
     {
       "name": "Tai-Pan Hotel",
@@ -695,7 +868,11 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJ8RcN2xdgHTERSSCT_Y9DdWI/photos/AcnlKN3j4HIbMBYPQ97B8fT_8s4HHaIIudrMawLmn152PnnujJ1M7OzdQWRSjLq-NeLPqUueM0oaHlrvANL7Y7nr5JGI21tHBPZMGWAGk2Pfk8hTa24PDuNzIPWnrvttdnPkpQ2lLeOUvTVL4W9wntXgEl3WSB_okUsvye1wKJK5ec212zwghNc8yW7geUfFTMrWPg0gu7efAxbzfGCn8s2X0oouGuhX__eMf8LNjZKhN3wX4IpT7xVHGYHESC5BLwOUVa9Od8u88SCmfRBuMdvAhtIME_1ikKjBee32YsuoDPIOoQ",
-      "photoAttribution": "Taipan Hotel"
+      "photoAttribution": "Taipan Hotel",
+      "tags": [
+        "Budget Friendly",
+        "Art & Design"
+      ]
     },
     {
       "name": "Bugis Street Hotel",
@@ -712,7 +889,11 @@
       "ratingCount": 4829,
       "website": "https://www.villagehotels.asia/en/hotels/village-hotel-bugis?utm_source=googleplaces_vhb&utm_medium=organic",
       "photoRef": "places/ChIJcyN1v7AZ2jERboX4csnNjeY/photos/AcnlKN2EDUzne41_s30pjzfkte6EOXLWGudztkBRMgrQUdrAMzOQCHARm4j1YdggetHw-3U5U1Ja_IWbPsMcldcAP1OiABfYc2PxrA3MDrtZS8JiTs7c6KKgpWvhFsf-Sp6zBLccQbRCuCZeqg6C_4ilk9U6boacpfD7v93kl-mfNeZO0l4ew1R_0ct1WaZb_tXDFs85uEkbZjRvbI0dRsYNMHOR7B6ua4orqw4sWB-NvfPE-AFXdkHt_TbMed3cq6QR8SMchFjEMcgR7zgWsG3ecVNjeU9uFpKGmSAWT2R5mhgWEg",
-      "photoAttribution": "Village Hotel Bugis"
+      "photoAttribution": "Village Hotel Bugis",
+      "tags": [
+        "Budget Friendly",
+        "Art & Design"
+      ]
     },
     {
       "name": "Crowne Plaza Singapore",
@@ -729,7 +910,13 @@
       "ratingCount": 5206,
       "website": "https://www.ihg.com/crowneplaza/hotels/us/en/singapore/sincp/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-SG-_-SINCP",
       "photoRef": "places/ChIJvySRapM82jERRQTFHA8XoHQ/photos/AcnlKN1Sk1dTR1Aat-P0w_2cDRY3G6De0LMxthZIYhPkXxU1CYyXiBm88RXsPvFF8j0Tbljuny1nQXVkHcTNKRCVpdA41tNNJzil9Gqk4EtVPUjesJX4AJCjfy-BUhbwho1YcDNMSbEqw_iXHyoVY5n2tonRu8ezL4mcyarMSzGHz4Qo2lwhg4T7TKAFyyv1hq_ZmESvqjqqjSdH32csQnNBjnXi9t5KhmvMsa29PLgS5Bt0upPb2vbZBQ89ke1OTPUDbkschXfMkEDrFdiFlJWi6gtYRPKxGqs3tLI7OOfDKGYJog",
-      "photoAttribution": "Crowne Plaza Changi Airport by IHG"
+      "photoAttribution": "Crowne Plaza Changi Airport by IHG",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Art & Design",
+        "Splurge"
+      ]
     },
     {
       "name": "Porcelain Hotel",
@@ -746,7 +933,12 @@
       "ratingCount": 361,
       "website": "http://hotel1900.com.sg/",
       "photoRef": "places/ChIJw6HFVGkZ2jER8zoBT70YpAw/photos/AcnlKN27nRgZmSkew6WGHfA8b6w9KJzxDKM8asZiseEQQXC25uOQb4tB1SQlMZoTg4pGEScWSrQS31k9u6y2HCFggyZZkaUG7wFVBSjnecbdMw2DlOsigeHkymkg8JT8l7S71WoNIb9sBGTsV5eKJGjGf3V3m_8jDxzvtB6nDV9Cz51_Np7LxAyR542WA7xQACSHAy4rdopc7wSf2I9ez9i8K-cF13EHYMAOBlMhddvOnNCfqSPDf4X7Za40gm9lElIOEF3PyGsak3truAEcfl8N1rIpt7SCDOLJlK_QvKzcYwMGcOHiYO3LBYEY9rtnZY8LROQ-OdiB6e9JgAoR9swxZc7oUTHYQ-45LglieLzdhYzCmqAhDk4vGMPx3wjB3WaGohYnYhjPT0H9DZpakFAf0HMK1v5yLxKHZWGgrAva6IUVw1Fd3MTgcUtYhD-jMw",
-      "photoAttribution": "Ashish Pawar"
+      "photoAttribution": "Ashish Pawar",
+      "tags": [
+        "Budget Friendly",
+        "Art & Design",
+        "Romantic"
+      ]
     },
     {
       "name": "The Pinnacle@Duxton",
@@ -763,7 +955,11 @@
       "ratingCount": 1006,
       "website": "http://www.pinnacleduxton.com.sg/",
       "photoRef": "places/ChIJVSyoe2wZ2jERcL3VxGbPvHs/photos/AcnlKN1EogS6BYVuASPfj3yzzfRn11VPmEwTwjBJ-tpXruaOX79Ag3iBmlYgyBa41V_ARd2bTvf8TZCkHJdV_a8NfC9992k2j6S94zAph6usa306pm0xch3yIQfHhVW4lZwIx2p4YSUDt9QD6TGan4dxEz5MwtyvnQZAZUNwYeKDi3M9bN1UkKMLppcrjrYHlPeRLyQOS8WGcb2X0pzezpw85S3j00Si_zopqRuMLf3fk73QT7vt1ak_twyWfGxaruDuOrrVTVNBjksY3mC0N3exc-s6romFxMPvL-wGqvSsucdmhQ",
-      "photoAttribution": "Pinnacle＠Duxton"
+      "photoAttribution": "Pinnacle＠Duxton",
+      "tags": [
+        "Budget Friendly",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "Marina Bay Residences",
@@ -789,7 +985,12 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJ45mjHhAZ2jER20fg6HMr1vc/photos/AcnlKN0T3-gWFFdbt5QZKoqk14dGJhvcBc9EeR1hzyzmScHLNVcPkOESmWjx3qm7AKrDyL6iqNXhbP4dpX0TgUJ7MRhtLQIb5VqVKnhZ0d8zgt56ouCafMVn1oQMa3Zph6vLt8OdgPHwul-76Vbq-0roThiuIQ32r5ZiZjPLuXtF3TGyWXDTftjH0FMajQ60HdownMNqLrNq31OTgnpad8WzRJOP45KIp63d8Wss-eL9mTHiUxqSRhD0uxq-991EBTMYDZW7E30Vtw7TPdOKXKVfKwZB3L5IpJmXpQ_YgXAvNTwhB6DHYcn87AowDKsih5Y-UMjDUdQya5eZ6uxc6vCGZ10IFWnx2nAWKGTuLRFY8_iZLr9xkilBNRV-HRmn5F1Chr9OPKw0voe9yVfPCcWmsijehbMbm0isrnORR4a9MnciKkQ",
-      "photoAttribution": "Kodiak"
+      "photoAttribution": "Kodiak",
+      "tags": [
+        "Budget Friendly",
+        "Wellness & Spa",
+        "Art & Design"
+      ]
     },
     {
       "name": "Liberty Hotel Singapore",
@@ -815,7 +1016,11 @@
         "Sunday: 10:30 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJd0APPFMZ2jER_VX_CqRyP_o/photos/AcnlKN1MPaktkFFTOvSGwGYwId1W5ou-naFwgtIpnoLFrmAH4RWvrRmGW1yyGSYcjSAXC6qAAMiuseLah2xlhyK-vmZV3zKpUxg6TmqpMyiTneIY6Y3plothkZBl-2PRWHDqf4Sap2bBFeh42sEUuzA3rNzA0Ym57EzMEsg-snU_kmSGWsKgC-KSY93Io8ZdMLv0WmtttwCmzpSKTKzpkYuhqurRS3N4poETq-GK5g5hpLoVyo0jCQSVnM7M5QIb7mP6JQA33GflhIJB3kiuTWwtigfp3IWSnD-Dg8wwaslSZIoW4g",
-      "photoAttribution": "Liberty Singapore"
+      "photoAttribution": "Liberty Singapore",
+      "tags": [
+        "Budget Friendly",
+        "Art & Design"
+      ]
     }
   ],
   "restaurants": [
@@ -844,7 +1049,14 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJbUjtT6cZ2jERJOB8kHFKljI/photos/AcnlKN1iIidrRj1DqCwA0bv8nYBv1ze6tqqVKTwmpE5lY7wsMPWduQJ5DPC5z5sWHpjRwBod5wQtzwW9svUeGYSPPE6SZCd08irohuogQvs0V2LqlVa8acjR5T-ugwg0pc0jXqDk5wbtsGmEgJVZlf_s94cvfu8gIMw81w1F5gUtcZbRlYltt3aFwEIYawff9ixWx87yKxlUxzECyW3ixJ04xjP3fEYAE8AuHKCh75yby0X1yux521mwAnkjLQv8u2XwtESE0PJQAzkoNfyfuk0LpY_E0TJv7xVn9DXFXWsV1159XA",
-      "photoAttribution": "Odette"
+      "photoAttribution": "Odette",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Burnt Ends",
@@ -871,7 +1083,15 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJLZ9DYnIZ2jERQ51Am7WzJLM/photos/AcnlKN2zVPibXW4nrR3Fjp_Wwb_vkacHhHecQeL1G7fEdDOdHcfWl3yBDBU6BgQCqhMGf8EWylVk9aqTho-IXt1yTuoQrN3eMLb2yKDPA36uEwBL76jTgbzFm3HvcXA9tMag5SMKWQJP4xzykikz0uo7xmrzwxphxDm0XlHVDXiESFaPxhVZJOvo9E0g5mlTL4sy_shu38uDcwbYIeEMzXoEWQVzVFbwMRm_T3LLWHcYTU1iecIZ6Uh9OOXTtXoTSLKbCl31rQvsBq_ced2aPEeo1bPGcvD7Da9Frqhcr1dWPQ3tgTVQ8QSKMFa9xvwfh23hLSVYOmMlW5sGNhYbBIzuh1L42ljPRokw7uYudAfkA5NxDQS_CzsQSmhUEX2SIZnZyicwZtZ2CqgC8ldP322RCQ1sx-RkFjRUqJ6pfwBQ9FuYJTUdLqfaGqHps08HUWFg",
-      "photoAttribution": "The Red Marker"
+      "photoAttribution": "The Red Marker",
+      "tags": [
+        "Photography Worthy",
+        "Splurge",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Cocktails & Bars"
+      ]
     },
     {
       "name": "Labyrinth",
@@ -897,7 +1117,15 @@
         "Sunday: 12:00 – 2:30 PM, 6:30 – 11:00 PM"
       ],
       "photoRef": "places/ChIJj99Fo3IZ2jERFIUg_m-VhO8/photos/AcnlKN3rat4_3ctW4Mn8yrIW0RMCin56PzHIC8Qij8YecZ_UhfV5JAXyyNWmuZqrsriMUFaOoHi9Q8M5Fl_GTBPUWzCFTquZdKbloJNPgix3r6yaSVLhApzkY0ucMdr-LEoOwv64XlvJb7RBOmgUVZsBOkKrgHTwvUu1vc5TI0ToGQSS6cMnqiGr3dFKtQhLzAk3VUsxWID65wU5qaGLrKdWM2zVtRcgHvDZTgH7Kx_43hB5JbpzfmtKr_daVm4vJGmIbO3F2IqaKXbGpcnrDiyIM8J_CoQLQ7By_TymkmEMfEWliA",
-      "photoAttribution": "Restaurant Labyrinth"
+      "photoAttribution": "Restaurant Labyrinth",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Nouri",
@@ -923,7 +1151,14 @@
         "Sunday: 12:00 – 2:30 PM, 6:00 PM – 12:00 AM"
       ],
       "photoRef": "places/ChIJq9pPbw0Z2jERqnm8RBMSAjY/photos/AcnlKN2GOQgiqidtWKbbDJ1NWahMnJb8s3mlPevy8mbhUxlKl3M5ZIWGPaHHLGKBmhuXm7OdrxQmcqLWX0lQa7cjmddXk4_LLY94AW7yLjeeFkfXQU3INaxB7mEOWh0mUfjlk1Pds80542kpNm_R6wS-syevtJzZC3OFaFsOWRKandc0qiNHVnLBlV-uhTUoDp1aV0m6SH7hXBT7drr6RNW8j954QAIceDpwaSOQa_yBRoWGyl_Skjt7GY_bRYVdyJSePwSnCOVJ1yxx6B_S1hUVS6e53cnAo6PtNBYegjsY_W8gmg",
-      "photoAttribution": "Nouri"
+      "photoAttribution": "Nouri",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Les Amis",
@@ -950,7 +1185,15 @@
         "Sunday: 12:00 – 2:00 PM, 7:00 – 9:00 PM"
       ],
       "photoRef": "places/ChIJR5yDbY0Z2jER6GcsxL56OLk/photos/AcnlKN1GPlm2RrRjEC9h_oPzve5m9QEqcw5hpFv-rAJb72msSYcX_-JHwXQN93TKxjIAvjdCzHBaTfq4sxLeOvwFc3eLH6k816zcKsECe4qsUdEcbR-maQngRx95ZTosIQbDFtUW3pzTyeJfVWNO7Ozk3UjfQwEHjt2pXfdoERWUZVcLRnXiriMWU8jXb_ZMXUpKj7YK5V58im1M-45y2RfRDzyOQ3Ptt6XJdv8-5E-FJqQBLRkvScB0R_LsEsBWb4-bhcivbNp7z7mgBfjgwfFu0_tHuGHigsiR0sMZrZqmIUu_og",
-      "photoAttribution": "Les Amis"
+      "photoAttribution": "Les Amis",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Zen",
@@ -977,7 +1220,14 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJpxlhJpkZ2jER7gzIjfgz8co/photos/AcnlKN2_p2mjZ8zNjiu8aM7S1dDY_jCfRNhKEA7x-Qq-bJZVt1VLweVM9sgGuJuAB_GE17c2s7441qlfjFSVgw5MR9Zid1kd2FwaXQhieQbPWWnxJQAnipsNJZLPcPIQMygalKGKzR9KoREwRXU1aLEVf2ToUmh-Kb6StyPmivlkctmI_DT4IYWwovAz8AsCYp2fd2FlfcoytEQXn0Opz2keYKmEF6LcaVGD2DJG2vrxicavq9G4qyYIdmudHtFQm7ADj7czErjuG-tLyc29g9Nw3DTojHG05kOVKLu6nzKswDukXQ",
-      "photoAttribution": "Zén"
+      "photoAttribution": "Zén",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Born",
@@ -1003,7 +1253,15 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJEbQ9xpYZ2jERyBrI8a2FtEY/photos/AcnlKN2OEV9lWbld0rPMkAjZz_ACXVOBw_865QpsDBPeXk-nojMpIbdnFK5L2RmBSOo2no3Aotmw_90ytorHYcxzsQ1iCQJXpQcqDhuHqmxzIHEuhlqMrvv-vrM9pGVSjWP83yOrS4kA4kNcl1axpggbfRtl2gV-L9d4gdrYC392J6aU0WMutI1Eo4jOWLDOeVloG4vqk3RFtGAdulRSpDcmySToUc9ukwCg4LjnSNNxfio4PaLC-MymT2D4C7fRh2yB4UqHlfCLK-gwZfAepBNs1H2zjNjWD1K2qGP9fRAZsl3ssr1mp9zkvsd3HCt57plO6DP89ilhsYuXUefn6Fgz_JXMMf-cr0gU5Tch1vxWRLRFaJmfMHtKrJmRs6jDdfveuissmQAGQTfGFJz5LkhjmGMVnUd0SETpVSVjN28pdRdk2ZIY",
-      "photoAttribution": "Garry Pang"
+      "photoAttribution": "Garry Pang",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Romantic"
+      ]
     },
     {
       "name": "Tian Tian Hainanese Chicken Rice",
@@ -1030,7 +1288,13 @@
         "Sunday: 10:00 AM – 8:00 PM"
       ],
       "photoRef": "places/ChIJ2ZDgUg0Z2jERXUJpEsR0Oto/photos/AcnlKN2zlFb7t9JLQfyPVVkq63STeGpDE4eWybFDRqg1dUBdXIBZ3-GfUNz9k_v1t9ZZFmlbutYdVtOyeJ_WqTuQ4ZoDS6S7JG58wZ7yS3Ci57tZzmbrS0l3dIKvg7j2QE6Iyj2FXiqL7DzkxOBHXX4LiYuUC_465Jf59ywYMGRUfbLpXMJkCyVML0AtOGXdcJBUw1-Q0nD_fqrsqNuDd2evR8te0-EuZYOKtt2NqdxPpzFoLW_9wv_9YQ7bAod_ovN59Q-8Hv8s-5Eg0NiQBd1LHWQ9gnByhEybzkQrjI9i8cdCtY2ieZg6kUHFOcEUkG9vJwL7-yXez6U3iCxvjNUdfv32R7RIo9UsWzz61tCrcvS94NMIRsqU7DZjDjkihaMZ9Gjl35yQ7_RtRufi7Ii-nhmZRJwoC8Ewdtyy_WRNoDAGgqYJYVWWN06ON1hdzA0t",
-      "photoAttribution": "Vivian Kung"
+      "photoAttribution": "Vivian Kung",
+      "tags": [
+        "Budget Friendly",
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Hill Street Tai Hwa Pork Noodle",
@@ -1057,7 +1321,13 @@
         "Sunday: 9:00 AM – 8:30 PM"
       ],
       "photoRef": "places/ChIJuYHZKrQZ2jERuAMG3qVN5pk/photos/AcnlKN2gOTf3xagrqXajijICKky5R5cWJCUptewWi0YsL6gg3Z1V3GaWFQlXUHAw4sKau2h8S374NkdVCQ3n_ms9GEc_9dmJnRMuy1JkgE-B61xLU9-y8B4wWSeFb8RGiyDcLk6a-JeVX0DBXjxxQOKKtbAbCnjBydNHJD-ZCYzxMjBfLWg1dKhnfhvXtjLAHhbTSIKAdUOcG0ODOOilck2Uul_y6Jr8KHIenkKAMsVPk3uLxlesAg5jbmB9zFuCI_ZbnQ3eOuxKzAHxAYXD0RdXsoI8kZByNfAgkUei-cyZNx38-_oWdB7zINaize7VuAu8TT-FsH-ldKVSZEcBRK0G-B1D4IIewXZmytoE72J5c4CXZ8TWyj8Yje_se9k6Srbmnm4vkvE_CFNpS5F1GFOUNIFLrJUYkEy0F_HXvK9UJ8L2SQ",
-      "photoAttribution": "SUNG Y. BYUN"
+      "photoAttribution": "SUNG Y. BYUN",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Liao Fan Hong Kong Soya Sauce Chicken",
@@ -1084,7 +1354,14 @@
         "Sunday: 10:30 AM – 7:30 PM"
       ],
       "photoRef": "places/ChIJ2eV4E3MZ2jERSJO0koIx8GY/photos/AcnlKN0cJ75awcNx0l3CJUGRIMGECAFrstrM_Xt1p0MNcn9MftAKHIi67jEFGlts4fybnr5xCq3hVv9ForNfxNkXpJ4dicj4k4bjnEiUcEohWL_qcGAsao2nOlePcn2H5m4KFADGNsy-NMqs8WaUqhoYUdqpa2u8TeF982k3uFSDyd4pNx4PsfBa0TncJQq2Sk9ihAf-n-deZ6luukF5WFAzIW1w_0hHOKqs7C_VkD3rzysYDG1GEmpWZUkdhM4FS-_LE-KOg_cYq-lW8GlodREFQY4gqNHiwnjNNHBLeambeeqQxbsFnZ82Pp8Zz_0zzaFdquT3AcNGyngvoizWILurei_u3eVFagPFQh9PJD7HWoySZDM6purn9F4V97w5GZ4-hHTGE3863ZLW7wNtvpbr9gEpQmceW0hBSI6B6C4j9Ipafg",
-      "photoAttribution": "Kok Beng"
+      "photoAttribution": "Kok Beng",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Hawker Chan",
@@ -1111,7 +1388,13 @@
         "Sunday: 10:30 AM – 7:30 PM"
       ],
       "photoRef": "places/ChIJ2eV4E3MZ2jERSJO0koIx8GY/photos/AcnlKN0wgYgyuUqBSPf2pEHHP4Uo53M7wpXHhtbMl9TjaTfG1sXUOofGYYZGQryad554xhQgnFPNnJw01awn--jML8aJruCKxaBw32m_APSqObfZvMyD_KOqps7SvR-l9ZXyistoXWplcR9L58yfsqCcnDkGVDnsoIVm54FGFEepDk5-UExSGk5lmvEHWtEu3_1dY9tzuUeANrqdu-vUBXu2Hli1eqot0DFCpwmQCY77qA778EBbXdAvSYVZiq3hblY9qfMzNNPqgplq0togne60eP3RdGWFDrjHrHeZwCD1QigIWyhUMmjtloARAvW-OPjshEhScHnlg-yYQUd90cUZHFHhaYikjcSf1TtpN9ujPrULLZIBwhAE3XxjNnT_LhW4q9BvYZ1PZh3Ux4SQvLcNXmKPhPHn4m1S44TewCsYGzPLcg",
-      "photoAttribution": "Kok Beng"
+      "photoAttribution": "Kok Beng",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Candlenut",
@@ -1138,7 +1421,13 @@
         "Sunday: 12:00 – 3:00 PM, 6:00 – 10:00 PM"
       ],
       "photoRef": "places/ChIJ5ySHC3IZ2jERu-xiMMTjAVE/photos/AcnlKN2JxcMe8NSGuxP3zVmPAowY3etrETV0WyjkMCofP2xkrY8lfyc206jH9MVoVE4KTnAPhwRY0k2zRKe8n43zrPD9pldkCNKmXFvC7jKgloSypnueZmfzam4dQquQQPpt4qv4k4zU0qNiNlniWxVWhvwJL9oji5nM2W1UBuANAxgUXryClHlL0_HEod3s5qwScEwlt1_l6x8VCRRRNk628XrpbSFtxcyU_N06B9-Y6KzQ-ZDPMy2FxZqZAXv9LnY6hlf-1gJWs0H3_LlkQIdd4-CsBzBNgNTZJz-HgZ5KLOyqcA",
-      "photoAttribution": "Candlenut"
+      "photoAttribution": "Candlenut",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "National Kitchen by Violet Oon",
@@ -1165,7 +1454,15 @@
         "Sunday: 12:00 – 5:00 PM, 6:00 – 10:30 PM"
       ],
       "photoRef": "places/ChIJ33v3PKcZ2jERNogFrxUdKEo/photos/AcnlKN0FfChqqeTH7hz3ulEhRvh_SGhRuP04R7dzw7Dbpfx53HTVnkqfbS8A6DdTl83EXrcQH6tTvWYXN1KoQp2XKRhUjJ4TJJFckU0C16tyWjl_7smp4bnHLm-Pj2xoALLxXT26sjjx6A3SJ-BDt8XtMZh1g1TTvkAk6XYtv3mAl03ApOTqFzq3trHn9oAuit24-0Cfu4BebHo5jCe0gKjaKzW3uGG2kJ0m-ctLb22qZQ8oNzVJ_IRpS66OfTADNNEEuBwzCm0nwvhBTs9-Y51rEN8Ht38og8vECwts8-wwXonVEg",
-      "photoAttribution": "National Kitchen by Violet Oon"
+      "photoAttribution": "National Kitchen by Violet Oon",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Jumbo Seafood",
@@ -1192,7 +1489,14 @@
         "Sunday: 11:30 AM – 11:00 PM"
       ],
       "photoRef": "places/ChIJ5T8-VXUZ2jERMpGzIj6L2ts/photos/AcnlKN38K8MYGksp41HUFE-Msa9P7HmNU38KIk14j_O2nyaqpWXRUKcr6VFhUcc4I8KYDeoFIyyJi5qz-rzh9SfSxGb63tgxfu6-FKirI24-zYTEVsf29svlpG_kv3ChqqAEEDb7mZSEAVXRH0nidqdrJA4ZFjh5eTBgyjMI4CNNBy5XpRtfMFLhH51V87GhAj9NTEEJsEZKx8UkCR5hio0gu5EpBBUlpV2tCMyjaQZemnD4U3Z09TL-XBfB93O7k_6A8l_1AtjLCaAFSCnP6jOHpnzmR2N577SaLCTWCEkZPGD9fuQOZ1C6ErYEigQc7pLsCglvZulBXVmMeIxE7hq6dSvHWN0LRHGj0bW8x7u3oTAWyrDG2Ieyn4naLojzQH32zluBExesxorUpCHiQEOR1bieMXHiNKv9aUX2EMb8ZV84nA",
-      "photoAttribution": "Marco Sangiorgio"
+      "photoAttribution": "Marco Sangiorgio",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Sweet Treats"
+      ]
     },
     {
       "name": "Empress",
@@ -1219,7 +1523,14 @@
         "Sunday: 11:00 AM – 3:00 PM, 6:00 – 10:30 PM"
       ],
       "photoRef": "places/ChIJ1XsulwkZ2jERvG8IxC7A_ZM/photos/AcnlKN3UQ_3IFtk6F38R-J7YSYEjdmpOS8DFQ9Cl5c5WwPEgHVM4hXNyGZ4i92gMXQNoKom_b1RCKEEMw2i1qvmJe3FklM9zwcja3CkWFs79NUwfwof6hzztvkostw1WddVwJJGLVQynT8abkxZYFHepLmul2vsbzhHYyZG7hD50UyuNSQgRllBnRxuF5_pxyOIKOHyBC0kbF2NnwweJ7g1s0bA8yKtCxtnJqtV1gBJjcjrLkyLqZldKPDOx2tkfBq0xuNYnItDH3wDmgWUfv0ycD5Z2YtwV4k6ds9Rw07EdM0A19g",
-      "photoAttribution": "Empress"
+      "photoAttribution": "Empress",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Restaurant Pontianac",
@@ -1245,7 +1556,15 @@
         "Sunday: 10:00 AM – 9:30 PM"
       ],
       "photoRef": "places/ChIJq05iOlVYHS4RnK1d3U0Q3LE/photos/AcnlKN3HjtQnzMdcY3XMTVyJ9ZeX8X017kXScI4k-rQDxqdnEYXyQbtVI99dKrB96HFKbOlDVE_EVAA0b_uZotnTbhgfBsqmZTfHT3CalRGBsudYaWJGCPh-XFjHqxnImR1e3qqDJ7Z_RjIa8zBImcpHZAFoiMdB5KbdANszp414wig0xJjN0TyTzGURq6hQzDQjirOnt-wkE66XL-9d4dsvC2DQyCZhlbUYV3Wtfn25AcNqOZNO1BzNQvhm4tUUzsPpER0NHnlVselOLQwKF24bC9kdCiOMSVK9RYYBbKmWllGGgqi7yTzco6W0HKJ4Qzt_9dIgn0lrIoeOEVJ-X1HciVflH-iWg902t_xX3vpwWwz4rD7xz4p1fVMwQf5tWY6kSTLefeBb-lSQdsz83g92fuIWJMwwpt_DXHgn5rrU3_4",
-      "photoAttribution": "agust Zen"
+      "photoAttribution": "agust Zen",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Sweet Treats"
+      ]
     },
     {
       "name": "Mitzo Restaurant & Bar",
@@ -1261,7 +1580,15 @@
       "rating": 4.4,
       "ratingCount": 318,
       "photoRef": "places/ChIJH_cmf5EZ2jER_jWbayr1D_0/photos/AcnlKN0XabeRtRD9ub6dqi5SrcgpZBMTfExlp712qHW5W72jKDfu9qD-ypclkXTl-1aqhnqxTziLvNDR92lNhBvFpjvadHCoED_eWxUQZ9qo4gKWRzY8J_XNpGRci-CA-QPCdNqpPqZEyeBRIzVxqjmkEbdU7SpU1PMY6iPPkHZoZz3CNjsLBteKJcAec67cTa3U5FOgdLGFPL4bZOLkgRQTmBuhlAkHyizHrp7NB0hI6J20UWMZwSWFoUOAZhSZ9SIrexDHc-gJXeLe93HQpxiWQbWT0BW7ajXdQAPTAHU9aNOI6w",
-      "photoAttribution": "Mitzo Restaurant & Bar"
+      "photoAttribution": "Mitzo Restaurant & Bar",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Cocktails & Bars",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Napoleon Wine Bistro",
@@ -1288,7 +1615,15 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJr-55fA0Z2jERKL4r9-Ep01A/photos/AcnlKN25Vo0lq1RBtU7Ld1PMaVlQs8RJoJqi3f6jytCbwoWGg-9gpMoWXLeuNwo0b6aArNga5dnBHG4gM6IZ35c0J6-6Aj03f-tJtezWyRS-M60JeaVOTP7xjrMI6wk-mASYkN6e7GpSzBcvDLsLYsOKZ882oLw60RxegA5FGKt6gTsxm2ddst9ZHtwa1vCTuXHfwLrWN2O9m7Fpym34Eg4ZjkwW-p0cCtA0vpKaJqeqBYQPBBbJgFabMaSRGo7sNgED4B_JM1xRRoH4ysIjXNiGcTUpFLZyuD1-7ad3HexnwuF7l70KVGKOUEu0Mwb8FDOA3-LxDCKv3Ks8mXHhgNVaOH9El5h9D24ooR8sZNC9sdXiqTemS-i-ZLlOT9R6pig3CPZkmpoSZlE8EQydysaVG1cbZMZ1GpiRXsavkccZWonW9d4C",
-      "photoAttribution": "Benedict Chan"
+      "photoAttribution": "Benedict Chan",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Cocktails & Bars",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Caveau Bar & Restaurant",
@@ -1315,7 +1650,15 @@
         "Sunday: 11:00 PM – 2:00 AM"
       ],
       "photoRef": "places/ChIJ5dX69k1x44kR-l3kNDYMarc/photos/AcnlKN0tgIRjCaXL1nfJGioSHAQnTnrX60NaH5KKGGEH_OOC3tptQ_8HXjQRfIU5ziPGqQ5dzN4qaXbzlgs_UvGrXMfGBJccAZz2aFzmc_uo4v6Kye99bt8--n3wsjWcRQDMkI0ofNicMFcRlxRKZy4N51LENOUmxBm3QILEspaKLBLJvjPNEco9k29rqkhxS8W6HPQi3dgMqAv8_cm13Mr92BVCAUsiYNXY1_Eb335Cv1cgk9YdMYgvU1n_G-dqz7cto13qWaRjJ0xCZFM3r7GwRI4GUeswfN33eglLlWH0UlcxGw",
-      "photoAttribution": "Caveau"
+      "photoAttribution": "Caveau",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Cocktails & Bars",
+        "Nightlife"
+      ]
     },
     {
       "name": "Smoke & Mirrors",
@@ -1333,7 +1676,15 @@
       "priceLevel": "EXPENSIVE",
       "website": "https://www.smokeandmirrors.com.sg/?utm_source=google&utm_medium=gmb-profile&utm_content=cta-website&utm_campaign=sm-reservation",
       "photoRef": "places/ChIJvyuePqcZ2jERrYomoPKXsA8/photos/AcnlKN085i6j7KzyDODG8yV7f72LV7dOqUqGTC5W9Rb11xmOGxU2YUIg6K62QrNZhqmOuIMfmq7oEUAOd7qzUB6jE-r_xW3s7yiGAF94WlP3cveiP3YLU57BtOtXs0oERqSfyZhgrWNj-CjglOTNSPsW7w421vztyq35OhhZu6flDE-gUvJeTjnJlB2Q-8iYnv_DZJpZdPIYhVEuPPGixRLCESBzQRTXHcbaS-eEa5FKYVvf6YET5tjA1YZCuDxwAEnCFenQS4CXGTyK5Qg4D6htJBopGQqIWT92p3zMizElZyvJ3A",
-      "photoAttribution": "Smoke & Mirrors"
+      "photoAttribution": "Smoke & Mirrors",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Cocktails & Bars",
+        "Nightlife"
+      ]
     },
     {
       "name": "Food Opera",
@@ -1359,7 +1710,13 @@
         "Sunday: 10:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJyRIV6Y0Z2jERArVHAnrM4oo/photos/AcnlKN3QulklMZRteO3EH58Pb_1ylp5kjbroKQhf82W-VFbRqq_Darn18nKC8Ce8o4j46sk_-NtgvW-BJ0XsB57g1e55r-geFact-QFo2E32FDZX-P42q-2rxpuoi5SFiIiLyCp1PV_tMNKAp-vkmaBXGY_pvVvJSV80Vr1TgvrFNlsIcRkrhxX7QoPWPpCVeNxZ42UT4euLGtb_W7cgMin0I0546QfA9s4jfHRvdaVYbynFcM_peN-NQ5xHdjmmNpydPW5DktF0wXK8VUWRatcNNOADZYd4mX51tuJc78gGQXeYQQ",
-      "photoAttribution": "Food Opera @ION Orchard"
+      "photoAttribution": "Food Opera @ION Orchard",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Satay by the Bay",
@@ -1386,7 +1743,13 @@
         "Sunday: 9:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJp6HV3hwZ2jERvuwjdrUPNRg/photos/AcnlKN3zLILCqWNiIUf09KO3rCTiai3FvZts3CE4EnJ1OOzGdiI8b6bKZal6mJLkJZz4gEi6LDM3uxqHHuMchY_68FqOkBmGrzFnfgAwlcVh4BFmtRsdC7vTwvgQwsiE_xrM0oQ7SQMItRYF-2BM4nrsmM93HVPh6c9QGMmGHCIU17gn9mrtaOmMwkP2IoIGFYJ4A8PDtZ017GpiJXaH6SWkNc-j2nB7f9g9uYBX9seO_pVTdeSQDbtzb-Y0Tmgk090UE6YLwpe9LtRVzWf6uNcRNSBOcsy0cyKEu-d__-OReIna3bqyk-tNcJCOopgCpAa0PZSjnLZ_oQmvKGUkm6ggzS9eao8eW8f8rG-ugvFehMRabi3GqT86PF7zcTCRHnLW4UJCCiUaEwtkn9mmbYed9_imBPUkFqcRk0mKd7xXOLM",
-      "photoAttribution": "Giin Huei Kong"
+      "photoAttribution": "Giin Huei Kong",
+      "tags": [
+        "Budget Friendly",
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Maxwell Food Centre",
@@ -1413,7 +1776,13 @@
         "Sunday: 8:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJseQsTQ0Z2jERqpBTWF0Zf84/photos/AcnlKN34SIswvAuDpzmyTXCbdH9O_mP9do555BXM2YWDZoepqe_QYEaKU_6yWtIDh7fPi59hSLRu2Pb1qYDhJoqmsxNjvM8ksvVB3R5OWMkcTKqeaiUPppmz1sO4-2Rz1VXAFApM9fSZD_T5f0QDYHrqoBrRDc1nlgBYk80LAmj1pN_YeqmyekIfXCFzZxLRn8A5JAgRomMxvw08U2zMBwOE2D-Ouof4hbxQAB-S7YY86iLhP42ojMQcKaiXCDemL9cJqBBNHYZqZWTPQNX4t48p3oMS1F7PEuzGDweqgeO_9VHMo1RQbc5asBbfkfEbaqDut7wiDQeKFPTyIebkw6_fu-GXc-zjv76BtdygiszM4IgE9vo0mqFWuLyfLijWj5sM2Lvc3jH1tLkfVfN15JrPuF3qQqhC8RjiVnwTkUt9MLkmGQ",
-      "photoAttribution": "GettingLost"
+      "photoAttribution": "GettingLost",
+      "tags": [
+        "Budget Friendly",
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Lao Ban Soya Sauce Chicken Rice",
@@ -1439,7 +1808,14 @@
         "Sunday: 11:00 AM – 7:30 PM"
       ],
       "photoRef": "places/ChIJsanpsnIZ2jER7xQp_AIQsqY/photos/AcnlKN2ePdl9BoT2LblHMgH8OoQ1c7Ath6lCWgwhVtFpnwMNm_8GtbSGrV6dYcZ4j_4rCotFUtYFEJDz3Fe-YEr_KZ2yYun1JAfKr76bDr8oqFpXAvmUuR-5ppfvgFQSl9LJ8WTXONHqN4LSMlJOdUKadN1MfiE5gAyesKQPlsJ_IqZOmFhNlKA9ENhAusKHE-kSWSmWrVn7ogzCx3YxQa12B9Aw4iSOEYY-r2rcp9jxyuLMCo4mVHwZOl8f8k6BsTJzSupw2MVWDAlkkLFBbvtTsDPZBRmOQUaFnno-mC9XEzr5pxn9D4c--I-jNXHjGggP0HO1FSwBQsrkbJBQX3A9rhPv5kgP1WKce_L8cEnorxnFWpU7VOMmbzGMydcM2zAkWX0B-DSnoxT8_lFYFDX9djkqQqWUkJaOtk7Kjkrl66wluA",
-      "photoAttribution": "蕭佩君"
+      "photoAttribution": "蕭佩君",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Ah Chew Desserts",
@@ -1466,7 +1842,15 @@
         "Sunday: 1:30 PM – 12:00 AM"
       ],
       "photoRef": "places/ChIJCRd5-K8Z2jER5mCE-Fge3Ug/photos/AcnlKN0dgDuSicJNmXCndydkBD7Eii5QuvG7fZIJ54QAdRIOrLJc5ML1Fm-j__uSJR9hTMnnMFm_Ch88dXKJ-J0BZee9OyUSNF9Tv3hFe96wD_r3eMc8Dg4btdtqJJDZl39eDAKxhAkqyaZrs0RTLNLDOlq2haVYETaQrTkZ0H5mLaXkpqf2WoPGWokMCMN3wdhWMiWTj3u-r3q8XmspCqhAmTjkokYRZpi5JkH_Y7KCN6Lc7djLgf5nDjklIR8WaI_bWBl0fF-jJLetjhGUxMR7F-_bskcjR_FwEqZek9qk6nZDhrWwoHjNWrqdM8tjNByMbcvC4OlrcSExAD8mcOGjwvhccFa6LTMWM3v6uRvim9NK0iSntg6p-aPbf0bolm9L8gjbgpIRiICbRKb0tI8CNWOT8XnFxy_QdvYDqUltXVKxra4",
-      "photoAttribution": "William Wong"
+      "photoAttribution": "William Wong",
+      "tags": [
+        "Budget Friendly",
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Sweet Treats"
+      ]
     },
     {
       "name": "Tiong Bahru Market Hawkers",
@@ -1483,7 +1867,14 @@
       "ratingCount": 10748,
       "priceLevel": "INEXPENSIVE",
       "photoRef": "places/ChIJOU6y-HkZ2jERchOICIgjl0E/photos/AcnlKN2NQgIRWKXv8btdliCTrhshavV9yrKBUOTpbknLmY2taVwQj1eXq0FWoOCe4uzgEKB4_SO4vPhCto4yPBfJzMW6uXggXXV_sWfQawh79h7rq9Lo4WKnWDv4ZGVjnV-QwN0U7HT1cRXumrG3ABUGtvr6JLehUviu3YQ68Y8zlYhgv_WhH7Wm4MCI3XWoojP2Aay6xBA2Tl2S4RdZx9b60ZZVzVxoNNzcfp5i8vTN7uJxCE30RZsALMuPbnkkatC7UkLV5i-sBy4xM3wwOXLRbptC5omhG4f70jdSvaFgnEtZ6jRc5qDV3gfLYdEG-o6YawliZEJUXPNhtWarlNNiIPXCIaRZTcL25bOWGRCrAxYP0Pj32sqqqRfmuHfyOerMVJXNzjDNZMcs35eMJbe16QIBrFeDjQtRDwhBw2Af7uQkVHk3",
-      "photoAttribution": "Wilson HO"
+      "photoAttribution": "Wilson HO",
+      "tags": [
+        "Budget Friendly",
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Broth by Ah Huat",
@@ -1510,7 +1901,15 @@
         "Sunday: 12:00 – 2:30 PM, 5:30 – 10:30 PM"
       ],
       "photoRef": "places/ChIJWRmi-rAZ2jERxA-pvrxs71Y/photos/AcnlKN3XUPOmLfL228iZb9EeK5aizFhRVTY4-1xtcum_59lGBGrstQrm1SnbscV8GiGTp9ebig8z0xUNM_s8Lltv1ZMNBgCgEll-894EijxrNuDdzOYRj3Uwj0_5ZqrQ3kfI-VUS1m-dFmDk2oU9A9f576d5C23Oo_54fOVP3CbNxeyFUYJ_-Yj1lqtKeonvUNQK8rEsybtF8acmlhFDMW58c8U6V4L5AOJhURatoocQm1l3RA4uwkxc8vcaS12KEkU9UXHBfnEHwWAPCiNVn2ud-ESF9ddFd2J1CIVwFyJqmY_DAN_R8v_83nZxs-9s4i9DbTxgY0Czb0rTI4-Wtqp-7XVT5X4ZkcWAYDnAiHFXzC_ANvb1ms72YGtxFuDYUoVJdEZd03wDVRy5ASTzNfN7JVgeqmocnVH9OcHw4bmaxOQ4S_53",
-      "photoAttribution": "Tosapon Amornpitpratya"
+      "photoAttribution": "Tosapon Amornpitpratya",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Sheng Sheng Beehoon",
@@ -1537,7 +1936,13 @@
         "Sunday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM"
       ],
       "photoRef": "places/ChIJ_ZsspDPu0TER_Vym540zzTA/photos/AcnlKN2TdXpM50vGRPbeu8n-BVM7TRo3TRFTLUSibOP5KGdzEgfpCVIAcJZbMCZfh0fsKT2Xel1RmPKtOF9Zg5vXEzFajD5tgF8FbvcXXHoGoZTEYIqtTZTwrueyEkkA9nvwvvkGwM7F5vQG-PgXgwnbXsFv3u8W8veK84Q-58vMm0Y1rpSzEz4rA9pGYNo61ZmlrtXMxXBtrOB9lCi9OnoDMYnqllhmFjkL2R79knxPyV-Cx3zZM056sPGW3bUKNqgXqEMmJpeFmCvMcqasF1M8BidPQ-N4mRBW6FrTTJauUccbVA",
-      "photoAttribution": "東昇園海鮮家 Restoran Tong Sheng"
+      "photoAttribution": "東昇園海鮮家 Restoran Tong Sheng",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Choon Seng Eating House",
@@ -1563,7 +1968,13 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJI_YgbcMZ2jERQc31Dic4pVA/photos/AcnlKN07j1-iAqF8Owm8P_lea_Kf4tEcWdGg_tRLUKws9Mb1Ip-3Xs7ZMAbCv-v-WW9KbkurUYWNyh3esax9nqsigRnf2OOtgk3_XigmEI6rGBQ3RIqp2T0KrdzzK5-bfkz59d1P1-t9Elh54_xHBdywftprNluNhze9RCAs1gybqEXeZXDeoK2diSNETvh_hEXrc9mKqatoIh98NL-roD9gwpLSir-Rch8l5l366y9UyA1_gzdTuzNr6t_hHTj_VqEtFCAmUhmvUAOxvb6TffdEBltKG_eKPWFzJWi7rxO_KlY6u55aAbZat23zG6v02cqqzOG7anDrgFm5I-3GjdqHHbv8xs5EXPaqJFeANNhRTFM-tiStLB8Ob2NJdlDAW14kgkLhSi7URL_TPIIRsq3tulb3swiSESQoWWqrE3ercO8GEg",
-      "photoAttribution": "Kim Wee Soh"
+      "photoAttribution": "Kim Wee Soh",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Tekka Centre Indian Stalls",
@@ -1579,7 +1990,13 @@
       "rating": 4.2,
       "ratingCount": 22678,
       "photoRef": "places/ChIJQ0ge3fEZ2jER3M6bSkGnWec/photos/AcnlKN2q53-1F6_GmQV3_8XqMqYN4ZvNM3qsNa_bOrDhhZ7u74t963B7U7yy0XuIvhFD-LCwBBR52qkcm1TVbHCE2u75CCYaUwsB3ZkHk83CJpUu32BkpIySayWEhvUUGvM8V60Q1aVoqgwgZ19LfK1L59_fC_lNTwCf9PvnJHQHWoRzTno5MTWZ5zPV7svyskWwaKbAQQVpRAmawPdJk3AsoXTOKdDKPikfC2VbP8_EWeznLI92Pv7p4OAhMFl9G-ii3Gc3NWaNj4wF2pkU9pmtOP050qEfrQor22g_ysftRXy76UHnYw0tZGIIVnpT3kOKCaAJu1KUXeguk_sM1N6XBDc0M2Nk5GwQLo1kzP_SluPOFOtiOg7yHBnkCIQbQFsmix5S1hwybtpBM0yNgItoCkUEeUQIFmnPcP_iuQP1L-TnNs2F",
-      "photoAttribution": "Patricie Pech"
+      "photoAttribution": "Patricie Pech",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Springleaf Prata House",
@@ -1605,7 +2022,13 @@
         "Sunday: 8:00 AM – 12:00 AM"
       ],
       "photoRef": "places/ChIJ_yV7zKIX2jERLDWt06OjrFo/photos/AcnlKN0eR5TvFcgQzTgWSTwd5vByhDd8oLuXwknEPE_RZN8p4xJBChCcaDH0CXyi1TsqbqCxAtzWvKGEO6eRKT-0X08IVSXcyHjEGcxeA5EXR9kitUAXL0p0NosbH9UvANXlkEyMMfb2HW72PAc0-kiWAA2fzhTbJ76dwMBHuH0ssnBMroWJiWz8UPeEa1btF_hweRmvbnbNwe1ziaFYWz9-M21u-5wAYhUWPvYsjiQ9-mkA_zJIhXtv5avobZN11RnyLWUhX1i4MmMtK5uRTabYZoOLFnlDnOnu1vRyvX_6aYCiZw",
-      "photoAttribution": "Springleaf Prata Place @ The Venue Shoppes"
+      "photoAttribution": "Springleaf Prata Place @ The Venue Shoppes",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Banana Leaf Apolo",
@@ -1632,7 +2055,14 @@
         "Sunday: 10:30 AM – 10:30 PM"
       ],
       "photoRef": "places/ChIJO_NQTscZ2jERh4vyBNFILBU/photos/AcnlKN3HCUS32uy8sQOrx0_7G4UeQUg6YAGwfdR6djSYzuzeAevxY3TKjPO5lq7HHtqlHwxmpIGfJt8dXWfLk89UVp7PbrU4tIdxUUMk5codvFvbJQynq7U0R7_zoRo_iAWS2BP7NdiLShXL_AK8T-ZO5YeJlrfnKEap3oTYBNMNKVYCMIFynZxRbtfYpHZDIurB_NFXCLX5r6mKchJWTx1OL7BOGyp-2Ew9OTxvRvsutVX8-Ngtpv3FdBmhpmXCva_l-dtBVf1KvRi9o2cyG-GrYE0zY5tvkIYcHfzfga0lvvFozCzCuWKqzzO8-Um2ZVUC9x0DzcV7CkmalfacE32X0h4hRSxdoQrTlVp_KSw9HHanCKskg3Zs7h0hWnTrMKsY0XVio5laPGa6AMB-RjfBMSo4qA-73qPlWVqJY0WO97X-eSM",
-      "photoAttribution": "SIVODAYAN DAMOHDARAN (Sivo)"
+      "photoAttribution": "SIVODAYAN DAMOHDARAN (Sivo)",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Sri Krishnan Temple Vegetarian",
@@ -1658,7 +2088,15 @@
         "Sunday: 8:00 AM – 12:00 PM, 6:00 – 8:45 PM"
       ],
       "photoRef": "places/ChIJ59O6CbsZ2jERJFd7efQNtZE/photos/AcnlKN3lvpNTrdirtTa4kWdmfQ7b9CA2BOGfJhIKJennx4gd05Vakgra7_NkFKpGMr-tKCNjwJorKK5aj7ON6RRSQV0FkptJSPl9pqiu2O5FaFNv2V3a8-wpYIDwY6-3o7_80FRABvAyymcun3OHgygdh2jZQO3bQdTUGvcuky9YLAbynFCcO97Q9jBqtLFkTphdkPf25GkvxNflhw7mxXd4umoLF-VRV2ctjWIh2om1dypMd5HCzsB1F4f7C9PvDUdL-_p_ARQY0WyheAfDHrBXvAJzpEiarWLzTv3eTxByKZJwbasQLa6aDMGD03PAzvN-a2wZHAAsONgqXUeyq6KzFf3-aLwEgkVWUA8mDo0-0K2g364zyAgXIwDniJ_OXBPPlyXDE2dk-LV12OC1PuSoGDg4JtFuuyWuOo1EvJEb3DILDw",
-      "photoAttribution": "Somnath Baliarsingh"
+      "photoAttribution": "Somnath Baliarsingh",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Katong Laksa",
@@ -1685,7 +2123,13 @@
         "Sunday: 9:30 AM – 9:30 PM"
       ],
       "photoRef": "places/ChIJuU6afXIY2jER21Ir01uoZUY/photos/AcnlKN0Ka9edn9nqXtZ1Iu6zZoicZid_a4E3LbojPml0Fm_KIBbEySOYFA3iTTokLkijqhT2OFqp8xkAYKlUmMLxkq0GUl2IUVnD048GYIQGEgf43gADTR5R_2psR_PZFlJiTwDP8HqqoPImepA5uqH5Z6J3yo7oTwk491LveJhc0FuV4aNE4HejaETr5rpSYDpkE-WlopMJSR6TJrjkUvacanjMgHTybuXcw5_L6KaPrST-r1OUs5vgPgTK7D7P80EuUNgKJWmXT00Qy_tR_-9vCa2gvpm-Qq3y8hN7IMhrSZkD9fAAJwL0vYbq23YO34PxOX55wGeVCp6lXEGrIews6960rkMRZfXTO5-T8nxLiAsT5P42laz-Sa8MGCwO5sZ4nem5XOdO5xVqS3FVupVTAb9kr-rHGiTBotL-Y9n26SLSgfceEU3XE1p6EDiJd3SI",
-      "photoAttribution": "siang hang lim"
+      "photoAttribution": "siang hang lim",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Dragon Well Tea House",
@@ -1712,7 +2156,15 @@
         "Sunday: 11:00 AM – 9:00 PM"
       ],
       "photoRef": "places/ChIJI0uOo3IZ2jERl9CcYzpyAoI/photos/AcnlKN1e7mne8E6IVGulUE6Hnm9i1-DIwDgC21WHbvHmLAPL17f6MXpmJxFM08hSNNGDjXhGGAYri8NXTLZPBh1VOQmqb-e4ldVBtfb65vB-a3qpalXWDXvXHZGiF51SJ0hSGZssYVknka6p67alAprp4Cr0-xeiZ0oErq2KGgFKFVZWVOBnVmM2KIlVQLOqfmlp0MXpY5b8Rgw0wFP2mCa9ic9PriQwcjE8ld1HkqaBjVSubRqobjwAH26T5Dgyp9GxUCdVcumvvRCs_5KsQXxPF5oczc3HCeZZxg1tHDRG4T0vNJr_Tv2dEFs35FLQwSjE3mFqbe9PI14h5wmxSUK7daeg3lUjd31eLSPPSfjwY18stBFnyYY_QyxBvYNcEu0H6MRsQA5CUND2Rrxix4YJKDj65wZm0Bswnhyb_E-wYJKURfRpR78jkXm2tz7Cs45S",
-      "photoAttribution": "Sunsun"
+      "photoAttribution": "Sunsun",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Yum Cha",
@@ -1739,7 +2191,14 @@
         "Sunday: 9:00 AM – 9:00 PM"
       ],
       "photoRef": "places/ChIJkzcdO3MZ2jERqXAO5yVGd9I/photos/AcnlKN0wUJFf6lLQqrRWvKJgqaEBIHMvpLoZb5zI-6E1n-GDactcs29v-g_qY8PSdWufJTba1Z61_UQIa3vu4us8rdJjsWdRS-kHGYlh-dnErglxTopZKihJY_zFJ5anJQ721RSo_PbxBVy0n7QPdGM6FgEfKEK7hLK7zm881tniAwbc_GucArUdinol4-j28FBUhrNiZk7MXKGa9PrYtMjJpRDhkvnTUNKnEPZE5i9aBKtmIDBFr-dP29zkRqFtyxrip4FEanURsMnjgxzqewRcguMgcx0aF_zBKytkK2jp7E72Jg",
-      "photoAttribution": "Yum Cha Restaurant | Best Dim Sum in Chinatown"
+      "photoAttribution": "Yum Cha Restaurant | Best Dim Sum in Chinatown",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Chateraise Patisserie & Cafe",
@@ -1766,7 +2225,15 @@
         "Sunday: 10:30 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJAcB96I0Z2jERfgkT8669PEk/photos/AcnlKN23yN-zHGVPY7X-o0OVOeFWrNDKijFgu--3tqQKxni0zF5e5Xxt_OiSpvPJAOwN1to3e7pu9xdGuwy4wJCtlezrTIo6QABTDqcF1LLXP9-NcRkOFK6KJUt87QjKUln2s2vhqa7O2_iRlSuIZHTcI2uzyxcQQWqXd1OnQi1t0jxMn_bEoFq8BDQt35ajp-b6SHsciNMKgtazKrg7X4bh-rN4Vbgv3Jj4XQjewj8gp1xQvCwdDFi-2K8FYBI_UAOqLgCOyVia9pnc5jy6nGxwiWA_bBMUVQ3UjON9ProG2oKO0F8DOLtVfwcEzfM4dIkPvZd_gp9SMY6v-gaeOp_Oyj2lMYATsSxCBQ_p8wXdzjNJLz0HlWIBFKzCJQX1Y1xksxZX8pK22QDPWNBxbgxva05DxvWtAW5EXo67nDdaNE3AZNI",
-      "photoAttribution": "Mae Ng"
+      "photoAttribution": "Mae Ng",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Coffee",
+        "Sweet Treats"
+      ]
     },
     {
       "name": "Tiramisu Hero",
@@ -1792,7 +2259,15 @@
         "Sunday: 12:00 – 11:00 PM"
       ],
       "photoRef": "places/ChIJeX0wduQZ2jERgnxKKzPvVFs/photos/AcnlKN2irDg2-uonSuWm9lW-aoEoKfc-ekfWM4PaQcY8dJ1mut0XE2YtJqm1wCfnY8wWLaKt7EhT2VshRBO4SGNasWaCg3ixVp2cNnlbnW0D_69jYsHRUK0fZgBwNvFnByUKuWKjpYwj8IaoVk-3W0Gd8X39YYrCbWy3LcA5DZsjbKQbMHuVET9GVOjWXeiFt7ihi8rc_I6ZcaEdqEefvzCMTc0aM7AgtqreJARdNgm13cNlYhqHOHfDtN61ANO-90RWbIea8wLqYOu0uMnRSw2g33MSl_RlA0nmsdPfR7Nnaa1wTLYa3m82BF51OJp4AJJVN9eulcJ9HnOdswRvr2c_drUHMAEg8vMBZHNSjfLWG9e3CeXQwf-E9iCXrLmxpFkl6lphwKe6WWf5R39zEb24Vi74KNV5ZsPUhc545VyVlFjHth6i",
-      "photoAttribution": "Stuart Teo"
+      "photoAttribution": "Stuart Teo",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Coffee",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Pâtisserie Chabot",
@@ -1818,7 +2293,15 @@
         "Sunday: 8:00 AM – 3:00 PM"
       ],
       "photoRef": "places/ChIJud3rx8cbyUwRh7JQooN9kg4/photos/AcnlKN0iK1SaJPRGWO7N3lXLFX_5V9AqQ-Nvlnw_1kjduuLULy6pUzLRI35LCNTS3Zbl4lHsPm_DP_-v4WYyJBzZD4CZOXZ3VchMP8SCWKYODLpWzOiYzLcq9QO8Yn3lIezk8Z7R7_6gYZ8Xdr7x_Tz4FU9gGiN1tHHoNulD_hv7afSeGdEN7wmHGlxvQtPy77z3bhL2dtkn4LYJJ3ljKIXn1dyN1RJmqDc3I9n1gekopQrtYmBNHgTpD0TKVdpsOY40jrJkQ9wr0gKTVB6oND2mFyeWoTM9I5mC9yWKxbAi43cneg",
-      "photoAttribution": "Café Maison Chabot"
+      "photoAttribution": "Café Maison Chabot",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Coffee"
+      ]
     },
     {
       "name": "Forty Hands Coffee",
@@ -1843,7 +2326,15 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJAQDARw4Z2jERd1WCyWXolso/photos/AcnlKN1HZ_nbTx9eF4eoC31Gg33nDG76PgEI-YeH5aMHCaOmVGItX8QBiPmtQGfcMFMQi9DX2kFaeMpj6IubgYx7b2zANePe8oIFdDszFVOY09EsND45fAPtlSe6Q4wLUzNdPWPXUgvDR482zgt4dlzPSmxkRDxqztP-QlHIY3JkaqEIGEqO1aU4r2_yQHRc2KOFHgttStHH8XskWBbdwZVsYSvEb1tS4QXbe6DP-xSbI1ukUr9jgPwbE6gu4LJvabzBZDkRkf5vHyxbkeYLd7SpbjawbK_Q5CqguWT_PNPHiOq4D_RL1kzhcacCtjdUUzETcvJV0DCTP_ECVog57AGHH29tVcmc59unRxAwGiTgAr5reAOKJoH6m6WJ0SUjWhQUe4s76sEkGr7OU1b7c31njD51YVk3qwsoQVrcA7ON6f5AHClIDhU6NH802PxCOfEl",
-      "photoAttribution": "livvy"
+      "photoAttribution": "livvy",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Coffee",
+        "Cocktails & Bars"
+      ]
     },
     {
       "name": "Oriole Coffee",
@@ -1861,7 +2352,14 @@
       "priceLevel": "MODERATE",
       "website": "https://www.oriole.com.sg/",
       "photoRef": "places/ChIJn3CR2JAZ2jERwVqdW686k0Y/photos/AcnlKN2vEdzi_NMDc8b4MrdCVjohcPafCRvz7Q_OKfJ02OEwpVksHaI88QQuIsic9ckpIxJNqu3HXO1muIHqRRgg8_VijQ8c9_WwnIRgQAwbgkh4Ags9mgHeUz25s-ryphkHyD_UjNKhLH0wjDoDwyGMJL2R1N_ochRYcVBblsVMkbGy7X4U5N7dQan3TYyTn9U0kE2N37o9XTgYaYpg0Onmi47dekRxA32ciNel9Po8xe3XDAj_pICMdKNif2JoFA3sKK9o2vX02qe0laz3ZeLAfbdpsgNMlJQE2lHD9Sl8Zyjzew",
-      "photoAttribution": "Oriole Coffee + Bar - Cafe and Bar @ Somerset"
+      "photoAttribution": "Oriole Coffee + Bar - Cafe and Bar @ Somerset",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Coffee"
+      ]
     },
     {
       "name": "Nylon Coffee Roasters",
@@ -1888,7 +2386,15 @@
         "Sunday: 9:00 AM – 4:30 PM"
       ],
       "photoRef": "places/ChIJE7ZtOWwZ2jERFcasWYmljJQ/photos/AcnlKN1rIb2dOnDfkxOb9W1tYJWaxFaE1RQSUQKqZ6fmQWtcTHITJveOhbAUDPG9Qa3yqapWOCbkeV5jU_hbnl8q-EpJwX2F-T6BO0Kt9LymQx2I6nzklcgL_-lhBWWAxRMCZWv0V6Um8Kv0DFt3RjBLtzwC9CJKm9yvPY-6FEIgnHMpA7CkeQsYL-m5KlipyX1zu1IKwgxdiJKNkuYktWarrUgzdEG_2K2jaf-l-9-cVtWk5bl4gxqi78dyGesaQ44huLQ_ZQu7bmOFUxqcwXv0MX5Xcwq7HduzBzcqsOKioOACJQ",
-      "photoAttribution": "Nylon Coffee"
+      "photoAttribution": "Nylon Coffee",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Coffee"
+      ]
     },
     {
       "name": "Common Man Coffee Roasters",
@@ -1915,7 +2421,14 @@
         "Sunday: 7:30 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJzeQ8gw0Z2jERhGLaINksUXI/photos/AcnlKN2Mdu8qSe6jR1FKxzyBihGcJbFO4SqsafXbixR-RVAQVMEVaQ3ITI_7oKpcIjys1VsF_GR7AFAcANC27aFgjJLoZ_52yufvBB4PVwsEXEf1a3a28qdmE4EfCYwXJBCUaCK8oxzK6DWakY-JHKyuSBIUsUPtoYIehOi7iLH56GSjTWqlexMr1mfilkvOaltn4ZEw36mYYRjMaujLiINdvCmA7eigOiwA2nvFEgH6QP7LojqjcuWK1SWEecdj3g9zp8G5f-6UlbemC3Ev9Aci3dzDhxkX41jaMwwD_8bnuuo",
-      "photoAttribution": "Common Man Coffee Roasters - Stanley Street"
+      "photoAttribution": "Common Man Coffee Roasters - Stanley Street",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Coffee"
+      ]
     },
     {
       "name": "Ramen Yokocho",
@@ -1942,7 +2455,14 @@
         "Sunday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM"
       ],
       "photoRef": "places/ChIJ07FgJIQpC18RYkRNPfQgdvw/photos/AcnlKN25lC2CdSwb16JcaKSrTpXxZKEv6YBKf4ywe_HOSTgXAqJeN1j08mtYH7uXybadsdDoBndKf5FaV4L1obTTyRBXLCmYt3pMwGg8V4AILnONuyIzENYd7FjjQicjc8DcU6zBM2MCowYIRErsGDv1mkX3DGqvT0HQ4AQgFuyENCYYsyyQQR0bgJGf1HCOjOujd8ScbklnO-vEp5UY8N_dDG-sVv7QSwuky6h_2LeQyY5e8hQJt99zvlW2uC2U0F-uoVd6LIOY2bbM9Y4BLiDm81h5dwlyFM5kJf3tegBz_bN7pQ",
-      "photoAttribution": "札幌ラーメン悠‐はるか‐ Sapporo Ramen Haruka"
+      "photoAttribution": "札幌ラーメン悠‐はるか‐ Sapporo Ramen Haruka",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Tsurumi Ramen",
@@ -1952,7 +2472,12 @@
       ],
       "desc": "Tonkotsu ramen, rich pork broth, Japanese technique, minimal",
       "longDesc": "A focused ramen shop perfecting tonkotsu broth through patience and technique—rich, complex, and deeply satisfying Japanese comfort in every bowl.",
-      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tsurumi%20Ramen&center=1.2935,103.8575"
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tsurumi%20Ramen&center=1.2935,103.8575",
+      "tags": [
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Din Tai Fung",
@@ -1979,7 +2504,14 @@
         "Sunday: 11:00 AM – 9:00 PM"
       ],
       "photoRef": "places/ChIJl_sOMpIZ2jEROuDbvYr9GLo/photos/AcnlKN0-xgY6jazimaaOOuz-MwbxG_ONpgvS19RezDRmXmX9PyVCf6LpaQC8M6UluzwIFoL0MxHJun3xhIHENwdgOrJ1GLPGZdEqMGxuPIXDjU3cEuG7xV5ZzUzqoGtxHImwc2RX-y9roYTlKBN5wFv2qrA99Dg-5Xn5TNXaqALpNKCQgicXUGg_O6bpe6l-jTFjPZpMhoaOfC65ziXHU1Izc1GxaTXgf0i6tI5rAbDluDMrWthxfVq-eY2Yf9Uv30x9yLmBp2SffTG_0iHR2HGDkbRbt8uawA2KlRHyFClhlj7-PET2Z5zM5qVma0PTwz7PYXCpCwsYN1GDpOkQKA-BLtEE_ndgP7oixGuMGRawzY2aY8n0UZvkJhoC8sfPxCLym2uGFvG7hZZ5eo8n-ezIudPBCfkW-fzDF_GSFXHGB4r9Vg",
-      "photoAttribution": "Boyette Vergara"
+      "photoAttribution": "Boyette Vergara",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Tim Ho Wan",
@@ -2006,7 +2538,13 @@
         "Sunday: 10:00 AM – 9:00 PM"
       ],
       "photoRef": "places/ChIJvQiZfr0Z2jERUvebWU9SrPs/photos/AcnlKN1sBPqZAJmYP3VPXTnLFHxGD2kbUneFtW_FYyc1hIoGBCds-xgWKTAE2xZfaZgDSETXA2lxlLAFHvERBPbmKlXBPQtM5yJ-zL02v3MtZ3R8M1wMlUPaQBCyPNQUudjRo11YKeMHZ18u4AuFPtlvZrNbUZLIFmF3BzW3Ae-dAbapTBtiTQisy53SohIhhs3HE4KeWEoY3xGybiQIP0ouDlu5LUWJAq2Z6-xc1QPCXa3xMmq9Y1bI7gicbGC3iOn7QGETb_QMrojvSkFW-ByhcazEMOM2BicHZ9CRMpZXb7UMmHFg9yaQDEIAon4j2EZ84qAT0hbJxXybGD9Swm2vE2oBUJrNPTBVs-3YMvilBjTNHCXBWVZfjCH_umow63LGB6eVncu21jiTCaUZHLGMKiOISCbGGV6xxr6sbWGlmRUelvuwu1jqQd4TaOpnNg",
-      "photoAttribution": "모아스토리"
+      "photoAttribution": "모아스토리",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Chatterbox Singapore",
@@ -2033,7 +2571,13 @@
         "Sunday: 11:00 AM – 4:30 PM, 5:30 – 11:00 PM"
       ],
       "photoRef": "places/ChIJDfcsE5EZ2jERrC6v6Okmdhc/photos/AcnlKN2_qjN8scC4OOKsO8Ygb8bi2ITJ4FN02E_VNeDVZQsf6otDbN3lXG-kqIQpAttEh8IWhq0nXz6-3QBewiGYk_cCKkwA4gZtVFv6TEDlULEBQunOsSaMF4xEU62vyzrvjLF2wHokY45hVCPXMBbQPgCUm4Se2Twg35CAKeCjT_K-IX2esXaCQNhvJQ8ke-PWAEiMDTaFnfEPOq6rlNEJIrJs5gAH4nunzjas-g1GMk9ApAf6LwFz6FN_x5mQDCMYIv2OfdroeUb6uqy-mp95ueONdTDTdonFswWypsXgR_7weN6qF-NTSrhbyrXKTPZsp5ioUkX6mAOIjdInXtJOK5xy3FlepG6HCqHOijF2fz7ybQxwtjT6t1WqrmfAxHB4qm_bwz0Rp7lVIWfc2xQWUiq53ZQeqGCmtBy78YB74ZDpAQ",
-      "photoAttribution": "Tan Wenjin"
+      "photoAttribution": "Tan Wenjin",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Palais Taj",
@@ -2059,7 +2603,15 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJ____b8DR5zsRVz_XpIUEKcA/photos/AcnlKN0T3zjYkRe2sDEGxdXl8C84q4PxnSZLkULrVCCIvHxkRCKTnsbTUnkF1okHrFGsABelmKSVUT2_G24-cDNsPaDY9eIDJeowDcaJoptiOBisj2Et1r8UleW8ONzmt-l8KrbrZRzieus08WjTecIqa2ktd37IqnfJSSlA6DVkejluniuexMePIA6TdAMbQ-lUUCvhDycZ2D4Ly8UAE5OKa0Y3JHKeKVviXzuYTNSGzmKaoMrBCs0ZOzFj_9S2fWR4AHNM7fkiOHSYR9MCSSHsKOrSImYppQ6_t6KQoyVisK1KBA",
-      "photoAttribution": "The Taj Mahal Palace, Mumbai"
+      "photoAttribution": "The Taj Mahal Palace, Mumbai",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Artichoke Restaurant",
@@ -2086,7 +2638,13 @@
         "Sunday: 11:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJzTqqFLsZ2jEROOgjd_-TM7k/photos/AcnlKN0oTbhVJfGWGGw4zyP6jCBNbb2rgC-74Bq-Ov3BeM9dWAJv05Qdk4RtaCW7ORUjvdUYIQbHImdMOIRjj6xqsKsow4k9i07iI2svbRnhLIXAPa1gAGcLqmuhApgxEqV9t69yHDNbpySUzbYt2-FZHJ5cNeGLeB_g3z36FDIjcbSX2eIAjBhVcT1oL23HheLFaNMJ_c53iw0kg5qN7fJ0UqiuOM0LqN0tQi8xLyO2DymFDtdyR9SZJl8WtxuFT-vaUIIhPVwkWK32_UaQ1O6yG00OmZCwA7434CxVJJYTZnKItg",
-      "photoAttribution": "Artichoke"
+      "photoAttribution": "Artichoke",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner"
+      ]
     },
     {
       "name": "Shinji by Kanesaka",
@@ -2113,7 +2671,15 @@
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJo8XdDIsZ2jERghtpkkSHTXc/photos/AcnlKN1tLuRGug5X2a877ab5UABtMlqQnJUej8taCvLFQ7ec2x-jnRKMMGHiAwgOTp84feML1r9-xdEwnpVclHyDiBeRe15l_1QqDWGytsy3w2jGM93HHFq6G0rG9lcEkNGQttaPY19yPtnPIAr-HKIoZxjYOn1bGl_eyBIWJ2Zef-3IPiw7eIPG_N06xgAqB5A7P5lWSHQRMC_xrEjH5XWLDfZ6AJ-TfTQCxvxhjPhJB-ByfosRIhgTyljT4NEKAjxSU1wND2rpjvaj60zP5Z48lLcpYyEhr5WjHMrAGHCqfZn6n_xZMoDV1PT1ibISfluadocnqDWyyQygcsSzUjtPvlL4HyEy9WrI3AmPN8ufiFjihk1gDTMp0li08xz1NMCsqVPvrTIy654uwrkJ--fyZQ_VntuzI_pJtQL1vajldAZmUA",
-      "photoAttribution": "Kirubhananthan Subramoneyam"
+      "photoAttribution": "Kirubhananthan Subramoneyam",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Romantic"
+      ]
     },
     {
       "name": "Xperience Dining at Shangri-La",
@@ -2139,7 +2705,14 @@
         "Sunday: 12:00 – 5:00 PM"
       ],
       "photoRef": "places/ChIJU1wHcvQZ2jERfioEYbHr9tI/photos/AcnlKN1lO8Jsg3ufWWwOjsrji7OFkP_q1Pu4YCQHsT7tiaU_BuT_21468GBkxfnD56FcUxX2ZTQv788xPu1yEt8LudPOcA5WgyE7P33zqi7y_u4iOsab3G7FQYfIpyGBV91cOGua4ZhqaKfHZwyMDBTytqZ1yccYYPxaiGYts-mjn9NQpo130n7rNdDQba-Xo104dWT_fD3c91wK1CMf7sfv1q77rzC1uH8g7eBizW9Ksst1wTijs15u9fymPjbE7yi3AXCfDLs5o1Xsc0bQjMxRrEIZS6cdeSwxMW64rxFudlRz0A",
-      "photoAttribution": "The Rose Veranda"
+      "photoAttribution": "The Rose Veranda",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Violet Oon Singapore",
@@ -2166,7 +2739,14 @@
         "Sunday: 12:00 – 5:00 PM, 6:00 – 10:30 PM"
       ],
       "photoRef": "places/ChIJ33v3PKcZ2jERNogFrxUdKEo/photos/AcnlKN0Da1LX1kwDU9almVy_ajwfraDzzHutBFcWQ_GGweQSIIAxVyhl5LYeLKR1kUIF9rJ5gwd7aiwTQ1kVn1P288t9SOkkXgPJtFkSrY2EeXjdFY0cjrUeo1fRiPkd3kiQWR2dYJQCDtlbFWxOHwjv2n4rwlCqJ7DjHRJL0Nzv-bU1QMg9GsNE_2Aj5GqnwOUFzwtmWmAJdTn8q3WVGKw64EmeHZ44gnnvz8Pgcgya6o5f1-OAqOaIOGWVAuxbGTnbyPT3TbpCA-byY80pf3-DMybSqqfHRUZVbzyukpfYm4L6Gg",
-      "photoAttribution": "National Kitchen by Violet Oon"
+      "photoAttribution": "National Kitchen by Violet Oon",
+      "tags": [
+        "Splurge",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "LongPlay - LP Bar",
@@ -2182,7 +2762,15 @@
       "rating": 4.4,
       "ratingCount": 25,
       "photoRef": "places/ChIJE8uJrLEZ2jERGtSGqpeFMc4/photos/AcnlKN2yupPH2QnXyYPyDN-ePq4aKfVBNJ7Lolr2i9wCbRf8JlGf5eWKOSp6hVexLGLNj0JOWsW2jRNEcZdBe2C2C7cIkRZd7ht9AudhJ3ecmp50T1-a1wXhus4El1crWvUfWGVP3y2RxluKCUQA8MZuWze_VV1FBfcCqrGL3tXcmEZW9-US0vQ_MMUD6qtsuNxYLxwPWu9U7CSpNl-GDfS-nzRequrs28WDJPmwOobCGYVuIbiv9l7-RuSBSgIJOxtdVx6qQk6frAiJQmQ32c1c6PITUBIys0XgiYuNt5562eg6Rgs7TGSrKUZppafgXC26V_7ZIiWfVvZHos23QJtOIctJufFtf8gJgWTnkftmfdc-K2XEF-0UsIfVquDPS079MHBoCsXBRXEBelNMcsRBa9FLz-QyEOK4pjyxmJOwhl2PbQ",
-      "photoAttribution": "Eve Lai"
+      "photoAttribution": "Eve Lai",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Cocktails & Bars",
+        "Nightlife"
+      ]
     },
     {
       "name": "Jigger & Pony",
@@ -2209,7 +2797,15 @@
         "Sunday: 6:00 PM – 12:00 AM"
       ],
       "photoRef": "places/ChIJ36AdBg0Z2jERvFl0QFoqZ0E/photos/AcnlKN26eDvQMPvkUN2NyQAaslzX0R4DnTSOXN5VZEaHJakFdn08vwivNR7X0Uq-C7MFm6nLrJAr9c8WqWbh60PT_dfbPPDQZasS2BF1Jy3Mk546590dNQP_d9K7lI5dnt_78MeWUqJkaBGZU4FayfjQtN_Mg6Gg26_p5rizk-sbr67NXM7ODH3-jVZG9wElvWuZcMRwakuulC9kBCnUYTx76Xc12XRO2cNkID_MmL1Bk2FFyfbiRBejMlNhtWppBEBmAWViFidtt6nH4zDUv9edf3rfBP2etFItMZqLlsHa6MDDsg",
-      "photoAttribution": "Jigger & Pony"
+      "photoAttribution": "Jigger & Pony",
+      "tags": [
+        "Photography Worthy",
+        "Splurge",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Cocktails & Bars"
+      ]
     },
     {
       "name": "Druggists",
@@ -2236,7 +2832,15 @@
         "Sunday: 3:00 – 10:00 PM"
       ],
       "photoRef": "places/ChIJ4ddQGckZ2jERbIMDgPz8eGU/photos/AcnlKN1zHw84jA0-LkRPzJSn4AySP8CgpRHj_9-HfczZORi8GoZcaeT26JLx3ksqGdyxfa5cZTOykqdBoIHkOmUm2T3yKVXNo874H_It__qLal7fnW8WjHdGCx_KlU7AFYA8c-nbdawXPWPGJud2Kfb4FEbtwKPf6L2YFgtAuXDIeIAWwvX3cxz7YW-QcIxj1DTxvsOT-W1J09kqjV-ocrrASayuT7IsrkKQBuxSJYNv2RmOIKRpy4C9xf73N2QARMROA4ebY6VgEiwvaGlcWvHqgf2yUNEWRRDnPz1c4IqDH_Wwhg",
-      "photoAttribution": "Druggists | Craft Beer Taproom Restaurant Singapore"
+      "photoAttribution": "Druggists | Craft Beer Taproom Restaurant Singapore",
+      "tags": [
+        "Budget Friendly",
+        "Fine Dining",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Cocktails & Bars",
+        "Nightlife"
+      ]
     }
   ],
   "experiences": [
@@ -2264,7 +2868,12 @@
         "Sunday: 5:00 AM – 2:00 AM"
       ],
       "photoRef": "places/ChIJMxZ-kwQZ2jERdsqftXeWCWI/photos/AcnlKN3VBiqmDlIB5OT_VPK-FQLroWsgUeK6pOMZ_aDN0fox4KEF51AC2JUvwH6IF2YjVfTv_I3tIuFfWBVPpnr6LsVZGpeQEHclMnJ55QCRzpHUOCV-nPmIu6L9J6WlFmWaKM0FRh3IgYIHFdZ56Wjc5DV8MW4yKn74SyHFEAyizRApfjp9O7BuLQ76GF-1AJvzJaVO8-UECKXdtAJVwTvD-DCdA64M_ujkSnOB910OT6FpjlohcMplNbAFLwThuuIuWd4C4UoqgYyOun9e9FLyT-fyxIkEVfCvBsjl2oAMiDVUzZqldrAgLYSHxrhk3QeuchuPSfk628IRBiiyuatc7WCCJcl7neG9guaCol6RmdOnwujwGlT4DypH-7vbmbd8rxbl3DEy6uL6E99Kr_msZNF_RjlaG8lfo8Rk6RKLreDz9Gk",
-      "photoAttribution": "Humanprof"
+      "photoAttribution": "Humanprof",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Outdoor & Nature"
+      ]
     },
     {
       "name": "Marina Bay Sands SkyPark",
@@ -2290,7 +2899,12 @@
         "Sunday: 10:00 AM – 4:30 PM, 5:00 – 10:00 PM"
       ],
       "photoRef": "places/ChIJOeEf9S2vewIRM0B9a06CKwg/photos/AcnlKN1tBI7wVPVqIst90A6XuLlPK-aclZM4U0eu7vL9Ji6epE9XaiKuW1saXAr85a1r78KrYSibH29hgYFARGalmo8HpuySHcxKYZs5TdQO1oS9NKhEaEne1IPiNl4ZD7c0yLIZkOJgNx56zherVWgeYnN8rN7MxXkBPboelUvlblgsVtES49FZYzEk3fAA73vav0DunXhp8jLChDU4oT1ia2IgUGKI0TddXV3yJuQL2E6bhLmx2ltakzCVWhj83NLnMStWmYkqvY-Y7zeJvotI2k7OqdTM6d69hkPGAW6aVTOawAkvJiHSvT6qoBIywLXUGX3nhFW7_nJOxJGKaOYPJyWGAD0XAUW3EXCGNqkGFhUdMGoTGTp7ffOEySPQN3iUMKOuj0DVxjP8nj4jyL8Xgvi0V18rZBiEMfnfVCg9oQs",
-      "photoAttribution": "Vasabi Chabe"
+      "photoAttribution": "Vasabi Chabe",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Outdoor & Nature"
+      ]
     },
     {
       "name": "Merlion Park",
@@ -2316,7 +2930,13 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJBTYg1g4Z2jERp_MBbu5erWY/photos/AcnlKN2o3GvYAQM_fIm9w-usqQhlUJgncE6SbW0ZidDVFFUuOUpJikOGd9Bapk51t14I8prciLquqsUWTeBabMuhM-4-8pPKowksIFYHf1L2BXqsQ0ud6QL7GmrYv8ik2R5hndgt4PYVqbgmZeMDcL0Y2ovcybtqEOWU7erLqzmnb8Rvatb5Lm6Jy2G_PLb-OfOCg2lkCQhk3zAVgIZcUys2UjGr6-tBJY0Oem1jc9rE-3pxmyruZDzHIVoFi2MVFr_q4oma0KzPNw8y_nJhwKQT5FTrxwAozZ4KVtjlaQ8L1477WcI96snVuPCBnZaAozXlG9LS7k9ITTz2euhcfwMiygQiFiZR8dfIqc_gxyTzDLM_Z8WoRckBEpf0OvClosplVNtst99vyp6qj7D_8IWkRbdloqBFy6COhzKu-IhsLHRcFg",
-      "photoAttribution": "Rumesh Bandara"
+      "photoAttribution": "Rumesh Bandara",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Outdoor & Nature",
+        "Cultural & Historical"
+      ]
     },
     {
       "name": "Singapore Botanic Gardens",
@@ -2342,7 +2962,14 @@
         "Sunday: 5:00 AM – 12:00 AM"
       ],
       "photoRef": "places/ChIJvWDbfRwa2jERgNnTOpAU3-o/photos/AcnlKN3kAvnm23_E1_PU1SN5HSZ114MsIgbE1m5SmPhfUMT2ND-XDCqSNP9Nk0GAJj20yd4qi52GU9p0C7afD3n5XPm7p6XqN8YbOe6trh3TI9CdWgQ0bH_4AZeXYaN1tJG_-ayRHvu8jqJ-kRLGYEKdKnmdgQduUDRRsVfh-_IVTgoD49Vv-vG7hTT-sBdzoU_n6sQlDukGupSzDbU7ccfs7GOKyggGK68JkB5vlFWa4ry7X8ohfjVPaiAfXIRFNwFhPRHrLMtxYEfSUQMB_6aEu3AdfaSRsHtIkv030Ig1kH2G3gcjaRuRv6HKl-Do1--FpZhkVA8-Lj3SKW51t-d8wtBX3Jc67wGerfKvpnrZS-jnwZoO1CHpsozgdzfV6hJp-FcKJehUfaFYJMh05GrYoWSJIgad17NonkEz9tZ_NlfYl7qg",
-      "photoAttribution": "Marcel Durbălău"
+      "photoAttribution": "Marcel Durbălău",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Outdoor & Nature",
+        "Cultural & Historical",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "National Museum Singapore",
@@ -2368,7 +2995,14 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJD1u-EaMZ2jERaLhNfFkR45I/photos/AcnlKN24L1KJcCQtT0qCYd6801iXivLtm2oMOlZpTdqmzoIl1CobmXszOy2o6zXK_GJFK8YpI669shMgYy0xSlS0mB_ESm2RjzDtefdHrvn9KagohEFCQaukQ51IPW01umj1ta4042KFabGBe6_zRb6cH1HmxolfngZWsRB3vJ30ZaJjY0I1ciTsYxZgSJymKGBvNiE2fyY8TG0pI59yABIoAADSy9X6kfoC5k98mR_zfE3YBJhJi8Wy4VpwOtTlH-DciFIwlKbOTDr_-k7o5EJ8WqdnHpuYdMLq87zVbn9tt465I4RM1o63RNXq6xTHa7c1YR8pSKyyr6HA1gcovcgfYg0YDrgvkCiS-Dd0NB4-wZ3yeSkr7D-UoATSaNCZAeM7_2pUOdjZGUQSsuk4jIP-h1UZZz_HTHCyOMvH0y5Zzg-OP6s",
-      "photoAttribution": "Khalid Ali"
+      "photoAttribution": "Khalid Ali",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Adventure & Active",
+        "Family Friendly"
+      ]
     },
     {
       "name": "National Gallery Singapore",
@@ -2394,7 +3028,13 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJFQzeR6cZ2jERgM6--iWeY-U/photos/AcnlKN2Jnh7_6G3u67tGe41QQcQlI-zOyXOWuolf2jL3ZU3DXitCTZCOaM4lI1VGFA6hU2lBOfFbrVQamnjUIKQOKL4qhjTLzhRv-_vPmsNEqLqGHJw1bWLaQkdl0x11Xtu15f5_94I5QPdLDr3foOL-5ejzhm7DhfQHyTXjghEVWBgcMi7cu6MazuPxvFl1fq6oA35YyoNVzfCPhprfSpVG78U6IwD2z-fskf8wTrb111FaSCSuVQmsUEEyzIx9Aj_5VyR4RxO_Dk-BQkdYNKZMEwYbSfJBXY_OgFRQVGghRTP-vyYOBeOc20kAiFVoxciA_z7ngLYaNY1GuOgqOQO9tF3EBV9NOvkW1c__D762OKiyvuBH7fA_UNd2M7PTC5yVKrnMP_UgLiSO1tgbhjo-4cvN5bEGrkg557IFy0bh6CSRaMA",
-      "photoAttribution": "陳澔子"
+      "photoAttribution": "陳澔子",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Art & Design",
+        "Wellness & Spa"
+      ]
     },
     {
       "name": "ArtScience Museum",
@@ -2420,7 +3060,14 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJnWdQKQQZ2jERScXuKeFHyIE/photos/AcnlKN085WvI5DI5xcH8iLxEBnO8AqaY2jkWWWyL_kn7dMLGonQS6qlesa1MAWfgfo01AlQmGZE4ZE59OnHRHRV0633YMXeDzxwtAR5us5P78btjqb9JA30Q4CM8P-FV9KsMvgpPRJOzdFXYfd2K6IP6tUbMESNZZw4llYvYv-gUchOJhMBG-JQgXoLCjrKD4PJ5mWEriNSD6s4WFk3evQXw5sIAajcCjwzmIwZu7450_6HUGcpCJXGu8zJ4_R-GWv5li1wQS6qpFAJxQvS-uA1oXiET8nWTqGsOUwaz68VpUyMBgKWfLfjuh-tPYHMHZy01dynJzfeSaQZ1egV6ntZiLwJVRX8O_qbOPxz5Z7DOVAXVAZJ5pMJxjLcrW4t6bTa1j_dEi3N3BccGidI-jS7j2-UDsB-deh7xg115nXxlTGHY6mje7Bru7LubJlrq0Pl2",
-      "photoAttribution": "Stephan"
+      "photoAttribution": "Stephan",
+      "tags": [
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Art & Design",
+        "Adventure & Active",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Singapore Zoo",
@@ -2446,7 +3093,13 @@
         "Sunday: 8:30 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJr9wqENkT2jERkRs7pMj6FLQ/photos/AcnlKN057L0ymdl7UVSu87Hg2sZpvqLMj7V9etDW7h2mUaTOngwNrWXdYPdQxHXNbPLqCZSLlT3y1YzHmifgyH1Q0mxLzz6dBTcg8ti95eYGl4W4ZeiH4SfIoOiYK8JtGx35zXLbgqpxm6nbkzhVeR3LB4LKj5XZpGqWRwPUryPC-CQtL_557GrDUKcygJQm1mO2pDjab_uxenbT_N0KB28ZX2nllzOcudI8SaWOynieJtzV3LbyHXqA90ZmW__vJJwTrH_Z-Dm-OEH8wiVmo17NaMhKJJVV8hCMSfShaeZ833F60FrogNYvM6LPmWLb-6EimJyKMkLEMDJ0Tn6IbWOqYE7TSm2lRFFjAwAkj8-du_OH6z9a6hbF976-0rBk816FPZrzOXLa-TcgxQhqY88uIMHMxfszITvaFpuY-vWzxZJMRemljgscVJcr5lJ9xZB5",
-      "photoAttribution": "Amjad Shahzad"
+      "photoAttribution": "Amjad Shahzad",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Adventure & Active",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Night Safari",
@@ -2472,7 +3125,11 @@
         "Sunday: 7:15 PM – 12:00 AM"
       ],
       "photoRef": "places/ChIJ9xUuiNcT2jER49FS2OpE8W8/photos/AcnlKN3q5AIG-fIm0cuO3F2yr2bzsPxxaLNNr9kg6thDtYvRwcDJP9cxYQUAmyZka5CgtV5M101STtWNpRcFDtlPyTJxIH5Y6EZDIn2F7YBIJhQ2k_8HyAuonc4SiOLednWhRrJR5dQ8J03rUYoPc9CU1luRbqQuxD_7jMefst04c_keXpx-Qiroz7ogOe0FSbxf1z-VeFd80kQjsonBo2Z0wMDByxcwtQ1IGlvT7BM0U8pEOTdkB6yqQ-suVA60u6U1l-fv9JtYQJZuaxYUScVLOOMcrlPT0pqbaDrhQ6IeERXxHFf5FdQXZYBFELc_-Z2CqFjJ92-WbeqJFfNG9ph0oDINVzdlQUdy5agXowQfWnchUBW8r88lfzIGLbOhcCO26zfIJF2N0YqLGXRemXZIDOAdxJADN18vbKjfwAG9WWa-B0o",
-      "photoAttribution": "TEA MY (Mii Baby)"
+      "photoAttribution": "TEA MY (Mii Baby)",
+      "tags": [
+        "Budget Friendly",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "River Safari",
@@ -2498,7 +3155,13 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJxZfX_9gT2jERknwK8es7IHU/photos/AcnlKN31n8k0yHVmQ0MtEV0mEvMaJSowpCJDFFMpKygzkk59Aj0Y4AADKDkj14yRKb0MnloK5Ro6micSGWSiGtMN0ziy5c0cWHxYSCsSX6nODiOPn3rO_Nc2kQOib3tVCWHC5TB4VPmqls1uqRztyL4WpD5_F775IKirfDYD2eQ2FWIhDgrm0Q5Gxp5ctkJb_cDLISHdguiQ-N9WEssjNPdKWoFuvEfP6u9ilVGyspboNiskhoiuQgvzjtNZrrBLip1nj9qA7QJko3EXf-68qJxrV0xbUndymmdvi4yRPE9LyPMECG2fi-DLnAlzaUasMmWwRAOJMfAmPJUgklUsfu62IIGS3EyjWP9n3NzP_EAtxx_dpdhrFtxTmYY9-FILERfWM3RUz6CmmySNC5W-qs-Eiq84uAKE909cMHRKDGbBRrU",
-      "photoAttribution": "Akshay Bhammer"
+      "photoAttribution": "Akshay Bhammer",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Outdoor & Nature",
+        "Romantic"
+      ]
     },
     {
       "name": "Sentosa Island",
@@ -2514,7 +3177,13 @@
       "rating": 4.7,
       "ratingCount": 9482,
       "photoRef": "places/ChIJRYMSeKwe2jERAR2QXVU39vg/photos/AcnlKN0KTU29iw1OjEvxky286Bmr-tnb-FMAe_FZVL08Y4G-KPDDXRGYjJmpoeP5X4yUjQxX0lE5SBhFFn5hBhaSTg436Ae9ACRmrHrBMiyWqPniN0kp-064lNv2czlR03x_NssgTPWEm1A8g_ZXHxGXRmD33tfuH9NJM9q_U3Wr0sZWOttGm2h1tRx9kaRUTggNmKx3km1zgQ0hIBJHaldm3Wz2N_TXpCOq_fByvO-s5rQpL6_nn3b-Qw2Ex8YKCKPn6tnhhCka4SBNk4vNsPINFQrprX8ULtZrnZcqkjA6-GtyVbR-o7lP65drIavW2hc8RaYT2EqoWKXbfslQL2uarPbUNWgX9cyzBCtUv626ioNuEqwC-H_YcIm5K74ZVlsmhQwZamqoE-t5JuqnujkRgjErLnTDskVP61io-YGtImU_bg",
-      "photoAttribution": "Saish Naik"
+      "photoAttribution": "Saish Naik",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Outdoor & Nature",
+        "Romantic"
+      ]
     },
     {
       "name": "Universal Studios Singapore",
@@ -2540,7 +3209,13 @@
         "Sunday: 10:00 AM – 8:00 PM"
       ],
       "photoRef": "places/ChIJQ6MVplUZ2jERn1LmNH0DlDA/photos/AcnlKN0-5wgxVBEAmO9YuG0ns857ZvrE-bQA4PeJadN7a5OTiukabVV-YDCYa6nHxyaQ6xeVZqSoxpZc7_IZzZvdaLQ4YbSVyCZEcSc8iM0sMv-8RQa0uY3NwvYLBzJgQKUCpFY4s6OM1WqqoOEG4dV8DFWfwrbqvAwEyNCqbDaS6OimPa3f9QLlJDzKAv00QyAE1qNqWryH6vLfS460QiLLtDhauOciweI-H6XN7g9HIwuQXQUNudflRzvb8LDZc4aKkWJ2p-u3bJJFvGXPzYiA7TVZD0w3BgxZ_vrLv8HK_vwUgD4YCYv3D9jBWsIni0vXDa3u9aT_RaMVdQkrsehxaQkwHAogzNozrjt7oDXzTPo6uemMNRByTBlntSWeKbbAMUq-rF1JpKQEuvEfJBWCXIbcppYTbTMbBq_Njrs4gYFrePga",
-      "photoAttribution": "Peifeng"
+      "photoAttribution": "Peifeng",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Outdoor & Nature",
+        "Family Friendly"
+      ]
     },
     {
       "name": "S.E.A. Aquarium",
@@ -2566,7 +3241,13 @@
         "Sunday: 9:00 AM – 9:00 PM"
       ],
       "photoRef": "places/ChIJj-3Cq_0b2jERJv2MBkSVsPQ/photos/AcnlKN2pWzLKYsktGhlJpPuM9NyqVpY1shFZCujXj_rx3DGb5jubHyaxo2KE02vqkKa9KNzDrrSfM7P9NrEfzIg4pxoksP_8Oyhjnbr_iSLPBRic4-PPZGTot4ueNef7l-ec6Z4TWsPmcviXJyqJNtXscjhq1PU5QbqTD-40DZ2OCjDgzp9V3TbgPT6wmbf287OQzOy9faLv5IS9HSD7PLavzWn24ZXowzVI8T7A-SHOiE3aVg2pX6W6qDox6epn57dGcfAY99m8dq5xrxuXZ7oqD5rb36IhuY9u2B0uJ6d52YCjMr9SmACGwhUNifASv2GTXT5msfqxuvv2PJ8z8LR42ui1Fd2Qy-osR6aZwMohiRMBZbFpWzNshHLQeC6HwRuwWD9qhxSWJQfjPczuBI4WrU7J0i84Gr8tZY0uHm3wl1I",
-      "photoAttribution": "Joe Yang"
+      "photoAttribution": "Joe Yang",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Adventure & Active",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Sentosa Beaches",
@@ -2582,7 +3263,14 @@
       "rating": 4.5,
       "ratingCount": 1485,
       "photoRef": "places/ChIJ_dMhDKoe2jERLKH66wxWO2M/photos/AcnlKN2Xbvn6N8HQp2_T4ClNha-9wti1xZje5j2HRtoZRyOKpHOyU8KKTLvSr-23QIu6Lre53uH0s1IDiNd3f5lIihCYZMuHy2hQqeUJ9usnmZVTzJKNiZqdYHME6cmlza4TWVJ3wOA5zQC2E8lzuEAnjD8Y-84DFKpTbv2qx3hO-ac4bQBTto5sKew2PGifdu21qFRIKuv05i1Jg2m1UZjQ_rBsHMESk_q1zvgHkg0uSqN4maLLzpNkTCx8ebeDKKKhefPM-D1--xWj-dDOyG4iPzfQC1go5dV6d13gNan_D8vS8cZfa_RNromkIzC4XDXoHDJkG0FTh5ftdJa48NlWqk9KyJ2HwK-EghtnOq5ptQKDopjnAbYYuWPnkFwR-iq306uO2hVf_gtkl4qzJiQILS6JTR6i8p3bPk5BgSPKXV8",
-      "photoAttribution": "Kaptain Kerr"
+      "photoAttribution": "Kaptain Kerr",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Chinatown Heritage",
@@ -2608,7 +3296,13 @@
         "Sunday: 10:00 AM – 8:00 PM"
       ],
       "photoRef": "places/ChIJ3eg6SXMZ2jERCxutt4adUyY/photos/AcnlKN0luHIsFMSU1PG177n6adWS__O5Np8kG1gzDsOcFCDFGaM4f1KP2e162kQ-ipA9M3E7xFz4-adjXo8caAisXz650hZ9QG8fsF8nyRN9OzE7jM-r0jMbYgWVX6x0Sj1-X1lJDe-51ug9F-I7bRv72QioLf2qp5bvnHIyV83EGb1U3PpsksAolds1qZStk0fqZRcioqotNTLrNG6TYqY0gZqgwVgCb_j60hirxYlN-WXJ-olbd1x6f47Z3ntGLvfev-RgBZ_m_0Uhq8tRPMbatALyrk2AbihiCJnUYbLflD8vPg",
-      "photoAttribution": "Chinatown Heritage Centre"
+      "photoAttribution": "Chinatown Heritage Centre",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Shopping"
+      ]
     },
     {
       "name": "Little India",
@@ -2633,7 +3327,13 @@
         "Sunday: 7:00 PM – 12:00 AM"
       ],
       "photoRef": "places/ChIJo3WI6o0Z2jERpTdJzN1gGyI/photos/AcnlKN2YSbjgow5TZdbH8ERimA_fv7QVCOo4GeaYHxTOWMMIxeuGweXzW2iJJP9W-bKs_qY6Rb5qAs92Orpq8JzrT8SFbJmZulzuWnZKOD4RaNirC0i6S9Qdb3vFB6hROZZHj7vkrbjppfcfzfWIkVt2TcvoisVr3Y5Lq90ZN0HAFf0txDdDrUKyfZzVpACRtoEAEYsXXyE6pHetIzbbY3WGPdbffPMhP12Lk5Ox0g9F_FFTIphtcwGVNvrHIVx-UW_O0521yC5GD7io4FqW_SnLcLz2g-crGRO5vuPmSS7yXxYc2jDb_fYRbxRQNcIV22fsNEgj6sRlpogOSm0s8Qxl7oDkAiRg0CIgK1uahad36qp71rB6GslBRSqXTQSjAUxzmLYlu9HzSGy5e12CDFlJ_nxHFbIg86ivpstRAcNUad8FcMUy",
-      "photoAttribution": "The Everthing Guy"
+      "photoAttribution": "The Everthing Guy",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Shopping"
+      ]
     },
     {
       "name": "Kampong Glam",
@@ -2647,7 +3347,12 @@
       "placeId": "ChIJ18kcLbEZ2jERHV-sR1RGyZc",
       "address": "Kampong Glam, Singapore",
       "photoRef": "places/ChIJ18kcLbEZ2jERHV-sR1RGyZc/photos/AcnlKN1P3rZUVy3820IJuSe6-q4vwNxB9Dhn9WdM369tWaLLWceT4tMnlFKUcLIdvK1UZ_g1yokOYLiX5KLiFrSdKmI9DBl71MIACr0Vyrx8v_qwRqcP-peDTg6ozzzWgDHs7BEnaBlIEMBRx4pQOj-Y7QEEhbw82uQuN6h63HGiDC6E0ZRKC6-cvTmItxn_vlqWsg7kJpoaT6bpIdgLZ9S_IKxNVwVCTexg-S6F0QR8Y9cvkotdSejO8zV0oczvVJXQfKYnTCRrTxQv1xGrmV1msZbjJ0YhQpBUFLRT4SnSjCzGE3ug4jp0Wb3XA21IAR0xym1rB7xxtu2wjmGNO4tyb2fPcTWGaKO1hngQgLXwjL5Z9Ygrc_8zMCSirL8pZPSqnHEnQ3mf51iqc9-f6KZWO9mMo1gVZgV3W0bo4uF70eTmSJI6",
-      "photoAttribution": "Shaun Chai"
+      "photoAttribution": "Shaun Chai",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Shopping"
+      ]
     },
     {
       "name": "Joo Chiat & Katong",
@@ -2663,7 +3368,14 @@
       "rating": 4.7,
       "ratingCount": 202,
       "photoRef": "places/ChIJpy8qfRIY2jERNG39ze-UZ0E/photos/AcnlKN0L4wiwATObehFRZjhOhb-VIm72Edqru73RLX99CYLiZrG-Q76vxKOBN3vC0jEo0rVKCYVVZ6uudlW20W68r5aAMq5DInjUFDoykDJEyUN4DuOOwxVieHapBZYN4o_dNloWCihATOJYQJmvTeI1b9m1QHbBvh16f6eTYVT5OL3QMkloKv2m8d5__bWH0IFWs8J5G4x8FoLdkhe_oh7u6D13fqQGMkFwOMtc-J6hRgP6n8w5jfBwSHTg5_nq7oVo25BM4b4WF-SRjfA1RF4cPxYK9SwqvAiRedaLkRmCa1yLvZ9dxhJbfv55wtmJNbXoO0EWn45WPekf79GsLNuHVMUPRM3-Xu2WK-Ix6Oy-WEzD_Yo454-p5m2yprju6S-MT_sUX1ut4R6mPDj1G-jb9rTEc74Lk73iUHaVusz-CmQ",
-      "photoAttribution": "YuLei Liu"
+      "photoAttribution": "YuLei Liu",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Art & Design",
+        "Shopping"
+      ]
     },
     {
       "name": "Clarke Quay",
@@ -2680,7 +3392,13 @@
       "ratingCount": 45409,
       "website": "https://www.capitaland.com/sg/malls/clarkequay/en.html",
       "photoRef": "places/ChIJnXwAOKAZ2jERAs-MHs1aDgI/photos/AcnlKN31psW8x_30brds83cNc72Ra1wk8weoQXZ_y2BywddZnUYrUdg4uUWIcOT9kn6tbuSDF74T_d2VmqinPkO0LxhZStM8udrhJCgLsEwwkLvszJCnxRwbXccasck00sRWNmRr6hf1VG0s9Huw5zdyK9gZoeXSiD09V3qJ2Hg9UGj3VuwUPFmpXdbX3pTquK1FaUt1YPf-0m2_cjkMXvZWhpgW4PlD0-z9Lgz0DfCpYL0DOibk3RNDB6q7jaO2023F_2_ux3tFMPg_C7S0DeOSOPKM1pPifsmuUI_u4GBQrxN4neRuax8Av82GiIOhqFARY7jHTG4zwJXzlY5q4qJx7j3oY1MT-rwiuxSw7a0DO8BUpfIWEZvV8mL2Ij2-gSNoiWBeTZ-N_vUNQBG6nCCGx2E_vvyXtZsa5ms0c5iQDK216Q",
-      "photoAttribution": "John Hirst"
+      "photoAttribution": "John Hirst",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Shopping"
+      ]
     },
     {
       "name": "Boat Quay",
@@ -2705,7 +3423,14 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJc0OGMwoZ2jERDKgZE1sdjrA/photos/AcnlKN1PnkcfvdvLU4vnA58aDQCNAW_Jk7uk-pF1iirHoDyGhgcOYqB1c1k401dCbB_M3AoXbpr1SkmmyD9XtUYnIXYt0yaCaYpEygS0ZUkWRZw0BFq75IcuJxud_vLYChdS02I2KrKggdekoP7WlMuRi7bx8gYvFdAt2AWIKdW8U_IEl9zw3ICS3TTUeYUh0L8t2ksh8EIEQzxBCh6_9RKhVfDYE_sAyQhldt0lgmO7G6sOXl_VrE4HzXy-LCeBHAV6EnKhDD-2tAz5ZnZFCjz_mgFXbwmaJ-1HagD8PzfpNYoh32medSixtGFYIFlcWMIaOi0WhDS10iIgZ1vWZ8-5nXpulLupjLci-cHrYbCzmM5nA5xv6o8UXXrrkbNO8MRzCTreKgS778fB87DiUSac1oIWhEEjgnhorA5mliNPHWKtvkc",
-      "photoAttribution": "Marcel Heinßen (unique Fuerteventura)"
+      "photoAttribution": "Marcel Heinßen (unique Fuerteventura)",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Shopping",
+        "Romantic"
+      ]
     },
     {
       "name": "Raffles Hotel Singapore",
@@ -2722,7 +3447,11 @@
       "ratingCount": 6133,
       "website": "https://www.raffles.com/singapore/?goto=fiche_hotel&code_hotel=A5E1&merchantid=seo-maps-SG-A5E1&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
       "photoRef": "places/ChIJwUTKu6UZ2jERwt5ctkU4f2Q/photos/AcnlKN0tWceR2f6s3cVyZ9i3UmO_Id1ZG7_FLVLe8oKStPNpahRjhPZ_zvr_ZkPN7eSvzmg_nNAQhgSpXvEZVqpjNF7wNfqIpA1oEJIVVU2a_h-mxtCQzFaZiIanschfTuh296ziHAmzMPcWrdUtod2LXuUc55XOjH1gEHuHYGtaZLFnDYNyPONCnoKesb6cafKq8ZWdgYotCc-ZPpMjzd4u-uipZU1tiltuv7zSK_giUpUbeR4mdQQJbsBt0r6ihnUf_RNdkTPNZk_cE7VJZ0EWQGA-wId2Evcko7YVnw0wQu1Piw",
-      "photoAttribution": "Raffles Singapore"
+      "photoAttribution": "Raffles Singapore",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Peranakan Museum",
@@ -2748,7 +3477,14 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJWZX956MZ2jERIGdnbs_SgMw/photos/AcnlKN1AQ_eE1ujnuS4lhb-eY6M55yi9d03XQGFt_dgtr8F0rCiQLI6v-TRsIKC0RqKi_pEEppZGfNduuD5ntu5NHGzoiJ5iex5IR0SA_RpolMukhsA0leuHJ9nkk12CC7HoIg_crYmtzV745a9F-xJoPEK542PjqrdZy-sv-5ys2scO9pXjNPHQVR1SyRYqmwMgElKp0pYdk3PqIsbv9E72gs0ttvu-prTc7GRbbj6UMkb3L2PWt_idoxGKYWE647tPRtagDEvLPQWzlXqo5UEmqLiIe0O8SC_9dWbxp9Mbr86Ipmpp9tiAiJUWLSNtCutcjUIYEjnW6-O9PPdk7aIb8kCfQUi49HqfXkR2exKPzv5IWAq4A_84LRwV2j2nYPAttYpZIXdMYK0PKk2RS2BYSv4tE2djT16K65zn-RYTjoF59JF7znAw6ay2SopvLtgt",
-      "photoAttribution": "Wittapon Jawjit"
+      "photoAttribution": "Wittapon Jawjit",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Art & Design",
+        "Romantic"
+      ]
     },
     {
       "name": "Asian Civilisations Museum",
@@ -2774,7 +3510,13 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJoZOhmQkZ2jERehLfvKlsoCA/photos/AcnlKN2Xtc8RdcNAoAbxawFDi7nFJi25zRoxOtKXB2ReZseEq2uuRVtD4HX1YtlVis5-08qriTBuRqDAzEWLXHk1lWoRecgAzlFO3RPTPqQpPoZSQIirNawXgdz8zOiWMWuC_oRNX6B5D70UvJ0VTzSFKtuluVlLCncY0vwbdte1gZBjEDsax5F58sycRACHviL1WEghiIGbRIE8PW8KlEgxNUrgiLpqHK_P6SaIMZT1j6zRGz4HFyAR6xfAAR3BcNibT6XzVjbEQZXtSoeldKQu0aWyEDlb8aWlVal6odNnQPZz-sund1ifcjgHSo7E5sr0rCXzgkpQn_HrI3AAhW7sDPkkkxqLUgP5tITELm20buTOdfPNguD4xr3h3I_Bcr_eGiUE-Lq8FP3lbDRYxq2slSuJlSVexNtKL-mVOUQNL_Uyd1VZK83f6TU_jvhcNGyP",
-      "photoAttribution": "fbelpoliti96"
+      "photoAttribution": "fbelpoliti96",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Art & Design"
+      ]
     },
     {
       "name": "Singapore History Museum",
@@ -2800,7 +3542,14 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJD1u-EaMZ2jERaLhNfFkR45I/photos/AcnlKN0TyDRKX7HLkQSVTHFU5eceuDJ7yWy2Kb3LcEPXYI54eCWaB9w-0Af6IT-J49MtzSge5F1EOnDOPk05kfYvTiKTkSEGflrajAwylXhV08lr44-WN0UW4fo0OKzTeYn-iCPiZclxJy0_irZ-UVdLxy1MVOt4KSes9DKd0rH3-RtD1vUx6b-sz5_VS5ceO6053HAHumS80CDbrYIJMwbFoFmBB2kgi5-mzGaCG7MuVeYWd_eDT1YYZgILI2vSnaL4BSMB9_OdJr8YduaP4u37Puas_ufr4visoJpxyIAq_sphWce1-TVq-jLj1ItM5k144XnkW-sU-KxicdjS7n1hASrC2CdSlJ2xUqwVvaVxiUB496VSzlnhECko63o9T-mRrlVd1UganmOPcpxqSUE6Uv0yflxXEmLvViviAg_JL0mJZWw",
-      "photoAttribution": "Khalid Ali"
+      "photoAttribution": "Khalid Ali",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Adventure & Active",
+        "Family Friendly"
+      ]
     },
     {
       "name": "Sri Mariamman Temple",
@@ -2826,7 +3575,12 @@
         "Sunday: 6:00 AM – 12:00 PM, 6:00 – 9:00 PM"
       ],
       "photoRef": "places/ChIJ0yjU0QwZ2jER6gg0ImuCTRU/photos/AcnlKN2MZGF-vxdLe6JCzM-U2R4fFf17kriCt2OkJp7KII3FDMK1KQHq-UTtwdAbqPp4ZNqj_yDOobLp_pBN54tBgQ-aa8TBDPoDOwow8zTcfN8fDakkKIGxUd9z87j6X3Xpe_T6tA2t0SpSqEuZLmHvopMXF-fCTW6KENaEKngX5rs1FJ5oTRvs6OMGQ8fnWPt-VRgU1-xTTmi9f5ZP35_4HRNa6EW3imKYEfE3q7d_lQBNYLVZmzIHJX7upsEwn-IqYTWNqokDTTlCUlbbGHqzPqKkhSfPqupIAsrR7_XHy-LkwLPpzC0VT2WFCsOebUCKLj07unvxBKJiMXWgr3Xwt368k7v6hL7tVZ6TBgSli0GNtLHJH97-gpiPPkx1jQ48lcMzRC98oTTdmhbE1MAqsYXc0FBV7er0MvUp6ZCtuMxqPsf3Xs2lw1VHMrnZjRKO",
-      "photoAttribution": "Jhonky Satoni"
+      "photoAttribution": "Jhonky Satoni",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Cultural & Historical"
+      ]
     },
     {
       "name": "Thian Hock Keng Temple",
@@ -2852,7 +3606,12 @@
         "Sunday: 7:30 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJ9e68CQ0Z2jER4G80iFVcJgo/photos/AcnlKN1-GZczfTWwnPwpEWRSqMTKeu59-buFrD1XLI8iXkJdDSlv4vn2zjACBUMwHDCXhYWh6GWc_RhAQA8XvwsS_R_oZm02zADHHnBxRrLrvg-jFEL16nvxCaEY2zmR5VQum13O1Y6WQojvPSiIiwRYgyJd2KFZkEQMB7CAJUwPfPQ-tNjYuEygouZI0To1h6B-B1nCnAuqRV0HnuNaOvDGiKCQT1fnWtZod6bylQTTKcreeyeCT0VzqXcnFtLuYlgwb0xnyikbr8NtsTjjtkKjLFL8S7LznwseZUzqQPCCeAyzwAOsfpN38aa7XIOZBRb1-iFtSUAE5MPP2XdbEShkFKmNprJg--Si4C3ZPMSjmZOl6sgFPp_A0fTHe1_XL3-Mvvg0wByHX5w02v_7Ysda10JUGnZe8OuM0nfeymmM0Fh1pg",
-      "photoAttribution": "蕎麦殻文様"
+      "photoAttribution": "蕎麦殻文様",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Cultural & Historical"
+      ]
     },
     {
       "name": "Sultan Mosque",
@@ -2878,7 +3637,12 @@
         "Sunday: 10:00 AM – 12:00 PM, 2:00 – 4:00 PM"
       ],
       "photoRef": "places/ChIJb6xq2bAZ2jERE1P6sVKtofw/photos/AcnlKN2cS0J6IABhfwSEQ6cFcsVwqy1tk3Mrqou5N-JXf36FG8WrY1CJsVVoVqli-fp-2F5U0CKqGCBYwGT32SRrfA4cQc6CP2vdHWd68B1ctlriN6t-YW_LujVeOZXKy1RfMFDNzGrYSlLp7008XbfgJiqfycGucTygnBSmSGGtTQ-RMzRFXclB1C5a2Ru18qPtFzQ9JTP2p-PPnnBcu8GjiuO0VXRq4Gp22xJs_5fPsASP5GsaHqHq6stDVnxzsHQY8YMkKK2wrnlKI4kKXi-Gu6aBxHbd1hwnt33GbOHN8b5lBS0v6VHbo0TPKfKKppEMMw72vVJ7iT_kVUlclRWUp3wz52PEkjdp6iDTu2inZOBpHzY9xamNLVZCcwv9bhQaPICdADsptvtb7kpkQ5xLVSfQ9xB1GvXyByn_b3kJxubnd5yP",
-      "photoAttribution": "Nguyeen Alpha"
+      "photoAttribution": "Nguyeen Alpha",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Art & Design"
+      ]
     },
     {
       "name": "Orchard Road",
@@ -2894,7 +3658,13 @@
       "rating": 4.7,
       "ratingCount": 1852,
       "photoRef": "places/ChIJu_7mSJEZ2jER-vT-Nz_3mY4/photos/AcnlKN2ukO5Qn6oQO6mzNfKf2XTy-dvncLYUh25RutoWdhUSCpfETIJ2ifU6kY0fc97L8eTuyxSq0FztoTm7aSZIUiXmfUzv4UAHz8fHpDcS4UIP_oT709y6gEXIQ9QCK3veBIdThRNXToKwQ5VoZvClBWr5CPDpa6jIaqvuSh59ycuZ-eDVM439201EUBiZTMywu8_L1Eh9UqyfEkMYTjKDmHcNuqpVntJeAF5e78jwx0He6xKWdXhFf8eGT1OQEL0NvYFE6z8bToYQjD5Y_VnKADLLJs1ceZT0kfwtyJxgtZOU6eGvUEfJKbIMFaRR-jRznKtiB0X_PXQLIdBU-MN900Xply0U7FG30CIQWiiS2vtwZNHr96yqB_2DSEpcSq8n-F-MgM1JQFpYjm5f3li33XviPd8aqe_I07cCQ2T7BMMGMX4",
-      "photoAttribution": "Pablo Duran (Pablotrotamundos)"
+      "photoAttribution": "Pablo Duran (Pablotrotamundos)",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Art & Design",
+        "Shopping"
+      ]
     },
     {
       "name": "Pulau Ubin",
@@ -2910,7 +3680,13 @@
       "rating": 4.6,
       "ratingCount": 988,
       "photoRef": "places/ChIJYcYVP2I-2jERQTiBy40oT6w/photos/AcnlKN1n8dYQ13HlgSoOpMWr3HsJEujVPv9-fe0I9rxubwgJKRDMVNcqxOOLjHW_bvZa8-zCWLEG-ZWbVfjMlRJpSsu2bxP6JbAduthWVscBv31DauSzwRFxzxvwD41VmlxdOZzHrtzlqULv3Z5xEs2V9Qnt-y9Sbczq2pQ0AqfLRi6SYeB6N8h0txbz-G9svNBR5MfzRgzRiDgzWne4n2TmpHBqCrs4r4SuWAbxt0EYnrsBgmhx1BHmqLug8z-DgDQjdeTrjNH-qpS2L9apOm9OMqxVZlS54x5P-YvF1-c3nvmeDdh9x72vnjO1_i9z-kzgu8SThHy9UAhWxAKjHQBS9l1xObxv3nfOKG-hAnoQXweQUYxikfIF8MCnqP6kxY4Z99JZ23xMP9RTdu8P6X4OjZ1WPrzzRBdK_Po9rl6t1Xe5--Lm",
-      "photoAttribution": "MEGUMI NAKAZAWA"
+      "photoAttribution": "MEGUMI NAKAZAWA",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active"
+      ]
     },
     {
       "name": "MacRitchie Reservoir",
@@ -2926,7 +3702,12 @@
       "rating": 4.7,
       "ratingCount": 1454,
       "photoRef": "places/ChIJVVRNg0oX2jERxH0FUCJhoz4/photos/AcnlKN3JhVKpscUayPYnSybpVAbrlzGyMEp5vsIlZ8SzNwmkpNUEugl0N6JElZQaY-r4LbpiDnQ6gu6l7K_-Ig0LmF3pWudwwEAtI7O6Atcr1_R5NVRWGplDBOBnnaqkOmgf2dlj9biNjgpJgZhxzFgOsom_OmntVIMQjMtn_yKouP2bzkK7OwpBAzscN3TfsUDlyAUxgXYoS7sMIILzvZ-T2Yd97gV_G6h9AzSrkK8ttDyfkOqo_pO4VZO-zhd7Pw421M590vzv25tn9mOw8qAwy1fFBgY1kfeSlzZBMA1ocrqujCG2TvbyfclW9WZSSwJNH1sWj_w-UUwG_GeZiAnHqz9jTNNwx3nEL22XtHbuiF6QKPul-162pmF9HHsredckKTfeosSOghg9PxoDQmtY0zRk6BCjP6bThXQdJEojO1sMObQ",
-      "photoAttribution": "Choo HengHeng"
+      "photoAttribution": "Choo HengHeng",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Outdoor & Nature"
+      ]
     },
     {
       "name": "Singapore Flyer",
@@ -2952,7 +3733,11 @@
         "Sunday: 10:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJzVHFNqkZ2jERboLN2YrltH8/photos/AcnlKN0kWnuLy1PLWJcVE2HSEapEl3RYArEqatth2AZ8eQ6TzjzmaSZC5Id6qJR7GMlw6Dfu9tnrL1jx47c2NDwGmfFSzq9DrQMdhRFwnbWtLDU0FBDEZ0S9SUVmQ7QSclcwTNkFCWI8QEr52LM4X8dSnfgV_GX6ZFSpHffqcfkmCRTIjAJWk8uPrzJvYHtNqIntT67ocOaAUQki0jmN2qLxORNZgGftWL-iL6TC_hLqSU0cmi0IU9cPzW_5NRWjTuYyaMY8gMP9zxhl-3vEuhpq2CL_RJq71tc7bjKSoP99edTZQKhblXKoK6-tN_qZlcuLjbzk7ggFuIpc0ylXhUrX0hjY5KKIZVCTHvawoJNbZLuTBZstE7V3ZnN-5uYnVmYzHCpqbZbs6a4hfaT58Xt9YNpRlmQ4VaDiHOzqQNrT_2koFQ",
-      "photoAttribution": "Kok Seng Ng (Paschen)"
+      "photoAttribution": "Kok Seng Ng (Paschen)",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Tiong Bahru Enclave",
@@ -2966,7 +3751,12 @@
       "placeId": "ChIJqSM3IH8Z2jERSQIOd4L_FoU",
       "address": "Tiong Bahru, Singapore",
       "photoRef": "places/ChIJqSM3IH8Z2jERSQIOd4L_FoU/photos/AcnlKN1SgtYyzMaP9zd1d7lZzd53YG_LFVoDMhx_EMc1D0N5iwatGpn3a40rSUeu5o7Kzz4AlhM-S4IHNBqDhfe0K3TpB7iOb9M3a6_zon8WKVIc4qVlJx3YcwpeMSk0FCz-FwpnSGYkhE03xN9YAEAnX0zAdQU6RaNYFhW0Hs107ywRmMTMpypl65QifBicPZZf9VuRHJ-_BuWTG096ODncuk2rnwgeEe5x32NmfMitPVI2YFGyUDT67qJuHme5gpsR7aL5qNw0whd03JxQ7Z4OtOPI_FDbglIj_AL11ghsHEqslJ6y5LIHxXJvEIXBOuHD31X5o6XHJE5PrI_U4JG-adZcMtCwyz_wRtxCIgEr0ZJG-_H4huQX18skrCvih953efKMJrYmTJTLbRnQVUco10rysYznWwuH4VaNSUUQMBqJw9HY",
-      "photoAttribution": "Simon Tian"
+      "photoAttribution": "Simon Tian",
+      "tags": [
+        "Cultural & Historical",
+        "Art & Design",
+        "Shopping"
+      ]
     },
     {
       "name": "Bugis Street Market",
@@ -2992,7 +3782,12 @@
         "Sunday: 10:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJj7TW9LoZ2jERQgNlXkKhASQ/photos/AcnlKN0Pl5U6e6iLQJzraT7zOl33Zmj3_o_c4LE1o1DrR18jxrKZnOHizPo8qXfIa9txRPMrHosGPMg2P_unihBEQ9MegR3t4oyPb6qLzK9XDjhboGb-Lyr5nMfask3cw16FZf0qzgxLbYaW5q74fXTUCJTpQR4afvhb5dIKIrjwiTgXScgYOU4b4jOvchf2bwz8SKMpEgAZxrnzgrGN0HOzcqS6BK9PJ2QyioF0Ih4HGqKpK99eLaVJEhmMfbC-WPS38HvyXSfj5NWoDeIE8oEDF7xMi4ewObKJk443vIdZMDj10mxkZLK0x8HF2AtEwTIO4B-aX9yzP4ixi-NTx1Qs9vGWnutPrvf1Rzgc7hpZ3Z-T67FQ_-yPTvlmBZML7dlN6zLWDETHjchCDElh377pDCltdr04zEoVCoFOalAGk-yn8w",
-      "photoAttribution": "Danny Hutagalung"
+      "photoAttribution": "Danny Hutagalung",
+      "tags": [
+        "Budget Friendly",
+        "Adventure & Active",
+        "Shopping"
+      ]
     },
     {
       "name": "Arab Street Bazaar",
@@ -3017,7 +3812,13 @@
         "Sunday: 11:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJJfndHLEZ2jER5g8FkEJ869o/photos/AcnlKN3Gnz0TK_RqejxXNpTS-mzIsUvzbDvy8cm1bRmLhp4ytWXav7-uO8eoDvh2BkBYILyS1doiKQD5clixEBhyuCREZwJgp1KUTGOh3eaA91-dLb--77tim-NeICUsxgxEb6ABbBogTz3h8hlKkaQ9K7SxaSyzsKssf5J7ls9qVIoGPyPpHBLYkDknDkLxiVM4NwBI6CzR5ysGpMm5BywVXMEvOqqRPOVJp_QhBkxe1GSbjd8j-iaElBBiwuVFMsFM3DmMcVyW6q1ZlnQDPcHxQpeybEw4t3yg5pLzB57vpcySnA",
-      "photoAttribution": "Grand Bazaar"
+      "photoAttribution": "Grand Bazaar",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Art & Design"
+      ]
     },
     {
       "name": "Dempsey Hill",
@@ -3035,7 +3836,13 @@
       "priceLevel": "EXPENSIVE",
       "website": "http://www.dempseyhill.com/",
       "photoRef": "places/ChIJr84_RCMa2jERW466IPXbCec/photos/AcnlKN0ghvz6ZxQAPE-7tM_v1Qb16pUQv8RlLX1VA4TiBCkkKyl1r7xXUKezahxNdYYYRW1pn5dKkZO6aW1Ww6Zt--xV8XZturELPoAhK9Pq65o8PJwBrn3iDyo5m8Mfy6EV-54u5hfbvuYj_YlBn5I4a5pCKrE5kkdwMkjMDYDMhKX0zQDcIcBp0nqec1mk1eLrqSpATmwClbvh9rtQICKlqijyTPkDs3s6RtPK3TLukKxx0IUSVapeIdk_9ouJHNUoVIJ_1GjcYOP_vCdt_xVFngajqxT5plQOhxT_YDBXtG6A83n-AwBfLTXn0icKJ5mO_IJl84tFaSfYVejQn6GCCghkyjpdiktqynpkilLRtKEXYfyyYYbwBhKmRvFtZ-Ch1En6lZsHtXg66TAvxERifrYhp8TKPdbLCJpnMDjaWikrSMcB",
-      "photoAttribution": "Peggy Yap"
+      "photoAttribution": "Peggy Yap",
+      "tags": [
+        "Photography Worthy",
+        "Splurge",
+        "Art & Design",
+        "Shopping"
+      ]
     },
     {
       "name": "Gillman Barracks",
@@ -3061,7 +3868,11 @@
         "Sunday: 11:00 AM – 12:00 AM"
       ],
       "photoRef": "places/ChIJd-ET2cUb2jER9nfWEH4mCX0/photos/AcnlKN2Q_JTr6ws1BZ7jdBzxkIsXNNoeFKV96GU5Y7NsyBCYGwpVKUrLCJOxCtGtniYtwUXHgEEqXDoZ6SKNAC56FW5Mndx8w5pbSpPM40Ssf0eUpq7a0L5iXCr30avYSEAOlkihyf_FNzxLFPNTRF5oeHdB7OglZTOi13YZYcv-VT8RbaeE4JwMwzQr5E12DTlfMgKyzlOXcHQ_oiFjFAVKxjC1qG0xyd46qMCotlDzzsottCWNrxsTWS5nutRptd0v1v9c3_mLgWMnNfZHaF6ETlUMMSuGkUFjaeMQaoCOtvE9gNz07yeEasDbfZ_v7Gz6uI8XobrbQQ93VcJ7PZK9lOK6LJr8upWC2c8ZEWjeo95ShOCU0GokpPNUbZmH459GkwUV8a28GXH4rsZlzYcZmHpvygL0oBdPUXbryeKRbfI",
-      "photoAttribution": "Eric Eric"
+      "photoAttribution": "Eric Eric",
+      "tags": [
+        "Budget Friendly",
+        "Art & Design"
+      ]
     },
     {
       "name": "Esplanade - Theatres on the Bay",
@@ -3078,7 +3889,12 @@
       "ratingCount": 19997,
       "website": "https://www.esplanade.com/",
       "photoRef": "places/ChIJSeUa7KcZ2jERNVg2CvmlVbk/photos/AcnlKN0McNQNKaPK-HY8dzLcrcjbrTqJbCeInUZ5AkwWKATYz-i-il2FEG_7ZiM-hLy0456nB1UFtca9ZjTqDqgNK62MUNZ0Flp6rPuWD4ZU1j0OL_emqCHToK67EekkYr-wsJtW-FECV6X5yWdwbAZvyEY8jKUIGDk3C7GbyYM7oLN-h9XKNtqfwjQV5OHczDO-LxRQ6w0AdNgtk1JCiD_MDj2rodjtipLIWGFIuHcWMr8h23gdwSIOAu_Qdcd7z6URJRXUkTn59b7jdJRR5tKP-oNoqSWhuXIuT1vhvNifYB5yQumUIcg-42JSsFiqh2FkoQvmlcHjsvoNwDMYsmjtV8BPmzIlGmIuw5IlVX7kBlgQ_drpC1L7sfb4skQj6IdHGSzwIl04KaZJnM78xclUSVzkA0BR020AfD0Tvu9ZVvDoqg",
-      "photoAttribution": "Shogo Sueyoshi"
+      "photoAttribution": "Shogo Sueyoshi",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Art & Design"
+      ]
     },
     {
       "name": "Victoria Concert Hall",
@@ -3095,7 +3911,12 @@
       "ratingCount": 2451,
       "website": "https://artshouselimited.sg/vtvch",
       "photoRef": "places/ChIJzf487wkZ2jERP3nJhCFBdrE/photos/AcnlKN0ujvhBvHdZ6MYjXuegJQBfI3RBLvfPOL-3y1wrfa69D0yA_x-VnnBN3d8ngpgKdHIiv9g9oT0YHgrhl6-NLLAjVoA1eNw4OYYAPAzKYhCVT6oR7PrCi23hYRgZi8jW5JpUWkj3_1L8EOI4-zdtujuxG5tTDWDs2H6AyyfI8ofD5YzfawVBXKw0zJcXldrvI06qoGResMq70WMSplw9KS4DX9qo5enlS3Y0R6gXppRVPKylRSeQ0mvN42mtDGK3hNLVXpyr0f43ioDAbFMkrSQYdh3vH6qzxX1wVxrMeRlVXZJVsMVKt6SETykyaU2hgVaS2Ooy9Dn3LlbZ0loPzuCjGnensJSCOsODAkTE3h0NKoMCUSiMiYJruJO1_a0L39ZgK5n03dxssWf7-yOcB2x0ygP-ObEFze76k3jExWgmEwM",
-      "photoAttribution": "Ahmad Sidawi"
+      "photoAttribution": "Ahmad Sidawi",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Cultural & Historical"
+      ]
     },
     {
       "name": "Chinatown Heritage Centre",
@@ -3121,7 +3942,15 @@
         "Sunday: 10:00 AM – 8:00 PM"
       ],
       "photoRef": "places/ChIJ3eg6SXMZ2jERCxutt4adUyY/photos/AcnlKN14Fp809q6fuqr0n0R_WXmb4AOmqUP_C8sWoe_vz16h6Z4MveX1WWAZYaFSz_tS4onDOeK2hV61YNU0RDYRMhwHWmOCytMQ4tyIp6VSy4KAVT9knymruBPpAQpI1Wax1KSnGU0rFTT-zVRxa_MVSxQqiBFn7kVIl38E3GPBFXaCRZwoPwovn7MQdU8ktnzghuZANUTHCEW4a1TiwIZ8M8JhDtDVWL6ukExhqv1H7sWxO5BYgXbYGdqoiO_SYwHTFA5Fl1vggOuDxoCvrgjirdRRuiOndL3zYXno3u8YNr9pUQ",
-      "photoAttribution": "Chinatown Heritage Centre"
+      "photoAttribution": "Chinatown Heritage Centre",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Cultural & Historical",
+        "Art & Design",
+        "Shopping",
+        "Family Friendly"
+      ]
     }
   ],
   "kidFriendly": [
@@ -3149,7 +3978,11 @@
         "Sunday: 8:30 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJr9wqENkT2jERkRs7pMj6FLQ/photos/AcnlKN0LEu4jkaJtnskOBHxIf5c4rlmWFO1VOsF_ukiIvMWbPzWA5xbLk-tIBIDliZKcUGXTqqG8e8Pk4O7ts3EpgwY3SlK3mdsPteZ0yaW9saYCbWLODGL_Tu0-TUWDv05QA_G82cY5HjGS_2X8zTxGlpgTFcFE2z_hjPmom8DJoUUn2jYKNYb51vN-ChHpdwFH8-uV4RQZu8Qo4AbwRGJoSiYuekcMRm0kHGNjgx9zbnpBHOMZFoZiwabjB28KOD60irXQSJljRodbLPn4XnRveQrCkYr8fHqpjxD5sCO-uMFUn9Ffrw2H698Rz8_kUK71lMaw_Asy0EwcfMpaJdDBZVnADTXnMHOq0zifwS1u9US_wa__xl8UCGUIwZabUyDz21UsRBb0WEdq0TrHbZIR1fpTqoY5Nfy_RDO152DOIdiwJK6bXsXSlwBcl6duPk-f",
-      "photoAttribution": "Amjad Shahzad"
+      "photoAttribution": "Amjad Shahzad",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Night Safari",
@@ -3175,7 +4008,11 @@
         "Sunday: 7:15 PM – 12:00 AM"
       ],
       "photoRef": "places/ChIJ9xUuiNcT2jER49FS2OpE8W8/photos/AcnlKN3aOwYP7Tc6o3XwTG-EE-6o3nTokaze-akZX-cNoYVjiO7aNA0owRSnV9SQSPFhS75-Lyiy8iEppK-KyGGgIv_OIOUeINANGGLnMQYLB-5CcVuwAr15Rl3_5mw2yPjfSpNHufBVPBhy3Yd7AI7crZE32FMJKDF7VTF0hesDCKKIBeXcMvJy33CnIfpOCvZCt1V8V49UxS8C0SpGwctyHhodCbrx3tuwRNJTp33HLnTfRw7cpXCMZLOiFbtSgVLIs2VnSLOP7cfGujQGg6aG7u-7URfFq5FLgHPRtI3B6LMdB2k5564VrtlqWk3wqPDf5H_Nab3YXqKck0o6mCnOpVmKpUgLzCNAMEcvwCf-Srxm13Y5KStJ-zRCBGjcMuxNJK5e7pZt8t_mcUkCaYHg8Af_zzHbdt19zRIDBzuH_F4STdM",
-      "photoAttribution": "TEA MY (Mii Baby)"
+      "photoAttribution": "TEA MY (Mii Baby)",
+      "tags": [
+        "Budget Friendly",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "River Safari",
@@ -3201,7 +4038,11 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJxZfX_9gT2jERknwK8es7IHU/photos/AcnlKN1wHDnMuLPFpIfAdX3Ia17jm0if-0bLoEBDKTi02jshYmZQfWV2vH3mAn27XvZnJRxM3m-lFydouPq21ROQl0F5pOFRY_pBQxOgZGBJNyzIWicxI9X_DB0lzmwi5iZucqkpO904vuGvSvGoVbsrVnMJKZZ_1CMJaJ9juomr6uCMSkenqgeO9nDBUEvk4SIK66-MF8rmP4PJK0p7wJL7L-1A03PdnXqHFTiEiPDzFg8nx2tvtK3DWP7g3sZAFj7hTtcGUgMFNmdsVfxFhymtzQk9xgYpTyXU2IoNQrfHBDIAE8mFzIqinFbSulY2hK1617uQn0QW0dUADk8lVKw1gcCD-ip-EuMb2d9jIGzlZU2oT4MrbadLnC3_aEeBnRYRdE80EkZk7ZP8Z2IoyD2-bUDmyOm-tlDfxNGcWYb53ec",
-      "photoAttribution": "Akshay Bhammer"
+      "photoAttribution": "Akshay Bhammer",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Universal Studios Singapore",
@@ -3227,7 +4068,11 @@
         "Sunday: 10:00 AM – 8:00 PM"
       ],
       "photoRef": "places/ChIJQ6MVplUZ2jERn1LmNH0DlDA/photos/AcnlKN2MsUw0uzCqLYOs8z-pRZhAXwaHQ64NtguJb0LstA_9EygjDsKKbaIqdEPHWbKF5d3nf680Wtni_jw6xKtR0v0hAV0RzTfXR6Y7Wh0BcBwyn6wppfSyS1YVWwKXN9EOhAQl-TBUajm38U3dHlvnArMBfm4y3Bz7J5WnbZCNwKLouLna6hG1udMDfw6kFSGzfabRL4IA82-LVSLm-jNHMwZrXPFJgtPC9_d9GvJPkLeLhWQwEaQ2W7ucW7GVVYolesasLkgtKEaJry2o9ggBlLnDXcU2BQ-Ldsl3WkqZAQ9YzVmSWd8hPb4Bzk3jeY66O6v6lFAbGWzUteWl8YAgsQoog7lg2D5JDlUXewQZ2-qJeGKZezzTCEevqBq2vV7PEx86lEvjMSaNpAMb5-s3pKvS-s_aCQ7V0_NxheLX3P3oYNZy",
-      "photoAttribution": "Peifeng"
+      "photoAttribution": "Peifeng",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "S.E.A. Aquarium",
@@ -3253,7 +4098,11 @@
         "Sunday: 9:00 AM – 9:00 PM"
       ],
       "photoRef": "places/ChIJj-3Cq_0b2jERJv2MBkSVsPQ/photos/AcnlKN0JLyyWK8gZTrk2dJmES1udBwcdwNIdDhzFM_Wc3N3ZXXkjWKKrB5I9jmnT2s-fICNl3t934SPzJQG2SM0FyD5jRh84W6ATAbSX_ROEbOlRLLkbUlm18jtNMWWXzQF9yMIiRjNBzIeiP8bxQ9NZP1FSHc5rua9WBzI8QLIgPz7MYUvl56dVvAaZPWu3GHTsm4E_ETg_1LIm5l23xrUxvUMogMJkKIhtxXygWkucaNth3fRUGeMKltLQvlpSTsxr213NFVaa6FCIGDKHcHLvM95-oYSSb7ZjmiGrmhDABGIcc2Bzk7HBzj1VBTqZ8Iqm8iNBSH_bZglzbNatEFxnz6RzTzRFDcZFQmeOlCgUtjgJskrSjpdnOgQrIeGZnusFF8nOoQf27_6u7WV9ChplnWvXraDFuhhu1Ytfomw5_s8",
-      "photoAttribution": "Joe Yang"
+      "photoAttribution": "Joe Yang",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Sentosa Island Beaches",
@@ -3269,7 +4118,11 @@
       "rating": 4.5,
       "ratingCount": 1485,
       "photoRef": "places/ChIJ_dMhDKoe2jERLKH66wxWO2M/photos/AcnlKN2-LdFS0Evr3e23N25E9dIWctlVBvH5XSgcEnUdOshtvGxgO__MkW-qh0Ar6dHEljLzGLeUh8nE9Xd2n4VLUFap8NzABhPEQ9DSZlEX9Sdu0BDSUf-e11SiASpZbYcIpJsSFM1ie1h83dDCfjlgEyIPR-CXPqSTgGlNO93SpgeJlesDwFBIoSmFDJdVrcKjROGD0u6pzJ2-AzzwxXbEc907EK1bjyv-h0DCPg0p7Pu4m5sjpr321E681yNHRaGkvUmhDUno0dhxsQeGG6Rf66neHbUIctl6TWC8fObG_A3QFyZauMd7k7Ef052IxRJkY6KP0MbVrl25Uf6e_TRy5JRBsX-nBLhT5ZG25BDfurhMVxPykocfHOjUGDP5-9yqUpCMg4pKi3qWMckFLpoie0it4EuMfBl8tkwhjYNNcts",
-      "photoAttribution": "Kaptain Kerr"
+      "photoAttribution": "Kaptain Kerr",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "ArtScience Museum",
@@ -3295,7 +4148,11 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJnWdQKQQZ2jERScXuKeFHyIE/photos/AcnlKN2M60CA4eM57N3_-1PqI_XOFZVj_vJeB-T_ezQ8dlawlVV511K96St6NMcvFcNcg3G7Luki94lhXVLdCDxmdj3Us904pGiOpzPFvn679OQrwONCSabBMfajAAyQPrXMtkqw0Nehd-J0MPllsohD-7Cgl77-kAKJeE4t2tl0-qbTfpPzcoyVTW_6mz6GLyNjU5vQeaSiZ972m-CKrFwFoBJLgeXZeqBsSlcmq2X4EWKM4sOkSK0stB1cMFDptbhv0V-k0NKrO0oeb3Kd592mbTWxuXoUY6dwZIZxuBqYyH_dNT56Th-oxpsSfqZdrWymzDNbn8kHf-5RupGjPoni0Ar-SQPAkOgXEGs-gVSE4_2r0CMLXaLOzlM8JUlxf9IIACdDfPcwzj8lsom1JJYEY4LjZEv5JoE0cpHWp5Yx80cKZO_uYmEh3AYtcSb-nudQ",
-      "photoAttribution": "Stephan"
+      "photoAttribution": "Stephan",
+      "tags": [
+        "Budget Friendly",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "Gardens by the Bay",
@@ -3321,7 +4178,11 @@
         "Sunday: 5:00 AM – 2:00 AM"
       ],
       "photoRef": "places/ChIJMxZ-kwQZ2jERdsqftXeWCWI/photos/AcnlKN0gFViuJPVukNoXmFvlVuKB8w1swfmtacWUyy9MQXbYe5_-UakjXhfVlCIoLkGilycLRx3vBzmbnIZliDKn3v8gIUu0ZVtUrInWP5RyBmen0zvJr2kJvXfXUIAzahslNeW-Y6PSXlr5Fvyq_57c6l2EQjXOVIcQAPr3pVXZdk3P_9Q3ohkNwvIxLob3VreQop-1LQ2LUZLeQCp4VFW5a6XKyQ0rcCc9pLUJoPZeF7JAJW5AzC8mloA1sgauWUrGA7iXXH0T5Es5iAC4eUCwk24FU3UQb46cGL1kDnSHD4bB8SGcVDouPLt7fWkxMEETjOZjmSv9_nd_-QKavs5qadBQ8dAhwXmKod6O3yq9Azi0K_p4g7xaVnZLPrCWH44nZZjOoHNRpir7YrPX_fVitLzIohba-2iAnj_Grs53MFl3jMk",
-      "photoAttribution": "Humanprof"
+      "photoAttribution": "Humanprof",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Singapore Botanic Gardens",
@@ -3347,7 +4208,11 @@
         "Sunday: 5:00 AM – 12:00 AM"
       ],
       "photoRef": "places/ChIJvWDbfRwa2jERgNnTOpAU3-o/photos/AcnlKN0FDvWOeW9dVAawOI2a4adbnosoeuMqg0HDI4RXyo4lZfAqAEyG36J4SpShqQFTiUec7MtDSFjtoOmujv3Hy0AyxOqDBHG1DUuGu67v5kypuV-VGN-bjWix4Gj8l5Gq--683F_Ghfc4sqBemjRKoYFKK9yptgM0mhARVkjuYWbQzyQftWRWyF-cxjw2N37nyRv9QCRdNUKAK-wZgSg3g24XP82dMhejerIKATfcCNoCztRT2P0pJmKr8SnDepa8d-GDYpddklQDjdcWqbTmpKU1sesmYHR5OFty0gMdWJcQiY8Yoteg8jii78_1gzFU7LEtPBoK0YnHpmlyDwvSA7IQ5e9Z3YMCdaU7AUSyQFgXMrF3tiavs9MFdL-FOnw_qZZYdkjlgnxyNtPB-gsQ5uxf5eygJJ9pPV1GxNbw1c35yl4n",
-      "photoAttribution": "Marcel Durbălău"
+      "photoAttribution": "Marcel Durbălău",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Singapore Flyer",
@@ -3373,7 +4238,11 @@
         "Sunday: 10:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJzVHFNqkZ2jERboLN2YrltH8/photos/AcnlKN0XoXFYQMG4NDycNzVQSOL0AUanqR_QnRkgtf-co4lkkkJYLYyRQrOcoK9n5tlk3deog5aDqNzmblOr8S0ydGSyfXv-OP9vuyECs6-Sk_FTl4mtAuQ54jirfueJSm_KEvrduzoSCZfi0YH3D56UZgvRMAJTM1u7g4jZQZtpSbkCRg9llnJeuix3YOg0n6WME2VIv_l9n6iX1IHHdddjyFvQkS21eo-FEpZ8ld5lrmepkeIxf4Nq9UC_nfVpBCQHOwutPunus8bKBDYim-5HBBNdvwJCAG3Wd6_SXrW53-zxBbm7Z8gvoCoYG2CFMhoPse5DQVlsN3-vB_7ExNixuKO5s-S-uYLn9Lk_bRXybkkrK8oiDIM6_WYAS87NZvn_y9IQt86jtvZO7rbdNB3i8fIkrE9M5epUFK405KhmwOJw9A",
-      "photoAttribution": "Kok Seng Ng (Paschen)"
+      "photoAttribution": "Kok Seng Ng (Paschen)",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "KidsSTOP at Science Centre Singapore",
@@ -3399,7 +4268,11 @@
         "Sunday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM"
       ],
       "photoRef": "places/ChIJIymCogQQ2jERSHr_YRVLD6s/photos/AcnlKN0Y6yRBnhke8hYqX8jjkhSI8bnOsP9vOrB3qad4JR7Zk9361sZf2x4px6DR8boMYlBGDrIU-IMI91Fxe7mYV9PUNwQapJU3yCbqrtwlKLSOYDHa56asJc4gbyIG3WtbC6oNDg9wRMSrRn55nc9vq26T_Y0iXJGRA3m0u3UwE6ijr-3lonPqVfBewt9rmBF15fCtR3Z4bbCHLswnLgYBdER7orjS6gkN78TLoL8yDbPb7NECpO1Mx-SkFUiXVw66FRE4eQ1_u5GXWqTSVn9E0UPhgr1JuaPVLkhbqO7c-IbaLg",
-      "photoAttribution": "KidsSTOP™"
+      "photoAttribution": "KidsSTOP™",
+      "tags": [
+        "Budget Friendly",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "Kidzania Singapore",
@@ -3425,7 +4298,11 @@
         "Sunday: 10:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJTfijDAAc2jERoK5KlVJtFxg/photos/AcnlKN2geLhZZ-H5EBkVskefTFOYenr6Mux0lAOYyhc-CxRdqUmsp-ygOCmUSoWXE7s3rOVmiXH3nOgy4Afzpg3CZkm1IEfjfd3wdh6FPm5GYfeY4Mtb2iz6nT3oir3uB1u-avsF6xl8ctjqkatYZJibEeCrQT2fiPsUOwsH5QpbZeSyL5Ysi-IBcdpyP5tB9fznR2Gi9xOlJIE4K0tb-EGQmaqaT9V2Mq1V0ZRckhnr1U0ts8MguuORn_hRiuJocbRBrVtjqYfqff6iSFfcsgvwyV83zkOXMSysssK2XRDAn5qcmcoTCRlTgCh-JfKnLDUGkTjqg0VBNn-8lrNyGkmoH41Ikx2hGTqQjsoezwFxw2DlJI9oraitP4eTxA7MyextQT9vJ5lePkdPNKRpTwaQBzmsNrqMeK9q4F-1j27e-asrGw",
-      "photoAttribution": "Tejash Upadhyay"
+      "photoAttribution": "Tejash Upadhyay",
+      "tags": [
+        "Budget Friendly",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "Legoland Discovery Centre",
@@ -3442,7 +4319,11 @@
       "ratingCount": 12,
       "website": "http://legoland.com.my/",
       "photoRef": "places/ChIJi5rv2msL2jERr2NgbMd_CfM/photos/AcnlKN0daRtX-qD1eG2cI6kKtwiH-3Ps3UjY76nXPKsCcmaJypsG-bbfC2av6I5bEaxryPiFYZhqi1_wGVRTFac3rqOX9gJ9HbcBBAucecUppVop1PEamMn48CLf7TM9EZWjbFvWyNM7FKkGuMzhIj1n8MmFlTrtkTnXWNVaU72Apkwf671as0OGsCBkMar8ru-MevOiByYIu-mqy3C_PD-9QhSPqvjkQBxdoBb8w3-OY1SDNwbDJDcXJm4dawhKe-HMsGaVx27NV3K0rADcLXk9wsBRyd0G5Ffvnf_EUtljB9Nn7dPhT_EGEqu0q3L7R3SeJWWcxK1fwHL5te4UUidUmfdAaN8b6HcJXqrm5PGkDtLRZr8U2yp219iv9pEiHVz7Ys5SAUW47FWKOBpzsR6K22l5jtpeOR7zNXhJAF21N35IhP8",
-      "photoAttribution": "Vincent Ng"
+      "photoAttribution": "Vincent Ng",
+      "tags": [
+        "Budget Friendly",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "Adventure Cove Waterpark",
@@ -3468,7 +4349,11 @@
         "Sunday: 10:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJS0Dhxf0b2jERAuG9YaPrYjA/photos/AcnlKN0_uUhB_yWVofuApsOTTmM3n1enHeEHBV0SBAR1H5z6yBwa8PW-EO3tq8hkC7c1RF3fuKK5ZCBCbCxnjwrGdjlonOjPhKWtEWl-KKrfDfuZTOnheyRao4NE1CBUwk3r8ea0ipjLAgBVJvw3A6ISsAVwYVy7MftxGfdlZC-l6t1pqkJosigERVGpVCDtk7CiJJK2p97FlNdeR7t1zl1jPqX9XHNkQrx-CxLBKfu5x5ZSynkixC8mmpranyMbKTV1CSyrfBmPDWi9FQLrs2MmP5RnOOXUwIT-L9GC9YqPIhRfYsHYArOp4GTBKfJvE996o7faKIZT_Byw7j5pgBX1yoQvl2KU4Ql3wFIG-XT6jLyj4AFJUhq5EeopqSauxCRLbez4HoN9ogMp5UE_trTDczrmnJNVyt1yYfcdycGkCCUkAqDfn_RoQbjlV4sL8E3n",
-      "photoAttribution": "Carson K"
+      "photoAttribution": "Carson K",
+      "tags": [
+        "Budget Friendly",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "Marina Bay Sands SkyPark",
@@ -3494,7 +4379,11 @@
         "Sunday: 10:00 AM – 4:30 PM, 5:00 – 10:00 PM"
       ],
       "photoRef": "places/ChIJOeEf9S2vewIRM0B9a06CKwg/photos/AcnlKN2PHcZetVvP7HX2Dq3110TRi_UTJjF9zb6v-ZFbubK37dvr-DWap7AkHFyEEtBA9vmwYp5nxDnnkELmuTgb7iIyx57MGWbJMERqkLqUQAuGQ4jxxLG7PB3L-J_qXqfYXoNeqI7szlIR_Pf9tsSIL13RJoo6IKbLSbti5zxjcDS7-QrD3naxUtZivTiLGvlNFflHUkAigBdk1ZJj4ZHF5uU_qDEqEz7W1Fk9Nk1CRdYJiFdYbLAqaOq_K_lLpK_1LeDVISl4XIMEhJfvypZ3MgB5U9zvU3ZEgEgjTWRDirymJlSihTxv7F_nTQhcw_MJYkEyOB4cozVFZ2iBoJ0pEZBVBpIuCMpe1d6mcnLjXAWPCj-PJw1c4gi6wSeHr5uSeEfSriCTvoL-nn0nUf36v3-YnMPHhdkvCkITRhIQxvU",
-      "photoAttribution": "Vasabi Chabe"
+      "photoAttribution": "Vasabi Chabe",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Botany Park Singapore",
@@ -3520,7 +4409,11 @@
         "Sunday: 5:00 AM – 12:00 AM"
       ],
       "photoRef": "places/ChIJvWDbfRwa2jERgNnTOpAU3-o/photos/AcnlKN336psu8sUTZ3ael7H8f5uKd_wicclXLAs8ITg5oxsU4p4wkZk5F5lVHDcR3OZ8veMtLYKMQ2Y7ExsvoqjNhB9MeSjebQh4MIuGe7BVAfZpEFMxSk3hhHdZbqOLGEpjPYQehP75UC-zZZFAxKdZ6IQRT9T3UWRnqbybg5hi8ZWx8iaeTgjppzAW3SAGj0CafzHYG92QhZ_MI2qDKA5jYEk9IJgyWRHeWPwdqup0XDp5igspsb2Gyy3xGaFGttwedrfltSEhQ0M9c5vcgmJjOzsYDeoyLG4gMddtSS9gfSf68EQLMddi55c_0mAqhu0W5x2reIex3unFQ3oiTyGBG1GGt6VKCZgceWgKm5elWZ59zA8ONO2LWW6hAgpO4EsBlx6rUBGQ56fYf9bKrCxhen7L9GVZyZUsr_E8d-Shgnzv115y",
-      "photoAttribution": "Marcel Durbălău"
+      "photoAttribution": "Marcel Durbălău",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Cooking classes for kids",
@@ -3546,7 +4439,11 @@
         "Sunday: 9:30 AM – 12:30 PM"
       ],
       "photoRef": "places/ChIJW0vXIG0Z2jERg_ae8DP3ak4/photos/AcnlKN1nsK2btqnqovOuZPtU48srg1dMVa3Duaac5Gj3rLrPHppUQYD_tlkCWzkwUMHDyvBxxgY73Rwt7_J-545EXAYcMkyKU6uT-oxznQBhEE6hHxxjPXpgL7l3WO4iHNXZmABjr8NR2tMIRK0pmsMjiBb77shWHvxYm0MOkWa4SNqZGjGxG2kaUJUFyKf9n46hd1GOKwDqBSzLmWzex_IE73_Wl2bcWHvVJIm9DJYX8B13tMCd2OtXpmy8t_5JEcAEXrmUU3d3UvLFRtZMX5EVk7YN4D91UQrD3sZylLVTxckm-A",
-      "photoAttribution": "Food Playground"
+      "photoAttribution": "Food Playground",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Singapore History Museum",
@@ -3572,7 +4469,11 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJD1u-EaMZ2jERaLhNfFkR45I/photos/AcnlKN0BM_YKjRvnEiRhdOYIUCQnrZNjIm5OxkcuTjxNEJLKwWwLe_JQWBEmQ7XPqGKkYgceLoMED7fQxz-SgEQUKM1u7w80nC0JEWkvEuoXTwTnCsG8Ie4xHMswbN06jG1LYUKpvQqeiMh9v8MIzagzGATrqhjR4N1Nm5Ffz1uBETpaFj-AruuWUhSUzSJaQHTKzcK8GTT0QTZ2hIjmNoaXsXt32aFcNyix_9mYZ49T6gW7myQ3Uv8BEhRijyJdcuthzvt579PNi0pdK7qU1MoN2HEZHA8qaAIYQKQJWOoSM6MDBnrvrA0CwNA3Zo52sbbfOjMzLDB-3dC6bMl5T9Ima169Q8fYGaioXfHTKJkVlwb2NLVar23sFjwHjkHCj5B-IS_4oRI2g8NZiu1BlwHFaX-mZZQNkFNOEPJ2l6Yoa7rVr1w",
-      "photoAttribution": "Khalid Ali"
+      "photoAttribution": "Khalid Ali",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "National Museum Singapore",
@@ -3598,7 +4499,11 @@
         "Sunday: 10:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJD1u-EaMZ2jERaLhNfFkR45I/photos/AcnlKN3_Y784MsHOU23iqOb7vK9VRNRyBb6sYb2arU_g6UKnIBKcaOLCt-EUkIXHwM0Rvn-u42e4gfe1n0PyLIRnROrO_CWm8s7NNrBjWAfCORbRUDXUiu0EoTQFZWO48GiYoezmEWJwxH8t3Fp9fZI1eXqUgzbXSeSe04M9rb4bj9fa8uL75vFdOSPMAZA59R_lle9DmRNDSjG__EkEJ7EBTmS09yiH4bYgf_rrH1PAObrWPqV36KV5oHhzrV_24vo17wCsanfAGlnhk0FDHNpKAz9x-QE4Qj0rL2GQVGCgd1TMqOEAEevVVvGN6GpCLoH77WpN4gLPeyVNjvb5nWc80iBdOyPWcl_Ej_KuHX6IZVkAoI1jQmnZMemi-LeH39b7N9Oi-ZkMUdp6svTlflXv6yVz_HUmSWWO-NCGr9bnjlHQaU4",
-      "photoAttribution": "Khalid Ali"
+      "photoAttribution": "Khalid Ali",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Pulau Ubin Cycling",
@@ -3624,7 +4529,11 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJVWsZeW8-2jER_oDJU6R9d10/photos/AcnlKN3i1L7KKX9MO7Pe1IV_OFTS1YOYXyPB7B02JvqvJN2qT5Fi9lefcqvetyi0jriL94ZLEOUAlkyM167x5eSOPw4Avruu2o8-fTYYa7-9R7jvRGHv1v01r7mhNnSLhUH-SiQ_BUT5Pt4u6EZd0nM575P40vUmj0kgD2ymVVgxmTK22LnyWeJDgRPTCaynzt6N6xZkynwbSnsOpqjGiLxftjOCGj4Y6QTAwpyE5_vcf0KSZp8v7tXGfAbJ3A0gSUZMzpNlqurSV_6-Crgs_1UD2ymy2UFfDWK5ND6ECC5wX3U9k8ZjDKjhJi0EZFoLUIsYc2NLgpXg052g2cRhhT5A_kO1pZD7VZ6zBswOm3SAmiJrQozUvF7cnnAzYNvOtvdVO9x6kerFEch1U3g_QCRsAO5Ij50EYDoeNWJyyfJB19U",
-      "photoAttribution": "Matt C"
+      "photoAttribution": "Matt C",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     }
   ],
   "markets": [
@@ -3653,7 +4562,11 @@
         "Sunday: 8:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJseQsTQ0Z2jERqpBTWF0Zf84/photos/AcnlKN2pUNunAOZNM3ZOAwaVNwnWk9j2naF3cGzkD9WAgFvWL307RCUyBDivMOUgVGoTr9OVMiK1EvyXYXrlM73NpiNNHhEIadg_KJklupMYdZtH-woQBAmV6n9guw_V73OPKc9dVYjfEy987O3DDCEhnQUGY42wa7OEzj8OFqfjcoSL_cuaj9JbGkDMDdxdzZIGz9qI0U_Wg2okAsWYFBUFzQREQcSxhCrijWxUrUXDi8srqzVodLTpyYT940wNlySA4bUFD4gh3AYg04MIJsaO2WcOZm5btmnlywXsIOHdjzKCrQscK3A66EZDoB6u259uLQOV9t3aZabc2lcIN1a8Q984D5XU0Dywn8skqClxzhq8tLTi8A2ZA9EAkcZw5DKxO1ADL0sp1eFPmKq7c4w_eB6DCwRPMbmKRXW26j22ObJXAQ",
-      "photoAttribution": "GettingLost"
+      "photoAttribution": "GettingLost",
+      "tags": [
+        "Budget Friendly",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Chinatown Heritage Centre Market",
@@ -3679,7 +4592,13 @@
         "Sunday: 10:00 AM – 8:00 PM"
       ],
       "photoRef": "places/ChIJ3eg6SXMZ2jERCxutt4adUyY/photos/AcnlKN1mTlXLJWDGnP3jtP6MjFeU-6OsVd3K4f47wFw8fICsszu2qG5MO6CJqgrU1TykcVKFBtIaoxmb7M-RJO8wxfUzW63v9LkzNSwsxjlu5NdA49ONAjt_A4dLzaeXCat_hPacTeRZixJ533H5MGCKh0EQirca4UeraxJgaaH0YNxQ_5Sev4lNUo-l_G8U7oDGH8W3iEoyNSY6nfdLTj7H8FxMO1GJjVJwmhL6B8V9qXws1GhM_cAykrU2GaAIJWy-7CviT_g62IRaEhUS4df3GNVe0O_src03FJmGzHKcejKSNg",
-      "photoAttribution": "Chinatown Heritage Centre"
+      "photoAttribution": "Chinatown Heritage Centre",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly",
+        "Local Delicacies",
+        "Shopping"
+      ]
     },
     {
       "name": "Tekka Centre Market",
@@ -3695,7 +4614,11 @@
       "rating": 4.2,
       "ratingCount": 22678,
       "photoRef": "places/ChIJQ0ge3fEZ2jER3M6bSkGnWec/photos/AcnlKN3W5PEDUFZnjpWnm91GD9g363kaTo_G9yH8WmTm138kJJmCrIjGpRp5KtL__k8uAgnyzKJejZJfcA2gyBfFKEHn6nbvd8xcQQZVSrUC9po-6dovWSgsWNR8bgd_xaU_Qx_7W2kHy4__nnGSIJHf5WvP5wYa8Q-Vjp5EHFZrKXDtF06738tccHr1cb9Cw1ckSbeqBU-zs6LREvRt7f3jd_a0taEmtEW0x2eBFxh-EUL2TOQC0wqeoahz0C_ps7r1lAU0Y-bPxj8DFWHuTg18MrqObh8d1RpqDGpJXCUyBn9uXMFaXWg7sYo75aibcQaKayvEFiYNC27Cdlc0XtT7l3PSU_k7s6qe2wYL_ZHlbBw6f4M3WK3kvn_NCWXMd9NYxCh9Gwyh9IK8QaEWavCNWetk-rHeaM_5pFRpGP_ws0AyTQw1",
-      "photoAttribution": "Patricie Pech"
+      "photoAttribution": "Patricie Pech",
+      "tags": [
+        "Budget Friendly",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "Tiong Bahru Market",
@@ -3712,7 +4635,11 @@
       "ratingCount": 10748,
       "priceLevel": "INEXPENSIVE",
       "photoRef": "places/ChIJOU6y-HkZ2jERchOICIgjl0E/photos/AcnlKN3aZz7019UZwl2A_mK_drN79MSe-Ef19-QAsa5QEE5wmJjUtlAbnUGdKt6xe4oR2cJHm2ap2kvb9kNGIS1lo1FJk2gvfxtkZIyh2_TiYegDrngLKrcMCULKNPOpdKu-u1lTGpk3Dl1o8vtzAR4S88b2-PHm30AFBd7OaXssYX1LZ_vMu76wRX2q7XE4rW2IAuvGzl6P3ONrw-Ml39kTAevIzxpA6zLiaDzYfM3EI0CiJmyCjIxffsRZRxC2Nh6S1XwKDJtrtAavP42K-galkZ1cy31Rhzqqb1Dkmx4i93jOa55rslmRSv4CElzcAHkqstyGlyZO5a4pVIsQa1slJzBgf4aUUU9Nb9gZBlZpkl-kLfDG4DAT2qzfwOlHaEjIjlzlM8ls6gSS2bPb1XUCXBtxsA7hNyqMUoALp9SSuvkRJaeH",
-      "photoAttribution": "Wilson HO"
+      "photoAttribution": "Wilson HO",
+      "tags": [
+        "Budget Friendly",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "Bugis Street Market",
@@ -3738,7 +4665,11 @@
         "Sunday: 10:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJj7TW9LoZ2jERQgNlXkKhASQ/photos/AcnlKN12MGzbSF0rfFjJ2iDBtD4nrqSZTObxdP-dEnc3VJG8FegGfRdreo3Ca1i7XaIYWxJPpkXxOdEJ5CWPBKE1TNVfzQjcUbiP0WilGz44x42q32TRVp60siEvNhbOzfQT74qyq7NRoDaZutGXJduJB0fk-7QcYlZNxrdCFUnjju__zbRQMSUczFCw7iCOI-1L5F3X6YBVyJn8CiHUJciIX7T59RWzuKFOCifC_nEoEPpmTHSB3nb2zZEuY5VHByu9C-sJszMSDce0RjQW10wJa4QYVLJ2vkSj8MbqBU47KJA5DwDpfIYPQ4g4hLvdkqOX5jWqFlkNxWssPB2b27QRxcSGGzjU1usr9kd9Tt-QhJup86pCAhcCrpiTttOiqGoEaGIe1asYnIaNAbszxNYdwZk2W2xmukZPJCQgjrL371jXTQ",
-      "photoAttribution": "Danny Hutagalung"
+      "photoAttribution": "Danny Hutagalung",
+      "tags": [
+        "Budget Friendly",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Arab Street Bazaar",
@@ -3763,7 +4694,11 @@
         "Sunday: 11:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJJfndHLEZ2jER5g8FkEJ869o/photos/AcnlKN2mZsWI9Ab6DQAMnsInfqdehQNaNCNr_s49alCFWWTrlz2aPq1e5VpF11UlfVupSM10x7ZgaMbiF7d7-obsxUiEdjtk0vIWSlZXZAzO291qRsduNfa8bhjJmcj8F6hSGqGuaGFqCL_kxdgKvHIw7aP4ltRjAkbOFvsasjLgSESFihRDOHe5mgoMH2r5g2xqcppc34aZT97J8BWSW0fXEMt-lHRPe5g4J7INcki0nEU89VL5eP_lVXWhzW6ewUWB7pMLtttbwXWtPZPOknWlOAiP-43GKIhSMn6h280_1NRCkg",
-      "photoAttribution": "Grand Bazaar"
+      "photoAttribution": "Grand Bazaar",
+      "tags": [
+        "Photography Worthy",
+        "Budget Friendly"
+      ]
     },
     {
       "name": "Hong Kong Street Wet Market",
@@ -3789,7 +4724,12 @@
         "Sunday: 9:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJ44PnOnMZ2jERDhzYwdX5qI4/photos/AcnlKN0FBjnJLoFLRimOJAsr-vkZFIdrTe0OcZTYuMnZD_bkRA73Q7CN4C5eIG_EiN_4ciG6CLQDQinYM3gocZPSOA4U3js86VXMThm8VxF9u9fC0XRnDjZnXKCvKK7FiXx82d-iCW0m86uODzcft7BSHaK8pzg0QzntxvuvBOiiS7k3eJO1u5Iqc9hcprkFhbW49zD92mHXNwm0rkiEAugzkA35BscKD5B6pQM05T3HRykrNhIlqqn9OJyJ7LsDFgUq3hhY-eBlGSobcZ7GHNKNr6YWwViVhqPHSqd9Y_XB9GfNbIVQLhJ16XMTLvwx1bIin7Fgov-ulmlscS9nuDJcnnwNngjXgjLXifuccghMlGph44PSKglafpwEiBMfI2EkAPsFOwXN9FJdY0tCKjeUcdxwrpNPgaNSRsHdNVqs_5WKXA",
-      "photoAttribution": "薛薛岩松"
+      "photoAttribution": "薛薛岩松",
+      "tags": [
+        "Budget Friendly",
+        "Local Delicacies",
+        "Shopping"
+      ]
     },
     {
       "name": "Serangoon Road Market",
@@ -3814,7 +4754,11 @@
         "Sunday: 6:00 AM – 9:00 PM"
       ],
       "photoRef": "places/ChIJMwmYtqcX2jERJufhfYvhhsM/photos/AcnlKN2-8GW6nrj26MM0XypIYwsMBXC1LR99PvW2IXw-RWIGGAcUwdKNqtOBlIu3PE1M5KtssC9VVfZZ_L4HxZskg2hIDa_F98nQ_PopGpCjXpVsTL2o9t41YEKGNMQce4KbuSWa6cf2zwBi93aB5jSiXEOEW6Uh7ITWquao8SIa8qm_5bd7Nwd61KSL1PPySKBcV5hm-fKNNVAsgYIxrVyFdNntVtTs_ONScPi1YKGhcSFS3guiwhboy2fevosYemHHqhIC7elPKRjxdIHYriIL7BU_Fj79HrPYN_Pw-7T539XJ0M-_Ta1qKbGpkRuy5PXWG7ECsHvJUOkZTrSaQCFFXlsNclP2uT8hDdmzUUNzYdn4bp4teBbegCZMTH-FbFza-j6Jy2xFtxBgV-ZV3pbuzSnkNxH-q_BXlM8srCqhRI-w23gK",
-      "photoAttribution": "Freddy Teo"
+      "photoAttribution": "Freddy Teo",
+      "tags": [
+        "Budget Friendly",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "Jalan Besar Fruit & Vegetable Market",
@@ -3839,7 +4783,11 @@
         "Sunday: 9:00 AM – 9:00 PM"
       ],
       "photoRef": "places/ChIJoZ0D0egZ2jERswYK_6gB82w/photos/AcnlKN2qlXdNn4tihi9YvJblF7_DbWcp-r_x9KomI0t6UQFJtt2Kss0h7vm_JdgonQ-cbtO7uOnvTNGi6aSLYC84K88x7LySZ8WoI36GUwkeY9hbPVrlr2mBL61WLrnK1rMEiyP4GtC92YRA2hGliFRHfi34IqjOMsXjmLEnnAzh5EAvLUuBh2294rjZq3V2eStfAhw6gN48jsFzQK7ktb1reBVs0bJLtMfAXquosFGRxB9S4iFn1iEZABhCQTxt6q46GY9aNnR0NV13QnKFU9Idwt4QZTfb8pV__rD5QglTy9oPlQ",
-      "photoAttribution": "Lian Hua Chun Fruits (Bugis Street)"
+      "photoAttribution": "Lian Hua Chun Fruits (Bugis Street)",
+      "tags": [
+        "Local Delicacies",
+        "Photography Worthy"
+      ]
     },
     {
       "name": "Whampoa Market",
@@ -3866,7 +4814,11 @@
         "Sunday: 6:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJwdRlwNkZ2jER5VFwn2Iks3c/photos/AcnlKN0BvQ4ZcaY4epg9AzKKhYd1aHQA2TNZRnM401BlFAM4N_05KGm6fFh9KdtmhuHShNJeSXyO-feugTGwHs2OHs4rxSi-q-r95TqEYNtDVUkbj1qyp58L5vKgvo8cjKJs018Xltq8jKK5Gghf0eDAtTYfiS2F8dpOLR843fFnky5K5jw-IzMrx0MTT8UUFlSgM0s7lH0ChFe4PKnqiCpsTVo05TueeaA0k5tUoq93thtgj7xkP6s3YZK4IDWchkMCJDbpXgSXBHbxg4yS9X3MLQVXNyOCvOkC2CkOseTB1cg8js1ppeixXdDGCSXLi1IR7Kj2AgOdtdTVZn7YCZWZKgoDkgv_4gtp3v3N3gAfmW-OTaYMNx7gxCDRkGKC4NjqJe1SVeu1eRSlU0_UlZN0C6WmZ_8YZ2eJft_g8jNydIJ_5PqaFDa82EZG-QXfDguL",
-      "photoAttribution": "RICO Lee"
+      "photoAttribution": "RICO Lee",
+      "tags": [
+        "Budget Friendly",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Pasir Ris Market",
@@ -3893,7 +4845,12 @@
         "Sunday: 7:00 AM – 8:30 PM"
       ],
       "photoRef": "places/ChIJ1Y5ET7A92jERgEtUCvAQepI/photos/AcnlKN28Z1UcEcrwN6Ov3X1s95PvZEDq_3jw9vs2dbBmo-YqoTsI-uigmlCzp_aSqTiyu31Z9ohZAsCL6GJ_2H5PPzldVZb_nYXsdemnomOOn3YRHF4k-YBxlMK3K2UtjHBypI86KEj2cYtm_Xg9s4OaSI-eK5N_zMTR4sL8EgTV-H9srPi1RJx-9eIcF680NoH6vuUa9-QPNAYXJmgc5ciiExVwyDgKXSA9ozvjBKUOI79UE1S3gUYYC24da5uMaz3XiJ9fHzi1I-kjegt7CXZKBpoonjlWWmnhdjYYB_vcTC-WnTSCQWWKuMt-XLedU5HhGccMF7cnUb93tUWZGU98jHTbJTx2r3GoClKstltulZbzu1YnC2hnumCZblG6ubp2Fa6mPjbFfdy1zSWvfZwCzM1R3Zryw1m9X3rfGnb9C-leAQ",
-      "photoAttribution": "shaofeng plays"
+      "photoAttribution": "shaofeng plays",
+      "tags": [
+        "Budget Friendly",
+        "Local Delicacies",
+        "Shopping"
+      ]
     },
     {
       "name": "Chong Pang Market",
@@ -3919,7 +4876,11 @@
         "Sunday: Open 24 hours"
       ],
       "photoRef": "places/ChIJk_idN3oU2jEReqhHxnv3lgI/photos/AcnlKN1J3GoanjYvr8CbxnKuL97w9keoQEFLrM-mfp7BW2mr9wCXnZpLsDBmC6_TSkg50H30Y13lRHU8fGHg-Wfz_OLL-Eo1sgfFAFxntfRp4eJLZvk3j-iZyWTVpE364ztkbwWDB5NEoZajZ2bHShZO7clZm6Jz4Rl_hRo3uF5wpxDgVNMe1WMTjP2FBAF-O1Edw409-vcwOHN37Yde8j2JUmvHrBK9B3tjFBouufzrwtP7fItlaCzzd60fzws9xkLkdM-YGbD7ee_aw885wfhxOA4EVvrYxLOwHCDZPjGVx1thjrVbfCGvZCEL4mW44auluHv2ejqkgEfBnWAbZU_3MN7Ahz9BrazrhCxS3haA84NfnOpGuXHFTjbF_-qYKRStkIzHTZ-RJqDugDTfZzDttObU-_dTET2F7Klrcuhkdpg",
-      "photoAttribution": "C K Leong (Ah Leong San)"
+      "photoAttribution": "C K Leong (Ah Leong San)",
+      "tags": [
+        "Budget Friendly",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Far East Plaza Hawker Centre",
@@ -3944,7 +4905,12 @@
         "Sunday: 7:00 AM – 11:00 PM"
       ],
       "photoRef": "places/ChIJaZZBbAAZ2jERgnkQx7h6s_c/photos/AcnlKN2sr7EbmqDml5oQbbwPQ4f67PqEbBshwciTa7K5yMdzmb_5IbGR2lHH0ayg8ryia6HVWfJTI6VU1WmczvO8BLPHUDJ6zVcxWmsqe6px_HmZymD6wQrHq-Ln0zXGuDUAjTMClFVC-2uiX3zgOJj0CER_chlluoRe-8_KBPKrRJS__OeQ83MMCBP4gA01jdyStlBZGIvZbSEVYoVRKiWp3qMWfDEKXJ78teDU91FVB_fczKHSAY6jnrr5RL438vYkQ_tMU6ilzrT5g_1ies-g9xT4Q71sjKRKrpLGxrq38Sjul956T8t1-hjf0LlHHtv7lRVBL_KvvgkFDKxWRqNXuc2Czj3JVMpZcgGOqh4chU8nzb7DQi9dzdmjUTEsRMaP3naP6Lb0yNbq0cLOTU-2Fj-GDMIk3uY5c4jtPkuFPD1VHt6wFxi6ncX80pRPaXfy",
-      "photoAttribution": "Tin Ko"
+      "photoAttribution": "Tin Ko",
+      "tags": [
+        "Local Delicacies",
+        "Shopping",
+        "Outdoor & Nature"
+      ]
     },
     {
       "name": "Clementi Market Hawkers",
@@ -3971,7 +4937,11 @@
         "Sunday: 7:00 AM – 9:00 PM"
       ],
       "photoRef": "places/ChIJD8PLCI4a2jERgSR2V_uOcBs/photos/AcnlKN15CtGN0jtnALVrQq0mgT5fN18QaerGSsXonTjbItnglBj5L_ph3jMAsbVe-zWZA7VOWny-GByN9gi1gPXz3REEJWeN8DSMklk569SGgP-4fqy-aqho8vJpXh1otxCyU_JttGOB7Lvz-fRp1CE32ElmVHpnyUmwXkxkst7k2s2TA5ufjusRm6CtXus3qr0lHKaH-HA_29NCy9fqTeOrkHdm9l3Il-VHbKUqGC6XI7CJjKAYx777c2Ta_CFVFNsJzmcjJa5yw5VLYNT958E8nx4OfU5l0Yu8wZ_hImaee2MS4TV_7zTUIrD598LcZHpoRkbjEcBlVdUFcYG_RUPa1ogs5b3KPc25doZT1o5cvD6dXqtja5g7zrIpHP5jd012UVnFE7VrT8E2ArXhCiyTlm4PuYv-r7v_LbAGFP8DwAk",
-      "photoAttribution": "biyan tt"
+      "photoAttribution": "biyan tt",
+      "tags": [
+        "Budget Friendly",
+        "Local Delicacies"
+      ]
     },
     {
       "name": "Laksa and Kueh Stalls",
@@ -3996,7 +4966,12 @@
         "Sunday: 6:30 AM – 10:30 PM"
       ],
       "photoRef": "places/ChIJo1JAE8gX2jER31WPWpczzY8/photos/AcnlKN1waojk2IBnUQDItiL7YGfY8b_FPEwEDGzEd0Kce4nzlCb01hvpxzo2kT863uEYDenblGcswgFq6xpYfvd3Mxkg3EjFBW8XbjIbYaMjBFCT8vhhu3XvUnFI1B5ixA-ROf-rlCAZrV_n4g9x8flwhOg42Ri9ndm49gPkRKcSMudUr55yAq_D8FsTiYChk_yn_snJ6U_Xh8LcDSBKY6nBNeHIPD52InM7PDh_uD3qSnbkdoLAYDIpviVEiA3-_gHO7Zs3MyKXk1zZRxoLUKWvMYLmQPyotG20Lv2enIs-kpTBTLWWKfrl8HlCB0kbFdOvGYk6YyQsyd1vWFB9DF7v776ZgHDuYNmjP2RYf1ZA0iSoyPOAy5OCbr0PTsZebi1wtsnGArL06j711tg4WjiAQabLLiEHfnM_EAXKgiQGpjhVlw",
-      "photoAttribution": "Johnny lkh"
+      "photoAttribution": "Johnny lkh",
+      "tags": [
+        "Budget Friendly",
+        "Local Delicacies",
+        "Sweet Treats"
+      ]
     }
   ],
   "cityCenters": {

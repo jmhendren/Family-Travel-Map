@@ -3447,7 +3447,7 @@
             [dest.hotels, dest.restaurants, dest.experiences, dest.kidFriendly, dest.markets].forEach(arr => {
                 (arr || []).forEach(poi => {
                     if (poi.name) {
-                        poiLookup[poi.name] = { desc: poi.desc || '', longDesc: poi.longDesc || '', gmapsUrl: poi.gmapsUrl || '', rating: poi.rating, ratingCount: poi.ratingCount, priceLevel: poi.priceLevel, website: poi.website, hours: poi.hours, photoRef: poi.photoRef, photoAttribution: poi.photoAttribution };
+                        poiLookup[poi.name] = { desc: poi.desc || '', longDesc: poi.longDesc || '', gmapsUrl: poi.gmapsUrl || '', rating: poi.rating, ratingCount: poi.ratingCount, priceLevel: poi.priceLevel, website: poi.website, hours: poi.hours, photoRef: poi.photoRef, photoAttribution: poi.photoAttribution, tags: poi.tags };
                     }
                 });
             });
@@ -4096,7 +4096,7 @@
             if (data.hours && data.hours.length > 0) {
                 const hoursId = 'hrs-' + Math.random().toString(36).substr(2, 8);
                 html += '<div style="margin-top:4px;">';
-                html += '<a onclick="var el=document.getElementById(\'' + hoursId + '\');el.style.display=el.style.display===\'none\'?\'block\':\'none\';this.textContent=el.style.display===\'none\'?\'🕐 Hours ▸\':\'🕐 Hours ▾\'" style="font-size:11px;color:#1a73e8;cursor:pointer;text-decoration:none;">🕐 Hours ▸</a>';
+                html += '<button onclick="var el=document.getElementById(\'' + hoursId + '\');el.style.display=el.style.display===\'none\'?\'block\':\'none\';this.textContent=el.style.display===\'none\'?\'🕐 Hours ▸\':\'🕐 Hours ▾\'" style="font-size:11px;color:#1a73e8;cursor:pointer;text-decoration:none;background:none;border:none;padding:0;font-family:inherit;-webkit-tap-highlight-color:rgba(0,0,0,0.1);">🕐 Hours ▸</button>';
                 html += '<div id="' + hoursId + '" style="display:none;margin-top:4px;font-size:10px;color:#555;line-height:1.6;">';
                 data.hours.forEach(function(h) { html += escapeHtml(h) + '<br>'; });
                 html += '</div></div>';
@@ -4114,6 +4114,30 @@
             return html;
         }
 
+        // Build tags HTML for POI popups
+        function buildTagsHtml(data) {
+            if (!data || !data.tags || !data.tags.length) return '';
+            const tagColors = {
+                'Fine Dining':'#7c3aed','Splurge':'#7c3aed','Romantic':'#ec4899',
+                'Family Friendly':'#f59e0b','Toddler Friendly':'#f59e0b',
+                'Budget Friendly':'#10b981','Casual Eats':'#10b981',
+                'Good for Lunch':'#f97316','Good for Dinner':'#6366f1',
+                'Coffee':'#92400e','Cocktails & Bars':'#be185d','Nightlife':'#be185d',
+                'Local Delicacies':'#dc2626','Sweet Treats':'#ec4899',
+                'Outdoor & Nature':'#059669','Adventure & Active':'#059669',
+                'Cultural & Historical':'#1d4ed8','Art & Design':'#7c3aed',
+                'Shopping':'#d97706','Wellness & Spa':'#0d9488',
+                'Photography Worthy':'#6366f1','Rainy Day':'#6b7280'
+            };
+            let html = '<div style="margin-top:8px;display:flex;flex-wrap:wrap;gap:4px;">';
+            data.tags.forEach(function(tag) {
+                const color = tagColors[tag] || '#6b7280';
+                html += '<span style="display:inline-block;padding:2px 7px;border-radius:10px;font-size:10px;font-weight:500;color:' + color + ';background:' + color + '14;border:1px solid ' + color + '30;">' + escapeHtml(tag) + '</span>';
+            });
+            html += '</div>';
+            return html;
+        }
+
         // Build popup HTML for any category POI (shared helper)
         function buildPoiPopupHtml(poi, categoryLabel) {
             const destKey = activeDestination || 'default';
@@ -4125,6 +4149,7 @@
             let html = `<div class="popup-title">${escapeHtml(poi.name)}</div><div class="popup-type">${categoryLabel}</div><div style="font-size:11px;color:#666;margin-top:4px;">${escapeHtml(poi.desc || '')}</div>`;
             if (poi.longDesc) html += `<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">${escapeHtml(poi.longDesc)}</div>`;
             html += buildEnrichmentHtml(poi);
+            html += buildTagsHtml(poi);
             if (poi.gmapsUrl) html += `<div style="margin-top:6px;"><a href="${poi.gmapsUrl}" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>`;
             // Annotations
             html += buildAnnotationHtml(poiAnnotations);
@@ -4407,6 +4432,7 @@
                         if (poiInfo.desc) popupContent += '<div style="font-size:11px;color:#666;margin-top:4px;">' + escapeHtml(poiInfo.desc) + '</div>';
                         if (poiInfo.longDesc) popupContent += '<div style="font-size:12px;color:#444;margin-top:6px;line-height:1.4;">' + escapeHtml(poiInfo.longDesc) + '</div>';
                         popupContent += buildEnrichmentHtml(poiInfo);
+                        popupContent += buildTagsHtml(poiInfo);
                         if (poiInfo.gmapsUrl) popupContent += '<div style="margin-top:6px;"><a href="' + poiInfo.gmapsUrl + '" target="_blank" rel="noopener" style="font-size:11px;color:#1a73e8;text-decoration:none;display:inline-flex;align-items:center;gap:3px;"><span style="font-size:13px;">📍</span> View on Google Maps</a></div>';
                         popupContent += swapBtn;
                         // Annotations
@@ -4423,7 +4449,7 @@
                         if (isMobile()) {
                             marker.off('click');
                             marker.on('click', function() {
-                                const mobilePoi = { name: item.name, coord: item.coord, desc: poiInfo.desc, longDesc: poiInfo.longDesc, gmapsUrl: poiInfo.gmapsUrl, rating: poiInfo.rating, ratingCount: poiInfo.ratingCount, priceLevel: poiInfo.priceLevel, website: poiInfo.website, hours: poiInfo.hours, photoRef: poiInfo.photoRef, photoAttribution: poiInfo.photoAttribution };
+                                const mobilePoi = { name: item.name, coord: item.coord, desc: poiInfo.desc, longDesc: poiInfo.longDesc, gmapsUrl: poiInfo.gmapsUrl, rating: poiInfo.rating, ratingCount: poiInfo.ratingCount, priceLevel: poiInfo.priceLevel, website: poiInfo.website, hours: poiInfo.hours, photoRef: poiInfo.photoRef, photoAttribution: poiInfo.photoAttribution, tags: poiInfo.tags };
                                 showMobilePOIDetail(mobilePoi, formatType(item.type));
                             });
                         }
@@ -5103,7 +5129,7 @@
                         const m = itineraryMarkers.find(m => Math.abs(m.marker.getLatLng().lat - lat) < 0.0001 && Math.abs(m.marker.getLatLng().lng - lng) < 0.0001);
                         if (m) {
                             const poiInfo = lookupPoi(m.name);
-                            showMobilePOIDetail({ name: m.name, coord: [lat, lng], desc: poiInfo.desc, longDesc: poiInfo.longDesc, gmapsUrl: poiInfo.gmapsUrl, rating: poiInfo.rating, ratingCount: poiInfo.ratingCount, priceLevel: poiInfo.priceLevel, website: poiInfo.website, hours: poiInfo.hours }, formatType(m.type));
+                            showMobilePOIDetail({ name: m.name, coord: [lat, lng], desc: poiInfo.desc, longDesc: poiInfo.longDesc, gmapsUrl: poiInfo.gmapsUrl, rating: poiInfo.rating, ratingCount: poiInfo.ratingCount, priceLevel: poiInfo.priceLevel, website: poiInfo.website, hours: poiInfo.hours, tags: poiInfo.tags }, formatType(m.type));
                         } else if (name) {
                             // Try to find by name in POI arrays
                             mobileItinItemTap(name);
