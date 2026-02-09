@@ -173,8 +173,9 @@
         /* View toggle */
         .view-toggle {
             display: flex;
-            gap: 8px;
+            gap: 6px;
             margin-top: 10px;
+            flex-wrap: wrap;
         }
 
         .toggle-btn {
@@ -1545,214 +1546,6 @@
 }
 
 /* ============================================ */
-/* GEOLOCATION - WHERE AM I? (Phase 1d)        */
-/* ============================================ */
-
-.geo-fab {
-    position: fixed;
-    bottom: 90px;
-    right: 24px;
-    width: 48px;
-    height: 48px;
-    border-radius: 50%;
-    border: none;
-    background: white;
-    color: #2563EB;
-    font-size: 20px;
-    cursor: pointer;
-    box-shadow: 0 2px 12px rgba(0,0,0,0.2);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 899;
-    transition: all 0.2s;
-}
-.geo-fab:hover {
-    background: #2563EB;
-    color: white;
-    transform: scale(1.08);
-    box-shadow: 0 4px 16px rgba(37,99,235,0.4);
-}
-.geo-fab.active {
-    background: #2563EB;
-    color: white;
-}
-.geo-fab.loading {
-    animation: geoFabPulse 1.2s infinite;
-}
-@keyframes geoFabPulse {
-    0%, 100% { box-shadow: 0 2px 12px rgba(37,99,235,0.3); }
-    50% { box-shadow: 0 2px 20px rgba(37,99,235,0.6); }
-}
-
-/* Pulsing blue dot on map */
-.geo-dot {
-    width: 16px;
-    height: 16px;
-    background: #2563EB;
-    border: 3px solid white;
-    border-radius: 50%;
-    box-shadow: 0 0 0 rgba(37,99,235,0.4);
-    animation: geoDotPulse 2s infinite;
-}
-@keyframes geoDotPulse {
-    0% { box-shadow: 0 0 0 0 rgba(37,99,235,0.5); }
-    70% { box-shadow: 0 0 0 20px rgba(37,99,235,0); }
-    100% { box-shadow: 0 0 0 0 rgba(37,99,235,0); }
-}
-
-/* Accuracy circle */
-.geo-accuracy {
-    background: rgba(37,99,235,0.08);
-    border: 1px solid rgba(37,99,235,0.2);
-    border-radius: 50%;
-}
-
-/* Nearby activities panel */
-.nearby-panel {
-    display: none;
-    position: fixed;
-    bottom: 148px;
-    right: 24px;
-    width: 340px;
-    max-width: calc(100vw - 48px);
-    max-height: 400px;
-    background: white;
-    border-radius: 12px;
-    box-shadow: 0 4px 24px rgba(0,0,0,0.15);
-    z-index: 899;
-    flex-direction: column;
-    overflow: hidden;
-}
-.nearby-panel.active {
-    display: flex;
-}
-.nearby-header {
-    padding: 12px 16px;
-    background: #2563EB;
-    color: white;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-.nearby-header-left {
-    display: flex;
-    flex-direction: column;
-}
-.nearby-title {
-    font-size: 14px;
-    font-weight: 700;
-}
-.nearby-subtitle {
-    font-size: 10px;
-    opacity: 0.85;
-    margin-top: 2px;
-}
-.nearby-close {
-    width: 28px;
-    height: 28px;
-    background: rgba(255,255,255,0.2);
-    border: none;
-    border-radius: 50%;
-    color: white;
-    font-size: 16px;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.nearby-close:hover {
-    background: rgba(255,255,255,0.35);
-}
-.nearby-body {
-    flex: 1;
-    overflow-y: auto;
-    padding: 8px 0;
-}
-.nearby-body::-webkit-scrollbar { width: 5px; }
-.nearby-body::-webkit-scrollbar-thumb { background: #ddd; border-radius: 3px; }
-.nearby-item {
-    padding: 8px 16px;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    transition: background 0.15s;
-    border-bottom: 1px solid #f5f5f5;
-}
-.nearby-item:hover {
-    background: #f0f7ff;
-}
-.nearby-item:last-child {
-    border-bottom: none;
-}
-.nearby-item-dot {
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    flex-shrink: 0;
-}
-.nearby-item-info {
-    flex: 1;
-    min-width: 0;
-}
-.nearby-item-name {
-    font-size: 13px;
-    font-weight: 600;
-    color: #333;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-.nearby-item-desc {
-    font-size: 11px;
-    color: #888;
-    margin-top: 1px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-.nearby-item-dist {
-    font-size: 11px;
-    font-weight: 600;
-    color: #2563EB;
-    white-space: nowrap;
-    flex-shrink: 0;
-}
-.nearby-empty {
-    padding: 24px 16px;
-    text-align: center;
-    color: #999;
-    font-size: 13px;
-}
-.nearby-error {
-    padding: 16px;
-    text-align: center;
-    color: #DC2626;
-    font-size: 12px;
-}
-
-@media (max-width: 768px) {
-    .geo-fab {
-        bottom: 220px;
-        right: 16px;
-        width: 44px;
-        height: 44px;
-        font-size: 18px;
-        z-index: 101;
-    }
-    .nearby-panel {
-        bottom: 0;
-        right: 0;
-        left: 0;
-        width: 100vw;
-        max-width: 100vw;
-        max-height: 60vh;
-        border-radius: 16px 16px 0 0;
-    }
-}
-
-/* ============================================ */
 /* Phase 1e: Web Search Toggle + Citations      */
 /* ============================================ */
 .web-search-toggle {
@@ -1948,6 +1741,48 @@
 .qr-modal-link:hover {
     text-decoration: underline;
 }
+/* ============ Geolocation ============ */
+.locate-btn {
+    position: absolute;
+    top: 80px;
+    right: 10px;
+    z-index: 1000;
+    width: 36px;
+    height: 36px;
+    background: white;
+    border: 2px solid rgba(0,0,0,0.2);
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.15);
+    transition: all 0.2s;
+}
+.locate-btn:hover { background: #f0f0f0; }
+.locate-btn.active { color: #2563EB; border-color: #2563EB; }
+.locate-btn.tracking { animation: locate-pulse 2s infinite; }
+@keyframes locate-pulse {
+    0%, 100% { box-shadow: 0 1px 5px rgba(0,0,0,0.15); }
+    50% { box-shadow: 0 0 12px rgba(37,99,235,0.4); }
+}
+.user-location-dot {
+    width: 14px;
+    height: 14px;
+    background: #2563EB;
+    border: 3px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 8px rgba(37,99,235,0.5);
+}
+.user-location-ring {
+    width: 40px;
+    height: 40px;
+    background: rgba(37,99,235,0.12);
+    border: 1px solid rgba(37,99,235,0.25);
+    border-radius: 50%;
+}
+
 /* ============ Share Modal ============ */
 .share-overlay {
     display: none;
@@ -2427,7 +2262,11 @@
 </head>
 <body>
     <div class="container">
-        <div id="map-container"></div>
+        <div id="map-container">
+            <button class="locate-btn" id="locateBtn" onclick="toggleGeolocation()" title="Show my location">
+                <i class="fas fa-location-crosshairs"></i>
+            </button>
+        </div>
         
         <div class="sidebar" id="sidebar">
             <div class="sidebar-drag-handle" id="dragHandle" style="display: none;"></div>
@@ -2453,10 +2292,10 @@
                     <button class="toggle-btn" id="itinerariesViewBtn" onclick="switchView('itineraries')">
                         <i class="fas fa-map-location-dot"></i> Itineraries
                     </button>
-                    <button class="toggle-btn" onclick="showNotesPanel()" title="View all notes" style="flex: 0 0 auto; padding: 8px 12px;">
+                    <button class="toggle-btn" onclick="showNotesPanel()" title="View all notes" style="flex: 0 0 auto; padding: 8px 10px; font-size: 11px;">
                         📝 Notes
                     </button>
-                    <button class="toggle-btn" onclick="showBookingsPanel()" title="View bookings" style="flex: 0 0 auto; padding: 8px 12px;" id="bookingsBtn">
+                    <button class="toggle-btn" onclick="showBookingsPanel()" title="View bookings" style="flex: 0 0 auto; padding: 8px 10px; font-size: 11px;" id="bookingsBtn">
                         🔖 Bookings
                     </button>
                 </div>
@@ -2565,21 +2404,6 @@
             <button class="browser-chip" data-filter="markets" onclick="setBrowserFilter('markets')">&#x1F6CD; Markets</button>
         </div>
         <div class="browser-body" id="browserBody"></div>
-    </div>
-
-    <!-- Geolocation - Where Am I? (Phase 1d) -->
-    <button class="geo-fab" id="geoFab" onclick="geoLocate()" title="Where am I?">
-        <i class="fas fa-location-crosshairs"></i>
-    </button>
-    <div class="nearby-panel" id="nearbyPanel">
-        <div class="nearby-header">
-            <div class="nearby-header-left">
-                <div class="nearby-title" id="nearbyTitle">Nearby Activities</div>
-                <div class="nearby-subtitle" id="nearbySubtitle">Within 2km of your location</div>
-            </div>
-            <button class="nearby-close" onclick="closeNearbyPanel()">&times;</button>
-        </div>
-        <div class="nearby-body" id="nearbyBody"></div>
     </div>
 
     <!-- AI Chat -->
@@ -2919,6 +2743,9 @@
             document.getElementById('destTitle').textContent = dest.name;
             document.getElementById('destSubtitle').textContent = dest.subtitle || '';
             document.querySelector('title').textContent = dest.name + ' \u2014 Interactive Trip Map';
+            // Sync the dropdown selector to the active destination
+            var destSel = document.getElementById('destSelect');
+            if (destSel) destSel.value = key;
 
             // Reset map view
             map.setView(dest.defaultCenter, dest.defaultZoom);
@@ -3369,8 +3196,142 @@
             // Initialize destination selector (Phase 4)
             updateDestSelector();
 
+            // Add geolocation control
+            initGeolocation();
+
             // NOTE: loadCategories() and buildTabsUI() are called by loadDestination()
             // which is invoked right after initMap() in DOMContentLoaded
+        }
+
+        // ============================================
+        // GEOLOCATION
+        // ============================================
+
+        let userLocationMarker = null;
+        let userAccuracyCircle = null;
+        let geoWatchId = null;
+        let geoTracking = false;
+
+        function initGeolocation() {
+            // Check if geolocation is available
+            if (!navigator.geolocation) {
+                var btn = document.getElementById('locateBtn');
+                if (btn) btn.style.display = 'none';
+            }
+        }
+
+        function toggleGeolocation() {
+            if (geoTracking) {
+                stopGeolocation();
+            } else {
+                startGeolocation();
+            }
+        }
+
+        function startGeolocation() {
+            if (!navigator.geolocation) {
+                showCopyToast('Geolocation not supported');
+                return;
+            }
+
+            var btn = document.getElementById('locateBtn');
+            btn.classList.add('tracking');
+            geoTracking = true;
+
+            // Get initial position (quick)
+            navigator.geolocation.getCurrentPosition(
+                function(pos) { updateUserLocation(pos); map.setView([pos.coords.latitude, pos.coords.longitude], 15); },
+                function(err) { handleGeoError(err); },
+                { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 }
+            );
+
+            // Watch for continuous updates
+            geoWatchId = navigator.geolocation.watchPosition(
+                function(pos) { updateUserLocation(pos); },
+                function(err) { /* silent on watch errors */ },
+                { enableHighAccuracy: true, timeout: 15000, maximumAge: 5000 }
+            );
+        }
+
+        function stopGeolocation() {
+            geoTracking = false;
+            var btn = document.getElementById('locateBtn');
+            btn.classList.remove('tracking', 'active');
+
+            if (geoWatchId !== null) {
+                navigator.geolocation.clearWatch(geoWatchId);
+                geoWatchId = null;
+            }
+
+            if (userLocationMarker) {
+                map.removeLayer(userLocationMarker);
+                userLocationMarker = null;
+            }
+            if (userAccuracyCircle) {
+                map.removeLayer(userAccuracyCircle);
+                userAccuracyCircle = null;
+            }
+        }
+
+        function updateUserLocation(position) {
+            var lat = position.coords.latitude;
+            var lng = position.coords.longitude;
+            var accuracy = position.coords.accuracy;
+
+            var btn = document.getElementById('locateBtn');
+            btn.classList.add('active');
+            btn.classList.remove('tracking');
+
+            // Create or update the user dot
+            if (!userLocationMarker) {
+                var dotIcon = L.divIcon({
+                    className: '',
+                    html: '<div class="user-location-dot"></div>',
+                    iconSize: [14, 14],
+                    iconAnchor: [7, 7]
+                });
+                userLocationMarker = L.marker([lat, lng], { icon: dotIcon, zIndexOffset: 9999 }).addTo(map);
+                userLocationMarker.bindPopup('<div style="font-size:12px;font-weight:600;">You are here</div><div style="font-size:11px;color:#666;">Accuracy: ' + Math.round(accuracy) + 'm</div>');
+            } else {
+                userLocationMarker.setLatLng([lat, lng]);
+                userLocationMarker.setPopupContent('<div style="font-size:12px;font-weight:600;">You are here</div><div style="font-size:11px;color:#666;">Accuracy: ' + Math.round(accuracy) + 'm</div>');
+            }
+
+            // Create or update accuracy circle
+            if (!userAccuracyCircle) {
+                userAccuracyCircle = L.circle([lat, lng], {
+                    radius: accuracy,
+                    className: 'user-location-ring',
+                    fillColor: 'rgba(37,99,235,0.08)',
+                    fillOpacity: 1,
+                    color: 'rgba(37,99,235,0.2)',
+                    weight: 1,
+                    interactive: false
+                }).addTo(map);
+            } else {
+                userAccuracyCircle.setLatLng([lat, lng]);
+                userAccuracyCircle.setRadius(accuracy);
+            }
+        }
+
+        function handleGeoError(error) {
+            geoTracking = false;
+            var btn = document.getElementById('locateBtn');
+            btn.classList.remove('tracking', 'active');
+
+            switch (error.code) {
+                case error.PERMISSION_DENIED:
+                    showCopyToast('Location access denied. Check browser settings.');
+                    break;
+                case error.POSITION_UNAVAILABLE:
+                    showCopyToast('Location unavailable');
+                    break;
+                case error.TIMEOUT:
+                    showCopyToast('Location request timed out');
+                    break;
+                default:
+                    showCopyToast('Could not get location');
+            }
         }
 
         // ============================================
@@ -5179,240 +5140,6 @@
             var countEl = document.getElementById('filterChipsCount');
             countEl.classList.add('active');
             countEl.textContent = activeRegion.name + ': ' + totalShown + ' places';
-        }
-
-
-        // ============================================
-        // GEOLOCATION - WHERE AM I? (Phase 1d)
-        // ============================================
-
-        let geoMarker = null;
-        let geoAccuracyCircle = null;
-        let geoWatchId = null;
-        let nearbyIsOpen = false;
-
-        function haversineDistance(lat1, lng1, lat2, lng2) {
-            const R = 6371; // Earth's radius in km
-            const dLat = (lat2 - lat1) * Math.PI / 180;
-            const dLng = (lng2 - lng1) * Math.PI / 180;
-            const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
-                      Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
-                      Math.sin(dLng / 2) * Math.sin(dLng / 2);
-            const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-            return R * c;
-        }
-
-        function geoLocate() {
-            if (!navigator.geolocation) {
-                alert('Geolocation is not supported by your browser.');
-                return;
-            }
-
-            const fab = document.getElementById('geoFab');
-            fab.classList.add('loading');
-
-            navigator.geolocation.getCurrentPosition(
-                function(position) {
-                    fab.classList.remove('loading');
-                    fab.classList.add('active');
-                    const lat = position.coords.latitude;
-                    const lng = position.coords.longitude;
-                    const accuracy = position.coords.accuracy; // meters
-
-                    showUserLocation(lat, lng, accuracy);
-                    findAndShowNearby(lat, lng);
-
-                    // Start watching position for updates
-                    if (geoWatchId) navigator.geolocation.clearWatch(geoWatchId);
-                    geoWatchId = navigator.geolocation.watchPosition(
-                        function(pos) {
-                            updateUserLocation(pos.coords.latitude, pos.coords.longitude, pos.coords.accuracy);
-                        },
-                        function() {},
-                        { enableHighAccuracy: true, maximumAge: 30000, timeout: 15000 }
-                    );
-                },
-                function(error) {
-                    fab.classList.remove('loading');
-                    let msg = 'Could not determine your location.';
-                    if (error.code === 1) msg = 'Location access denied. Please enable location permissions for this page.';
-                    else if (error.code === 2) msg = 'Location unavailable. Please check your device settings.';
-                    else if (error.code === 3) msg = 'Location request timed out. Please try again.';
-                    alert(msg);
-                },
-                { enableHighAccuracy: true, maximumAge: 60000, timeout: 10000 }
-            );
-        }
-
-        function showUserLocation(lat, lng, accuracy) {
-            // Remove existing markers
-            if (geoMarker) map.removeLayer(geoMarker);
-            if (geoAccuracyCircle) map.removeLayer(geoAccuracyCircle);
-
-            // Accuracy circle
-            geoAccuracyCircle = L.circle([lat, lng], {
-                radius: accuracy,
-                className: 'geo-accuracy',
-                interactive: false
-            }).addTo(map);
-
-            // Pulsing blue dot
-            const dotIcon = L.divIcon({
-                className: 'geo-dot-wrapper',
-                html: '<div class="geo-dot"></div>',
-                iconSize: [16, 16],
-                iconAnchor: [8, 8]
-            });
-            geoMarker = L.marker([lat, lng], { icon: dotIcon, zIndexOffset: 1000 }).addTo(map);
-            geoMarker.bindPopup('<div style="text-align:center;font-size:12px;font-weight:600;">You are here</div><div style="text-align:center;font-size:11px;color:#666;">\u00b1' + Math.round(accuracy) + 'm accuracy</div>');
-
-            // Fly to location
-            map.flyTo([lat, lng], 15, { duration: 1.5 });
-        }
-
-        function updateUserLocation(lat, lng, accuracy) {
-            if (geoMarker) {
-                geoMarker.setLatLng([lat, lng]);
-            }
-            if (geoAccuracyCircle) {
-                geoAccuracyCircle.setLatLng([lat, lng]);
-                geoAccuracyCircle.setRadius(accuracy);
-            }
-        }
-
-        function findAndShowNearby(lat, lng) {
-            const radiusKm = 2;
-            const allItems = [];
-
-            // Search all category arrays
-            const addItems = (items, category, color) => {
-                items.forEach(item => {
-                    if (!item.coord) return;
-                    const dist = haversineDistance(lat, lng, item.coord[0], item.coord[1]);
-                    if (dist <= radiusKm) {
-                        allItems.push({
-                            name: item.name,
-                            desc: item.desc || '',
-                            coord: item.coord,
-                            category: category,
-                            color: color,
-                            distance: dist
-                        });
-                    }
-                });
-            };
-
-            addItems(hotels, 'Hotel', categoryColors.hotels);
-            addItems(restaurants, 'Restaurant', categoryColors.restaurants);
-            addItems(experiences, 'Experience', categoryColors.experiences);
-            addItems(kidFriendly, 'Kid-Friendly', categoryColors.kidFriendly);
-            addItems(markets, 'Market', categoryColors.markets);
-
-            // Also search current itinerary items if in itinerary view
-            if (currentView === 'itineraries' && currentItinerary) {
-                const itin = itineraryData[currentItinerary];
-                itin.days.forEach(dayData => {
-                    dayData.items.forEach(item => {
-                        if (!item.coord) return;
-                        const dist = haversineDistance(lat, lng, item.coord[0], item.coord[1]);
-                        if (dist <= radiusKm) {
-                            // Check if already in list (by name)
-                            if (!allItems.some(a => a.name === item.name)) {
-                                allItems.push({
-                                    name: item.name,
-                                    desc: 'Day ' + dayData.day + ' \u2014 ' + formatType(item.type),
-                                    coord: item.coord,
-                                    category: formatType(item.type),
-                                    color: typeColors[item.type] || '#666',
-                                    distance: dist
-                                });
-                            }
-                        }
-                    });
-                });
-            }
-
-            // Sort by distance
-            allItems.sort((a, b) => a.distance - b.distance);
-
-            showNearbyPanel(allItems, lat, lng);
-        }
-
-        function showNearbyPanel(items, lat, lng) {
-            const panel = document.getElementById('nearbyPanel');
-            const body = document.getElementById('nearbyBody');
-            const subtitle = document.getElementById('nearbySubtitle');
-
-            if (items.length === 0) {
-                subtitle.textContent = 'No activities found within 2km';
-                body.innerHTML = '<div class="nearby-empty">No nearby activities found.<br><span style="font-size:11px;color:#bbb;margin-top:4px;display:block;">Try zooming out or checking a different area.</span></div>';
-            } else {
-                subtitle.textContent = items.length + ' activit' + (items.length === 1 ? 'y' : 'ies') + ' within 2km';
-
-                let html = '';
-                items.forEach(item => {
-                    const distText = item.distance < 0.1
-                        ? Math.round(item.distance * 1000) + 'm'
-                        : item.distance.toFixed(1) + 'km';
-                    html += '<div class="nearby-item" onclick="panToNearby(' + item.coord[0] + ',' + item.coord[1] + ',\x27' + escapeHtml(item.name).replace(/'/g, '\x27') + '\x27)">';
-                    html += '<div class="nearby-item-dot" style="background:' + item.color + '"></div>';
-                    html += '<div class="nearby-item-info">';
-                    html += '<div class="nearby-item-name">' + escapeHtml(item.name) + '</div>';
-                    if (item.desc) html += '<div class="nearby-item-desc">' + escapeHtml(item.desc) + '</div>';
-                    html += '</div>';
-                    html += '<div class="nearby-item-dist">' + distText + '</div>';
-                    html += '</div>';
-                });
-                body.innerHTML = html;
-            }
-
-            panel.classList.add('active');
-            nearbyIsOpen = true;
-        }
-
-        function closeNearbyPanel() {
-            document.getElementById('nearbyPanel').classList.remove('active');
-            nearbyIsOpen = false;
-        }
-
-        function panToNearby(lat, lng, name) {
-            map.flyTo([lat, lng], 16, { duration: 0.8 });
-
-            // Try to open the marker popup
-            const allMarkers = [...itineraryMarkers];
-            // Also check category group markers
-            Object.values(categoryGroups).forEach(group => {
-                if (map.hasLayer(group)) {
-                    group.eachLayer(m => {
-                        const ll = m.getLatLng();
-                        if (Math.abs(ll.lat - lat) < 0.0001 && Math.abs(ll.lng - lng) < 0.0001) {
-                            setTimeout(() => m.openPopup(), 600);
-                        }
-                    });
-                }
-            });
-            itineraryMarkers.forEach(m => {
-                if (Math.abs(m.marker.getLatLng().lat - lat) < 0.0001 && Math.abs(m.marker.getLatLng().lng - lng) < 0.0001) {
-                    setTimeout(() => m.marker.openPopup(), 600);
-                }
-            });
-        }
-
-        function stopGeoWatch() {
-            if (geoWatchId) {
-                navigator.geolocation.clearWatch(geoWatchId);
-                geoWatchId = null;
-            }
-            if (geoMarker) {
-                map.removeLayer(geoMarker);
-                geoMarker = null;
-            }
-            if (geoAccuracyCircle) {
-                map.removeLayer(geoAccuracyCircle);
-                geoAccuracyCircle = null;
-            }
-            document.getElementById('geoFab').classList.remove('active');
-            closeNearbyPanel();
         }
 
 
