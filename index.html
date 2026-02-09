@@ -1605,7 +1605,7 @@
 /* ============ Geolocation ============ */
 .locate-btn {
     position: absolute;
-    top: 80px;
+    top: 10px;
     right: 10px;
     z-index: 1000;
     width: 36px;
@@ -2148,11 +2148,11 @@
         display: none !important;
     }
 
-    /* Make container fill viewport accounting for top bar and bottom tab bar */
+    /* Make container fill viewport accounting for top bar and bottom tab bar + safe area */
     .container {
         flex-direction: column;
         padding-top: 44px;  /* dest bar height */
-        padding-bottom: 56px; /* tab bar height */
+        padding-bottom: calc(56px + env(safe-area-inset-bottom, 0px)); /* tab bar + iOS home indicator */
     }
 
     #map-container {
@@ -2208,13 +2208,14 @@
         bottom: 0;
         left: 0;
         right: 0;
-        height: 56px;
+        height: calc(56px + env(safe-area-inset-bottom, 0px));
         background: white;
         border-top: 1px solid #e5e7eb;
         display: flex;
-        align-items: center;
+        align-items: flex-start;
         justify-content: space-around;
         z-index: 500;
+        padding-top: 4px;
         padding-bottom: env(safe-area-inset-bottom, 0px);
     }
 
@@ -2253,7 +2254,7 @@
         position: fixed;
         left: 0;
         right: 0;
-        bottom: 56px;
+        bottom: calc(56px + env(safe-area-inset-bottom, 0px));
         background: #f9fafb;
         z-index: 400;
         overflow: hidden;
@@ -2305,6 +2306,30 @@
         height: 4px;
         background: #d1d5db;
         border-radius: 2px;
+    }
+
+    /* Close button for sheet panels */
+    .sheet-close-btn {
+        position: absolute;
+        top: 6px;
+        right: 10px;
+        background: #f3f4f6;
+        border: none;
+        width: 28px;
+        height: 28px;
+        border-radius: 50%;
+        font-size: 16px;
+        color: #6b7280;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 10;
+        -webkit-tap-highlight-color: transparent;
+    }
+
+    .sheet-close-btn:active {
+        background: #e5e7eb;
     }
 
     /* Subtle backdrop behind the sheet so map feels layered */
@@ -2399,7 +2424,7 @@
 
     .mobile-poi-sheet {
         position: fixed;
-        bottom: 56px; /* above tab bar */
+        bottom: calc(56px + env(safe-area-inset-bottom, 0px)); /* above tab bar + safe area */
         left: 0;
         right: 0;
         max-height: 55vh;
@@ -3147,7 +3172,8 @@
     </div>
 
     <!-- Mobile Chat Panel -->
-    <div class="mobile-tab-panel" id="mobileChatPanel">
+    <div class="mobile-tab-panel" id="mobileChatPanel" style="position:relative;">
+        <button class="sheet-close-btn" onclick="closeMobileSheet()" aria-label="Close" style="top:12px;">&times;</button>
         <div class="mobile-chat-header">
             <div class="mobile-chat-title">AI Trip Planner</div>
             <div class="mobile-chat-context" id="mobileChatContext">Select an itinerary &amp; day first</div>
@@ -3183,8 +3209,9 @@
     <div class="mobile-sheet-backdrop" id="mobileSheetBackdrop" onclick="collapseMobileSheet()"></div>
 
     <!-- Mobile Search Panel -->
-    <div class="mobile-tab-panel sheet-half" id="mobileSearchPanel">
+    <div class="mobile-tab-panel sheet-half" id="mobileSearchPanel" style="position:relative;">
         <div class="sheet-drag-handle" id="searchDragHandle"></div>
+        <button class="sheet-close-btn" onclick="closeMobileSheet()" aria-label="Close">&times;</button>
         <div class="mobile-search-bar">
             <div class="mobile-search-input-wrap">
                 <i class="fas fa-search" style="color:#9ca3af;"></i>
@@ -3208,8 +3235,9 @@
     </div>
 
     <!-- Mobile Trips Panel -->
-    <div class="mobile-tab-panel sheet-half" id="mobileTripsPanel">
+    <div class="mobile-tab-panel sheet-half" id="mobileTripsPanel" style="position:relative;">
         <div class="sheet-drag-handle" id="tripsDragHandle"></div>
+        <button class="sheet-close-btn" onclick="closeMobileSheet()" aria-label="Close">&times;</button>
         <div class="mobile-trips-header" id="mobileTripsHeader">
             <div class="mobile-trips-title">Itineraries</div>
             <div class="mobile-trips-actions">
@@ -3878,7 +3906,7 @@
         // ============================================
 
         function initMap() {
-            map = L.map('map-container').setView([36.2, 137.5], 6.5);
+            map = L.map('map-container', { zoomControl: false }).setView([36.2, 137.5], 6.5);
 
             L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
                 attribution: '&copy; CartoDB contributors',
@@ -4429,10 +4457,10 @@
             // Render days in sidebar
             renderDays(key);
             
-            // Fit bounds to all markers
+            // Fit bounds to all markers (with padding for mobile sheet)
             if (markers.length > 0) {
                 const bounds = L.latLngBounds(markers);
-                map.fitBounds(bounds.pad(0.1));
+                map.fitBounds(bounds.pad(0.1), getMobileMapPadding());
             }
 
             // Set show all days button to active
@@ -4475,12 +4503,12 @@
             });
             document.getElementById(`day-header-${key}-${dayNum}`).classList.add('active');
 
-            // Fit bounds to this day's markers
+            // Fit bounds to this day's markers (with padding for mobile sheet)
             const dayMarkers = itineraryMarkers.filter(m => m.day === dayNum);
             if (dayMarkers.length > 0) {
                 const coords = dayMarkers.map(m => m.coord);
                 const bounds = L.latLngBounds(coords);
-                map.fitBounds(bounds.pad(0.2));
+                map.fitBounds(bounds.pad(0.2), getMobileMapPadding());
             }
 
             // Reapply filter chips if active
@@ -4510,11 +4538,11 @@
                 header.classList.remove('active');
             });
 
-            // Fit bounds to all markers
+            // Fit bounds to all markers (with padding for mobile sheet)
             const allCoords = itineraryMarkers.map(m => m.coord);
             if (allCoords.length > 0) {
                 const bounds = L.latLngBounds(allCoords);
-                map.fitBounds(bounds.pad(0.1));
+                map.fitBounds(bounds.pad(0.1), getMobileMapPadding());
             }
 
             // Reapply filter chips if active
@@ -6268,8 +6296,14 @@
 
         function setChatModel(model) {
             chatModel = model;
+            // Update desktop buttons
             document.getElementById('modelHaiku').classList.toggle('active', model === 'haiku');
             document.getElementById('modelSonnet').classList.toggle('active', model === 'sonnet');
+            // Update mobile buttons
+            const mh = document.getElementById('mobileModelHaiku');
+            const ms = document.getElementById('mobileModelSonnet');
+            if (mh) mh.classList.toggle('active', model === 'haiku');
+            if (ms) ms.classList.toggle('active', model === 'sonnet');
         }
 
         function updateChatContext() {
@@ -7260,6 +7294,16 @@
             return window.innerWidth <= 768;
         }
 
+        // Returns fitBounds padding to account for the bottom sheet covering part of the map
+        function getMobileMapPadding() {
+            if (!isMobile()) return {};
+            const visibleSheet = document.querySelector('.mobile-tab-panel.sheet-visible');
+            if (!visibleSheet) return {};
+            const sheetH = visibleSheet.offsetHeight || 0;
+            // paddingBottomRight pushes the effective map viewport up so the center isn't hidden behind the sheet
+            return { paddingBottomRight: [0, sheetH], paddingTopLeft: [0, 0] };
+        }
+
         // ---- Sheet State Management ----
         function showMobileSheet(panelId, state) {
             const panel = document.getElementById(panelId);
@@ -7298,6 +7342,18 @@
             ['mobileTripsPanel', 'mobileSearchPanel', 'mobileChatPanel'].forEach(id => {
                 hideMobileSheet(id);
             });
+        }
+
+        function closeMobileSheet() {
+            // Close any visible sheet and return to map tab
+            hideAllMobileSheets();
+            mobileActiveTab = 'map';
+            document.querySelectorAll('.mobile-tab').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.tab === 'map');
+            });
+            const mapControls = document.getElementById('mobileMapControls');
+            if (mapControls) mapControls.style.display = '';
+            setTimeout(() => { if (map) map.invalidateSize(); }, 100);
         }
 
         function collapseMobileSheet() {
@@ -7740,6 +7796,16 @@
             // Then refresh our mobile UI
             buildMobileItinTabs();
             renderMobileItinContent();
+
+            // Re-fit map bounds with sheet padding after a tick (so layout has settled)
+            setTimeout(() => {
+                if (map) map.invalidateSize();
+                const allCoords = itineraryMarkers.map(m => m.coord);
+                if (allCoords.length > 0) {
+                    const bounds = L.latLngBounds(allCoords);
+                    map.fitBounds(bounds.pad(0.1), getMobileMapPadding());
+                }
+            }, 100);
         }
 
         function renderMobileItinContent() {
@@ -7751,11 +7817,56 @@
                 return;
             }
 
-            // Reuse the existing daysContainer content — copy from desktop
-            const desktopDays = document.getElementById('daysContainer');
-            if (desktopDays) {
-                container.innerHTML = desktopDays.innerHTML;
-            }
+            const key = currentItinerary;
+            const itin = itineraryData[key];
+            if (!itin || !itin.days) return;
+
+            // Build day cards directly for mobile (with proper event handlers)
+            container.innerHTML = '';
+
+            itin.days.forEach(dayData => {
+                const dayCard = document.createElement('div');
+                dayCard.className = 'day-card';
+
+                const header = document.createElement('div');
+                header.className = 'day-card-header';
+                header.id = 'mobile-day-header-' + key + '-' + dayData.day;
+                header.innerHTML = '<span>Day ' + dayData.day + ' — ' + escapeHtml(dayData.title) + '</span><span class="day-card-toggle">▼</span>';
+
+                // Tap to expand/collapse
+                header.onclick = function() {
+                    const content = header.nextElementSibling;
+                    content.classList.toggle('open');
+                    header.classList.toggle('active');
+                    const toggle = header.querySelector('.day-card-toggle');
+                    if (toggle) toggle.classList.toggle('open');
+
+                    if (content.classList.contains('open')) {
+                        showDay(key, dayData.day);
+                    }
+                };
+
+                const content = document.createElement('div');
+                content.className = 'day-card-content';
+
+                dayData.items.forEach(item => {
+                    const itemEl = document.createElement('div');
+                    itemEl.className = 'day-item ' + (item.type || '');
+                    if (item.coord) {
+                        itemEl.classList.add('has-coord');
+                        itemEl.onclick = function(e) {
+                            e.stopPropagation();
+                            panToMarker(item.coord[0], item.coord[1], item.name);
+                        };
+                    }
+                    itemEl.innerHTML = '<span class="day-item-type">' + formatType(item.type) + '</span><span class="day-item-name">' + escapeHtml(item.name) + '</span>';
+                    content.appendChild(itemEl);
+                });
+
+                dayCard.appendChild(header);
+                dayCard.appendChild(content);
+                container.appendChild(dayCard);
+            });
         }
 
         // ---- Trips Sub-Views (Notes/Bookings) ----
