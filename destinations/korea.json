@@ -1,0 +1,4199 @@
+{
+  "key": "korea",
+  "name": "Korea Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇰🇷",
+  "defaultCenter": [
+    36.5,
+    127.8
+  ],
+  "defaultZoom": 7,
+  "hotels": [
+    {
+      "name": "SIGNIEL Seoul",
+      "coord": [
+        37.512603899999995,
+        127.10252419999998
+      ],
+      "desc": "Luxury High-Rise Hotel; Lotte World Tower; Iconic skyline views",
+      "longDesc": "Perched in Lotte World Tower, this ultra-luxury hotel delivers iconic Seoul skyline views and world-class service from every angle, making it unforgettable for special occasions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=SIGNIEL%20Seoul&center=37.512603899999995,127.10252419999998",
+      "placeId": "ChIJy7zIwQqlfDURT2im2oOhtL4",
+      "address": "300 Olympic-ro, Songpa District, Seoul, South Korea"
+    },
+    {
+      "name": "Four Seasons Hotel Seoul",
+      "coord": [
+        37.57071,
+        126.9754143
+      ],
+      "desc": "Luxury Hotel; Central base for palaces/museums; First-timers",
+      "longDesc": "A perfectly central base for palace hopping and museum visits, this classic luxury hotel puts all of Seoul's cultural treasures within easy reach for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Hotel%20Seoul&center=37.57071,126.9754143",
+      "placeId": "ChIJ70ZLLpOifDUReqEQ7NGzGLw",
+      "address": "97 Saemunan-ro, Dangju-dong, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "The Shilla Seoul",
+      "coord": [
+        37.5559034,
+        127.0052509
+      ],
+      "desc": "Luxury Hotel; Resort-like grounds; Classic luxury",
+      "longDesc": "Set on lush, resort-like grounds with a serene feel, this iconic hotel offers a calming escape from the city buzz while staying perfectly central for exploring.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Shilla%20Seoul&center=37.5559034,127.0052509",
+      "placeId": "ChIJdZ4Nf-2ifDURcRPjLp2Z7Ek",
+      "address": "249 Dongho-ro, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Josun Palace, a Luxury Collection Hotel, Seoul",
+      "coord": [
+        37.502899899999996,
+        127.04131059999999
+      ],
+      "desc": "Luxury Hotel; Art Deco flair; Design-forward luxury",
+      "longDesc": "Art Deco elegance meets modern luxury in this design-forward hotel, beloved by travelers who appreciate thoughtful architecture and refined interiors.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Josun%20Palace%2C%20a%20Luxury%20Collection%20Hotel%2C%20Seoul&center=37.502899899999996,127.04131059999999",
+      "placeId": "ChIJF2kvqxSlfDURa9WIjeksuac",
+      "address": "Teheran-ro, 231 Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Le Méridien Seoul Myeongdong",
+      "coord": [
+        37.5617228,
+        126.9827076
+      ],
+      "desc": "Upscale Hotel; Convenient newish base; Shopping + sightseeing",
+      "longDesc": "A newer, upscale option right in the heart of the shopping and sightseeing action, offering convenience and excellent service without the ultra-premium price.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20M%C3%A9ridien%20Seoul%20Myeongdong&center=37.5617228,126.9827076",
+      "placeId": "ChIJ18vIr-KjfDURHZqvW4Yw_sI",
+      "address": "38 Myeongdong 8na-gil, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Hotel 28 Myeongdong",
+      "coord": [
+        37.5642997,
+        126.98392860000001
+      ],
+      "desc": "Boutique Hotel; Compact, polished rooms; Central base",
+      "longDesc": "Perfectly positioned for shopping and culture, this stylish boutique hotel offers polished, compact rooms and an unbeatable central location.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%2028%20Myeongdong&center=37.5642997,126.98392860000001",
+      "placeId": "ChIJ2XDt1e-ifDURau3wypKSFjA",
+      "address": "13 Myeongdong 7-gil, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Mondrian Seoul Itaewon",
+      "coord": [
+        37.5285106,
+        126.99311629999998
+      ],
+      "desc": "Lifestyle Hotel; Rooftop/pool scene; Nightlife",
+      "longDesc": "A lifestyle hotel with a rooftop pool and bar scene that draws sophisticated travelers and families looking for modern design and vibrant energy.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mondrian%20Seoul%20Itaewon&center=37.5285106,126.99311629999998",
+      "placeId": "ChIJbbjhu1ijfDURyEhttIL8YIo",
+      "address": "23 Jangmun-ro, Yongsan District, Seoul, South Korea"
+    },
+    {
+      "name": "RYSE",
+      "coord": [
+        37.5543695,
+        126.92128
+      ],
+      "desc": "Design Hotel; Great base for Hongdae; Creative district",
+      "longDesc": "A creative-minded, design-forward hotel that captures the artistic spirit of Hongdae's indie galleries and vintage shops, perfect for art-loving families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=RYSE&center=37.5543695,126.92128",
+      "placeId": "ChIJjRmjUNuYfDURT0N7yVkAjhI",
+      "address": "South Korea, Seoul, Mapo-gu, 130 Yanghwa-ro, RYSE, Autograph Collection"
+    },
+    {
+      "name": "voco Seoul Gangnam",
+      "coord": [
+        37.517799,
+        127.02471360000001
+      ],
+      "desc": "Upscale Hotel; Comfortable rooms; Value-leaning upscale",
+      "longDesc": "Offering solid value for upscale travelers, this comfortable, well-run hotel in trendy Gangnam balances quality service with approachable pricing.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=voco%20Seoul%20Gangnam&center=37.517799,127.02471360000001",
+      "placeId": "ChIJjRb8DuyjfDUR8I9kgSd9LDA",
+      "address": "144 Dosan-daero, 논현1동 Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "L7 Myeongdong",
+      "coord": [
+        37.561246,
+        126.986967
+      ],
+      "desc": "Upscale Hotel; Great transit access; Convenience + views",
+      "longDesc": "With excellent transit access and elevated views, this upscale spot delivers both convenience and a sense of arrival without breaking the bank.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L7%20Myeongdong&center=37.561246,126.986967",
+      "placeId": "ChIJcZJwhfqifDUR86R7ivbmGuY",
+      "address": "137 Toegye-ro, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "SIGNIEL Busan",
+      "coord": [
+        35.1599375,
+        129.1698125
+      ],
+      "desc": "Luxury Beach Hotel; Oceanfront in Haeundae; Beach luxury",
+      "longDesc": "An oceanfront luxury resort in Haeundae Beach, this hotel offers the ultimate beach escape with sophisticated amenities and sea-view dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=SIGNIEL%20Busan&center=35.1599375,129.1698125",
+      "placeId": "ChIJSSysvS6NaDURhr99N981zfQ",
+      "address": "30 Dalmaji-gil, Haeundae, Busan, South Korea"
+    },
+    {
+      "name": "Grand Josun Busan",
+      "coord": [
+        35.1600161,
+        129.1630504
+      ],
+      "desc": "Luxury Hotel; Modern luxury near beach; Families",
+      "longDesc": "Modern luxury designed with families in mind, this well-located hotel near the beach provides excellent service and beachfront access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Josun%20Busan&center=35.1600161,129.1630504",
+      "placeId": "ChIJ168DGl2NaDURov_XuLGtvOU",
+      "address": "292 Haeundaehaebyeon-ro, Haeundae, Busan, South Korea"
+    },
+    {
+      "name": "JW Marriott Jeju Resort & Spa",
+      "coord": [
+        33.243829,
+        126.53863039999999
+      ],
+      "desc": "Luxury Resort; Resort-level spa; Wellness + special occasions",
+      "longDesc": "A wellness-focused luxury resort with world-class spa treatments using Korean skincare traditions, ideal for parents seeking relaxation and rejuvenation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=JW%20Marriott%20Jeju%20Resort%20%26%20Spa&center=33.243829,126.53863039999999",
+      "placeId": "ChIJrSfOfD1TDDURKQeDOdrb9ig",
+      "address": "399 Hogeun-dong, Seogwipo, Jeju-do, South Korea"
+    },
+    {
+      "name": "Grand Hyatt Jeju",
+      "coord": [
+        33.4853707,
+        126.4815713
+      ],
+      "desc": "Luxury Urban Resort; Huge property; Families",
+      "longDesc": "A sprawling family-friendly resort with numerous facilities, restaurants, and activities all on-property, perfect for kids who want constant entertainment.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Hyatt%20Jeju&center=33.4853707,126.4815713",
+      "placeId": "ChIJoS4LPgz7DDURUcX6vlTxSt4",
+      "address": "12 Noyeon-ro, Cheju, Jeju-do, South Korea"
+    },
+    {
+      "name": "The Westin Josun Seoul Hotel",
+      "coord": [
+        37.564378,
+        126.98005799999999
+      ],
+      "desc": "Luxury Hotel, Reliable comfort in, Central shopping + museums",
+      "longDesc": "Luxury Hotel Reliable comfort in the CBD; great for multi-gen trips Perfect for Central shopping + museums",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Westin%20Josun%20Seoul%20Hotel&center=37.564378,126.98005799999999",
+      "placeId": "ChIJOU6vRvGifDURxaO44QBIj-I",
+      "address": "106 Sogong-ro, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Park Hyatt Seoul",
+      "coord": [
+        37.5085791,
+        127.06416759999999
+      ],
+      "desc": "Ultra-luxury peak icon, Apgujeong neighborhood, rooftop dining",
+      "longDesc": "Seoul's most coveted luxury address, offering panoramic city views, world-class service, and a legendary rooftop with modern Korean fine dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Park%20Hyatt%20Seoul&center=37.5085791,127.06416759999999",
+      "placeId": "ChIJJ2ET5GykfDURA1WF7RcGtIo",
+      "address": "606 Teheran-ro, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Grand Hyatt Seoul",
+      "coord": [
+        37.539431799999996,
+        126.997519
+      ],
+      "desc": "Luxury Hotel, Large grounds; seasonal, Families + pools; hilltop views",
+      "longDesc": "Luxury Hotel Large grounds; seasonal outdoor pool; good for kids Perfect for Families + pools; hilltop views",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Hyatt%20Seoul&center=37.539431799999996,126.997519",
+      "placeId": "ChIJm00QzrKjfDURrmF3qXVQJCk",
+      "address": "322 Sowol-ro, Yongsan District, Seoul, South Korea"
+    },
+    {
+      "name": "Conrad Seoul",
+      "coord": [
+        37.5253343,
+        126.92655490000001
+      ],
+      "desc": "Luxury Business Hotel, Direct IFC access;, Business + Han River access",
+      "longDesc": "Luxury Business Hotel Direct IFC access; sleek rooms; solid lounge options Perfect for Business + Han River access",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Conrad%20Seoul&center=37.5253343,126.92655490000001",
+      "placeId": "ChIJbfiu7TuffDUR0gqGAsSRDoc",
+      "address": "10 Gukjegeumyung-ro, Yeongdeungpo District, Seoul, South Korea"
+    },
+    {
+      "name": "Fairmont Ambassador Seoul",
+      "coord": [
+        37.5251539,
+        126.92907199999999
+      ],
+      "desc": "Luxury Hotel, IFC complex; spacious, Modern luxury; families",
+      "longDesc": "Luxury Hotel IFC complex; spacious rooms; easy airport access Perfect for Modern luxury; families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fairmont%20Ambassador%20Seoul&center=37.5251539,126.92907199999999",
+      "placeId": "ChIJBcNO692ffDUR3keIXE6V49w",
+      "address": "108 Yeoui-daero, Yeongdeungpo District, Seoul, South Korea"
+    },
+    {
+      "name": "Lotte Hotel Seoul",
+      "coord": [
+        37.5653,
+        126.98097899999999
+      ],
+      "desc": "Luxury Hotel, Connected to Lotte, Shopping + convenience",
+      "longDesc": "Luxury Hotel Connected to Lotte Dept Store; big-service hotel Perfect for Shopping + convenience",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lotte%20Hotel%20Seoul&center=37.5653,126.98097899999999",
+      "placeId": "ChIJ92BD_-2ifDURWdfj5R8TWjs",
+      "address": "30 Eulji-ro, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Sofitel Ambassador Seoul Hotel",
+      "coord": [
+        37.5137247,
+        127.10613749999999
+      ],
+      "desc": "Luxury Hotel, French touch; serviced, Lotte World area; families",
+      "longDesc": "Luxury Hotel French touch; serviced residences option; lake/sky views Perfect for Lotte World area; families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sofitel%20Ambassador%20Seoul%20Hotel&center=37.5137247,127.10613749999999",
+      "placeId": "ChIJlZ-1mH6lfDUR63jmyM72D2k",
+      "address": "209 Jamsil-ro, Songpa District, Seoul, South Korea"
+    },
+    {
+      "name": "Andaz Seoul Gangnam",
+      "coord": [
+        37.5254876,
+        127.0289201
+      ],
+      "desc": "Luxury Lifestyle Hotel, Bold design; great, K-style; shopping; cafes",
+      "longDesc": "Luxury Lifestyle Hotel Bold design; great neighborhood; strong F&B Perfect for K-style; shopping; cafes",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Andaz%20Seoul%20Gangnam&center=37.5254876,127.0289201",
+      "placeId": "ChIJix_5SI6jfDURODDRE4Ama2M",
+      "address": "854 Nonhyeon-ro, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Grand InterContinental Seoul Parnas",
+      "coord": [
+        37.508882299999996,
+        127.0608141
+      ],
+      "desc": "Luxury Business Hotel, Direct COEX access;, Business; conventions; families",
+      "longDesc": "Luxury Business Hotel Direct COEX access; big rooms; excellent breakfast Perfect for Business; conventions; families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20InterContinental%20Seoul%20Parnas&center=37.508882299999996,127.0608141",
+      "placeId": "ChIJUaViwBqkfDURCliWomwg4-E",
+      "address": "Teheran-ro, 521 Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Naru Seoul - MGallery",
+      "coord": [
+        37.5371879,
+        126.94427209999999
+      ],
+      "desc": "Design Hotel, Han River panorama;, Couples; river views",
+      "longDesc": "Design Hotel Han River panorama; calm base; contemporary interiors Perfect for Couples; river views",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Naru%20Seoul%20-%20MGallery&center=37.5371879,126.94427209999999",
+      "placeId": "ChIJWWBkhw6ZfDUR4_gafug1YtY",
+      "address": "8 Mapo-daero, Mapo-gu, Seoul, South Korea"
+    },
+    {
+      "name": "JW Marriott Dongdaemun Square",
+      "coord": [
+        37.570407599999996,
+        127.00878200000001
+      ],
+      "desc": "Luxury Hotel, Indoor pool; DDP, Fashion district; families",
+      "longDesc": "Luxury Hotel Indoor pool; DDP next door; easy late-night exploring Perfect for Fashion district; families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=JW%20Marriott%20Dongdaemun%20Square&center=37.570407599999996,127.00878200000001",
+      "placeId": "ChIJG3DtPjujfDURYLo4yZIGnIc",
+      "address": "279 Cheonggyecheon-ro, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "L'Escape Hotel",
+      "coord": [
+        37.5600844,
+        126.97962919999999
+      ],
+      "desc": "Boutique Hotel, Parisian Belle Époque, Design lovers; couples",
+      "longDesc": "Boutique Hotel Parisian Belle Époque vibe; great nightlife base Perfect for Design lovers; couples",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27Escape%20Hotel&center=37.5600844,126.97962919999999",
+      "placeId": "ChIJowSZKaWjfDUR7z4UjO23E10",
+      "address": "67 Toegye-ro, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Vista Walkerhill Seoul",
+      "coord": [
+        37.5543699,
+        127.1112096
+      ],
+      "desc": "Resort-Style City Hotel, Han River hillside;, Families; resort feel in city",
+      "longDesc": "Resort-Style City Hotel Han River hillside; pools; plenty of space Perfect for Families; resort feel in city",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Vista%20Walkerhill%20Seoul&center=37.5543699,127.1112096",
+      "placeId": "ChIJ7zoTp7C6fDURIaLI8YJEiF8",
+      "address": "177 Walkerhill-ro, Gwangjin District, Seoul, South Korea"
+    },
+    {
+      "name": "Walkerhill Douglas House",
+      "coord": [
+        37.5558804,
+        127.10898060000001
+      ],
+      "desc": "Boutique Retreat, Adult-leaning retreat vibe;, Quiet luxury; couples",
+      "longDesc": "Boutique Retreat Adult-leaning retreat vibe; wooded setting Perfect for Quiet luxury; couples",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Walkerhill%20Douglas%20House&center=37.5558804,127.10898060000001",
+      "placeId": "ChIJ9YjD9rm6fDURt4uEE3KhXkg",
+      "address": "South Korea, Seoul, Gwangjin District, Walkerhill-ro, 177 워커힐로 177 광진구 서울특별시 KR 04963"
+    },
+    {
+      "name": "GRAVITY Seoul Pangyo, Autograph Collection",
+      "coord": [
+        37.393426999999996,
+        127.11010180000001
+      ],
+      "desc": "Upscale Hotel, Modern rooms; convenient, Tech/business; quieter base",
+      "longDesc": "Upscale Hotel Modern rooms; convenient for Pangyo/Seoul Day trips Perfect for Tech/business; quieter base",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=GRAVITY%20Seoul%20Pangyo%2C%20Autograph%20Collection&center=37.393426999999996,127.11010180000001",
+      "placeId": "ChIJSdaCThNZezUR8LNhHXmKqK0",
+      "address": "146번길 2 Pangyoyeok-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, South Korea"
+    },
+    {
+      "name": "Hotel Cappuccino",
+      "coord": [
+        37.506796099999995,
+        127.03152479999999
+      ],
+      "desc": "Boutique Hotel, Playful design; good, Stylish value; short stays",
+      "longDesc": "Boutique Hotel Playful design; good neighborhood access Perfect for Stylish value; short stays",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Cappuccino&center=37.506796099999995,127.03152479999999",
+      "placeId": "ChIJQYpfDPujfDURT0sqCZMLlyQ",
+      "address": "155 Bongeunsa-ro, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "La Casa Hotel Seoul",
+      "coord": [
+        37.52210590000001,
+        127.0194807
+      ],
+      "desc": "Boutique Hotel, Garosu-gil base; easy, Shopping; café-hopping",
+      "longDesc": "Boutique Hotel Garosu-gil base; easy Gangnam access Perfect for Shopping; café-hopping",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Casa%20Hotel%20Seoul&center=37.52210590000001,127.0194807",
+      "placeId": "ChIJ4bySrIujfDURsHsocRYzEqA",
+      "address": "83 Dosan-daero 1-gil, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Grand Hyatt Incheon",
+      "coord": [
+        37.4404925,
+        126.4574508
+      ],
+      "desc": "Airport Luxury Hotel, Large rooms; reliable, Layovers; families",
+      "longDesc": "Airport Luxury Hotel Large rooms; reliable airport logistics Perfect for Layovers; families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Hyatt%20Incheon&center=37.4404925,126.4574508",
+      "placeId": "ChIJVYAJjWeaezURdFrsbZa27f4",
+      "address": "208 Yeongjonghaeannam-ro 321beon-gil, Jung-gu, Incheon, South Korea"
+    },
+    {
+      "name": "Nest Hotel Incheon",
+      "coord": [
+        37.4249727,
+        126.42806709999999
+      ],
+      "desc": "Design Hotel, Beachy-modern vibe; good, Design + airport proximity",
+      "longDesc": "Design Hotel Beachy-modern vibe; good pre/post-flight stay Perfect for Design + airport proximity",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nest%20Hotel%20Incheon&center=37.4249727,126.42806709999999",
+      "placeId": "ChIJIVlojq6QezURmUuIiznB3_U",
+      "address": "19-5 Yeongjonghaeannam-ro, Jung-gu, Incheon, South Korea"
+    },
+    {
+      "name": "Paradise City Incheon",
+      "coord": [
+        37.4370548,
+        126.45579869999999
+      ],
+      "desc": "Integrated Resort, Art-filled resort; dining;, Families; all-in-one resort",
+      "longDesc": "Integrated Resort Art-filled resort; dining; entertainment; Cimer spa Perfect for Families; all-in-one resort",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Paradise%20City%20Incheon&center=37.4370548,126.45579869999999",
+      "placeId": "ChIJpVxgEOybezURxtwahZfhvz8",
+      "address": "186 Yeongjonghaeannam-ro 321beon-gil, Jung-gu, Incheon, South Korea"
+    },
+    {
+      "name": "Art Paradiso, Paradise City",
+      "coord": [
+        37.436993799999996,
+        126.45794049999998
+      ],
+      "desc": "Boutique Luxury Hotel, Design-forward; luxe suites;, Adults; design + nightlife",
+      "longDesc": "Boutique Luxury Hotel Design-forward; luxe suites; steps to resort amenities Perfect for Adults; design + nightlife",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Art%20Paradiso%2C%20Paradise%20City&center=37.436993799999996,126.45794049999998",
+      "placeId": "ChIJe0FFWACbezURDN2441U4to4",
+      "address": "Yeongjonghaeannam-ro, Jung-gu, Incheon, South Korea"
+    },
+    {
+      "name": "Park Hyatt Busan",
+      "coord": [
+        35.156544499999995,
+        129.1419018
+      ],
+      "desc": "Luxury Design Hotel, Marina + bridge, Architecture + marina views",
+      "longDesc": "Luxury Design Hotel Marina + bridge views; excellent lounge/bar Perfect for Architecture + marina views",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Park%20Hyatt%20Busan&center=35.156544499999995,129.1419018",
+      "placeId": "ChIJBRCVoa-SaDUR5WZTmqTcA5o",
+      "address": "51 Marine city 1-ro, Haeundae, Busan, South Korea"
+    },
+    {
+      "name": "The Westin Josun Busan",
+      "coord": [
+        35.1559466,
+        129.1540745
+      ],
+      "desc": "Luxury Beach Hotel, Prime beach access;, Classic beachfront base",
+      "longDesc": "Luxury Beach Hotel Prime beach access; great for families Perfect for Classic beachfront base",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Westin%20Josun%20Busan&center=35.1559466,129.1540745",
+      "placeId": "ChIJly6CvLaTaDURumwOFDhsPDk",
+      "address": "South Korea, Busan, 67 Dongbaek-ro, Haeundae"
+    },
+    {
+      "name": "Ananti at Busan Cove",
+      "coord": [
+        35.200575799999996,
+        129.22928729999998
+      ],
+      "desc": "Resort, Coastal resort complex;, Resort weekends; families",
+      "longDesc": "Resort Coastal resort complex; pools + sea views Perfect for Resort weekends; families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ananti%20at%20Busan%20Cove&center=35.200575799999996,129.22928729999998",
+      "placeId": "ChIJ_e4stqiOaDURCUNizJBzsHQ",
+      "address": "268-31 Gijanghaean-ro, Gijang-eup, Gijang, Busan, South Korea"
+    },
+    {
+      "name": "Good Ol' Days Hotel",
+      "coord": [
+        35.1011124,
+        129.035885
+      ],
+      "desc": "Boutique Hotel, Great base for, Central, walkable Busan",
+      "longDesc": "Boutique Hotel Great base for markets + old-town; stylish rooms Perfect for Central, walkable Busan",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Good%20Ol%27%20Days%20Hotel&center=35.1011124,129.035885",
+      "placeId": "ChIJCaF6iBrpaDURuml3ak79X6A",
+      "address": "5 Jungang-daero 41beon-gil, Jung-gu, Busan, South Korea"
+    },
+    {
+      "name": "The Shilla Jeju",
+      "coord": [
+        33.2471631,
+        126.4079553
+      ],
+      "desc": "Luxury Resort, Classic Jeju luxury;, Beach resort; families",
+      "longDesc": "Luxury Resort Classic Jeju luxury; large grounds; pools Perfect for Beach resort; families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Shilla%20Jeju&center=33.2471631,126.4079553",
+      "placeId": "ChIJVYmnYM9aDDUR4jnTKUd1pwk",
+      "address": "75 Jungmungwangwang-ro 72beon-gil, 특별자치도, Seogwipo, Jeju-do, South Korea"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Mingles",
+      "coord": [
+        37.5253386,
+        127.04414519999999
+      ],
+      "desc": "Contemporary Korean; MICHELIN 3-star (reservation essential)",
+      "longDesc": "Korea's highest-rated restaurant, Mingles delivers refined contemporary Korean cuisine that respects tradition while pushing boundaries—reserve well in advance.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mingles&center=37.5253386,127.04414519999999",
+      "placeId": "ChIJjXuM24mjfDURSwmouRnxNlM",
+      "address": "South Korea, Seoul, Gangnam District, Dosan-daero 67-gil, 19 힐탑빌딩 2층"
+    },
+    {
+      "name": "Soigné",
+      "coord": [
+        37.5193295,
+        127.01903259999999
+      ],
+      "desc": "Modern Cuisine; MICHELIN 2-star",
+      "longDesc": "A intimate 2-star jewel serving modern cuisine with meticulous technique, beloved by food-focused travelers seeking an understated yet exceptional experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Soign%C3%A9&center=37.5193295,127.01903259999999",
+      "placeId": "ChIJIU2RrnahfDURNvCJDhODupM",
+      "address": "South Korea, Seoul, Gangnam District, Sinsa-dong, SINSA SQUARE, 2F"
+    },
+    {
+      "name": "Evett",
+      "coord": [
+        37.5233759,
+        127.03621329999999
+      ],
+      "desc": "Contemporary cuisine; MICHELIN 2-star innovation",
+      "longDesc": "A two-star chef's kitchen where creativity and technique shine through unexpected flavor combinations and precise plating.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Evett&center=37.5233759,127.03621329999999",
+      "placeId": "ChIJTaVjWi6hfDURVegqLOB9oSs",
+      "address": "10-5 Dosan-daero 45-gil, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Jungsik",
+      "coord": [
+        37.525673399999995,
+        127.04108459999999
+      ],
+      "desc": "Modern Korean; MICHELIN 2-star",
+      "longDesc": "This 2-star modern Korean restaurant balances innovation with Korean roots, serving dishes that feel both exciting and rooted in culinary tradition.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jungsik&center=37.525673399999995,127.04108459999999",
+      "placeId": "ChIJLwsYxYijfDURiJD-QZw6MYU",
+      "address": "11 Seolleung-ro 158-gil, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Kwonsooksoo",
+      "coord": [
+        37.5243775,
+        127.0435589
+      ],
+      "desc": "Korean fine dining; MICHELIN 2-star; classical elegance",
+      "longDesc": "Refined Korean cuisine honored through masterful technique and seasonal ingredients, offering tradition elevated to an art form.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kwonsooksoo&center=37.5243775,127.0435589",
+      "placeId": "ChIJZ1-yoYijfDURvkRg_wdaQao",
+      "address": "37 Apgujeong-ro 80-gil, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "alla prima",
+      "coord": [
+        37.513413799999995,
+        127.0260405
+      ],
+      "desc": "Innovative modern cuisine; MICHELIN 2-star Seoul",
+      "longDesc": "A chef-driven restaurant where culinary innovation meets impeccable technique, creating surprising yet harmonious dishes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=alla%20prima&center=37.513413799999995,127.0260405",
+      "placeId": "ChIJsdM8l_KjfDURobnSNkInVo8",
+      "address": "13 Hakdong-ro 17-gil, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Mitou",
+      "coord": [
+        37.522197399999996,
+        127.04503059999999
+      ],
+      "desc": "Japanese kaiseki; MICHELIN 2-star; Tokyo-trained",
+      "longDesc": "An intimate omakase experience showcasing seasonal Japanese seafood and technique, served in a serene counter setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mitou&center=37.522197399999996,127.04503059999999",
+      "placeId": "ChIJGZ6vIe2jfDURWOUsVCO94cA",
+      "address": "South Korea, Seoul, Gangnam District, 청담동 17-24 1층"
+    },
+    {
+      "name": "Restaurant Allen",
+      "coord": [
+        37.5036006,
+        127.0418041
+      ],
+      "desc": "Contemporary; MICHELIN 2-star; intimate Seoul gem",
+      "longDesc": "A small-counter restaurant where the chef works intimately with guests, crafting personalized contemporary cuisine.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Allen&center=37.5036006,127.0418041",
+      "placeId": "ChIJQ-Y88belfDURrUsKUS6HMVY",
+      "address": "South Korea, Seoul, KR 서울특별시 강남구 테헤란로 231 EAST 2층 E205호"
+    },
+    {
+      "name": "Yu Yuan",
+      "coord": [
+        37.570896,
+        126.97547859999999
+      ],
+      "desc": "Cantonese; MICHELIN 1-star; excellent dining experience",
+      "longDesc": "This Michelin-recognized Cantonese restaurant in Seoul brings authentic dim sum and Cantonese classics to Korea.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yu%20Yuan&center=37.570896,126.97547859999999",
+      "placeId": "ChIJ3dVqNJOifDURoB_zAowK8I0",
+      "address": "97 Saemunan-ro, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Onjium",
+      "coord": [
+        37.5804867,
+        126.97334880000001
+      ],
+      "desc": "Royal Korean cuisine; MICHELIN 1-star; Bukchon's traditional dining",
+      "longDesc": "A 1-star Korean restaurant offering refined comfort-food-inspired cuisine that feels both nourishing and elevated.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Onjium&center=37.5804867,126.97334880000001",
+      "placeId": "ChIJk5DRDD2jfDURUA4aAk0Frx0",
+      "address": "South Korea, Seoul, Jongno District, Hyoja-ro, 49 4층"
+    },
+    {
+      "name": "Muni",
+      "coord": [
+        37.522911,
+        127.04544999999999
+      ],
+      "desc": "Traditional Korean; MICHELIN 1-star; Jongno's heritage cuisine",
+      "longDesc": "A 1-star contemporary Korean kitchen outside Seoul, showcasing regional ingredients and techniques with modern sensibility.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Muni&center=37.522911,127.04544999999999",
+      "placeId": "ChIJ_TH_xA2lfDURO7DMMZXDl9U",
+      "address": "16 Dosan-daero 72-gil, 청담동 Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Bicena",
+      "coord": [
+        37.5126072,
+        127.10253859999997
+      ],
+      "desc": "Refined Korean; MICHELIN 1-star; Jongno's heritage restaurant",
+      "longDesc": "A 1-star Korean restaurant known for meticulous execution and respect for ingredients, delivering satisfying, well-crafted meals.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bicena&center=37.5126072,127.10253859999997",
+      "placeId": "ChIJIQaZkQqlfDUR5qNX-DM-Blw",
+      "address": "South Korea, Seoul, Songpa District, Sincheon-dong, Olympic-ro, 300 롯데월드 타워 81층"
+    },
+    {
+      "name": "Solbam",
+      "coord": [
+        37.5157568,
+        127.03411089999999
+      ],
+      "desc": "Modern Cuisine; MICHELIN 1-star",
+      "longDesc": "A 1-star modern cuisine restaurant where the chef's perspective shapes a distinctive, personal dining experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Solbam&center=37.5157568,127.03411089999999",
+      "placeId": "ChIJL2hHUjujfDURbxzijlzZtxs",
+      "address": "South Korea, Seoul, Gangnam District, Nonhyeon-dong, Hakdong-ro, 231 백영센터 2층"
+    },
+    {
+      "name": "Sosuheon",
+      "coord": [
+        37.5529456,
+        126.96340309999998
+      ],
+      "desc": "Classical Korean; MICHELIN 1-star; Insadong's seasonal cooking",
+      "longDesc": "A 1-star Korean restaurant with a loyal following for its refined approach to traditional flavors and elegant presentation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sosuheon&center=37.5529456,126.96340309999998",
+      "placeId": "ChIJ6fwnPgCjfDURRK3JXHKApos",
+      "address": "283 Malli-dong 2(i)-ga, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Sushi Matsumoto",
+      "coord": [
+        37.5257571,
+        127.04566609999999
+      ],
+      "desc": "Sushi/Omakase; MICHELIN 1-star",
+      "longDesc": "An exceptional 1-star omakase experience with master-level sushi craftsmanship, delivering silky rice and pristine fish.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sushi%20Matsumoto&center=37.5257571,127.04566609999999",
+      "placeId": "ChIJ5WOsGoyjfDUR9wNJyWemF5A",
+      "address": "South Korea, Seoul, Gangnam District, Dosan-daero 75-gil, 24 1층"
+    },
+    {
+      "name": "L'Amant Secret",
+      "coord": [
+        37.5598403,
+        126.97951339999999
+      ],
+      "desc": "Modern Korean; MICHELIN 1-star",
+      "longDesc": "A 1-star modern Korean restaurant tucked away outside the city center, offering personalized, ingredient-focused cuisine.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27Amant%20Secret&center=37.5598403,126.97951339999999",
+      "placeId": "ChIJVZ4zFyOjfDURrY5_G1k5F7A",
+      "address": "67 Toegye-ro, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Zero Complex",
+      "coord": [
+        37.5208176,
+        126.9929013
+      ],
+      "desc": "Modern Korean fusion; MICHELIN 1-star; Jongno's fine dining gem",
+      "longDesc": "A 1-star contemporary kitchen outside Seoul showcasing the chef's innovative approach to seasonal ingredients.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Zero%20Complex&center=37.5208176,126.9929013",
+      "placeId": "ChIJ3xNCtMWjfDURi88O7OCijdM",
+      "address": "11-8 Seobinggo-ro 59-gil, Yongsan District, Seoul, South Korea"
+    },
+    {
+      "name": "Exquisine",
+      "coord": [
+        37.5210272,
+        127.04965899999999
+      ],
+      "desc": "Contemporary cuisine; MICHELIN 1-star; Insadong's culinary art",
+      "longDesc": "A 1-star contemporary restaurant in central Seoul delivering refined techniques and memorable flavor combinations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Exquisine&center=37.5210272,127.04965899999999",
+      "placeId": "ChIJVVjCIW6kfDUR7cOSCmAmdUE",
+      "address": "6 Samseong-ro 140-gil, Cheongdam-dong, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Haobin",
+      "coord": [
+        37.5601792,
+        127.00239529999999
+      ],
+      "desc": "Chinese; MICHELIN 1-star; excellent dining experience",
+      "longDesc": "A Michelin-recognized Chinese restaurant bringing authentic Northern Chinese cuisine and technique to Seoul.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Haobin&center=37.5601792,127.00239529999999",
+      "placeId": "ChIJN4BClAKjfDUR_ear9V64CTc",
+      "address": "287 Dongho-ro, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Légume",
+      "coord": [
+        37.519456999999996,
+        127.01911869999999
+      ],
+      "desc": "Vegan/Vegetable-forward; MICHELIN 1-star",
+      "longDesc": "A unique 1-star vegetable-forward restaurant offering creative, satisfying plant-based dining that delights vegetarians and omnivores alike.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L%C3%A9gume&center=37.519456999999996,127.01911869999999",
+      "placeId": "ChIJG4cH3j6jfDURUapdZ0hDtX0",
+      "address": "652 Gangnam-daero, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "VINHO",
+      "coord": [
+        37.518636099999995,
+        127.0381596
+      ],
+      "desc": "Wine Bar / Small Plates; MICHELIN 1-star",
+      "longDesc": "A cozy 1-star wine bar and small plates spot perfect for casual, wine-paired grazing with discerning flavors.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=VINHO&center=37.518636099999995,127.0381596",
+      "placeId": "ChIJqWOZj6KjfDURWWKxJdKW6-I",
+      "address": "South Korea, Seoul, KR 서울특별시 강남구 학동로43길 38 논현웰스톤 지상 162호 VINHO"
+    },
+    {
+      "name": "y'east",
+      "coord": [
+        37.5263299,
+        127.03556689999999
+      ],
+      "desc": "Innovative Korean; MICHELIN 1-star; Hongdae's creative kitchen",
+      "longDesc": "A 1-star contemporary kitchen in Busan showcasing the chef's creative approach to fresh, local ingredients.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=y%27east&center=37.5263299,127.03556689999999",
+      "placeId": "ChIJB2BRX3OjfDURrLzEVUCryxk",
+      "address": "South Korea, Seoul, Gangnam District, Sinsa-dong, Eonju-ro 170-gil, 26-6 3층"
+    },
+    {
+      "name": "KANG MINCHUL Restaurant",
+      "coord": [
+        37.5249753,
+        127.04364450000001
+      ],
+      "desc": "Contemporary Korean; MICHELIN 1-star; Insadong fine dining",
+      "longDesc": "A 1-star Korean contemporary restaurant delivering refined traditional flavors with modern presentation and technique.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=KANG%20MINCHUL%20Restaurant&center=37.5249753,127.04364450000001",
+      "placeId": "ChIJX-lvM5WlfDURSDv31GaVe4g",
+      "address": "18 5F Dosan-daero 63-gil, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "YUN",
+      "coord": [
+        37.545553999999996,
+        127.0513514
+      ],
+      "desc": "Modern Korean; MICHELIN 1-star; Myeongdong upscale dining",
+      "longDesc": "A 1-star contemporary restaurant in Busan where the chef's personal vision creates a distinctive, memorable experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=YUN&center=37.545553999999996,127.0513514",
+      "placeId": "ChIJjQqvVEmlfDURCOUm-JS-1LI",
+      "address": "1층, 66 Achasan-ro, Seongdong-gu, Seoul, South Korea"
+    },
+    {
+      "name": "HANE",
+      "coord": [
+        37.5275744,
+        127.0348666
+      ],
+      "desc": "Korean modern; MICHELIN 1-star; Myeongdong's innovative kitchen",
+      "longDesc": "A 1-star Korean contemporary restaurant known for precise execution and creative takes on familiar Korean dishes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=HANE&center=37.5275744,127.0348666",
+      "placeId": "ChIJ05Zoz1-jfDURNjPePpknw5k",
+      "address": "14 Eonju-ro 172-gil, Apgujeong-dong, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "7th Door",
+      "coord": [
+        37.522371199999995,
+        127.05429789999998
+      ],
+      "desc": "Seasonal tasting; MICHELIN 1-star; Sinsa's exclusive experience",
+      "longDesc": "A 1-star contemporary kitchen delivering innovative cuisine in an intimate Seoul setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=7th%20Door&center=37.522371199999995,127.05429789999998",
+      "placeId": "ChIJJ1xm8n-lfDUR5AOAQSJ0oeM",
+      "address": "South Korea, Seoul, Gangnam District, Hakdong-ro 97-gil, 41 4층"
+    },
+    {
+      "name": "Goryori Ken",
+      "coord": [
+        37.5229904,
+        127.0348126
+      ],
+      "desc": "Kaiseki/Japanese; MICHELIN 1-star",
+      "longDesc": "A 1-star kaiseki restaurant bringing authentic Japanese technique and ingredient focus to Seoul's dining scene.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Goryori%20Ken&center=37.5229904,127.0348126",
+      "placeId": "ChIJzfoBFYajfDUR-x_J11iVJdU",
+      "address": "15-3 Eonju-ro 152-gil, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Gigas",
+      "coord": [
+        37.556967199999995,
+        126.97809339999999
+      ],
+      "desc": "Contemporary; MICHELIN 1-star; excellent dining experience",
+      "longDesc": "A 1-star contemporary restaurant where innovative cooking and refined flavors create engaging, memorable meals.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gigas&center=37.556967199999995,126.97809339999999",
+      "placeId": "ChIJ971zYXGjfDURWeiU2g-VPvI",
+      "address": "South Korea, Seoul, Jung District, Toegye-ro 6ga-gil, 30 3층"
+    },
+    {
+      "name": "Eatanic Garden",
+      "coord": [
+        37.5030426,
+        127.04158799999998
+      ],
+      "desc": "Garden dining; MICHELIN 1-star; Sinsa's organic focus",
+      "longDesc": "A 1-star Korean contemporary restaurant celebrating seasonal ingredients with creative, balanced dishes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Eatanic%20Garden&center=37.5030426,127.04158799999998",
+      "placeId": "ChIJKWHZw3alfDUR5A5F61Oqj5I",
+      "address": "조선 팰리스(센터필드 웨스트 타워 231, 테헤란로 강남구 서울특별시 South Korea"
+    },
+    {
+      "name": "Myeongdong Kyoja",
+      "coord": [
+        37.5625266,
+        126.98560900000001
+      ],
+      "desc": "Kalguksu + Mandu; Bib Gourmand classic",
+      "longDesc": "A legendary casual spot serving hand-pulled kalguksu and plump dumplings—cheap, cheerful, and genuinely delicious.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Myeongdong%20Kyoja&center=37.5625266,126.98560900000001",
+      "placeId": "ChIJW7FBDfCifDURHTpisLbVUH0",
+      "address": "29 Myeongdong 10-gil, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Mandujip",
+      "coord": [
+        37.5278827,
+        127.0389978
+      ],
+      "desc": "Dumplings; Bib Gourmand; excellent dining experience",
+      "longDesc": "A cozy dumpling specialist offering flavorful, generously-filled dumplings at prices that make multiple orders inevitable.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mandujip&center=37.5278827,127.0389978",
+      "placeId": "ChIJ-zTnnoejfDURU00l4M32Uhc",
+      "address": "338 Apgujeong-ro, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Pildong Myeonok",
+      "coord": [
+        37.5603604,
+        126.9969996
+      ],
+      "desc": "Pyeongyang naengmyeon; Michelin-recommended; DDP's classic",
+      "longDesc": "A classic cold noodle shop serving silky Pyeongyang naengmyeon that has won Michelin recognition for its refined broth and technique.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pildong%20Myeonok&center=37.5603604,126.9969996",
+      "placeId": "ChIJzctx3J2jfDUR8aZ4DVRySoE",
+      "address": "26 Seoae-ro, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Pyeongyang Myeonok",
+      "coord": [
+        37.5632224,
+        127.0065977
+      ],
+      "desc": "Cold noodles; Michelin-recognized; Myeongdong's famous branch",
+      "longDesc": "An excellent cold noodle specialist in central Seoul, serving light, flavorful naengmyeon that's perfect for hot summer days.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pyeongyang%20Myeonok&center=37.5632224,127.0065977",
+      "placeId": "ChIJy16eNRijfDURG8ccxFM6frs",
+      "address": "207 Jangchungdan-ro, 장충동 Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Hadongkwan",
+      "coord": [
+        37.5643946,
+        126.9850185
+      ],
+      "desc": "Gomtang; Classic beef soup; excellent dining experience",
+      "longDesc": "A legendary Seoul institution serving rich, deeply flavorful gomtang (beef soup) that has satisfied generations of families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hadongkwan&center=37.5643946,126.9850185",
+      "placeId": "ChIJvZjTMWC9fDURxnT8dx21N3U",
+      "address": "12 Myeongdong 9-gil, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Le Chocolat Maxime Frédéric at Louis Vuitton",
+      "coord": [
+        37.56092230000001,
+        126.98113889999999
+      ],
+      "desc": "Dessert / Patisserie; Luxury chocolate & pastries at LV’s Seoul flagship complex",
+      "longDesc": "A luxury chocolate and pastry stop within LV's flagship complex, offering indulgent French-Korean fusion desserts.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Chocolat%20Maxime%20Fr%C3%A9d%C3%A9ric%20at%20Louis%20Vuitton&center=37.56092230000001,126.98113889999999",
+      "placeId": "ChIJb_4qkGijfDURpxlxCxiPZxA",
+      "address": "South Korea, Seoul, Jung District, Sogong-ro, 63 신세계 더 리저브 4층"
+    },
+    {
+      "name": "JP (Louis Vuitton The Place Seoul)",
+      "coord": [
+        37.56092230000001,
+        126.98113889999999
+      ],
+      "desc": "Rooftop Restaurant; High-demand rooftop dining",
+      "longDesc": "A high-demand rooftop restaurant with panoramic city views and refined cuisine, reserving well ahead is essential.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=JP%20%28Louis%20Vuitton%20The%20Place%20Seoul%29&center=37.56092230000001,126.98113889999999",
+      "placeId": "ChIJZZXyv_CjfDURisaVcejxBpI",
+      "address": "South Korea, Seoul, Jung District, Sogong-ro, 63 신세계 더 리저"
+    },
+    {
+      "name": "Voila Café Busan (Haeundae Marine City)",
+      "coord": [
+        35.1541923,
+        129.1462914
+      ],
+      "desc": "Café / Dessert; Michelin guide recommends the salted ice cream after a seasid...",
+      "longDesc": "A seaside café famed for its salted ice cream and ocean views, perfect for a leisurely afternoon by the beach.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Voila%20Caf%C3%A9%20Busan%20%28Haeundae%20Marine%20City%29&center=35.1541923,129.1462914",
+      "placeId": "ChIJaTptFACTaDURwFDlOWHcO_E",
+      "address": "102、51 Marine city 3-ro, Haeundae, Busan, South Korea"
+    },
+    {
+      "name": "Mukjung",
+      "coord": [
+        37.5618138,
+        127.0005302
+      ],
+      "desc": "Korean; Michelin mention; excellent dining experience",
+      "longDesc": "A Michelin-noted Korean restaurant delivering solid, flavorful cuisine in a comfortable setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mukjung&center=37.5618138,127.0005302",
+      "placeId": "ChIJYxLPGQCjfDURXB0wJktN-Hk",
+      "address": "28-14 Mukjeong-dong, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "KITH Seoul / Sadelle’s",
+      "coord": [
+        37.541768,
+        127.05708399999997
+      ],
+      "desc": "All-day café + deli; High-design stop",
+      "longDesc": "A design-forward, all-day café and deli combining excellent coffee, artisanal pastries, and curated retail in one sophisticated space.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=KITH%20Seoul%20/%20Sadelle%E2%80%99s&center=37.541768,127.05708399999997",
+      "placeId": "ChIJyXibeAClfDURs2UqWsmGVH4",
+      "address": "South Korea, Seoul, Seongdong-gu, Yeonmujang-gil, 70 3층"
+    },
+    {
+      "name": "Café Dior by Pierre Hermé",
+      "coord": [
+        37.524847199999996,
+        127.0466488
+      ],
+      "desc": "Luxury Café; Fashion-district café icon",
+      "longDesc": "A luxury fashion-district café merging Pierre Hermé's pastries with Dior aesthetics, perfect for a refined coffee break.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Dior%20by%20Pierre%20Herm%C3%A9&center=37.524847199999996,127.0466488",
+      "placeId": "ChIJb0XNO3qkfDURZCMOBkjblLM",
+      "address": "464 Apgujeong-ro, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "NUDAKE Haus Nowhere Dosan",
+      "coord": [
+        37.5254165,
+        127.0356387
+      ],
+      "desc": "Dessert / Bakery; Design-forward desserts",
+      "longDesc": "A design-forward dessert and bakery concept creating Instagram-worthy, artistic pastries with genuine flavor.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=NUDAKE%20Haus%20Nowhere%20Dosan&center=37.5254165,127.0356387",
+      "placeId": "ChIJt-JkdyGjfDURK0w6QkIxal4",
+      "address": "50 Apgujeong-ro 46-gil, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Daelim Warehouse",
+      "coord": [
+        37.541838399999996,
+        127.0564636
+      ],
+      "desc": "Café + Brunch; Industrial-chic café",
+      "longDesc": "An iconic industrial-chic café and brunch spot with soaring ceilings and excellent coffee, perfect for design-loving families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Daelim%20Warehouse&center=37.541838399999996,127.0564636",
+      "placeId": "ChIJi_M445OkfDURBV_ePY2qCHo",
+      "address": "78 Seongsui-ro, Seongdong-gu, Seoul, South Korea"
+    },
+    {
+      "name": "Cafe Onion Seongsu",
+      "coord": [
+        37.5447328,
+        127.0582091
+      ],
+      "desc": "Bakery Café; Signature pastries",
+      "longDesc": "A beloved café concept with signature pastries and thoughtful coffee, set in a design-conscious neighborhood atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Onion%20Seongsu&center=37.5447328,127.0582091",
+      "placeId": "ChIJHb1ypJWkfDURb2d4XCjLluM",
+      "address": "8 Achasan-ro 9-gil, Seongdong-gu, Seoul, South Korea"
+    },
+    {
+      "name": "Damiok",
+      "coord": [
+        35.151863999999996,
+        129.02054809999998
+      ],
+      "desc": "Cold noodles; Bib Gourmand; Hongdae's signature naengmyeon",
+      "longDesc": "A beloved Busan naengmyeon specialist serving silky, flavorful cold noodles at friendly prices.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Damiok&center=35.151863999999996,129.02054809999998",
+      "placeId": "ChIJ1aV0ZkLraDURgWep9M1JIqA",
+      "address": "South Korea, Busan, Busanjin District, Bokji-ro, 15, 개금포르투나 상가, 103호"
+    },
+    {
+      "name": "100.1.Pyeongnaeng",
+      "coord": [
+        35.1485537,
+        129.111649
+      ],
+      "desc": "Pyeongyang naengmyeon; Bib Gourmand; Myeongdong classic",
+      "longDesc": "Another excellent Busan cold noodle option, delivering consistent quality and generous portions at bargain prices.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=100.1.Pyeongnaeng&center=35.1485537,129.111649",
+      "placeId": "ChIJtwSpPADtaDURloS4UhNroVo",
+      "address": "29 Namcheonbada-ro 10beon-gil, Suyeong-gu, Busan, South Korea"
+    },
+    {
+      "name": "Buda Myeonoak",
+      "coord": [
+        35.162367599999996,
+        129.1629743
+      ],
+      "desc": "Traditional naengmyeon; Bib Gourmand; Sinsa's beloved spot",
+      "longDesc": "A reliable Busan naengmyeon destination serving well-made cold noodles that locals trust and return to.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Buda%20Myeonoak&center=35.162367599999996,129.1629743",
+      "placeId": "ChIJvUYp_lySaDURSxcMD3TcvvU",
+      "address": "South Korea, Busan, Haeundae, Jungdong 1-ro, 36 2층"
+    },
+    {
+      "name": "Jeongjitgan",
+      "coord": [
+        35.0957261,
+        128.962501
+      ],
+      "desc": "Pork gukbap; Bib Gourmand; Itaewon's hearty breakfast spot",
+      "longDesc": "A beloved Busan dwaeji-gukbap (pork soup) spot with rich, satisfying broth and incredibly friendly prices.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeongjitgan&center=35.0957261,128.962501",
+      "placeId": "ChIJIz05MezCaDUR8i1oGk82gU4",
+      "address": "6 Bibong-ro, Saha-gu, Busan, South Korea"
+    },
+    {
+      "name": "Hanwolgwan",
+      "coord": [
+        35.154691199999995,
+        129.1185433
+      ],
+      "desc": "Gomtang; Bib Gourmand; excellent dining experience",
+      "longDesc": "A Busan institution for gomtang, serving deeply flavored beef soup at prices that encourage generous eating.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hanwolgwan&center=35.154691199999995,129.1185433",
+      "placeId": "ChIJjXcyIb7taDURc6S9txRteto",
+      "address": "South Korea, Busan, Suyeong-gu, Gwangan-ro 62beon-gil, 10 1층"
+    },
+    {
+      "name": "Hapcheon Gukbapjip",
+      "coord": [
+        37.5719941,
+        126.98798250000002
+      ],
+      "desc": "Traditional gukbap; Bib Gourmand; Hongdae's comfort food",
+      "longDesc": "A regional dwaeji-gukbap specialist, bringing authentic regional flavors to the casual dining scene.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hapcheon%20Gukbapjip&center=37.5719941,126.98798250000002",
+      "placeId": "ChIJFR7OjtyjfDUR4O73i9ijL9U",
+      "address": "418-3 Samil-daero, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "ARP",
+      "coord": [
+        37.486661399999996,
+        127.1030927
+      ],
+      "desc": "Vegan; Bib Gourmand; excellent dining experience",
+      "longDesc": "A refreshing vegan spot proving plant-based Korean cuisine can be flavorful, satisfying, and genuinely delicious.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=ARP&center=37.486661399999996,127.1030927",
+      "placeId": "ChIJYQB8Co-lfDURZuJBolLHuvI",
+      "address": "1518, Suseo Tower Officetel, 280 광평로 강남구 서울특별시 South Korea"
+    },
+    {
+      "name": "Haemok",
+      "coord": [
+        37.5214971,
+        127.03831029999999
+      ],
+      "desc": "Japanese (Unagi); Bib Gourmand",
+      "longDesc": "A Japanese unagi specialist in the Gumi region, offering precisely grilled eel in a traditional intimate setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Haemok&center=37.5214971,127.03831029999999",
+      "placeId": "ChIJWRVWXO-jfDURXmG8CyIOWlk",
+      "address": "14 Seolleung-ro 145-gil, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Zest",
+      "coord": [
+        37.525436299999996,
+        126.9265724
+      ],
+      "desc": "Premium cocktails; Asia's 50 Best Bars; Yeouida's elegant lounge",
+      "longDesc": "A cutting-edge cocktail bar ranking in Asia's 50 Best, delivering craft cocktails with refined technique and creativity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Zest&center=37.525436299999996,126.9265724",
+      "placeId": "ChIJx8P3-zuffDUR8-G2GAimF0k",
+      "address": "10 Gukjegeumyung-ro, Floor 2 Yeongdeungpo District, Seoul, South Korea"
+    },
+    {
+      "name": "Bar Cham",
+      "coord": [
+        37.5791709,
+        126.97038509999999
+      ],
+      "desc": "Artisanal cocktails; Asia's 50 Best Bars; Itaewon's craft hideaway",
+      "longDesc": "A sophisticated cocktail establishment recognized in Asia's 50 Best for innovative drinks and expert mixology.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Cham&center=37.5791709,126.97038509999999",
+      "placeId": "ChIJxWShw9-jfDURS80cyKrrVI4",
+      "address": "34 Jahamun-ro 7-gil, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Pine & Co",
+      "coord": [
+        37.5262836,
+        127.0370432
+      ],
+      "desc": "Craft cocktails; World's 50 Best Bars; Itaewon's intimate bar",
+      "longDesc": "A cocktail destination in the World's 50 Best 51-100 range, known for creative drinks in an inviting atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pine%20%26%20Co&center=37.5262836,127.0370432",
+      "placeId": "ChIJrfK6ThqjfDURFv6cbuVlLlY",
+      "address": "33 지하 Seolleung-ro 157-gil, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Soko",
+      "coord": [
+        37.5622341,
+        126.9237
+      ],
+      "desc": "Signature cocktails; World's 50 Best Bars; Hongdae's eclectic space",
+      "longDesc": "A recognized cocktail bar blending creativity with technical skill, delivering memorable drinks in Daegu's growing bar scene.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Soko&center=37.5622341,126.9237",
+      "placeId": "ChIJr5CLPwCZfDURg3VMT3h8R8Y",
+      "address": "41 Seongmisan-ro 28-gil, Mapo-gu, Seoul, South Korea"
+    },
+    {
+      "name": "Gong Gan",
+      "coord": [
+        37.5785311,
+        126.98239539999999
+      ],
+      "desc": "Natural wine cocktails; World's 50 Best; Yeouida's underground bar",
+      "longDesc": "A cocktail establishment in Gangneung ranking in the World's 50 Best 51-100, bringing craft cocktails to a mountain town.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gong%20Gan&center=37.5785311,126.98239539999999",
+      "placeId": "ChIJV6t5K8SifDURdoduQvb7M1E",
+      "address": "66-4 Yulgok-ro 3-gil, Anguk-dong, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Le Chamber",
+      "coord": [
+        37.5262177,
+        127.04103959999999
+      ],
+      "desc": "Cocktail Bar; Speakeasy-style; excellent dining experience",
+      "longDesc": "A speakeasy-style cocktail bar offering an intimate, secretive vibe with well-crafted classic and creative drinks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Chamber&center=37.5262177,127.04103959999999",
+      "placeId": "ChIJ639qa3ikfDURlcK_PQa7PbQ",
+      "address": "South Korea, Seoul, Gangnam District, Dosan-daero 55-gil, 42 지하 1층"
+    },
+    {
+      "name": "Alice Cheongdam",
+      "coord": [
+        37.5266874,
+        127.040951
+      ],
+      "desc": "Cocktail Bar; Tatler-listed; excellent dining experience",
+      "longDesc": "A fashionable cocktail bar beloved by Seoul's design-conscious crowd, featured in Tatler for its trendy aesthetic and drinks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alice%20Cheongdam&center=37.5266874,127.040951",
+      "placeId": "ChIJ1SQnb3ikfDURcbiz6NFB5h0",
+      "address": "South Korea, Seoul, Gangnam District, Dosan-daero 55-gil, 47 지하 1층"
+    },
+    {
+      "name": "Guksi Teumeong (국시트멍)",
+      "coord": [
+        33.4793473,
+        126.4813944
+      ],
+      "desc": "Jeju Pork Noodle Soup; Chef-recommended gogi-guksu (pork noodle soup)",
+      "longDesc": "A chef-recommended local spot on Jeju serving the island's signature gogi-guksu (pork noodle soup) with real soul.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Guksi%20Teumeong%20%28%EA%B5%AD%EC%8B%9C%ED%8A%B8%EB%A9%8D%29&center=33.4793473,126.4813944",
+      "placeId": "ChIJM8mplKz7DDURgldLVnYEjz0",
+      "address": "31-3 Jingun-gil, Nohyeong-dong, Cheju, Jeju-do, South Korea"
+    },
+    {
+      "name": "La Yeon",
+      "coord": [
+        37.555764599999996,
+        127.00508660000001
+      ],
+      "desc": "MICHELIN 2-star, Korean kaiseki fine dining, The Shilla Seoul",
+      "longDesc": "An elegant two-star Korean fine dining restaurant showcasing seasonal ingredients and classical techniques within a serene Shilla setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Yeon&center=37.555764599999996,127.00508660000001",
+      "placeId": "ChIJf8Lq1wSjfDURbuyVUM14Svc",
+      "address": "South Korea, Seoul, Jung District, 장충동 Dongho-ro, 249, THE SHILLA Seoul, 23층"
+    },
+    {
+      "name": "Muoki",
+      "coord": [
+        37.5189698,
+        127.0422219
+      ],
+      "desc": "MICHELIN 1-star Korean BBQ, Yongsan neighborhood gem",
+      "longDesc": "Intimate premium Korean BBQ where grilling becomes theater, elevating simple cuts to an art form with expert table service.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Muoki&center=37.5189698,127.0422219",
+      "placeId": "ChIJx08AyXWkfDURs2BBkP20hJo",
+      "address": "12-12 Hakdong-ro 55-gil, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Tutoiement",
+      "coord": [
+        37.5496704,
+        127.06664699999999
+      ],
+      "desc": "MICHELIN 1-star modern cuisine, Seocho neighborhood",
+      "longDesc": "A chef-driven contemporary restaurant where refined technique and locally sourced ingredients create surprising, memorable dishes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tutoiement&center=37.5496704,127.06664699999999",
+      "placeId": "ChIJkTTxM1GlfDURaFBGMDEIHQc",
+      "address": "South Korea, Seoul, Seongdong-gu, Gwangnaru-ro 11-gil, 20 101호"
+    },
+    {
+      "name": "Soul",
+      "coord": [
+        37.533283100000006,
+        127.00679170000001
+      ],
+      "desc": "Modern Korean, artisanal cocktails, creative atmosphere",
+      "longDesc": "A trendy restaurant celebrating Korean heritage through modern plating and creative cocktails, perfect for design-conscious diners.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Soul&center=37.533283100000006,127.00679170000001",
+      "placeId": "ChIJu2Z3JEqifDURp1fcG9iChRY",
+      "address": "South Korea, Seoul, Yongsan District, Hannam-dong, 지하1층 78-2"
+    },
+    {
+      "name": "Escondido",
+      "coord": [
+        37.5351551,
+        127.0104919
+      ],
+      "desc": "Latin cuisine, Seoul's most exciting international neighbor",
+      "longDesc": "Seoul's best Latin American restaurant, bringing vibrant Peruvian and Mexican flavors to Korea's cosmopolitan dining scene.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Escondido&center=37.5351551,127.0104919",
+      "placeId": "ChIJBYx0XAGjfDUR3NMPYf2_qjY",
+      "address": "61-7 Hannam-daero 20-gil, Yongsan District, Seoul, South Korea"
+    },
+    {
+      "name": "Soseoul Hannam",
+      "coord": [
+        37.5352946,
+        127.00921290000001
+      ],
+      "desc": "Korean Contemporary, MICHELIN 1-star; modern",
+      "longDesc": "Korean Contemporary MICHELIN 1-star; modern Korean",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Soseoul%20Hannam&center=37.5352946,127.00921290000001",
+      "placeId": "ChIJ8R_CLEWjfDUR3HHfL-sNAiA",
+      "address": "South Korea, Seoul, Hannam-dong, Hannam-daero 20-gil, 21 18 1층 KR 서울특별시 용산구 B동 지하"
+    },
+    {
+      "name": "L'Amitié",
+      "coord": [
+        37.52591770000001,
+        127.0445553
+      ],
+      "desc": "French, MICHELIN 1-star; classic",
+      "longDesc": "French MICHELIN 1-star; classic French",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27Amiti%C3%A9&center=37.52591770000001,127.0445553",
+      "placeId": "ChIJH2jZ86GlfDURAVZBp3imf64",
+      "address": "South Korea, Seoul, Gangnam District, Dosan-daero 67-gil, 30 2층"
+    },
+    {
+      "name": "Buchon Yukhoe",
+      "coord": [
+        37.5703409,
+        126.999913
+      ],
+      "desc": "Yukhoe (raw beef) + Bibimbap, Bib Gourmand; iconic",
+      "longDesc": "Yukhoe (raw beef) + Bibimbap Bib Gourmand; iconic market stop",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Buchon%20Yukhoe&center=37.5703409,126.999913",
+      "placeId": "ChIJQR1ODmCjfDUREpgR7iCRQDI",
+      "address": "200-12 종로, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Mr. Ahn’s Craft Makgeolli",
+      "coord": [
+        37.538580599999996,
+        126.98740860000001
+      ],
+      "desc": "Makgeolli Bar + Korean Plates, MICHELIN-selected; makgeolli pairing",
+      "longDesc": "Makgeolli Bar + Korean Plates MICHELIN-selected; makgeolli pairing focus",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mr.%20Ahn%E2%80%99s%20Craft%20Makgeolli&center=37.538580599999996,126.98740860000001",
+      "placeId": "ChIJxRiox02ifDURTKtvmicQdHE",
+      "address": "3 Hoenamu-ro, Yongsan District, Seoul, South Korea"
+    },
+    {
+      "name": "Woo Lae Oak (Woo Lae Oak)",
+      "coord": [
+        37.5681851,
+        126.9987092
+      ],
+      "desc": "Bulgogi + Naengmyeon, MICHELIN-listed; classic institution",
+      "longDesc": "Bulgogi + Naengmyeon MICHELIN-listed; classic institution",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Woo%20Lae%20Oak%20%28Woo%20Lae%20Oak%29&center=37.5681851,126.9987092",
+      "placeId": "ChIJ95h3lR-jfDURkB9hKZltPXM",
+      "address": "62-29 Changgyeonggung-ro, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Jin Jin",
+      "coord": [
+        37.5538,
+        126.918437
+      ],
+      "desc": "Chinese (Korean-style), Michelin-recommended; great for",
+      "longDesc": "Chinese (Korean-style) Michelin-recommended; great for groups/families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jin%20Jin&center=37.5538,126.918437",
+      "placeId": "ChIJDYsPLd-YfDURMi05lvgllVY",
+      "address": "60 World Cup buk-ro 1-gil, Mapo-gu, Seoul, South Korea"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Gyeongbokgung Palace + Changing of the Guard",
+      "coord": [
+        37.576011099999995,
+        126.9768611
+      ],
+      "desc": "History & Culture; Arrive early",
+      "longDesc": "Seoul's grandest palace comes alive during the colorful changing-of-the-guard ceremony, offering a magical glimpse into royal history—arrive early to secure a front-row spot.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gyeongbokgung%20Palace%20%2B%20Changing%20of%20the%20Guard&center=37.576011099999995,126.9768611",
+      "placeId": "ChIJsYP2VHSjfDURwAtqfCHFGfo",
+      "address": "161 Sajik-ro, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Changdeokgung Palace & Secret Garden",
+      "coord": [
+        37.5821721,
+        126.9931659
+      ],
+      "desc": "History & Culture; UNESCO palace complex",
+      "longDesc": "A UNESCO palace complex with a serene, hidden garden perfect for families wanting to explore royal grounds away from the heaviest crowds.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Changdeokgung%20Palace%20%26%20Secret%20Garden&center=37.5821721,126.9931659",
+      "placeId": "ChIJHyS4wtaifDURHzOOAZM0aWA",
+      "address": "South Korea, Seoul, Jongno District, 율곡로 99번지"
+    },
+    {
+      "name": "Changgyeonggung Palace",
+      "coord": [
+        37.5788149,
+        126.9949298
+      ],
+      "desc": "History & Culture; Often quieter",
+      "longDesc": "A quieter alternative palace offering authentic palace architecture and history without the tourist masses, ideal for families preferring a peaceful experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Changgyeonggung%20Palace&center=37.5788149,126.9949298",
+      "placeId": "ChIJN9jfPNaifDURz_NR6E1r4Eo",
+      "address": "185 Changgyeonggung-ro, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Bukchon Hanok Village",
+      "coord": [
+        37.5814696,
+        126.9849519
+      ],
+      "desc": "Neighborhood; Traditional hanok lanes",
+      "longDesc": "Traditional hanok houses line picturesque lanes in Seoul's oldest neighborhood, creating photogenic scenes and immersive cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bukchon%20Hanok%20Village&center=37.5814696,126.9849519",
+      "placeId": "ChIJT8H4r9qifDURmuXJ_6m6vM0",
+      "address": "Gyedong-gil, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Insadong (Tea houses + crafts)",
+      "coord": [
+        37.5743809,
+        126.985427
+      ],
+      "desc": "Culture & Shopping; Souvenirs + traditional snacks",
+      "longDesc": "A charming cultural district packed with traditional tea houses, craft galleries, and artisan shops selling authentic Korean souvenirs and snacks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Insadong%20%28Tea%20houses%20%2B%20crafts%29&center=37.5743809,126.985427",
+      "placeId": "ChIJIQKaxcKifDURi4QrCAAUgzw",
+      "address": "11-4 Insadong 10-gil, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Jogyesa Temple",
+      "coord": [
+        37.5738369,
+        126.982202
+      ],
+      "desc": "Temple; Colorful lanterns; must-see attraction",
+      "longDesc": "A vibrant Buddhist temple famous for its magnificent colorful lanterns and active spiritual community, welcoming visitors warmly.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jogyesa%20Temple&center=37.5738369,126.982202",
+      "placeId": "ChIJHYhJ5OmifDURMOSQ2D-6lFY",
+      "address": "55 Ujeongguk-ro, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Jongmyo Shrine",
+      "coord": [
+        37.5746313,
+        126.9938158
+      ],
+      "desc": "History & Culture; Deep-dive Joseon history",
+      "longDesc": "A deep-dive into Joseon dynasty history and ancestor veneration, offering insight into Korea's ancient royal traditions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jongmyo%20Shrine&center=37.5746313,126.9938158",
+      "placeId": "ChIJz7ocWtiifDURU-HmRwLa3yQ",
+      "address": "South Korea, Seoul, Jongno District, Jong-ro, 157 종묘관리소"
+    },
+    {
+      "name": "Han River Picnic at Banpo Bridge",
+      "coord": [
+        37.5124603,
+        127.00041010000001
+      ],
+      "desc": "Outdoors; Picnic + people-watching",
+      "longDesc": "A quintessential Seoul experience combining riverside picnics with people-watching and the stunning nighttime fountain show.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Han%20River%20Picnic%20at%20Banpo%20Bridge&center=37.5124603,127.00041010000001",
+      "placeId": "ChIJ_Y4BnKOjfDUR7H9t-V4fwEo",
+      "address": "122-1 Jamwon-dong, Seocho District, Seoul, South Korea"
+    },
+    {
+      "name": "Seoul Forest",
+      "coord": [
+        37.544387799999996,
+        127.03744239999999
+      ],
+      "desc": "Park; Big park + deer enclosure",
+      "longDesc": "A expansive park with deer enclosures, wide paths perfect for strollers, playgrounds, and peaceful forests—ideal for family outdoor time.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoul%20Forest&center=37.544387799999996,127.03744239999999",
+      "placeId": "ChIJK_b0UX2jfDURmkYPvmWYm90",
+      "address": "273 Ttukseom-ro, Seongdong-gu, Seoul, South Korea"
+    },
+    {
+      "name": "Cheongdam Luxury Street",
+      "coord": [
+        37.5259243,
+        127.0419225
+      ],
+      "desc": "Shopping; Flagship stores + high design",
+      "longDesc": "Seoul's premier high-design shopping district featuring flagship boutiques and architectural landmarks, perfect for design-focused families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cheongdam%20Luxury%20Street&center=37.5259243,127.0419225",
+      "placeId": "ChIJo1G9R3ikfDURv1_Y3QqxJWw",
+      "address": "21 Apgujeong-ro 60-gil, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Garosu-gil (Sinsa)",
+      "coord": [
+        37.5210566,
+        127.0228686
+      ],
+      "desc": "Shopping & Cafés; Tree-lined street",
+      "longDesc": "A tree-lined shopping street combining fashion boutiques, art galleries, and charming cafés in an effortlessly cool atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Garosu-gil%20%28Sinsa%29&center=37.5210566,127.0228686",
+      "placeId": "ChIJI_IUbOujfDUReyU3t6AyGoM",
+      "address": "Garosu-gil, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Seongsu (Concept stores + cafés)",
+      "coord": [
+        37.5389944,
+        127.0499414
+      ],
+      "desc": "Neighborhood; Industrial-chic cafés, pop-ups, and people-watching",
+      "longDesc": "An industrial-chic neighborhood of concept stores, pop-up galleries, and design-forward cafés where creative energy pulses through every block.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seongsu%20%28Concept%20stores%20%2B%20caf%C3%A9s%29&center=37.5389944,127.0499414",
+      "placeId": "ChIJqzFI6XKlfDURAVFt9IfmxoE",
+      "address": "10 Seongdeokjeong 9-gil, Seongdong-gu, Seoul, South Korea"
+    },
+    {
+      "name": "Myeongdong Shopping Street",
+      "coord": [
+        37.5641885,
+        126.98611799999998
+      ],
+      "desc": "Shopping; Flagships + street food",
+      "longDesc": "Seoul's iconic shopping destination featuring flagship stores, street food vendors, and electric energy that draws families and tourists.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Myeongdong%20Shopping%20Street&center=37.5641885,126.98611799999998",
+      "placeId": "ChIJJXcc9--ifDURb8zmFI_J64s",
+      "address": "1-5 Myeong-dong, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Shinsegae Department Store LED Billboard",
+      "coord": [
+        37.56092230000001,
+        126.98113889999999
+      ],
+      "desc": "Shopping & Design; Year-round photo spot",
+      "longDesc": "An architectural marvel turned photo-op, Seoul's most Instagrammable billboard lighting up the streetscape with immense visual impact.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Shinsegae%20Department%20Store%20LED%20Billboard&center=37.56092230000001,126.98113889999999",
+      "placeId": "ChIJGXh8WPGifDURZOTN-wc3Tdc",
+      "address": "63 Sogong-ro, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Olive Young (K-beauty haul)",
+      "coord": [
+        37.5560787,
+        126.92345029999998
+      ],
+      "desc": "Shopping; Flagship is huge—use neighborhood branches if crowded",
+      "longDesc": "A sprawling K-beauty supermarket where families can explore Korea's booming skincare and cosmetic innovations at competitive prices.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Olive%20Young%20%28K-beauty%20haul%29&center=37.5560787,126.92345029999998",
+      "placeId": "ChIJJ2HaH8OYfDUR9_Ih79QnAzQ",
+      "address": "South Korea, Seoul, Mapo-gu, Yanghwa-ro, 156 엘지팰리스빌딩"
+    },
+    {
+      "name": "Gwangjang Market Street Food Crawl",
+      "coord": [
+        37.570039799999996,
+        126.99960360000001
+      ],
+      "desc": "Food; Taste classic snacks + market energy",
+      "longDesc": "A lively traditional market bursting with street food vendors serving everything from bindaetteok to mayak gimbap in an authentic market atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gwangjang%20Market%20Street%20Food%20Crawl&center=37.570039799999996,126.99960360000001",
+      "placeId": "ChIJm3V0fu2ifDURRJ8IMUijVtY",
+      "address": "88 Changgyeonggung-ro, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Cafe Onion Seongsu",
+      "coord": [
+        37.5447328,
+        127.0582091
+      ],
+      "desc": "Coffee & Bakery; Signature pastries",
+      "longDesc": "A beloved café with signature pastries and excellent coffee, set in the artsy Seongsu neighborhood perfect for a leisurely break.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Onion%20Seongsu&center=37.5447328,127.0582091",
+      "placeId": "ChIJHb1ypJWkfDURb2d4XCjLluM",
+      "address": "8 Achasan-ro 9-gil, Seongdong-gu, Seoul, South Korea"
+    },
+    {
+      "name": "Daelim Warehouse (Seongsu)",
+      "coord": [
+        37.541838399999996,
+        127.0564636
+      ],
+      "desc": "Coffee & Brunch; Industrial café icon",
+      "longDesc": "A warehouse-converted café icon with soaring ceilings and industrial charm, serving excellent coffee and brunch.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Daelim%20Warehouse%20%28Seongsu%29&center=37.541838399999996,127.0564636",
+      "placeId": "ChIJi_M445OkfDURBV_ePY2qCHo",
+      "address": "78 Seongsui-ro, Seongdong-gu, Seoul, South Korea"
+    },
+    {
+      "name": "Center Coffee (Seongsu)",
+      "coord": [
+        37.568461,
+        126.97827640000001
+      ],
+      "desc": "Coffee; Specialty coffee; must-see attraction",
+      "longDesc": "A specialty coffee roastery and café in the creative Seongsu district, perfect for coffee-loving families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Center%20Coffee%20%28Seongsu%29&center=37.568461,126.97827640000001",
+      "placeId": "ChIJsY64vp2kfDURc8pIp6cFoig",
+      "address": "136 B1 Sejong-daero, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Seoul Coffee Shops (design route)",
+      "coord": [
+        37.5747261,
+        126.98494360000001
+      ],
+      "desc": "Coffee Culture; Curated list of standout cafés",
+      "longDesc": "A curated exploration of Seoul's standout cafés, each offering distinct design aesthetics and excellent coffee.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoul%20Coffee%20Shops%20%28design%20route%29&center=37.5747261,126.98494360000001",
+      "placeId": "ChIJI9nMLV2jfDURP5JDo7CTHyI",
+      "address": "17 Insadong 12-gil, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Hongdae Street Performances",
+      "coord": [
+        37.5561973,
+        126.9250341
+      ],
+      "desc": "Nightlife; Buskers + youthful energy",
+      "longDesc": "A vibrant neighborhood filled with buskers, street performers, and youthful creative energy—perfect for families seeking lively atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hongdae%20Street%20Performances&center=37.5561973,126.9250341",
+      "placeId": "ChIJ68AiKsWYfDUROpTctLKtxtU",
+      "address": "347-20 Seogyo-dong, Mapo-gu, Seoul, South Korea"
+    },
+    {
+      "name": "Baseball Game (KBO)",
+      "coord": [
+        37.488180799999995,
+        127.03269370000001
+      ],
+      "desc": "Sports; Family-friendly atmosphere",
+      "longDesc": "A family-friendly Korean baseball game combines lively crowd energy, stadium food, and exciting sports action.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Baseball%20Game%20%28KBO%29&center=37.488180799999995,127.03269370000001",
+      "placeId": "ChIJR-gK8E6hfDURdLtm09opc7U",
+      "address": "278 Gangnam-daero, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Frieze Seoul / Art Fair Season",
+      "coord": [
+        37.511682799999996,
+        127.05915100000001
+      ],
+      "desc": "Arts; Big contemporary art moment each year (timing matters)",
+      "longDesc": "Seoul's annual contemporary art fair draws galleries from around the world, creating an exciting moment for art-loving families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Frieze%20Seoul%20/%20Art%20Fair%20Season&center=37.511682799999996,127.05915100000001",
+      "placeId": "ChIJl4xz5DalfDUR5J-cZDd1bDM",
+      "address": "513 Yeongdong-daero, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Sulwhasoo Spa (luxury skincare spa)",
+      "coord": [
+        37.523553799999995,
+        127.0354599
+      ],
+      "desc": "Wellness; High-end Korean skincare treatments",
+      "longDesc": "A high-end Korean skincare spa using the Sulwhasoo brand, offering traditional Korean beauty treatments in a luxurious setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sulwhasoo%20Spa%20%28luxury%20skincare%20spa%29&center=37.523553799999995,127.0354599",
+      "placeId": "ChIJm2eZR4mjfDURSxZPHbDPqfI",
+      "address": "18 Dosan-daero 45-gil, Sinsa-dong, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "SPA 1899 (ginseng spa)",
+      "coord": [
+        37.5065686,
+        127.06536120000001
+      ],
+      "desc": "Wellness; Korean ginseng-focused spa experience",
+      "longDesc": "A ginseng-focused wellness spa experience showcasing Korea's traditional herbal traditions in a relaxing, therapeutic environment.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=SPA%201899%20%28ginseng%20spa%29&center=37.5065686,127.06536120000001",
+      "placeId": "ChIJ-fThZj-kfDURxP443y997DE",
+      "address": "영동대로 416, 2층, 케이티앤지 타워, 지하, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Haeundae Beach",
+      "coord": [
+        35.158697499999995,
+        129.16038419999998
+      ],
+      "desc": "Beach; Classic urban beach; must-see attraction",
+      "longDesc": "Busan's classic urban beach offering sandy shores, beachside promenades, and countless seaside cafés and restaurants.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Haeundae%20Beach&center=35.158697499999995,129.16038419999998",
+      "placeId": "ChIJXwf-DlyNaDURmKxjwdWxY5k",
+      "address": "Haeundae Beach, South Korea"
+    },
+    {
+      "name": "Dalmaji-gil (Haeundae hillside road)",
+      "coord": [
+        35.1590479,
+        129.18327539999999
+      ],
+      "desc": "Scenic Drive/Walk; Cafés + galleries with sea views",
+      "longDesc": "A scenic coastal drive lined with cafés and galleries offering sea views and creative small shops.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dalmaji-gil%20%28Haeundae%20hillside%20road%29&center=35.1590479,129.18327539999999",
+      "placeId": "ChIJ0--f6PmNaDURxQfMyEhYmV4",
+      "address": "South Korea, Busan, Haeundae, 중제2동 1488-1"
+    },
+    {
+      "name": "Marine City Night Skyline",
+      "coord": [
+        35.157235799999995,
+        129.14826879999998
+      ],
+      "desc": "Views; Skyscraper-lit waterfront",
+      "longDesc": "A spectacular nighttime view of Busan's modern skyscrapers illuminated against the dark sea, creating a mesmerizing urban waterfront scene.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Marine%20City%20Night%20Skyline&center=35.157235799999995,129.14826879999998",
+      "placeId": "ChIJgdiYUGKTaDURQMHg3kmDgE4",
+      "address": "155 Marine city 1-ro, U-dong, Haeundae, Busan, South Korea"
+    },
+    {
+      "name": "UN Memorial Cemetery in Korea",
+      "coord": [
+        35.127812,
+        129.09571259999998
+      ],
+      "desc": "History; Only UN-designated cemetery",
+      "longDesc": "The world's only UN-designated cemetery, honoring international soldiers and offering profound historical context.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=UN%20Memorial%20Cemetery%20in%20Korea&center=35.127812,129.09571259999998",
+      "placeId": "ChIJ1WBtuBHsaDURHweTBgdwaKU",
+      "address": "93 UN pyeonghwa-ro, Nam-gu, Busan, South Korea"
+    },
+    {
+      "name": "Naengmyeon Trio: Damiok / 100.1 / Buda Myeonoak",
+      "coord": [
+        35.162367599999996,
+        129.1629743
+      ],
+      "desc": "Food; Taste Busan’s cold-noodle scene across top picks",
+      "longDesc": "A culinary tour across Busan's best cold noodle specialists, each bringing its own technique and flavor personality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Naengmyeon%20Trio%3A%20Damiok%20/%20100.1%20/%20Buda%20Myeonoak&center=35.162367599999996,129.1629743",
+      "placeId": "ChIJvUYp_lySaDURSxcMD3TcvvU",
+      "address": "South Korea, Busan, Haeundae, Jungdong 1-ro, 36 2층"
+    },
+    {
+      "name": "Haeundae Hotel Lounge for Views",
+      "coord": [
+        35.1559601,
+        129.1539819
+      ],
+      "desc": "Nightlife; Ocean-view cocktails at hotel lounges",
+      "longDesc": "Hotel lounges along Haeundae offer ocean-view cocktails and refined ambiance for a sophisticated evening.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Haeundae%20Hotel%20Lounge%20for%20Views&center=35.1559601,129.1539819",
+      "placeId": "ChIJIeOT1hSTaDURrA3PvVkgiy8",
+      "address": "67 Dongbaek-ro, Haeundae, Busan, South Korea"
+    },
+    {
+      "name": "Jeju: Dongmun Traditional Market",
+      "coord": [
+        33.5115133,
+        126.5262564
+      ],
+      "desc": "Market; Great near-airport market for snacks + gifts",
+      "longDesc": "A lively market near the airport perfect for grabbing final snacks and authentic gifts before departure.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%3A%20Dongmun%20Traditional%20Market&center=33.5115133,126.5262564",
+      "placeId": "ChIJBdEw_1PjDDUR9XxfgFpYmjw",
+      "address": "20 Gwandeok-ro 14-gil, 특별자치도, Cheju, Jeju-do, South Korea"
+    },
+    {
+      "name": "Jeju: Hallasan Hiking Day",
+      "coord": [
+        33.3606281,
+        126.53583449999999
+      ],
+      "desc": "Hiking; Korea’s highest peak; must-see attraction",
+      "longDesc": "A challenging hike to Korea's highest peak through diverse volcanic landscapes, rewarding families with panoramic island views.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%3A%20Hallasan%20Hiking%20Day&center=33.3606281,126.53583449999999",
+      "placeId": "ChIJA9hkSe_4DDURXkdwHzTjZlk",
+      "address": "South Korea, Jeju-do, Cheju, 특별자치도, 1100로 2070-61"
+    },
+    {
+      "name": "Jeju: Volcanic Landscapes + Lava Tubes",
+      "coord": [
+        33.305833299999996,
+        126.5163889
+      ],
+      "desc": "Nature; Explore volcanic geology and lava tube systems",
+      "longDesc": "Explore Jeju's unique volcanic geology through lava tubes and rocky formations, understanding the island's dramatic geological story.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%3A%20Volcanic%20Landscapes%20%2B%20Lava%20Tubes&center=33.305833299999996,126.5163889",
+      "placeId": "ChIJp8ljdJtWDDURI6ahhfno-IY",
+      "address": "Hogeun-dong, Jeju-si, South Korea"
+    },
+    {
+      "name": "Jeju: Quiet Cabin Retreat (Egattoc / forest cabins)",
+      "coord": [
+        33.2931737,
+        126.3707376
+      ],
+      "desc": "Design & Nature; Minimalist cabins immersed in forest",
+      "longDesc": "Minimalist forest cabins offering peaceful retreat immersed in nature, perfect for families seeking quiet restorative time.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%3A%20Quiet%20Cabin%20Retreat%20%28Egattoc%20/%20forest%20cabins%29&center=33.2931737,126.3707376",
+      "placeId": "ChIJJfq7O5BbDDURG93KP81qGOk",
+      "address": "South Korea, Jeju-do, Seogwipo, 특별자치도, Andeok-myeon, Byeongak-ro, 266 가동 2층, 에가톳웰니스센터 제주특별자치도 서귀포시 안덕면 상창리 141 (서귀포시 안덕면 병악로 266"
+    },
+    {
+      "name": "Jeju: Signature Pork Noodle Soup (gogi-guksu)",
+      "coord": [
+        33.498621,
+        126.45876589999997
+      ],
+      "desc": "Food; Try Jeju’s signature noodle soup at a local favorite",
+      "longDesc": "Jeju's iconic dish—tender pork noodles in savory broth—captures island flavors in humble, soul-satisfying bowls.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%3A%20Signature%20Pork%20Noodle%20Soup%20%28gogi-guksu%29&center=33.498621,126.45876589999997",
+      "placeId": "ChIJywNUk1LjDDURflXUtmnWhIo",
+      "address": "46 Hanggollam-gil, 특별자치도, Cheju, Jeju-do, South Korea"
+    },
+    {
+      "name": "Jeju Waterfalls Day (Seogwipo)",
+      "coord": [
+        33.244852099999996,
+        126.57180319999999
+      ],
+      "desc": "Nature; Short walks to waterfalls",
+      "longDesc": "Easy, scenic walks to beautiful waterfalls surrounded by lush forest, perfect for families seeking manageable nature time.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%20Waterfalls%20Day%20%28Seogwipo%29&center=33.244852099999996,126.57180319999999",
+      "placeId": "ChIJ8afI-XNTDDURC7OZzyBO8KA",
+      "address": "37 Chilsimni-ro 214beon-gil, Seogwipo, Jeju-do, South Korea"
+    },
+    {
+      "name": "Jeju: Slow Coastal Drive + Viewpoints",
+      "coord": [
+        33.3433637,
+        126.17396300000001
+      ],
+      "desc": "Scenic Drive; Build a flexible loop around the island’s coasts",
+      "longDesc": "A flexible loop around Jeju's coasts with scenic pull-offs, offering flexibility and stunning sea views at every turn.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%3A%20Slow%20Coastal%20Drive%20%2B%20Viewpoints&center=33.3433637,126.17396300000001",
+      "placeId": "ChIJeXnoE9llDDURrKvk_--cM34",
+      "address": "1323 Sinchang-ri, Hangyeong-myeon, Cheju, Jeju-do, South Korea"
+    },
+    {
+      "name": "Seochon Neighborhood Stroll",
+      "coord": [
+        37.5786683,
+        126.97310700000001
+      ],
+      "desc": "Hanok village, traditional home architecture, cafes and galleries",
+      "longDesc": "A charming traditional Korean neighborhood filled with restored hanok houses, independent galleries, bookshops, and cozy tea rooms.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seochon%20Neighborhood%20Stroll&center=37.5786683,126.97310700000001",
+      "placeId": "ChIJW38d4qqjfDURgKFJWUkq3Mk",
+      "address": "28-1 Tongui-dong, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Bongeunsa Temple",
+      "coord": [
+        37.514852,
+        127.0573766
+      ],
+      "desc": "Buddhist temple in COEX Gangnam, peaceful urban sanctuary",
+      "longDesc": "A serene temple oasis within modern Gangnam's shopping district, offering meditation classes and temple stay experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bongeunsa%20Temple&center=37.514852,127.0573766",
+      "placeId": "ChIJgZn6QWmkfDURaU3kwlecaEU",
+      "address": "531 Bongeunsa-ro, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "National Museum of Korea",
+      "coord": [
+        37.523850599999996,
+        126.98047020000001
+      ],
+      "desc": "World-class museum, Korean art and artifacts, comprehensive",
+      "longDesc": "Seoul's flagship museum showcasing Korean heritage from ancient kingdoms through contemporary art, beautifully curated across multiple levels.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Korea&center=37.523850599999996,126.98047020000001",
+      "placeId": "ChIJN2x0fu2ifDUR51BupseGYmE",
+      "address": "137 Seobinggo-ro, Yongsan District, Seoul, South Korea"
+    },
+    {
+      "name": "Leeum Samsung Museum of Art",
+      "coord": [
+        37.5379389,
+        126.9992749
+      ],
+      "desc": "Contemporary art museum, three buildings, cutting-edge design",
+      "longDesc": "An architectural marvel housing Korean and international contemporary art, designed by world-renowned architects in an inspiring complex.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Leeum%20Samsung%20Museum%20of%20Art&center=37.5379389,126.9992749",
+      "placeId": "ChIJU97c4xujfDURu6F4mICL7Ps",
+      "address": "60-16 Itaewon-ro 55-gil, Yongsan District, Seoul, South Korea"
+    },
+    {
+      "name": "War Memorial of Korea",
+      "coord": [
+        37.536986899999995,
+        126.97710149999999
+      ],
+      "desc": "Korean history museum, armor collections, free admission",
+      "longDesc": "A moving museum documenting Korea's military history with impressive artifact collections and educational exhibits for all ages.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=War%20Memorial%20of%20Korea&center=37.536986899999995,126.97710149999999",
+      "placeId": "ChIJ8cRRtD-ifDURoBcqFZyRluE",
+      "address": "29 Itaewon-ro, Yongsan District, Seoul, South Korea"
+    },
+    {
+      "name": "Dongdaemun Design Plaza (DDP)",
+      "coord": [
+        37.5665256,
+        127.00922360000001
+      ],
+      "desc": "Zaha Hadid landmark;, All ages",
+      "longDesc": "Zaha Hadid landmark; night photos are great Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dongdaemun%20Design%20Plaza%20%28DDP%29&center=37.5665256,127.00922360000001",
+      "placeId": "ChIJ8xRYr29FezUR3AtFqx2pIlw",
+      "address": "281 Eulji-ro, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Seoullo 7017 Skygarden",
+      "coord": [
+        37.556713699999996,
+        126.96957529999999
+      ],
+      "desc": "Elevated walkway; quick, All ages",
+      "longDesc": "Elevated walkway; quick scenic stroll Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoullo%207017%20Skygarden&center=37.556713699999996,126.96957529999999",
+      "placeId": "ChIJw8UIcGCifDURB0MtY-xAUqM",
+      "address": "432 Cheongpa-ro, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Cheonggyecheon Stream Night Walk",
+      "coord": [
+        37.569101499999995,
+        126.97866919999998
+      ],
+      "desc": "Easy evening stroll;, All ages",
+      "longDesc": "Easy evening stroll; great with stroller Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cheonggyecheon%20Stream%20Night%20Walk&center=37.569101499999995,126.97866919999998",
+      "placeId": "ChIJIwCT4-yifDUR1E63iG76hr0",
+      "address": "Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Donuimun Museum Village",
+      "coord": [
+        37.5687865,
+        126.9685111
+      ],
+      "desc": "Interactive “time travel”, Families",
+      "longDesc": "Interactive “time travel” through modern Korean life Perfect for Families",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Donuimun%20Museum%20Village&center=37.5687865,126.9685111",
+      "placeId": "ChIJ_a28PY6ifDURR_p6svDY1tM",
+      "address": "14-3 Songwol-gil, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "N Seoul Tower (Namsan Tower)",
+      "coord": [
+        37.5511694,
+        126.98822659999999
+      ],
+      "desc": "Classic skyline viewpoint;, All ages",
+      "longDesc": "Classic skyline viewpoint; walk up for a nature break Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=N%20Seoul%20Tower%20%28Namsan%20Tower%29&center=37.5511694,126.98822659999999",
+      "placeId": "ChIJqWqOqFeifDURpYJ5LnxX-Fw",
+      "address": "105 Namsangongwon-gil, Yongsan District, Seoul, South Korea"
+    },
+    {
+      "name": "Namsan Park Trails",
+      "coord": [
+        37.5532916,
+        126.9845912
+      ],
+      "desc": "Easy city hike;, All ages; must-see attraction",
+      "longDesc": "Easy city hike; playgrounds + viewpoints Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Namsan%20Park%20Trails&center=37.5532916,126.9845912",
+      "placeId": "ChIJRfRu1VaifDURN2z4slxddQ0",
+      "address": "yongsan-dong 2(i)-ga, Yongsan District, Seoul, South Korea"
+    },
+    {
+      "name": "Ddareungi Bike Ride (Han River)",
+      "coord": [
+        37.547158499999995,
+        126.90671429999999
+      ],
+      "desc": "Rent city bikes, Kids 6+ / adults",
+      "longDesc": "Rent city bikes and cruise riverside paths Perfect for Kids 6+ / adults",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ddareungi%20Bike%20Ride%20%28Han%20River%29&center=37.547158499999995,126.90671429999999",
+      "placeId": "ChIJlVPIOy2ZfDURqp_hn5HovL8",
+      "address": "318-3 Hapjeong-dong, Mapo-gu, Seoul, South Korea"
+    },
+    {
+      "name": "Bukhansan National Park Hike",
+      "coord": [
+        37.6190261,
+        126.99695839999998
+      ],
+      "desc": "Trails from easy, Active travelers",
+      "longDesc": "Trails from easy to strenuous; temples + views Perfect for Active travelers",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bukhansan%20National%20Park%20Hike&center=37.6190261,126.99695839999998",
+      "placeId": "ChIJN2x0fu2ifDURheJ4-U3YaAA",
+      "address": "262 Bogungmun-ro, Seongbuk District, Seoul, South Korea"
+    },
+    {
+      "name": "Olympic Park",
+      "coord": [
+        37.5206868,
+        127.12149409999998
+      ],
+      "desc": "Wide paths for, All ages; must-see attraction",
+      "longDesc": "Wide paths for strollers; outdoor sculptures Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Olympic%20Park&center=37.5206868,127.12149409999998",
+      "placeId": "ChIJg_TYDmGlfDURb6IVCHwVOF4",
+      "address": "424 Olympic-ro, Songpa District, Seoul, South Korea"
+    },
+    {
+      "name": "Hannam-dong + Itaewon Browsing",
+      "coord": [
+        37.536489599999996,
+        126.99877500000001
+      ],
+      "desc": "Eclectic shops +, All ages; must-see attraction",
+      "longDesc": "Eclectic shops + galleries; easy to combine with Leeum Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hannam-dong%20%2B%20Itaewon%20Browsing&center=37.536489599999996,126.99877500000001",
+      "placeId": "ChIJ7brIaLOjfDURv6PEkPhnK6k",
+      "address": "7 Itaewon-ro 55na-gil, Yongsan District, Seoul, South Korea"
+    },
+    {
+      "name": "COEX Starfield Library",
+      "coord": [
+        37.5100586,
+        127.0601188
+      ],
+      "desc": "Iconic indoor photo, All ages; must-see attraction",
+      "longDesc": "Iconic indoor photo spot; great in bad weather Perfect for All ages",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=COEX%20Starfield%20Library&center=37.5100586,127.0601188",
+      "placeId": "ChIJu5Gg2hWkfDURl7NN7FpFnis",
+      "address": "South Korea, Seoul, Gangnam District, Yeongdong-daero, 513 스타필드 코엑스몰 B1"
+    },
+    {
+      "name": "Makgeolli Tasting Night",
+      "coord": [
+        37.5540178,
+        126.92183199999998
+      ],
+      "desc": "Try modern makgeolli, Adults; must-see attraction",
+      "longDesc": "Try modern makgeolli bars for a local twist Perfect for Adults",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Makgeolli%20Tasting%20Night&center=37.5540178,126.92183199999998",
+      "placeId": "ChIJL3VGv8CZfDURdC2EQ2NIvE8",
+      "address": "14 Hongik-ro 5an-gil, Mapo-gu, Seoul, South Korea"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Seoul Forest",
+      "coord": [
+        37.544387799999996,
+        127.03744239999999
+      ],
+      "desc": "0-12; Big open spaces, paths for strollers, playground areas",
+      "longDesc": "Massive open spaces with stroller-friendly paths, playground areas, and deer enclosures create the ideal outdoor playground for young families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoul%20Forest&center=37.544387799999996,127.03744239999999",
+      "placeId": "ChIJK_b0UX2jfDURmkYPvmWYm90",
+      "address": "273 Ttukseom-ro, Seongdong-gu, Seoul, South Korea"
+    },
+    {
+      "name": "Han River Picnic (Banpo)",
+      "coord": [
+        37.5124603,
+        127.00041010000001
+      ],
+      "desc": "0-18; Easy family evening: picnic + river views",
+      "longDesc": "An easy, delightful family evening combining riverside picnics, wide-open spaces, and views—perfect for younger kids.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Han%20River%20Picnic%20%28Banpo%29&center=37.5124603,127.00041010000001",
+      "placeId": "ChIJ_Y4BnKOjfDUR7H9t-V4fwEo",
+      "address": "122-1 Jamwon-dong, Seocho District, Seoul, South Korea"
+    },
+    {
+      "name": "Gyeongbokgung Palace (short loop)",
+      "coord": [
+        37.579617,
+        126.977041
+      ],
+      "desc": "0-18; Keep it short for toddlers",
+      "longDesc": "Keep palace visits short and focused for toddlers by exploring just the main grounds rather than attempting extensive touring.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gyeongbokgung%20Palace%20%28short%20loop%29&center=37.579617,126.977041",
+      "placeId": "ChIJod7tSseifDUR9hXHLFNGMIs",
+      "address": "161 Sajik-ro, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Bukchon Hanok Village (early AM)",
+      "coord": [
+        37.5814696,
+        126.9849519
+      ],
+      "desc": "4-18; Photo-friendly lanes; great for families",
+      "longDesc": "Arriving early avoids crowds and makes for easier stroller navigation and uncluttered photo opportunities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bukchon%20Hanok%20Village%20%28early%20AM%29&center=37.5814696,126.9849519",
+      "placeId": "ChIJT8H4r9qifDURmuXJ_6m6vM0",
+      "address": "Gyedong-gil, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Gwangjang Market Snack Crawl",
+      "coord": [
+        37.5704134,
+        127.0018677
+      ],
+      "desc": "2-18; Pick mild options; great for families",
+      "longDesc": "Kids love the market energy and snack options—steer toward milder, kid-friendly choices like tteokbokki and fish cakes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gwangjang%20Market%20Snack%20Crawl&center=37.5704134,127.0018677",
+      "placeId": "ChIJb4jW-d6jfDURo8Sd1lLxoRs",
+      "address": "Dongho-ro, 종로5.6가동 Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Cafe Onion Seongsu",
+      "coord": [
+        37.5447328,
+        127.0582091
+      ],
+      "desc": "0-18; Big space; great for families",
+      "longDesc": "A large, spacious café that accommodates families comfortably with good coffee and pastries for parents.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Onion%20Seongsu&center=37.5447328,127.0582091",
+      "placeId": "ChIJHb1ypJWkfDURb2d4XCjLluM",
+      "address": "8 Achasan-ro 9-gil, Seongdong-gu, Seoul, South Korea"
+    },
+    {
+      "name": "Baseball Game (KBO)",
+      "coord": [
+        37.488180799999995,
+        127.03269370000001
+      ],
+      "desc": "All ages; Family-friendly, lively atmosphere",
+      "longDesc": "A lively, family-oriented Korean baseball atmosphere with accessible seating and plenty of stadium food options.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Baseball%20Game%20%28KBO%29&center=37.488180799999995,127.03269370000001",
+      "placeId": "ChIJR-gK8E6hfDURdLtm09opc7U",
+      "address": "278 Gangnam-daero, Gangnam District, Seoul, South Korea"
+    },
+    {
+      "name": "Haeundae Beach",
+      "coord": [
+        35.158697499999995,
+        129.16038419999998
+      ],
+      "desc": "0-18; Sand play + easy promenade",
+      "longDesc": "Classic beach play with sand, water, and easy promenade walks—a timeless kid-approved experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Haeundae%20Beach&center=35.158697499999995,129.16038419999998",
+      "placeId": "ChIJXwf-DlyNaDURmKxjwdWxY5k",
+      "address": "Haeundae Beach, South Korea"
+    },
+    {
+      "name": "Dongmun Traditional Market",
+      "coord": [
+        33.5115133,
+        126.5262564
+      ],
+      "desc": "0-18; Snack stalls + fruit; great for families",
+      "longDesc": "Market snack stalls and fresh fruit stands keep kids entertained while offering authentic food experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dongmun%20Traditional%20Market&center=33.5115133,126.5262564",
+      "placeId": "ChIJBdEw_1PjDDUR9XxfgFpYmjw",
+      "address": "20 Gwandeok-ro 14-gil, 특별자치도, Cheju, Jeju-do, South Korea"
+    },
+    {
+      "name": "Resort Pool Day (Jungmun)",
+      "coord": [
+        33.2625508,
+        126.415721
+      ],
+      "desc": "0-12; Low-effort reset day; great for families",
+      "longDesc": "A low-effort reset day at a resort pool offering swimming, relaxation, and built-in entertainment.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Resort%20Pool%20Day%20%28Jungmun%29&center=33.2625508,126.415721",
+      "placeId": "ChIJYd5G25JaDDURocKVnV5atK0",
+      "address": "117 Saekdal-ro, Seogwipo, Jeju-do, South Korea"
+    },
+    {
+      "name": "Jeju Waterfalls (short walks)",
+      "coord": [
+        33.244852099999996,
+        126.57180319999999
+      ],
+      "desc": "0-18; Easy scenic walks; great for families",
+      "longDesc": "Easy, scenic waterfall walks offer manageable nature time and photo opportunities without demanding stamina.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%20Waterfalls%20%28short%20walks%29&center=33.244852099999996,126.57180319999999",
+      "placeId": "ChIJ8afI-XNTDDURC7OZzyBO8KA",
+      "address": "37 Chilsimni-ro 214beon-gil, Seogwipo, Jeju-do, South Korea"
+    },
+    {
+      "name": "Jeju Volcanic Landscapes",
+      "coord": [
+        33.305833299999996,
+        126.5163889
+      ],
+      "desc": "All ages; Lava tubes + volcanic scenery (plan logistics)",
+      "longDesc": "Volcanic scenery and lava tubes captivate curious minds, though families should plan logistics for comfortable exploration.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeju%20Volcanic%20Landscapes&center=33.305833299999996,126.5163889",
+      "placeId": "ChIJp8ljdJtWDDURI6ahhfno-IY",
+      "address": "Hogeun-dong, Jeju-si, South Korea"
+    },
+    {
+      "name": "Donuimun Museum Village",
+      "coord": [
+        37.5687865,
+        126.9685111
+      ],
+      "desc": "4-18, Hands-on exhibits about; great for families",
+      "longDesc": "4-18 Hands-on exhibits about modern Korean life",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Donuimun%20Museum%20Village&center=37.5687865,126.9685111",
+      "placeId": "ChIJ_a28PY6ifDURR_p6svDY1tM",
+      "address": "14-3 Songwol-gil, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "COEX Starfield Library",
+      "coord": [
+        37.5100586,
+        127.0601188
+      ],
+      "desc": "0-18, Quick wow-factor stop;; great for families",
+      "longDesc": "0-18 Quick wow-factor stop; great on rainy days",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=COEX%20Starfield%20Library&center=37.5100586,127.0601188",
+      "placeId": "ChIJu5Gg2hWkfDURl7NN7FpFnis",
+      "address": "South Korea, Seoul, Gangnam District, Yeongdong-daero, 513 스타필드 코엑스몰 B1"
+    },
+    {
+      "name": "N Seoul Tower",
+      "coord": [
+        37.5511694,
+        126.98822659999999
+      ],
+      "desc": "0-18, Cable car or; great for families",
+      "longDesc": "0-18 Cable car or short hike; kids love the “top of the city” feel",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=N%20Seoul%20Tower&center=37.5511694,126.98822659999999",
+      "placeId": "ChIJqWqOqFeifDURpYJ5LnxX-Fw",
+      "address": "105 Namsangongwon-gil, Yongsan District, Seoul, South Korea"
+    },
+    {
+      "name": "Cheonggyecheon Stream Walk",
+      "coord": [
+        37.569101499999995,
+        126.97866919999998
+      ],
+      "desc": "0-12, Flat; great for families",
+      "longDesc": "0-12 Flat, stroller-friendly; nice at dusk",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cheonggyecheon%20Stream%20Walk&center=37.569101499999995,126.97866919999998",
+      "placeId": "ChIJIwCT4-yifDUR1E63iG76hr0",
+      "address": "Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "K-pop Pop-ups & Merch Run",
+      "coord": [
+        37.5618556,
+        126.985953
+      ],
+      "desc": "8-18, Plan around what’s; great for families",
+      "longDesc": "8-18 Plan around what’s trending; great for tweens/teens",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=K-pop%20Pop-ups%20%26%20Merch%20Run&center=37.5618556,126.985953",
+      "placeId": "ChIJ62rQ6vKjfDUR1DILSZ3u_Ec",
+      "address": "South Korea, Seoul, Jung District, Myeongdong 8ga-gil, 17 3층 케이팝프렌즈"
+    },
+    {
+      "name": "Bukhansan Easy Hike",
+      "coord": [
+        37.6190261,
+        126.99695839999998
+      ],
+      "desc": "6-18, Choose a short; great for families",
+      "longDesc": "6-18 Choose a short trail; great views and nature in the city",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bukhansan%20Easy%20Hike&center=37.6190261,126.99695839999998",
+      "placeId": "ChIJN2x0fu2ifDURheJ4-U3YaAA",
+      "address": "262 Bogungmun-ro, Seongbuk District, Seoul, South Korea"
+    },
+    {
+      "name": "Gwangalli Beach Night Lights",
+      "coord": [
+        35.154965,
+        129.12248879999999
+      ],
+      "desc": "0-18, Bridge lights and; great for families",
+      "longDesc": "0-18 Bridge lights and wide beachfront walk",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gwangalli%20Beach%20Night%20Lights&center=35.154965,129.12248879999999",
+      "placeId": "ChIJH8x6RADtaDURYIP-6DbuhXc",
+      "address": "209-2 Millak-dong, Suyeong-gu, Busan, South Korea"
+    },
+    {
+      "name": "Songdo Cable Car",
+      "coord": [
+        35.0763876,
+        129.0236199
+      ],
+      "desc": "0-18, Short ride over; great for families",
+      "longDesc": "0-18 Short ride over the sea; glass-bottom cabins available",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Songdo%20Cable%20Car&center=35.0763876,129.0236199",
+      "placeId": "ChIJQehEaUToaDURU7CTL4IJmZY",
+      "address": "171 Songdohaebyeon-ro, Seo-gu, Busan, South Korea"
+    },
+    {
+      "name": "Amnam Park Trails",
+      "coord": [
+        35.06087780000001,
+        129.01610470000003
+      ],
+      "desc": "4-18, Forest trails +; great for families",
+      "longDesc": "4-18 Forest trails + coastal viewpoints",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Amnam%20Park%20Trails&center=35.06087780000001,129.01610470000003",
+      "placeId": "ChIJB0FzbJHpaDURhbOudTpDmxI",
+      "address": "산193 Amnam-dong, Seo-gu, Busan, South Korea"
+    },
+    {
+      "name": "Spa Land (Centum City)",
+      "coord": [
+        35.168233799999996,
+        129.1295279
+      ],
+      "desc": "13-18, Iconic jjimjilbang; best",
+      "longDesc": "13-18 Iconic jjimjilbang; best for teens/adults",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Spa%20Land%20%28Centum%20City%29&center=35.168233799999996,129.1295279",
+      "placeId": "ChIJDT_5v8aSaDURXW8rEbumGh8",
+      "address": "35 Centum nam-daero, Haeundae, Busan, South Korea"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Gwangjang Market",
+      "coord": [
+        37.570039799999996,
+        126.99960360000001
+      ],
+      "desc": "Traditional Market / Street Food; Bindaetteok, mayak gimbap, tteokbokki",
+      "longDesc": "Seoul's most vibrant traditional market, bursting with street food vendors serving iconic snacks like bindaetteok and mayak gimbap.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gwangjang%20Market&center=37.570039799999996,126.99960360000001",
+      "placeId": "ChIJm3V0fu2ifDURRJ8IMUijVtY",
+      "address": "88 Changgyeonggung-ro, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Namdaemun Market",
+      "coord": [
+        37.559277,
+        126.9777029
+      ],
+      "desc": "Traditional Market; Korean snacks, housewares, gifts",
+      "longDesc": "A sprawling traditional market packed with Korean snacks, souvenirs, housewares, and gifts—a one-stop shop for authentic takeaways.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Namdaemun%20Market&center=37.559277,126.9777029",
+      "placeId": "ChIJfYjlFvWifDURYSDsoxYbN80",
+      "address": "21 Namdaemunsijang 4-gil, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Myeongdong Street Food",
+      "coord": [
+        37.561668499999996,
+        126.9858438
+      ],
+      "desc": "Night Street Food; Hotteok, skewers, tteokbokki, desserts",
+      "longDesc": "Night street food vendors line this shopping district serving hotteok, skewers, tteokbokki, and desserts in an electrifying atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Myeongdong%20Street%20Food&center=37.561668499999996,126.9858438",
+      "placeId": "ChIJqb-ne_CifDURR-yH8a3sjXM",
+      "address": "8-3 Chungmuro 2(i)-ga, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Mangwon Market",
+      "coord": [
+        37.5559018,
+        126.90628539999997
+      ],
+      "desc": "Neighborhood Market; Street snacks",
+      "longDesc": "A neighborhood market with street snacks and local flavor, less touristy than downtown markets but no less delicious.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mangwon%20Market&center=37.5559018,126.90628539999997",
+      "placeId": "ChIJA6gxryiZfDURJvmbeBvdz_Y",
+      "address": "27 Poeun-ro 6-gil, Mapo-gu, Seoul, South Korea"
+    },
+    {
+      "name": "Seongsu Café Corridor",
+      "coord": [
+        37.5446148,
+        127.0580149
+      ],
+      "desc": "Cafés + Concept Stores; Coffee, pastries (Cafe Onion, Daelim Warehouse)",
+      "longDesc": "A creative café and concept store corridor featuring specialty coffee and artisan pastries in an artsy neighborhood setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seongsu%20Caf%C3%A9%20Corridor&center=37.5446148,127.0580149",
+      "placeId": "ChIJm2cQmJmlfDURejJHVB-Pn0U",
+      "address": "Seongsui-ro, Seongdong-gu, Seoul, South Korea"
+    },
+    {
+      "name": "Insadong Ssamziegil + Tea Streets",
+      "coord": [
+        37.5743033,
+        126.9844135
+      ],
+      "desc": "Crafts + Snacks; Traditional teas, sweets, crafts",
+      "longDesc": "A charming shopping complex and surrounding tea district offering traditional teas, sweets, and handcrafted souvenirs.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Insadong%20Ssamziegil%20%2B%20Tea%20Streets&center=37.5743033,126.9844135",
+      "placeId": "ChIJLYxgq8KifDUREa853A2w8Lk",
+      "address": "Insa-dong, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Dongmun Traditional Market",
+      "coord": [
+        33.5115133,
+        126.5262564
+      ],
+      "desc": "Traditional Market; Seasonal fruit, seafood, hotteok (look for Yura-Imone)",
+      "longDesc": "Jeju's welcoming traditional market bursting with seasonal fruit, seafood, and specialties like hotteok.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dongmun%20Traditional%20Market&center=33.5115133,126.5262564",
+      "placeId": "ChIJBdEw_1PjDDUR9XxfgFpYmjw",
+      "address": "20 Gwandeok-ro 14-gil, 특별자치도, Cheju, Jeju-do, South Korea"
+    },
+    {
+      "name": "Seogwipo Maeil Olle Market",
+      "coord": [
+        33.2487163,
+        126.5640617
+      ],
+      "desc": "Traditional Market; Jeju tangerines, snacks, souvenirs",
+      "longDesc": "A authentic Jeju market selling tangerines, regional snacks, and thoughtful souvenirs in a local atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Seogwipo%20Maeil%20Olle%20Market&center=33.2487163,126.5640617",
+      "placeId": "ChIJQTsLr51TDDURbGXJg1JM0Sk",
+      "address": "18 Jungang-ro 62beon-gil, 특별자치도 Seogwipo, Jeju-do, South Korea"
+    },
+    {
+      "name": "Dongdaemun Night Shopping",
+      "coord": [
+        37.5658023,
+        127.00912
+      ],
+      "desc": "Wholesale Fashion / Night Market, Late-night fashion; quick",
+      "longDesc": "Wholesale Fashion / Night Market Late-night fashion; quick bites nearby",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dongdaemun%20Night%20Shopping&center=37.5658023,127.00912",
+      "placeId": "ChIJP8fkPT2jfDUR0vbv0FHyGpI",
+      "address": "8-4 Euljiro 7(chil)-ga, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Noryangjin Fish Market",
+      "coord": [
+        37.5149717,
+        126.93863420000001
+      ],
+      "desc": "Seafood Market, Live seafood platters;",
+      "longDesc": "Seafood Market Live seafood platters; grilled shellfish",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Noryangjin%20Fish%20Market&center=37.5149717,126.93863420000001",
+      "placeId": "ChIJOTEaKmiffDURNTst1Jzcm_c",
+      "address": "674 Nodeul-ro, Dongjak District, Seoul, South Korea"
+    },
+    {
+      "name": "Tongin Market",
+      "coord": [
+        37.5807649,
+        126.97067559999999
+      ],
+      "desc": "Traditional Market, Korean banchan-style snacks",
+      "longDesc": "Traditional Market Korean banchan-style snacks",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tongin%20Market&center=37.5807649,126.97067559999999",
+      "placeId": "ChIJYxd6fL6ifDURy7wm894BUcQ",
+      "address": "18 Jahamun-ro 15-gil, Jongno District, Seoul, South Korea"
+    },
+    {
+      "name": "Euljiro Nogari Alley",
+      "coord": [
+        37.567095099999996,
+        126.99189480000001
+      ],
+      "desc": "Food Alley, Beer + Korean; food and culture",
+      "longDesc": "Food Alley Beer + Korean bar snacks",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Euljiro%20Nogari%20Alley&center=37.567095099999996,126.99189480000001",
+      "placeId": "ChIJA17wJIajfDURORb_dfN8bkU",
+      "address": "15 Eulji-ro 13-gil, Euljiro 3(sam)-ga, Jung District, Seoul, South Korea"
+    },
+    {
+      "name": "Jagalchi Fish Market",
+      "coord": [
+        35.0966339,
+        129.0307965
+      ],
+      "desc": "Seafood Market, Sashimi; food and culture",
+      "longDesc": "Seafood Market Sashimi, grilled shellfish, sea urchin, crab",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jagalchi%20Fish%20Market&center=35.0966339,129.0307965",
+      "placeId": "ChIJudkrFArpaDURbbCzajeQs0c",
+      "address": "52 Jagalchihaean-ro, Jung-gu, Busan, South Korea"
+    },
+    {
+      "name": "Gukje Market",
+      "coord": [
+        35.1013575,
+        129.0281978
+      ],
+      "desc": "Market / Shopping, Street snacks; vintage",
+      "longDesc": "Market / Shopping Street snacks; vintage finds",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gukje%20Market&center=35.1013575,129.0281978",
+      "placeId": "ChIJfYLMelSTaDURFlCRfk5W1PA",
+      "address": "55 Gukjesijang 2-gil, Jung-gu, Busan, South Korea"
+    },
+    {
+      "name": "Bupyeong Kkangtong Market",
+      "coord": [
+        35.101853999999996,
+        129.0258719
+      ],
+      "desc": "Night Market, Hotteok; food and culture",
+      "longDesc": "Night Market Hotteok, tteokbokki, pancakes",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bupyeong%20Kkangtong%20Market&center=35.101853999999996,129.0258719",
+      "placeId": "ChIJ21pR1aHpaDUR_usy_ELBCvk",
+      "address": "39 Bupyeong 1-gil, Jung-gu, Busan, South Korea"
+    }
+  ],
+  "cityCenters": {
+    "Seoul": [
+      37.5665,
+      126.978,
+      0.08
+    ],
+    "Busan": [
+      35.1796,
+      129.0756,
+      0.1
+    ],
+    "Jeju": [
+      33.4996,
+      126.5312,
+      0.15
+    ],
+    "Gyeongju": [
+      35.8362,
+      129.2259,
+      0.08
+    ],
+    "Incheon": [
+      37.4769,
+      126.7094,
+      0.08
+    ],
+    "Jeonju": [
+      35.8242,
+      127.1479,
+      0.08
+    ],
+    "Andong": [
+      35.5708,
+      128.7276,
+      0.08
+    ],
+    "Daegu": [
+      35.8714,
+      128.5956,
+      0.08
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "name": "Greatest Hits (7 days)",
+      "color": "#2563EB",
+      "days": [
+        {
+          "day": 1,
+          "title": "Seoul Arrival & Myeongdong",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "SIGNIEL Seoul",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Mingles",
+              "coord": [
+                37.5253386,
+                127.04414519999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Myeongdong Street Food",
+              "coord": [
+                37.561668499999996,
+                126.9858438
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Palaces & Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Seoul",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gyeongbokgung Palace",
+              "coord": [
+                37.5777,
+                126.9769
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Gwangjang Market",
+              "coord": [
+                37.570039799999996,
+                126.99960360000001
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Seochon Neighborhood Stroll",
+              "coord": [
+                37.5786683,
+                126.97310700000001
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Art & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Seoul",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "National Museum of Korea",
+              "coord": [
+                37.523850599999996,
+                126.98047020000001
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Jungsik",
+              "coord": [
+                37.525673399999995,
+                127.04108459999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Leeum Samsung Museum of Art",
+              "coord": [
+                37.5379389,
+                126.9992749
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Day Trip: DMZ & History",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Seoul",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "DMZ (Demilitarized Zone)",
+              "coord": [
+                37.845,
+                126.6819
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "DMZ Tour Lunch",
+              "coord": [
+                37.845,
+                126.6819
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Flight to Busan",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Seoul",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "SIGNIEL Busan",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "SIGNIEL Busan",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Millimeter Milligram",
+              "coord": [
+                35.1608,
+                129.1683
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Busan Beaches & Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Busan",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Haeundae Beach",
+              "coord": [
+                35.158697499999995,
+                129.16038419999998
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Jagalchi Market",
+              "coord": [
+                35.099,
+                129.0412
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gamcheon Culture Village",
+              "coord": [
+                35.1019,
+                129.0584
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Return to Seoul",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Busan",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to Seoul",
+              "coord": [
+                37.5665,
+                126.978
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest at hotel",
+              "coord": [
+                37.5126,
+                127.1028
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "name": "Hidden Gems (7 days)",
+      "color": "#059669",
+      "days": [
+        {
+          "day": 1,
+          "title": "Seoul to Gyeongju",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Raum Boutique Hotel",
+              "coord": [
+                35.8362,
+                129.2259
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local Gyeongju Restaurant",
+              "coord": [
+                35.8362,
+                129.2259
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bulguksa Temple",
+              "coord": [
+                35.7897,
+                129.3306
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Gyeongju Historic Sites",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Raum Boutique Hotel",
+              "coord": [
+                35.8362,
+                129.2259
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Seokguram Grotto",
+              "coord": [
+                35.7965,
+                129.3386
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Aglibang Sikdang",
+              "coord": [
+                35.8362,
+                129.2259
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Anapji Pond",
+              "coord": [
+                35.8388,
+                129.2274
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Andong Folk Village",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Raum Boutique Hotel",
+              "coord": [
+                35.8362,
+                129.2259
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hahoe Folk Village",
+              "coord": [
+                35.9868,
+                128.5674
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Andong Jjim",
+              "coord": [
+                35.5708,
+                128.7276
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Oyaji Bridge",
+              "coord": [
+                35.9868,
+                128.5674
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Jeonju Hanok & Food",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Jeonju Hanok Stay",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Jeonju Bibimbap Street",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jeonju Hanok Village",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Jeonju Markets & Arts",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Jeonju Hanok Stay",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jeonju Paper Museum",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Jeonju Traditional Market",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Deoksugung Palace",
+              "coord": [
+                37.566,
+                126.9629
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Return to Seoul via Busan",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Jeonju Hanok Stay",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to Seoul",
+              "coord": [
+                37.5665,
+                126.978
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Four Seasons Hotel Seoul",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Seoul Hangover & Rest",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Hotel Seoul",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest & Recover",
+              "coord": [
+                37.54557,
+                126.67324
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Explore Hongdae District",
+              "coord": [
+                37.5505,
+                126.9241
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Family Comfort (10 days)",
+      "color": "#D97706",
+      "days": [
+        {
+          "day": 1,
+          "title": "Seoul Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Grand Hyatt Seoul",
+              "coord": [
+                37.539431799999996,
+                126.997519
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Myeongdong Street Food",
+              "coord": [
+                37.561668499999996,
+                126.9858438
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "N Seoul Tower",
+              "coord": [
+                37.5511694,
+                126.98822659999999
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Family Palace Tour",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Grand Hyatt Seoul",
+              "coord": [
+                37.539431799999996,
+                126.997519
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gyeongbokgung Palace",
+              "coord": [
+                37.5777,
+                126.9769
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Korean BBQ Restaurant",
+              "coord": [
+                37.5359,
+                126.9945
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "National Folk Museum",
+              "coord": [
+                37.5777,
+                126.9769
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Kids Activities",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Grand Hyatt Seoul",
+              "coord": [
+                37.539431799999996,
+                126.997519
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Lotte World",
+              "coord": [
+                37.5126,
+                127.1028
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Lotte World Food Court",
+              "coord": [
+                37.5126,
+                127.1028
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest at hotel",
+              "coord": [
+                37.5359,
+                126.9945
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Market & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Grand Hyatt Seoul",
+              "coord": [
+                37.539431799999996,
+                126.997519
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gwangjang Market",
+              "coord": [
+                37.570039799999996,
+                126.99960360000001
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Market Food Stalls",
+              "coord": [
+                37.571,
+                126.9825
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest",
+              "coord": [
+                37.5359,
+                126.9945
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Jeju Arrival & Beach",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Grand Hyatt Seoul",
+              "coord": [
+                37.539431799999996,
+                126.997519
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to Jeju",
+              "coord": [
+                33.4996,
+                126.5312
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Grand Hyatt Jeju",
+              "coord": [
+                33.4853707,
+                126.4815713
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hyeopjae Beach",
+              "coord": [
+                33.4088,
+                126.2418
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Jeju Nature & Activities",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Grand Hyatt Jeju",
+              "coord": [
+                33.4853707,
+                126.4815713
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hallasan Mountain",
+              "coord": [
+                33.3615,
+                126.5314
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Jeju Black Pork BBQ",
+              "coord": [
+                33.4996,
+                126.5312
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest at resort",
+              "coord": [
+                33.485368,
+                126.481498
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Jeju Museum & Zoo",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Grand Hyatt Jeju",
+              "coord": [
+                33.4853707,
+                126.4815713
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jeju Teddy Bear Museum",
+              "coord": [
+                33.4996,
+                126.5312
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Seogwipo Food",
+              "coord": [
+                33.2453,
+                126.5623
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cheonjiyeon Falls",
+              "coord": [
+                33.2435,
+                126.5688
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Return to Seoul via Busan",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Grand Hyatt Jeju",
+              "coord": [
+                33.4853707,
+                126.4815713
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to Seoul",
+              "coord": [
+                37.5665,
+                126.978
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Mondrian Seoul Itaewon",
+              "coord": [
+                37.5285106,
+                126.99311629999998
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Korean Folk Village",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Mondrian Seoul Itaewon",
+              "coord": [
+                37.5285106,
+                126.99311629999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Korean Folk Village",
+              "coord": [
+                37.2854,
+                127.0984
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Folk Village Traditional Lunch",
+              "coord": [
+                37.2854,
+                127.0984
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Seoul Final & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Mondrian Seoul Itaewon",
+              "coord": [
+                37.5285106,
+                126.99311629999998
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Last-minute shopping",
+              "coord": [
+                37.56,
+                126.9844
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Departure",
+              "coord": [
+                37.4769,
+                126.7094
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "d": {
+      "name": "Foodie Deep-Dive (10 days)",
+      "color": "#DC2626",
+      "days": [
+        {
+          "day": 1,
+          "title": "Seoul Michelin Scene",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "SIGNIEL Seoul",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Mingles",
+              "coord": [
+                37.5253386,
+                127.04414519999999
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Jungsik",
+              "coord": [
+                37.525673399999995,
+                127.04108459999999
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Korean Fine Dining & Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Seoul",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gwangjang Market",
+              "coord": [
+                37.570039799999996,
+                126.99960360000001
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Market Street Food",
+              "coord": [
+                37.571,
+                126.9825
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Kwonsooksoo",
+              "coord": [
+                37.5243775,
+                127.0435589
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Japanese & Innovative",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Seoul",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Evett",
+              "coord": [
+                37.5233759,
+                127.03621329999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Food Museum Visit",
+              "coord": [
+                37.5527,
+                126.9881
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Mosu",
+              "coord": [
+                37.52,
+                127.025
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Korean BBQ Masterclass",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Seoul",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "BBQ Market Research",
+              "coord": [
+                37.5359,
+                126.9945
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Premium Hanwoo BBQ",
+              "coord": [
+                37.5359,
+                126.9945
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local BBQ Institution",
+              "coord": [
+                37.5359,
+                126.9945
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Myeongdong Street Food Tour",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Seoul",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Myeongdong Street Food",
+              "coord": [
+                37.561668499999996,
+                126.9858438
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Pojangmacha Food Stalls",
+              "coord": [
+                37.56,
+                126.9844
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest & digest",
+              "coord": [
+                37.5126,
+                127.1028
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Flight to Busan & Seafood",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Seoul",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to Busan",
+              "coord": [
+                35.1796,
+                129.0756
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "SIGNIEL Busan",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Jagalchi Market Seafood",
+              "coord": [
+                35.099,
+                129.0412
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Fish Markets & Local",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Busan",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jagalchi Fish Market",
+              "coord": [
+                35.0966339,
+                129.0307965
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Market Seafood Restaurant",
+              "coord": [
+                35.099,
+                129.0412
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Premium Seafood Omakase",
+              "coord": [
+                35.1608,
+                129.1683
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Return Seoul, Street Food",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Busan",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to Seoul",
+              "coord": [
+                37.5665,
+                126.978
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Four Seasons Hotel Seoul",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Street Food Crawl",
+              "coord": [
+                37.56,
+                126.9844
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Temple Food & Tea",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Hotel Seoul",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Temple Stay Experience",
+              "coord": [
+                37.582,
+                126.969
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Temple Food Lunch",
+              "coord": [
+                37.582,
+                126.969
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Gourmet Tea Tasting",
+              "coord": [
+                37.582,
+                126.969
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Final Michelin & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Hotel Seoul",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "alla prima",
+              "coord": [
+                37.513413799999995,
+                127.0260405
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Last-minute food shopping",
+              "coord": [
+                37.571,
+                126.9825
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "e": {
+      "name": "Grand Tour (14 days)",
+      "color": "#7C3AED",
+      "days": [
+        {
+          "day": 1,
+          "title": "Seoul Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "SIGNIEL Seoul",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Mingles",
+              "coord": [
+                37.5253386,
+                127.04414519999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Myeongdong",
+              "coord": [
+                37.56,
+                126.9844
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Seoul Palaces",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Seoul",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gyeongbokgung Palace",
+              "coord": [
+                37.5777,
+                126.9769
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Traditional Korean",
+              "coord": [
+                37.5665,
+                126.978
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Deoksugung Palace",
+              "coord": [
+                37.566,
+                126.9629
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "DMZ & History",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Seoul",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "DMZ (Demilitarized Zone)",
+              "coord": [
+                37.845,
+                126.6819
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "DMZ Tour Area",
+              "coord": [
+                37.845,
+                126.6819
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Seoul Markets & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Seoul",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gwangjang Market",
+              "coord": [
+                37.570039799999996,
+                126.99960360000001
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Market Food",
+              "coord": [
+                37.571,
+                126.9825
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "National Museum",
+              "coord": [
+                37.553,
+                127.0165
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Gyeongju Ancient Capital",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Raum Boutique Hotel",
+              "coord": [
+                35.8362,
+                129.2259
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Gyeongju Local Food",
+              "coord": [
+                35.8362,
+                129.2259
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bulguksa Temple",
+              "coord": [
+                35.7897,
+                129.3306
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Gyeongju Historic Sites",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Raum Boutique Hotel",
+              "coord": [
+                35.8362,
+                129.2259
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Seokguram Grotto",
+              "coord": [
+                35.7965,
+                129.3386
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Traditional Temple Food",
+              "coord": [
+                35.8362,
+                129.2259
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Anapji Pond",
+              "coord": [
+                35.8388,
+                129.2274
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Busan Arrival",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Raum Boutique Hotel",
+              "coord": [
+                35.8362,
+                129.2259
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Travel to Busan",
+              "coord": [
+                35.1796,
+                129.0756
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "SIGNIEL Busan",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Busan Local Restaurant",
+              "coord": [
+                35.1608,
+                129.1683
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Busan Beaches & Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Busan",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Haeundae Beach",
+              "coord": [
+                35.158697499999995,
+                129.16038419999998
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Jagalchi Market",
+              "coord": [
+                35.099,
+                129.0412
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gamcheon Culture Village",
+              "coord": [
+                35.1019,
+                129.0584
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Jeju Arrival",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "SIGNIEL Busan",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to Jeju",
+              "coord": [
+                33.4996,
+                126.5312
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Grand Hyatt Jeju",
+              "coord": [
+                33.4853707,
+                126.4815713
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jeju Beach Sunset",
+              "coord": [
+                33.4088,
+                126.2418
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Jeju Nature & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Grand Hyatt Jeju",
+              "coord": [
+                33.4853707,
+                126.4815713
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hallasan Mountain",
+              "coord": [
+                33.3615,
+                126.5314
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Jeju Black Pork",
+              "coord": [
+                33.4996,
+                126.5312
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jeju Folk Museum",
+              "coord": [
+                33.4996,
+                126.5312
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Jeonju Hanok Village",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Jeonju Hanok Stay",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Jeonju Bibimbap",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jeonju Hanok Village",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Jeonju Arts & Crafts",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Jeonju Hanok Stay",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Jeonju Paper Museum",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Traditional Market Food",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Craft Workshops",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Return to Seoul",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Jeonju Hanok Stay",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Travel to Seoul",
+              "coord": [
+                37.5665,
+                126.978
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Four Seasons Hotel Seoul",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Farewell Dinner",
+              "coord": [
+                37.522682,
+                127.039179
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Final Seoul & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Four Seasons Hotel Seoul",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Last-minute exploration",
+              "coord": [
+                37.5665,
+                126.978
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Airport departure",
+              "coord": [
+                37.4769,
+                126.7094
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

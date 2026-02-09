@@ -1,0 +1,101 @@
+{
+  "default": "japan",
+  "destinations": [
+    {
+      "key": "japan",
+      "name": "Japan Family Adventure",
+      "flag": "🇯🇵",
+      "file": "destinations/japan.json"
+    },
+    {
+      "key": "italy",
+      "name": "Italy Family Adventure",
+      "flag": "🇮🇹",
+      "file": "destinations/italy.json"
+    },
+    {
+      "key": "greece",
+      "name": "Greece Family Adventure",
+      "flag": "🇬🇷",
+      "file": "destinations/greece.json"
+    },
+    {
+      "key": "uk",
+      "name": "United Kingdom Family Adventure",
+      "flag": "🇬🇧",
+      "file": "destinations/uk.json"
+    },
+    {
+      "key": "spain",
+      "name": "Spain Family Adventure",
+      "flag": "🇪🇸",
+      "file": "destinations/spain.json"
+    },
+    {
+      "key": "thailand",
+      "name": "Thailand Family Adventure",
+      "flag": "🇹🇭",
+      "file": "destinations/thailand.json"
+    },
+    {
+      "key": "korea",
+      "name": "Korea Family Adventure",
+      "flag": "🇰🇷",
+      "file": "destinations/korea.json"
+    },
+    {
+      "key": "vietnam",
+      "name": "Vietnam Family Adventure",
+      "flag": "🇻🇳",
+      "file": "destinations/vietnam.json"
+    },
+    {
+      "key": "portugal",
+      "name": "Portugal Family Adventure",
+      "flag": "🇵🇹",
+      "file": "destinations/portugal.json"
+    },
+    {
+      "key": "china",
+      "name": "China Family Adventure",
+      "flag": "🇨🇳",
+      "file": "destinations/china.json"
+    },
+    {
+      "key": "europe-ski",
+      "name": "Europe Ski Resorts Adventure",
+      "flag": "⛷️",
+      "file": "destinations/europe-ski.json"
+    },
+    {
+      "key": "taiwan",
+      "name": "Taiwan Family Adventure",
+      "flag": "🇹🇼",
+      "file": "destinations/taiwan.json"
+    },
+    {
+      "key": "france",
+      "name": "France Family Adventure",
+      "flag": "🇫🇷",
+      "file": "destinations/france.json"
+    },
+    {
+      "key": "belgium",
+      "name": "Belgium Family Adventure",
+      "flag": "🇧🇪",
+      "file": "destinations/belgium.json"
+    },
+    {
+      "key": "mexico",
+      "name": "Mexico Family Adventure",
+      "flag": "🇲🇽",
+      "file": "destinations/mexico.json"
+    },
+    {
+      "key": "singapore",
+      "name": "Singapore Family Adventure",
+      "flag": "🇸🇬",
+      "file": "destinations/singapore.json"
+    }
+  ]
+}

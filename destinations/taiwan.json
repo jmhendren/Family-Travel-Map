@@ -1,0 +1,4457 @@
+{
+  "key": "taiwan",
+  "name": "Taiwan Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇹🇼",
+  "defaultCenter": [
+    23.7,
+    120.9
+  ],
+  "defaultZoom": 7,
+  "hotels": [
+    {
+      "name": "Capella Taipei",
+      "coord": [
+        25.053239299999998,
+        121.54992299999999
+      ],
+      "desc": "Luxury Hotel, Andre Fu design; Capella Moments cultural experiences",
+      "longDesc": "Luxury design retreat with Andre Fu architecture blends contemporary elegance and cultural Taiwan experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Capella%20Taipei&center=25.053239299999998,121.54992299999999",
+      "placeId": "ChIJTyLpHACrQjQRgMpF_-zRxVw",
+      "address": "No. 139, DunHua N Rd, Songshan District, Taipei City, Taiwan 105"
+    },
+    {
+      "name": "Mandarin Oriental, Taipei",
+      "coord": [
+        25.055741599999998,
+        121.5481485
+      ],
+      "desc": "Luxury Hotel, Grand spa; spacious rooms; top service",
+      "longDesc": "Prestigious five-star hotel offers world-class spa and refined service in central Taipei location.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mandarin%20Oriental%2C%20Taipei&center=25.055741599999998,121.5481485",
+      "placeId": "ChIJWXlWGearQjQRNEj80OdQoVw",
+      "address": "No. 158, DunHua N Rd, Songshan District, Taipei City, Taiwan 10548"
+    },
+    {
+      "name": "Regent Taipei",
+      "coord": [
+        25.054157999999997,
+        121.52428800000001
+      ],
+      "desc": "Luxury Hotel, Central base; strong dining scene",
+      "longDesc": "Centrally positioned luxury hotel near Dunnan shopping and museums provides ideal family base.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Regent%20Taipei&center=25.054157999999997,121.52428800000001",
+      "placeId": "ChIJ5ymH9mipQjQRqo6WdCNtP24",
+      "address": "No. 3號, Lane 39, Section 2, Zhongshan N Rd, Zhongshan District, Taipei City, Taiwan 104"
+    },
+    {
+      "name": "Shangri-La Far Eastern, Taipei",
+      "coord": [
+        25.0262249,
+        121.54969039999999
+      ],
+      "desc": "Luxury Hotel, High-floor views; pools; full-service luxury",
+      "longDesc": "High-floor luxury suites with panoramic views and pools create refined Taipei retreat.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Shangri-La%20Far%20Eastern%2C%20Taipei&center=25.0262249,121.54969039999999",
+      "placeId": "ChIJeUp8ZTKqQjQRG274UZw34LQ",
+      "address": "No. 201號, Section 2, Dunhua S Rd, Da’an District, Taipei City, Taiwan 10675"
+    },
+    {
+      "name": "W Taipei",
+      "coord": [
+        25.0408632,
+        121.5655265
+      ],
+      "desc": "Luxury Hotel, Skyline views; vibrant bar scene",
+      "longDesc": "Contemporary luxury lifestyle hotel with dramatic skyline views appeals to design-forward families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=W%20Taipei&center=25.0408632,121.5655265",
+      "placeId": "ChIJgSeCsqSrQjQRZql8DEzsovs",
+      "address": "No. 10, Section 5 of Zhongxiao East RoadSection 5 of Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110"
+    },
+    {
+      "name": "The Okura Prestige Taipei",
+      "coord": [
+        25.0525095,
+        121.52327399999999
+      ],
+      "desc": "Luxury Hotel, Japanese hospitality; refined rooms",
+      "longDesc": "Japanese hospitality excellence brings refined elegance and meticulously appointed rooms.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Okura%20Prestige%20Taipei&center=25.0525095,121.52327399999999",
+      "placeId": "ChIJXyK30WipQjQRDEDnes43KiA",
+      "address": "No. 9號, Section 1, Nanjing E Rd, Zhongshan District, Taipei City, Taiwan 10450"
+    },
+    {
+      "name": "Kimpton Da An Taipei",
+      "coord": [
+        25.040388699999998,
+        121.54535120000001
+      ],
+      "desc": "Boutique Hotel, Boutique vibe in East District",
+      "longDesc": "East District boutique gem offers design-forward spaces and personalized service in vibrant neighborhood.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kimpton%20Da%20An%20Taipei&center=25.040388699999998,121.54535120000001",
+      "placeId": "ChIJQYzd58yrQjQRMxp7e6xhxxY",
+      "address": "No. 25號, Lane 27, Section 4, Ren'ai Rd, Da’an District, Taipei City, Taiwan 106"
+    },
+    {
+      "name": "Hotel Resonance Taipei",
+      "coord": [
+        25.0439639,
+        121.5235742
+      ],
+      "desc": "Boutique Hotel, Modern boutique; central access",
+      "longDesc": "Modern boutique hotel combines contemporary style with walkable access to Taipei neighborhoods.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Resonance%20Taipei&center=25.0439639,121.5235742",
+      "placeId": "ChIJxR84V3CpQjQRLC3zJq_aA8M",
+      "address": "No. 7, Linsen S Rd, Zhongzheng District, Taipei City, Taiwan 100"
+    },
+    {
+      "name": "Grand Hyatt Taipei",
+      "coord": [
+        25.0351708,
+        121.56286689999999
+      ],
+      "desc": "Luxury Hotel, Walk to Taipei 101; big-hotel amenities",
+      "longDesc": "Luxury resort walking distance from Taipei 101 combines world-class amenities with iconic landmark proximity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Hyatt%20Taipei&center=25.0351708,121.56286689999999",
+      "placeId": "ChIJty1ap7erQjQRWmO-mTv1zkQ",
+      "address": "No. 2號, Songshou Rd, Xinyi District, Taipei City, Taiwan 110061"
+    },
+    {
+      "name": "Hoshinoya Guguan",
+      "coord": [
+        24.205375999999998,
+        121.0104902
+      ],
+      "desc": "Hot Spring Ryokan, Ryokan-style onsen retreat in mountains",
+      "longDesc": "Authentic mountain ryokan features traditional onsen and peaceful highland retreat atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoshinoya%20Guguan&center=24.205375999999998,121.0104902",
+      "placeId": "ChIJt_KWpPblaDQRpYbVhOn4Uno",
+      "address": "424, Taiwan, Taichung City, Heping District, 東關路一段溫泉巷16號"
+    },
+    {
+      "name": "InterContinental Kaohsiung",
+      "coord": [
+        22.6113474,
+        120.30349319999999
+      ],
+      "desc": "Luxury Hotel, New luxury base in southern hub",
+      "longDesc": "Southern luxury base provides stylish accommodations and access to coastal attractions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=InterContinental%20Kaohsiung&center=22.6113474,120.30349319999999",
+      "placeId": "ChIJD0spUCkDbjQRSnSnu_SJTdY",
+      "address": "No. 33號, Singuang Rd, Cianjhen District, Kaohsiung City, Taiwan 806"
+    },
+    {
+      "name": "InterContinental Taichung",
+      "coord": [
+        24.152573,
+        120.66370570000001
+      ],
+      "desc": "Luxury Hotel, Modern luxury in central Taiwan",
+      "longDesc": "Central Taiwan luxury hotel offers refined service and refined accommodations for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=InterContinental%20Taichung&center=24.152573,120.66370570000001",
+      "placeId": "ChIJL8RYPZ49aTQR1ML-RyBPnyY",
+      "address": "No. 77號, Guanqian Rd, West District, Taichung City, Taiwan 40353"
+    },
+    {
+      "name": "Hotel Indigo Taipei North",
+      "coord": [
+        25.083253799999998,
+        121.56002559999997
+      ],
+      "desc": "Design Hotel, Local-art design; stylish rooms",
+      "longDesc": "Design hotel with local art touches provides distinctive character and convenient Taipei access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Indigo%20Taipei%20North&center=25.083253799999998,121.56002559999997",
+      "placeId": "ChIJiRtoKW2sQjQRSjv_t_QY8_8",
+      "address": "200號, ZhiFu Rd, Zhongshan District, Taipei City, Taiwan 104053"
+    },
+    {
+      "name": "Hotel Indigo Kaohsiung Central Park",
+      "coord": [
+        22.6244914,
+        120.30142339999999
+      ],
+      "desc": "Design Hotel, Steps to Central Park; boutique feel",
+      "longDesc": "Kaohsiung boutique hotel steps from Central Park offers personalized service and local charm.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Indigo%20Kaohsiung%20Central%20Park&center=22.6244914,120.30142339999999",
+      "placeId": "ChIJHTWHW4YEbjQRYHlaoZkM1dw",
+      "address": "800, Taiwan, Kaohsiung City, Sinsing District, No4號Zhongshan 1st Road, Xinxing District"
+    },
+    {
+      "name": "Hotel Indigo Alishan",
+      "coord": [
+        23.4436262,
+        120.67247780000001
+      ],
+      "desc": "Resort Hotel, Gateway stay for Alishan area",
+      "longDesc": "Mountain boutique resort serves as gateway to Alishan's forests and highland beauty.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Indigo%20Alishan&center=23.4436262,120.67247780000001",
+      "placeId": "ChIJcWwVCgLpbjQRba0dmCmc8qI",
+      "address": "602, Taiwan, Chiayi County, Fanlu Township, 龍頭20號"
+    },
+    {
+      "name": "voco Chiayi",
+      "coord": [
+        23.4868296,
+        120.42554519999997
+      ],
+      "desc": "Upscale Hotel, Good base for Alishan access",
+      "longDesc": "Upscale Chiayi hotel provides refined base for families exploring nearby Alishan region.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=voco%20Chiayi&center=23.4868296,120.42554519999997",
+      "placeId": "ChIJWbt8RQCXbjQRV4LaQEOw3SI",
+      "address": "No. 789號, Section 1, Shixian Rd, West District, Chiayi City, Taiwan 600"
+    },
+    {
+      "name": "Palais de Chine Hotel",
+      "coord": [
+        25.049270600000003,
+        121.5169525
+      ],
+      "desc": "Luxury Hotel, Home to Le Palais; European-meets-Asian design",
+      "longDesc": "Luxury property homes the renowned Le Palais restaurant in European-meets-Asian setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Palais%20de%20Chine%20Hotel&center=25.049270600000003,121.5169525",
+      "placeId": "ChIJu55KcW2pQjQRUKkzmvWDotA",
+      "address": "No. 3號, Section 1, Chengde Rd, Datong District, Taipei City, Taiwan 103"
+    },
+    {
+      "name": "Humble House Taipei",
+      "coord": [
+        25.0386933,
+        121.567342
+      ],
+      "desc": "Lifestyle Hotel, Urban-chic base near malls",
+      "longDesc": "Urban-chic design hotel with proximity to shopping offers stylish, fun family accommodation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Humble%20House%20Taipei&center=25.0386933,121.567342",
+      "placeId": "ChIJaZ9KuiOrQjQR5lAZcRypzNo",
+      "address": "No. 18號, Songgao Rd, Xinyi District, Taipei City, Taiwan 110"
+    },
+    {
+      "name": "Volando Urai Spring Spa & Resort",
+      "coord": [
+        24.869494099999997,
+        121.5475386
+      ],
+      "desc": "Hot Spring Resort, Private hot spring focus; peaceful valley",
+      "longDesc": "Private hot spring resort in peaceful valley creates intimate retreat atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Volando%20Urai%20Spring%20Spa%20%26%20Resort&center=24.869494099999997,121.5475386",
+      "placeId": "ChIJY95n9o8GaDQRSItAncZDiS0",
+      "address": "No. 176號, Section 5, Xinwu Rd, Wulai District, New Taipei City, Taiwan 233"
+    },
+    {
+      "name": "Villa 32",
+      "coord": [
+        25.137710199999997,
+        121.51036979999999
+      ],
+      "desc": "Boutique Hot Spring, Spa-led hot spring escape",
+      "longDesc": "Spa-focused hot spring boutique provides therapeutic relaxation in serene mountain surroundings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Villa%2032&center=25.137710199999997,121.51036979999999",
+      "placeId": "ChIJdQTisUOuQjQRX2oBJUIvu9I",
+      "address": "No. 32號, Zhongshan Rd, Beitou District, Taipei City, Taiwan 112"
+    },
+    {
+      "name": "Hotel Eclat Taipei",
+      "coord": [
+        25.033727,
+        121.54836999999999
+      ],
+      "desc": "Boutique Hotel, Art-filled boutique; strong location",
+      "longDesc": "Art-focused boutique hotel in central location offers creative ambiance and cultural access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Eclat%20Taipei&center=25.033727,121.54836999999999",
+      "placeId": "ChIJWYc2dtKrQjQR6IAktDRNOio",
+      "address": "106, Taiwan, Taipei City, Da’an District, 敦化南路1段370號"
+    },
+    {
+      "name": "Sheraton Grand Taipei",
+      "coord": [
+        25.0446119,
+        121.5220328
+      ],
+      "desc": "Luxury Hotel, Classic full-service option near transit",
+      "longDesc": "Full-service luxury near transit provides reliable comfort and convenient neighborhood access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sheraton%20Grand%20Taipei&center=25.0446119,121.5220328",
+      "placeId": "ChIJJVBTsHGpQjQRSW5Eeq6-HI4",
+      "address": "No. 12, Section 1, Zhongxiao E Rd, Zhongzheng District, Taipei City, Taiwan 100"
+    },
+    {
+      "name": "Madison Taipei (Tribute Portfolio)",
+      "coord": [
+        25.0339887,
+        121.54927020000001
+      ],
+      "desc": "Boutique Hotel, Stylish rooms; good neighborhood",
+      "longDesc": "Stylish boutique hotel in excellent neighborhood provides design-forward accommodations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Madison%20Taipei%20%28Tribute%20Portfolio%29&center=25.0339887,121.54927020000001",
+      "placeId": "ChIJT6hK7c2rQjQRgAY8k8L5EIU",
+      "address": "10685, Taiwan, Taipei City, Da’an District, 敦化南路1段331號"
+    },
+    {
+      "name": "Suz & Catorze Taipei (Tribute Portfolio)",
+      "coord": [
+        25.0454813,
+        121.5026288
+      ],
+      "desc": "Boutique Hotel, Newer Tribute Portfolio property",
+      "longDesc": "Contemporary boutique with modern design provides trendy accommodations and service.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Suz%20%26%20Catorze%20Taipei%20%28Tribute%20Portfolio%29&center=25.0454813,121.5026288",
+      "placeId": "ChIJT0dzj7OpQjQRgmbLjuqGkjQ",
+      "address": "No. 51號, Section 1, Huanhe S Rd, Wanhua District, Taipei City, Taiwan 10843"
+    },
+    {
+      "name": "EPISODE Daan Taipei (JDV by Hyatt)",
+      "coord": [
+        25.038856499999998,
+        121.54395760000001
+      ],
+      "desc": "Lifestyle Hotel, JDV vibes; great walkability",
+      "longDesc": "Lifestyle hotel with local vibes and excellent walkability offers trend-forward accommodation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=EPISODE%20Daan%20Taipei%20%28JDV%20by%20Hyatt%29&center=25.038856499999998,121.54395760000001",
+      "placeId": "ChIJ7yDhBcGrQjQRDEXkDkFXCHc",
+      "address": "No. 219-2, Section 1, Fuxing S Rd, Da’an District, Taipei City, Taiwan 106"
+    },
+    {
+      "name": "EPISODE Hsinchu (JDV by Hyatt)",
+      "coord": [
+        24.798845099999998,
+        121.00557510000002
+      ],
+      "desc": "Lifestyle Hotel, Modern base for Hsinchu region",
+      "longDesc": "Modern JDV hotel provides contemporary base for exploring central Taiwan attractions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=EPISODE%20Hsinchu%20%28JDV%20by%20Hyatt%29&center=24.798845099999998,121.00557510000002",
+      "placeId": "ChIJsyrz7Ws2aDQR7kTXIu6uD1A",
+      "address": "No. 111號, Section 2, Gongdaowu Rd, East District, Hsinchu City, Taiwan 300"
+    },
+    {
+      "name": "RedDot Hotel",
+      "coord": [
+        24.1431996,
+        120.6756298
+      ],
+      "desc": "Boutique Hotel, Playful design-forward rooms",
+      "longDesc": "Playful design-forward rooms in creative boutique provide fun, personality-filled accommodations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=RedDot%20Hotel&center=24.1431996,120.6756298",
+      "placeId": "ChIJN7tszHI9aTQRSjrxMFPocCY",
+      "address": "No. 206號, Minzu Rd, Central District, Taichung City, Taiwan 400"
+    },
+    {
+      "name": "OKU Hotel",
+      "coord": [
+        24.145707299999998,
+        120.67711050000001
+      ],
+      "desc": "Boutique Hotel, Modern boutique",
+      "longDesc": "Modern Taichung boutique offers contemporary style as refined base for regional exploration.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=OKU%20Hotel&center=24.145707299999998,120.67711050000001",
+      "placeId": "ChIJ-1WRFAA9aTQRTsbmwZ58tLI",
+      "address": "No. 357號, Chenggong Rd, Central District, Taichung City, Taiwan 400"
+    },
+    {
+      "name": "Fairfield by Marriott Taichung",
+      "coord": [
+        24.1820605,
+        120.6362184
+      ],
+      "desc": "Hotel, Reliable chain comfort offering luxurious accommodations and exceptional service",
+      "longDesc": "Extended-stay property provides practical comfort and amenities for longer regional visits.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fairfield%20by%20Marriott%20Taichung&center=24.1820605,120.6362184",
+      "placeId": "ChIJG0-eAr8XaTQRMwFaFCf9rHQ",
+      "address": "No. 1155號, Section 2, Huanzhong Rd, Xitun District, Taichung City, Taiwan 40765"
+    },
+    {
+      "name": "Fleur de Chine Hotel",
+      "coord": [
+        23.870915699999998,
+        120.92346219999997
+      ],
+      "desc": "Lake Resort, Lakeside views; hot spring spa",
+      "longDesc": "Sun Moon Lake resort offers lakeside views and spa facilities overlooking scenic waters.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fleur%20de%20Chine%20Hotel&center=23.870915699999998,120.92346219999997",
+      "placeId": "ChIJX1-vy2vWaDQRduURwkKKl7I",
+      "address": "No. 23號, Zhongzheng Rd, Yuchi Township, Nantou County, Taiwan 55546"
+    },
+    {
+      "name": "The Lalu Sun Moon Lake",
+      "coord": [
+        23.862976,
+        120.90860399999998
+      ],
+      "desc": "Luxury Resort, Zen design on lake peninsula",
+      "longDesc": "Zen-inspired luxury lakeside creates serene retreat with sunset views and water access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Lalu%20Sun%20Moon%20Lake&center=23.862976,120.90860399999998",
+      "placeId": "ChIJCx9-DQ_WaDQRBxIBov-vSKc",
+      "address": "No. 142號, Zhongxing Rd, Yuchi Township, Nantou County, Taiwan 555"
+    },
+    {
+      "name": "Grand Hilai Sun Moon Lake",
+      "coord": [
+        23.8634913,
+        120.9089822
+      ],
+      "desc": "Lake Resort, Newer lakeside resort option",
+      "longDesc": "Contemporary lakeside resort provides modern amenities and scenic views for relaxation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Hilai%20Sun%20Moon%20Lake&center=23.8634913,120.9089822",
+      "placeId": "ChIJbzXwvffXaDQR49bv_jlInF4",
+      "address": "No. 139號, Zhongxing Rd, Yuchi Township, Nantou County, Taiwan 555"
+    },
+    {
+      "name": "Silks Place Taroko",
+      "coord": [
+        24.1813654,
+        121.49406269999999
+      ],
+      "desc": "Luxury Resort, Only in-park luxury base; rooftop pool",
+      "longDesc": "Sole luxury option within Taroko Gorge offers exclusive access to Taiwan's dramatic natural wonder.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Silks%20Place%20Taroko&center=24.1813654,121.49406269999999",
+      "placeId": "ChIJ0wDoKeOEaDQRS-_gWq8dyzw",
+      "address": "97253, Taiwan, Hualien County, Xiulin Township, 天 祥 路18號"
+    },
+    {
+      "name": "Hualien Farglory Hotel",
+      "coord": [
+        23.9082896,
+        121.5966894
+      ],
+      "desc": "Resort Hotel, Large resort with sea views",
+      "longDesc": "Large coastal resort with ocean views provides refined base for Hualien exploration.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hualien%20Farglory%20Hotel&center=23.9082896,121.5966894",
+      "placeId": "ChIJyanabO2gaDQRcDuVnDFcqdU",
+      "address": "974, Taiwan, Hualien County, Shoufeng Township, 山嶺18號"
+    },
+    {
+      "name": "Le Meridien Hualien Resort",
+      "coord": [
+        23.9788832,
+        121.60924139999999
+      ],
+      "desc": "Resort Hotel, New resort-style stay",
+      "longDesc": "Modern resort property offers comfort and scenic surroundings for eastern coast access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Meridien%20Hualien%20Resort&center=23.9788832,121.60924139999999",
+      "placeId": "ChIJF5YA8UWfaDQRSvCy2MJ9vlA",
+      "address": "No. 599, Zhongzheng Rd, Hualien City, Hualien County, Taiwan 97061"
+    },
+    {
+      "name": "Gloria Manor",
+      "coord": [
+        21.9562193,
+        120.8084934
+      ],
+      "desc": "Luxury Resort, Boutique hillside hideaway near park",
+      "longDesc": "Boutique luxury hillside hideaway near Yangmingshan offers refined escape near Taipei.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gloria%20Manor&center=21.9562193,120.8084934",
+      "placeId": "ChIJ45xJidSzcTQR5ipVFo4jRYM",
+      "address": "No. 101號, Gongyuan Rd, Hengchun Township, Pingtung County, Taiwan 946"
+    },
+    {
+      "name": "YOHO Bike Hotel",
+      "coord": [
+        21.9977001,
+        120.7052723
+      ],
+      "desc": "Specialty Hotel, Bike-focused stay; easy park access",
+      "longDesc": "Specialty bike-focused accommodation provides convenient access to cycling paths and parks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=YOHO%20Bike%20Hotel&center=21.9977001,120.7052723",
+      "placeId": "ChIJu2rKvQy6cTQRb2wp8D-stZc",
+      "address": "No. 27-8號, Wanli Rd, Hengchun Township, Pingtung County, Taiwan 946"
+    },
+    {
+      "name": "THE AMNIS, a Luxury Collection Hotel",
+      "coord": [
+        22.610472599999998,
+        120.3055197
+      ],
+      "desc": "Luxury Hotel, Luxury Collection property in Kaohsiung",
+      "longDesc": "Luxury Collection property in Kaohsiung provides refined service and cultural access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=THE%20AMNIS%2C%20a%20Luxury%20Collection%20Hotel&center=22.610472599999998,120.3055197",
+      "placeId": "ChIJD2nSenwDbjQR-vBvRB7nhC8",
+      "address": "No. 199, Zhongshan 2nd Rd, Cianjhen District, Kaohsiung City, Taiwan 80661"
+    },
+    {
+      "name": "Kaohsiung Marriott Hotel",
+      "coord": [
+        22.654656499999998,
+        120.3062489
+      ],
+      "desc": "Luxury Hotel, Large modern hotel with amenities",
+      "longDesc": "Large modern hotel with complete amenities offers reliable comfort in Kaohsiung.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaohsiung%20Marriott%20Hotel&center=22.654656499999998,120.3062489",
+      "placeId": "ChIJf6Ng8asFbjQR4uISt3hBgSE",
+      "address": "No. 222號, Longdesin Rd, Gushan District, Kaohsiung City, Taiwan 804"
+    },
+    {
+      "name": "H2O HOTEL",
+      "coord": [
+        22.6628018,
+        120.3022
+      ],
+      "desc": "Boutique Hotel, Rooftop pool; stylish rooms",
+      "longDesc": "Stylish boutique hotel with rooftop pool provides trendy accommodation in waterfront area.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=H2O%20HOTEL&center=22.6628018,120.3022",
+      "placeId": "ChIJ10ivRAEFbjQRWEp1SylPQJo",
+      "address": "No. 366號, Minghua Rd, Gushan District, Kaohsiung City, Taiwan 804"
+    },
+    {
+      "name": "Hotel Dùa",
+      "coord": [
+        21.9431801,
+        120.7997713
+      ],
+      "desc": "Design Hotel, Design-led with strong breakfast",
+      "longDesc": "Design-led hotel with exceptional breakfast provides stylish base for Hualien region.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20D%C3%B9a&center=21.9431801,120.7997713",
+      "placeId": "ChIJQRy5XQCxcTQRS3bOaovXylY",
+      "address": "No. 5號, Wenhua Lane, Kending Rd, Hengchun Township, Pingtung County, Taiwan 946"
+    },
+    {
+      "name": "Brio Hotel",
+      "coord": [
+        22.6263576,
+        120.30214959999998
+      ],
+      "desc": "Boutique Hotel, Compact stylish option",
+      "longDesc": "Compact stylish boutique in Kaohsiung provides efficient accommodation with central location.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brio%20Hotel&center=22.6263576,120.30214959999998",
+      "placeId": "ChIJKWT0IoYEbjQR2mw_595VpYo",
+      "address": "No. 14-26號, Zhongshan 1st Rd, Sinsing District, Kaohsiung City, Taiwan 800"
+    },
+    {
+      "name": "Provintia Hotel Tainan",
+      "coord": [
+        22.9990529,
+        120.20353599999999
+      ],
+      "desc": "Boutique Hotel, Central base for old town",
+      "longDesc": "Boutique hotel in historic old town provides distinctive character near temples.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Provintia%20Hotel%20Tainan&center=22.9990529,120.20353599999999",
+      "placeId": "ChIJ_2hLSmB2bjQR-xbQA3dangc",
+      "address": "No. 202號, Chenggong Rd, North District, Tainan City, Taiwan 704"
+    },
+    {
+      "name": "U.I.J Hotel & Hostel",
+      "coord": [
+        22.990782,
+        120.1997872
+      ],
+      "desc": "Design Hotel, Great design; easy base",
+      "longDesc": "Artistically designed hotel provides creative atmosphere for historic Tainan exploration.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=U.I.J%20Hotel%20%26%20Hostel&center=22.990782,120.1997872",
+      "placeId": "ChIJmTZLr3x2bjQRZE6G_9_d5co",
+      "address": "No. 5號, Lane 115, You'ai St, West Central District, Tainan City, Taiwan 700"
+    },
+    {
+      "name": "Aloft Tainan Anping",
+      "coord": [
+        22.9900307,
+        120.1602704
+      ],
+      "desc": "Hotel, Good base for Anping sights",
+      "longDesc": "Modern hotel in Anping provides convenient base for historic street and temple access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aloft%20Tainan%20Anping&center=22.9900307,120.1602704",
+      "placeId": "ChIJ2etCtZF3bjQR-fCiH7MCmek",
+      "address": "No. 108號, Gwangju Rd, Anping District, Tainan City, Taiwan 708003"
+    },
+    {
+      "name": "Just Sleep Tainan Hushan",
+      "coord": [
+        22.938015900000003,
+        120.23017000000002
+      ],
+      "desc": "Hotel, Comfortable option in Tainan",
+      "longDesc": "Comfortable hotel in central Tainan provides practical base for historic site visits.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Just%20Sleep%20Tainan%20Hushan&center=22.938015900000003,120.23017000000002",
+      "placeId": "ChIJCZ16cGd0bjQRW_hHpDoCdPA",
+      "address": "No. 300號, Section 2, Wenhua Rd, Rende District, Tainan City, Taiwan 717"
+    },
+    {
+      "name": "The One Nanyuan",
+      "coord": [
+        24.8680076,
+        121.10425219999999
+      ],
+      "desc": "Nature Retreat, Design-led retreat in nature",
+      "longDesc": "Design-focused nature retreat in peaceful mountains provides serene family escape.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20One%20Nanyuan&center=24.8680076,121.10425219999999",
+      "placeId": "ChIJP1ZFAfk5aDQR-2yfuue0_Eo",
+      "address": "305, Taiwan, Hsinchu County, Xinpu Township, 九芎湖32號"
+    },
+    {
+      "name": "The Archipelago",
+      "coord": [
+        24.8708409,
+        121.8396164
+      ],
+      "desc": "Destination Resort, Cruise-ship inspired resort near Waiao",
+      "longDesc": "Unique destination resort with distinctive design provides fun, creative accommodation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Archipelago&center=24.8708409,121.8396164",
+      "placeId": "ChIJq41QSHz3ZzQRR0xtvMuw_Jg",
+      "address": "261, Taiwan, Yilan County, Toucheng Township, 烏石港路300號"
+    },
+    {
+      "name": "Deer Chaser",
+      "coord": [
+        23.692706599999998,
+        120.78707019999997
+      ],
+      "desc": "Boutique Stay, Forest/mountain hideaway",
+      "longDesc": "Forest mountain hideaway provides intimate retreat and access to Taiwan's natural beauty.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Deer%20Chaser&center=23.692706599999998,120.78707019999997",
+      "placeId": "ChIJlZr5nl3RbjQR3nO-K_ASFC4",
+      "address": "No. 28-1號, Xingchan Rd, Lugu Township, Nantou County, Taiwan 558"
+    },
+    {
+      "name": "Hemma",
+      "coord": [
+        24.0660781,
+        121.16865729999999
+      ],
+      "desc": "Boutique Stay, Cingjing-area base for highlands",
+      "longDesc": "Highland boutique stay in scenic Cingjing area provides refined regional exploration base.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hemma&center=24.0660781,121.16865729999999",
+      "placeId": "ChIJzSZ_LuDpaDQRSXChdyePM3c",
+      "address": "No. 206-2號, Renhe Rd, Ren’ai Township, Nantou County, Taiwan 546"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Le Palais",
+      "coord": [
+        25.049148499999998,
+        121.5168698
+      ],
+      "desc": "Cantonese fine dining, 3-star-level destination (reserve far ahead)",
+      "longDesc": "Taiwan's most lauded three-Michelin-star Cantonese serves intricate menus with technical mastery.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Palais&center=25.049148499999998,121.5168698",
+      "placeId": "ChIJr4YudW2pQjQR6s2rQHF7d5A",
+      "address": "103, Taiwan, Taipei City, Datong District, Section 1, Chengde Rd, 3號17樓"
+    },
+    {
+      "name": "Taïrroir",
+      "coord": [
+        25.08278,
+        121.5591771
+      ],
+      "desc": "Taiwanese contemporary tasting, Ingredient-driven tasting menus",
+      "longDesc": "Farm-to-table philosophy elevates local Taiwan ingredients into refined contemporary tasting menus.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ta%C3%AFrroir&center=25.08278,121.5591771",
+      "placeId": "ChIJIduw3BKsQjQR3Gkz01ZqB8s",
+      "address": "104053, Taiwan, Taipei City, Zhongshan District, Lequn 3rd Rd, 299號6樓"
+    },
+    {
+      "name": "JL STUDIO",
+      "coord": [
+        24.1504844,
+        120.6285429
+      ],
+      "desc": "Fine dining (modern), Top-tier tasting menus in Taichung",
+      "longDesc": "Chef-driven Taichung tasting experience showcases seasonal ingredients and modern cooking.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=JL%20STUDIO&center=24.1504844,120.6285429",
+      "placeId": "ChIJpzHEAN09aTQRdBlo7PKl7A0",
+      "address": "408, Taiwan, Taichung City, Nantun District, Yifeng Rd. Sec.4, 689號2樓"
+    },
+    {
+      "name": "logy",
+      "coord": [
+        25.0749007,
+        121.57481539999999
+      ],
+      "desc": "Asian contemporary, Seasonal tasting; polished service",
+      "longDesc": "Refined tasting menus celebrate seasonal produce and Asian influences with attentive service.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=logy&center=25.0749007,121.57481539999999",
+      "placeId": "ChIJNWCqhOGrQjQR_4bJNRZ8uM0",
+      "address": "114, Taiwan, Taipei City, Neihu District, Lane 258, Ruiguang Rd, 39號1F"
+    },
+    {
+      "name": "Mume",
+      "coord": [
+        25.036327999999997,
+        121.54807100000001
+      ],
+      "desc": "European contemporary, Modern European with local ingredients",
+      "longDesc": "Creative European techniques meet Taiwan's finest ingredients in sophisticated dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mume&center=25.036327999999997,121.54807100000001",
+      "placeId": "ChIJp6GC5NGrQjQRDuHabyIYADA",
+      "address": "No. 28, Siwei Rd, Da’an District, Taipei City, Taiwan 106"
+    },
+    {
+      "name": "Rong Ju",
+      "coord": [
+        25.0524611,
+        121.54987489999999
+      ],
+      "desc": "Cantonese, Upscale Cantonese; elegant setting",
+      "longDesc": "Refined Cantonese dining in elegant setting specializes in premium ingredient preparation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rong%20Ju&center=25.0524611,121.54987489999999",
+      "placeId": "ChIJs-PERFKrQjQRCTx394uPC7U",
+      "address": "105021, Taiwan, Taipei City, Songshan District, DunHua N Rd, 139號一樓"
+    },
+    {
+      "name": "Ya Ge",
+      "coord": [
+        25.055553000000003,
+        121.548328
+      ],
+      "desc": "Cantonese, Cantonese dining at Mandarin Oriental",
+      "longDesc": "Fine Cantonese restaurant at Mandarin Oriental showcases sophisticated preparation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ya%20Ge&center=25.055553000000003,121.548328",
+      "placeId": "ChIJCToTHearQjQR4sFNUhOOeU8",
+      "address": "No. 158, DunHua N Rd, Songshan District, Taipei City, Taiwan 10548"
+    },
+    {
+      "name": "EMBERS",
+      "coord": [
+        25.035903299999998,
+        121.55013029999999
+      ],
+      "desc": "Taiwanese contemporary, Contemporary Taiwanese; special-occasion",
+      "longDesc": "Contemporary Taiwanese fine dining creates memorable special occasion dining experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=EMBERS&center=25.035903299999998,121.55013029999999",
+      "placeId": "ChIJYRxrgYWrQjQRuA3aHM8PGgE",
+      "address": "No. 24號, Lane 122, Section 4, Ren'ai Rd, Da’an District, Taipei City, Taiwan 106"
+    },
+    {
+      "name": "Tempura Sugimura",
+      "coord": [
+        25.0804349,
+        121.55913509999998
+      ],
+      "desc": "Japanese tempura, Omakase tempura; counter seating",
+      "longDesc": "Counter-only tempura where chef hand-fries ultra-fresh ingredients with artistic simplicity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tempura%20Sugimura&center=25.0804349,121.55913509999998",
+      "placeId": "ChIJmakGEQCtQjQR7f5Aurk8vdU",
+      "address": "104, Taiwan, Taipei City, Zhongshan District, Lequn 2nd Rd, 199號中城廣場2樓"
+    },
+    {
+      "name": "Dasuke",
+      "coord": [
+        25.0256966,
+        121.54795229999998
+      ],
+      "desc": "Japanese, Refined Japanese; reservation advised",
+      "longDesc": "Intimate Japanese counter showcases seasonal produce and precise cooking techniques.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dasuke&center=25.0256966,121.54795229999998",
+      "placeId": "ChIJVz_ue6irQjQRy-4XQHpKqhQ",
+      "address": "106, Taiwan, Taipei City, Da’an District, Siwei Rd, 375-2號1樓"
+    },
+    {
+      "name": "Tutto Bello",
+      "coord": [
+        25.066292699999998,
+        121.5253518
+      ],
+      "desc": "Italian contemporary, Upscale Italian; wine list",
+      "longDesc": "Upscale Italian features curated wine pairings and contemporary Italian dish preparation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tutto%20Bello&center=25.066292699999998,121.5253518",
+      "placeId": "ChIJW-a6S0WpQjQR-1hgfvsXaZo",
+      "address": "104, Taiwan, Taipei City, Zhongshan District, Lane 25, Shuangcheng St, 15號1樓"
+    },
+    {
+      "name": "Sansan Bistro",
+      "coord": [
+        25.0241005,
+        121.54830860000001
+      ],
+      "desc": "Sichuan, Modern Sichuan bistro",
+      "longDesc": "Modern Sichuan bistro reimagines classic spicy flavors with contemporary technique.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sansan%20Bistro&center=25.0241005,121.54830860000001",
+      "placeId": "ChIJP-dotkqrQjQRpaOwby3BwtM",
+      "address": "No. 170號, Section 2, Dunhua S Rd, Da’an District, Taipei City, Taiwan 106"
+    },
+    {
+      "name": "Yu Yu 1969",
+      "coord": [
+        25.049029599999997,
+        121.54207199999999
+      ],
+      "desc": "Taiwanese, Updated Taiwanese comfort food",
+      "longDesc": "Contemporary preparation of Taiwanese comfort food creates nostalgic yet refined dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yu%20Yu%201969&center=25.049029599999997,121.54207199999999",
+      "placeId": "ChIJUVfSk46rQjQRjSYEdTmKW8Q",
+      "address": "No. 48號, Liaoning St, Zhongshan District, Taipei City, Taiwan 104"
+    },
+    {
+      "name": "Yangming Spring (Shilin)",
+      "coord": [
+        25.1441953,
+        121.55938909999999
+      ],
+      "desc": "Vegetarian, Vegetarian tasting in serene setting",
+      "longDesc": "Vegetarian tasting menus in serene setting showcase plant-based culinary creativity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yangming%20Spring%20%28Shilin%29&center=25.1441953,121.55938909999999",
+      "placeId": "ChIJp602Vu2tQjQRlBz62h-C6Rk",
+      "address": "No. 119-1號, Jingshan Rd, Shilin District, Taipei City, Taiwan 111"
+    },
+    {
+      "name": "Kou Gyu Rou",
+      "coord": [
+        25.0557099,
+        121.5107829
+      ],
+      "desc": "Noodles, Beloved noodle spot (Michelin-listed)",
+      "longDesc": "Michelin-recognized beef noodle shop earned status for deeply flavored broth and tender meat.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kou%20Gyu%20Rou&center=25.0557099,121.5107829",
+      "placeId": "ChIJzxNdESWpQjQR3fTbZzBvgF4",
+      "address": "No. 6號, Minle St, Datong District, Taipei City, Taiwan 103"
+    },
+    {
+      "name": "Shih Chia Big Rice Ball",
+      "coord": [
+        25.065153,
+        121.5109816
+      ],
+      "desc": "Small eats, Classic Taiwanese fan-tuan breakfast",
+      "longDesc": "Casual rice ball shop specializing in traditional wrapped rice cylinders filled with savory Taiwan ingredients.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Shih%20Chia%20Big%20Rice%20Ball&center=25.065153,121.5109816",
+      "placeId": "ChIJTwEC1D6pQjQRL5oArrBlO6M",
+      "address": "103, Taiwan, Taipei City, Datong District, Section 3, Yanping N Rd, 58號1 樓"
+    },
+    {
+      "name": "Yonghe Chia Hsiang Soy Milk",
+      "coord": [
+        25.0154903,
+        121.51611449999999
+      ],
+      "desc": "Breakfast, Soy milk & youtiao breakfast institution",
+      "longDesc": "Famous early-morning soy milk stand serves piping hot soymilk with fried dough and savory breakfasts.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yonghe%20Chia%20Hsiang%20Soy%20Milk&center=25.0154903,121.51611449999999",
+      "placeId": "ChIJMSvxi-epQjQR6kLpzDTtNLQ",
+      "address": "No. 284號, Section 2, Yonghe Rd, Yonghe District, New Taipei City, Taiwan 234"
+    },
+    {
+      "name": "Shou Wu",
+      "coord": [
+        24.911582799999998,
+        121.1469464
+      ],
+      "desc": "Hakkanese, Hakka flavors; hearty meals",
+      "longDesc": "Traditional Taiwanese small eats restaurant serves comforting noodle and soup dishes with local character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Shou%20Wu&center=24.911582799999998,121.1469464",
+      "placeId": "ChIJK8FVtsokaDQRnKDHlI1qaAs",
+      "address": "No. 61, Xincheng Rd, Yangmei District, Taoyuan City, Taiwan 326"
+    },
+    {
+      "name": "Bar Mood",
+      "coord": [
+        25.043701,
+        121.54663920000002
+      ],
+      "desc": "Cocktail Bar, Asia’s 50 Best Bars-listed; creative cocktails",
+      "longDesc": "Taipei cocktail bar creates craft drinks in relaxed atmosphere appealing to evening dining crowds.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Mood&center=25.043701,121.54663920000002",
+      "placeId": "ChIJgbsg4tqrQjQRNTNaBAUYOfA",
+      "address": "No. 53號, Lane 160, Section 1, Dunhua S Rd, Da’an District, Taipei City, Taiwan 106"
+    },
+    {
+      "name": "Under Lab",
+      "coord": [
+        25.038783799999997,
+        121.5555312
+      ],
+      "desc": "Cocktail Bar, Asia’s 50 Best Bars list (extended)",
+      "longDesc": "Experimental cuisine approaches dining as artistic exploration with creative techniques.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Under%20Lab&center=25.038783799999997,121.5555312",
+      "placeId": "ChIJtdOhKZqrQjQRfmxOo7TiSsg",
+      "address": "106, Taiwan, Taipei City, Da’an District, Lane 308, Guangfu S Rd, 51號B1"
+    },
+    {
+      "name": "Wu (Nothingness)",
+      "coord": [
+        25.03531,
+        121.5660665
+      ],
+      "desc": "Cocktail Bar, Asia’s 50 Best Bars list (extended) (variant 2)",
+      "longDesc": "Refined tasting menu restaurant explores minimalist approach to ingredient-driven contemporary cuisine.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wu%20%28Nothingness%29&center=25.03531,121.5660665",
+      "placeId": "ChIJma-OAACrQjQRmC4TVTnv3Bw",
+      "address": "110, Taiwan, Taipei City, Xinyi District, Songshou Rd, 12號1樓"
+    },
+    {
+      "name": "Indulge Experimental Bistro",
+      "coord": [
+        25.039145299999998,
+        121.54479819999999
+      ],
+      "desc": "Cocktail Bar/Bistro, Former Asia’s 50 Best Bars top-ranked Taipei bar",
+      "longDesc": "Experimental bistro pushes culinary boundaries with unconventional preparation techniques.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Indulge%20Experimental%20Bistro&center=25.039145299999998,121.54479819999999",
+      "placeId": "ChIJ5TXg4tCrQjQRNDAoeL3zmoE",
+      "address": "No. 11號, Lane 219, Section 1, Fuxing S Rd, Da’an District, Taipei City, Taiwan 106"
+    },
+    {
+      "name": "Aha Saloon",
+      "coord": [
+        25.0289319,
+        121.5432764
+      ],
+      "desc": "Cocktail Bar, Previously on Asia’s 50 Best Bars list",
+      "longDesc": "Casual international bar and restaurant serves mixed global cuisine in laid-back setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aha%20Saloon&center=25.0289319,121.5432764",
+      "placeId": "ChIJcQxnhiyqQjQRpTreKAxAbXI",
+      "address": "No. 138, Section 2, Fuxing S Rd, Da’an District, Taipei City, Taiwan 106"
+    },
+    {
+      "name": "SHINEYU",
+      "coord": [
+        24.1571592,
+        120.6386871
+      ],
+      "desc": "Cantonese, Upscale Cantonese in Taichung",
+      "longDesc": "Modern casual restaurant offers creative takes on contemporary Asian cooking and fusion.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=SHINEYU&center=24.1571592,120.6386871",
+      "placeId": "ChIJISQloDA9aTQRqdW3DJmQsMs",
+      "address": "No. 88號, Section 1, Huilai Rd, Xitun District, Taichung City, Taiwan 407"
+    },
+    {
+      "name": "meatGQ",
+      "coord": [
+        24.1509976,
+        120.62854490000001
+      ],
+      "desc": "Steakhouse, High-end steakhouse",
+      "longDesc": "Specialty Korean steakhouse focuses on premium beef cuts and traditional Korean grilling methods.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=meatGQ&center=24.1509976,120.62854490000001",
+      "placeId": "ChIJ8QR8_tA9aTQRdl8NVnSltAA",
+      "address": "No. 699號, Yifeng Rd. Sec.4, Nantun District, Taichung City, Taiwan 408"
+    },
+    {
+      "name": "KR Prime Steak",
+      "coord": [
+        24.1609731,
+        120.6419588
+      ],
+      "desc": "Steakhouse, Special-occasion steakhouse",
+      "longDesc": "Korean premium steakhouse serves high-quality beef prepared at table with traditional methods.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=KR%20Prime%20Steak&center=24.1609731,120.6419588",
+      "placeId": "ChIJRe0fBSU9aTQRPDTabjgPCbo",
+      "address": "No. 52號, Shizheng North 2nd Rd, Xitun District, Taichung City, Taiwan 40756"
+    },
+    {
+      "name": "YUENJI",
+      "coord": [
+        24.1743223,
+        120.62373859999998
+      ],
+      "desc": "Taiwanese, Elevated Taiwanese dining",
+      "longDesc": "Japanese restaurant specializing in refined seasonal preparation and ingredient sourcing.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=YUENJI&center=24.1743223,120.62373859999998",
+      "placeId": "ChIJgajel8c9aTQRRSnCtlKnp4Y",
+      "address": "40765, Taiwan, Taichung City, Xitun District, Anhe E Rd, 5號地下停車場入口位於安和一街-寶元紀大樓停車場"
+    },
+    {
+      "name": "L'Atelier par Yao",
+      "coord": [
+        24.1528568,
+        120.70513910000001
+      ],
+      "desc": "French contemporary, Modern French techniques",
+      "longDesc": "French cuisine restaurant celebrates traditional techniques with focus on ingredient quality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27Atelier%20par%20Yao&center=24.1528568,120.70513910000001",
+      "placeId": "ChIJMVxaewM9aTQRYMBGjlOwKBE",
+      "address": "411, Taiwan, Taichung City, Taiping District, Xinfu 16th St, 68號2樓"
+    },
+    {
+      "name": "Sur-",
+      "coord": [
+        24.1376739,
+        120.6832582
+      ],
+      "desc": "Taiwanese contemporary, Creative contemporary Taiwanese",
+      "longDesc": "Contemporary fine dining explores artistic plating and innovative flavor combinations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sur-&center=24.1376739,120.6832582",
+      "placeId": "ChIJN8xZCmc9aTQRvRLjwnUFnKw",
+      "address": "400, Taiwan, Taichung City, Central District, Zhongshan Rd, 29號3樓"
+    },
+    {
+      "name": "Fleur de Sel",
+      "coord": [
+        24.1602841,
+        120.63497720000001
+      ],
+      "desc": "French contemporary, Refined French dining",
+      "longDesc": "French-inspired restaurant features refined preparations and seafood-forward menu options.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fleur%20de%20Sel&center=24.1602841,120.63497720000001",
+      "placeId": "ChIJzbKcL6Y9aTQRnnsNzO2am_Y",
+      "address": "No. 581-1號, Shizheng Rd, Xitun District, Taichung City, Taiwan 407"
+    },
+    {
+      "name": "FIRNS",
+      "coord": [
+        24.1565902,
+        120.6562657
+      ],
+      "desc": "Creative, High-end creative tasting",
+      "longDesc": "Modern bistro serves contemporary comfort food with attention to ingredient quality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=FIRNS&center=24.1565902,120.6562657",
+      "placeId": "ChIJv1r1syw9aTQRFSYFMiI0akk",
+      "address": "No. 19號, Lane 50, Jingcheng Rd, Xitun District, Taichung City, Taiwan 407"
+    },
+    {
+      "name": "Master of Mushroom (Xinshe)",
+      "coord": [
+        24.200459199999997,
+        120.79921399999999
+      ],
+      "desc": "Taiwanese, Mushroom-focused local cooking",
+      "longDesc": "Specialty mushroom restaurant features fungi-focused dishes and preparations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Master%20of%20Mushroom%20%28Xinshe%29&center=24.200459199999997,120.79921399999999",
+      "placeId": "ChIJd3RguzUZaTQRtgmNdlkniuE",
+      "address": "No. 287號, Xiezhong St, Xinshe District, Taichung City, Taiwan 426"
+    },
+    {
+      "name": "Dongyin Fisherman",
+      "coord": [
+        24.1467894,
+        120.66390700000001
+      ],
+      "desc": "Seafood, Seafood specialist showcasing authentic flavors and refined culinary techniques",
+      "longDesc": "Casual seafood specialist showcases daily fresh catch with simple preparation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dongyin%20Fisherman&center=24.1467894,120.66390700000001",
+      "placeId": "ChIJX1drvZ89aTQRgzHfNNMfDoo",
+      "address": "No. 96-2號, Section 1, Xiangshang Rd, West District, Taichung City, Taiwan 403"
+    },
+    {
+      "name": "Oretachi No Nikuya",
+      "coord": [
+        24.1510094,
+        120.65641649999999
+      ],
+      "desc": "Barbecue, Japanese-style yakiniku",
+      "longDesc": "Japanese yakitori grilling spot serves charcoal-grilled meats and offal specialties.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oretachi%20No%20Nikuya&center=24.1510094,120.65641649999999",
+      "placeId": "ChIJnUv6vJk9aTQRtCvxAB4mU_Y",
+      "address": "No. 194-1號, Gongyi Rd, West District, Taichung City, Taiwan 403"
+    },
+    {
+      "name": "Ke Kou Beef Noodles",
+      "coord": [
+        24.1569754,
+        120.65044520000001
+      ],
+      "desc": "Noodles, Beef noodles (Michelin-listed)",
+      "longDesc": "Beloved noodle institution perfects Taiwanese beef noodles with complex spiced broths.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ke%20Kou%20Beef%20Noodles&center=24.1569754,120.65044520000001",
+      "placeId": "ChIJ0QIWopE9aTQRBJ0GEbLQUCs",
+      "address": "No. 911號, Dadun Rd, Xitun District, Taichung City, Taiwan 407"
+    },
+    {
+      "name": "Taichung Meatball",
+      "coord": [
+        24.134469,
+        120.6825714
+      ],
+      "desc": "Small eats, Classic Taichung snack",
+      "longDesc": "Casual meatball shop serves traditional Taiwan meatball varieties with broth.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taichung%20Meatball&center=24.134469,120.6825714",
+      "placeId": "ChIJc1OUoAU9aTQRoiRrunp3FDU",
+      "address": "No. 529號, Section 3, Fuxing Rd, South District, Taichung City, Taiwan 402"
+    },
+    {
+      "name": "FUKAI",
+      "coord": [
+        22.988920099999998,
+        120.2306919
+      ],
+      "desc": "Modern cuisine, Special-occasion modern cooking",
+      "longDesc": "Japanese ramen restaurant crafts house-made noodles with carefully developed broths.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=FUKAI&center=22.988920099999998,120.2306919",
+      "placeId": "ChIJC_Y8VAB3bjQRkljEyGbtAZc",
+      "address": "No. 2號, Lane 512, Dongning Rd, East District, Tainan City, Taiwan 701"
+    },
+    {
+      "name": "Mayu Cocoon",
+      "coord": [
+        22.9971,
+        120.2259
+      ],
+      "desc": "Creative, Creative cooking; reservation recommended",
+      "longDesc": "Casual dining concept serves contemporary comfort food in intimate neighborhood setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mayu%20Cocoon&center=22.9971,120.2259"
+    },
+    {
+      "name": "Bistro Alley",
+      "coord": [
+        22.9888101,
+        120.21573229999998
+      ],
+      "desc": "European contemporary, Contemporary bistro dining",
+      "longDesc": "Neighborhood bistro offers casual French-inspired fare and European comfort foods.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bistro%20Alley&center=22.9888101,120.21573229999998",
+      "placeId": "ChIJVWMs7o92bjQRa_NyyW53r4o",
+      "address": "No. 47號, Lane 115, Dongrong St, East District, Tainan City, Taiwan 701"
+    },
+    {
+      "name": "Liang Liang Table",
+      "coord": [
+        23.004704099999998,
+        120.20136710000001
+      ],
+      "desc": "European contemporary, Modern European plates",
+      "longDesc": "Contemporary restaurant emphasizes thoughtful ingredient selection and careful preparation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Liang%20Liang%20Table&center=23.004704099999998,120.20136710000001",
+      "placeId": "ChIJW_9OA4p3bjQRu8eOKgYkFqk",
+      "address": "No. 63號, Lane 85, Minde Rd, North District, Tainan City, Taiwan 704"
+    },
+    {
+      "name": "L'herbe",
+      "coord": [
+        23.0023,
+        120.2291
+      ],
+      "desc": "European contemporary, Elegant modern dining",
+      "longDesc": "French café and restaurant serves traditional cuisine in charming neighborhood location.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27herbe&center=23.0023,120.2291",
+      "placeId": "ChIJoeXconZgUw0RHV5R-hbIDOk",
+      "address": "L'Herbe, 33950 Lège-Cap-Ferret, France"
+    },
+    {
+      "name": "Temperature Studio",
+      "coord": [
+        22.7995442,
+        120.2923227
+      ],
+      "desc": "Innovative, Modern/innovative plates",
+      "longDesc": "Contemporary restaurant explores precise temperature control in modern cooking.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Temperature%20Studio&center=22.7995442,120.2923227",
+      "placeId": "ChIJG7lHkN4NbjQR-2Id-LNo4ew",
+      "address": "No. 50號, Gongyuan E Rd, Gangshan District, Kaohsiung City, Taiwan 820"
+    },
+    {
+      "name": "Small Park Danzai Noodles",
+      "coord": [
+        22.997164899999998,
+        120.1996052
+      ],
+      "desc": "Noodles, Tainan danzai noodles classic",
+      "longDesc": "Beloved casual noodle shop creates memorable bowls with distinctive local broth.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Small%20Park%20Danzai%20Noodles&center=22.997164899999998,120.1996052",
+      "placeId": "ChIJOQURVGF2bjQRDx8EQOisObM",
+      "address": "No. 321號, Section 2, Ximen Rd, West Central District, Tainan City, Taiwan 700"
+    },
+    {
+      "name": "A Cun Beef Soup (Baoan Road)",
+      "coord": [
+        22.9902056,
+        120.19657749999999
+      ],
+      "desc": "Small eats, Tainan-style beef soup",
+      "longDesc": "Classic beef soup restaurant serves hearty braised beef dishes with traditional broths.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Cun%20Beef%20Soup%20%28Baoan%20Road%29&center=22.9902056,120.19657749999999",
+      "placeId": "ChIJcd4QHXt2bjQRfM7pW4nrtaE",
+      "address": "700, Taiwan, Tainan City, West Central District, 保安路41號"
+    },
+    {
+      "name": "Dayong Street No Name Congee",
+      "coord": [
+        22.9898423,
+        120.19330839999999
+      ],
+      "desc": "Congee, Congee spot in Michelin selection",
+      "longDesc": "Casual congee shop serves warming rice porridge with savory toppings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dayong%20Street%20No%20Name%20Congee&center=22.9898423,120.19330839999999",
+      "placeId": "ChIJBdE76mR2bjQR6IyJZo_F5vU",
+      "address": "No. 85, Dayong St, West Central District, Tainan City, Taiwan 700"
+    },
+    {
+      "name": "Lien Wu Chiao Lamb Soup",
+      "coord": [
+        23.0344907,
+        120.30826789999999
+      ],
+      "desc": "Small eats, Late-night lamb soup",
+      "longDesc": "Specialty lamb soup restaurant focuses on warming broths and tender meat.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lien%20Wu%20Chiao%20Lamb%20Soup&center=23.0344907,120.30826789999999",
+      "placeId": "ChIJcUl9hXpwbjQR26YmRmKV4wc",
+      "address": "No. 361號, Zhongzheng Rd, Xinhua District, Tainan City, Taiwan 712"
+    },
+    {
+      "name": "Zhu Xin Ju",
+      "coord": [
+        23.000299,
+        120.194981
+      ],
+      "desc": "Taiwanese, Taiwanese classics showcasing authentic flavors and refined culinary techniques",
+      "longDesc": "Traditional Taiwanese restaurant showcases classic dishes with authentic preparation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Zhu%20Xin%20Ju&center=23.000299,120.194981",
+      "placeId": "ChIJaejzSmZ2bjQRc6LSni-tl0s",
+      "address": "No. 69號, Xinyi St, West Central District, Tainan City, Taiwan 70053"
+    },
+    {
+      "name": "Feng No Seafood",
+      "coord": [
+        23.213286,
+        120.1045967
+      ],
+      "desc": "Seafood, Local seafood dishes showcasing authentic flavors and refined culinary techniques",
+      "longDesc": "Casual seafood restaurant highlights local catch with straightforward quality preparation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Feng%20No%20Seafood&center=23.213286,120.1045967",
+      "placeId": "ChIJq6qqqvXUbTQRZYIK1_j1mnk",
+      "address": "725, Taiwan, Tainan City, Jiangjun District, 長沙146之10號"
+    },
+    {
+      "name": "Good Hunan Cuisine",
+      "coord": [
+        22.6264741,
+        120.2776701
+      ],
+      "desc": "Hunanese, Spicy Hunan flavors showcasing authentic flavors and refined culinary techniques",
+      "longDesc": "Traditional Hunan brings authentic spicy flavors with characteristic bold seasonings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Good%20Hunan%20Cuisine&center=22.6264741,120.2776701",
+      "placeId": "ChIJsauRWioFbjQRI1Jc8s6okQ0",
+      "address": "No. 107號, Lane 53, Gushanyi Rd, Gushan District, Kaohsiung City, Taiwan 804"
+    },
+    {
+      "name": "A Wen Rice Cake",
+      "coord": [
+        22.9904781,
+        120.1960822
+      ],
+      "desc": "Small eats, Traditional rice cake breakfast",
+      "longDesc": "Casual rice cake shop serves fresh prepared sticky rice cakes with sweet toppings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Wen%20Rice%20Cake&center=22.9904781,120.1960822",
+      "placeId": "ChIJUaIJ5Hp2bjQRkNIhVzOVI34",
+      "address": "700, Taiwan, Tainan City, West Central District, 保安路74號"
+    },
+    {
+      "name": "Chuan Tai Hao Milkfish Ball",
+      "coord": [
+        22.9874776,
+        120.21715700000001
+      ],
+      "desc": "Small eats, Milkfish ball specialty",
+      "longDesc": "Specialty street food shop serves traditional milkfish ball delicacies.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chuan%20Tai%20Hao%20Milkfish%20Ball&center=22.9874776,120.21715700000001",
+      "placeId": "ChIJM5oaqZp2bjQRPotklzEb0i4",
+      "address": "No. 235號, Section 1, Dongmen Rd, East District, Tainan City, Taiwan 701"
+    },
+    {
+      "name": "No Name Lamb Soup",
+      "coord": [
+        22.9913432,
+        120.19446099999999
+      ],
+      "desc": "Small eats, Tainan lamb soup showcasing authentic flavors and refined culinary techniques",
+      "longDesc": "Legendary Tainan shop showcases traditional southern flavors with aromatic lamb broth.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=No%20Name%20Lamb%20Soup&center=22.9913432,120.19446099999999",
+      "placeId": "ChIJsW5tZnB2bjQRzbg_ZbxJ_WA",
+      "address": "700, Taiwan, Tainan City, West Central District, Section 2, Fuqian Rd, 144號府前路跟康樂街交叉"
+    },
+    {
+      "name": "Yeh San Duck Thick Soup",
+      "coord": [
+        22.9902835,
+        120.22454819999999
+      ],
+      "desc": "Small eats, Duck thick soup local favorite",
+      "longDesc": "Duck soup specialty restaurant serves hearty broths with tender duck meat.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yeh%20San%20Duck%20Thick%20Soup&center=22.9902835,120.22454819999999",
+      "placeId": "ChIJr226Sjl3bjQRwvxFVvo5tNY",
+      "address": "No. 216號, Section 2, Linsen Rd, East District, Tainan City, Taiwan 701"
+    },
+    {
+      "name": "Gyu Go Zou",
+      "coord": [
+        22.994817299999998,
+        120.18353900000001
+      ],
+      "desc": "Hotpot, Hotpot option in Michelin selection",
+      "longDesc": "Japanese beef restaurant specializes in premium cuts and traditional preparations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gyu%20Go%20Zou&center=22.994817299999998,120.18353900000001",
+      "placeId": "ChIJLwOzAXB3bjQReJhrsJNQ0Jo",
+      "address": "No. 577號, Jianping Rd, Anping District, Tainan City, Taiwan 708"
+    },
+    {
+      "name": "J Parc",
+      "coord": [
+        22.6466529,
+        120.29055960000001
+      ],
+      "desc": "Creative, Creative menus in Kaohsiung",
+      "longDesc": "Contemporary dining venue explores modern technique with seasonal ingredient focus.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=J%20Parc&center=22.6466529,120.29055960000001",
+      "placeId": "ChIJB2cVaZUFbjQRZOvN661VOXI",
+      "address": "No. 1號, Dexing St, Sanmin District, Kaohsiung City, Taiwan 807"
+    },
+    {
+      "name": "GEN",
+      "coord": [
+        25.028433999999997,
+        121.56572999999999
+      ],
+      "desc": "Cantonese, High-end Cantonese showcasing authentic flavors and refined culinary techniques",
+      "longDesc": "Upscale Cantonese showcases refined preparation of premium ingredients in sophisticated setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=GEN&center=25.028433999999997,121.56572999999999",
+      "placeId": "ChIJ21GKfrOrQjQRBOFpikvZPkQ",
+      "address": "No. 7號, Lane 391, Zhuangjing Rd, Xinyi District, Taipei City, Taiwan 110"
+    },
+    {
+      "name": "CRATAIN",
+      "coord": [
+        22.6240781,
+        120.3043266
+      ],
+      "desc": "European contemporary, Modern European plates (variant 2)",
+      "longDesc": "Creative restaurant features modern preparation and innovative combinations in artistic setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=CRATAIN&center=22.6240781,120.3043266",
+      "placeId": "ChIJZZGPx4UEbjQRalmEHewiWf8",
+      "address": "800, Taiwan, Kaohsiung City, Sinsing District, Wufu 2nd Rd, 127之1號"
+    },
+    {
+      "name": "Li.nu",
+      "coord": [
+        22.6061115,
+        120.30516060000001
+      ],
+      "desc": "Creative, Creative tasting showcasing authentic flavors and refined culinary techniques",
+      "longDesc": "Creative contemporary cuisine features artistic plating and innovative flavor combinations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Li.nu&center=22.6061115,120.30516060000001",
+      "placeId": "ChIJqXFEHgADbjQRd9lwTiretD4",
+      "address": "No. 802號, Zhonghua 5th Rd, Cianjhen District, Kaohsiung City, Taiwan 806"
+    },
+    {
+      "name": "the FRONT HOUSE",
+      "coord": [
+        22.636262400000003,
+        120.3235731
+      ],
+      "desc": "Innovative, Innovative dining showcasing authentic flavors and refined culinary techniques",
+      "longDesc": "Innovative restaurant showcases creative cooking and artistic presentation in modern setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=the%20FRONT%20HOUSE&center=22.636262400000003,120.3235731",
+      "placeId": "ChIJAR8oMzgFbjQRzNFWMc6ULEw",
+      "address": "No. 132號, Xianzheng Rd, Lingya District, Kaohsiung City, Taiwan 802"
+    },
+    {
+      "name": "HAILI",
+      "coord": [
+        22.618816199999998,
+        120.29610169999998
+      ],
+      "desc": "Modern cuisine, Modern cuisine",
+      "longDesc": "Fine dining focusing on premium seafood highlights quality ingredients and refinement.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=HAILI&center=22.618816199999998,120.29610169999998",
+      "placeId": "ChIJv3iEzJgFbjQRS0w55A4zZYE",
+      "address": "801, Taiwan, Kaohsiung City, Qianjin District, Chenggong 1st Rd, 264-1號2樓"
+    },
+    {
+      "name": "Cho",
+      "coord": [
+        25.0418973,
+        121.50477439999999
+      ],
+      "desc": "Modern cuisine, Modern cuisine (variant 2)",
+      "longDesc": "Japanese-influenced fine dining showcases refined preparation and premium ingredients.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cho&center=25.0418973,121.50477439999999",
+      "placeId": "ChIJF-JLRgipQjQR4Tco4b5GIQ8",
+      "address": "No. 119號, Kunming St, Wanhua District, Taipei City, Taiwan 108"
+    },
+    {
+      "name": "MU",
+      "coord": [
+        22.6222568,
+        120.3033191
+      ],
+      "desc": "Innovative, Innovative showcasing authentic flavors and refined culinary techniques",
+      "longDesc": "Contemporary innovative tasting features modern technique and creative flavor exploration.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=MU&center=22.6222568,120.3033191",
+      "placeId": "ChIJVfRn8q4FbjQR21DvzXxnRpk",
+      "address": "No. 136號, Sintian Rd, Sinsing District, Kaohsiung City, Taiwan 80044"
+    },
+    {
+      "name": "Sho",
+      "coord": [
+        22.606139199999998,
+        120.3055649
+      ],
+      "desc": "Japanese, Japanese dining showcasing authentic flavors and refined culinary techniques",
+      "longDesc": "Japanese restaurant emphasizes precision and refinement in traditional cooking.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sho&center=22.606139199999998,120.3055649",
+      "placeId": "ChIJX9KFFQUDbjQRKDSaXfkeEDA",
+      "address": "No. 62號, Fuxing 3rd Rd, Cianjhen District, Kaohsiung City, Taiwan 806"
+    },
+    {
+      "name": "Anchovy",
+      "coord": [
+        22.612888500000004,
+        120.30846679999999
+      ],
+      "desc": "European contemporary, Modern bistro feel",
+      "longDesc": "Seafood-focused casual restaurant highlights preserved fish and seafood preparations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Anchovy&center=22.612888500000004,120.30846679999999",
+      "placeId": "ChIJF8UcNbsDbjQRXSkjE-SowtE",
+      "address": "No. 116號, Linsen 3rd Rd, Cianjhen District, Kaohsiung City, Taiwan 806"
+    },
+    {
+      "name": "Kuca Seafood",
+      "coord": [
+        22.6622379,
+        120.30630519999998
+      ],
+      "desc": "Seafood, Seafood showcasing authentic flavors and refined culinary techniques",
+      "longDesc": "Casual seafood restaurant serves fresh daily catch with straightforward preparation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kuca%20Seafood&center=22.6622379,120.30630519999998",
+      "placeId": "ChIJ9Y-w9_0EbjQRIR9NTWtOYDI",
+      "address": "No. 55號, Dewei St, Zuoying District, Kaohsiung City, Taiwan 813"
+    },
+    {
+      "name": "Crab's House",
+      "coord": [
+        25.0386988,
+        121.55531649999999
+      ],
+      "desc": "Seafood, Crab-focused seafood house",
+      "longDesc": "Seafood restaurant specializing in crab dishes and crustacean preparations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Crab%27s%20House&center=25.0386988,121.55531649999999",
+      "placeId": "ChIJaWqjMQirQjQRO1Ua3yfrRRs",
+      "address": "106, Taiwan, Taipei City, Da’an District, Yanji St, 165-1號號（靠近仁愛路方向路段，蝦皮店到店 正對面「麥禾居」小館內"
+    },
+    {
+      "name": "Maltail",
+      "coord": [
+        22.6209936,
+        120.29888849999999
+      ],
+      "desc": "Cocktail Bar, Asia’s 50 Best Bars list (extended) (variant 3)",
+      "longDesc": "Fine dining blends European influences with quality ingredients for refined experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Maltail&center=22.6209936,120.29888849999999",
+      "placeId": "ChIJO0NebAAFbjQR8NKCtFeYpQw",
+      "address": "No. 349-1號, Zhonghua 4th Rd, Qianjin District, Kaohsiung City, Taiwan 801"
+    },
+    {
+      "name": "Mountain and Sea House",
+      "coord": [
+        25.0379808,
+        121.5314068
+      ],
+      "desc": "Taiwanese, Classic Taiwanese banquet style",
+      "longDesc": "Restaurant combining mountain and coastal ingredients in creative preparations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mountain%20and%20Sea%20House&center=25.0379808,121.5314068",
+      "placeId": "ChIJRy7kxmipQjQRACw5aOpSyLI",
+      "address": "No. 94號, Section 2, Ren'ai Rd, Zhongzheng District, Taipei City, Taiwan 100"
+    },
+    {
+      "name": "Golden Formosa",
+      "coord": [
+        25.1182996,
+        121.5362517
+      ],
+      "desc": "Taiwanese, Taiwanese classics showcasing authentic flavors and refined culinary techniques (variant 2)",
+      "longDesc": "Traditional Taiwanese provides family-friendly atmosphere celebrating regional flavors.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden%20Formosa&center=25.1182996,121.5362517",
+      "placeId": "ChIJT2Un5X-uQjQRp0RnkammO5Q",
+      "address": "No. 101, Tianmu E Rd, Shilin District, Taipei City, Taiwan 111"
+    },
+    {
+      "name": "Sinchao Rice Shoppe",
+      "coord": [
+        25.0405014,
+        121.5665695
+      ],
+      "desc": "Taiwanese, Updated Taiwanese plates",
+      "longDesc": "Casual rice shop serves fresh steamed rice bowls with various toppings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sinchao%20Rice%20Shoppe&center=25.0405014,121.5665695",
+      "placeId": "ChIJI-uHec6rQjQRolls8XbSbdY",
+      "address": "110, Taiwan, Taipei City, Xinyi District, Section 5 of Zhongxiao East RoadSection 5 of Zhongxiao E Rd, 68號2樓"
+    },
+    {
+      "name": "A Cheng Goose (Zhongshan)",
+      "coord": [
+        25.056375300000003,
+        121.5303319
+      ],
+      "desc": "Taiwanese, Goose specialty showcasing authentic flavors and refined culinary techniques",
+      "longDesc": "Roasted goose specialist serves traditional preparation of marinated poultry.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=A%20Cheng%20Goose%20%28Zhongshan%29&center=25.056375300000003,121.5303319",
+      "placeId": "ChIJj50p7F2pQjQR4PKzyg50owk",
+      "address": "No. 105號, Jilin Rd, Zhongshan District, Taipei City, Taiwan 104"
+    },
+    {
+      "name": "Hsiao Cho Chih Chia",
+      "coord": [
+        25.065931499999998,
+        121.5303149
+      ],
+      "desc": "Taiwanese, Taiwanese comfort food",
+      "longDesc": "Casual dining concept serves traditional small plates and shared dishes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hsiao%20Cho%20Chih%20Chia&center=25.065931499999998,121.5303149",
+      "placeId": "ChIJPczFdPTQDRQR7szVg5HOzhI",
+      "address": "No. 420號, Jilin Rd, Zhongshan District, Taipei City, Taiwan 10491"
+    },
+    {
+      "name": "Lao Shan Dong Homemade Noodles",
+      "coord": [
+        25.0435797,
+        121.5060857
+      ],
+      "desc": "Noodles, Handmade noodles (queue-worthy)",
+      "longDesc": "Northern noodle shop emphasizes hand-pulled preparations and traditional broths.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lao%20Shan%20Dong%20Homemade%20Noodles&center=25.0435797,121.5060857",
+      "placeId": "ChIJsSC8HAmpQjQR7uCNzzunDRw",
+      "address": "108, Taiwan, Taipei City, Wanhua District, Xining Rd, 70號B1之15室"
+    },
+    {
+      "name": "Chung Chia Sheng Jian Bao",
+      "coord": [
+        25.089445299999998,
+        121.5263425
+      ],
+      "desc": "Street food, Pan-fried buns showcasing authentic flavors and refined culinary techniques",
+      "longDesc": "Shanghai dumpling specialist serves soup dumplings with delicate wrappers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chung%20Chia%20Sheng%20Jian%20Bao&center=25.089445299999998,121.5263425",
+      "placeId": "ChIJT0BnUKWuQjQRQFaV0bBOpf0",
+      "address": "No. 38號, Xiaodong St, Shilin District, Taipei City, Taiwan 111"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Taipei 101 Observatory",
+      "coord": [
+        25.0336752,
+        121.56488309999999
+      ],
+      "desc": "Landmark/View, Cost: $$$. Skyline views; go early for fewer crowds",
+      "longDesc": "Taiwan's iconic skyscraper provides breathtaking aerial views from 88th-floor observation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20101%20Observatory&center=25.0336752,121.56488309999999",
+      "placeId": "ChIJSTLZ6barQjQRMdkCqrP3CNU",
+      "address": "110, Taiwan, Taipei City, Xinyi District, Section 5, Xinyi Rd, 7號89樓"
+    },
+    {
+      "name": "Elephant Mountain (Xiangshan) hike",
+      "coord": [
+        25.027375,
+        121.57096190000001
+      ],
+      "desc": "Hike/View, Cost: Free. Short steep climb with postcard Taipei 101 views",
+      "longDesc": "Accessible hiking trail near Taipei offers panoramic city views and sunset vistas.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Elephant%20Mountain%20%28Xiangshan%29%20hike&center=25.027375,121.57096190000001",
+      "placeId": "ChIJI1oAUBmrQjQR9nmyvzkOe5A",
+      "address": "110, Taiwan, 臺北市信義區三犁里"
+    },
+    {
+      "name": "National Palace Museum",
+      "coord": [
+        25.1023554,
+        121.54849250000001
+      ],
+      "desc": "Museum, Cost: $$. World-class Chinese art collection",
+      "longDesc": "World-class Chinese art collection showcases jade, ceramics, and paintings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Palace%20Museum&center=25.1023554,121.54849250000001",
+      "placeId": "ChIJfUpAzTqsQjQRwQl6ORhwbV0",
+      "address": "No. 221, Sec 2, Zhi Shan Rd, Shilin District, Taipei City, Taiwan 111"
+    },
+    {
+      "name": "Mengjia Longshan Temple",
+      "coord": [
+        25.037310599999998,
+        121.49986539999999
+      ],
+      "desc": "Temple/Culture, Cost: Free. Atmospheric temple; visit near sunset",
+      "longDesc": "Taiwan's oldest temple features intricate architecture as vibrant spiritual center.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mengjia%20Longshan%20Temple&center=25.037310599999998,121.49986539999999",
+      "placeId": "ChIJCd7n16ipQjQRihzEWF4z6Pg",
+      "address": "No. 211, Guangzhou St, Wanhua District, Taipei City, Taiwan 10853"
+    },
+    {
+      "name": "Chiang Kai-shek Memorial Hall",
+      "coord": [
+        25.035501999999997,
+        121.5201832
+      ],
+      "desc": "Monument/Culture, Cost: Free. Grand plaza + museums + architecture",
+      "longDesc": "Taiwan's most visited landmark features hourly ceremonies and commanding plaza views.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiang%20Kai-shek%20Memorial%20Hall&center=25.035501999999997,121.5201832",
+      "placeId": "ChIJTamiuZ2pQjQRsmnfkkID6UM",
+      "address": "Zhongzheng District, Taipei City, Taiwan 100"
+    },
+    {
+      "name": "Ximending Pedestrian Zone",
+      "coord": [
+        25.044043,
+        121.5073209
+      ],
+      "desc": "Neighborhood, Cost: Free. Neon streets, pop culture, street food",
+      "longDesc": "Taipei's vibrant youth-culture shopping district buzzes with energy and street food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ximending%20Pedestrian%20Zone&center=25.044043,121.5073209",
+      "placeId": "ChIJu8BdQQmpQjQRyAwMGhhFVD8",
+      "address": "No. 9, Lane 50, Hanzhong St, Wanhua District, Taipei City, Taiwan 108"
+    },
+    {
+      "name": "Dihua Street (Dadaocheng)",
+      "coord": [
+        25.0581215,
+        121.50981099999998
+      ],
+      "desc": "Old street/Shopping, Cost: Free. Tea, dried goods, heritage lanes",
+      "longDesc": "Historic shopping street preserves traditional architecture and colorful market culture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dihua%20Street%20%28Dadaocheng%29&center=25.0581215,121.50981099999998",
+      "placeId": "ChIJZXKGOBSpQjQRHko-EIytJMU",
+      "address": "No. 146號, Section 1, Dihua St, Datong District, Taipei City, Taiwan 103"
+    },
+    {
+      "name": "Huashan 1914 Creative Park",
+      "coord": [
+        25.0440698,
+        121.5293583
+      ],
+      "desc": "Art/Design, Cost: Free/$$. Design shops, exhibitions, cafés",
+      "longDesc": "Converted factory hosts contemporary art and cultural events showcasing creative scene.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Huashan%201914%20Creative%20Park&center=25.0440698,121.5293583",
+      "placeId": "ChIJbSTgI2WpQjQRcVwWB2cnyfE",
+      "address": "No. 1號, Section 1, Bade Rd, Zhongzheng District, Taipei City, Taiwan 100"
+    },
+    {
+      "name": "Songshan Cultural & Creative Park",
+      "coord": [
+        25.0438366,
+        121.5606383
+      ],
+      "desc": "Art/Design, Cost: Free/$$. Converted factory with galleries & markets",
+      "longDesc": "Historic tobacco factory turned cultural space celebrates Taiwan's design culture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Songshan%20Cultural%20%26%20Creative%20Park&center=25.0438366,121.5606383",
+      "placeId": "ChIJO0vOI7-rQjQR3Pl9_4cPK8g",
+      "address": "No. 133號, Guangfu S Rd, Xinyi District, Taipei City, Taiwan 11072"
+    },
+    {
+      "name": "Taipei Fine Arts Museum",
+      "coord": [
+        25.072136,
+        121.5244037
+      ],
+      "desc": "Museum, Cost: $$. Modern & contemporary exhibitions",
+      "longDesc": "Contemporary art museum features rotating exhibitions showcasing vibrant modern creativity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20Fine%20Arts%20Museum&center=25.072136,121.5244037",
+      "placeId": "ChIJ-ffZ_VGpQjQRcaEDDIjDQHo",
+      "address": "No. 181號, Section 3, Zhongshan N Rd, Zhongshan District, Taipei City, Taiwan 10461"
+    },
+    {
+      "name": "Beitou hot springs day",
+      "coord": [
+        25.136569400000003,
+        121.50715
+      ],
+      "desc": "Wellness/Onsen, Cost: $$$. Easy metro access for hot springs & baths",
+      "longDesc": "Day trip to steaming geothermal valley offers natural soaking and thermal landscape.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Beitou%20hot%20springs%20day&center=25.136569400000003,121.50715",
+      "placeId": "ChIJ6fE69FCuQjQRPAp8aSmP8a0",
+      "address": "No. 2, Zhongshan Rd, Beitou District, Taipei City, Taiwan 112"
+    },
+    {
+      "name": "Maokong Gondola + tea houses",
+      "coord": [
+        24.9680313,
+        121.587935
+      ],
+      "desc": "Scenic ride/Food, Cost: $$. Gondola to tea hills; great half-day",
+      "longDesc": "Cable car ride ascends misty tea-covered mountains with traditional teahouse stops.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Maokong%20Gondola%20%2B%20tea%20houses&center=24.9680313,121.587935",
+      "placeId": "ChIJA9P30zkBaDQR6BRIueOOjTA",
+      "address": "No. 16-8號, Lane 38, Section 3, Zhinan Rd, Wenshan District, Taipei City, Taiwan 116"
+    },
+    {
+      "name": "Night market food crawl",
+      "coord": [
+        25.0508854,
+        121.5774891
+      ],
+      "desc": "Food, Cost: $. Pick 1–2 markets; graze small portions",
+      "longDesc": "Evening market exploration showcases Taiwan's distinctive street food culture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Night%20market%20food%20crawl&center=25.0508854,121.5774891",
+      "placeId": "ChIJg6W0DZyrQjQR9vZdgYMRoj0",
+      "address": "Raohe St, Songshan District, Taipei City, Taiwan 105"
+    },
+    {
+      "name": "Taipei Zoo",
+      "coord": [
+        24.9985635,
+        121.58098570000001
+      ],
+      "desc": "Zoo, Cost: $$. Large zoo; pair with Maokong gondola",
+      "longDesc": "Taiwan's premier zoo features giant pandas and diverse animal species.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20Zoo&center=24.9985635,121.58098570000001",
+      "placeId": "ChIJj4EySmCqQjQRZte0Cf0G_qo",
+      "address": "No. 30號, Section 2, Xinguang Rd, Wenshan District, Taipei City, Taiwan 116"
+    },
+    {
+      "name": "Taipei Children's Amusement Park",
+      "coord": [
+        25.0972351,
+        121.51495100000001
+      ],
+      "desc": "Amusement Park, Cost: $$. Easy city-day for families",
+      "longDesc": "Family-focused amusement park offers rides and entertainment.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20Children%27s%20Amusement%20Park&center=25.0972351,121.51495100000001",
+      "placeId": "ChIJG9qGWr-uQjQRR1iXVOTfVl8",
+      "address": "No. 55號, Section 5, Chengde Rd, Shilin District, Taipei City, Taiwan 11169"
+    },
+    {
+      "name": "Beitou Hot Spring Museum + Thermal Valley",
+      "coord": [
+        25.136569400000003,
+        121.50715
+      ],
+      "desc": "Museum/Nature, Cost: Free. Quick cultural stop on a hot springs day",
+      "longDesc": "Museum and natural geothermal area combine history and hot spring experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Beitou%20Hot%20Spring%20Museum%20%2B%20Thermal%20Valley&center=25.136569400000003,121.50715",
+      "placeId": "ChIJ6fE69FCuQjQRPAp8aSmP8a0",
+      "address": "No. 2, Zhongshan Rd, Beitou District, Taipei City, Taiwan 112"
+    },
+    {
+      "name": "Taipei day trip: Jiufen",
+      "coord": [
+        25.108732000000003,
+        121.84519009999998
+      ],
+      "desc": "Day trip/Old town, Cost: $$. Laneways, tea houses, views",
+      "longDesc": "Day trip to historic village showcases traditional life with preserved architecture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20day%20trip%3A%20Jiufen&center=25.108732000000003,121.84519009999998",
+      "placeId": "ChIJIWRk51lFXTQRCHiyQEX8OZg",
+      "address": "224, Taiwan, New Taipei City, Ruifang District, Jishan St, 26號樓梯下「九窩膠囊旅店」"
+    },
+    {
+      "name": "Taipei day trip: Shifen & Pingxi Line",
+      "coord": [
+        25.02565,
+        121.73999999999998
+      ],
+      "desc": "Day trip/Nature, Cost: $$. Waterfall + lantern release",
+      "longDesc": "Mountain railway and sky lantern tradition create magical evening and village atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20day%20trip%3A%20Shifen%20%26%20Pingxi%20Line&center=25.02565,121.73999999999998",
+      "placeId": "ChIJ4TVzF7VWXTQRt8lhA0qQU1o",
+      "address": "No. 12, Zhonghua St, Pingxi District, New Taipei City, Taiwan 226"
+    },
+    {
+      "name": "Taipei day trip: Yehliu Geopark",
+      "coord": [
+        25.206397199999998,
+        121.6904658
+      ],
+      "desc": "Nature/Geology, Cost: $$. Strange rock formations; windy coast",
+      "longDesc": "Coastal geopark features unique rock formations and scenic boardwalks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20day%20trip%3A%20Yehliu%20Geopark&center=25.206397199999998,121.6904658",
+      "placeId": "ChIJ1ZrmCnZMXTQRV2jCWjAX0eQ",
+      "address": "20744, Taiwan, New Taipei City, Wanli District, 港東路167-1號"
+    },
+    {
+      "name": "Taipei day trip: Yangmingshan NP",
+      "coord": [
+        25.1942462,
+        121.5609363
+      ],
+      "desc": "Nature/Hot springs, Cost: $$. Volcanic landscapes close to the city",
+      "longDesc": "Mountain park near Taipei offers accessible hiking with panoramic volcanic landscape.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20day%20trip%3A%20Yangmingshan%20NP&center=25.1942462,121.5609363",
+      "placeId": "ChIJS8fPJPitQjQRebDDT6PjC1w",
+      "address": "Taiwan"
+    },
+    {
+      "name": "Taipei day trip: Tamsui Old Street",
+      "coord": [
+        25.168927,
+        121.44409209999999
+      ],
+      "desc": "Old street/Sunset, Cost: $$. Riverfront stroll + sunset ferry views",
+      "longDesc": "Riverside village retains colonial heritage and scenic sunset Taiwan Strait views.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20day%20trip%3A%20Tamsui%20Old%20Street&center=25.168927,121.44409209999999",
+      "placeId": "ChIJkf3MYFilQjQRxSE-z1AbDKQ",
+      "address": "No. 1, Zhongzheng Rd, Tamsui District, New Taipei City, Taiwan 251"
+    },
+    {
+      "name": "Taipei day trip: Keelung Miaokou Night Market",
+      "coord": [
+        25.128445000000003,
+        121.7431519
+      ],
+      "desc": "Food, Cost: $. Seafood-focused night market",
+      "longDesc": "Seaside night market specializes in fresh seafood and coastal specialties.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20day%20trip%3A%20Keelung%20Miaokou%20Night%20Market&center=25.128445000000003,121.7431519",
+      "placeId": "ChIJY5adFT5OXTQRHkmS-RPdhB0",
+      "address": "200, Taiwan, Keelung City, Ren’ai District, 玉田里仁三路"
+    },
+    {
+      "name": "Taipei day trip: Wulai hot springs",
+      "coord": [
+        24.8620725,
+        121.5508035
+      ],
+      "desc": "Wellness/Nature, Cost: $$$. Hot springs in a lush valley",
+      "longDesc": "Mountain hot spring town showcases indigenous culture and thermal spring experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20day%20trip%3A%20Wulai%20hot%20springs&center=24.8620725,121.5508035",
+      "placeId": "ChIJ-W3Y1Y4GaDQRrv_Hm46bkyw",
+      "address": "No. 39號, Wenquan St, Wulai District, New Taipei City, Taiwan 233"
+    },
+    {
+      "name": "Taroko Gorge",
+      "coord": [
+        24.1939246,
+        121.4906668
+      ],
+      "desc": "Nature/Hike, Cost: $$. Marble canyon hikes and dramatic scenery",
+      "longDesc": "Soaring marble cliffs create Taiwan's most breathtaking natural wonder ideal for adventure.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taroko%20Gorge&center=24.1939246,121.4906668",
+      "placeId": "ChIJ7-fCX4SCaDQRMaqw4IX92d0",
+      "address": "Xiulin Township, Hualien County, Taiwan 972"
+    },
+    {
+      "name": "Taroko: Eternal Spring Shrine (Changchun)",
+      "coord": [
+        24.160479799999997,
+        121.6036866
+      ],
+      "desc": "Nature/Culture, Cost: Free. Iconic shrine built into cliffside",
+      "longDesc": "Historic shrine within gorge provides spiritual landmark and waterfall viewing.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taroko%3A%20Eternal%20Spring%20Shrine%20%28Changchun%29&center=24.160479799999997,121.6036866",
+      "placeId": "ChIJ6Z7vpfOCaDQRQ94BpIjKDCI",
+      "address": "972, Taiwan, Hualien County, Xiulin Township, 283-3號"
+    },
+    {
+      "name": "Hualien: Qingshui Cliffs viewpoint",
+      "coord": [
+        24.206767000000003,
+        121.6665717
+      ],
+      "desc": "Scenic drive, Cost: Free. Ocean-meets-cliff views on the east coast",
+      "longDesc": "Taiwan's highest coastal cliffs create dramatic seascapes and photogenic viewpoints.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hualien%3A%20Qingshui%20Cliffs%20viewpoint&center=24.206767000000003,121.6665717",
+      "placeId": "ChIJg4c8f10rZjQR6OMzXDPtx6I",
+      "address": "972, Taiwan, Hualien County, Xiulin Township, 台9線30號"
+    },
+    {
+      "name": "Sun Moon Lake cycling loop (or partial)",
+      "coord": [
+        23.866366,
+        120.90604649999999
+      ],
+      "desc": "Nature/Active, Cost: $$. Easy scenic cycling with lake views",
+      "longDesc": "Famous cycling circuit offers family-friendly lake exploration with consistent scenery.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sun%20Moon%20Lake%20cycling%20loop%20%28or%20partial%29&center=23.866366,120.90604649999999",
+      "placeId": "ChIJAwYArwXWaDQR23EZTLcE8GA",
+      "address": "Yuchi Township, Nantou County, Taiwan 555"
+    },
+    {
+      "name": "Sun Moon Lake boat ride",
+      "coord": [
+        23.8645269,
+        120.91177019999998
+      ],
+      "desc": "Scenic ride, Cost: $$. Boat hop between key piers",
+      "longDesc": "Leisurely lake cruise provides water-based perspective and temple-side community access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sun%20Moon%20Lake%20boat%20ride&center=23.8645269,120.91177019999998",
+      "placeId": "ChIJu123aQ7WaDQRmiZQuTKv0IU",
+      "address": "No. 11號, Mingsheng St, Yuchi Township, Nantou County, Taiwan 555"
+    },
+    {
+      "name": "Sun Moon Lake: Ci'en Pagoda",
+      "coord": [
+        23.8420255,
+        120.92084059999999
+      ],
+      "desc": "Viewpoint, Cost: Free. Short climb for sweeping lake vistas",
+      "longDesc": "White pagoda on peninsula provides spiritual landmark and elevated scenic views.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sun%20Moon%20Lake%3A%20Ci%27en%20Pagoda&center=23.8420255,120.92084059999999",
+      "placeId": "ChIJq6qqqmrWaDQRyKlD4BLXUpw",
+      "address": "Yuchi Township, Nantou County, Taiwan 555"
+    },
+    {
+      "name": "Taichung National Theatre",
+      "coord": [
+        24.1626492,
+        120.64030280000001
+      ],
+      "desc": "Architecture/Arts, Cost: $$. Modern landmark; tours & performances",
+      "longDesc": "Stunning modern architecture serves as impressive performance venue and cultural symbol.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taichung%20National%20Theatre&center=24.1626492,120.64030280000001",
+      "placeId": "ChIJcaKjTOw9aTQR4mAeJzejtdg",
+      "address": "No. 101號, Section 2, Huilai Rd, Xitun District, Taichung City, Taiwan 407025"
+    },
+    {
+      "name": "Taichung: Gaomei Wetlands at sunset",
+      "coord": [
+        24.3125568,
+        120.5473767
+      ],
+      "desc": "Nature, Cost: Free. Boardwalk over wetlands; sunset glow",
+      "longDesc": "Coastal wetlands create stunning golden-hour experience with natural photographic appeal.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taichung%3A%20Gaomei%20Wetlands%20at%20sunset&center=24.3125568,120.5473767",
+      "placeId": "ChIJQ2FsFjwTaTQRKb4VYUrXd4Y",
+      "address": "Meidi St, Qingshui District, Taichung City, Taiwan 436"
+    },
+    {
+      "name": "Taichung: Calligraphy Greenway",
+      "coord": [
+        24.1512413,
+        120.66322939999999
+      ],
+      "desc": "Neighborhood, Cost: Free. Park-like corridor with shops & cafés",
+      "longDesc": "Artistic pathway combines walking trail with public art celebrating community spirit.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taichung%3A%20Calligraphy%20Greenway&center=24.1512413,120.66322939999999",
+      "placeId": "ChIJh5VW1qY9aTQRgVpjgx_xu0s",
+      "address": "Xiangshang N Rd, West District, Taichung City, Taiwan 403"
+    },
+    {
+      "name": "Chiayi: Fenqihu Old Street (bento)",
+      "coord": [
+        23.5051199,
+        120.69493550000001
+      ],
+      "desc": "Food/Old street, Cost: $$. Classic stop en route to Alishan",
+      "longDesc": "Charming mountain village retains historic wooden architecture with famous bento lunch.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiayi%3A%20Fenqihu%20Old%20Street%20%28bento%29&center=23.5051199,120.69493550000001",
+      "placeId": "ChIJq6qqqqbCbjQRANB4uDgLE94",
+      "address": "604, Taiwan, 嘉義縣竹崎鄉奮起湖"
+    },
+    {
+      "name": "Alishan Forest Recreation Area",
+      "coord": [
+        23.5109539,
+        120.80349919999998
+      ],
+      "desc": "Nature, Cost: $$. Cedar forests, trails, cool mountain air",
+      "longDesc": "Pristine mountain forest with extensive hiking through ancient cypress and peaceful nature.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alishan%20Forest%20Recreation%20Area&center=23.5109539,120.80349919999998",
+      "placeId": "ChIJOxUmrCDcbjQR1L87oFz49_8",
+      "address": "No. 59號, 中正村 東, Alishan Township, Chiayi County, Taiwan 605"
+    },
+    {
+      "name": "Alishan sunrise experience",
+      "coord": [
+        23.446416199999998,
+        120.67244079999999
+      ],
+      "desc": "Nature/View, Cost: $$. Sunrise over clouds (weather permitting)",
+      "longDesc": "Taiwan's most iconic sunrise creates spiritual moment and breathtaking photo opportunity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alishan%20sunrise%20experience&center=23.446416199999998,120.67244079999999",
+      "placeId": "ChIJ16DGRFHobjQRDGGBp9q3IfU",
+      "address": "604, Taiwan, Chiayi County, Fanlu Township, 龍頭17-19號"
+    },
+    {
+      "name": "Alishan Forest Railway ride (historic)",
+      "coord": [
+        23.5100782,
+        120.80420590000001
+      ],
+      "desc": "Scenic train, Cost: $$. Iconic railway through mountain forests",
+      "longDesc": "Historic narrow-gauge mountain railway climbs through misty forest scenery.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alishan%20Forest%20Railway%20ride%20%28historic%29&center=23.5100782,120.80420590000001",
+      "placeId": "ChIJN1zDYgTfbjQRT5_UhgaD_CQ",
+      "address": "605, Taiwan, Chiayi County, Alishan Township, Alishan National Forest Recreation Area, 1號"
+    },
+    {
+      "name": "Tainan Confucius Temple",
+      "coord": [
+        22.9905296,
+        120.2040401
+      ],
+      "desc": "Temple/Culture, Cost: $$. Historic temple complex in old capital",
+      "longDesc": "Taiwan's oldest temple showcases traditional architecture and scholarly tradition.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tainan%20Confucius%20Temple&center=22.9905296,120.2040401",
+      "placeId": "ChIJFbzVrGJ2bjQRkZC9jslaIgs",
+      "address": "No. 2號, Nanmen Rd, West Central District, Tainan City, Taiwan 700"
+    },
+    {
+      "name": "Tainan: Anping Old Fort area",
+      "coord": [
+        23.001509300000002,
+        120.1606244
+      ],
+      "desc": "History, Cost: $$. Dutch-era history + old streets",
+      "longDesc": "Historic fort preserves multicultural trading history with waterfront heritage architecture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tainan%3A%20Anping%20Old%20Fort%20area&center=23.001509300000002,120.1606244",
+      "placeId": "ChIJZ-TjeHN2bjQR8a3Jat0VHps",
+      "address": "No. 82, Guosheng Rd, Anping District, Tainan City, Taiwan 708"
+    },
+    {
+      "name": "Tainan: Chihkan Tower",
+      "coord": [
+        22.997477999999997,
+        120.2025433
+      ],
+      "desc": "History, Cost: $$. Historic site in city center",
+      "longDesc": "Historic tower dominates skyline serving as cultural landmark with city views.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tainan%3A%20Chihkan%20Tower&center=22.997477999999997,120.2025433",
+      "placeId": "ChIJbYl7d2F2bjQRnFdvyMBuZfI",
+      "address": "No. 212, Section 2, Minzu Rd, West Central District, Tainan City, Taiwan 700"
+    },
+    {
+      "name": "Tainan: Temple-hopping day",
+      "coord": [
+        22.9966464,
+        120.2015605
+      ],
+      "desc": "Culture, Cost: Free/$$. Taiwan’s temple-rich city—take it slow",
+      "longDesc": "Exceptional temple collection offers comprehensive religious and architectural heritage journey.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tainan%3A%20Temple-hopping%20day&center=22.9966464,120.2015605",
+      "placeId": "ChIJje2QZmF2bjQRR6NbMsm6hTY",
+      "address": "No. 18, Lane 227, Section 2, Yongfu Rd, West Central District, Tainan City, Taiwan 700"
+    },
+    {
+      "name": "Kaohsiung: Pier-2 Art Center",
+      "coord": [
+        22.619980299999998,
+        120.2815287
+      ],
+      "desc": "Art/District, Cost: Free/$$. Warehouse art zone with shops & installations",
+      "longDesc": "Waterfront park features contemporary sculptures celebrating vibrant modern artistic expression.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaohsiung%3A%20Pier-2%20Art%20Center&center=22.619980299999998,120.2815287",
+      "placeId": "ChIJW8ThIHYEbjQR8k12HL3R1uY",
+      "address": "No. 1號, Dayong Rd, Yancheng District, Kaohsiung City, Taiwan 803"
+    },
+    {
+      "name": "Kaohsiung: Dome of Light (Formosa Blvd. Station)",
+      "coord": [
+        22.6313887,
+        120.30191310000001
+      ],
+      "desc": "Landmark/Art, Cost: Free. Striking public art in MRT station",
+      "longDesc": "Iconic glass art installation in subway station creates dazzling colored light.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaohsiung%3A%20Dome%20of%20Light%20%28Formosa%20Blvd.%20Station%29&center=22.6313887,120.30191310000001",
+      "placeId": "ChIJ10T7XIkEbjQRo5UX1nWHLx8",
+      "address": "800, Taiwan, Kaohsiung City, Sinsing District, Zhongshan 1st Rd, 115號地下一樓"
+    },
+    {
+      "name": "Kaohsiung: Lotus Pond + Dragon & Tiger Pagodas",
+      "coord": [
+        22.680503299999998,
+        120.2924777
+      ],
+      "desc": "Culture, Cost: Free/$$. Temple-lake loop; iconic photo stop",
+      "longDesc": "Scenic pond with iconic pagodas creates vibrant spiritual landmark and gathering place.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaohsiung%3A%20Lotus%20Pond%20%2B%20Dragon%20%26%20Tiger%20Pagodas&center=22.680503299999998,120.2924777",
+      "placeId": "ChIJJcBAjaEFbjQRx4A8dRM2bVI",
+      "address": "No. 9號, Liantan Rd, Zuoying District, Kaohsiung City, Taiwan 813"
+    },
+    {
+      "name": "Kaohsiung: Fo Guang Shan Buddha Museum",
+      "coord": [
+        22.7549492,
+        120.44738699999999
+      ],
+      "desc": "Culture, Cost: $$. Taiwan’s largest temple complex; massive Buddha",
+      "longDesc": "Buddhist museum with spiritual art and peaceful grounds offers contemplative experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaohsiung%3A%20Fo%20Guang%20Shan%20Buddha%20Museum&center=22.7549492,120.44738699999999",
+      "placeId": "ChIJK3DeNq8WbjQRPFlnj_pTDKc",
+      "address": "No. 1號, Tongling Rd, Dashu District, Kaohsiung City, Taiwan 84049"
+    },
+    {
+      "name": "Kaohsiung: Love River evening stroll/boat",
+      "coord": [
+        22.6246083,
+        120.28980279999999
+      ],
+      "desc": "City/Scenic, Cost: $$. River walk; lights at night",
+      "longDesc": "Romantic waterfront path offers scenic evening walks along urban water.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaohsiung%3A%20Love%20River%20evening%20stroll/boat&center=22.6246083,120.28980279999999",
+      "placeId": "ChIJGaqBzLQEbjQROAf-FJQ_d5U",
+      "address": "No. 176號, Hedong Rd, Qianjin District, Kaohsiung City, Taiwan 801"
+    },
+    {
+      "name": "Kaohsiung: Cijin Island beach & seafood",
+      "coord": [
+        22.6100904,
+        120.26756739999999
+      ],
+      "desc": "Beach/Local, Cost: $$. Ferry over for beach time + seafood",
+      "longDesc": "Island beach offers swimming and waterfront seafood creating relaxed coastal experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaohsiung%3A%20Cijin%20Island%20beach%20%26%20seafood&center=22.6100904,120.26756739999999",
+      "placeId": "ChIJQ_T1Zu4DbjQR0wyUM4GhJzA",
+      "address": "No. 1050號, Qijin 3rd Rd, Qijin District, Kaohsiung City, Taiwan 805"
+    },
+    {
+      "name": "Kenting National Park",
+      "coord": [
+        21.9483307,
+        120.77975159999998
+      ],
+      "desc": "Nature/Beach, Cost: $$. Beaches, hikes, coastal viewpoints",
+      "longDesc": "Taiwan's southernmost park offers beautiful beaches, water sports, and dramatic scenery.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kenting%20National%20Park&center=21.9483307,120.77975159999998",
+      "placeId": "ChIJo3zE2vqzcTQRf_VdSaifF_c",
+      "address": "Pingtung County, Taiwan"
+    },
+    {
+      "name": "Kenting: Eluanbi Lighthouse area",
+      "coord": [
+        21.9022339,
+        120.8526297
+      ],
+      "desc": "Landmark/Nature, Cost: $$. Southern tip viewpoints",
+      "longDesc": "Iconic lighthouse on dramatic cliffs creates scenic viewpoint and photogenic landmark.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kenting%3A%20Eluanbi%20Lighthouse%20area&center=21.9022339,120.8526297",
+      "placeId": "ChIJZV-_DhWxcTQREKTCizrSV1c",
+      "address": "No. 90號, Dengta Rd, Hengchun Township, Pingtung County, Taiwan 946"
+    },
+    {
+      "name": "Kenting: Beach day at Nanwan",
+      "coord": [
+        21.9594679,
+        120.76350400000001
+      ],
+      "desc": "Beach, Cost: $$. Shallow water & water sports",
+      "longDesc": "Taiwan's southernmost sandy beach offers swimming and water recreation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kenting%3A%20Beach%20day%20at%20Nanwan&center=21.9594679,120.76350400000001",
+      "placeId": "ChIJuRn9rquxcTQRj7DymJRgtnc",
+      "address": "South Bay, Pingtung County, Taiwan"
+    },
+    {
+      "name": "Tea plantation visit (Pinglin or Alishan)",
+      "coord": [
+        24.9344651,
+        121.7128281
+      ],
+      "desc": "Culture/Food, Cost: $$. Oolong tastings and tea culture",
+      "longDesc": "Direct farm experience allows learning about tea cultivation and production.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tea%20plantation%20visit%20%28Pinglin%20or%20Alishan%29&center=24.9344651,121.7128281",
+      "placeId": "ChIJ_____7v4ZzQRZVc3rmw-Tm8",
+      "address": "232001, Taiwan, New Taipei City, Pinglin District, 19-1號"
+    },
+    {
+      "name": "Taiwanese hot springs circuit (Beitou/Jiaoxi/Guguan)",
+      "coord": [
+        24.831013199999997,
+        121.7759664
+      ],
+      "desc": "Wellness, Cost: $$$. Pick one hot spring town to avoid rushing",
+      "longDesc": "Multi-location hot spring journey explores Taiwan's geothermal resources.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taiwanese%20hot%20springs%20circuit%20%28Beitou/Jiaoxi/Guguan%29&center=24.831013199999997,121.7759664",
+      "placeId": "ChIJQwv29kn6ZzQR8ACrvxU8Mh0",
+      "address": "262, Taiwan, Yilan County, Jiaoxi Township, 公園路70巷60號"
+    },
+    {
+      "name": "Taipei: Eslite flagship bookstore browse",
+      "coord": [
+        25.0445156,
+        121.56131260000001
+      ],
+      "desc": "Shopping/Culture, Cost: Free. Legendary bookstore experience",
+      "longDesc": "Taiwan's most famous bookstore offers comprehensive selection and cultural gathering hub.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%3A%20Eslite%20flagship%20bookstore%20browse&center=25.0445156,121.56131260000001",
+      "placeId": "ChIJfe-LGAirQjQRoNcBBDY3YnI",
+      "address": "110, Taiwan, Taipei City, Xinyi District, Yanchang Rd, 88號3樓"
+    },
+    {
+      "name": "Taipei: Guang Hua Digital Plaza",
+      "coord": [
+        25.0452719,
+        121.53203309999999
+      ],
+      "desc": "Shopping, Cost: Free. Electronics bazaar experience",
+      "longDesc": "Taipei's largest electronics shopping district offers tech goods and gadgets.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%3A%20Guang%20Hua%20Digital%20Plaza&center=25.0452719,121.53203309999999",
+      "placeId": "ChIJfc45RGOpQjQRh_HHWVA41kw",
+      "address": "No. 8號, Section 3, Civic Blvd, Zhongzheng District, Taipei City, Taiwan 100"
+    },
+    {
+      "name": "Taipei: Street photography walk",
+      "coord": [
+        25.037856,
+        121.56327399999999
+      ],
+      "desc": "Culture, Cost: Free. Markets, alleys, neon—great for cameras",
+      "longDesc": "Taipei's diverse architecture and street life provides excellent photographic opportunities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%3A%20Street%20photography%20walk&center=25.037856,121.56327399999999",
+      "placeId": "ChIJiXA0RwCrQjQRjbNdZYEiXtY",
+      "address": "Taipei City Hall, City Hall Rd, Xinyi District, Taipei City, Taiwan 110"
+    },
+    {
+      "name": "Taipei: Dumpling-making class (private)",
+      "coord": [
+        25.0391299,
+        121.55702499999998
+      ],
+      "desc": "Food, Cost: $$$. Hands-on cooking; great with kids",
+      "longDesc": "Hands-on cooking class teaches traditional dumpling wrapping and filling.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%3A%20Dumpling-making%20class%20%28private%29&center=25.0391299,121.55702499999998",
+      "placeId": "ChIJOQvJ-xqrQjQRaSCsIrobigs",
+      "address": "106, Taiwan, Taipei City, Da’an District, Lane 290, Guangfu S Rd, 5號2樓"
+    },
+    {
+      "name": "Bike ride along Riverside Parks",
+      "coord": [
+        25.0594523,
+        121.5721871
+      ],
+      "desc": "Active/Outdoors, Cost: Free/$$. Flat, stroller-friendly paths by rivers",
+      "longDesc": "Scenic cycling paths offer active family recreation and urban green space exploration.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bike%20ride%20along%20Riverside%20Parks&center=25.0594523,121.5721871",
+      "placeId": "ChIJrdizTzWrQjQRB-BDeDjsnJc",
+      "address": "Rainbow Riverside Park, Section 1, Tiding Blvd, Neihu District, Taipei City, Taiwan 114"
+    },
+    {
+      "name": "Yilan/Jiaoxi hot spring day trip",
+      "coord": [
+        24.8317272,
+        121.76968989999997
+      ],
+      "desc": "Wellness, Cost: $$$. Easy escape for a hot-springs soak",
+      "longDesc": "Coastal northeastern area offers hot springs and seaside experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yilan/Jiaoxi%20hot%20spring%20day%20trip&center=24.8317272,121.76968989999997",
+      "placeId": "ChIJBzZkmKj7ZzQRQY6rdOdEk-k",
+      "address": "Lane 1, Zhongxiao Rd, Jiaoxi Township, Yilan County, Taiwan 262"
+    },
+    {
+      "name": "Hsinchu: The One Nanyuan retreat day",
+      "coord": [
+        24.8680076,
+        121.10425219999999
+      ],
+      "desc": "Wellness/Design, Cost: $$$$. Design-led quiet retreat in nature",
+      "longDesc": "Mountain nature retreat provides peaceful escape and hiking experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hsinchu%3A%20The%20One%20Nanyuan%20retreat%20day&center=24.8680076,121.10425219999999",
+      "placeId": "ChIJP1ZFAfk5aDQR-2yfuue0_Eo",
+      "address": "305, Taiwan, Hsinchu County, Xinpu Township, 九芎湖32號"
+    },
+    {
+      "name": "Taipei: The Grand Hotel photo stop",
+      "coord": [
+        25.0789293,
+        121.52651510000001
+      ],
+      "desc": "Landmark, Cost: Free. Iconic historic hotel architecture",
+      "longDesc": "Taiwan's most famous landmark creates iconic red palace silhouette and views.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%3A%20The%20Grand%20Hotel%20photo%20stop&center=25.0789293,121.52651510000001",
+      "placeId": "ChIJ8yTxWq2uQjQRPx2hN4IMZ-Y",
+      "address": "No. 1號, Section 4, Zhongshan N Rd, Zhongshan District, Taipei City, Taiwan 10427"
+    },
+    {
+      "name": "Taipei: Free half-day transit tour (if eligible)",
+      "coord": [
+        25.0427003,
+        121.51625820000001
+      ],
+      "desc": "Tour, Cost: Free. Airport-sponsored city highlights for long layov",
+      "longDesc": "City transit exploration combines transportation learning with sightseeing.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%3A%20Free%20half-day%20transit%20tour%20%28if%20eligible%29&center=25.0427003,121.51625820000001",
+      "placeId": "ChIJn82Pg9KpQjQRkRlgGUfUaI0",
+      "address": "No. 52號, Gongyuan Rd, Zhongzheng District, Taipei City, Taiwan 100"
+    },
+    {
+      "name": "Taipei: Yongkang Street cafés & desserts",
+      "coord": [
+        25.03097,
+        121.52931
+      ],
+      "desc": "Food/Neighborhood, Cost: $$. Coffee + dessert crawl in walkable area",
+      "longDesc": "Beloved dessert street concentrates cafés and sweet shops representing dessert culture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%3A%20Yongkang%20Street%20caf%C3%A9s%20%26%20desserts&center=25.03097,121.52931",
+      "placeId": "ChIJVW7LCoKpQjQRSjckGD6x8hY",
+      "address": "No. 11號, Lane 7, Lishui St, Da’an District, Taipei City, Taiwan 106"
+    },
+    {
+      "name": "Kaohsiung: Night market food tour",
+      "coord": [
+        22.6320758,
+        120.2991547
+      ],
+      "desc": "Food, Cost: $. Ruifeng is a classic; go hungry",
+      "longDesc": "Evening market exploration in southern city showcases regional specialties.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaohsiung%3A%20Night%20market%20food%20tour&center=22.6320758,120.2991547",
+      "placeId": "ChIJxznXwIsEbjQR_eygv0Lo5tM",
+      "address": "Liuhe 2nd Rd, Sinsing District, Kaohsiung City, Taiwan 800"
+    },
+    {
+      "name": "Taipei: Temple & market pairing (Longshan + nearby eats)",
+      "coord": [
+        25.0394056,
+        121.4985841
+      ],
+      "desc": "Culture/Food, Cost: $$. Easy cultural immersion + snacks",
+      "longDesc": "Combined cultural and culinary experience exploring neighborhood together.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%3A%20Temple%20%26%20market%20pairing%20%28Longshan%20%2B%20nearby%20eats%29&center=25.0394056,121.4985841",
+      "placeId": "ChIJY4KDoKmpQjQR2RFjiDc6c2Y",
+      "address": "No. 17-2, Huaxi St, Wanhua District, Taipei City, Taiwan 108"
+    },
+    {
+      "name": "Taipei: Hot springs + food pairing (Beitou)",
+      "coord": [
+        25.139127,
+        121.52998489999999
+      ],
+      "desc": "Wellness/Food, Cost: $$$. Soak then dinner nearby",
+      "longDesc": "Multi-activity day combines geothermal bathing with dining experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%3A%20Hot%20springs%20%2B%20food%20pairing%20%28Beitou%29&center=25.139127,121.52998489999999",
+      "placeId": "ChIJgVZcFnOuQjQR2S87le5YDIE",
+      "address": "No. 10, Lane 300, Xingyi Rd, Beitou District, Taipei City, Taiwan 112"
+    },
+    {
+      "name": "Taichung: Hoshinoya Guguan onsen day",
+      "coord": [
+        24.205375999999998,
+        121.0104902
+      ],
+      "desc": "Wellness, Cost: $$$$. Ryokan-style onsen in mountains",
+      "longDesc": "Luxury hot spring day experience near Taichung with refined amenities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taichung%3A%20Hoshinoya%20Guguan%20onsen%20day&center=24.205375999999998,121.0104902",
+      "placeId": "ChIJt_KWpPblaDQRpYbVhOn4Uno",
+      "address": "424, Taiwan, Taichung City, Heping District, 東關路一段溫泉巷16號"
+    },
+    {
+      "name": "Taipei: Explore night markets as culture",
+      "coord": [
+        25.0508854,
+        121.5774891
+      ],
+      "desc": "Food/Culture, Cost: $. Night markets are central to Taiwanese life",
+      "longDesc": "Night markets showcase Taiwan's unique evening social gathering and food traditions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%3A%20Explore%20night%20markets%20as%20culture&center=25.0508854,121.5774891",
+      "placeId": "ChIJg6W0DZyrQjQR9vZdgYMRoj0",
+      "address": "Raohe St, Songshan District, Taipei City, Taiwan 105"
+    },
+    {
+      "name": "Taiwan rail: High Speed Rail city hop",
+      "coord": [
+        25.0472791,
+        121.51764299999999
+      ],
+      "desc": "Transport experience, Cost: $$. HSR makes multi-city itineraries easy",
+      "longDesc": "Modern train enables efficient multi-city exploration with comfort and geographical views.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taiwan%20rail%3A%20High%20Speed%20Rail%20city%20hop&center=25.0472791,121.51764299999999",
+      "placeId": "ChIJySeg42qpQjQR-9YL0aCZ93E",
+      "address": "100, Taiwan, Taipei City, Zhongzheng District, Beiping W Rd, 3號B1"
+    },
+    {
+      "name": "Daan Forest Park",
+      "coord": [
+        25.0296587,
+        121.5362867
+      ],
+      "desc": "Park, Cost: Free. Big city park for playground time + stroller lap",
+      "longDesc": "Taipei's largest park offers expansive green space, facilities, and recreational paths.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Daan%20Forest%20Park&center=25.0296587,121.5362867",
+      "placeId": "ChIJnzZlOoCpQjQRH-WG9egh-2E",
+      "address": "No. 1號, Section 2, Xinsheng S Rd, Da’an District, Taipei City, Taiwan 106"
+    },
+    {
+      "name": "Taipei Botanical Garden",
+      "coord": [
+        25.031851099999997,
+        121.50945929999999
+      ],
+      "desc": "Garden, Cost: Free. Easy green escape in the city",
+      "longDesc": "Serene garden with diverse collections and peaceful paths offers urban nature escape.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20Botanical%20Garden&center=25.031851099999997,121.50945929999999",
+      "placeId": "ChIJe1ASN0-pQjQRIeghXqXkkAg",
+      "address": "No. 53號, Nanhai Rd, Zhongzheng District, Taipei City, Taiwan 100"
+    },
+    {
+      "name": "Snake Alley (Huaxi Street)",
+      "coord": [
+        25.0385988,
+        121.49844259999999
+      ],
+      "desc": "Night market/Culture, Cost: $. Old Taipei street scene",
+      "longDesc": "Taipei's edgy notorious street offers unconventional cultural experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Snake%20Alley%20%28Huaxi%20Street%29&center=25.0385988,121.49844259999999",
+      "placeId": "ChIJa_nIQKmpQjQROfvCKC0Y7mo",
+      "address": "Huaxi St, Wanhua District, Taipei City, Taiwan 108"
+    },
+    {
+      "name": "Taroko: Shuilian Cave (Water Curtain)",
+      "coord": [
+        23.994588,
+        121.599146
+      ],
+      "desc": "Nature, Cost: $$. Rain jacket worthy—short misty experience",
+      "longDesc": "Scenic waterfall cave hike creates memorable Taroko Gorge experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taroko%3A%20Shuilian%20Cave%20%28Water%20Curtain%29&center=23.994588,121.599146",
+      "placeId": "ChIJ5RxLqDbcxjYRnp2uigKux6k",
+      "address": "XMPC+42C, Zhenning Buyei and Miao Autonomous County, Anshun, Guizhou, China, 561022"
+    },
+    {
+      "name": "Taroko: River tracing adventure (guided)",
+      "coord": [
+        24.1939246,
+        121.4906668
+      ],
+      "desc": "Adventure, Cost: $$$$. Canyoning-style way to experience the gorge",
+      "longDesc": "Water-based adventure combines hiking with stream exploration.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taroko%3A%20River%20tracing%20adventure%20%28guided%29&center=24.1939246,121.4906668",
+      "placeId": "ChIJ7-fCX4SCaDQRMaqw4IX92d0",
+      "address": "Xiulin Township, Hualien County, Taiwan 972"
+    },
+    {
+      "name": "Sun Moon Lake: Wenwu Temple",
+      "coord": [
+        23.869967799999998,
+        120.92755109999999
+      ],
+      "desc": "Temple/View, Cost: Free. Temple stop with lake viewpoints",
+      "longDesc": "Lakeside temple provides spiritual landmark and scenic viewing platform overlooking lake.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sun%20Moon%20Lake%3A%20Wenwu%20Temple&center=23.869967799999998,120.92755109999999",
+      "placeId": "ChIJK1j04mjWaDQR8IBhedScH_0",
+      "address": "No. 63, Zhongzheng Rd, Yuchi Township, Nantou County, Taiwan 555"
+    },
+    {
+      "name": "Sun Moon Lake: Ita Thao village stroll",
+      "coord": [
+        23.8479442,
+        120.9311185
+      ],
+      "desc": "Culture/Food, Cost: $$. Indigenous culture + lakeside snacks",
+      "longDesc": "Indigenous village offers cultural immersion and local craft and tradition exploration.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sun%20Moon%20Lake%3A%20Ita%20Thao%20village%20stroll&center=23.8479442,120.9311185",
+      "placeId": "ChIJq6qqqt7VaDQRQX9e-_t2NYg",
+      "address": "Yiyong St, Yuchi Township, Nantou County, Taiwan 555"
+    },
+    {
+      "name": "Kaohsiung: Weiwuying National Kaohsiung Center for the Arts",
+      "coord": [
+        22.623000299999998,
+        120.34244149999999
+      ],
+      "desc": "Arts/Architecture, Cost: $$. Modern performing-arts landmark",
+      "longDesc": "State-of-the-art arts center features impressive architecture and international performances.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaohsiung%3A%20Weiwuying%20National%20Kaohsiung%20Center%20for%20the%20Arts&center=22.623000299999998,120.34244149999999",
+      "placeId": "ChIJ_WQhqLQEbjQRJiKjGxZYBPw",
+      "address": "No. 1號, Sanduo 1st Rd, Fengshan District, Kaohsiung City, Taiwan 830"
+    },
+    {
+      "name": "Kaohsiung: Sizihwan sunset",
+      "coord": [
+        22.6226511,
+        120.26194369999999
+      ],
+      "desc": "Viewpoint, Cost: Free. Great sunset spot near harbor",
+      "longDesc": "Waterfront sunset location offers romantic viewpoint and scenic coastal landscape.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaohsiung%3A%20Sizihwan%20sunset&center=22.6226511,120.26194369999999",
+      "placeId": "ChIJWyJ9cyYDbjQR0P9hFznWANA",
+      "address": "804 Gushan District, Kaohsiung City, Taiwan 804"
+    },
+    {
+      "name": "Kenting: Coastal viewpoints drive",
+      "coord": [
+        21.9483307,
+        120.77975159999998
+      ],
+      "desc": "Scenic drive, Cost: $$. Rent a car/scooter for coastal stops",
+      "longDesc": "Scenic drive through Kenting showcases multiple dramatic viewpoints and landscape.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kenting%3A%20Coastal%20viewpoints%20drive&center=21.9483307,120.77975159999998",
+      "placeId": "ChIJo3zE2vqzcTQRf_VdSaifF_c",
+      "address": "Pingtung County, Taiwan"
+    },
+    {
+      "name": "Kenting: National Museum of Marine Biology & Aquarium",
+      "coord": [
+        22.0460173,
+        120.6989058
+      ],
+      "desc": "Aquarium, Cost: $$. Rainy-day win; big tanks and exhibits",
+      "longDesc": "Comprehensive marine museum showcases underwater biodiversity and conservation education.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kenting%3A%20National%20Museum%20of%20Marine%20Biology%20%26%20Aquarium&center=22.0460173,120.6989058",
+      "placeId": "ChIJL-PBocS5cTQRxKGnoxLUwj8",
+      "address": "No. 2, Houwan Rd, Checheng Township, Pingtung County, Taiwan 944"
+    },
+    {
+      "name": "Taichung: Michelin food tour (self-guided)",
+      "coord": [
+        24.141101799999998,
+        120.66061889999999
+      ],
+      "desc": "Food, Cost: $$. Sample Michelin-listed local classics",
+      "longDesc": "Self-directed tour explores Taichung's Michelin-recognized restaurants.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taichung%3A%20Michelin%20food%20tour%20%28self-guided%29&center=24.141101799999998,120.66061889999999",
+      "placeId": "ChIJS5F3U6E9aTQRutznLW2_oIg",
+      "address": "No. 21號, Cunzhong St, West District, Taichung City, Taiwan 403"
+    },
+    {
+      "name": "Tainan: Michelin street-food crawl",
+      "coord": [
+        22.997164899999998,
+        120.1996052
+      ],
+      "desc": "Food, Cost: $. Tainan’s food culture shines in Michelin list",
+      "longDesc": "Street-level exploration of Michelin-starred casual dining institutions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tainan%3A%20Michelin%20street-food%20crawl&center=22.997164899999998,120.1996052",
+      "placeId": "ChIJOQURVGF2bjQRDx8EQOisObM",
+      "address": "No. 321號, Section 2, Ximen Rd, West Central District, Tainan City, Taiwan 700"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Taipei Zoo",
+      "coord": [
+        24.9985635,
+        121.58098570000001
+      ],
+      "desc": "Zoo, Cost: $$. Go in morning; pair with Maokong for half-day",
+      "longDesc": "Family-favorite zoo with giant pandas and thousands of animals keeps children engaged all day.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20Zoo&center=24.9985635,121.58098570000001",
+      "placeId": "ChIJj4EySmCqQjQRZte0Cf0G_qo",
+      "address": "No. 30號, Section 2, Xinguang Rd, Wenshan District, Taipei City, Taiwan 116"
+    },
+    {
+      "name": "Maokong Gondola + tea hills",
+      "coord": [
+        24.9680313,
+        121.587935
+      ],
+      "desc": "Scenic ride, Cost: $$. Ride earlier to avoid crowds; bring snacks",
+      "longDesc": "Scenic cable car rides over tea hills provide exciting experience and teahouse access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Maokong%20Gondola%20%2B%20tea%20hills&center=24.9680313,121.587935",
+      "placeId": "ChIJA9P30zkBaDQR6BRIueOOjTA",
+      "address": "No. 16-8號, Lane 38, Section 3, Zhinan Rd, Wenshan District, Taipei City, Taiwan 116"
+    },
+    {
+      "name": "Taipei Children's Amusement Park",
+      "coord": [
+        25.0972351,
+        121.51495100000001
+      ],
+      "desc": "Amusement park, Cost: $$. Easy city outing; combine with nearby museums/park",
+      "longDesc": "Amusement park specially designed for children offers rides and entertainment.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20Children%27s%20Amusement%20Park&center=25.0972351,121.51495100000001",
+      "placeId": "ChIJG9qGWr-uQjQRR1iXVOTfVl8",
+      "address": "No. 55號, Section 5, Chengde Rd, Shilin District, Taipei City, Taiwan 11169"
+    },
+    {
+      "name": "Daan Forest Park playgrounds",
+      "coord": [
+        25.0325921,
+        121.53621849999999
+      ],
+      "desc": "Park/playground, Cost: Free. Stroller loops + playground time",
+      "longDesc": "Expansive park offers dedicated playgrounds and recreation for active families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Daan%20Forest%20Park%20playgrounds&center=25.0325921,121.53621849999999",
+      "placeId": "ChIJ0x3dGoCpQjQRVjeqRhqolJI",
+      "address": "No. 2, Section 2, Jianguo S Rd, Da’an District, Taipei City, Taiwan 106"
+    },
+    {
+      "name": "Riverside Parks (bike paths)",
+      "coord": [
+        25.020616699999998,
+        121.52006439999998
+      ],
+      "desc": "Park/playground, Cost: Free/$$. Rent bikes/child seat; flat paths",
+      "longDesc": "Scenic urban cycling paths provide safe family recreation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Riverside%20Parks%20%28bike%20paths%29&center=25.020616699999998,121.52006439999998",
+      "placeId": "ChIJzePrpYqpQjQRF6KE8FFI4AE",
+      "address": "No. 10號, Lane 109, Tong'an St, Zhongzheng District, Taipei City, Taiwan 100"
+    },
+    {
+      "name": "National Palace Museum (short highlights)",
+      "coord": [
+        25.1023554,
+        121.54849250000001
+      ],
+      "desc": "Museum, Cost: $$. Do 60–90 min ‘greatest hits’ visit",
+      "longDesc": "Curated tour of world-class art collection for younger visitors.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Palace%20Museum%20%28short%20highlights%29&center=25.1023554,121.54849250000001",
+      "placeId": "ChIJfUpAzTqsQjQRwQl6ORhwbV0",
+      "address": "No. 221, Sec 2, Zhi Shan Rd, Shilin District, Taipei City, Taiwan 111"
+    },
+    {
+      "name": "Chiang Kai-shek Memorial Hall square",
+      "coord": [
+        25.035501999999997,
+        121.5201832
+      ],
+      "desc": "Activity, Cost: Free. Space to run; great photos",
+      "longDesc": "Plaza provides impressive pageantry and family photo opportunities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiang%20Kai-shek%20Memorial%20Hall%20square&center=25.035501999999997,121.5201832",
+      "placeId": "ChIJTamiuZ2pQjQRsmnfkkID6UM",
+      "address": "Zhongzheng District, Taipei City, Taiwan 100"
+    },
+    {
+      "name": "Longshan Temple (quick visit)",
+      "coord": [
+        25.037310599999998,
+        121.49986539999999
+      ],
+      "desc": "Temple, Cost: Free. Go at sunset; keep visit brief with toddlers",
+      "longDesc": "Taiwan's oldest temple offers accessible cultural and spiritual experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Longshan%20Temple%20%28quick%20visit%29&center=25.037310599999998,121.49986539999999",
+      "placeId": "ChIJCd7n16ipQjQRihzEWF4z6Pg",
+      "address": "No. 211, Guangzhou St, Wanhua District, Taipei City, Taiwan 10853"
+    },
+    {
+      "name": "Ningxia Night Market (early dinner)",
+      "coord": [
+        25.0566808,
+        121.51536410000001
+      ],
+      "desc": "Night market, Cost: $. Arrive ~5pm for easier kid logistics",
+      "longDesc": "Casual evening market suitable for family dining introduction.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ningxia%20Night%20Market%20%28early%20dinner%29&center=25.0566808,121.51536410000001",
+      "placeId": "ChIJxUXPVmupQjQRtBB6oj-S5qI",
+      "address": "Ningxia Rd, Datong District, Taipei City, Taiwan 103"
+    },
+    {
+      "name": "Shilin Night Market (early + stroller plan)",
+      "coord": [
+        25.0884972,
+        121.52435039999999
+      ],
+      "desc": "Night market, Cost: $. Go early; pick a ‘base’ spot to regroup",
+      "longDesc": "Taipei's largest market manageable with planning for family groups.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Shilin%20Night%20Market%20%28early%20%2B%20stroller%20plan%29&center=25.0884972,121.52435039999999",
+      "placeId": "ChIJBa_9xLGuQjQRKfnnhr5twuc",
+      "address": "No. 101, Jihe Rd, Shilin District, Taipei City, Taiwan 111"
+    },
+    {
+      "name": "Taipei 101 Observatory",
+      "coord": [
+        25.0336752,
+        121.56488309999999
+      ],
+      "desc": "Landmark, Cost: $$$. Book a time slot; elevators are fun for kids",
+      "longDesc": "World's tallest observatory excites children with high-altitude aerial views of Taipei.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei%20101%20Observatory&center=25.0336752,121.56488309999999",
+      "placeId": "ChIJSTLZ6barQjQRMdkCqrP3CNU",
+      "address": "110, Taiwan, Taipei City, Xinyi District, Section 5, Xinyi Rd, 7號89樓"
+    },
+    {
+      "name": "Elephant Mountain viewpoint (older kids)",
+      "coord": [
+        25.027353599999998,
+        121.57076389999999
+      ],
+      "desc": "Activity, Cost: Free. Steep stairs—skip with toddlers",
+      "longDesc": "Accessible hiking offers panoramic city views for adventurous families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Elephant%20Mountain%20viewpoint%20%28older%20kids%29&center=25.027353599999998,121.57076389999999",
+      "placeId": "ChIJb3PRhjmrQjQRiLeP3czECDo",
+      "address": "No. 157, Alley 342, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110"
+    },
+    {
+      "name": "Beitou hot springs (family soak)",
+      "coord": [
+        25.1372869,
+        121.50543979999999
+      ],
+      "desc": "Hot springs, Cost: $$$. Choose family-friendly bathhouse / private room",
+      "longDesc": "Family-friendly geothermal bathing introduces unique Taiwan tradition.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Beitou%20hot%20springs%20%28family%20soak%29&center=25.1372869,121.50543979999999",
+      "placeId": "ChIJozGkH0WuQjQRI-kvmCzByvY",
+      "address": "No. 3號, Zhongshan Rd, Beitou District, Taipei City, Taiwan 112"
+    },
+    {
+      "name": "Jiufen day trip",
+      "coord": [
+        25.108732000000003,
+        121.84519009999998
+      ],
+      "desc": "Activity, Cost: $$. Crowded steps; use carrier vs stroller",
+      "longDesc": "Mountain village day experience showcases traditional Taiwan architecture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jiufen%20day%20trip&center=25.108732000000003,121.84519009999998",
+      "placeId": "ChIJIWRk51lFXTQRCHiyQEX8OZg",
+      "address": "224, Taiwan, New Taipei City, Ruifang District, Jishan St, 26號樓梯下「九窩膠囊旅店」"
+    },
+    {
+      "name": "Shifen Waterfall + lanterns",
+      "coord": [
+        25.0426687,
+        121.7766757
+      ],
+      "desc": "Activity, Cost: $$. Great for older kids; watch trains & waterfall",
+      "longDesc": "Scenic waterfall and sky lantern release create magical family experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Shifen%20Waterfall%20%2B%20lanterns&center=25.0426687,121.7766757",
+      "placeId": "ChIJ_____y9RXTQRvnNyOkDE3vY",
+      "address": "No. 81號, Shifen St, Pingxi District, New Taipei City, Taiwan 226"
+    },
+    {
+      "name": "Yehliu Geopark",
+      "coord": [
+        25.206397199999998,
+        121.6904658
+      ],
+      "desc": "Nature, Cost: $$. Windy coastal walk; hats + layers",
+      "longDesc": "Coastal rock formations and boardwalks create geological education.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yehliu%20Geopark&center=25.206397199999998,121.6904658",
+      "placeId": "ChIJ1ZrmCnZMXTQRV2jCWjAX0eQ",
+      "address": "20744, Taiwan, New Taipei City, Wanli District, 港東路167-1號"
+    },
+    {
+      "name": "Sun Moon Lake boat + lakefront stroll",
+      "coord": [
+        23.8594351,
+        120.91993579999999
+      ],
+      "desc": "Nature, Cost: $$. Break into short segments (boat + snacks)",
+      "longDesc": "Leisurely lake boat combined with walking creates relaxed activity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sun%20Moon%20Lake%20boat%20%2B%20lakefront%20stroll&center=23.8594351,120.91993579999999",
+      "placeId": "ChIJf8b9PfnXaDQRp4QJEnF09eA",
+      "address": "555, 魚池鄉南投縣 Taiwan 555"
+    },
+    {
+      "name": "Sun Moon Lake easy cycling (partial)",
+      "coord": [
+        23.8662042,
+        120.9109611
+      ],
+      "desc": "Nature, Cost: $$. Rent bikes; do a short scenic section",
+      "longDesc": "Manageable cycling segments around scenic lake for various abilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sun%20Moon%20Lake%20easy%20cycling%20%28partial%29&center=23.8662042,120.9109611",
+      "placeId": "ChIJCayW2BHWaDQR3wdgnOUbTG8",
+      "address": "555, Taiwan, Nantou County, Yuchi Township, Zhongshan Rd, 163號B1"
+    },
+    {
+      "name": "Taroko Gorge scenic stops",
+      "coord": [
+        24.1583106,
+        121.6212098
+      ],
+      "desc": "Nature, Cost: $$. Use short lookout stops with toddlers",
+      "longDesc": "Drive-through gorge with accessible viewpoints creates photo opportunities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taroko%20Gorge%20scenic%20stops&center=24.1583106,121.6212098",
+      "placeId": "ChIJ12pxgoGCaDQRAFcnWlGWiXQ",
+      "address": "972, Taiwan, Hualien County, Xiulin Township, 富世291號"
+    },
+    {
+      "name": "Taroko: Eternal Spring Shrine",
+      "coord": [
+        24.160479799999997,
+        121.6036866
+      ],
+      "desc": "Activity, Cost: Free. Quick photo stop; easy access",
+      "longDesc": "Historic shrine within gorge provides spiritual focus and waterfall access.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taroko%3A%20Eternal%20Spring%20Shrine&center=24.160479799999997,121.6036866",
+      "placeId": "ChIJ6Z7vpfOCaDQRQ94BpIjKDCI",
+      "address": "972, Taiwan, Hualien County, Xiulin Township, 283-3號"
+    },
+    {
+      "name": "Taichung National Theatre (architecture)",
+      "coord": [
+        24.1626492,
+        120.64030280000001
+      ],
+      "desc": "Arts/architecture, Cost: $$. Look for tours; plenty of open spaces",
+      "longDesc": "Modern theater's impressive building teaches children about contemporary design.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taichung%20National%20Theatre%20%28architecture%29&center=24.1626492,120.64030280000001",
+      "placeId": "ChIJcaKjTOw9aTQR4mAeJzejtdg",
+      "address": "No. 101號, Section 2, Huilai Rd, Xitun District, Taichung City, Taiwan 407025"
+    },
+    {
+      "name": "Gaomei Wetlands boardwalk",
+      "coord": [
+        24.3125568,
+        120.5473767
+      ],
+      "desc": "Nature, Cost: Free. Sunset stroll; bug spray",
+      "longDesc": "Sunset-viewing boardwalk teaches environmental and natural observation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gaomei%20Wetlands%20boardwalk&center=24.3125568,120.5473767",
+      "placeId": "ChIJQ2FsFjwTaTQRKb4VYUrXd4Y",
+      "address": "Meidi St, Qingshui District, Taichung City, Taiwan 436"
+    },
+    {
+      "name": "Alishan forest walks (choose easiest trails)",
+      "coord": [
+        23.5185319,
+        120.81631730000001
+      ],
+      "desc": "Nature, Cost: $$. Cool temps; layer up; stroller not ideal",
+      "longDesc": "Gentle hiking through ancient forests appropriate for younger hikers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alishan%20forest%20walks%20%28choose%20easiest%20trails%29&center=23.5185319,120.81631730000001",
+      "placeId": "ChIJq6b9Ad_fbjQREQYm74bxaQ4",
+      "address": "605, Taiwan, Chiayi County, Alishan Township, 605"
+    },
+    {
+      "name": "Kaohsiung Pier-2 Art Center",
+      "coord": [
+        22.619980299999998,
+        120.2815287
+      ],
+      "desc": "Art district, Cost: Free/$$. Big open spaces + installations for kids",
+      "longDesc": "Waterfront art park with sculptures appeals to creative family members.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaohsiung%20Pier-2%20Art%20Center&center=22.619980299999998,120.2815287",
+      "placeId": "ChIJW8ThIHYEbjQR8k12HL3R1uY",
+      "address": "No. 1號, Dayong Rd, Yancheng District, Kaohsiung City, Taiwan 803"
+    },
+    {
+      "name": "Kaohsiung: Cijin Island",
+      "coord": [
+        22.561674,
+        120.30699799999998
+      ],
+      "desc": "Island/beach, Cost: $$. Ferry + beach + seafood; easy family day",
+      "longDesc": "Island beach offers swimming and casual seafood dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaohsiung%3A%20Cijin%20Island&center=22.561674,120.30699799999998",
+      "placeId": "ChIJkcVbmvoCbjQR2RrFBAxVvv0",
+      "address": "Qijin District, Kaohsiung City, Taiwan 805"
+    },
+    {
+      "name": "Kenting Aquarium",
+      "coord": [
+        22.0460173,
+        120.6989058
+      ],
+      "desc": "Aquarium, Cost: $$. Great rainy-day option; plan AC breaks",
+      "longDesc": "Marine museum showcases underwater life and conservation education.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kenting%20Aquarium&center=22.0460173,120.6989058",
+      "placeId": "ChIJL-PBocS5cTQRxKGnoxLUwj8",
+      "address": "No. 2, Houwan Rd, Checheng Township, Pingtung County, Taiwan 944"
+    },
+    {
+      "name": "Fo Guang Shan Buddha Museum",
+      "coord": [
+        22.7549492,
+        120.44738699999999
+      ],
+      "desc": "Museum, Cost: $$. Big-scale site; lots of walking—bring stroller",
+      "longDesc": "Buddhist museum with peaceful grounds offers cultural experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fo%20Guang%20Shan%20Buddha%20Museum&center=22.7549492,120.44738699999999",
+      "placeId": "ChIJK3DeNq8WbjQRPFlnj_pTDKc",
+      "address": "No. 1號, Tongling Rd, Dashu District, Kaohsiung City, Taiwan 84049"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Ningxia Night Market",
+      "coord": [
+        25.0566808,
+        121.51536410000001
+      ],
+      "desc": "Night market, Snacks + easy stroller-friendly loop",
+      "longDesc": "Casual market offers manageable scale and family-friendly food variety.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ningxia%20Night%20Market&center=25.0566808,121.51536410000001",
+      "placeId": "ChIJxUXPVmupQjQRtBB6oj-S5qI",
+      "address": "Ningxia Rd, Datong District, Taipei City, Taiwan 103"
+    },
+    {
+      "name": "Raohe Night Market",
+      "coord": [
+        25.0508854,
+        121.5774891
+      ],
+      "desc": "Night market, Street-food crawl near Rainbow Bridge",
+      "longDesc": "Historic market showcases specialty foods like peppered pork rolls and grilled squid.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Raohe%20Night%20Market&center=25.0508854,121.5774891",
+      "placeId": "ChIJg6W0DZyrQjQR9vZdgYMRoj0",
+      "address": "Raohe St, Songshan District, Taipei City, Taiwan 105"
+    },
+    {
+      "name": "Shilin Night Market",
+      "coord": [
+        25.0884972,
+        121.52435039999999
+      ],
+      "desc": "Night market, Iconic, huge; go early for families",
+      "longDesc": "Taipei's largest market with hundreds of stalls creates quintessential Taiwan evening.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Shilin%20Night%20Market&center=25.0884972,121.52435039999999",
+      "placeId": "ChIJBa_9xLGuQjQRKfnnhr5twuc",
+      "address": "No. 101, Jihe Rd, Shilin District, Taipei City, Taiwan 111"
+    },
+    {
+      "name": "Shida Night Market",
+      "coord": [
+        25.0245042,
+        121.52931229999999
+      ],
+      "desc": "Night market, Mix of snacks + shopping; lively",
+      "longDesc": "Popular student-area market features vibrant atmosphere and casual food scene.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Shida%20Night%20Market&center=25.0245042,121.52931229999999",
+      "placeId": "ChIJYb4lRIWpQjQREaRSQFRYYZc",
+      "address": "Lane 39, Shida Rd, Da’an District, Taipei City, Taiwan 106"
+    },
+    {
+      "name": "Tonghua (Linjiang) Night Market",
+      "coord": [
+        25.0301412,
+        121.5542672
+      ],
+      "desc": "Night market, Local favorite for quick bites",
+      "longDesc": "Taipei neighborhood night market offers casual dining and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tonghua%20%28Linjiang%29%20Night%20Market&center=25.0301412,121.5542672",
+      "placeId": "ChIJB4taPsurQjQRLl26j8d9Xbo",
+      "address": "Linjiang St, Da’an District, Taipei City, Taiwan 106"
+    },
+    {
+      "name": "Nanjichang Night Market",
+      "coord": [
+        25.0291811,
+        121.50592440000001
+      ],
+      "desc": "Night market, Local stalls; less touristy",
+      "longDesc": "Accessible neighborhood market provides authentic food culture without crowds.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nanjichang%20Night%20Market&center=25.0291811,121.50592440000001",
+      "placeId": "ChIJv92qsLGpQjQRPYW4ymlvqS0",
+      "address": "Lane 307, Section 2, Zhonghua Rd, Zhongzheng District, Taipei City, Taiwan 100"
+    },
+    {
+      "name": "Dihua Street (Dadaocheng)",
+      "coord": [
+        25.0581215,
+        121.50981099999998
+      ],
+      "desc": "Old street/market, Tea, dried goods, design shops",
+      "longDesc": "Historic street market specializes in traditional dried goods and food items.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dihua%20Street%20%28Dadaocheng%29&center=25.0581215,121.50981099999998",
+      "placeId": "ChIJZXKGOBSpQjQRHko-EIytJMU",
+      "address": "No. 146號, Section 1, Dihua St, Datong District, Taipei City, Taiwan 103"
+    },
+    {
+      "name": "Yongkang Street food area",
+      "coord": [
+        25.032038,
+        121.52938099999999
+      ],
+      "desc": "Food street, Coffee, desserts, casual dining",
+      "longDesc": "Beloved dessert street concentrates cafés and sweet shops representing culture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yongkang%20Street%20food%20area&center=25.032038,121.52938099999999",
+      "placeId": "ChIJP1roTIKpQjQRvFzgqFnpjzk",
+      "address": "No. 5號, Lane 10, Yongkang St, Da’an District, Taipei City, Taiwan 106"
+    },
+    {
+      "name": "Addiction Aquatic Development",
+      "coord": [
+        25.066707899999997,
+        121.5370059
+      ],
+      "desc": "Seafood hall, Seafood market + sushi/standing bars",
+      "longDesc": "Seafood market and restaurant combines wholesale shopping with fresh dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Addiction%20Aquatic%20Development&center=25.066707899999997,121.5370059",
+      "placeId": "ChIJ_3AKcP2rQjQRG-FBsLE_NWY",
+      "address": "No. 18號, Alley 2, Lane 410, Minzu E Rd, Zhongshan District, Taipei City, Taiwan 10491"
+    },
+    {
+      "name": "Ximending street eats",
+      "coord": [
+        25.0428337,
+        121.5077445
+      ],
+      "desc": "Neighborhood food, Fun neon district; easy evening wander",
+      "longDesc": "Trendy youth shopping district features lively street food casual dining scene.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ximending%20street%20eats&center=25.0428337,121.5077445",
+      "placeId": "ChIJB0DPcAmpQjQRwNRSPVgGqpU",
+      "address": "No. 127, Hanzhong St, Wanhua District, Taipei City, Taiwan 108"
+    },
+    {
+      "name": "Fengjia Night Market",
+      "coord": [
+        24.1761706,
+        120.6456267
+      ],
+      "desc": "Night market, One of Taiwan’s biggest night markets",
+      "longDesc": "World's largest night market in Taichung offers overwhelming variety and authenticity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fengjia%20Night%20Market&center=24.1761706,120.6456267",
+      "placeId": "ChIJK4W2WSIWaTQROebP2ugIGg8",
+      "address": "Wenhua Rd, Xitun District, Taichung City, Taiwan 407"
+    },
+    {
+      "name": "Taichung Second Market",
+      "coord": [
+        24.1424184,
+        120.67875699999999
+      ],
+      "desc": "Market, Classic market eats; morning best",
+      "longDesc": "Traditional daytime market showcases local produce and authentic shopping culture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taichung%20Second%20Market&center=24.1424184,120.67875699999999",
+      "placeId": "ChIJFcuTyhI9aTQRVG2bVY9qD70",
+      "address": "No. 87號, Section 2, Sanmin Rd, Central District, Taichung City, Taiwan 400"
+    },
+    {
+      "name": "Garden Night Market",
+      "coord": [
+        23.0112387,
+        120.20022709999998
+      ],
+      "desc": "Night market, Tainan street-food powerhouse",
+      "longDesc": "Casual market offers diverse food options and relaxed family dining atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Garden%20Night%20Market&center=23.0112387,120.20022709999998",
+      "placeId": "ChIJx7B27Vl2bjQRXNQQFasKOKI",
+      "address": "No. 533號, Section 3, Hai'an Rd, North District, Tainan City, Taiwan 704"
+    },
+    {
+      "name": "Anping Old Street",
+      "coord": [
+        23.0007174,
+        120.1616449
+      ],
+      "desc": "Old street/food, Snack stalls + historic Anping",
+      "longDesc": "Historic colonial-era street features specialty food shops and preserved architecture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Anping%20Old%20Street&center=23.0007174,120.1616449",
+      "placeId": "ChIJ_____wN2bjQRIOio8uGV_Og",
+      "address": "Yanping St, Anping District, Tainan City, Taiwan 708"
+    },
+    {
+      "name": "Ruifeng Night Market",
+      "coord": [
+        22.6660714,
+        120.29962780000001
+      ],
+      "desc": "Night market, Big, energetic; ideal for food grazing",
+      "longDesc": "Casual local market offers authentic neighborhood atmosphere and food specialties.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruifeng%20Night%20Market&center=22.6660714,120.29962780000001",
+      "placeId": "ChIJG12iPwcFbjQR8vPAeEnvkX8",
+      "address": "813, Taiwan, Kaohsiung City, Zuoying District, Yucheng Rd, 南屏路"
+    },
+    {
+      "name": "Liuhe Tourist Night Market",
+      "coord": [
+        22.6320758,
+        120.2991547
+      ],
+      "desc": "Night market, Classic night market for visitors",
+      "longDesc": "Tourist-friendly night market in Kaohsiung showcases regional food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Liuhe%20Tourist%20Night%20Market&center=22.6320758,120.2991547",
+      "placeId": "ChIJxznXwIsEbjQR_eygv0Lo5tM",
+      "address": "Liuhe 2nd Rd, Sinsing District, Kaohsiung City, Taiwan 800"
+    },
+    {
+      "name": "Jiufen Old Street",
+      "coord": [
+        25.109807699999998,
+        121.8452102
+      ],
+      "desc": "Old street/food, Day-trip classic; tea houses + snacks",
+      "longDesc": "Atmospheric mountain village with glowing lanterns inspired Spirited Away sensory experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jiufen%20Old%20Street&center=25.109807699999998,121.8452102",
+      "placeId": "ChIJcZT7-hdFXTQR0qekplqCFV8",
+      "address": "Jishan St, Ruifang District, New Taipei City, Taiwan 224"
+    }
+  ],
+  "cityCenters": {
+    "Taipei": [
+      25.05,
+      121.5775,
+      1.5
+    ],
+    "Taichung": [
+      24.1986,
+      121.0,
+      1.5
+    ],
+    "Kaohsiung": [
+      22.6273,
+      120.3014,
+      2.5
+    ],
+    "Chiayi": [
+      23.4697,
+      120.5906,
+      2.0
+    ],
+    "New Taipei": [
+      24.8655,
+      121.5508,
+      1.5
+    ],
+    "Hsinchu": [
+      24.8048,
+      120.9685,
+      2.0
+    ],
+    "Sun Moon Lake": [
+      23.8488,
+      120.9169,
+      2.0
+    ],
+    "Taroko Gorge": [
+      24.1586,
+      121.4948,
+      1.5
+    ],
+    "Hualien": [
+      24.03,
+      121.61,
+      1.5
+    ],
+    "Kenting": [
+      21.9474,
+      120.7629,
+      2.0
+    ],
+    "Tainan": [
+      22.9998,
+      120.2269,
+      2.5
+    ],
+    "Yilan": [
+      24.8762,
+      121.835,
+      2.0
+    ],
+    "Nantou": [
+      23.7477,
+      120.6928,
+      2.0
+    ],
+    "Kaohsiung/Tainan": [
+      22.81,
+      120.26,
+      2.5
+    ],
+    "Keelung": [
+      25.1276,
+      121.7392,
+      2.0
+    ],
+    "Chiayi/Alishan": [
+      23.5096,
+      120.8066,
+      2.0
+    ],
+    "Pingtung": [
+      21.9474,
+      120.7629,
+      2.0
+    ],
+    "New Taipei/Chiayi": [
+      24.5,
+      121.0,
+      2.5
+    ],
+    "North/Central Taiwan": [
+      24.5,
+      121.0,
+      2.0
+    ],
+    "Island-wide": [
+      23.7,
+      121.0,
+      2.0
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "name": "Greatest Hits (7 days)",
+      "color": "#2563EB",
+      "days": [
+        {
+          "day": 1,
+          "title": "Taipei arrival & Taipei 101",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Mandarin Oriental, Taipei",
+              "coord": [
+                25.055741599999998,
+                121.5481485
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taipei 101 & Observatory",
+              "coord": [
+                25.033975,
+                121.564519
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Palais",
+              "coord": [
+                25.049148499999998,
+                121.5168698
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Temples & teahouses",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Eslite Bookstore",
+              "coord": [
+                25.041,
+                121.56
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mengjia Longshan Temple",
+              "coord": [
+                25.037310599999998,
+                121.49986539999999
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Shilin Night Market",
+              "coord": [
+                25.0884972,
+                121.52435039999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Maokong Gondola + Tea Houses",
+              "coord": [
+                25.065,
+                121.581
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Jiufen & mountain village",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Jiufen Old Street",
+              "coord": [
+                25.109807699999998,
+                121.8452102
+              ]
+            },
+            {
+              "type": "tea",
+              "name": "Tea tasting",
+              "coord": [
+                25.107,
+                121.856
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Hostels in Jiufen area",
+              "coord": [
+                25.107,
+                121.856
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Taroko Gorge",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Silks Place Taroko",
+              "coord": [
+                24.1813654,
+                121.49406269999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taroko Gorge",
+              "coord": [
+                24.1939246,
+                121.4906668
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Taroko lodge restaurant",
+              "coord": [
+                24.15,
+                121.62
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Sun Moon Lake",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Lalu Sun Moon Lake",
+              "coord": [
+                23.862976,
+                120.90860399999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sun Moon Lake cycling loop",
+              "coord": [
+                23.85,
+                120.92
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Lakeside dining",
+              "coord": [
+                23.85,
+                120.92
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Tea plantations & nature",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Tea plantation visit",
+              "coord": [
+                23.87,
+                120.91
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Fleur de Chine Hotel",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Return to Taipei",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                25.055669,
+                121.54824
+              ]
+            },
+            {
+              "type": "shopping",
+              "name": "Yongkang Street cafés",
+              "coord": [
+                25.029,
+                121.553
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Final night market",
+              "coord": [
+                25.09071,
+                121.52259
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "name": "Hidden Gems (7 days)",
+      "color": "#059669",
+      "days": [
+        {
+          "day": 1,
+          "title": "Taipei tea & culture",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Humble House Taipei",
+              "coord": [
+                25.0386933,
+                121.567342
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beitou Hot Spring Area",
+              "coord": [
+                25.13,
+                121.48
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Artisan villages",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Sanyi Wood Carving village",
+              "coord": [
+                24.372,
+                120.642
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "OKU Hotel",
+              "coord": [
+                24.145707299999998,
+                120.67711050000001
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Cingjing highlands",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hemma",
+              "coord": [
+                24.0660781,
+                121.16865729999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mountain meadows & trails",
+              "coord": [
+                24.0253,
+                121.1318
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Alishan sunrise & railway",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Indigo Alishan",
+              "coord": [
+                23.4436262,
+                120.67247780000001
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Alishan Forest Railway",
+              "coord": [
+                23.508,
+                120.802
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Alishan sunrise",
+              "coord": [
+                23.508,
+                120.802
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Tainan temples & history",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Provintia Hotel Tainan",
+              "coord": [
+                22.9990529,
+                120.20353599999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tainan Confucius Temple",
+              "coord": [
+                22.9905296,
+                120.2040401
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tainan: Temple-hopping day",
+              "coord": [
+                22.9966464,
+                120.2015605
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Kaohsiung art & design",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "H2O HOTEL",
+              "coord": [
+                22.6628018,
+                120.3022
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kaohsiung: Pier-2 Art Center",
+              "coord": [
+                22.619980299999998,
+                120.2815287
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kaohsiung: Dome of Light",
+              "coord": [
+                22.627,
+                120.301
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Kenting beach & departure",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Kenting National Park",
+              "coord": [
+                21.9483307,
+                120.77975159999998
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Beach café",
+              "coord": [
+                21.95,
+                120.79
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Family Comfort (10 days)",
+      "color": "#D97706",
+      "days": [
+        {
+          "day": 1,
+          "title": "Taipei arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Grand Hyatt Taipei",
+              "coord": [
+                25.0351708,
+                121.56286689999999
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Din Tai Fung",
+              "coord": [
+                25.032,
+                121.54
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Taipei sightseeing (easy pace)",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                25.035302,
+                121.56262
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taipei 101 Observatory",
+              "coord": [
+                25.0336752,
+                121.56488309999999
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time at hotel",
+              "coord": [
+                25.035302,
+                121.56262
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Shilin Night Market",
+              "coord": [
+                25.0884972,
+                121.52435039999999
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Zoo & parks",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                25.035302,
+                121.56262
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taipei Zoo",
+              "coord": [
+                24.9985635,
+                121.58098570000001
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest at hotel",
+              "coord": [
+                25.035302,
+                121.56262
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Casual family restaurant",
+              "coord": [
+                25.035302,
+                121.56262
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Hot springs day",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Beitou Hot Spring Area",
+              "coord": [
+                25.13,
+                121.48
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Lakeside café",
+              "coord": [
+                25.13,
+                121.48
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Volando Urai Spring Spa",
+              "coord": [
+                24.87001,
+                121.54855
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Rest and relax",
+          "items": [
+            {
+              "type": "nap",
+              "name": "Morning spa at hotel",
+              "coord": [
+                24.87001,
+                121.54855
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hot spring restaurant",
+              "coord": [
+                24.87001,
+                121.54855
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Afternoon soak",
+              "coord": [
+                24.87001,
+                121.54855
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Taroko Gorge",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Silks Place Taroko",
+              "coord": [
+                24.1813654,
+                121.49406269999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Easy Taroko trails",
+              "coord": [
+                24.15,
+                121.62
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest at gorge lodge",
+              "coord": [
+                24.15,
+                121.62
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Hualien coastal views",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Le Meridien Hualien",
+              "coord": [
+                23.979225,
+                121.609153
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Qingshui Cliffs",
+              "coord": [
+                24.07,
+                121.68
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest at hotel",
+              "coord": [
+                23.979225,
+                121.609153
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Sun Moon Lake (easy)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Lalu Sun Moon Lake",
+              "coord": [
+                23.862976,
+                120.90860399999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Short lake walk",
+              "coord": [
+                23.85,
+                120.92
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Lakeside rest",
+              "coord": [
+                23.85,
+                120.92
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Lake cycling & boating",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                23.8512,
+                120.9165
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Easy Sun Moon Lake cycling",
+              "coord": [
+                23.85,
+                120.92
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Lakeside restaurant",
+              "coord": [
+                23.85,
+                120.92
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Hotel rest",
+              "coord": [
+                23.8512,
+                120.9165
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Return to Taipei",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Mandarin Oriental, Taipei",
+              "coord": [
+                25.055741599999998,
+                121.5481485
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Final meal together",
+              "coord": [
+                25.055669,
+                121.54824
+              ]
+            },
+            {
+              "type": "shopping",
+              "name": "Souvenir shopping",
+              "coord": [
+                25.04,
+                121.55
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "d": {
+      "name": "Foodie Deep-Dive (10 days)",
+      "color": "#DC2626",
+      "days": [
+        {
+          "day": 1,
+          "title": "Taipei night market immersion",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Mandarin Oriental, Taipei",
+              "coord": [
+                25.055741599999998,
+                121.5481485
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Shilin Night Market",
+              "coord": [
+                25.0884972,
+                121.52435039999999
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Fine dining & street food",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Din Tai Fung",
+              "coord": [
+                25.032,
+                121.54
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Michelin noodles",
+              "coord": [
+                25.035,
+                121.553
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Palais",
+              "coord": [
+                25.049148499999998,
+                121.5168698
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Taipei teahouses & cafés",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Maokong teahouse",
+              "coord": [
+                25.065,
+                121.581
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Yongkang dessert street",
+              "coord": [
+                25.029,
+                121.553
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Casual Taipei restaurant",
+              "coord": [
+                25.04,
+                121.55
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Taichung Michelin tour",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "OKU Hotel",
+              "coord": [
+                24.145707299999998,
+                120.67711050000001
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "JL STUDIO",
+              "coord": [
+                24.1504844,
+                120.6285429
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Taichung dining",
+              "coord": [
+                24.15,
+                120.63
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Alishan tea & mountain food",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Indigo Alishan",
+              "coord": [
+                23.4436262,
+                120.67247780000001
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tea plantation visit",
+              "coord": [
+                23.45,
+                120.67
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Mountain lodge cuisine",
+              "coord": [
+                23.45,
+                120.67
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Tainan street food crawl",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Provintia Hotel Tainan",
+              "coord": [
+                22.9990529,
+                120.20353599999999
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Local Tainan breakfast",
+              "coord": [
+                22.99,
+                120.19
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Tainan Michelin street food",
+              "coord": [
+                22.99,
+                120.19
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Tainan specialties",
+              "coord": [
+                22.99,
+                120.19
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Kaohsiung seafood tour",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "H2O HOTEL",
+              "coord": [
+                22.6628018,
+                120.3022
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Harbor seafood",
+              "coord": [
+                22.62,
+                120.3
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Addiction Aquatic restaurant",
+              "coord": [
+                22.62,
+                120.3
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Kaohsiung dining",
+              "coord": [
+                22.62,
+                120.3
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Kenting beach & seafood",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Kenting National Park",
+              "coord": [
+                21.9483307,
+                120.77975159999998
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beachside seafood",
+              "coord": [
+                21.95,
+                120.79
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Cijin Island seafood",
+              "coord": [
+                22.54,
+                120.29
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Return to Taipei fine dining",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Mandarin Oriental, Taipei",
+              "coord": [
+                25.055741599999998,
+                121.5481485
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                25.055669,
+                121.54824
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Raw or Taïrroir",
+              "coord": [
+                25.03,
+                121.54
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Palais or Mume",
+              "coord": [
+                25.04,
+                121.55
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Final market & departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Raohe Night Market",
+              "coord": [
+                25.0508854,
+                121.5774891
+              ]
+            },
+            {
+              "type": "shopping",
+              "name": "Hongtong Bakery (pineapple cakes)",
+              "coord": [
+                25.06,
+                121.51
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "e": {
+      "name": "Grand Tour (14 days)",
+      "color": "#7C3AED",
+      "days": [
+        {
+          "day": 1,
+          "title": "Taipei arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Mandarin Oriental, Taipei",
+              "coord": [
+                25.055741599999998,
+                121.5481485
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taipei 101",
+              "coord": [
+                25.033975,
+                121.564519
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Taipei temples & markets",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Mengjia Longshan Temple",
+              "coord": [
+                25.037310599999998,
+                121.49986539999999
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Shilin Night Market",
+              "coord": [
+                25.0884972,
+                121.52435039999999
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Jiufen & Beitou",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Jiufen Old Street",
+              "coord": [
+                25.109807699999998,
+                121.8452102
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beitou Hot Spring Area",
+              "coord": [
+                25.13,
+                121.48
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Sanyi & Taichung",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Sanyi Wood Carving",
+              "coord": [
+                24.372,
+                120.642
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "OKU Hotel",
+              "coord": [
+                24.145707299999998,
+                120.67711050000001
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "JL STUDIO",
+              "coord": [
+                24.1504844,
+                120.6285429
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Cingjing highlands",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hemma",
+              "coord": [
+                24.0660781,
+                121.16865729999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mountain meadows",
+              "coord": [
+                24.0253,
+                121.1318
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Sun Moon Lake",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Lalu Sun Moon Lake",
+              "coord": [
+                23.862976,
+                120.90860399999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Lake cycling & temples",
+              "coord": [
+                23.85,
+                120.92
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Alishan sunrise & railway",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Indigo Alishan",
+              "coord": [
+                23.4436262,
+                120.67247780000001
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Alishan sunrise & trains",
+              "coord": [
+                23.508,
+                120.802
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Tainan history",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Provintia Hotel Tainan",
+              "coord": [
+                22.9990529,
+                120.20353599999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Temple-hopping & old streets",
+              "coord": [
+                22.99,
+                120.19
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Kaohsiung art & culture",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "H2O HOTEL",
+              "coord": [
+                22.6628018,
+                120.3022
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Pier-2 Art & Dome of Light",
+              "coord": [
+                22.62,
+                120.3
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Kenting beach",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Kenting National Park",
+              "coord": [
+                21.9483307,
+                120.77975159999998
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Beach resort",
+              "coord": [
+                21.95,
+                120.79
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "East coast: Hualien",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Le Meridien Hualien",
+              "coord": [
+                23.979225,
+                121.609153
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Qingshui Cliffs",
+              "coord": [
+                24.07,
+                121.68
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Taroko Gorge",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Silks Place Taroko",
+              "coord": [
+                24.1813654,
+                121.49406269999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gorge hikes & Eternal Spring",
+              "coord": [
+                24.15,
+                121.62
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Return to Taipei",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Mandarin Oriental, Taipei",
+              "coord": [
+                25.055741599999998,
+                121.5481485
+              ]
+            },
+            {
+              "type": "shopping",
+              "name": "Taipei shopping & cafés",
+              "coord": [
+                25.04,
+                121.55
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Final explorations & departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                25.055669,
+                121.54824
+              ]
+            },
+            {
+              "type": "shopping",
+              "name": "Final souvenirs & markets",
+              "coord": [
+                25.03,
+                121.52
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

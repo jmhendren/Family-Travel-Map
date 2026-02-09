@@ -1,0 +1,4890 @@
+{
+  "key": "belgium",
+  "name": "Belgium Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇧🇪",
+  "defaultCenter": [
+    50.5,
+    4.5
+  ],
+  "defaultZoom": 7,
+  "hotels": [
+    {
+      "name": "Hotel Amigo Brussels",
+      "coord": [
+        50.84614140000001,
+        4.3513953999999995
+      ],
+      "desc": "Luxury 5-star palace hotel in Brussels Grand Place",
+      "longDesc": "Iconic 5-star luxury overlooking Grand Place, featuring art deco elegance, impeccable service, and a Michelin restaurant for unforgettable Brussels dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Amigo%20Brussels&center=50.84614140000001,4.3513953999999995",
+      "placeId": "ChIJMRLWzXjEw0cRMdSqrABkTwY",
+      "address": "Rue de l'Amigo 1, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Steigenberger Wiltcher's Brussels",
+      "coord": [
+        50.8324587,
+        4.357470900000001
+      ],
+      "desc": "Grand luxury hotel in Brussels Avenue Louise district",
+      "longDesc": "Palatial Brussels landmark combining Belle Époque grandeur with contemporary comfort, ideal for families seeking refined European hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Steigenberger%20Wiltcher%27s%20Brussels&center=50.8324587,4.357470900000001",
+      "placeId": "ChIJdwVZjInEw0cR6KTNXjQDNjg",
+      "address": "Av. Louise 71, 1050 Bruxelles, Belgium"
+    },
+    {
+      "name": "Relais Bourgondisch Cruyce Bruges",
+      "coord": [
+        51.2074335,
+        3.2267932999999998
+      ],
+      "desc": "Historic luxury hotel in medieval Bruges town center",
+      "longDesc": "Charming 4-star hotel in Bruges heart, blending 15th-century architecture with modern luxury, steps from canal-side dining and medieval squares.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Relais%20Bourgondisch%20Cruyce%20Bruges&center=51.2074335,3.2267932999999998",
+      "placeId": "ChIJI1okacVQw0cRivEzd9G1Vn8",
+      "address": "Wollestraat 41/47, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "De Orangerie Bruges",
+      "coord": [
+        51.207065199999995,
+        3.2262850999999997
+      ],
+      "desc": "Romantic boutique hotel in historic Bruges center",
+      "longDesc": "Intimate boutique hotel capturing medieval Bruges romance, with character-filled rooms in a restored historic mansion near picturesque canals.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20Orangerie%20Bruges&center=51.207065199999995,3.2262850999999997",
+      "placeId": "ChIJH-SCQMVQw0cRZYHQ4IpZh4s",
+      "address": "Kartuizerinnenstraat 10, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Hotel Dukes' Palace Bruges",
+      "coord": [
+        51.20854800000001,
+        3.2201049999999998
+      ],
+      "desc": "Luxury 5-star palace hotel in historic Bruges center",
+      "longDesc": "Sumptuous palace hotel blending period elegance with impeccable service, perfectly positioned for exploring medieval Bruges on foot.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Dukes%27%20Palace%20Bruges&center=51.20854800000001,3.2201049999999998",
+      "placeId": "ChIJvT_6C9pQw0cRdJJ6CewAwfw",
+      "address": "Prinsenhof 8, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Botanic Sanctuary Antwerp",
+      "coord": [
+        51.213795000000005,
+        4.4071356999999995
+      ],
+      "desc": "Modern luxury spa hotel in Antwerp botanical district",
+      "longDesc": "Contemporary spa retreat near botanical gardens, offering wellness and luxury for families seeking relaxation amid urban sophistication.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Botanic%20Sanctuary%20Antwerp&center=51.213795000000005,4.4071356999999995",
+      "placeId": "ChIJpxlVwPr2w0cR3N_QeJZ_g_8",
+      "address": "Leopoldstraat 26, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Hotel Julien Antwerp",
+      "coord": [
+        51.2202938,
+        4.4037733999999995
+      ],
+      "desc": "Boutique luxury hotel in Antwerp diamond district",
+      "longDesc": "Intimate boutique combining historic charm with modern luxury in the glittering diamond district, perfect for design-conscious travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Julien%20Antwerp&center=51.2202938,4.4037733999999995",
+      "placeId": "ChIJBTDchff2w0cRzrqqmrsskFo",
+      "address": "Korte Nieuwstraat 24, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Hotel Pilar Antwerp",
+      "coord": [
+        51.208575599999996,
+        4.3922755
+      ],
+      "desc": "Charming historic hotel in central Antwerp",
+      "longDesc": "Characterful historic hotel blending Belgian heritage with contemporary comfort, centrally located for exploring Antwerp galleries and culture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Pilar%20Antwerp&center=51.208575599999996,4.3922755",
+      "placeId": "ChIJh2Vl9Oz2w0cRvxebWHfYWRw",
+      "address": "Leopold de Waelplaats 34, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "The Pulcinella Ghent",
+      "coord": [
+        51.0405643,
+        3.7433389
+      ],
+      "desc": "Stylish boutique hotel in historic Ghent center",
+      "longDesc": "Contemporary boutique hotel blending urban chic with medieval setting, ideal base for exploring Ghent's bohemian culture and canal-side dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Pulcinella%20Ghent&center=51.0405643,3.7433389",
+      "placeId": "ChIJVQbv8FZ3w0cRXU4N3zxAilM",
+      "address": "Brusselsesteenweg 69, 9050 Gent, Belgium"
+    },
+    {
+      "name": "Citadelhotel Ghent",
+      "coord": [
+        51.0505262,
+        3.7284808999999997
+      ],
+      "desc": "Modern 4-star hotel near Ghent citadel and canals",
+      "longDesc": "Well-appointed contemporary hotel near Gravensteen and picturesque canals, perfect for families exploring Ghent's artistic energy.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Citadelhotel%20Ghent&center=51.0505262,3.7284808999999997",
+      "placeId": "ChIJabJoE09xw0cRiDffdA14D_8",
+      "address": "Brabantdam 33, 9000 Gent, Belgium"
+    },
+    {
+      "name": "Villa Josephina Brussels",
+      "coord": [
+        51.101709899999996,
+        2.6204151
+      ],
+      "desc": "Charming boutique villa in Brussels Ixelles district",
+      "longDesc": "Intimate Victorian mansion hotel near Sablon antique district, offering personalized hospitality in an artistic Brussels neighborhood.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Villa%20Josephina%20Brussels&center=51.101709899999996,2.6204151",
+      "placeId": "ChIJpzBsiSaX3EcRBudK8NAuZzc",
+      "address": "Marie-Joséstraat 33, 8670 Koksijde, Belgium"
+    },
+    {
+      "name": "Room Mate Simone Brussels",
+      "coord": [
+        50.8486877,
+        4.3631310999999995
+      ],
+      "desc": "Trendy boutique hotel in Brussels city center",
+      "longDesc": "Stylish contemporary hotel near Grand Place, combining artistic design with excellent value for fashion-conscious travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Room%20Mate%20Simone%20Brussels&center=50.8486877,4.3631310999999995",
+      "placeId": "ChIJJUEfP37Dw0cRTkdvU-ve9_k",
+      "address": "Rue Royale 120, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Hotel Promenade Leuven",
+      "coord": [
+        50.8710038,
+        4.6954699
+      ],
+      "desc": "Charming hotel in historic Leuven town center",
+      "longDesc": "Intimate hotel in university town's heart, ideal for families exploring medieval architecture and vibrant student culture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Promenade%20Leuven&center=50.8710038,4.6954699",
+      "placeId": "ChIJb6RoAyRhwUcRj3QqUadKSvc",
+      "address": "Tervuursevest 70, 3000 Leuven, Belgium"
+    },
+    {
+      "name": "Citadelhotel Mechelen",
+      "coord": [
+        51.4183,
+        4.4736
+      ],
+      "desc": "Modern hotel in historic Mechelen center",
+      "longDesc": "Contemporary accommodation in medieval Mechelen, perfect base for carillon bell tower visits and Renaissance architecture exploration.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Citadelhotel%20Mechelen&center=51.4183,4.4736",
+      "placeId": "ChIJ5SYybQB9TRQRk2XcIAW-JKg",
+      "address": "3VCP+RP3, Hurghada 1, Red Sea Governorate 1961302, Egypt"
+    },
+    {
+      "name": "Les Suites de la Cathédrale Mechelen",
+      "coord": [
+        51.4256,
+        4.4841
+      ],
+      "desc": "Boutique suites near Mechelen cathedral quarter",
+      "longDesc": "Character-filled suites in Mechelen's historic core, offering personalized service and authentic medieval ambiance.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Les%20Suites%20de%20la%20Cath%C3%A9drale%20Mechelen&center=51.4256,4.4841",
+      "placeId": "ChIJg_6W3qx4iUcR3zcGkpPcq1g",
+      "address": "Rue de Plantret, 73120 Courchevel, France"
+    },
+    {
+      "name": "Dinant River Hotel",
+      "coord": [
+        50.2368825,
+        4.905768999999999
+      ],
+      "desc": "Riverside hotel in scenic Dinant on Meuse valley",
+      "longDesc": "Charming hotel overlooking dramatic cliffs along Meuse River, perfect base for kayaking and exploring Wallonian charm.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dinant%20River%20Hotel&center=50.2368825,4.905768999999999",
+      "placeId": "ChIJeXrOiQLAwUcRVjyfFtcM06o",
+      "address": "Rue du Vélodrome 15, 5500 Dinant, Belgium"
+    },
+    {
+      "name": "Château de Spontin Wallonia",
+      "coord": [
+        50.322975799999995,
+        5.0093479
+      ],
+      "desc": "Unique castle hotel in Wallonian Ardennes region",
+      "longDesc": "Historic castle conversion offering unforgettable medieval nights amid rolling Wallonian forest and river valleys.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20de%20Spontin%20Wallonia&center=50.322975799999995,5.0093479",
+      "placeId": "ChIJOYuZqgK8wUcR-yyi8PVubKI",
+      "address": "Chau. de Dinant 8, 5530 Yvoir, Belgium"
+    },
+    {
+      "name": "Domaine de la Roche Ardennes",
+      "coord": [
+        50.182106499999996,
+        5.5764439999999995
+      ],
+      "desc": "Luxury country estate hotel in Ardennes nature",
+      "longDesc": "Secluded estate hotel surrounded by forests and rivers, perfect for families seeking peaceful luxury in nature.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Domaine%20de%20la%20Roche%20Ardennes&center=50.182106499999996,5.5764439999999995",
+      "placeId": "ChIJ9RmyC9s4wEcRVOyNavWB0SA",
+      "address": "Rue du, Vieux Chateau 4, 6980 La Roche-en-Ardenne, Belgium"
+    },
+    {
+      "name": "La Villa Beaumont Waterloo",
+      "coord": [
+        50.329544600000006,
+        4.3481499999999995
+      ],
+      "desc": "Elegant mansion hotel near Waterloo battlefield",
+      "longDesc": "Refined mansion hotel perfectly positioned for Waterloo historical exploration, offering elegant Belgian hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Villa%20Beaumont%20Waterloo&center=50.329544600000006,4.3481499999999995",
+      "placeId": "ChIJD5oWtDgjwkcRZUoSL63N8qg",
+      "address": "Rue de Beaumont 47, 6534 Thuin, Belgium"
+    },
+    {
+      "name": "Manoir de Lebioles Spa",
+      "coord": [
+        50.4647977,
+        5.8315835
+      ],
+      "desc": "Spa resort in Belgian Limburg region",
+      "longDesc": "Wellness retreat combining spa luxury with nature immersion in Belgium's eastern countryside near Dutch border.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Manoir%20de%20Lebioles%20Spa&center=50.4647977,5.8315835",
+      "placeId": "ChIJkyWrwEZhwEcRaMKKZzoeQGE",
+      "address": "Domaine de Lébioles 1/5, 4900 Spa, Belgium"
+    },
+    {
+      "name": "Abbaye de Floirécourt Ardennes",
+      "coord": [
+        50.1301135,
+        4.8662579
+      ],
+      "desc": "Converted abbey hotel in peaceful Ardennes setting",
+      "longDesc": "Charming abbey conversion offering tranquil countryside escape with spiritual ambiance and authentic Belgian rural hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Abbaye%20de%20Floir%C3%A9court%20Ardennes&center=50.1301135,4.8662579",
+      "placeId": "ChIJk5IJagrpwUcRGJD2rtv3fdI",
+      "address": "08600 Givet, France"
+    },
+    {
+      "name": "Hotel De Flandre Ostend",
+      "coord": [
+        51.0548563,
+        3.7182489999999997
+      ],
+      "desc": "Historic beachfront hotel in coastal Ostend",
+      "longDesc": "Grand Victorian beachfront hotel capturing Ostend's Belle Époque elegance, perfect for beach-loving families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20De%20Flandre%20Ostend&center=51.0548563,3.7182489999999997",
+      "placeId": "ChIJ6dHcAEFxw0cRWX3Rs8JZ0I4",
+      "address": "Poel 1, 9000 Gent, Belgium"
+    },
+    {
+      "name": "Zeebrugge Beach Resort",
+      "coord": [
+        51.3286514,
+        3.18364
+      ],
+      "desc": "Modern resort in Belgium's North Sea coast town",
+      "longDesc": "Contemporary beachfront resort ideal for families seeking seaside fun and water sports on Belgian coast.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Zeebrugge%20Beach%20Resort&center=51.3286514,3.18364",
+      "placeId": "ChIJr5QQc4ypxEcRGzVNNCz4NkU",
+      "address": "8380 Bruges, Belgium"
+    },
+    {
+      "name": "Hotel De Thalassa Knokke",
+      "coord": [
+        51.302810099999995,
+        3.2989995000000003
+      ],
+      "desc": "Luxury beachfront hotel in upscale Knokke resort",
+      "longDesc": "Sophisticated beachfront hotel in prestigious Knokke, perfect for refined seaside getaways with family.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20De%20Thalassa%20Knokke&center=51.302810099999995,3.2989995000000003",
+      "placeId": "ChIJW641IjBZw0cRccAU5Mwv0Bo",
+      "address": "Oostkerkestraat 40, 8300 Knokke-Heist, Belgium"
+    },
+    {
+      "name": "Citadelhotel Namur",
+      "coord": [
+        50.4595488,
+        4.8655789
+      ],
+      "desc": "Modern hotel in historic Namur city center",
+      "longDesc": "Contemporary accommodation in Meuse Valley's gem, ideal base for exploring Wallonian castles and river scenery.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Citadelhotel%20Namur&center=50.4595488,4.8655789",
+      "placeId": "ChIJlwDEm3OZwUcR-TolA45p-c4",
+      "address": "Rue Notre Dame 86, 5000 Namur, Belgium"
+    },
+    {
+      "name": "Hotel Saint-Luc Tournai",
+      "coord": [
+        50.632894199999996,
+        3.3557601
+      ],
+      "desc": "Historic hotel in medieval Tournai town center",
+      "longDesc": "Charming historic hotel in UNESCO cathedral city, perfect for exploring Tournai's five-tower skyline and medieval streets.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Saint-Luc%20Tournai&center=50.632894199999996,3.3557601",
+      "placeId": "ChIJ045HLHogw0cRxpuM_BRliaQ",
+      "address": "Chau. de Tournai 7, 7520 Tournai, Belgium"
+    },
+    {
+      "name": "Montagne Noire Estate Ardennes",
+      "coord": [
+        50.32,
+        5.0
+      ],
+      "desc": "Luxury retreat in deep Ardennes forest nature",
+      "longDesc": "Exclusive forest estate offering nature immersion and refined dining, perfect for peaceful Ardennes adventures.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Montagne%20Noire%20Estate%20Ardennes&center=50.32,5.0"
+    },
+    {
+      "name": "Château Beaulieu Antwerp",
+      "coord": [
+        51.216299,
+        4.4175132999999995
+      ],
+      "desc": "Historic manor house hotel near Antwerp",
+      "longDesc": "Elegant manor conversion near Antwerp, combining country ambiance with proximity to city culture and dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20Beaulieu%20Antwerp&center=51.216299,4.4175132999999995",
+      "placeId": "ChIJCS3R8QH3w0cR__KXt-REErM",
+      "address": "Appelmansstraat 25, 2018 Antwerpen, Belgium"
+    },
+    {
+      "name": "De Wevershof Bruges",
+      "coord": [
+        51.2022256,
+        3.2219259
+      ],
+      "desc": "Character inn in cozy Bruges neighborhood",
+      "longDesc": "Intimate inn capturing authentic Bruges charm, located away from main squares in artisan-filled neighborhoods.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20Wevershof%20Bruges&center=51.2022256,3.2219259",
+      "placeId": "ChIJa2kn8NxQw0cRh7_zLO83Q4Y",
+      "address": "Wevershof, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Hotel Jan Van Eyck Bruges",
+      "coord": [
+        51.2079027,
+        3.2222299
+      ],
+      "desc": "Historic hotel named for Flemish master in Bruges",
+      "longDesc": "Cultural-themed hotel celebrating medieval Bruges art legacy, perfectly positioned for museum and gallery exploration.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Jan%20Van%20Eyck%20Bruges&center=51.2079027,3.2222299",
+      "placeId": "ChIJMfc9j9pQw0cRboiKcGebSpc",
+      "address": "Korte Zilverstraat 7, 8000 Brugge, Belgium"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Hof van Cleve Kruisem",
+      "coord": [
+        50.903667299999995,
+        3.5096569
+      ],
+      "desc": "3-Michelin-starred fine dining in rural Flanders",
+      "longDesc": "Belgium's most celebrated restaurant, earning 3 Michelin stars for innovative farm-to-table cuisine in countryside setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hof%20van%20Cleve%20Kruisem&center=50.903667299999995,3.5096569",
+      "placeId": "ChIJ6U6ntWgUw0cRZrq8q_ohqUU",
+      "address": "Riemegemstraat 1, 9770 Kruisem, Belgium"
+    },
+    {
+      "name": "De Karmeliet Bruges",
+      "coord": [
+        51.2097717,
+        3.2324059999999997
+      ],
+      "desc": "3-Michelin-starred classic French-Flemish cuisine",
+      "longDesc": "Legendary Bruges fine dining institution with 3 Michelin stars, showcasing refined Belgian and French culinary traditions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20Karmeliet%20Bruges&center=51.2097717,3.2324059999999997",
+      "placeId": "ChIJ88eQGmtRw0cR1PoYNU0Lhmg",
+      "address": "Langestraat 19, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Hertog Jan Bruges",
+      "coord": [
+        51.2136339,
+        4.4057045
+      ],
+      "desc": "2-Michelin-starred contemporary Belgian cuisine",
+      "longDesc": "Sophisticated Bruges restaurant with 2 Michelin stars, celebrating seasonal ingredients with innovative presentations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hertog%20Jan%20Bruges&center=51.2136339,4.4057045",
+      "placeId": "ChIJmzvXzQ1Rw0cR6I4u4lxwSOA",
+      "address": "Leopoldstraat 26, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "'t Zilte Antwerp",
+      "coord": [
+        51.22904,
+        4.4048229999999995
+      ],
+      "desc": "2-Michelin-starred fine dining in Antwerp",
+      "longDesc": "Celebrated Antwerp fine dining establishment with 2 Michelin stars, featuring refined Mediterranean influences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=%27t%20Zilte%20Antwerp&center=51.22904,4.4048229999999995",
+      "placeId": "ChIJBXfAoKQ1wUcR6RTA6Ko7laI",
+      "address": "Hanzestedenplaats 5, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Kommilfoo Antwerp",
+      "coord": [
+        51.2110834,
+        4.392601099999999
+      ],
+      "desc": "Contemporary fine dining in Antwerp's food scene",
+      "longDesc": "Acclaimed modern restaurant representing Antwerp's culinary excellence, known for innovative cuisine and refined service.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kommilfoo%20Antwerp&center=51.2110834,4.392601099999999",
+      "placeId": "ChIJ5YOmbe32w0cRBDzt4G3k-i8",
+      "address": "Vlaamsekaai 17, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "The Jane Antwerp",
+      "coord": [
+        51.2343232,
+        4.4047947999999995
+      ],
+      "desc": "Michelin-starred restaurant with seasonal Belgian cuisine",
+      "longDesc": "Exceptional Michelin-starred restaurant celebrating seasonal ingredients and creative technique in artistic surroundings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Jane%20Antwerp&center=51.2343232,4.4047947999999995",
+      "placeId": "ChIJvQDh9hj3w0cRPe9AMD95QGw",
+      "address": "Limastraat 5, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Chambre Séparée Brussels",
+      "coord": [
+        50.821205899999995,
+        4.3773422
+      ],
+      "desc": "Intimate fine dining in Brussels Sablon district",
+      "longDesc": "Sophisticated small restaurant showcasing refined cuisine in cozy, exclusive atmosphere near antique shops.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chambre%20S%C3%A9par%C3%A9e%20Brussels&center=50.821205899999995,4.3773422",
+      "placeId": "ChIJpW2XJurEw0cR5KJWPf-xVKo",
+      "address": "Rue des Echevins 105, 1050 Ixelles, Belgium"
+    },
+    {
+      "name": "'t Fornuis Antwerp",
+      "coord": [
+        51.219017,
+        4.399416899999999
+      ],
+      "desc": "Michelin-starred restaurant, Antwerp's pinnacle fine dining",
+      "longDesc": "Acclaimed Michelin-starred establishment showcasing Belgian and French traditions with impeccable execution.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=%27t%20Fornuis%20Antwerp&center=51.219017,4.399416899999999",
+      "placeId": "ChIJi13m7Pb2w0cRJS-ZqJttnYc",
+      "address": "Reyndersstraat 24, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Dôme sur Mer Antwerp",
+      "coord": [
+        51.2063547,
+        4.4266303
+      ],
+      "desc": "Fresh seafood, elegant dining in Antwerp",
+      "longDesc": "Refined seafood restaurant offering exquisite preparations and river views, perfect for special family occasions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=D%C3%B4me%20sur%20Mer%20Antwerp&center=51.2063547,4.4266303",
+      "placeId": "ChIJ_3bWGhr3w0cRhQ6MFzcv97o",
+      "address": "Arendstraat 1, 2018 Antwerpen, Belgium"
+    },
+    {
+      "name": "Sans Cravate Bruges",
+      "coord": [
+        51.2124026,
+        3.2381725
+      ],
+      "desc": "Michelin-starred fine dining in Bruges historic center",
+      "longDesc": "Refined Michelin-starred restaurant showcasing Belgian and French cuisine in intimate, sophisticated setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sans%20Cravate%20Bruges&center=51.2124026,3.2381725",
+      "placeId": "ChIJlSE0HLZQw0cRlxTWL7FhGII",
+      "address": "Langestraat 159, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "De Jonkman Bruges",
+      "coord": [
+        51.2075879,
+        3.2782901
+      ],
+      "desc": "Michelin-starred traditional Belgian cuisine",
+      "longDesc": "Traditional Michelin-starred Belgian restaurant celebrating local products and time-honored techniques.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20Jonkman%20Bruges&center=51.2075879,3.2782901",
+      "placeId": "ChIJWZ_9-Blaw0cRCxlitCQInrY",
+      "address": "Maalse Steenweg 438, 8310 Brugge, Belgium"
+    },
+    {
+      "name": "Den Gouden Harynck Bruges",
+      "coord": [
+        51.2049047,
+        3.2257808999999997
+      ],
+      "desc": "Michelin-starred restaurant with Flemish specialties",
+      "longDesc": "Michelin excellence featuring Flemish specialties and refined cuisine, representing Bruges' culinary achievements.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Den%20Gouden%20Harynck%20Bruges&center=51.2049047,3.2257808999999997",
+      "placeId": "ChIJVfQSxMRQw0cR6I5wVGPTcFo",
+      "address": "Groeninge 25, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Rock Fort Bruges",
+      "coord": [
+        51.209731299999994,
+        3.2322495
+      ],
+      "desc": "Contemporary Belgian dining in charming Bruges",
+      "longDesc": "Contemporary restaurant respecting tradition while embracing modern techniques in atmospheric medieval setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rock%20Fort%20Bruges&center=51.209731299999994,3.2322495",
+      "placeId": "ChIJleDCx8hQw0cR_ADD6A5icZI",
+      "address": "Langestraat 15, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Assiette Blanche Bruges",
+      "coord": [
+        51.209633499999995,
+        3.2263755
+      ],
+      "desc": "Contemporary French-Belgian fusion cuisine",
+      "longDesc": "Elegant fusion celebrating seasonal ingredients, bridging two culinary traditions with refined execution.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Assiette%20Blanche%20Bruges&center=51.209633499999995,3.2263755",
+      "placeId": "ChIJlzfp6c9Qw0cRXhowijdV4aA",
+      "address": "Philipstockstraat 23, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Brasserie Forestière Bruges",
+      "coord": [
+        51.2115186,
+        3.2263303
+      ],
+      "desc": "Classic brasserie with Flemish comfort food",
+      "longDesc": "Authentic brasserie tradition, where families enjoy hearty moules, frites, and local specialties unpretentiously.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brasserie%20Foresti%C3%A8re%20Bruges&center=51.2115186,3.2263303",
+      "placeId": "ChIJSf3PzdFQw0cRptGmLku9De4",
+      "address": "Spinolarei 1, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "De Stove Bruges",
+      "coord": [
+        51.2082547,
+        3.2226717
+      ],
+      "desc": "Cozy traditional Belgian restaurant in Bruges",
+      "longDesc": "Intimate restaurant capturing hometown flavors and warmth, perfect for authentic medieval Bruges dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20Stove%20Bruges&center=51.2082547,3.2226717",
+      "placeId": "ChIJ94XbgtpQw0cRsvRSI3yj5Zg",
+      "address": "Kleine Sint-Amandsstraat 4, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Den Amand Bruges",
+      "coord": [
+        51.208570099999996,
+        3.2233750999999997
+      ],
+      "desc": "Cozy restaurant with traditional Flemish fare",
+      "longDesc": "Cozy establishment capturing traditional Flemish home cooking in intimate surroundings near medieval squares.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Den%20Amand%20Bruges&center=51.208570099999996,3.2233750999999997",
+      "placeId": "ChIJEUesddBQw0cRqnrTxFMRT60",
+      "address": "Sint-Amandsstraat 4, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Bhavani Bruges",
+      "coord": [
+        51.2064996,
+        3.2231867
+      ],
+      "desc": "Authentic Indian cuisine in medieval Bruges",
+      "longDesc": "Vibrant Indian restaurant bringing spice and warmth to medieval Bruges, offering adventurous flavors for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bhavani%20Bruges&center=51.2064996,3.2231867",
+      "placeId": "ChIJnW5l6NpQw0cRlKePe1CI5aY",
+      "address": "Simon Stevinplein 5, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "De Gastro Bruges",
+      "coord": [
+        51.2074419,
+        3.228262
+      ],
+      "desc": "Modern bistro with seasonal Belgian ingredients",
+      "longDesc": "Contemporary bistro showcasing seasonal Belgian produce, connecting families to local food traditions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20Gastro%20Bruges&center=51.2074419,3.228262",
+      "placeId": "ChIJYemXncVQw0cRKW3wALmUwOQ",
+      "address": "Braambergstraat 6, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Locàle by Kok au Vin Bruges",
+      "coord": [
+        51.2119967,
+        3.2196968999999998
+      ],
+      "desc": "Cozy gastropub with Flemish comfort cuisine",
+      "longDesc": "Warm gastropub celebrating Flemish traditions, perfect for families seeking authentic Belgian home cooking.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Loc%C3%A0le%20by%20Kok%20au%20Vin%20Bruges&center=51.2119967,3.2196968999999998",
+      "placeId": "ChIJgzvWM9FQw0cR0SDFd4k5kRo",
+      "address": "Ezelstraat 21, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "'t Brugs Beertje Bruges",
+      "coord": [
+        51.2068237,
+        3.2217179
+      ],
+      "desc": "Historic beer cafe with traditional Belgian beer culture",
+      "longDesc": "Legendary beer cafe preserving centuries of Belgian brewing tradition, offering 300+ beers in medieval atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=%27t%20Brugs%20Beertje%20Bruges&center=51.2068237,3.2217179",
+      "placeId": "ChIJ7ZhOX9pQw0cR7Rco0hoLdSA",
+      "address": "Kemelstraat 5, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Café Vlissinghe Bruges",
+      "coord": [
+        51.212993,
+        3.2301487
+      ],
+      "desc": "Historic beer cafe with traditional Belgian ambiance",
+      "longDesc": "Centuries-old beer cafe preserving authentic local culture and tradition, perfect for family beer education.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Vlissinghe%20Bruges&center=51.212993,3.2301487",
+      "placeId": "ChIJ48n1mM5Qw0cRbfp7RwZi2Bc",
+      "address": "Blekersstraat 2, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Breydel De Coninc Bruges",
+      "coord": [
+        51.208495799999994,
+        3.2261354
+      ],
+      "desc": "Authentic moules frites in medieval Bruges setting",
+      "longDesc": "Historic establishment perfecting Belgium's iconic dish, where medieval architecture enhances classic dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Breydel%20De%20Coninc%20Bruges&center=51.208495799999994,3.2261354",
+      "placeId": "ChIJKTK2-c9Qw0cRJU-QnkkBIiQ",
+      "address": "Breidelstraat 24, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "'t Huidevettershuis Bruges",
+      "coord": [
+        51.207499999999996,
+        3.2277777999999997
+      ],
+      "desc": "Traditional Belgian moules frites on canal square",
+      "longDesc": "Iconic moules frites spot on picturesque canal square, combining perfect mussels with enchanting medieval atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=%27t%20Huidevettershuis%20Bruges&center=51.207499999999996,3.2277777999999997",
+      "placeId": "ChIJqQZCfMVQw0cR3R5rxGDC3PE",
+      "address": "Huidenvettersplein 10, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Poules Moules Bruges",
+      "coord": [
+        51.206312,
+        3.223192
+      ],
+      "desc": "Specialist moules frites restaurant in Bruges",
+      "longDesc": "Dedicated establishment perfecting Belgium's most famous dish with fresh seafood and perfect technique.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Poules%20Moules%20Bruges&center=51.206312,3.223192",
+      "placeId": "ChIJWb6r59pQw0cR0HB4VuEqIBo",
+      "address": "Simon Stevinplein 9, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Books and Brunch Bruges",
+      "coord": [
+        51.204391699999995,
+        3.2295
+      ],
+      "desc": "Casual brunch spot with literary atmosphere",
+      "longDesc": "Literary-themed cafe where families enjoy fresh morning fare surrounded by books in artistic Bruges setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Books%20and%20Brunch%20Bruges&center=51.204391699999995,3.2295",
+      "placeId": "ChIJt14_PsRQw0cR65XhOcHHd1s",
+      "address": "Garenmarkt 30, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "That's Toast Bruges",
+      "coord": [
+        51.2063875,
+        3.2192167
+      ],
+      "desc": "Casual cafe with fresh sandwiches and pastries",
+      "longDesc": "Quick-bite quality spot perfect for families exploring medieval streets, offering fresh fare and Belgian pastries.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=That%27s%20Toast%20Bruges&center=51.2063875,3.2192167",
+      "placeId": "ChIJFZmDL9pQw0cRgDiTZol7DDs",
+      "address": "Dweersstraat 4, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Ciro's Antwerp",
+      "coord": [
+        51.209117,
+        4.402136
+      ],
+      "desc": "Classic brasserie with traditional Belgian comfort food",
+      "longDesc": "Beloved Antwerp brasserie celebrating Belgian traditions, where families enjoy hearty moules and frites unpretentiously.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ciro%27s%20Antwerp&center=51.209117,4.402136",
+      "placeId": "ChIJ0dM4ee_2w0cRGDgCrVxNYOg",
+      "address": "Amerikalei 6, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "De Bomma Antwerp",
+      "coord": [
+        51.2219489,
+        4.3979459
+      ],
+      "desc": "Traditional Flemish cuisine in intimate setting",
+      "longDesc": "Intimate Flemish restaurant showcasing traditional regional recipes and local ingredients defining Belgian comfort food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20Bomma%20Antwerp&center=51.2219489,4.3979459",
+      "placeId": "ChIJxz6arz_3w0cRlDwtJtVcYEc",
+      "address": "Willem Ogierplaats 3, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Grand Café De Rooden Hoed Antwerp",
+      "coord": [
+        51.2201131,
+        4.4001535
+      ],
+      "desc": "Authentic Belgian moules frites and seafood",
+      "longDesc": "Historic establishment serving authentic moules frites and fresh seafood, where families experience classic coastal Belgian traditions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Caf%C3%A9%20De%20Rooden%20Hoed%20Antwerp&center=51.2201131,4.4001535",
+      "placeId": "ChIJg8p0Wfb2w0cRJHghEbGBcmk",
+      "address": "Oude Koornmarkt 25, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Brasserie Appelmans Antwerp",
+      "coord": [
+        51.21977,
+        4.4006527
+      ],
+      "desc": "Traditional brasserie with moules frites specialties",
+      "longDesc": "Traditional brasserie perfecting moules frites with quality ingredients and technique, celebrating Belgium's iconic dish.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brasserie%20Appelmans%20Antwerp&center=51.21977,4.4006527",
+      "placeId": "ChIJyziM-Pb2w0cR9i7SKYpvyNE",
+      "address": "Papenstraatje 1, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Moules et Frites Antwerp",
+      "coord": [
+        51.220763,
+        4.401475
+      ],
+      "desc": "Authentic Belgian moules frites institution",
+      "longDesc": "Dedicated establishment perfecting Belgium's most famous dish, serving fresh mussels with various accompaniments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Moules%20et%20Frites%20Antwerp&center=51.220763,4.401475",
+      "placeId": "ChIJbwHGs_f2w0cRDlkxTtJ6Sfo",
+      "address": "Torfbrug 10, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Fiskebar Antwerp",
+      "coord": [
+        51.2100274,
+        4.3972773
+      ],
+      "desc": "Contemporary seafood and fish specialties",
+      "longDesc": "Fresh fish restaurant with casual elegance, where families enjoy market-driven menus and expert recommendations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fiskebar%20Antwerp&center=51.2100274,4.3972773",
+      "placeId": "ChIJVRSWeu72w0cREuwK8GVuRw4",
+      "address": "Marnixplaats 12, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Nebo Antwerp",
+      "coord": [
+        51.205206499999996,
+        4.3825867
+      ],
+      "desc": "Fine dining with contemporary European cuisine",
+      "longDesc": "Contemporary fine dining with creative plating and seasonal ingredients, delivering memorable meals for special occasions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nebo%20Antwerp&center=51.205206499999996,4.3825867",
+      "placeId": "ChIJzzbG3f_3w0cRQLYw8YYuq14",
+      "address": "Panamarenkoplein 5, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Restaurant Nathan Antwerp",
+      "coord": [
+        51.223101899999996,
+        4.4028579
+      ],
+      "desc": "Casual fine dining with European cuisine",
+      "longDesc": "Approachable fine dining bridging comfort and sophistication, perfect for families seeking elevated Belgian dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Nathan%20Antwerp&center=51.223101899999996,4.4028579",
+      "placeId": "ChIJbfI9blj2w0cRlV7XhRfJGAk",
+      "address": "Lange Koepoortstraat 13, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Lux Antwerp",
+      "coord": [
+        51.2178578,
+        4.4140805
+      ],
+      "desc": "Modern restaurant with creative international menu",
+      "longDesc": "Contemporary restaurant drawing global inspiration with modern presentation and attentive hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lux%20Antwerp&center=51.2178578,4.4140805",
+      "placeId": "ChIJgdFCZv72w0cR3QQrAzbBPxA",
+      "address": "Kipdorpvest 36, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "MASA Antwerp",
+      "coord": [
+        51.20921,
+        4.391266
+      ],
+      "desc": "Contemporary fusion cuisine in Antwerp",
+      "longDesc": "Modern fusion blending global influences with refined execution, offering adventurous families creative dishes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=MASA%20Antwerp&center=51.20921,4.391266",
+      "placeId": "ChIJZZOX5E73w0cR8aSs8ulXe-E",
+      "address": "De Burburestraat 6, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Elfde Gebod Antwerp",
+      "coord": [
+        51.220763,
+        4.401475
+      ],
+      "desc": "Traditional Belgian bar with local atmosphere",
+      "longDesc": "Character-filled traditional bar perfect for families sampling Belgian beers and hearty local food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Elfde%20Gebod%20Antwerp&center=51.220763,4.401475",
+      "placeId": "ChIJbwHGs_f2w0cRDlkxTtJ6Sfo",
+      "address": "Torfbrug 10, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Bar Burbure Antwerp",
+      "coord": [
+        51.2096878,
+        4.3908426
+      ],
+      "desc": "Classic Belgian cafe and restaurant",
+      "longDesc": "Unpretentious local cafe embodying Belgian hospitality, serving traditional dishes in convivial family setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Burbure%20Antwerp&center=51.2096878,4.3908426",
+      "placeId": "ChIJvzYR2Oz2w0cRs_rCetdzN2I",
+      "address": "Vlaamsekaai 41, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Pelgrom Antwerp",
+      "coord": [
+        51.2196636,
+        4.3996541
+      ],
+      "desc": "Traditional Belgian cuisine in historic quarter",
+      "longDesc": "Traditional Belgian restaurant celebrating regional flavors in atmospheric medieval surroundings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pelgrom%20Antwerp&center=51.2196636,4.3996541",
+      "placeId": "ChIJtZbH9Pb2w0cRp271huqRyAg",
+      "address": "Pelgrimstraat 15, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Bourla Restaurant Antwerp",
+      "coord": [
+        51.216095499999994,
+        4.4083219
+      ],
+      "desc": "Fine dining near historic Bourla Theatre",
+      "longDesc": "Refined restaurant with cultural cache near Antwerp's renowned theatre, offering elevated meals enriched by proximity to arts.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bourla%20Restaurant%20Antwerp&center=51.216095499999994,4.4083219",
+      "placeId": "ChIJbQ2pNfr2w0cRT3P9BA2On14",
+      "address": "Graanmarkt 7, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Balls & Glory Antwerp",
+      "coord": [
+        51.2154847,
+        4.4094627
+      ],
+      "desc": "Italian-inspired casual dining, meatballs and pasta",
+      "longDesc": "Playful Italian-inspired spot celebrating meatballs and housemade pasta, bringing infectious enthusiasm and comfort to Antwerp.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Balls%20%26%20Glory%20Antwerp&center=51.2154847,4.4094627",
+      "placeId": "ChIJfXwhzlD2w0cR83mWKtHDm6w",
+      "address": "Theaterplein 1 naast Stadsschouwburg, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Falafel Samy Antwerp",
+      "coord": [
+        51.2189372,
+        4.4003074
+      ],
+      "desc": "Middle Eastern fast casual dining in Antwerp",
+      "longDesc": "Vibrant Middle Eastern spot bringing diversity and fresh flavors to Antwerp, perfect for quick quality meals.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Falafel%20Samy%20Antwerp&center=51.2189372,4.4003074",
+      "placeId": "ChIJDzxGd0P3w0cRH5bDjsq4pAo",
+      "address": "Oude Koornmarkt 68, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Dit Hem Ghent",
+      "coord": [
+        51.0503309,
+        3.7284634000000003
+      ],
+      "desc": "Modern Belgian cuisine in historic Ghent",
+      "longDesc": "Contemporary Ghent restaurant celebrating Flemish traditions with innovative preparations and local ingredients.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dit%20Hem%20Ghent&center=51.0503309,3.7284634000000003",
+      "placeId": "ChIJy3GgE09xw0cRjVQj9L5nrp4",
+      "address": "Brabantdam 48, 9000 Gent, Belgium"
+    },
+    {
+      "name": "Groenten Grill Ghent",
+      "coord": [
+        51.0559121,
+        3.7277596
+      ],
+      "desc": "Vegetarian-focused restaurant in bohemian Ghent",
+      "longDesc": "Vegetable-centric restaurant celebrating sustainable cooking in artistically progressive Ghent neighborhood.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Groenten%20Grill%20Ghent&center=51.0559121,3.7277596",
+      "placeId": "ChIJsxEKyk9xw0cRqVRfo9THDnw",
+      "address": "Belfortstraat 32, 9000 Gent, Belgium"
+    },
+    {
+      "name": "Brasserie Citadelhotel Ghent",
+      "coord": [
+        51.0534724,
+        3.7262169999999997
+      ],
+      "desc": "Contemporary brasserie in historic Ghent",
+      "longDesc": "Modern brasserie near Ghent's citadel, offering refined Belgian cuisine with river and medieval views.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brasserie%20Citadelhotel%20Ghent&center=51.0534724,3.7262169999999997",
+      "placeId": "ChIJF4dbE0Zxw0cRVmZm1HOIUMM",
+      "address": "Sint-Baafsplein 21, 9000 Gent, Belgium"
+    },
+    {
+      "name": "Chez Léon Brussels",
+      "coord": [
+        50.848204599999995,
+        4.3540661
+      ],
+      "desc": "Historic Belgian institution, fries and mussels",
+      "longDesc": "Legendary Brussels establishment since 1887, serving Belgium's most iconic dishes in a time-honored setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chez%20L%C3%A9on%20Brussels&center=50.848204599999995,4.3540661",
+      "placeId": "ChIJBb27mIDDw0cRLFEv29XVFKM",
+      "address": "Rue des Bouchers 18, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Restobieres Brussels",
+      "coord": [
+        50.8369827,
+        4.3476405
+      ],
+      "desc": "Classic Belgian brasserie near Grand Place",
+      "longDesc": "Authentic Brussels brasserie celebrating Flemish traditions, perfect for families seeking local atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restobieres%20Brussels&center=50.8369827,4.3476405",
+      "placeId": "ChIJyeAa2mTEw0cRp0UsJrL0pJs",
+      "address": "Rue des Renards 9, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Comme Chez Soi Brussels",
+      "coord": [
+        50.8423616,
+        4.345815
+      ],
+      "desc": "2-Michelin-starred fine dining in Brussels",
+      "longDesc": "Legendary Brussels fine dining institution with 2 Michelin stars, showcasing refined Belgian and French cuisine.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Comme%20Chez%20Soi%20Brussels&center=50.8423616,4.345815",
+      "placeId": "ChIJTQxNAnrEw0cRsz3Wx2HWO5o",
+      "address": "Pl. Rouppe 23, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Bocconi Brussels",
+      "coord": [
+        50.8461458,
+        4.351221400000001
+      ],
+      "desc": "Upscale Italian cuisine in Brussels Sablon",
+      "longDesc": "Sophisticated Italian restaurant in artistic Sablon district, perfect for refined family celebrations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bocconi%20Brussels&center=50.8461458,4.351221400000001",
+      "placeId": "ChIJMRLWzXjEw0cR5oG0CriuhXE",
+      "address": "Rue de l'Amigo 1, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Marcolini Brussels",
+      "coord": [
+        50.8413367,
+        4.3536546
+      ],
+      "desc": "Fine dining near Brussels antique district",
+      "longDesc": "Elegant restaurant in charming Sablon antique neighborhood, offering refined cuisine near galleries and shops.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Marcolini%20Brussels&center=50.8413367,4.3536546",
+      "placeId": "ChIJFRXcR3zEw0cRcGZgMyrJWdk",
+      "address": "Rue des Minimes 1, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Café Kitsuné Brussels",
+      "coord": [
+        50.8478596,
+        4.3537778000000005
+      ],
+      "desc": "Chic cafe near Grand Place Brussels",
+      "longDesc": "Stylish contemporary cafe overlooking Grand Place, perfect for families combining sightseeing with quality coffee.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Kitsun%C3%A9%20Brussels&center=50.8478596,4.3537778000000005",
+      "placeId": "ChIJgZp855jFw0cRtat-FhEWpsg",
+      "address": "Pt Rue des Bouchers 25, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Métropole Restaurant Brussels",
+      "coord": [
+        50.851328099999996,
+        4.3532459999999995
+      ],
+      "desc": "Historic restaurant in Hotel Métropole",
+      "longDesc": "Grand historic restaurant in iconic hotel, offering refined cuisine in Belle Époque surroundings near Grand Place.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=M%C3%A9tropole%20Restaurant%20Brussels&center=50.851328099999996,4.3532459999999995",
+      "placeId": "ChIJExspN4HDw0cRSDCJ07BCeIc",
+      "address": "Pl. De Brouckère 31, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "DIM Dining Antwerp",
+      "coord": [
+        51.218444999999996,
+        4.3991608
+      ],
+      "desc": "Contemporary fine dining in central Antwerp",
+      "longDesc": "Sophisticated contemporary restaurant with refined cuisine and attentive service, ideal for elevated celebrations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=DIM%20Dining%20Antwerp&center=51.218444999999996,4.3991608",
+      "placeId": "ChIJnUV36_b2w0cR90O4gffMFdI",
+      "address": "Vrijdagmarkt 7, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "GOFFIN Bruges",
+      "coord": [
+        51.2119549,
+        3.2417241
+      ],
+      "desc": "Fine dining with modern European cuisine",
+      "longDesc": "Contemporary fine dining establishment celebrating European culinary traditions with innovative techniques.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=GOFFIN%20Bruges&center=51.2119549,3.2417241",
+      "placeId": "ChIJM1e4kq1Qw0cRd-VL6SDO-LY",
+      "address": "Maalse Steenweg 2, 8310 Brugge, Belgium"
+    },
+    {
+      "name": "RESTAURANT MÉMOIRE Bruges",
+      "coord": [
+        51.206336,
+        3.2267495
+      ],
+      "desc": "Elevated Belgian cuisine in Bruges heart",
+      "longDesc": "Refined restaurant showcasing Belgian gastronomy with artistic presentation in intimate medieval setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=RESTAURANT%20M%C3%89MOIRE%20Bruges&center=51.206336,3.2267495",
+      "placeId": "ChIJL0oHdplRw0cRa5LqKJwcwsw",
+      "address": "Dijver 7, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Zet'joe Bruges",
+      "coord": [
+        51.209725299999995,
+        3.2320401
+      ],
+      "desc": "Cozy neighborhood restaurant in Bruges",
+      "longDesc": "Intimate neighborhood gem offering authentic Belgian fare in characterful, casual Bruges surroundings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Zet%27joe%20Bruges&center=51.209725299999995,3.2320401",
+      "placeId": "ChIJzbceychQw0cRAX_4EtGWiRE",
+      "address": "Langestraat 11, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "JACOBIN Bruges",
+      "coord": [
+        51.208574,
+        3.230356
+      ],
+      "desc": "Gourmet restaurant in historic Bruges",
+      "longDesc": "Refined gourmet establishment celebrating Flemish traditions and seasonal ingredients in medieval setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=JACOBIN%20Bruges&center=51.208574,3.230356",
+      "placeId": "ChIJdbZMtJpRw0cRRy_n4PqkrJk",
+      "address": "Predikherenstraat 13, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "ONSLOW Bruges",
+      "coord": [
+        51.2123783,
+        3.2332234
+      ],
+      "desc": "Contemporary casual dining in Bruges",
+      "longDesc": "Modern casual restaurant offering quality cuisine in relaxed Bruges atmosphere near medieval squares.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=ONSLOW%20Bruges&center=51.2123783,3.2332234",
+      "placeId": "ChIJD3RzRXtRw0cRzQzN0wvCErA",
+      "address": "Jeruzalemstraat 53, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Bistro Bruut Bruges",
+      "coord": [
+        51.20896,
+        3.2292848
+      ],
+      "desc": "Neighborhood bistro with authentic Flemish fare",
+      "longDesc": "Casual bistro celebrating honest Flemish cooking in neighborhood atmosphere perfect for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bistro%20Bruut%20Bruges&center=51.20896,3.2292848",
+      "placeId": "ChIJWXKEb89Qw0cRwBx7RYcLSzU",
+      "address": "Meestraat 9, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Franco Belge Restaurant Bruges",
+      "coord": [
+        51.211283099999996,
+        3.2364615999999997
+      ],
+      "desc": "French-Belgian cuisine in charming Bruges",
+      "longDesc": "Intimate restaurant bridging French and Belgian traditions, perfect for refined family dining in medieval surroundings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Franco%20Belge%20Restaurant%20Bruges&center=51.211283099999996,3.2364615999999997",
+      "placeId": "ChIJvZjsyMlQw0cR3VIDn0hljdM",
+      "address": "Langestraat 109, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Bistro Refter Bruges",
+      "coord": [
+        51.2098945,
+        3.2320796
+      ],
+      "desc": "Casual bistro with Flemish specialties",
+      "longDesc": "Relaxed bistro celebrating Flemish traditions, ideal for families seeking authentic cuisine without pretension.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bistro%20Refter%20Bruges&center=51.2098945,3.2320796",
+      "placeId": "ChIJ7-wBzMhQw0cRCOmM8_1XYMM",
+      "address": "Molenmeers 2, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "LESS Eatery Bruges",
+      "coord": [
+        51.2047245,
+        3.2183474
+      ],
+      "desc": "Health-conscious restaurant in medieval Bruges",
+      "longDesc": "Contemporary health-focused restaurant respecting Belgian traditions, perfect for conscious-eating families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=LESS%20Eatery%20Bruges&center=51.2047245,3.2183474",
+      "placeId": "ChIJg2XVzQ1Rw0cRal-OkNFeCOo",
+      "address": "'t Zand 21a, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Le Mystique Bruges",
+      "coord": [
+        51.2100467,
+        3.2238799
+      ],
+      "desc": "Elegant restaurant in historic Bruges",
+      "longDesc": "Sophisticated restaurant celebrating gastronomy in intimate medieval setting near picturesque canals.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Mystique%20Bruges&center=51.2100467,3.2238799",
+      "placeId": "ChIJfQidQNBQw0cRhIDhhBJTjrU",
+      "address": "Niklaas Desparsstraat 11, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Frituur De Biezen Bruges",
+      "coord": [
+        51.2158768,
+        3.2174586
+      ],
+      "desc": "Authentic Belgian frites stand in Bruges",
+      "longDesc": "Traditional frites shop serving crispy Belgian fries with quality ingredients, perfect for quick family meals.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Frituur%20De%20Biezen%20Bruges&center=51.2158768,3.2174586",
+      "placeId": "ChIJAy5yUNRQw0cR2IkD7_9Opc8",
+      "address": "Kon. Elisabethlaan 32, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Frituur De Gentpoorte Bruges",
+      "coord": [
+        51.2033333,
+        3.2336111
+      ],
+      "desc": "Classic frites stand in Bruges historic center",
+      "longDesc": "Beloved frites institution, where families enjoy Belgium's famous golden fries with various toppings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Frituur%20De%20Gentpoorte%20Bruges&center=51.2033333,3.2336111",
+      "placeId": "ChIJjwzT0MZQw0cRf2eTXXP-qcc",
+      "address": "Gentpoortstraat 58, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Chez Albert Waffles Bruges",
+      "coord": [
+        51.2085112,
+        3.2258367999999997
+      ],
+      "desc": "Traditional Belgian waffles in heart of Bruges",
+      "longDesc": "Legendary waffle shop in Bruges, serving hot crispy creations topped with chocolate, fruit, or whipped cream.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chez%20Albert%20Waffles%20Bruges&center=51.2085112,3.2258367999999997",
+      "placeId": "ChIJU1Yl-M9Qw0cRoZcu8asnnyQ",
+      "address": "Breidelstraat 16, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Restaurant Maritime Antwerp",
+      "coord": [
+        51.221031499999995,
+        4.397379
+      ],
+      "desc": "Seafood specialist near Antwerp docks",
+      "longDesc": "Nautical-themed seafood restaurant celebrating fresh catches, perfect for families loving ocean flavors.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Maritime%20Antwerp&center=51.221031499999995,4.397379",
+      "placeId": "ChIJ144o3fX2w0cRjSe9MCtr0Hk",
+      "address": "Suikerrui 4, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Het Nieuwe Palinghuis Antwerp",
+      "coord": [
+        51.2183393,
+        4.3965146
+      ],
+      "desc": "Historic seafood restaurant in Antwerp",
+      "longDesc": "Legendary Antwerp seafood institution, serving fresh catches prepared with time-honored techniques.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Het%20Nieuwe%20Palinghuis%20Antwerp&center=51.2183393,4.3965146",
+      "placeId": "ChIJh7zfEPT2w0cRh3jtF8g7wXM",
+      "address": "Sint-Jansvliet 14, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Resto Bar Rosewood Leuven",
+      "coord": [
+        50.878208799999996,
+        4.7002001
+      ],
+      "desc": "Contemporary bistro in university Leuven",
+      "longDesc": "Modern bistro in vibrant university town, perfect for families exploring medieval college buildings and squares.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Resto%20Bar%20Rosewood%20Leuven&center=50.878208799999996,4.7002001",
+      "placeId": "ChIJfY5N_Y5hwUcReVkZZQSPUf4",
+      "address": "Zeelstraat 1, 3000 Leuven, Belgium"
+    },
+    {
+      "name": "Jette Aardappel Mechelen",
+      "coord": [
+        51.0267423,
+        4.4842727
+      ],
+      "desc": "Traditional Belgian restaurant in historic Mechelen",
+      "longDesc": "Authentic Mechelen restaurant celebrating Flemish traditions near carillon bell tower.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jette%20Aardappel%20Mechelen&center=51.0267423,4.4842727",
+      "placeId": "ChIJw5kOcADlw0cRZMEqdktzyjo",
+      "address": "Huidevettersstraat 7, 2800 Mechelen, Belgium"
+    },
+    {
+      "name": "Ristorante La Roccia Dinant",
+      "coord": [
+        50.258532599999995,
+        4.9138826
+      ],
+      "desc": "Italian cuisine overlooking Meuse river valley",
+      "longDesc": "Refined Italian restaurant with stunning river views, perfect for romantic Wallonian valley dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ristorante%20La%20Roccia%20Dinant&center=50.258532599999995,4.9138826",
+      "placeId": "ChIJnw6aEOO_wUcR9aGAaddD134",
+      "address": "Rue Grande 88, 5500 Dinant, Belgium"
+    },
+    {
+      "name": "Auberge du Pont Anhée",
+      "coord": [
+        50.109202,
+        4.962371
+      ],
+      "desc": "Traditional cuisine in Wallonian Meuse valley",
+      "longDesc": "Charming riverside auberge celebrating regional Wallonian specialties among dramatic cliffs and forests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Auberge%20du%20Pont%20Anh%C3%A9e&center=50.109202,4.962371",
+      "placeId": "ChIJ-ZcfWhnDwUcRYa8KPBJDkp0",
+      "address": "Rue de l'Aubépine 33, 5570 Beauraing, Belgium"
+    },
+    {
+      "name": "Restaurant Château Spontin Wallonia",
+      "coord": [
+        50.3225127,
+        5.0057836
+      ],
+      "desc": "Fine dining in castle setting among forests",
+      "longDesc": "Unique dining experience in castle surroundings, combining medieval ambiance with refined cuisine.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Ch%C3%A2teau%20Spontin%20Wallonia&center=50.3225127,5.0057836",
+      "placeId": "ChIJSZLr7qe-wUcRCbvrFEyGzME",
+      "address": "Chau. de Dinant 26, 5530 Yvoir, Belgium"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Brussels Grand Place",
+      "coord": [
+        50.8467887,
+        4.3524356
+      ],
+      "desc": "Stunning baroque square, heart of Brussels, UNESCO site",
+      "longDesc": "Magnificent baroque square surrounded by ornate guild halls, representing Brussels' architectural splendor and historic significance.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20Grand%20Place&center=50.8467887,4.3524356",
+      "placeId": "ChIJ8fEURn_Ew0cRts_ij101PLA",
+      "address": "Grote Markt, 1000 Brussel, Belgium"
+    },
+    {
+      "name": "Atomium Brussels",
+      "coord": [
+        50.8948787,
+        4.3415547
+      ],
+      "desc": "Iconic 1958 Brussels landmark with panoramic views",
+      "longDesc": "Futuristic symbol of post-war optimism offering 360-degree city views from spheres, must-see Brussels icon.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Atomium%20Brussels&center=50.8948787,4.3415547",
+      "placeId": "ChIJAQAAAKzDw0cRCTemaB0Hk1I",
+      "address": "Pl. de l'Atomium 1, 1020 Bruxelles, Belgium"
+    },
+    {
+      "name": "Bruges Medieval Center",
+      "coord": [
+        51.2088142,
+        3.2243722999999997
+      ],
+      "desc": "UNESCO world heritage canals and cobblestone streets",
+      "longDesc": "UNESCO-protected medieval town with enchanting canals, fairytale architecture, and preserved European heritage.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bruges%20Medieval%20Center&center=51.2088142,3.2243722999999997",
+      "placeId": "ChIJlaGEagBRw0cRvV1SvEV1wQ8",
+      "address": "Grote Markt, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Bruges Canal Boat Tour",
+      "coord": [
+        51.2056811,
+        3.2247692999999997
+      ],
+      "desc": "Scenic gondola-style boat tours through medieval Bruges",
+      "longDesc": "Magical boat tours revealing Bruges' waterways, medieval bridges, and hidden courtyards from water-level perspective.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bruges%20Canal%20Boat%20Tour&center=51.2056811,3.2247692999999997",
+      "placeId": "ChIJwQIp1cRQw0cRWZ8foeGHq5o",
+      "address": "Nieuwstraat 11, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Belfort Tower Bruges",
+      "coord": [
+        51.2081466,
+        3.2248010999999996
+      ],
+      "desc": "UNESCO 13th-century belfry tower in Bruges market",
+      "longDesc": "Iconic medieval tower offering panoramic Bruges views and hourly carillon bells ringing across medieval squares.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Belfort%20Tower%20Bruges&center=51.2081466,3.2248010999999996",
+      "placeId": "ChIJiw5pqdpQw0cRWIG9Y_lvVGk",
+      "address": "Markt 7, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Minnewater Park Bruges",
+      "coord": [
+        51.1995291,
+        3.225273
+      ],
+      "desc": "Historic park with swans and romantic lake setting",
+      "longDesc": "Enchanting lakeside park with swans, medieval ramparts, and picturesque Bruges architecture perfect for family walks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Minnewater%20Park%20Bruges&center=51.1995291,3.225273",
+      "placeId": "ChIJDT0VwcJQw0cRq0ykrXK0h34",
+      "address": "Minnewater 1/15, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Antwerp Historic Quarter",
+      "coord": [
+        51.2227238,
+        4.3973637
+      ],
+      "desc": "Medieval streets, diamond district, art galleries",
+      "longDesc": "Medieval streets leading through galleries, boutiques, and heritage buildings showcasing Antwerp's art and design heritage.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Antwerp%20Historic%20Quarter&center=51.2227238,4.3973637",
+      "placeId": "ChIJO-nq3fX2w0cRBavEBrxq_f8",
+      "address": "Het Steen, Steenplein 1, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Antwerp Diamond Quarter",
+      "coord": [
+        51.2144888,
+        4.4190257
+      ],
+      "desc": "World-famous diamond trading and jewelry district",
+      "longDesc": "Legendary diamond trading district where families glimpse glamorous gemstone industry shaping Antwerp's prosperity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Antwerp%20Diamond%20Quarter&center=51.2144888,4.4190257",
+      "placeId": "ChIJc2GYUQL3w0cRNkDQ5DQi4S0",
+      "address": "Hoveniersstraat 53, 2018 Antwerpen, Belgium"
+    },
+    {
+      "name": "Antwerp Fashion Museum",
+      "coord": [
+        51.217380899999995,
+        4.3998644
+      ],
+      "desc": "World-class fashion museum in Antwerp",
+      "longDesc": "Premier fashion institution celebrating design heritage, featuring cutting-edge fashion and Belgian designer innovations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Antwerp%20Fashion%20Museum&center=51.217380899999995,4.3998644",
+      "placeId": "ChIJQ91SMfH2w0cRTmX3t5LsZgs",
+      "address": "Nationalestraat 28, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Museum aan de Strom Antwerp",
+      "coord": [
+        51.2289612,
+        4.4047104
+      ],
+      "desc": "Contemporary art museum in modernist MAS building",
+      "longDesc": "Striking modern museum building housing contemporary Belgian art and exhibitions, with panoramic rooftop restaurant.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20aan%20de%20Strom%20Antwerp&center=51.2289612,4.4047104",
+      "placeId": "ChIJZykwEFr2w0cRmgzGX1tHug4",
+      "address": "Hanzestedenplaats 1, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Royal Museum of Fine Arts Antwerp",
+      "coord": [
+        51.2088148,
+        4.3948089
+      ],
+      "desc": "World-class fine art museum with Flemish masters",
+      "longDesc": "Premier Belgian art institution showcasing Flemish Old Masters alongside contemporary works in grand building.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Museum%20of%20Fine%20Arts%20Antwerp&center=51.2088148,4.3948089",
+      "placeId": "ChIJtSj1Ruz2w0cRVYkuLOF6l3s",
+      "address": "Leopold de Waelplaats 1, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Rubens House Antwerp",
+      "coord": [
+        51.2168723,
+        4.4099882
+      ],
+      "desc": "Historic home and studio of painter Peter Paul Rubens",
+      "longDesc": "Intimate museum preserving Rubens' actual living and working spaces, offering window into Baroque master's creative world.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rubens%20House%20Antwerp&center=51.2168723,4.4099882",
+      "placeId": "ChIJC-2isfv2w0cR8aYEwRScq4s",
+      "address": "Hopland 13, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Cathedral of Our Lady Antwerp",
+      "coord": [
+        51.2203702,
+        4.4015341999999995
+      ],
+      "desc": "Gothic cathedral with Rubens artwork",
+      "longDesc": "Magnificent 14th-century Gothic cathedral housing masterpieces by Rubens and other Flemish painters.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cathedral%20of%20Our%20Lady%20Antwerp&center=51.2203702,4.4015341999999995",
+      "placeId": "ChIJhYw-Aff2w0cRSugPT1RpxyQ",
+      "address": "Groenplaats 21, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Ghent Medieval Center",
+      "coord": [
+        51.0524481,
+        3.7210903
+      ],
+      "desc": "UNESCO medieval city with bohemian culture",
+      "longDesc": "Medieval city with fairytale architecture, vibrant university culture, and artistic energy along picturesque canals.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghent%20Medieval%20Center&center=51.0524481,3.7210903",
+      "placeId": "ChIJneRtqkZxw0cRtx10jyhnMeg",
+      "address": "Predikherenlei 14, 9000 Gent, Belgium"
+    },
+    {
+      "name": "Gravensteen Ghent",
+      "coord": [
+        51.057176899999995,
+        3.7207225
+      ],
+      "desc": "Medieval castle fortress in Ghent city center",
+      "longDesc": "Imposing medieval fortress offering panoramic Ghent views and medieval atmosphere in city heart.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gravensteen%20Ghent&center=51.057176899999995,3.7207225",
+      "placeId": "ChIJcbDulEBxw0cRvttqH71W_y0",
+      "address": "Sint-Veerleplein 11, 9000 Gent, Belgium"
+    },
+    {
+      "name": "Sint-Baafskathedraal Ghent",
+      "coord": [
+        51.0532335,
+        3.7265059999999997
+      ],
+      "desc": "Gothic cathedral with famous Ghent Altarpiece",
+      "longDesc": "Historic cathedral housing Jan van Eyck's masterpiece altarpiece, one of Northern Europe's greatest artworks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sint-Baafskathedraal%20Ghent&center=51.0532335,3.7265059999999997",
+      "placeId": "ChIJG-d0G0Zxw0cRUkUh5bmZs5Q",
+      "address": "Sint-Baafsplein 1, 9000 Gent, Belgium"
+    },
+    {
+      "name": "Saint Bavo's Square Ghent",
+      "coord": [
+        51.0532335,
+        3.7265059999999997
+      ],
+      "desc": "Picturesque medieval square in Ghent heart",
+      "longDesc": "Charming medieval square surrounded by guild halls and historic buildings, perfect for families exploring on foot.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Saint%20Bavo%27s%20Square%20Ghent&center=51.0532335,3.7265059999999997",
+      "placeId": "ChIJG-d0G0Zxw0cRUkUh5bmZs5Q",
+      "address": "Sint-Baafsplein 1, 9000 Gent, Belgium"
+    },
+    {
+      "name": "Brussels Royal Palace",
+      "coord": [
+        50.8420026,
+        4.3623406
+      ],
+      "desc": "Grand royal residence and state ceremonial building",
+      "longDesc": "Magnificent palace representing Belgium's monarchy, offering glimpses of royal grandeur and Belgian governance.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20Royal%20Palace&center=50.8420026,4.3623406",
+      "placeId": "ChIJg1inSYHEw0cRPXqckguLZjM",
+      "address": "Rue Brederode 16, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Museum of Natural Sciences Brussels",
+      "coord": [
+        50.836659499999996,
+        4.376632
+      ],
+      "desc": "World-class dinosaur museum and natural history",
+      "longDesc": "Premier Belgian natural history museum with impressive dinosaur collections and interactive family exhibits.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Natural%20Sciences%20Brussels&center=50.836659499999996,4.376632",
+      "placeId": "ChIJV1d24pnEw0cRPiHMOM4Bv5g",
+      "address": "Rue Vautier 29, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Royal Museum of Art & History Brussels",
+      "coord": [
+        50.8393483,
+        4.391503
+      ],
+      "desc": "Comprehensive art and archaeology museum",
+      "longDesc": "Major museum showcasing Belgian art, decorative arts, and archaeological treasures from ancient to modern times.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Museum%20of%20Art%20%26%20History%20Brussels&center=50.8393483,4.391503",
+      "placeId": "ChIJ-y68pIyulEcR56HxZ-hxxnY",
+      "address": "Parc du Cinquantenaire 10, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Magritte Museum Brussels",
+      "coord": [
+        50.8424057,
+        4.3586407
+      ],
+      "desc": "Surrealism museum dedicated to René Magritte",
+      "longDesc": "Fascinating museum dedicated to Belgian surrealist master, featuring dreamlike paintings and philosophical artworks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Magritte%20Museum%20Brussels&center=50.8424057,4.3586407",
+      "placeId": "ChIJPYlgS4fEw0cRhva9IKvp0iQ",
+      "address": "Pl. Royale 1, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Waterloo Battlefield",
+      "coord": [
+        50.6794052,
+        4.4047214
+      ],
+      "desc": "Historic 1815 battle site with museum and monuments",
+      "longDesc": "Legendary Napoleonic battle site with museums, monuments, and immersive history bringing pivotal moment alive.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Waterloo%20Battlefield&center=50.6794052,4.4047214",
+      "placeId": "ChIJ8T9K3x_Sw0cR9Jn60PE5UX0",
+      "address": "Rte du Lion 1815, 1420 Braine-l'Alleud, Belgium"
+    },
+    {
+      "name": "Waterloo Lion Monument",
+      "coord": [
+        50.678471699999996,
+        4.404838
+      ],
+      "desc": "Iconic landmark on historic Waterloo battlefield",
+      "longDesc": "Massive sandstone lion monument dominating Waterloo landscape, symbolizing Belgium's independence and victory.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Waterloo%20Lion%20Monument&center=50.678471699999996,4.404838",
+      "placeId": "ChIJ45osxB_Sw0cRxC1e_JX-8-M",
+      "address": "Rte du Lion 1815, 1420 Braine-l'Alleud, Belgium"
+    },
+    {
+      "name": "War Museum Bastogne",
+      "coord": [
+        50.010694,
+        5.739088
+      ],
+      "desc": "WWII museum in Ardennes battle town",
+      "longDesc": "Comprehensive WWII museum documenting Battle of the Bulge, preserving stories of historic December 1944 offensive.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=War%20Museum%20Bastogne&center=50.010694,5.739088",
+      "placeId": "ChIJdz_SJ5gZwEcRd4u5Spgb2zI",
+      "address": "Colline du Mardasson 5, 6600 Bastogne, Belgium"
+    },
+    {
+      "name": "Mardasson Memorial Bastogne",
+      "coord": [
+        50.009444699999996,
+        5.7390327999999995
+      ],
+      "desc": "WWII memorial star-shaped monument",
+      "longDesc": "Moving star-shaped memorial honoring American soldiers, offering panoramic Ardennes views and historical reflection.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mardasson%20Memorial%20Bastogne&center=50.009444699999996,5.7390327999999995",
+      "placeId": "ChIJp7FWrZAZwEcRHpFa7jR56Y8",
+      "address": "Rte de Bizory 1, 6600 Bastogne, Belgium"
+    },
+    {
+      "name": "Dinant Saxophone Museum",
+      "coord": [
+        50.261772099999995,
+        4.911133599999999
+      ],
+      "desc": "Museum celebrating saxophone invention birthplace",
+      "longDesc": "Unique museum celebrating Dinant's Adolphe Sax legacy, birthplace of the legendary instrument.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dinant%20Saxophone%20Museum&center=50.261772099999995,4.911133599999999",
+      "placeId": "ChIJbf8vueG_wUcRv2RDh0a5dF8",
+      "address": "Rue Adolphe Sax 37, 5500 Dinant, Belgium"
+    },
+    {
+      "name": "Dinant Citadel",
+      "coord": [
+        50.261727099999995,
+        4.9131095
+      ],
+      "desc": "Historic fortress overlooking Meuse river valley",
+      "longDesc": "19th-century citadel offering dramatic Meuse valley vistas, museums, and panoramic Wallonian countryside views.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dinant%20Citadel&center=50.261727099999995,4.9131095",
+      "placeId": "ChIJJ7pgd-G_wUcRtri8mNWbF_o",
+      "address": "Chem. de la Citadelle 1, 5500 Dinant, Belgium"
+    },
+    {
+      "name": "Adolphe Sax Statue Dinant",
+      "coord": [
+        50.262021399999995,
+        4.9109888999999995
+      ],
+      "desc": "Monument to saxophone inventor on Meuse banks",
+      "longDesc": "Waterside statue honoring Adolphe Sax, iconic Dinant landmark overlooking the scenic Meuse river.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Adolphe%20Sax%20Statue%20Dinant&center=50.262021399999995,4.9109888999999995",
+      "placeId": "ChIJbaLcNoS_wUcRIHGdYdow0Cc",
+      "address": "Pl. Victor Collard 2/12, 5500 Dinant, Belgium"
+    },
+    {
+      "name": "Meuse River Kayaking",
+      "coord": [
+        50.237092999999994,
+        4.905982
+      ],
+      "desc": "Scenic kayaking through Belgian Ardennes valley",
+      "longDesc": "Thrilling paddling adventure through dramatic limestone cliffs and forested Ardennes, perfect for adventure families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Meuse%20River%20Kayaking&center=50.237092999999994,4.905982",
+      "placeId": "ChIJeXrOiQLAwUcRMrDpbdRg42s",
+      "address": "Rue du Vélodrome 15, 5500 Dinant, Belgium"
+    },
+    {
+      "name": "Ardennes Forest Hiking",
+      "coord": [
+        49.8522852,
+        4.6212927
+      ],
+      "desc": "Extensive hiking trails through Wallonian nature",
+      "longDesc": "Network of forest trails offering peaceful nature immersion, wildlife encounters, and countryside beauty.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ardennes%20Forest%20Hiking&center=49.8522852,4.6212927",
+      "placeId": "ChIJj2ASgiQH6kcRpWhPfNaVa_I",
+      "address": "RD140, Route de Secheval, 08150 Renwez, France"
+    },
+    {
+      "name": "Belgium Belgian Beer Museum Brussels",
+      "coord": [
+        50.847850199999996,
+        4.3507608
+      ],
+      "desc": "Interactive museum celebrating Belgian beer culture",
+      "longDesc": "Engaging museum exploring Belgium's diverse beer heritage, tasting rooms, and brewing traditions worldwide.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Belgium%20Belgian%20Beer%20Museum%20Brussels&center=50.847850199999996,4.3507608",
+      "placeId": "ChIJmd67W0LFw0cRlwN0o7u9CoY",
+      "address": "Bd Anspach 80, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Brussels Comic Strip Museum",
+      "coord": [
+        50.851006299999995,
+        4.3601312
+      ],
+      "desc": "Museum celebrating Belgian comic art tradition",
+      "longDesc": "Unique museum honoring Tintin and Belgian comic book legacy, featuring original artwork and interactive exhibits.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20Comic%20Strip%20Museum&center=50.851006299999995,4.3601312",
+      "placeId": "ChIJwQ0CZX_Dw0cRAgyG-NX_zKA",
+      "address": "Rue des Sables 20, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Ghent University Museum",
+      "coord": [
+        51.0361505,
+        3.7232761
+      ],
+      "desc": "Museum in historic university buildings",
+      "longDesc": "Educational institution museum showcasing university heritage and Belgian academic traditions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghent%20University%20Museum&center=51.0361505,3.7232761",
+      "placeId": "ChIJb2h5SGxzw0cRoUeYtnkEpf8",
+      "address": "Karel Lodewijk Ledeganckstraat 35, 9000 Gent, Belgium"
+    },
+    {
+      "name": "Mechelen Carillon School",
+      "coord": [
+        51.0260575,
+        4.4811764
+      ],
+      "desc": "Historic bell tower and school near Mechelen cathedral",
+      "longDesc": "Unique center for Belgium's carillon bell-ringing tradition, with hourly concerts and learning opportunities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mechelen%20Carillon%20School&center=51.0260575,4.4811764",
+      "placeId": "ChIJ-beA_svlw0cRzD-GP5F931U",
+      "address": "Bruul 52, 2800 Mechelen, Belgium"
+    },
+    {
+      "name": "St. Rumbold's Cathedral Mechelen",
+      "coord": [
+        51.028858,
+        4.4792214
+      ],
+      "desc": "Gothic cathedral with UNESCO heritage bells",
+      "longDesc": "Magnificent Gothic cathedral housing Belgium's most famous carillon, with panoramic tower views of Mechelen.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Rumbold%27s%20Cathedral%20Mechelen&center=51.028858,4.4792214",
+      "placeId": "ChIJRQw2UMjlw0cR15pur0uDGgQ",
+      "address": "Onder-Den-Toren 12, 2800 Mechelen, Belgium"
+    },
+    {
+      "name": "Toys Museum Mechelen",
+      "coord": [
+        51.0170825,
+        4.4840053
+      ],
+      "desc": "Museum of vintage and historic toys",
+      "longDesc": "Charming museum celebrating toy history, perfect for families enjoying nostalgia and childhood memories.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Toys%20Museum%20Mechelen&center=51.0170825,4.4840053",
+      "placeId": "ChIJG1JjgDXkw0cRti9vwmP41bE",
+      "address": "Koning Albertplein 2B, 2800 Mechelen, Belgium"
+    },
+    {
+      "name": "Tournai Cathedral",
+      "coord": [
+        50.6064691,
+        3.3892417
+      ],
+      "desc": "UNESCO world heritage cathedral with five towers",
+      "longDesc": "Architectural masterpiece with distinctive five towers, representing centuries of Belgian religious heritage.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tournai%20Cathedral&center=50.6064691,3.3892417",
+      "placeId": "ChIJg9lMeXXgwkcRqkfv3KbODRc",
+      "address": "Pl. de l'Evêché 1, 7500 Tournai, Belgium"
+    },
+    {
+      "name": "Royal Museum of Tournai",
+      "coord": [
+        50.6034192,
+        3.3871911
+      ],
+      "desc": "Art museum in historic Tournai city",
+      "longDesc": "Belgian art museum showcasing regional artistic traditions in medieval city setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Museum%20of%20Tournai&center=50.6034192,3.3871911",
+      "placeId": "ChIJqVC3oNjfwkcR0XcFw_80SBY",
+      "address": "Rue Saint-Martin 52, 7500 Tournai, Belgium"
+    },
+    {
+      "name": "Leuven University Library",
+      "coord": [
+        50.8781506,
+        4.707263
+      ],
+      "desc": "Historic Gothic library in university town",
+      "longDesc": "Architecturally stunning library in medieval Leuven, blending academic heritage with artistic beauty.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Leuven%20University%20Library&center=50.8781506,4.707263",
+      "placeId": "ChIJc5r0ZtZgwUcRhabQossfwS8",
+      "address": "Monseigneur Ladeuzeplein 21, 3000 Leuven, Belgium"
+    },
+    {
+      "name": "Brussels Sablon District",
+      "coord": [
+        50.8395691,
+        4.3565987999999995
+      ],
+      "desc": "Artistic neighborhood with galleries and antique shops",
+      "longDesc": "Charming Brussels quarter filled with antique dealers, art galleries, and refined cafes near churches.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20Sablon%20District&center=50.8395691,4.3565987999999995",
+      "placeId": "ChIJi1yFcH3Ew0cRMmuGFDc3PBo",
+      "address": "Pl. du Petit Sablon 12, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "De Panne Beach",
+      "coord": [
+        51.0877,
+        2.6159
+      ],
+      "desc": "Wide sandy beach with water sports facilities",
+      "longDesc": "Popular North Sea beach offering families swimming, wind sports, and classic beach town atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20Panne%20Beach&center=51.0877,2.6159"
+    },
+    {
+      "name": "Knokke Beach Resort",
+      "coord": [
+        51.340966599999994,
+        3.2594127
+      ],
+      "desc": "Upscale Belgian North Sea coastal resort",
+      "longDesc": "Prestigious seaside destination offering families refined beach culture, boutique shopping, and water activities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Knokke%20Beach%20Resort&center=51.340966599999994,3.2594127",
+      "placeId": "ChIJhXmTCMupxEcRjckVldyYxlk",
+      "address": "Elizabetlaan 305, 8301 Knokke-Heist, Belgium"
+    },
+    {
+      "name": "Ostend Promenade",
+      "coord": [
+        51.235305399999994,
+        2.9161003
+      ],
+      "desc": "Victorian beachfront promenade in coastal town",
+      "longDesc": "Classic seaside promenade capturing Belle Époque charm, perfect for families enjoying Belgian coastal heritage.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ostend%20Promenade&center=51.235305399999994,2.9161003",
+      "placeId": "ChIJ0ep-rteo3EcRLMJay8iWvnE",
+      "address": "Strand Oostende, Albert I-promenade, 8400 Oostende, Belgium"
+    },
+    {
+      "name": "Zeebrugge Harbor",
+      "coord": [
+        51.3345704,
+        3.2184708
+      ],
+      "desc": "Working fishing harbor with fresh seafood",
+      "longDesc": "Active harbor where fishing boats land fresh catches, offering families authentic coastal fishing village experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Zeebrugge%20Harbor&center=51.3345704,3.2184708",
+      "placeId": "ChIJSVUYGa6pxEcRuybknEtUD5M",
+      "address": "Isabellalaan 1, 8380 Brugge, Belgium"
+    },
+    {
+      "name": "Namur Citadel",
+      "coord": [
+        50.4597979,
+        4.861122
+      ],
+      "desc": "Historic fortress overlooking Meuse river",
+      "longDesc": "Impressive 17th-century citadel with museums, offering panoramic Wallonian valley views and military history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Namur%20Citadel&center=50.4597979,4.861122",
+      "placeId": "ChIJN5NW0XaZwUcRe0qIPAKGKqs",
+      "address": "Rte Merveilleuse 64, 5000 Namur, Belgium"
+    },
+    {
+      "name": "Belgian Chocolate Making Workshop",
+      "coord": [
+        50.8428784,
+        4.3417902
+      ],
+      "desc": "Interactive chocolate craft classes",
+      "longDesc": "Hands-on chocolate workshops where families create confections, learning Belgian chocolate artistry traditions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Belgian%20Chocolate%20Making%20Workshop&center=50.8428784,4.3417902",
+      "placeId": "ChIJl1oNwHjEw0cR68CdbYcwbZ8",
+      "address": "Rue des Foulons 30, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Waffle Baking Experience Brussels",
+      "coord": [
+        50.848416699999994,
+        4.3510994
+      ],
+      "desc": "Traditional Belgian waffle-making lessons",
+      "longDesc": "Fun cooking classes where families master Belgian waffle techniques, creating crispy delights from scratch.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Waffle%20Baking%20Experience%20Brussels&center=50.848416699999994,4.3510994",
+      "placeId": "ChIJeZGz6PnDw0cRCPhIZp83Y9M",
+      "address": "Rue du Marché aux Poulets 51, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Bruges Lace Market",
+      "coord": [
+        51.2095148,
+        3.2255928
+      ],
+      "desc": "Historic lace and traditional crafts in Bruges",
+      "longDesc": "Historic market celebrating centuries of Belgian lace tradition, featuring handmade products reflecting cultural heritage.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bruges%20Lace%20Market&center=51.2095148,3.2255928",
+      "placeId": "ChIJp67Z4M9Qw0cRMEy8yJ_3ohM",
+      "address": "Philipstockstraat 11, 8000 Brugge, Belgium"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Antwerp Zoo",
+      "coord": [
+        51.2163428,
+        4.4235413999999995
+      ],
+      "desc": "Historic zoo with diverse animal collection",
+      "longDesc": "Belgium's oldest zoo housing worldwide wildlife, engaging children with interactive exhibits and conservation education.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Antwerp%20Zoo&center=51.2163428,4.4235413999999995",
+      "placeId": "ChIJzwWVHAT3w0cRH76tPmezwiE",
+      "address": "Koningin Astridplein 20-26, 2018 Antwerpen, Belgium"
+    },
+    {
+      "name": "Sebrechtspark Bruges",
+      "coord": [
+        51.209374999999994,
+        3.2181032
+      ],
+      "desc": "Beautiful park in Bruges with playgrounds for kids",
+      "longDesc": "Verdant Bruges park with dedicated playgrounds, walking paths, and peaceful green space for family recreation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sebrechtspark%20Bruges&center=51.209374999999994,3.2181032",
+      "placeId": "ChIJW1fHW9dQw0cR495idPXhr3Y",
+      "address": "Beenhouwersstraat 26, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Minnewater Park Bruges",
+      "coord": [
+        51.1995291,
+        3.225273
+      ],
+      "desc": "Historic park with swans and romantic lake setting - kidFriendly location",
+      "longDesc": "Enchanting lakeside park where children delight in swans, Medieval ramparts, and picturesque family walks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Minnewater%20Park%20Bruges&center=51.1995291,3.225273",
+      "placeId": "ChIJDT0VwcJQw0cRq0ykrXK0h34",
+      "address": "Minnewater 1/15, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Koningin Astridpark Bruges",
+      "coord": [
+        51.206179999999996,
+        3.231236
+      ],
+      "desc": "Large park in Bruges with walking paths and green space",
+      "longDesc": "Spacious Bruges park perfect for families with extensive walking paths, playgrounds, and nature exploration.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Koningin%20Astridpark%20Bruges&center=51.206179999999996,3.231236",
+      "placeId": "ChIJg3e9ecZQw0cRl-0iJoUiPI4",
+      "address": "Park, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Sue's Corner Antwerp",
+      "coord": [
+        51.231188599999996,
+        4.4109205
+      ],
+      "desc": "Toy store and kids' play area in Antwerp",
+      "longDesc": "Toy store combining shopping delight with play areas, keeping younger travelers entertained in Antwerp.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sue%27s%20Corner%20Antwerp&center=51.231188599999996,4.4109205",
+      "placeId": "ChIJMS3xdYX3w0cR2qZjwekDbpk",
+      "address": "Londenstraat 31, Londenstraat 29, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Plopsaland De Panne",
+      "coord": [
+        51.080738399999994,
+        2.5985541
+      ],
+      "desc": "Family theme park on Belgian North Sea coast",
+      "longDesc": "Fun-filled theme park with rides and attractions, perfect for families seeking traditional amusement park thrills.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Plopsaland%20De%20Panne&center=51.080738399999994,2.5985541",
+      "placeId": "ChIJFeD4Lo6W3EcRRekUPAxC-T8",
+      "address": "De Pannelaan 68, 8660 De Panne, Belgium"
+    },
+    {
+      "name": "Boudewijn Seapark Bruges",
+      "coord": [
+        51.183071999999996,
+        3.2110759
+      ],
+      "desc": "Marine life park with dolphin shows near Bruges",
+      "longDesc": "Interactive marine park featuring dolphin performances and sea creature encounters, thrilling families with ocean life.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Boudewijn%20Seapark%20Bruges&center=51.183071999999996,3.2110759",
+      "placeId": "ChIJ6_iNnv5Qw0cRrqmwV0Oz4fU",
+      "address": "Alfons de Baeckestraat 12, 8200 Brugge, Belgium"
+    },
+    {
+      "name": "Mini-Europe Brussels",
+      "coord": [
+        50.8940497,
+        4.3389622
+      ],
+      "desc": "Miniature Europe landmark attractions theme park",
+      "longDesc": "Whimsical park with scaled European monuments, trains, and interactive exhibits, captivating children's imaginations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mini-Europe%20Brussels&center=50.8940497,4.3389622",
+      "placeId": "ChIJcXOguDXCw0cR-eXzCz20DFc",
+      "address": "Av. du Football 1, 1020 Bruxelles, Belgium"
+    },
+    {
+      "name": "Bicycle Rentals Bruges",
+      "coord": [
+        51.2100594,
+        3.2242066
+      ],
+      "desc": "Family-friendly bike tours through medieval Bruges",
+      "longDesc": "Pedal-powered exploration of Bruges' fairytale streets, the perfect way for families to experience medieval town.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bicycle%20Rentals%20Bruges&center=51.2100594,3.2242066",
+      "placeId": "ChIJNy9WOdBQw0cRbhf4j8KP9GA",
+      "address": "Niklaas Desparsstraat 17, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Brussels Toy Museum",
+      "coord": [
+        50.864661,
+        4.3481165
+      ],
+      "desc": "Museum celebrating vintage and modern toys",
+      "longDesc": "Charming museum nostalgic for parents and delightful for children, celebrating toy history and creativity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20Toy%20Museum&center=50.864661,4.3481165",
+      "placeId": "ChIJd3L4RJPDw0cRirE20AJmbKw",
+      "address": "Av. du Port 86C, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Belgian Chocolate Workshop for Kids",
+      "coord": [
+        50.8428784,
+        4.3417902
+      ],
+      "desc": "Children's chocolate-making craft classes",
+      "longDesc": "Fun chocolate workshops designed for kids, teaching confection artistry while satisfying sweet tooth cravings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Belgian%20Chocolate%20Workshop%20for%20Kids&center=50.8428784,4.3417902",
+      "placeId": "ChIJl1oNwHjEw0cR68CdbYcwbZ8",
+      "address": "Rue des Foulons 30, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Antwerp Zoo Tropical House",
+      "coord": [
+        51.2163428,
+        4.4235413999999995
+      ],
+      "desc": "Tropical greenhouse with exotic animals and plants",
+      "longDesc": "Climate-controlled exotic habitat enchanting children with rainforest creatures and lush vegetation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Antwerp%20Zoo%20Tropical%20House&center=51.2163428,4.4235413999999995",
+      "placeId": "ChIJzwWVHAT3w0cRH76tPmezwiE",
+      "address": "Koningin Astridplein 20-26, 2018 Antwerpen, Belgium"
+    },
+    {
+      "name": "Liege Science Museum",
+      "coord": [
+        50.6387559,
+        5.5786021
+      ],
+      "desc": "Interactive science museum for children",
+      "longDesc": "Hands-on science center engaging curious minds with physics experiments, inventions, and technology demonstrations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Liege%20Science%20Museum&center=50.6387559,5.5786021",
+      "placeId": "ChIJYRAkywf6wEcRebqxKyMK56Y",
+      "address": "Quai Edouard Van Beneden 22, 4020 Liège, Belgium"
+    },
+    {
+      "name": "Brussels Cinema Museum",
+      "coord": [
+        50.844172099999994,
+        4.3601522
+      ],
+      "desc": "Museum celebrating Belgian film and animation heritage",
+      "longDesc": "Interactive museum exploring Belgium's animation legacy, including Tintin and other beloved characters.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20Cinema%20Museum&center=50.844172099999994,4.3601522",
+      "placeId": "ChIJleXZ7oDEw0cRvIkpDRdJgsc",
+      "address": "Rue Baron Horta 9, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Ghent Children's Museum",
+      "coord": [
+        51.041580200000006,
+        3.726542
+      ],
+      "desc": "Interactive museum with hands-on activities",
+      "longDesc": "Educational playspace where children explore through hands-on exhibits, learning while having fun.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghent%20Children%27s%20Museum&center=51.041580200000006,3.726542",
+      "placeId": "ChIJJ-yzslBxw0cRA9IvuMcd0D0",
+      "address": "Sint-Pietersplein 14, 9000 Gent, Belgium"
+    },
+    {
+      "name": "Belgian Waffle Tasting Tour",
+      "coord": [
+        51.2093327,
+        3.2287377999999998
+      ],
+      "desc": "Family waffle-tasting experience in Bruges",
+      "longDesc": "Sweet adventure where families sample traditional Belgian waffles with varied toppings and flavors.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Belgian%20Waffle%20Tasting%20Tour&center=51.2093327,3.2287377999999998",
+      "placeId": "ChIJ08I-yyBRw0cROi16vvE2paY",
+      "address": "Hoogstraat 10, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Paddling Lessons Meuse River",
+      "coord": [
+        50.237092999999994,
+        4.905982
+      ],
+      "desc": "Beginner-friendly kayaking lessons for families",
+      "longDesc": "Safe introduction to paddling sports in scenic river setting, building water confidence for young adventurers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Paddling%20Lessons%20Meuse%20River&center=50.237092999999994,4.905982",
+      "placeId": "ChIJeXrOiQLAwUcRMrDpbdRg42s",
+      "address": "Rue du Vélodrome 15, 5500 Dinant, Belgium"
+    },
+    {
+      "name": "Ghent Boat Rental for Families",
+      "coord": [
+        51.046931900000004,
+        3.7198449
+      ],
+      "desc": "Family-friendly boat tours on Ghent canals",
+      "longDesc": "Gentle canal cruises revealing medieval Ghent from water, creating magical memories for children.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghent%20Boat%20Rental%20for%20Families&center=51.046931900000004,3.7198449",
+      "placeId": "ChIJfxNHqFxxw0cRGMxKwdx2DXo",
+      "address": "Coupure Rechts 2A, 9000 Gent, Belgium"
+    },
+    {
+      "name": "Antwerp Parks System",
+      "coord": [
+        51.2121583,
+        4.414947199999999
+      ],
+      "desc": "Network of green spaces throughout Antwerp",
+      "longDesc": "Interconnected parks offering playgrounds, sports facilities, and nature for active family recreation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Antwerp%20Parks%20System&center=51.2121583,4.414947199999999",
+      "placeId": "ChIJhxvhPv32w0cR7MAw9akWF6Y",
+      "address": "Rubenslei, 2018 Antwerpen, Belgium"
+    },
+    {
+      "name": "Mechelen Toy Museum",
+      "coord": [
+        51.0170825,
+        4.4840053
+      ],
+      "desc": "Museum of vintage and antique toys",
+      "longDesc": "Nostalgic museum delighting children and parents with historic toy collections and interactive play areas.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mechelen%20Toy%20Museum&center=51.0170825,4.4840053",
+      "placeId": "ChIJG1JjgDXkw0cRti9vwmP41bE",
+      "address": "Koning Albertplein 2B, 2800 Mechelen, Belgium"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Laurent Gerbaud Chocolatier Brussels",
+      "coord": [
+        50.8439962,
+        4.358679899999999
+      ],
+      "desc": "Award-winning chocolate shop in Brussels",
+      "longDesc": "Artisanal Brussels chocolate maker crafting exquisite pralines using traditional Belgian techniques and premium ingredients.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Laurent%20Gerbaud%20Chocolatier%20Brussels&center=50.8439962,4.358679899999999",
+      "placeId": "ChIJOxzLmYDEw0cRkDpvTwitM20",
+      "address": "Rue Ravenstein 2D, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "The Chocolate Line Bruges",
+      "coord": [
+        51.2065926,
+        3.2224214
+      ],
+      "desc": "Famous chocolate boutique by Dominique Persoone",
+      "longDesc": "Legendary Bruges chocolate shop by renowned chocolatier, offering innovative flavor combinations and artistic creations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Chocolate%20Line%20Bruges&center=51.2065926,3.2224214",
+      "placeId": "ChIJz6FC8NpQw0cRmnzxszB2b88",
+      "address": "Simon Stevinplein 19, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Neuzekes Bruges",
+      "coord": [
+        51.0556591,
+        3.7224649999999997
+      ],
+      "desc": "Traditional Belgian sweet shop in Bruges",
+      "longDesc": "Historic candy shop offering traditional Belgian sweets, caramels, and confections in charming medieval surroundings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Neuzekes%20Bruges&center=51.0556591,3.7224649999999997",
+      "placeId": "ChIJizMrn_Fxw0cRmP4OqklspdM",
+      "address": "Groentenmarkt 2, 9000 Gent, Belgium"
+    },
+    {
+      "name": "Godiva Brussels",
+      "coord": [
+        50.8466331,
+        4.3532526
+      ],
+      "desc": "Luxury chocolate brand flagship store",
+      "longDesc": "Iconic Belgian chocolate brand showcasing luxurious pralines and confections in grand flagship location.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Godiva%20Brussels&center=50.8466331,4.3532526",
+      "placeId": "ChIJt3MAOnzEw0cREaSVaJ-C0Yc",
+      "address": "Grand Place 21/22, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Leonidas Antwerp",
+      "coord": [
+        51.2175078,
+        4.4172534
+      ],
+      "desc": "Historic Belgian chocolate brand store",
+      "longDesc": "Beloved Belgian chocolate maker since 1913, offering quality pralines and traditional sweets.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Leonidas%20Antwerp&center=51.2175078,4.4172534",
+      "placeId": "ChIJadLl6AP3w0cRL6JjkSihA8A",
+      "address": "De Keyserlei 28, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Antwerp Diamond Quarter Markets",
+      "coord": [
+        51.2144888,
+        4.4190257
+      ],
+      "desc": "World-famous diamond trading and jewelry district",
+      "longDesc": "Legendary diamond trading hub where families glimpse sparkling gemstone market and quality jewelry.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Antwerp%20Diamond%20Quarter%20Markets&center=51.2144888,4.4190257",
+      "placeId": "ChIJc2GYUQL3w0cRNkDQ5DQi4S0",
+      "address": "Hoveniersstraat 53, 2018 Antwerpen, Belgium"
+    },
+    {
+      "name": "Bruges Lace Market",
+      "coord": [
+        51.2095148,
+        3.2255928
+      ],
+      "desc": "Historic lace and traditional crafts market in Bruges",
+      "longDesc": "Historic market celebrating centuries of Belgian lace tradition, featuring handmade products and artisan crafts.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bruges%20Lace%20Market&center=51.2095148,3.2255928",
+      "placeId": "ChIJp67Z4M9Qw0cRMEy8yJ_3ohM",
+      "address": "Philipstockstraat 11, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Chez Albert Waffles Bruges",
+      "coord": [
+        51.2085112,
+        3.2258367999999997
+      ],
+      "desc": "Traditional Belgian waffles in heart of Bruges",
+      "longDesc": "Iconic waffle stand where families enjoy hot, crispy creations with chocolate, fruit, or whipped cream toppings.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chez%20Albert%20Waffles%20Bruges&center=51.2085112,3.2258367999999997",
+      "placeId": "ChIJU1Yl-M9Qw0cRoZcu8asnnyQ",
+      "address": "Breidelstraat 16, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Maison Antoine Frites Brussels",
+      "coord": [
+        50.8368324,
+        4.3814747999999994
+      ],
+      "desc": "Legendary Belgian frites stand in Brussels",
+      "longDesc": "Iconic frites institution serving perfect golden fries with traditional Belgian accompaniments since 1948.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Maison%20Antoine%20Frites%20Brussels&center=50.8368324,4.3814747999999994",
+      "placeId": "ChIJB--3EpjEw0cRtJVRgZTn3rk",
+      "address": "1040, Jourdanplein 1, 1040 Etterbeek, Belgium"
+    },
+    {
+      "name": "Frituur De Biezen Bruges",
+      "coord": [
+        51.2158768,
+        3.2174586
+      ],
+      "desc": "Authentic Belgian frites stand market in Bruges",
+      "longDesc": "Traditional frites shop serving crispy Belgian fries with quality ingredients and various sauce options.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Frituur%20De%20Biezen%20Bruges&center=51.2158768,3.2174586",
+      "placeId": "ChIJAy5yUNRQw0cR2IkD7_9Opc8",
+      "address": "Kon. Elisabethlaan 32, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Antwerp Food Markets District",
+      "coord": [
+        51.2147915,
+        4.4100155999999995
+      ],
+      "desc": "Contemporary food halls and specialty food shops",
+      "longDesc": "Dynamic marketplace featuring fresh produce, artisanal foods, and Belgian specialties for cooking enthusiasts.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Antwerp%20Food%20Markets%20District&center=51.2147915,4.4100155999999995",
+      "placeId": "ChIJtYAxgPz2w0cR-_uoLeRaNpM",
+      "address": "Nieuwstad, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Brussels Saturday Market Place",
+      "coord": [
+        50.8367942,
+        4.3457073
+      ],
+      "desc": "Weekly open-air market near Grand Place",
+      "longDesc": "Traditional market featuring fresh produce, flowers, and local goods in historic Brussels location.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20Saturday%20Market%20Place&center=50.8367942,4.3457073",
+      "placeId": "ChIJrTElW2XEw0cRu_KeDBtiBfk",
+      "address": "Pl. du Jeu de Balle 79, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Antwerp Chocolaterie Vandermeulen",
+      "coord": [
+        51.217929899999994,
+        4.4084559
+      ],
+      "desc": "Traditional chocolate shop in Antwerp",
+      "longDesc": "Family-run chocolate maker creating quality pralines and sweets using traditional Belgian recipes.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Antwerp%20Chocolaterie%20Vandermeulen&center=51.217929899999994,4.4084559",
+      "placeId": "ChIJKytRavn2w0cR1Z24IAmF0VI",
+      "address": "Meir 50, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Brugse Zeeuwse Koekhandel Bruges",
+      "coord": [
+        51.207552899999996,
+        3.2262728
+      ],
+      "desc": "Traditional Belgian biscuit and cookie shop",
+      "longDesc": "Charming shop offering authentic Belgian biscuits, speculaas, and traditional baked treats since generations.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brugse%20Zeeuwse%20Koekhandel%20Bruges&center=51.207552899999996,3.2262728",
+      "placeId": "ChIJd4yeQ8VQw0cR5QS3Pv_HTJs",
+      "address": "Wollestraat 31a, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Belgian Cheese Specialty Shop Bruges",
+      "coord": [
+        51.2055924,
+        3.2159522999999997
+      ],
+      "desc": "Artisanal cheese market in medieval Bruges",
+      "longDesc": "Curated cheese shop featuring Belgian and European artisanal varieties, perfect for gourmet food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Belgian%20Cheese%20Specialty%20Shop%20Bruges&center=51.2055924,3.2159522999999997",
+      "placeId": "ChIJ54ILBNlQw0cRcKZKuLR6W5A",
+      "address": "Smedenstraat 11, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Antwerp Beer Shop",
+      "coord": [
+        51.2204666,
+        4.3998476
+      ],
+      "desc": "Specialty Belgian beer retail store",
+      "longDesc": "Comprehensive beer shop featuring Belgium's diverse styles, from Trappist monks to modern microbreweries.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Antwerp%20Beer%20Shop&center=51.2204666,4.3998476",
+      "placeId": "ChIJJz47Xfb2w0cRB52YrxniFsY",
+      "address": "Handschoenmarkt 8, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Brussels Spice Souk",
+      "coord": [
+        50.8497278,
+        4.3489704
+      ],
+      "desc": "Historic spice market near Grand Place",
+      "longDesc": "Aromatic marketplace offering global spices, herbs, and specialty ingredients for cooking experimentation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20Spice%20Souk&center=50.8497278,4.3489704",
+      "placeId": "ChIJAQAAAIfDw0cRivosMTP8ybw",
+      "address": "Rue de la Vge Noire 2, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Bruges Herb and Spice Market",
+      "coord": [
+        51.209620099999995,
+        3.2327782999999997
+      ],
+      "desc": "Specialty herbs and spices in historic Bruges",
+      "longDesc": "Aromatic shop featuring traditional Belgian herbs, spice blends, and specialty cooking ingredients.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bruges%20Herb%20and%20Spice%20Market&center=51.209620099999995,3.2327782999999997",
+      "placeId": "ChIJu7_fkoBRw0cRRrYqDoaGYzA",
+      "address": "Langestraat 22, 8000 Brugge, Belgium"
+    },
+    {
+      "name": "Ghent Food Market",
+      "coord": [
+        51.05011340000001,
+        3.7378080999999996
+      ],
+      "desc": "Contemporary food and craft market in Ghent",
+      "longDesc": "Vibrant marketplace in artistically progressive Ghent, featuring local producers and artisanal food items.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ghent%20Food%20Market&center=51.05011340000001,3.7378080999999996",
+      "placeId": "ChIJ_61Swkxxw0cRZXjNZzVbZPA",
+      "address": "Ferdinand Lousbergskaai 33, 9000 Gent, Belgium"
+    },
+    {
+      "name": "Brussels Christmas Markets",
+      "coord": [
+        50.851211299999996,
+        4.3528872
+      ],
+      "desc": "Seasonal holiday markets with holiday crafts and treats",
+      "longDesc": "Festive winter markets transforming city squares with holiday decoration, treats, and gift shopping.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20Christmas%20Markets&center=50.851211299999996,4.3528872",
+      "placeId": "ChIJ2V80QgDDw0cRRl4h4TJfsHg",
+      "address": "Pl. De Brouckère, 1000 Bruxelles, Belgium"
+    },
+    {
+      "name": "Antwerp Christmas Markets",
+      "coord": [
+        51.2212894,
+        4.3998856
+      ],
+      "desc": "Seasonal holiday market in Antwerp historic district",
+      "longDesc": "Holiday market featuring festive decorations, Belgian treats, and craft gifts throughout winter season.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Antwerp%20Christmas%20Markets&center=51.2212894,4.3998856",
+      "placeId": "ChIJY6eTP_b2w0cRnvPtAhhlczY",
+      "address": "Grote Markt, 2000 Antwerpen, Belgium"
+    },
+    {
+      "name": "Bruges Winter Market",
+      "coord": [
+        51.208688099999996,
+        3.2244082
+      ],
+      "desc": "Seasonal holiday market in medieval Bruges square",
+      "longDesc": "Enchanting winter market in fairytale medieval setting, offering holiday treats and handmade gifts.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bruges%20Winter%20Market&center=51.208688099999996,3.2244082",
+      "placeId": "ChIJDRP74RhRw0cRxAzuPfxKTw4",
+      "address": "Markt, 8000 Brugge, Belgium"
+    }
+  ],
+  "cityCenters": {
+    "Antwerp": [
+      51.2194,
+      4.4025,
+      0.025
+    ],
+    "Bruges": [
+      51.2093,
+      3.2247,
+      0.03
+    ],
+    "Brussels": [
+      50.8503,
+      4.3517,
+      0.04
+    ],
+    "Ghent": [
+      51.0554,
+      3.7175,
+      0.025
+    ],
+    "Leuven": [
+      50.8795,
+      4.7022,
+      0.02
+    ],
+    "Mechelen": [
+      51.4183,
+      4.4736,
+      0.02
+    ],
+    "Dinant": [
+      50.2625,
+      4.9139,
+      0.015
+    ],
+    "Waterloo": [
+      50.3819,
+      4.3831,
+      0.015
+    ],
+    "Tournai": [
+      50.6052,
+      4.4403,
+      0.015
+    ],
+    "Ostend": [
+      51.2283,
+      2.9314,
+      0.015
+    ],
+    "Namur": [
+      50.4639,
+      4.8693,
+      0.015
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "name": "Greatest Hits (7 days)",
+      "color": "#2563EB",
+      "days": [
+        {
+          "day": 1,
+          "title": "Brussels Arrival & Grand Place",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Steigenberger Wiltcher's Brussels",
+              "coord": [
+                50.8324587,
+                4.357470900000001
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Brussels Grand Place",
+              "coord": [
+                50.8467887,
+                4.3524356
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Chez Léon Brussels",
+              "coord": [
+                50.848204599999995,
+                4.3540661
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Brussels Royal Palace",
+              "coord": [
+                50.8420026,
+                4.3623406
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Comme Chez Soi Brussels",
+              "coord": [
+                50.8423616,
+                4.345815
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Brussels Icons & Museums",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Café Kitsuné Brussels",
+              "coord": [
+                50.8478596,
+                4.3537778000000005
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Atomium Brussels",
+              "coord": [
+                50.8948787,
+                4.3415547
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Restobieres Brussels",
+              "coord": [
+                50.8369827,
+                4.3476405
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Magritte Museum Brussels",
+              "coord": [
+                50.8424057,
+                4.3586407
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Brussels Sablon District",
+              "coord": [
+                50.8395691,
+                4.3565987999999995
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Chambre Séparée Brussels",
+              "coord": [
+                50.821205899999995,
+                4.3773422
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Bruges Medieval Enchantment",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "De Orangerie Bruges",
+              "coord": [
+                51.207065199999995,
+                3.2262850999999997
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bruges Medieval Center",
+              "coord": [
+                51.2088142,
+                3.2243722999999997
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Breydel De Coninc Bruges",
+              "coord": [
+                51.208495799999994,
+                3.2261354
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Belfort Tower Bruges",
+              "coord": [
+                51.2081466,
+                3.2248010999999996
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Bruges Canal Boat Tour",
+              "coord": [
+                51.2056811,
+                3.2247692999999997
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "De Karmeliet Bruges",
+              "coord": [
+                51.2097717,
+                3.2324059999999997
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Bruges Chocolate & Waffles",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chez Albert Waffles Bruges",
+              "coord": [
+                51.2085112,
+                3.2258367999999997
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "The Chocolate Line Bruges",
+              "coord": [
+                51.2065926,
+                3.2224214
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "'t Huidevettershuis Bruges",
+              "coord": [
+                51.207499999999996,
+                3.2277777999999997
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Minnewater Park Bruges",
+              "coord": [
+                51.1995291,
+                3.225273
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Bruges Lace Market",
+              "coord": [
+                51.2095148,
+                3.2255928
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hertog Jan Bruges",
+              "coord": [
+                51.2136339,
+                4.4057045
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Ghent Bohemian Vibes",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Pulcinella Ghent",
+              "coord": [
+                51.0405643,
+                3.7433389
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ghent Medieval Center",
+              "coord": [
+                51.0524481,
+                3.7210903
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Dit Hem Ghent",
+              "coord": [
+                51.0503309,
+                3.7284634000000003
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gravensteen Ghent",
+              "coord": [
+                51.057176899999995,
+                3.7207225
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Sint-Baafskathedraal Ghent",
+              "coord": [
+                51.0532335,
+                3.7265059999999997
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Groenten Grill Ghent",
+              "coord": [
+                51.0559121,
+                3.7277596
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Antwerp Art & Fashion",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Julien Antwerp",
+              "coord": [
+                51.2202938,
+                4.4037733999999995
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Antwerp Historic Quarter",
+              "coord": [
+                51.2227238,
+                4.3973637
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Grand Café De Rooden Hoed Antwerp",
+              "coord": [
+                51.2201131,
+                4.4001535
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Antwerp Fashion Museum",
+              "coord": [
+                51.217380899999995,
+                4.3998644
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Rubens House Antwerp",
+              "coord": [
+                51.2168723,
+                4.4099882
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "'t Fornuis Antwerp",
+              "coord": [
+                51.219017,
+                4.399416899999999
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Antwerp Diamond & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel Julien Antwerp",
+              "coord": [
+                51.2202938,
+                4.4037733999999995
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Antwerp Diamond Quarter",
+              "coord": [
+                51.2144888,
+                4.4190257
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Museum aan de Strom Antwerp",
+              "coord": [
+                51.2289612,
+                4.4047104
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Het Nieuwe Palinghuis Antwerp",
+              "coord": [
+                51.2183393,
+                4.3965146
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Cathedral of Our Lady Antwerp",
+              "coord": [
+                51.2203702,
+                4.4015341999999995
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "name": "Hidden Gems (7 days)",
+      "color": "#059669",
+      "days": [
+        {
+          "day": 1,
+          "title": "Leuven University Town",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Promenade Leuven",
+              "coord": [
+                50.8710038,
+                4.6954699
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Leuven University Library",
+              "coord": [
+                50.8781506,
+                4.707263
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Resto Bar Rosewood Leuven",
+              "coord": [
+                50.878208799999996,
+                4.7002001
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Medieval Leuven center",
+              "coord": [
+                50.8795,
+                4.7022
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resto Bar Rosewood Leuven",
+              "coord": [
+                50.878208799999996,
+                4.7002001
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Mechelen Carillon & History",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Les Suites de la Cathédrale Mechelen",
+              "coord": [
+                45.415597,
+                6.631778
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "St. Rumbold's Cathedral Mechelen",
+              "coord": [
+                51.028858,
+                4.4792214
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Jette Aardappel Mechelen",
+              "coord": [
+                51.0267423,
+                4.4842727
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mechelen Carillon School",
+              "coord": [
+                51.0260575,
+                4.4811764
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Toys Museum Mechelen",
+              "coord": [
+                51.0170825,
+                4.4840053
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Jette Aardappel Mechelen",
+              "coord": [
+                51.0267423,
+                4.4842727
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Dinant Meuse Valley Scenic",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Dinant River Hotel",
+              "coord": [
+                50.2368825,
+                4.905768999999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Dinant Citadel",
+              "coord": [
+                50.261727099999995,
+                4.9131095
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Ristorante La Roccia Dinant",
+              "coord": [
+                50.258532599999995,
+                4.9138826
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Adolphe Sax Statue Dinant",
+              "coord": [
+                50.262021399999995,
+                4.9109888999999995
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Dinant Saxophone Museum",
+              "coord": [
+                50.261772099999995,
+                4.911133599999999
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Ristorante La Roccia Dinant",
+              "coord": [
+                50.258532599999995,
+                4.9138826
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Ardennes Nature & Castles",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Château de Spontin Wallonia",
+              "coord": [
+                50.322975799999995,
+                5.0093479
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ardennes Forest Hiking",
+              "coord": [
+                49.8522852,
+                4.6212927
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Restaurant Château Spontin Wallonia",
+              "coord": [
+                50.3225127,
+                5.0057836
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Meuse River Kayaking",
+              "coord": [
+                50.237092999999994,
+                4.905982
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Local Wallonian villages",
+              "coord": [
+                50.38,
+                4.95
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Auberge du Pont Anhée",
+              "coord": [
+                50.109202,
+                4.962371
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Tournai UNESCO Cathedral",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Saint-Luc Tournai",
+              "coord": [
+                50.632894199999996,
+                3.3557601
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tournai Cathedral",
+              "coord": [
+                50.6064691,
+                3.3892417
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Royal Museum of Tournai nearby",
+              "coord": [
+                50.6063,
+                4.441
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Royal Museum of Tournai",
+              "coord": [
+                50.6034192,
+                3.3871911
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Medieval Tournai squares",
+              "coord": [
+                50.6052,
+                4.4403
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local Tournai restaurant",
+              "coord": [
+                50.6052,
+                4.4403
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Waterloo Battlefield History",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "La Villa Beaumont Waterloo",
+              "coord": [
+                50.329544600000006,
+                4.3481499999999995
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Waterloo Battlefield",
+              "coord": [
+                50.6794052,
+                4.4047214
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Waterloo local restaurant",
+              "coord": [
+                50.3819,
+                4.3831
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Waterloo Lion Monument",
+              "coord": [
+                50.678471699999996,
+                4.404838
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Waterloo museums",
+              "coord": [
+                50.3819,
+                4.3831
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local Waterloo dining",
+              "coord": [
+                50.3819,
+                4.3831
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Namur Citadel & Departure",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Citadelhotel Namur",
+              "coord": [
+                50.4595488,
+                4.8655789
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Namur Citadel",
+              "coord": [
+                50.4597979,
+                4.861122
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local Namur restaurant",
+              "coord": [
+                50.4639,
+                4.8693
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Meuse Valley views",
+              "coord": [
+                50.4639,
+                4.8693
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Family Comfort (10 days)",
+      "color": "#D97706",
+      "days": [
+        {
+          "day": 1,
+          "title": "Brussels Family Welcome",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Room Mate Simone Brussels",
+              "coord": [
+                50.8486877,
+                4.3631310999999995
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Brussels Grand Place",
+              "coord": [
+                50.8467887,
+                4.3524356
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Chez Léon Brussels",
+              "coord": [
+                50.848204599999995,
+                4.3540661
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Brussels Comic Strip Museum",
+              "coord": [
+                50.851006299999995,
+                4.3601312
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Restobieres Brussels",
+              "coord": [
+                50.8369827,
+                4.3476405
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Brussels Kids Activities",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                50.8457,
+                4.3638
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mini-Europe Brussels",
+              "coord": [
+                50.8940497,
+                4.3389622
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Family-friendly restaurant",
+              "coord": [
+                50.8929,
+                4.3342
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Atomium Brussels",
+              "coord": [
+                50.8948787,
+                4.3415547
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Museum of Natural Sciences Brussels",
+              "coord": [
+                50.836659499999996,
+                4.376632
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time at hotel",
+              "coord": [
+                50.8457,
+                4.3638
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Belgian Beer Museum area",
+              "coord": [
+                50.8505,
+                4.3522
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Bruges Medieval & Parks",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Dukes' Palace Bruges",
+              "coord": [
+                51.20854800000001,
+                3.2201049999999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bruges Medieval Center",
+              "coord": [
+                51.2088142,
+                3.2243722999999997
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "That's Toast Bruges",
+              "coord": [
+                51.2063875,
+                3.2192167
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sebrechtspark Bruges",
+              "coord": [
+                51.209374999999994,
+                3.2181032
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Minnewater Park Bruges",
+              "coord": [
+                51.1995291,
+                3.225273
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest at hotel",
+              "coord": [
+                51.2082,
+                3.2218
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "De Stove Bruges",
+              "coord": [
+                51.2082547,
+                3.2226717
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Bruges Chocolate & Waffles",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chez Albert Waffles Bruges",
+              "coord": [
+                51.2085112,
+                3.2258367999999997
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "The Chocolate Line Bruges",
+              "coord": [
+                51.2065926,
+                3.2224214
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Breydel De Coninc Bruges",
+              "coord": [
+                51.208495799999994,
+                3.2261354
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Koningin Astridpark Bruges",
+              "coord": [
+                51.206179999999996,
+                3.231236
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Belgian Chocolate Workshop for Kids",
+              "coord": [
+                50.8428784,
+                4.3417902
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest at hotel",
+              "coord": [
+                51.2082,
+                3.2218
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Books and Brunch Bruges",
+              "coord": [
+                51.204391699999995,
+                3.2295
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Bruges Boat Tours & Lace",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.2082,
+                3.2218
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bruges Canal Boat Tour",
+              "coord": [
+                51.2056811,
+                3.2247692999999997
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "'t Huidevettershuis Bruges",
+              "coord": [
+                51.207499999999996,
+                3.2277777999999997
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bruges Lace Market",
+              "coord": [
+                51.2095148,
+                3.2255928
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Boudewijn Seapark Bruges",
+              "coord": [
+                51.183071999999996,
+                3.2110759
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest at hotel",
+              "coord": [
+                51.2082,
+                3.2218
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Bhavani Bruges",
+              "coord": [
+                51.2064996,
+                3.2231867
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Coast Beach Day",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel De Thalassa Knokke",
+              "coord": [
+                51.302810099999995,
+                3.2989995000000003
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Knokke Beach Resort",
+              "coord": [
+                51.340966599999994,
+                3.2594127
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Seaside restaurant",
+              "coord": [
+                51.3606,
+                3.3122
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Beach activities & swimming",
+              "coord": [
+                51.3606,
+                3.3122
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Zeebrugge Harbor",
+              "coord": [
+                51.3345704,
+                3.2184708
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon beach rest",
+              "coord": [
+                51.3606,
+                3.3122
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Beachfront restaurant",
+              "coord": [
+                51.3606,
+                3.3122
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Coast Exploration",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.3606,
+                3.3122
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "De Panne Beach",
+              "coord": [
+                51.0877,
+                2.6159
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beach town restaurant",
+              "coord": [
+                51.0877,
+                2.6159
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Plopsaland De Panne",
+              "coord": [
+                51.080738399999994,
+                2.5985541
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Ostend Promenade",
+              "coord": [
+                51.235305399999994,
+                2.9161003
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest",
+              "coord": [
+                51.3606,
+                3.3122
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Coastal dining",
+              "coord": [
+                51.2283,
+                2.9314
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Antwerp Zoo Day",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Pilar Antwerp",
+              "coord": [
+                51.208575599999996,
+                4.3922755
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Antwerp Zoo",
+              "coord": [
+                51.2163428,
+                4.4235413999999995
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Balls & Glory Antwerp",
+              "coord": [
+                51.2154847,
+                4.4094627
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Antwerp Historic Quarter",
+              "coord": [
+                51.2227238,
+                4.3973637
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Sue's Corner Antwerp",
+              "coord": [
+                51.231188599999996,
+                4.4109205
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest at hotel",
+              "coord": [
+                51.2195,
+                4.3988
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "De Bomma Antwerp",
+              "coord": [
+                51.2219489,
+                4.3979459
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Antwerp Family Activities",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.2195,
+                4.3988
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Antwerp Parks System",
+              "coord": [
+                51.2121583,
+                4.414947199999999
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Ciro's Antwerp",
+              "coord": [
+                51.209117,
+                4.402136
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Museum aan de Strom Antwerp",
+              "coord": [
+                51.2289612,
+                4.4047104
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Chocolate workshop",
+              "coord": [
+                51.2194,
+                4.4025
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest at hotel",
+              "coord": [
+                51.2195,
+                4.3988
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Moules et Frites Antwerp",
+              "coord": [
+                51.220763,
+                4.401475
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Antwerp Diamonds & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.2195,
+                4.3988
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Antwerp Diamond Quarter",
+              "coord": [
+                51.2144888,
+                4.4190257
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Grand Café De Rooden Hoed Antwerp",
+              "coord": [
+                51.2201131,
+                4.4001535
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Last-minute shopping or museums",
+              "coord": [
+                51.2194,
+                4.4025
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "d": {
+      "name": "Beer, Chocolate & Foodie Tour (10 days)",
+      "color": "#DC2626",
+      "days": [
+        {
+          "day": 1,
+          "title": "Brussels Beer Culture",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Amigo Brussels",
+              "coord": [
+                50.84614140000001,
+                4.3513953999999995
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Brussels Grand Place",
+              "coord": [
+                50.8467887,
+                4.3524356
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Chez Léon Brussels",
+              "coord": [
+                50.848204599999995,
+                4.3540661
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Belgium Belgian Beer Museum Brussels",
+              "coord": [
+                50.847850199999996,
+                4.3507608
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Antwerp Beer Shop",
+              "coord": [
+                51.2204666,
+                4.3998476
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Métropole Restaurant Brussels",
+              "coord": [
+                50.851328099999996,
+                4.3532459999999995
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Brussels Chocolate Mastery",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                50.8509,
+                4.3532
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Laurent Gerbaud Chocolatier Brussels",
+              "coord": [
+                50.8439962,
+                4.358679899999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Belgian Chocolate Workshop for Kids",
+              "coord": [
+                50.8428784,
+                4.3417902
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Bocconi Brussels",
+              "coord": [
+                50.8461458,
+                4.351221400000001
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Brussels Sablon District",
+              "coord": [
+                50.8395691,
+                4.3565987999999995
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Godiva Brussels",
+              "coord": [
+                50.8466331,
+                4.3532526
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Chambre Séparée Brussels",
+              "coord": [
+                50.821205899999995,
+                4.3773422
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Bruges Michelin Fine Dining",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Relais Bourgondisch Cruyce Bruges",
+              "coord": [
+                51.2074335,
+                3.2267932999999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bruges Medieval Center",
+              "coord": [
+                51.2088142,
+                3.2243722999999997
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Rock Fort Bruges",
+              "coord": [
+                51.209731299999994,
+                3.2322495
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "The Chocolate Line Bruges",
+              "coord": [
+                51.2065926,
+                3.2224214
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Bruges Lace Market",
+              "coord": [
+                51.2095148,
+                3.2255928
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "De Karmeliet Bruges",
+              "coord": [
+                51.2097717,
+                3.2324059999999997
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Bruges Belgian Cuisine",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chez Albert Waffles Bruges",
+              "coord": [
+                51.2085112,
+                3.2258367999999997
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bruges Medieval squares",
+              "coord": [
+                51.2093,
+                3.2247
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Breydel De Coninc Bruges",
+              "coord": [
+                51.208495799999994,
+                3.2261354
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "'t Brugs Beertje Bruges",
+              "coord": [
+                51.2068237,
+                3.2217179
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Café Vlissinghe Bruges",
+              "coord": [
+                51.212993,
+                3.2301487
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hertog Jan Bruges",
+              "coord": [
+                51.2136339,
+                4.4057045
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Ghent Contemporary Dining",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Pulcinella Ghent",
+              "coord": [
+                51.0405643,
+                3.7433389
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ghent Medieval Center",
+              "coord": [
+                51.0524481,
+                3.7210903
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Dit Hem Ghent",
+              "coord": [
+                51.0503309,
+                3.7284634000000003
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ghent Food Market",
+              "coord": [
+                51.05011340000001,
+                3.7378080999999996
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Groenten Grill Ghent",
+              "coord": [
+                51.0559121,
+                3.7277596
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Brasserie Citadelhotel Ghent",
+              "coord": [
+                51.0534724,
+                3.7262169999999997
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Antwerp Fine Dining & Markets",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Julien Antwerp",
+              "coord": [
+                51.2202938,
+                4.4037733999999995
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Antwerp Food Markets District",
+              "coord": [
+                51.2147915,
+                4.4100155999999995
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Grand Café De Rooden Hoed Antwerp",
+              "coord": [
+                51.2201131,
+                4.4001535
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Antwerp Chocolate specialty shops",
+              "coord": [
+                51.2194,
+                4.4025
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Leonidas Antwerp",
+              "coord": [
+                51.2175078,
+                4.4172534
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "'t Fornuis Antwerp",
+              "coord": [
+                51.219017,
+                4.399416899999999
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Antwerp Seafood & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.2202,
+                4.402
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Antwerp Historic Quarter",
+              "coord": [
+                51.2227238,
+                4.3973637
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Fiskebar Antwerp",
+              "coord": [
+                51.2100274,
+                4.3972773
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Museum aan de Strom Antwerp",
+              "coord": [
+                51.2289612,
+                4.4047104
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Rubens House Antwerp",
+              "coord": [
+                51.2168723,
+                4.4099882
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Kommilfoo Antwerp",
+              "coord": [
+                51.2110834,
+                4.392601099999999
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Trappist Breweries Excursion",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Belgian brewery region",
+              "coord": [
+                50.8,
+                4.7
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Brewery region restaurant",
+              "coord": [
+                50.8,
+                4.7
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Trappist brewery tour",
+              "coord": [
+                50.8,
+                4.7
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Multiple breweries",
+              "coord": [
+                50.8,
+                4.7
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local regional dining",
+              "coord": [
+                51.2202,
+                4.402
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Hotel Julien Antwerp",
+              "coord": [
+                51.2202938,
+                4.4037733999999995
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Antwerp Michelin Restaurants",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.2202,
+                4.402
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "The Jane Antwerp",
+              "coord": [
+                51.2343232,
+                4.4047947999999995
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Antwerp Diamond Quarter",
+              "coord": [
+                51.2144888,
+                4.4190257
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Royal Museum of Fine Arts Antwerp",
+              "coord": [
+                51.2088148,
+                4.3948089
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Fashion Museum Antwerp",
+              "coord": [
+                51.2151,
+                4.4151
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "'t Zilte Antwerp",
+              "coord": [
+                51.22904,
+                4.4048229999999995
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Antwerp Final Experiences",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.2202,
+                4.402
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Antwerp final shopping/museums",
+              "coord": [
+                51.2194,
+                4.4025
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Moules et Frites Antwerp",
+              "coord": [
+                51.220763,
+                4.401475
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Cathedral of Our Lady Antwerp",
+              "coord": [
+                51.2203702,
+                4.4015341999999995
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "e": {
+      "name": "Grand Tour (14 days)",
+      "color": "#7C3AED",
+      "days": [
+        {
+          "day": 1,
+          "title": "Brussels Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Amigo Brussels",
+              "coord": [
+                50.84614140000001,
+                4.3513953999999995
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Brussels Grand Place",
+              "coord": [
+                50.8467887,
+                4.3524356
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Chez Léon Brussels",
+              "coord": [
+                50.848204599999995,
+                4.3540661
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Comme Chez Soi Brussels",
+              "coord": [
+                50.8423616,
+                4.345815
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Brussels Icons",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                50.8509,
+                4.3532
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Atomium Brussels",
+              "coord": [
+                50.8948787,
+                4.3415547
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Restobieres Brussels",
+              "coord": [
+                50.8369827,
+                4.3476405
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Magritte Museum Brussels",
+              "coord": [
+                50.8424057,
+                4.3586407
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Chambre Séparée Brussels",
+              "coord": [
+                50.821205899999995,
+                4.3773422
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Bruges Medieval",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "De Orangerie Bruges",
+              "coord": [
+                51.207065199999995,
+                3.2262850999999997
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bruges Medieval Center",
+              "coord": [
+                51.2088142,
+                3.2243722999999997
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Breydel De Coninc Bruges",
+              "coord": [
+                51.208495799999994,
+                3.2261354
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Belfort Tower Bruges",
+              "coord": [
+                51.2081466,
+                3.2248010999999996
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "De Karmeliet Bruges",
+              "coord": [
+                51.2097717,
+                3.2324059999999997
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Bruges Chocolate & Canals",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chez Albert Waffles Bruges",
+              "coord": [
+                51.2085112,
+                3.2258367999999997
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "The Chocolate Line Bruges",
+              "coord": [
+                51.2065926,
+                3.2224214
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "'t Huidevettershuis Bruges",
+              "coord": [
+                51.207499999999996,
+                3.2277777999999997
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bruges Canal Boat Tour",
+              "coord": [
+                51.2056811,
+                3.2247692999999997
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hertog Jan Bruges",
+              "coord": [
+                51.2136339,
+                4.4057045
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Ghent Bohemian",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Pulcinella Ghent",
+              "coord": [
+                51.0405643,
+                3.7433389
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ghent Medieval Center",
+              "coord": [
+                51.0524481,
+                3.7210903
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Dit Hem Ghent",
+              "coord": [
+                51.0503309,
+                3.7284634000000003
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Gravensteen Ghent",
+              "coord": [
+                51.057176899999995,
+                3.7207225
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Groenten Grill Ghent",
+              "coord": [
+                51.0559121,
+                3.7277596
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Antwerp Fashion & Art",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Julien Antwerp",
+              "coord": [
+                51.2202938,
+                4.4037733999999995
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Antwerp Historic Quarter",
+              "coord": [
+                51.2227238,
+                4.3973637
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Grand Café De Rooden Hoed Antwerp",
+              "coord": [
+                51.2201131,
+                4.4001535
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Antwerp Fashion Museum",
+              "coord": [
+                51.217380899999995,
+                4.3998644
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "'t Fornuis Antwerp",
+              "coord": [
+                51.219017,
+                4.399416899999999
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Antwerp Diamonds & Museums",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.2202,
+                4.402
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Antwerp Diamond Quarter",
+              "coord": [
+                51.2144888,
+                4.4190257
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Fiskebar Antwerp",
+              "coord": [
+                51.2100274,
+                4.3972773
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Royal Museum of Fine Arts Antwerp",
+              "coord": [
+                51.2088148,
+                4.3948089
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Kommilfoo Antwerp",
+              "coord": [
+                51.2110834,
+                4.392601099999999
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Waterloo History",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "La Villa Beaumont Waterloo",
+              "coord": [
+                50.329544600000006,
+                4.3481499999999995
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Waterloo Battlefield",
+              "coord": [
+                50.6794052,
+                4.4047214
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local Waterloo restaurant",
+              "coord": [
+                50.3819,
+                4.3831
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Waterloo Lion Monument",
+              "coord": [
+                50.678471699999996,
+                4.404838
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local dining",
+              "coord": [
+                50.3819,
+                4.3831
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Dinant Meuse Valley",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Dinant River Hotel",
+              "coord": [
+                50.2368825,
+                4.905768999999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Dinant Citadel",
+              "coord": [
+                50.261727099999995,
+                4.9131095
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Ristorante La Roccia Dinant",
+              "coord": [
+                50.258532599999995,
+                4.9138826
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Meuse River Kayaking",
+              "coord": [
+                50.237092999999994,
+                4.905982
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local dining",
+              "coord": [
+                50.2625,
+                4.9139
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Ardennes Forest & Castle",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Château de Spontin Wallonia",
+              "coord": [
+                50.322975799999995,
+                5.0093479
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ardennes Forest Hiking",
+              "coord": [
+                49.8522852,
+                4.6212927
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Restaurant Château Spontin Wallonia",
+              "coord": [
+                50.3225127,
+                5.0057836
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Local Wallonian villages",
+              "coord": [
+                50.38,
+                4.95
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Auberge du Pont Anhée",
+              "coord": [
+                50.109202,
+                4.962371
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Tournai UNESCO",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Saint-Luc Tournai",
+              "coord": [
+                50.632894199999996,
+                3.3557601
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tournai Cathedral",
+              "coord": [
+                50.6064691,
+                3.3892417
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local Tournai restaurant",
+              "coord": [
+                50.6063,
+                4.441
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Royal Museum of Tournai",
+              "coord": [
+                50.6034192,
+                3.3871911
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local dining",
+              "coord": [
+                50.6052,
+                4.4403
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Mechelen Carillon",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Les Suites de la Cathédrale Mechelen",
+              "coord": [
+                45.415597,
+                6.631778
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "St. Rumbold's Cathedral Mechelen",
+              "coord": [
+                51.028858,
+                4.4792214
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Jette Aardappel Mechelen",
+              "coord": [
+                51.0267423,
+                4.4842727
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mechelen Carillon School",
+              "coord": [
+                51.0260575,
+                4.4811764
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local Mechelen dining",
+              "coord": [
+                51.4183,
+                4.4736
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Leuven University Town",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Promenade Leuven",
+              "coord": [
+                50.8710038,
+                4.6954699
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Leuven University Library",
+              "coord": [
+                50.8781506,
+                4.707263
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Resto Bar Rosewood Leuven",
+              "coord": [
+                50.878208799999996,
+                4.7002001
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Medieval Leuven",
+              "coord": [
+                50.8795,
+                4.7022
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Local Leuven dining",
+              "coord": [
+                50.8795,
+                4.7022
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Return to Antwerp/Departure",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Julien Antwerp",
+              "coord": [
+                51.2202938,
+                4.4037733999999995
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Final shopping or museums",
+              "coord": [
+                51.2194,
+                4.4025
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Moules et Frites Antwerp",
+              "coord": [
+                51.220763,
+                4.401475
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Last-minute experiences",
+              "coord": [
+                51.2194,
+                4.4025
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

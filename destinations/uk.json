@@ -1,0 +1,4962 @@
+{
+  "key": "uk",
+  "name": "United Kingdom Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇬🇧",
+  "defaultCenter": [
+    54.4,
+    -2.5
+  ],
+  "defaultZoom": 5,
+  "hotels": [
+    {
+      "name": "Claridge's",
+      "coord": [
+        51.5124212,
+        -0.1478613
+      ],
+      "desc": "Art Deco icon, legendary service, afternoon tea, Mayfair",
+      "longDesc": "A legendary Art Deco masterpiece in Mayfair since 1812, beloved for impeccable service and sumptuous afternoon tea.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Claridge%27s&center=51.5124212,-0.1478613",
+      "placeId": "ChIJcZY1XAAFdkgRieYQg6UqpzQ",
+      "address": "Brook St, London W1K 4HR, UK"
+    },
+    {
+      "name": "The Connaught",
+      "coord": [
+        51.510252099999995,
+        -0.1498169
+      ],
+      "desc": "Connaught Bar, Michelin-star dining, intimate Mayfair",
+      "longDesc": "An intimate Mayfair gem famous for world-class bar and Michelin-starred restaurant perfect for sophisticated dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Connaught&center=51.510252099999995,-0.1498169",
+      "placeId": "ChIJiTyvxdcEdkgRIE3fJmxwzVM",
+      "address": "The Connaught, Carlos Pl, London W1K 2AL, UK"
+    },
+    {
+      "name": "The Dorchester",
+      "coord": [
+        51.5070623,
+        -0.1523879
+      ],
+      "desc": "Grand dame, famed afternoon tea, family-friendly, Mayfair",
+      "longDesc": "A true grand dame overlooking Park Lane, celebrated for legendary afternoon tea and family-friendly five-star hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Dorchester&center=51.5070623,-0.1523879",
+      "placeId": "ChIJiTyvxdcEdkgR53XBqdKYBFE",
+      "address": "53 Park Ln, London W1K 1QA, UK"
+    },
+    {
+      "name": "The Ritz London",
+      "coord": [
+        51.507078199999995,
+        -0.14162729999999998
+      ],
+      "desc": "Iconic dining room & tea, gilded heritage, Piccadilly",
+      "longDesc": "London's most iconic dining destination where afternoon tea and the gilded dining room are rites of passage.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ritz%20London&center=51.507078199999995,-0.14162729999999998",
+      "placeId": "ChIJV8gP0ykFdkgRFEAEHoE1YVk",
+      "address": "150 Piccadilly, London W1J 9BR, UK"
+    },
+    {
+      "name": "The Savoy",
+      "coord": [
+        51.510149399999996,
+        -0.12052049999999997
+      ],
+      "desc": "Classic riverfront, American Bar, steps from West End",
+      "longDesc": "An iconic Thames-side hotel combining theatrical charm, the legendary American Bar, and West End proximity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Savoy&center=51.510149399999996,-0.12052049999999997",
+      "placeId": "ChIJTVquz8sEdkgRKdz7pP3v9BU",
+      "address": "Strand, London WC2R 0EZ, UK"
+    },
+    {
+      "name": "The Langham, London",
+      "coord": [
+        51.517801,
+        -0.1439928
+      ],
+      "desc": "Historic grand hotel, strong cocktail program, Marylebone",
+      "longDesc": "A historic Marylebone landmark featuring beautiful period details, excellent cocktail program, and thoughtful service perfect for families seeking classic luxury.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Langham%2C%20London&center=51.517801,-0.1439928",
+      "placeId": "ChIJj375B9UadkgRkmFrWaFBXww",
+      "address": "1C Portland Pl, London W1B 1JA, UK"
+    },
+    {
+      "name": "Brown's Hotel",
+      "coord": [
+        51.509131,
+        -0.1421129
+      ],
+      "desc": "Historic Mayfair, classic British hospitality, refined rooms",
+      "longDesc": "One of Mayfair's oldest family-run hotels combining historic charm with warm British hospitality and carefully curated rooms celebrating timeless design and comfort.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brown%27s%20Hotel&center=51.509131,-0.1421129",
+      "placeId": "ChIJP4LZ8ikFdkgRUmF0m4CmccM",
+      "address": "33 Albemarle St, London W1S 4BP, UK"
+    },
+    {
+      "name": "The Lanesborough",
+      "coord": [
+        51.502661599999996,
+        -0.15271959999999998
+      ],
+      "desc": "Regency-style grandeur, butler service, Hyde Park Corner",
+      "longDesc": "A Regency palace near Hyde Park Corner with butler service, lavish interiors, and personalized luxury.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Lanesborough&center=51.502661599999996,-0.15271959999999998",
+      "placeId": "ChIJ2_19mdYEdkgRoZ6Ys0Mcj7I",
+      "address": "Hyde, Park Corner, London SW1X 7TA, UK"
+    },
+    {
+      "name": "Mandarin Oriental Hyde Park",
+      "coord": [
+        51.502131999999996,
+        -0.1599938
+      ],
+      "desc": "Hyde Park location, Michelin-star dining, luxury spa",
+      "longDesc": "Perfectly positioned for museums and parks, this hotel combines Michelin-star dining, a serene spa, and easy access to world-class cultural attractions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mandarin%20Oriental%20Hyde%20Park&center=51.502131999999996,-0.1599938",
+      "placeId": "ChIJG4IcmDkFdkgR3IYfJhJy-SM",
+      "address": "66 Knightsbridge, London SW1X 7LA, UK"
+    },
+    {
+      "name": "The Berkeley",
+      "coord": [
+        51.5018465,
+        -0.1560608
+      ],
+      "desc": "Rooftop pool, close to museums/Hyde Park, Knightsbridge",
+      "longDesc": "A Knightsbridge favorite featuring a glamorous rooftop pool, excellent kids' facilities, and prime location near world-class museums and beautiful green spaces.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Berkeley&center=51.5018465,-0.1560608",
+      "placeId": "ChIJ5YHhqjsFdkgR3-qEY9FMp_M",
+      "address": "The Berkeley, Wilton Pl, London SW1X 7RL, UK"
+    },
+    {
+      "name": "Bulgari Hotel London",
+      "coord": [
+        51.5014669,
+        -0.1635477
+      ],
+      "desc": "Sleek Italian design, spa & pool, Knightsbridge",
+      "longDesc": "A striking Knightsbridge sanctuary with sleek Italian design, refined spa amenities, and vibrant dining creating a modern luxury experience for discerning families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bulgari%20Hotel%20London&center=51.5014669,-0.1635477",
+      "placeId": "ChIJB4FBeEcFdkgRF8Hd6yhDQqA",
+      "address": "171 Knightsbridge, London SW7 1DW, UK"
+    },
+    {
+      "name": "The Peninsula London",
+      "coord": [
+        51.5017541,
+        -0.1518136
+      ],
+      "desc": "Modern five-star, excellent dining & bar, Belgravia",
+      "longDesc": "A modern five-star gem in Belgravia with rooftop bar and spa, multiple restaurants and restaurants, and family suites designed for comfort and elegance.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Peninsula%20London&center=51.5017541,-0.1518136",
+      "placeId": "ChIJWYHD7s4FdkgRUFT2qTJ19-w",
+      "address": "8/F, The Peninsula, 1 Grosvenor Pl, London SW1X 7HJ, UK"
+    },
+    {
+      "name": "Corinthia London",
+      "coord": [
+        51.5064603,
+        -0.1243126
+      ],
+      "desc": "ESPA Life spa, elegant rooms, Westminster/Embankment",
+      "longDesc": "A glamorous modern classic combining contemporary design with historic Art Deco elements, featuring an exceptional spa and multiple dining venues near Westminster.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Corinthia%20London&center=51.5064603,-0.1243126",
+      "placeId": "ChIJ0dU6L88EdkgRSRva6TI0lsY",
+      "address": "Corinthia Hotel, 10 Whitehall Pl, London SW1A 2BD, UK"
+    },
+    {
+      "name": "Rosewood London",
+      "coord": [
+        51.5175719,
+        -0.11783819999999999
+      ],
+      "desc": "Spacious suites, central for museums, afternoon tea, Holborn",
+      "longDesc": "A grand Victorian palazzo with spacious suites, renowned afternoon tea service, and ideal positioning for exploring London's cultural institutions and museums.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosewood%20London&center=51.5175719,-0.11783819999999999",
+      "placeId": "ChIJi-8-gTUbdkgRvgRcAHEwuyc",
+      "address": "252 High Holborn, London WC1V 7EN, UK"
+    },
+    {
+      "name": "The London EDITION",
+      "coord": [
+        51.5167678,
+        -0.1362555
+      ],
+      "desc": "Ian Schrager design, vibrant bar scene, Fitzrovia",
+      "longDesc": "An Ian Schrager masterpiece in Fitzrovia with buzzing bar scene, rooftop views, and carefully curated dining spaces attracting food lovers and creatives.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20London%20EDITION&center=51.5167678,-0.1362555",
+      "placeId": "ChIJpeLYbSsbdkgRONduZ20Z3sQ",
+      "address": "10 Berners St, London W1T 3NP, UK"
+    },
+    {
+      "name": "Batty Langley's",
+      "coord": [
+        51.520863299999995,
+        -0.07796840000000001
+      ],
+      "desc": "Georgian character, fireplaces, Spitalfields",
+      "longDesc": "A whimsical Georgian gem in trendy Spitalfields with theatrical styling, fireplaces, and romantic atmosphere perfect for curious and adventurous travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Batty%20Langley%27s&center=51.520863299999995,-0.07796840000000001",
+      "placeId": "ChIJ15CwRLEcdkgRABdfmAO-Fy0",
+      "address": "12 Folgate St, London E1 6BX, UK"
+    },
+    {
+      "name": "Number Sixteen",
+      "coord": [
+        51.493077199999995,
+        -0.17550069999999998
+      ],
+      "desc": "Townhouse charm, garden, near V&A Museum, South Kensington",
+      "longDesc": "A Firmdale-designed townhouse near the V&A with a secret garden, bold contemporary interiors, and family-friendly service in prime cultural location.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Number%20Sixteen&center=51.493077199999995,-0.17550069999999998",
+      "placeId": "ChIJce4gD2gFdkgRoJ_ksh-b_Fw",
+      "address": "16 Sumner Pl, South Kensington, London SW7 3EG, UK"
+    },
+    {
+      "name": "The Beaumont",
+      "coord": [
+        51.512846499999995,
+        -0.1523666
+      ],
+      "desc": "Art Deco vibe, tucked off busy streets, near Selfridges",
+      "longDesc": "An Art Deco-inspired boutique near Selfridges with theatrical styling, charming bar, and prime positioning for shopping and dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Beaumont&center=51.512846499999995,-0.1523666",
+      "placeId": "ChIJjxDGljIFdkgRtvX999m-Jkk",
+      "address": "8 Balderton St, Brown Hart Gardens, London W1K 6TF, UK"
+    },
+    {
+      "name": "The Standard London",
+      "coord": [
+        51.5295373,
+        -0.1243078
+      ],
+      "desc": "Rooftop bar, design focus, Shoreditch, cool vibe",
+      "longDesc": "A design-forward hotel in trendy Shoreditch with legendary rooftop bar, restaurant, and café perfect for creative travelers and foodies.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Standard%20London&center=51.5295373,-0.1243078",
+      "placeId": "ChIJcW4KxmEbdkgRrRNkLIHuQ2c",
+      "address": "10 Argyle St, London WC1H 8EG, UK"
+    },
+    {
+      "name": "Firmdale Hotels - Dorset Square",
+      "coord": [
+        51.522566600000005,
+        -0.1602776
+      ],
+      "desc": "Boutique townhouse hotel, Marylebone, stylish rooms",
+      "longDesc": "A Firmdale boutique hotel in Marylebone with individually designed rooms and relaxed sophistication near Oxford Street shopping.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Firmdale%20Hotels%20-%20Dorset%20Square&center=51.522566600000005,-0.1602776",
+      "placeId": "ChIJ6zv7AJMNdkgR7bUvQyo6AXk",
+      "address": "39-40 Dorset Square, London NW1 6QN, UK"
+    },
+    {
+      "name": "Flemings Mayfair",
+      "coord": [
+        51.5064449,
+        -0.1451535
+      ],
+      "desc": "Polished boutique, Mayfair base, family run",
+      "longDesc": "A polished Mayfair boutique hotel offering refined hospitality, excellent service, and thoughtful design in London's most prestigious neighborhood.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Flemings%20Mayfair&center=51.5064449,-0.1451535",
+      "placeId": "ChIJQxoh3SgFdkgRbzWAvc0IoDY",
+      "address": "7-12 Half Moon St, London W1J 7BH, UK"
+    },
+    {
+      "name": "Ham Yard Hotel",
+      "coord": [
+        51.5112601,
+        -0.134821
+      ],
+      "desc": "Firmdale design-forward Soho, family-friendly suites",
+      "longDesc": "A Firmdale design-forward hotel in Soho with contemporary style, family-friendly suites, and excellent positioning near West End theatres.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ham%20Yard%20Hotel&center=51.5112601,-0.134821",
+      "placeId": "ChIJ6WYai9MEdkgRgVVlop5w_zs",
+      "address": "1 Ham Yard, London W1D 7DT, UK"
+    },
+    {
+      "name": "Broadwick Soho",
+      "coord": [
+        51.5138596,
+        -0.13536499999999999
+      ],
+      "desc": "Design hotel with rooftop, heart of Soho",
+      "longDesc": "A contemporary design hotel in Soho's heart with rooftop bar, vibrant atmosphere, and perfect access to Soho's restaurants and nightlife.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Broadwick%20Soho&center=51.5138596,-0.13536499999999999",
+      "placeId": "ChIJ1Y_caTIFdkgRyawbVn8jgJI",
+      "address": "20 Broadwick St, London W1F 8HT, UK"
+    },
+    {
+      "name": "The Ned",
+      "coord": [
+        51.5136153,
+        -0.090129
+      ],
+      "desc": "Grand banking hall conversion, multiple restaurants, rooftop pool",
+      "longDesc": "A grand banking hall turned luxury hotel with multiple restaurants, rooftop pool, and distinctive architecture in the City of London.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ned&center=51.5136153,-0.090129",
+      "placeId": "ChIJYdET4FQDdkgRbjvXg_CcAm0",
+      "address": "27 Poultry, London EC2R 8AJ, UK"
+    },
+    {
+      "name": "Hotel Café Royal",
+      "coord": [
+        51.510197399999996,
+        -0.1363299
+      ],
+      "desc": "Central, stylish, great for Soho/Covent Garden",
+      "longDesc": "A stylish central London hotel perfect for exploring Soho and Covent Garden neighborhoods with excellent restaurant and bar facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Caf%C3%A9%20Royal&center=51.510197399999996,-0.1363299",
+      "placeId": "ChIJawUNG9QEdkgRf4wGMuxqTXc",
+      "address": "10 Air St, London W1B 5AB, UK"
+    },
+    {
+      "name": "The Landmark London",
+      "coord": [
+        51.5214599,
+        -0.1626027
+      ],
+      "desc": "Grand Victorian atrium, indoor pool, family rooms, Marylebone",
+      "longDesc": "A Victorian masterpiece in Marylebone with soaring glass atrium and family facilities. Offering elegant accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Landmark%20London&center=51.5214599,-0.1626027",
+      "placeId": "ChIJjV7c58kadkgRKxmfETsEywI",
+      "address": "222 Marylebone Rd, London NW1 6JQ, UK"
+    },
+    {
+      "name": "The Goring",
+      "coord": [
+        51.497571799999996,
+        -0.1454684
+      ],
+      "desc": "Belgravia charm, near Buckingham Palace, refined dining",
+      "longDesc": "A family-run institution near Buckingham Palace combining refined charm with warm service. Offering refined accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Goring&center=51.497571799999996,-0.1454684",
+      "placeId": "ChIJpyeYGW8FdkgRqfqKh8Yxrs8",
+      "address": "15 Beeston Pl, London SW1W 0JW, UK"
+    },
+    {
+      "name": "Knightsbridge Hotel",
+      "coord": [
+        51.4981745,
+        -0.16413129999999998
+      ],
+      "desc": "Boutique comfort near Harrods and South Kensington museums",
+      "longDesc": "A discreet boutique treasure near Harrods offering personalized service and elegance. Offering charming accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Knightsbridge%20Hotel&center=51.4981745,-0.16413129999999998",
+      "placeId": "ChIJnTVNXz8FdkgRZOMjukO5KeQ",
+      "address": "10-12 Beaufort Gardens, London SW3 1PX, UK"
+    },
+    {
+      "name": "One Aldwych",
+      "coord": [
+        51.5117908,
+        -0.11933999999999999
+      ],
+      "desc": "Theatre district, families welcome, warm service, Covent Garden",
+      "longDesc": "A contemporary gem in the Theatre District perfect for West End shows with family suites.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=One%20Aldwych&center=51.5117908,-0.11933999999999999",
+      "placeId": "ChIJq5XIW8oEdkgRqmg5RAC_ih8",
+      "address": "1 Aldwych, London WC2B 4BZ, UK"
+    },
+    {
+      "name": "45 Park Lane",
+      "coord": [
+        51.5065008,
+        -0.15173789999999998
+      ],
+      "desc": "Contemporary luxury, park-side location, Dorchester Collection",
+      "longDesc": "A modern luxury flagship on Park Lane with Michelin-starred dining and green space access. Perfect for families and discerning travelers seeking refined hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=45%20Park%20Lane&center=51.5065008,-0.15173789999999998",
+      "placeId": "ChIJKYT1xS8FdkgR_xAaCZabs8w",
+      "address": "45 Park Ln, London W1K 1PN, UK"
+    },
+    {
+      "name": "Raffles London at The OWO",
+      "coord": [
+        51.5051366,
+        -0.1256685
+      ],
+      "desc": "Landmark conversion, ultra-luxe suites, Whitehall",
+      "longDesc": "A landmark conversion near Whitehall offering ultra-luxe suites in a historic building. Offering sophisticated accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Raffles%20London%20at%20The%20OWO&center=51.5051366,-0.1256685",
+      "placeId": "ChIJZfEMTNkFdkgRXHTECATydW8",
+      "address": "57 Whitehall, London SW1A 2BX, UK"
+    },
+    {
+      "name": "The Emory",
+      "coord": [
+        51.5022522,
+        -0.15559299999999998
+      ],
+      "desc": "All-suite Maybourne newcomer, spa/wellness, Knightsbridge",
+      "longDesc": "A modern all-suite hotel by Maybourne group in Knightsbridge with spa and wellness. Offering charming accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Emory&center=51.5022522,-0.15559299999999998",
+      "placeId": "ChIJHaf8UgAFdkgRg07pXgoRgiw",
+      "address": "Old Barrack Yard, London SW1X 7NP, UK"
+    },
+    {
+      "name": "Beaverbrook Town House",
+      "coord": [
+        51.494751400000006,
+        -0.1584837
+      ],
+      "desc": "Stylish suites, Japanese restaurant, Chelsea",
+      "longDesc": "A stylish Chelsea townhouse hotel with contemporary design, Japanese restaurant, and proximity to King's Road shopping and museums.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Beaverbrook%20Town%20House&center=51.494751400000006,-0.1584837",
+      "placeId": "ChIJmxnAc5UFdkgRZDiTt5cKPA8",
+      "address": "115-116 Sloane St, London SW1X 9PJ, UK"
+    },
+    {
+      "name": "Cliveden House",
+      "coord": [
+        51.5581265,
+        -0.688283
+      ],
+      "desc": "Historic stately home, Thames-side grounds, Berkshire",
+      "longDesc": "A stately home in Berkshire featuring Italianate gardens and fine dining with grandeur. Offering sophisticated accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cliveden%20House&center=51.5581265,-0.688283",
+      "placeId": "ChIJO3l6uqFjdkgRrn0G6Gy_jMY",
+      "address": "Taplow, Maidenhead SL6 0JF, UK"
+    },
+    {
+      "name": "Lucknam Park",
+      "coord": [
+        51.45505,
+        -2.25939
+      ],
+      "desc": "Stately estate, spa, family cottages, near Bath",
+      "longDesc": "A grand country retreat near Bath with cottages, equestrian facilities, and world-class spa. Offering sophisticated accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucknam%20Park&center=51.45505,-2.25939",
+      "placeId": "ChIJt_zHOVR4cUgRONaAmLjRN6c",
+      "address": "Lucknam Park, Thickwood, Chippenham SN14 8AZ, UK"
+    },
+    {
+      "name": "Soho Farmhouse",
+      "coord": [
+        51.940313599999996,
+        -1.42139
+      ],
+      "desc": "Cotswolds luxury cabins, extensive activities, group-friendly",
+      "longDesc": "A Cotswolds destination retreat with stylish cottages, restaurants, and diverse activities. Offering gracious accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Soho%20Farmhouse&center=51.940313599999996,-1.42139",
+      "placeId": "ChIJB8D2QMbWdkgROARJVtI2AwA",
+      "address": "1 Tracey Farm Cottages, Great Tew, Chipping Norton OX7 4JS, UK"
+    },
+    {
+      "name": "The Newt in Somerset",
+      "coord": [
+        51.081200700000004,
+        -2.490817
+      ],
+      "desc": "Immersive gardens, farm-to-table dining, art spaces, Somerset",
+      "longDesc": "An art-focused Somerset hotel with immersive gardens and farm-to-table dining. Offering elegant accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Newt%20in%20Somerset&center=51.081200700000004,-2.490817",
+      "placeId": "ChIJ1RYeOos7ckgRV0UVK3d5auE",
+      "address": "Hadspen, A359, Bruton BA7 7NG, UK"
+    },
+    {
+      "name": "Hayfield Manor",
+      "coord": [
+        51.891013199999996,
+        -8.489652099999999
+      ],
+      "desc": "Bath luxury hotel, spa, award-winning restaurant",
+      "longDesc": "An elegant Victorian hotel in Bath with award-winning dining and luxurious spa. Perfect for families and discerning travelers seeking refined hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hayfield%20Manor&center=51.891013199999996,-8.489652099999999",
+      "placeId": "ChIJAzIH9COQREgRKxc0EW7cnGU",
+      "address": "Hayfield Manor Hotel, Perrott Ave, College Rd, Centre, Cork, T12 HT97, Ireland"
+    },
+    {
+      "name": "The Pig in Bath",
+      "coord": [
+        51.3551667,
+        -2.5073889
+      ],
+      "desc": "Farm-to-table casual luxury, walled garden, Somerset",
+      "longDesc": "A quirky Somerset hotel celebrating local food culture with walled garden and foraging. Offering gracious accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Pig%20in%20Bath&center=51.3551667,-2.5073889",
+      "placeId": "ChIJk1Tgj2aIcUgRsVQwdEgY4ZM",
+      "address": "Hunstrete House, Hunstrete, Pensford, Bath BS39 4NS, UK"
+    },
+    {
+      "name": "Whatley Manor",
+      "coord": [
+        51.5837462,
+        -2.1497284999999997
+      ],
+      "desc": "Cotswolds five-star, Michelin spa, country elegance",
+      "longDesc": "A luxury Cotswolds retreat with Michelin spa, farm-to-table dining, and elegance. Perfect for families and discerning travelers seeking refined hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Whatley%20Manor&center=51.5837462,-2.1497284999999997",
+      "placeId": "ChIJPUaadSZzcUgR2gnk5AS84fM",
+      "address": "Easton Grey, Malmesbury SN16 0RB, UK"
+    },
+    {
+      "name": "Dormy House Hotel",
+      "coord": [
+        52.0410788,
+        -1.8272009
+      ],
+      "desc": "Cotswolds luxury, spa, gardens, Broadway",
+      "longDesc": "A charming Cotswolds hotel in Broadway with spa, beautiful gardens, and hospitality. Offering elegant accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dormy%20House%20Hotel&center=52.0410788,-1.8272009",
+      "placeId": "ChIJhfHtMN3YcEgRKDs1ckC9Cf4",
+      "address": "Willersey Hill, Broadway WR12 7LF, UK"
+    },
+    {
+      "name": "The Rectory Hotel",
+      "coord": [
+        51.6352316,
+        -2.0652901999999997
+      ],
+      "desc": "Oxfordshire country house, boutique, woodland setting",
+      "longDesc": "An intimate country boutique in Oxfordshire with woodland setting and excellent restaurant. Offering charming accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Rectory%20Hotel&center=51.6352316,-2.0652901999999997",
+      "placeId": "ChIJ1YcaF-NscUgRjQWcfTJ7iGo",
+      "address": "Crudwell, Malmesbury SN16 9EP, UK"
+    },
+    {
+      "name": "Ston Easton Park",
+      "coord": [
+        51.284563500000004,
+        -2.5387812999999997
+      ],
+      "desc": "Georgian mansion, near Bath, country elegance",
+      "longDesc": "A Georgian mansion near Bath set in 36 acres with fine dining and beautiful gardens.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ston%20Easton%20Park&center=51.284563500000004,-2.5387812999999997",
+      "placeId": "ChIJcSYeRwQnckgR5wnzN2fzKQw",
+      "address": "Ston Easton, Bath BA3 4DF, UK"
+    },
+    {
+      "name": "Coworth Park",
+      "coord": [
+        51.4044466,
+        -0.6166229999999999
+      ],
+      "desc": "Equestrian country retreat, Dorchester Collection, Ascot",
+      "longDesc": "A country retreat near Ascot with equestrian facilities and Dorchester Collection luxury. Perfect for families and discerning travelers seeking refined hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Coworth%20Park&center=51.4044466,-0.6166229999999999",
+      "placeId": "ChIJc1UjjQt5dkgRH2J6xaM5m0o",
+      "address": "Blacknest Rd, Sunningdale, Ascot SL5 7SE, UK"
+    },
+    {
+      "name": "The Grove",
+      "coord": [
+        51.4437585,
+        -2.4881575
+      ],
+      "desc": "Hertfordshire estate, pools, family activities",
+      "longDesc": "A grand Hertfordshire estate with pools, spa, and diverse family-friendly activities. Offering sophisticated accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Grove&center=51.4437585,-2.4881575",
+      "placeId": "ChIJAaOltoOFcUgRHWwpvMdVaNA",
+      "address": "The Grove, Barrs Court, Bristol BS30, UK"
+    },
+    {
+      "name": "Gleneagles Hotel",
+      "coord": [
+        56.2831234,
+        -3.7520724000000003
+      ],
+      "desc": "Iconic Scottish resort, championship golf, spa, family activities",
+      "longDesc": "A legendary 850-acre resort offering championship golf, equestrian, and family activities. Offering elegant accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gleneagles%20Hotel&center=56.2831234,-3.7520724000000003",
+      "placeId": "ChIJzR8TvrYohkgRlgU5Noy3dBM",
+      "address": "The Gleneagles Hotel, Auchterarder PH3 1NF, UK"
+    },
+    {
+      "name": "The Balmoral, Edinburgh",
+      "coord": [
+        55.9530355,
+        -3.1895371
+      ],
+      "desc": "Edinburgh landmark, great base for Old Town exploration",
+      "longDesc": "A grand Edinburgh institution perfectly positioned for historic Old Town exploration. Offering charming accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Balmoral%2C%20Edinburgh&center=55.9530355,-3.1895371",
+      "placeId": "ChIJmb1xW1bHh0gRly0dQOWmKBI",
+      "address": "1 Princes St., Edinburgh EH2 2EQ, UK"
+    },
+    {
+      "name": "Prestonfield House",
+      "coord": [
+        55.9365412,
+        -3.1573731
+      ],
+      "desc": "Historic mansion near Holyrood, Edinburgh, luxury escape",
+      "longDesc": "A spectacular 17th-century mansion near Holyrood offering Gothic luxury and estate. Perfect for families and discerning travelers seeking refined hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Prestonfield%20House&center=55.9365412,-3.1573731",
+      "placeId": "ChIJB5QEf9vHh0gRNiywcZBB2mY",
+      "address": "Priestfield Rd, Edinburgh EH16 5UT, UK"
+    },
+    {
+      "name": "One Devonshire Gardens",
+      "coord": [
+        55.882366499999996,
+        -4.3040461
+      ],
+      "desc": "Glasgow boutique luxury, townhouse elegance",
+      "longDesc": "A sophisticated Glasgow boutique in Victorian townhouses with excellent restaurant. Offering refined accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=One%20Devonshire%20Gardens&center=55.882366499999996,-4.3040461",
+      "placeId": "ChIJsSM7ZMdFiEgR0qkzQ1WNfjU",
+      "address": "1 Devonshire Gardens, Glasgow G12 0UX, UK"
+    },
+    {
+      "name": "Rocpool Reserve",
+      "coord": [
+        57.471596,
+        -4.223695
+      ],
+      "desc": "Inverness luxury, contemporary design, Highland base",
+      "longDesc": "A contemporary Highland hotel in Inverness with stylish rooms and excellent restaurant. Offering sophisticated accommodations and excellent service for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rocpool%20Reserve&center=57.471596,-4.223695",
+      "placeId": "ChIJEfTPGlBxj0gRMAVd7YboxQ0",
+      "address": "Culduthel Rd, Inverness IV2 4AG, UK"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Alain Ducasse at The Dorchester",
+      "coord": [
+        51.507411999999995,
+        -0.1523328
+      ],
+      "desc": "3 Michelin stars, French haute cuisine, Mayfair",
+      "longDesc": "An exceptional temple of French cuisine in Mayfair where Chef Ducasse's technique delivers unforgettable dining.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alain%20Ducasse%20at%20The%20Dorchester&center=51.507411999999995,-0.1523328",
+      "placeId": "ChIJDaP2Ky4FdkgR7VspCxVWiDk",
+      "address": "The Dorchester, 53 Park Ln, London W1K 1QA, UK"
+    },
+    {
+      "name": "CORE by Clare Smyth",
+      "coord": [
+        51.5127727,
+        -0.2031335
+      ],
+      "desc": "3 Michelin stars, modern British, Notting Hill",
+      "longDesc": "An intimate Notting Hill gem where Chef Smyth crafts exquisitely executed seasonal British menus. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=CORE%20by%20Clare%20Smyth&center=51.5127727,-0.2031335",
+      "placeId": "ChIJVVU8V-IPdkgRzKjRtNrdvDw",
+      "address": "92 Kensington Park Rd, London W11 2PN, UK"
+    },
+    {
+      "name": "Restaurant Gordon Ramsay",
+      "coord": [
+        51.4855169,
+        -0.16203489999999998
+      ],
+      "desc": "3 Michelin stars, French-inspired, Chelsea",
+      "longDesc": "Chef Ramsay's flagship in Chelsea with impeccably executed French techniques and ingredients. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Gordon%20Ramsay&center=51.4855169,-0.16203489999999998",
+      "placeId": "ChIJkUBQqPAFdkgRtPhH7EIvzJU",
+      "address": "68 Royal Hospital Rd, London SW3 4HP, UK"
+    },
+    {
+      "name": "Hélène Darroze at The Connaught",
+      "coord": [
+        51.5101843,
+        -0.1497608
+      ],
+      "desc": "Three-star French elegance, Mayfair institution",
+      "longDesc": "An exceptional showcase of Chef Darroze's Basque-influenced French cuisine in Mayfair. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=H%C3%A9l%C3%A8ne%20Darroze%20at%20The%20Connaught&center=51.5101843,-0.1497608",
+      "placeId": "ChIJNdaqLSwFdkgRcp3iqGlL6Ek",
+      "address": "The Connaught, Carlos Pl, London W1K 2AL, UK"
+    },
+    {
+      "name": "Dinner by Heston Blumenthal",
+      "coord": [
+        51.502161,
+        -0.159964
+      ],
+      "desc": "2 Michelin stars, innovative British, Knightsbridge",
+      "longDesc": "A theatrical experience combining historic British recipes with modern technique in the Bulgari Hotel. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dinner%20by%20Heston%20Blumenthal&center=51.502161,-0.159964",
+      "placeId": "ChIJRzX0mDkFdkgR-qAx8kL982A",
+      "address": "66 Knightsbridge, London SW1X 7LA, UK"
+    },
+    {
+      "name": "Pétrus",
+      "coord": [
+        51.4995924,
+        -0.1567467
+      ],
+      "desc": "2 Michelin stars, fine French, Belgravia",
+      "longDesc": "A sophisticated French restaurant in Belgravia with exceptional wine and elegant setting. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=P%C3%A9trus&center=51.4995924,-0.1567467",
+      "placeId": "ChIJBWbG7DsFdkgRUoGawp2ooK8",
+      "address": "1 Kinnerton St, London SW1X 8EA, UK"
+    },
+    {
+      "name": "Nobu London",
+      "coord": [
+        51.505149,
+        -0.1501351
+      ],
+      "desc": "2 Michelin stars, Japanese-Peruvian fusion, Mayfair",
+      "longDesc": "An innovative Japanese-Peruvian restaurant in Mayfair where Chef Matsuhisa's style meets London sophistication. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nobu%20London&center=51.505149,-0.1501351",
+      "placeId": "ChIJtzlJgy8FdkgRe0mah9wlo_0",
+      "address": "19 Old Park Ln, London W1K 1LB, UK"
+    },
+    {
+      "name": "The Hand & Flowers",
+      "coord": [
+        51.5697937,
+        -0.7833315
+      ],
+      "desc": "2 Michelin stars, gastropub, Marlow",
+      "longDesc": "Chef Tom Kerridge's celebrated Thames-side gastropub near London serving refined British fare. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Hand%20%26%20Flowers&center=51.5697937,-0.7833315",
+      "placeId": "ChIJd4f8qriJdkgRyL2wvKU_-e8",
+      "address": "126 West St, Marlow SL7 2BP, UK"
+    },
+    {
+      "name": "Alyn Williams at The Westbury",
+      "coord": [
+        51.5935146,
+        -0.09841019999999999
+      ],
+      "desc": "2 Michelin stars, modern British fine dining, Mayfair",
+      "longDesc": "A celebrated Mayfair restaurant where Chef Williams creates refined contemporary British cuisine. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alyn%20Williams%20at%20The%20Westbury&center=51.5935146,-0.09841019999999999",
+      "placeId": "ChIJZYW-NvkbdkgRme-iDnGmlLM",
+      "address": "57 Westbury Ave, London N22 6SA, UK"
+    },
+    {
+      "name": "Brooklands by Claude Bosi",
+      "coord": [
+        51.5018235,
+        -0.1522025
+      ],
+      "desc": "2 Michelin stars, fine French, Chelsea",
+      "longDesc": "Chef Claude Bosi's elegant Chelsea restaurant serving contemporary French cuisine with precision. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brooklands%20by%20Claude%20Bosi&center=51.5018235,-0.1522025",
+      "placeId": "ChIJn6GfuNgFdkgRVm_XNMCoaCM",
+      "address": "The Peninsula, 1 Grosvenor Pl, London SW1X 7HJ, UK"
+    },
+    {
+      "name": "Benu",
+      "coord": [
+        51.5078483,
+        -0.1356575
+      ],
+      "desc": "1 Michelin star (potential), innovative, Mayfair",
+      "longDesc": "A cutting-edge restaurant in Mayfair celebrating innovative cuisine and seasonal ingredients. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Benu&center=51.5078483,-0.1356575",
+      "placeId": "ChIJj7W8LyoFdkgRKx9Ia3wAO6s",
+      "address": "8 St James's Square, London SW1Y 4JU, UK"
+    },
+    {
+      "name": "Sketch Restaurant",
+      "coord": [
+        51.512693,
+        -0.141529
+      ],
+      "desc": "1 Michelin star, contemporary French, Mayfair",
+      "longDesc": "A theatrical Mayfair institution where contemporary French cuisine meets avant-garde design. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sketch%20Restaurant&center=51.512693,-0.141529",
+      "placeId": "ChIJa4btjyoFdkgRJAOdAdsAdbA",
+      "address": "9 Conduit St, London W1S 2XG, UK"
+    },
+    {
+      "name": "Heliot Steak House",
+      "coord": [
+        51.511377599999996,
+        -0.12876379999999998
+      ],
+      "desc": "1 Michelin star, premium steakhouse, Mayfair",
+      "longDesc": "An elegant Mayfair steakhouse serving prime beef with exceptional service and wine program. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Heliot%20Steak%20House&center=51.511377599999996,-0.12876379999999998",
+      "placeId": "ChIJsxEWkc0EdkgRPjoMZWhJVRo",
+      "address": "Hippodrome Casino, Cranbourn St, Leicester Square, London WC2H 7JH, UK"
+    },
+    {
+      "name": "Brat",
+      "coord": [
+        51.5242042,
+        -0.0767031
+      ],
+      "desc": "1 Michelin star, exceptional British, Shoreditch",
+      "longDesc": "A stripped-back Shoreditch gem celebrating British ingredients with outdoor cooking traditions. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brat&center=51.5242042,-0.0767031",
+      "placeId": "ChIJ7XVltrAcdkgRISmskLX7lbw",
+      "address": "4 Redchurch St, London E1 6JL, UK"
+    },
+    {
+      "name": "Lyle's",
+      "coord": [
+        51.5237542,
+        -0.0764767
+      ],
+      "desc": "1 Michelin star, innovative seasonal, Shoreditch",
+      "longDesc": "A celebrated Shoreditch restaurant showcasing refined seasonal British fare and vegetables. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lyle%27s&center=51.5237542,-0.0764767",
+      "placeId": "ChIJzTzkzLAcdkgRbwmAyPCNQ9o",
+      "address": "Tea Building, 56 Shoreditch High St, London E1 6JJ, UK"
+    },
+    {
+      "name": "Hide",
+      "coord": [
+        51.5061931,
+        -0.1444369
+      ],
+      "desc": "1 Michelin star, elevated British tasting, Mayfair",
+      "longDesc": "A multi-level Mayfair restaurant with exquisite tasting menus celebrating British ingredients. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hide&center=51.5061931,-0.1444369",
+      "placeId": "ChIJn1DE_XsFdkgR6NyYk4IWd64",
+      "address": "85 Piccadilly, London W1J 7NB, UK"
+    },
+    {
+      "name": "The Harwood Arms",
+      "coord": [
+        51.4829152,
+        -0.19648839999999998
+      ],
+      "desc": "1 Michelin star, gastropub, Fulham",
+      "longDesc": "A neighborhood gastropub in Fulham celebrating game and British ingredients with technique. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Harwood%20Arms&center=51.4829152,-0.19648839999999998",
+      "placeId": "ChIJYbZdgoUPdkgRrBtAYcMgkBc",
+      "address": "Walham Grove, London SW6 1QJ, UK"
+    },
+    {
+      "name": "The Ledbury",
+      "coord": [
+        51.516655,
+        -0.200063
+      ],
+      "desc": "1 Michelin star, elegant British, Notting Hill",
+      "longDesc": "A sophisticated Notting Hill restaurant where Chef Brett Graham refines British ingredients. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ledbury&center=51.516655,-0.200063",
+      "placeId": "ChIJe29QNB0QdkgR5Kkx_0-jdo4",
+      "address": "127 Ledbury Rd, London W11 2AQ, UK"
+    },
+    {
+      "name": "Gymkhana",
+      "coord": [
+        51.508491199999995,
+        -0.1414724
+      ],
+      "desc": "1 Michelin star, refined Indian fine dining, Mayfair",
+      "longDesc": "An elegant Mayfair restaurant serving refined Indian cuisine celebrating coastal spices. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gymkhana&center=51.508491199999995,-0.1414724",
+      "placeId": "ChIJtwn55ikFdkgRAvOuPIWeLM0",
+      "address": "42 Albemarle St, London W1S 4JH, UK"
+    },
+    {
+      "name": "Yauatcha",
+      "coord": [
+        51.513587,
+        -0.1351682
+      ],
+      "desc": "1 Michelin star, dim sum, Soho",
+      "longDesc": "A celebrated Soho dim sum restaurant serving traditional and creative small plates. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yauatcha&center=51.513587,-0.1351682",
+      "placeId": "ChIJhfAKn9QEdkgRBBKDiFubnrA",
+      "address": "15-17 Broadwick St, London W1F 0DL, UK"
+    },
+    {
+      "name": "L'Astrance",
+      "coord": [
+        51.475,
+        -0.165
+      ],
+      "desc": "1 Michelin star, ultra-refined French, Chelsea",
+      "longDesc": "A legendary French institution where Chef Passard's dedication creates transcendent cuisine. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27Astrance&center=51.475,-0.165",
+      "placeId": "ChIJ_QxhRv1v5kcRyxeqcySoeBQ",
+      "address": "32 Rue de Longchamp, 75116 Paris, France"
+    },
+    {
+      "name": "A. Wong",
+      "coord": [
+        51.493006,
+        -0.1405639
+      ],
+      "desc": "1 Michelin star, refined Chinese, Victoria",
+      "longDesc": "An exceptional Chinese restaurant in Victoria celebrating regional Chinese culinary traditions. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=A.%20Wong&center=51.493006,-0.1405639",
+      "placeId": "ChIJkQhKHeAEdkgRbgw0TGfq-W8",
+      "address": "70 Wilton Rd, Pimlico, London SW1V 1DE, UK"
+    },
+    {
+      "name": "Triumph & Endeavour",
+      "coord": [
+        51.487125199999994,
+        -0.12296090000000001
+      ],
+      "desc": "Contemporary British dining, focus on ingredient",
+      "longDesc": "A contemporary British restaurant celebrating quality ingredients with refined presentations. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Triumph%20%26%20Endeavour&center=51.487125199999994,-0.12296090000000001",
+      "placeId": "ChIJn6dw_E0FdkgRcmWxs3IaTk8",
+      "address": "Albert Embankment, London SE1 7TP, UK"
+    },
+    {
+      "name": "Rules Restaurant",
+      "coord": [
+        51.510833,
+        -0.12316940000000001
+      ],
+      "desc": "London's oldest (1798), game & British classics",
+      "longDesc": "A legendary Covent Garden institution serving traditional game dishes for over two centuries. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rules%20Restaurant&center=51.510833,-0.12316940000000001",
+      "placeId": "ChIJbUnC58oEdkgR4pwzPtYGrbY",
+      "address": "35 Maiden Ln, London WC2E 7LB, UK"
+    },
+    {
+      "name": "Simpson's-in-the-Strand",
+      "coord": [
+        51.510613799999994,
+        -0.12054959999999999
+      ],
+      "desc": "Iconic British dining (1848), carved roasts, Strand",
+      "longDesc": "A historic Strand institution famous for carved roasts and traditional British fare. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Simpson%27s-in-the-Strand&center=51.510613799999994,-0.12054959999999999",
+      "placeId": "ChIJCyGjxMsEdkgR56s8-gFqDnU",
+      "address": "100 Strand, London WC2R 0EZ, UK"
+    },
+    {
+      "name": "Ivy Restaurant",
+      "coord": [
+        51.5128449,
+        -0.1280908
+      ],
+      "desc": "Iconic brasserie, West End views, theatrical clientele",
+      "longDesc": "A legendary Covent Garden brasserie where theatrical folk gather for French-style fare. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ivy%20Restaurant&center=51.5128449,-0.1280908",
+      "placeId": "ChIJVcvKc80EdkgRyV3q0YIzDvc",
+      "address": "1-5 West St, London WC2H 9NQ, UK"
+    },
+    {
+      "name": "J Sheekey",
+      "coord": [
+        51.5108994,
+        -0.12780819999999998
+      ],
+      "desc": "Historic seafood, theatrical haunt, Covent Garden",
+      "longDesc": "A beloved Covent Garden seafood institution with nearly 130 years of impeccable fish. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=J%20Sheekey&center=51.5108994,-0.12780819999999998",
+      "placeId": "ChIJkfaU6s0EdkgRANlMp3C1f68",
+      "address": "28-32 St Martin's Ct, London WC2N 4AL, UK"
+    },
+    {
+      "name": "Fortnum & Mason Dining Room",
+      "coord": [
+        51.508258299999994,
+        -0.1382722
+      ],
+      "desc": "Historic department store dining, afternoon tea",
+      "longDesc": "Iconic Piccadilly department store offering legendary afternoon tea and refined British dining. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fortnum%20%26%20Mason%20Dining%20Room&center=51.508258299999994,-0.1382722",
+      "placeId": "ChIJk3umitYEdkgRdi1T77lCf78",
+      "address": "4th Floor, Fortnum & Mason, 181 Piccadilly, London W1A 1ER, UK"
+    },
+    {
+      "name": "The Clove Club",
+      "coord": [
+        51.5270972,
+        -0.07933849999999999
+      ],
+      "desc": "Modern British, Shoreditch, seasonal menu",
+      "longDesc": "A celebrated Shoreditch restaurant serving inventive modern British cuisine with seasonal focus. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Clove%20Club&center=51.5270972,-0.07933849999999999",
+      "placeId": "ChIJkbGoX7ocdkgRgfrpjeC7xzM",
+      "address": "Shoreditch Town Hall, 380 Old St, London EC1V 9LT, UK"
+    },
+    {
+      "name": "Ottolenghi",
+      "coord": [
+        51.511727199999996,
+        -0.13843990000000003
+      ],
+      "desc": "Chef Yotam, vibrant Mediterranean, multiple locations",
+      "longDesc": "Chef Ottolenghi's iconic casual restaurants featuring bold Mediterranean flavors and design. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ottolenghi&center=51.511727199999996,-0.13843990000000003",
+      "placeId": "ChIJiYjWsdUEdkgRF9gDUUHqQl4",
+      "address": "21-22 Warwick St, London W1F 9LD, UK"
+    },
+    {
+      "name": "Salt Baked",
+      "coord": [
+        51.5237461,
+        -0.0729121
+      ],
+      "desc": "Whole animal dining, nose-to-tail, Fitzrovia",
+      "longDesc": "A passionate nose-to-tail restaurant in Fitzrovia celebrating whole-animal cookery. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Salt%20Baked&center=51.5237461,-0.0729121",
+      "placeId": "ChIJoVjVfDMddkgRb9dyhTLOh_I",
+      "address": "35 Sclater St, London E1 6LB, UK"
+    },
+    {
+      "name": "Barrafina",
+      "coord": [
+        51.514109999999995,
+        -0.13266709999999998
+      ],
+      "desc": "Spanish tapas bar, counter seating, Soho",
+      "longDesc": "A beloved Soho tapas bar serving authentic Spanish small plates with jamón ibérico. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Barrafina&center=51.514109999999995,-0.13266709999999998",
+      "placeId": "ChIJqeYp3NIEdkgRl9hMI8pRL8U",
+      "address": "26-27 Dean St, London W1D 3LL, UK"
+    },
+    {
+      "name": "Granger & Co",
+      "coord": [
+        51.532745600000005,
+        -0.1254561
+      ],
+      "desc": "Breakfast powerhouse, ricotta pancakes, King's Cross",
+      "longDesc": "An Australian breakfast cult favorite known for fluffy ricotta pancakes and exceptional coffee. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Granger%20%26%20Co&center=51.532745600000005,-0.1254561",
+      "placeId": "ChIJEYSSWjwbdkgREtXtwUizFx4",
+      "address": "Unit 1, 7 Pancras Sq, London N1C 4AG, UK"
+    },
+    {
+      "name": "Dishoom",
+      "coord": [
+        51.512517599999995,
+        -0.1268291
+      ],
+      "desc": "Bombay street food, family-favorite, Covent Garden",
+      "longDesc": "A vibrant Indian restaurant celebrating Bombay street food with incredible curry breads. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dishoom&center=51.512517599999995,-0.1268291",
+      "placeId": "ChIJxZXYx7cEdkgRdgAOZ6OHOJw",
+      "address": "12 Upper St Martin's Ln, London WC2H 9FB, UK"
+    },
+    {
+      "name": "Padella",
+      "coord": [
+        51.5051655,
+        -0.08992019999999999
+      ],
+      "desc": "Fresh pasta daily, no reservations, Borough Market",
+      "longDesc": "A tiny Borough Market gem serving handmade pasta and exceptional seafood standing-room only. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Padella&center=51.5051655,-0.08992019999999999",
+      "placeId": "ChIJdZ6paFcDdkgRpPUHPngIeq8",
+      "address": "6 Southwark St, London SE1 1TQ, UK"
+    },
+    {
+      "name": "Lilia",
+      "coord": [
+        51.53106,
+        -0.073652
+      ],
+      "desc": "Rustic Italian, wood-fired pastas, theatrical room",
+      "longDesc": "A theatrical Italian restaurant in South Bank with spectacular open kitchen and pastas. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lilia&center=51.53106,-0.073652",
+      "placeId": "ChIJU8sl1L4cdkgRQIqsOUXoW_g",
+      "address": "277 Fellows Ct, London E2 8LL, UK"
+    },
+    {
+      "name": "Dum Pukht",
+      "coord": [
+        51.5039843,
+        -0.09134450000000001
+      ],
+      "desc": "Royal Indian cuisine, slow cooking tradition, St James's",
+      "longDesc": "A sophisticated Indian restaurant celebrating Dum Pukht slow-cooking traditions with exceptional biryani. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dum%20Pukht&center=51.5039843,-0.09134450000000001",
+      "placeId": "ChIJq4cOIv4DdkgRoPoYf63D5q4",
+      "address": "64 Borough High St, London SE1 1XF, UK"
+    },
+    {
+      "name": "Tamarind",
+      "coord": [
+        51.5070713,
+        -0.14724879999999999
+      ],
+      "desc": "Modern Indian fine dining, Michelin-starred, Mayfair",
+      "longDesc": "A celebrated Mayfair restaurant serving contemporary Indian cuisine with refined presentation. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tamarind&center=51.5070713,-0.14724879999999999",
+      "placeId": "ChIJTUlS0S4FdkgRNcarX5NN-AM",
+      "address": "20 Queen St, London W1J 5PR, UK"
+    },
+    {
+      "name": "Cote Brasserie",
+      "coord": [
+        51.5123557,
+        -0.12028349999999997
+      ],
+      "desc": "French classics, steak-frites, casual-elegant",
+      "longDesc": "A charming French brasserie celebrating classic bistro fare and steak-frites. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cote%20Brasserie&center=51.5123557,-0.12028349999999997",
+      "placeId": "ChIJR3dd_8oEdkgRVcSgT5gqCb8",
+      "address": "17-21 Tavistock St, London WC2E 7PA, UK"
+    },
+    {
+      "name": "Humble Chicken",
+      "coord": [
+        51.513832699999995,
+        -0.1317855
+      ],
+      "desc": "Rotisserie specialist, herb-brined chicken, Fitzrovia",
+      "longDesc": "A celebrated restaurant specializing in exceptional roast chicken with refined simplicity. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Humble%20Chicken&center=51.513832699999995,-0.1317855",
+      "placeId": "ChIJj2LUnbgFdkgRs__gtpjkPRg",
+      "address": "54 Frith St, London W1D 4SJ, UK"
+    },
+    {
+      "name": "64 Goodge Street",
+      "coord": [
+        51.5190571,
+        -0.1368748
+      ],
+      "desc": "Modern British, intimate, Fitzrovia",
+      "longDesc": "An intimate Fitzrovia restaurant serving refined modern British cuisine with precision. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=64%20Goodge%20Street&center=51.5190571,-0.1368748",
+      "placeId": "ChIJx-kxwSsbdkgRkTP9drk_NkA",
+      "address": "64 Goodge Street, Greater, 64 Goodge St, Greater, London W1T 4NF, UK"
+    },
+    {
+      "name": "Trivet",
+      "coord": [
+        51.50224660000001,
+        -0.0846975
+      ],
+      "desc": "Rustic European fare, wood-fired hearth, Borough Market",
+      "longDesc": "A Borough restaurant celebrating wood-fired cooking and seasonal European cuisine. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Trivet&center=51.50224660000001,-0.0846975",
+      "placeId": "ChIJhZkSsNQDdkgRwGJZ7Z2rMjg",
+      "address": "36 Snowsfields, London SE1 3SU, UK"
+    },
+    {
+      "name": "Da Terra",
+      "coord": [
+        51.530433599999995,
+        -0.055982399999999995
+      ],
+      "desc": "Italian simplicity, seasonal ingredients, Shoreditch",
+      "longDesc": "A Shoreditch gem celebrating Italian culinary traditions with exceptional seasonal ingredients. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Da%20Terra&center=51.530433599999995,-0.055982399999999995",
+      "placeId": "ChIJn-wx7LQddkgRMWv5bVEiEfQ",
+      "address": "8 Patriot Square, London E2 9NF, UK"
+    },
+    {
+      "name": "The Ritz Afternoon Tea",
+      "coord": [
+        51.507142400000006,
+        -0.14168899999999998
+      ],
+      "desc": "Gilded dining room, legendary tea service, Piccadilly",
+      "longDesc": "London's most iconic afternoon tea in the gilded Ritz dining room with champagne. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ritz%20Afternoon%20Tea&center=51.507142400000006,-0.14168899999999998",
+      "placeId": "ChIJmddfzSkFdkgRkjp961SHeiA",
+      "address": "150 Piccadilly, London W1J 9BR, UK"
+    },
+    {
+      "name": "Claridge's Afternoon Tea",
+      "coord": [
+        51.5125052,
+        -0.1474773
+      ],
+      "desc": "Art Deco setting, refined tea service, Mayfair",
+      "longDesc": "An Art Deco afternoon tea in the historic Claridge's foyer with fine china. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Claridge%27s%20Afternoon%20Tea&center=51.5125052,-0.1474773",
+      "placeId": "ChIJq45_yF4FdkgRwv4Vdhs0shE",
+      "address": "Claridge's, Brook St, London W1K 4HR, UK"
+    },
+    {
+      "name": "The Dorchester Afternoon Tea",
+      "coord": [
+        51.5074166,
+        -0.1523737
+      ],
+      "desc": "Grand tearoom, sumptuous spreads, Park Lane views",
+      "longDesc": "A lavish afternoon tea with champagne and pastries in an ornate salon. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Dorchester%20Afternoon%20Tea&center=51.5074166,-0.1523737",
+      "placeId": "ChIJLRsKLC4FdkgRH-v4Z72s9yE",
+      "address": "53 Park Ln, London W1K 1QA, UK"
+    },
+    {
+      "name": "Palm Court at The Langham",
+      "coord": [
+        51.517616399999994,
+        -0.14375939999999998
+      ],
+      "desc": "Elegant tea service, historic Marylebone",
+      "longDesc": "An elegant afternoon tea in the Palm Court of this historic Marylebone landmark. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Palm%20Court%20at%20The%20Langham&center=51.517616399999994,-0.14375939999999998",
+      "placeId": "ChIJV8gP0ykFdkgRChXIlkEccTo",
+      "address": "1C Portland Pl, London W1B 1JA, UK"
+    },
+    {
+      "name": "The Savoy Afternoon Tea",
+      "coord": [
+        51.510183899999994,
+        -0.1205097
+      ],
+      "desc": "Thames-side tea service, West End views",
+      "longDesc": "An iconic afternoon tea with Thames-side views and West End proximity. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Savoy%20Afternoon%20Tea&center=51.510183899999994,-0.1205097",
+      "placeId": "ChIJx5m01ssEdkgRU-kvb4oJPNo",
+      "address": "Strand, London WC2R 0EY, UK"
+    },
+    {
+      "name": "The Ivy Market Grill",
+      "coord": [
+        51.511370799999995,
+        -0.12270070000000001
+      ],
+      "desc": "Modern brasserie, oysters, Covent Garden Market",
+      "longDesc": "A stylish Covent Garden venue offering fresh oysters, grilled meats, and French-inspired fare in a theatrical market-side setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ivy%20Market%20Grill&center=51.511370799999995,-0.12270070000000001",
+      "placeId": "ChIJW5GAi8sEdkgRGGXwI8hBSLc",
+      "address": "1a Henrietta St, London WC2E 8PS, UK"
+    },
+    {
+      "name": "Hawksmoor Seven Dials",
+      "coord": [
+        51.51348790000001,
+        -0.12574559999999999
+      ],
+      "desc": "Prime steaks, cocktails, Covent Garden, British beef",
+      "longDesc": "A celebrated steakhouse in Covent Garden serving prime British beef with outstanding cocktails and theatrical atmosphere for special occasions.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hawksmoor%20Seven%20Dials&center=51.51348790000001,-0.12574559999999999",
+      "placeId": "ChIJCWgQ38wEdkgROQYuPAFfDRo",
+      "address": "11 Langley St, London WC2H 9JG, UK"
+    },
+    {
+      "name": "The Ivy Asia",
+      "coord": [
+        51.5137393,
+        -0.0960159
+      ],
+      "desc": "Pan-Asian cuisine, stylish setting, Mayfair",
+      "longDesc": "A sophisticated pan-Asian restaurant in Mayfair combining vibrant flavors with contemporary design and warm, attentive service.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ivy%20Asia&center=51.5137393,-0.0960159",
+      "placeId": "ChIJi7MWEnIFdkgRuEWNRjzpQ6w",
+      "address": "20 New Change, London EC4M 9AG, UK"
+    },
+    {
+      "name": "Caraffini",
+      "coord": [
+        51.4904132,
+        -0.156737
+      ],
+      "desc": "Italian fine dining, seasonal menu, Chelsea",
+      "longDesc": "A celebrated Italian restaurant in Chelsea with seasonal menus celebrating Italian culinary traditions and impeccable technique.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Caraffini&center=51.4904132,-0.156737",
+      "placeId": "ChIJ3yq67hYFdkgRF7jIlmzqRus",
+      "address": "61-63 Lower Sloane St, London SW1W 8DH, UK"
+    },
+    {
+      "name": "Wild Honey",
+      "coord": [
+        51.5074924,
+        -0.1322098
+      ],
+      "desc": "Contemporary European, refined Mayfair, seasonal",
+      "longDesc": "A sophisticated Mayfair restaurant serving contemporary European cuisine with refined ingredients and impeccable service. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wild%20Honey&center=51.5074924,-0.1322098",
+      "placeId": "ChIJCXHRB9EEdkgRrOgHyE2YKbs",
+      "address": "6 Waterloo Pl, London SW1Y 4AN, UK"
+    },
+    {
+      "name": "Humble Chicken",
+      "coord": [
+        51.513832699999995,
+        -0.1317855
+      ],
+      "desc": "Seasonal roasted poultry, minimalist plating, Fitzrovia",
+      "longDesc": "A celebrated restaurant in Fitzrovia specializing in exceptional roast chicken prepared with refined simplicity and skill.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Humble%20Chicken&center=51.513832699999995,-0.1317855",
+      "placeId": "ChIJj2LUnbgFdkgRs__gtpjkPRg",
+      "address": "54 Frith St, London W1D 4SJ, UK"
+    },
+    {
+      "name": "64 Goodge Street",
+      "coord": [
+        51.5190571,
+        -0.1368748
+      ],
+      "desc": "Modern British, intimate, Fitzrovia, chef's tasting",
+      "longDesc": "An intimate Fitzrovia restaurant serving refined modern British cuisine with precision and respect for seasonal ingredients.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=64%20Goodge%20Street&center=51.5190571,-0.1368748",
+      "placeId": "ChIJx-kxwSsbdkgRkTP9drk_NkA",
+      "address": "64 Goodge Street, Greater, 64 Goodge St, Greater, London W1T 4NF, UK"
+    },
+    {
+      "name": "Trivet",
+      "coord": [
+        51.50224660000001,
+        -0.0846975
+      ],
+      "desc": "Seasonal European, open kitchen, Borough destination",
+      "longDesc": "A Borough restaurant celebrating wood-fired cooking and seasonal European cuisine in a warm, welcoming atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Trivet&center=51.50224660000001,-0.0846975",
+      "placeId": "ChIJhZkSsNQDdkgRwGJZ7Z2rMjg",
+      "address": "36 Snowsfields, London SE1 3SU, UK"
+    },
+    {
+      "name": "Da Terra",
+      "coord": [
+        51.530433599999995,
+        -0.055982399999999995
+      ],
+      "desc": "Rustic Italian cooking, market-driven, Shoreditch",
+      "longDesc": "A Shoreditch gem celebrating Italian culinary traditions with exceptional seasonal ingredients and passionate cooking. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Da%20Terra&center=51.530433599999995,-0.055982399999999995",
+      "placeId": "ChIJn-wx7LQddkgRMWv5bVEiEfQ",
+      "address": "8 Patriot Square, London E2 9NF, UK"
+    },
+    {
+      "name": "Breddos Tacos",
+      "coord": [
+        51.5237293,
+        -0.09866649999999999
+      ],
+      "desc": "Mexican street food, tacos, Shoreditch",
+      "longDesc": "A Shoreditch favorite celebrating authentic Mexican street food culture with incredible tacos and Mexican beers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Breddos%20Tacos&center=51.5237293,-0.09866649999999999",
+      "placeId": "ChIJeXBwPFcbdkgRFE1w9-elgxw",
+      "address": "82 Goswell Rd., London EC1V 7DB, UK"
+    },
+    {
+      "name": "Legare",
+      "coord": [
+        51.5034925,
+        -0.0740402
+      ],
+      "desc": "Contemporary French, Fitzrovia, intimate",
+      "longDesc": "An intimate Fitzrovia restaurant serving contemporary French cuisine with precision, respect, and beautiful seasonal ingredients.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Legare&center=51.5034925,-0.0740402",
+      "placeId": "ChIJIWTiZiEDdkgR2BGTzzgcnAc",
+      "address": "Cardamom Bldg, 31G Shad Thames, Tower Bridge, London SE1 2YR, UK"
+    },
+    {
+      "name": "Rotorino",
+      "coord": [
+        51.5422222,
+        -0.07583329999999999
+      ],
+      "desc": "Italian wood-fired pizza, Shoreditch, sourdough",
+      "longDesc": "A celebrated Shoreditch pizzeria serving wood-fired sourdough pizzas with exceptional toppings and vibrant atmosphere. A beloved establishment worth visiting for its distinctive character and food.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rotorino&center=51.5422222,-0.07583329999999999",
+      "placeId": "ChIJX0-U_pMcdkgRCTukXZkI5hw",
+      "address": "434 Kingsland Rd, London E8 4AA, UK"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "British Museum",
+      "coord": [
+        51.5194133,
+        -0.1269566
+      ],
+      "desc": "Iconic world history, mummy collection, free admission",
+      "longDesc": "London's premier museum housing Egyptian mummies, Rosetta Stone, and world-spanning treasures in Victorian grandeur. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=British%20Museum&center=51.5194133,-0.1269566",
+      "placeId": "ChIJB9OTMDIbdkgRp0JWbQGZsS8",
+      "address": "Great Russell St, London WC1B 3DG, UK"
+    },
+    {
+      "name": "V&A Museum",
+      "coord": [
+        51.4966392,
+        -0.17218
+      ],
+      "desc": "Design & decorative arts, fashion, furniture, free",
+      "longDesc": "A beautiful South Kensington museum celebrating design excellence across centuries with stunning galleries. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=V%26A%20Museum&center=51.4966392,-0.17218",
+      "placeId": "ChIJw1d-sUMFdkgRH2XN_U0Jt54",
+      "address": "Cromwell Rd, London SW7 2RL, UK"
+    },
+    {
+      "name": "National Gallery",
+      "coord": [
+        51.508928999999995,
+        -0.128299
+      ],
+      "desc": "European masterpieces, Impressionists, free admission",
+      "longDesc": "An essential London gallery featuring da Vinci, Van Gogh, and Turner in Trafalgar Square. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Gallery&center=51.508928999999995,-0.128299",
+      "placeId": "ChIJeclqF84EdkgRtKAjTmWFr0I",
+      "address": "Trafalgar Square, London WC2N 5DN, UK"
+    },
+    {
+      "name": "Tate Modern",
+      "coord": [
+        51.507595300000006,
+        -0.0993564
+      ],
+      "desc": "Contemporary & modern art, Turbine Hall, free",
+      "longDesc": "A world-leading contemporary art museum in a converted power station with Thames views. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tate%20Modern&center=51.507595300000006,-0.0993564",
+      "placeId": "ChIJlRl2MakEdkgR55tr4CNv_B8",
+      "address": "Bankside, London SE1 9TG, UK"
+    },
+    {
+      "name": "Natural History Museum",
+      "coord": [
+        51.496714999999995,
+        -0.17636720000000003
+      ],
+      "desc": "Dinosaurs, blue whale, minerals, free admission",
+      "longDesc": "A beloved South Kensington museum where families explore dinosaurs and Earth's natural wonders. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Natural%20History%20Museum&center=51.496714999999995,-0.17636720000000003",
+      "placeId": "ChIJPy8Y5kIFdkgRxGSXw4Xjt3s",
+      "address": "Cromwell Rd, South Kensington, London SW7 5BD, UK"
+    },
+    {
+      "name": "National Portrait Gallery",
+      "coord": [
+        51.5094236,
+        -0.1281216
+      ],
+      "desc": "British portraiture through centuries, free",
+      "longDesc": "An inspiring collection of British portraits spanning centuries overlooking Trafalgar Square. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Portrait%20Gallery&center=51.5094236,-0.1281216",
+      "placeId": "ChIJeclqF84EdkgRYkL4mtJ7rLM",
+      "address": "St. Martin's Pl, London WC2H 0HE, UK"
+    },
+    {
+      "name": "Tate Britain",
+      "coord": [
+        51.4910621,
+        -0.1277886
+      ],
+      "desc": "British art from 1500s, Turner collection, free",
+      "longDesc": "A comprehensive survey of British artistic achievement from Tudors to contemporary times. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tate%20Britain&center=51.4910621,-0.1277886",
+      "placeId": "ChIJvWjCxekEdkgRoCgQVJHZH_U",
+      "address": "Millbank, London SW1P 4RG, UK"
+    },
+    {
+      "name": "British Library",
+      "coord": [
+        51.5299717,
+        -0.12767589999999998
+      ],
+      "desc": "Magna Carta, Shakespeare folios, Harry Potter manuscripts",
+      "longDesc": "A magnificent repository of human knowledge with the Magna Carta and Shakespeare's First Folio. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=British%20Library&center=51.5299717,-0.12767589999999998",
+      "placeId": "ChIJlRMXcDsbdkgRJdsP3nlUkBg",
+      "address": "96 Euston Rd., London NW1 2DB, UK"
+    },
+    {
+      "name": "Royal Academy of Arts",
+      "coord": [
+        51.5094426,
+        -0.1398686
+      ],
+      "desc": "Contemporary exhibitions, Summer Exhibition, Mayfair",
+      "longDesc": "A prestigious institution showcasing contemporary and historic art in elegant Georgian townhouse. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Academy%20of%20Arts&center=51.5094426,-0.1398686",
+      "placeId": "ChIJM5ERbdYEdkgRFkMO56hrE_k",
+      "address": "Burlington House, Piccadilly, London W1J 0BD, UK"
+    },
+    {
+      "name": "Courtauld Gallery",
+      "coord": [
+        51.5115865,
+        -0.11755929999999999
+      ],
+      "desc": "Impressionist masterpieces, intimate setting, Strand",
+      "longDesc": "A gem of Impressionist art housed in an elegant Somerset House gallery. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Courtauld%20Gallery&center=51.5115865,-0.11755929999999999",
+      "placeId": "ChIJJUQ-d8oEdkgR-JVIDfRa6aY",
+      "address": "Somerset House, Strand, London WC2R 0RN, UK"
+    },
+    {
+      "name": "Wallace Collection",
+      "coord": [
+        51.517323000000005,
+        -0.1530885
+      ],
+      "desc": "European art, weapons, decorative arts, Marylebone",
+      "longDesc": "A hidden gem in Marylebone with extraordinary private art collection and arms. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wallace%20Collection&center=51.517323000000005,-0.1530885",
+      "placeId": "ChIJczuZfc0adkgRc8X-u3ZiHcE",
+      "address": "Hertford House, Manchester Square, London W1U 3BN, UK"
+    },
+    {
+      "name": "Sir John Soane's Museum",
+      "coord": [
+        51.517038199999995,
+        -0.11746989999999999
+      ],
+      "desc": "Collector's eclectic cabinet, Holborn gem",
+      "longDesc": "An enchanting 19th-century collector's townhouse with Egyptian mummies and antiquities. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sir%20John%20Soane%27s%20Museum&center=51.517038199999995,-0.11746989999999999",
+      "placeId": "ChIJaQQ3lEobdkgRmauadcnji9s",
+      "address": "13 Lincoln's Inn Fields, London WC2A 3BP, UK"
+    },
+    {
+      "name": "Foundling Museum",
+      "coord": [
+        51.5252531,
+        -0.1216684
+      ],
+      "desc": "Georgian history, Hogarth art, social welfare story",
+      "longDesc": "An intimate Georgian townhouse revealing 18th-century London charity history and art. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Foundling%20Museum&center=51.5252531,-0.1216684",
+      "placeId": "ChIJ3-M3YTcbdkgRGzQr8JQ8APE",
+      "address": "40 Brunswick Square, London WC1N 1AZ, UK"
+    },
+    {
+      "name": "Design Museum",
+      "coord": [
+        51.4998973,
+        -0.20024399999999998
+      ],
+      "desc": "Contemporary design, innovations, exhibitions",
+      "longDesc": "A forward-looking museum celebrating contemporary design, innovation, and creative industries. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Design%20Museum&center=51.4998973,-0.20024399999999998",
+      "placeId": "ChIJs0HnpkcDdkgRJjUYVf4jca4",
+      "address": "224-238 Kensington High St, London W8 6AG, UK"
+    },
+    {
+      "name": "Tower of London",
+      "coord": [
+        51.508112399999995,
+        -0.0759493
+      ],
+      "desc": "Crown Jewels, medieval fortress, 1000 years",
+      "longDesc": "A magnificent medieval fortress housing the Crown Jewels with Yeoman Warders' tours and royal history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tower%20of%20London&center=51.508112399999995,-0.0759493",
+      "placeId": "ChIJ3TgfM0kDdkgRZ2TV4d1Jv6g",
+      "address": "London EC3N 4AB, UK"
+    },
+    {
+      "name": "Westminster Abbey",
+      "coord": [
+        51.4993695,
+        -0.1272993
+      ],
+      "desc": "Royal coronations & burials, Gothic masterpiece",
+      "longDesc": "An awe-inspiring Gothic cathedral where monarchs are crowned and buried with soaring spaces. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Westminster%20Abbey&center=51.4993695,-0.1272993",
+      "placeId": "ChIJLzVDusQEdkgRelObBaL_jto",
+      "address": "Dean's Yard, London SW1P 3PA, UK"
+    },
+    {
+      "name": "Big Ben & Houses of Parliament",
+      "coord": [
+        51.4994794,
+        -0.1248092
+      ],
+      "desc": "Neo-Gothic icon, parliamentary tours available",
+      "longDesc": "London's most iconic symbol featuring the Elizabeth Tower clock and Gothic Revival architecture. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Big%20Ben%20%26%20Houses%20of%20Parliament&center=51.4994794,-0.1248092",
+      "placeId": "ChIJmZuNDMQEdkgRfB9O9456eQc",
+      "address": "London SW1A 0AA, UK"
+    },
+    {
+      "name": "Tower Bridge",
+      "coord": [
+        51.5054564,
+        -0.07535649999999999
+      ],
+      "desc": "Victorian engineering marvel, bridge walkway",
+      "longDesc": "An iconic Victorian bascule bridge with walkway offering Thames views and design appreciation. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tower%20Bridge&center=51.5054564,-0.07535649999999999",
+      "placeId": "ChIJSdtli0MDdkgRLW9aCBpCeJ4",
+      "address": "Tower Bridge Rd, London SE1 2UP, UK"
+    },
+    {
+      "name": "Buckingham Palace",
+      "coord": [
+        51.501363999999995,
+        -0.14189
+      ],
+      "desc": "Royal residence, Changing of Guard ceremony",
+      "longDesc": "The official London residence with the elaborate Changing of the Guard ceremony. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Buckingham%20Palace&center=51.501363999999995,-0.14189",
+      "placeId": "ChIJtV5bzSAFdkgRpwLZFPWrJgo",
+      "address": "London SW1A 1AA, UK"
+    },
+    {
+      "name": "St Paul's Cathedral",
+      "coord": [
+        51.5138453,
+        -0.0983506
+      ],
+      "desc": "Wren masterpiece, whispering gallery, sublime dome",
+      "longDesc": "Christopher Wren's Renaissance masterpiece with soaring dome and whispering gallery. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=St%20Paul%27s%20Cathedral&center=51.5138453,-0.0983506",
+      "placeId": "ChIJh7wHoqwEdkgR3l-vqQE1HTo",
+      "address": "St. Paul's Churchyard, London EC4M 8AD, UK"
+    },
+    {
+      "name": "Stonehenge",
+      "coord": [
+        51.178881999999994,
+        -1.8262150000000001
+      ],
+      "desc": "Prehistoric stone circle, mystical Wiltshire",
+      "longDesc": "An enigmatic 5,000-year-old stone circle evoking wonder about ancient civilizations. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Stonehenge&center=51.178881999999994,-1.8262150000000001",
+      "placeId": "ChIJEfYKhTvmc0gR3dLTvOJwkZc",
+      "address": "Salisbury SP4 7DE, UK"
+    },
+    {
+      "name": "Windsor Castle",
+      "coord": [
+        51.483894,
+        -0.6044027
+      ],
+      "desc": "Royal castle, state rooms, riverside setting, Berkshire",
+      "longDesc": "The oldest occupied royal residence featuring state rooms, St George's Chapel, and riverside location. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Windsor%20Castle&center=51.483894,-0.6044027",
+      "placeId": "ChIJm-i1NjsRdkgR5eH3xUZIL84",
+      "address": "Windsor SL4 1NJ, UK"
+    },
+    {
+      "name": "Roman Baths (Bath)",
+      "coord": [
+        51.381071999999996,
+        -2.359619
+      ],
+      "desc": "2,000-year-old Roman hot springs, Bath",
+      "longDesc": "Remarkably preserved Roman-era spa complex showcasing 2,000 years of bathing culture. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Roman%20Baths%20%28Bath%29&center=51.381071999999996,-2.359619",
+      "placeId": "ChIJtTDV3hOBcUgRTSLxFGi-Rg4",
+      "address": "Abbey Churchyard, Bath BA1 1LZ, UK"
+    },
+    {
+      "name": "Edinburgh Castle",
+      "coord": [
+        55.9485947,
+        -3.1999134999999996
+      ],
+      "desc": "Medieval fortress, Scottish Crown Jewels, city views",
+      "longDesc": "A dramatic medieval fortress on volcanic rock with crown jewels and panoramic vistas. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Edinburgh%20Castle&center=55.9485947,-3.1999134999999996",
+      "placeId": "ChIJ98CZIJrHh0gRWApM5esemkY",
+      "address": "Castlehill, Edinburgh EH1 2NG, UK"
+    },
+    {
+      "name": "Cutty Sark",
+      "coord": [
+        51.4828646,
+        -0.0095917
+      ],
+      "desc": "Historic tea clipper ship, Thames, Greenwich",
+      "longDesc": "A magnificent 19th-century sailing ship offering views of maritime history on the Thames. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cutty%20Sark&center=51.4828646,-0.0095917",
+      "placeId": "ChIJAVlhMIUCdkgRCJEgHVbITq4",
+      "address": "King William Walk, London SE10 9HT, UK"
+    },
+    {
+      "name": "Churchill War Rooms",
+      "coord": [
+        51.5021585,
+        -0.1293572
+      ],
+      "desc": "Secret WWII underground bunker, Churchill's office",
+      "longDesc": "A fascinating underground complex where Churchill directed WWII operations with preserved rooms. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Churchill%20War%20Rooms&center=51.5021585,-0.1293572",
+      "placeId": "ChIJq4lX1doEdkgR5JXPstgQjc0",
+      "address": "King Charles St, London SW1A 2AQ, UK"
+    },
+    {
+      "name": "Kew Gardens",
+      "coord": [
+        51.4787438,
+        -0.295573
+      ],
+      "desc": "Royal Botanical gardens, greenhouses, Kew",
+      "longDesc": "One of the world's finest botanical gardens with 300 acres of plants and glasshouses. A beautiful natural space offering peaceful escape and lovely walking paths.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kew%20Gardens&center=51.4787438,-0.295573",
+      "placeId": "ChIJQzRbYMUNdkgRfvuRYk-Rb9E",
+      "address": "Richmond, UK"
+    },
+    {
+      "name": "Hyde Park",
+      "coord": [
+        51.5073638,
+        -0.1641135
+      ],
+      "desc": "Central London green space, Serpentine lake",
+      "longDesc": "A vast urban oasis with picnic spots, the Serpentine lake, and riding paths. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hyde%20Park&center=51.5073638,-0.1641135",
+      "placeId": "ChIJhRoYKUkFdkgRDL20SU9sr9E",
+      "address": "London, UK"
+    },
+    {
+      "name": "St James's Park",
+      "coord": [
+        51.502967,
+        -0.1339534
+      ],
+      "desc": "Royal park, pelicans, Buckingham Palace views",
+      "longDesc": "An elegant royal park with wild pelicans, peaceful lake, and Buckingham Palace views. A beautiful natural space offering peaceful escape and lovely walking paths.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=St%20James%27s%20Park&center=51.502967,-0.1339534",
+      "placeId": "ChIJG-CxwNoEdkgRXx26gHZwVf8",
+      "address": "London SW1A 2BJ, UK"
+    },
+    {
+      "name": "Regent's Park",
+      "coord": [
+        51.533313,
+        -0.1557646
+      ],
+      "desc": "Rose garden, ZSL Zoo, open-air theatre",
+      "longDesc": "A beautiful Regency-era park with Queen Mary Gardens, ZSL Zoo, and summer theatre. A beautiful natural space offering peaceful escape and lovely walking paths.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Regent%27s%20Park&center=51.533313,-0.1557646",
+      "placeId": "ChIJB76zsMMadkgRvhhquw8-mAg",
+      "address": "London, UK"
+    },
+    {
+      "name": "Botanic Garden (Edinburgh)",
+      "coord": [
+        55.9650125,
+        -3.2091021
+      ],
+      "desc": "72-acre garden, Edinburgh skyline views",
+      "longDesc": "A spectacular 72-acre Scottish garden with diverse collections and Edinburgh skyline views. A beautiful natural space offering peaceful escape and lovely walking paths.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Botanic%20Garden%20%28Edinburgh%29&center=55.9650125,-3.2091021",
+      "placeId": "ChIJ6-YI3sHHh0gRbnTVh3OoBWM",
+      "address": "Edinburgh EH3 5NZ, UK"
+    },
+    {
+      "name": "Lake District",
+      "coord": [
+        54.4678688,
+        -3.0704249
+      ],
+      "desc": "Stunning lakes, mountains, walking trails",
+      "longDesc": "A UNESCO World Heritage landscape with dramatic fells, pristine lakes, and inspiration. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lake%20District&center=54.4678688,-3.0704249",
+      "placeId": "ChIJF3A1IGLBfEgRhnpq6t17tRc",
+      "address": "United Kingdom"
+    },
+    {
+      "name": "Cotswolds",
+      "coord": [
+        51.794968,
+        -1.8838936999999998
+      ],
+      "desc": "Golden stone villages, rolling countryside",
+      "longDesc": "Quintessential English countryside with honey-stone villages and timeless pastoral charm. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cotswolds&center=51.794968,-1.8838936999999998",
+      "placeId": "ChIJFx3_wSQYcUgRsImX1COLDQQ",
+      "address": "Cotswold District, UK"
+    },
+    {
+      "name": "Scottish Highlands",
+      "coord": [
+        57.12,
+        -4.710000000000001
+      ],
+      "desc": "Dramatic mountains, lochs, wild scenery",
+      "longDesc": "An awe-inspiring landscape of rugged mountains, deep lochs, and wild beauty. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Scottish%20Highlands&center=57.12,-4.710000000000001",
+      "placeId": "ChIJkXynszghj0gRhkgKycP2GB4",
+      "address": "Scottish Highlands, Fort Augustus PH32 4BY, UK"
+    },
+    {
+      "name": "Globe Theatre Performances",
+      "coord": [
+        51.508075999999996,
+        -0.09719399999999999
+      ],
+      "desc": "Shakespeare plays, open-air reconstructed theatre",
+      "longDesc": "A faithful Globe reconstruction offering live Shakespeare in an iconic Thames-side setting. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Globe%20Theatre%20Performances&center=51.508075999999996,-0.09719399999999999",
+      "placeId": "ChIJIRauBakEdkgRjoeyuI53AOc",
+      "address": "21 New Globe Walk, London SE1 9DT, UK"
+    },
+    {
+      "name": "West End Theatre",
+      "coord": [
+        51.5110253,
+        -0.1298733
+      ],
+      "desc": "Broadway-style musicals and plays, London's theatre district",
+      "longDesc": "London's vibrant theatre district with world-class musicals in Victorian venues. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=West%20End%20Theatre&center=51.5110253,-0.1298733",
+      "placeId": "ChIJcV1q3-8FdkgRrjHIch_aAI4",
+      "address": "Leicester Square, London WC2H 7NA, UK"
+    },
+    {
+      "name": "Royal Opera House",
+      "coord": [
+        51.5129211,
+        -0.1221976
+      ],
+      "desc": "World-class opera and ballet, Covent Garden",
+      "longDesc": "A prestigious institution featuring world-class opera, ballet, and classical music. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Opera%20House&center=51.5129211,-0.1221976",
+      "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+      "address": "Bow St, London WC2E 9DD, UK"
+    },
+    {
+      "name": "Cartoon Museum",
+      "coord": [
+        51.517592,
+        -0.1385749
+      ],
+      "desc": "British comics, satirical cartoons, Fitzrovia",
+      "longDesc": "A quirky museum celebrating British cartoon history and political satire. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cartoon%20Museum&center=51.517592,-0.1385749",
+      "placeId": "ChIJjTedqjMbdkgRqmCmSy0Hveg",
+      "address": "63 Wells St, London W1A 3AE, UK"
+    },
+    {
+      "name": "Harry Potter Warner Bros Studio Tour",
+      "coord": [
+        51.690336099999996,
+        -0.4181589
+      ],
+      "desc": "Movie sets, costumes, props, Watford",
+      "longDesc": "An immersive journey through Harry Potter films showcasing sets and costumes. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Harry%20Potter%20Warner%20Bros%20Studio%20Tour&center=51.690336099999996,-0.4181589",
+      "placeId": "ChIJC9pWSLVBdkgRMA5Q9eG6egM",
+      "address": "Studio Tour Dr, Leavesden, Watford WD25 7LR, UK"
+    },
+    {
+      "name": "East London Street Art Walk",
+      "coord": [
+        51.513903,
+        -0.0622391
+      ],
+      "desc": "Murals, graffiti, vibrant neighborhoods",
+      "longDesc": "A self-guided exploration of East London's vibrant street art and creative culture. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=East%20London%20Street%20Art%20Walk&center=51.513903,-0.0622391",
+      "placeId": "ChIJKTy8XKUcdkgRfbe1Wyrm6yU",
+      "address": "19 Hessel St, London E1 2LR, UK"
+    },
+    {
+      "name": "Highgate Cemetery Tour",
+      "coord": [
+        51.566918799999996,
+        -0.1467755
+      ],
+      "desc": "Victorian graves, Karl Marx, atmospheric walk",
+      "longDesc": "An atmospheric Victorian cemetery with elaborate monuments and famous Londoners' graves. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Highgate%20Cemetery%20Tour&center=51.566918799999996,-0.1467755",
+      "placeId": "ChIJcVGPC04adkgRz3sYF-jM_pk",
+      "address": "Swain's Ln, London N6 6PJ, UK"
+    },
+    {
+      "name": "Portobello Road Market",
+      "coord": [
+        51.5170002,
+        -0.205847
+      ],
+      "desc": "Antiques, vintage fashion, street food, Notting Hill",
+      "longDesc": "London's most famous market with 1,500 traders selling antiques, vintage clothing, and food. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Portobello%20Road%20Market&center=51.5170002,-0.205847",
+      "placeId": "ChIJG1YB2m4RdkgRsetv9D40NGY",
+      "address": "London W11 1LJ, UK"
+    },
+    {
+      "name": "London Eye River Ride",
+      "coord": [
+        51.5029205,
+        -0.1183738
+      ],
+      "desc": "360-degree views, iconic ferris wheel",
+      "longDesc": "An iconic observation wheel offering 360-degree panoramic views of London's skyline. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=London%20Eye%20River%20Ride&center=51.5029205,-0.1183738",
+      "placeId": "ChIJAcVkt8cEdkgRMppkB6-eoGE",
+      "address": "Riverside Building, County Hall, Westminster Bridge Rd, London SE1 7PB, UK"
+    },
+    {
+      "name": "Wimbledon Lawn Tennis Tour",
+      "coord": [
+        51.434504,
+        -0.213367
+      ],
+      "desc": "Home of tennis, museum, Centre Court viewing",
+      "longDesc": "The spiritual home of lawn tennis with museum, memorabilia, and legendary Centre Court. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wimbledon%20Lawn%20Tennis%20Tour&center=51.434504,-0.213367",
+      "placeId": "ChIJq1UGf8gPdkgR6X6QCL1xzdY",
+      "address": "3 Church Rd, London SW19 5AG, UK"
+    },
+    {
+      "name": "The View from The Shard",
+      "coord": [
+        51.5044028,
+        -0.0865331
+      ],
+      "desc": "Western Europe's tallest building, observation deck",
+      "longDesc": "Western Europe's tallest building with observation deck offering stunning 360-degree London views. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20View%20from%20The%20Shard&center=51.5044028,-0.0865331",
+      "placeId": "ChIJDbhTs1ADdkgR-2MjTkoJXXg",
+      "address": "32 London Bridge St, London SE1 9SG, UK"
+    },
+    {
+      "name": "Greenwich Royal Observatory",
+      "coord": [
+        51.476853,
+        -0.0005002
+      ],
+      "desc": "Prime Meridian, planetarium, astronomy",
+      "longDesc": "The Prime Meridian location with planetarium, galleries, and astronomical exhibitions. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Greenwich%20Royal%20Observatory&center=51.476853,-0.0005002",
+      "placeId": "ChIJp9ypjCqo2EcRAoQcRV-yqzE",
+      "address": "Blackheath Ave, London SE10 8XJ, UK"
+    },
+    {
+      "name": "Hampton Court Palace",
+      "coord": [
+        51.4036128,
+        -0.33776229999999996
+      ],
+      "desc": "Tudor palace, gardens, Thames riverside",
+      "longDesc": "A magnificent Tudor palace with sprawling gardens, fountains, and Thames-side location. A beautiful natural space offering peaceful escape and lovely walking paths.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hampton%20Court%20Palace&center=51.4036128,-0.33776229999999996",
+      "placeId": "ChIJR4IwDg4LdkgRNVpLiUw0UQ4",
+      "address": "Hampton Ct Way, Molesey, East Molesey KT8 9AU, UK"
+    },
+    {
+      "name": "Gin Distillery Tour",
+      "coord": [
+        51.5139152,
+        -0.10502629999999999
+      ],
+      "desc": "Historic gin distilleries, spirits tasting, Shoreditch",
+      "longDesc": "Explore London's gin heritage with distillery tours, botanical tastings, and cocktail education. A fascinating attraction showcasing London's rich cultural heritage and character.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gin%20Distillery%20Tour&center=51.5139152,-0.10502629999999999",
+      "placeId": "ChIJOXi8XK0EdkgRMjMEM_EXcCw",
+      "address": "22-24 Bride Ln, London EC4Y 8DT, UK"
+    },
+    {
+      "name": "London Transport Museum",
+      "coord": [
+        51.5119031,
+        -0.1215852
+      ],
+      "desc": "Historic transit systems, vintage vehicles",
+      "longDesc": "A fascinating museum tracing London's transport evolution with vintage buses and Underground cars. An essential London cultural destination showcasing art and history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=London%20Transport%20Museum&center=51.5119031,-0.1215852",
+      "placeId": "ChIJ4bF21K8FdkgRDXc6FiSVAzE",
+      "address": "London WC2E 7BB, UK"
+    },
+    {
+      "name": "Piccadilly Circus",
+      "coord": [
+        51.5098597,
+        -0.1342809
+      ],
+      "desc": "Iconic London square, neon billboards, West End",
+      "longDesc": "London's most famous square featuring iconic neon billboards, vibrant energy, and proximity to West End theatres and shopping.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Piccadilly%20Circus&center=51.5098597,-0.1342809",
+      "placeId": "ChIJwR8g_9MEdkgR_rI--wzfivA",
+      "address": "Piccadilly Circus, London, UK"
+    },
+    {
+      "name": "Oxford Street",
+      "coord": [
+        51.5152548,
+        -0.1420194
+      ],
+      "desc": "World's busiest shopping street, flagship stores",
+      "longDesc": "The world's busiest shopping street featuring flagship stores of major brands and London's commercial heart.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oxford%20Street&center=51.5152548,-0.1420194",
+      "placeId": "ChIJwTXDVNUadkgRGnzGNLlkIdo",
+      "address": "Oxford St, London, UK"
+    },
+    {
+      "name": "Trafalgar Square",
+      "coord": [
+        51.508039,
+        -0.128069
+      ],
+      "desc": "Historic square, Nelson's Column, National Gallery",
+      "longDesc": "A historic London square featuring Nelson's Column, stunning fountains, and the magnificent National Gallery museum.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Trafalgar%20Square&center=51.508039,-0.128069",
+      "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+      "address": "Trafalgar Sq, London WC2N 5DS, UK"
+    },
+    {
+      "name": "The Shard Observation Deck",
+      "coord": [
+        51.5044028,
+        -0.0865331
+      ],
+      "desc": "Western Europe's tallest, observation deck, panoramic views",
+      "longDesc": "Western Europe's tallest building with an observation deck offering breathtaking 360-degree panoramic views of London.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Shard%20Observation%20Deck&center=51.5044028,-0.0865331",
+      "placeId": "ChIJDbhTs1ADdkgR-2MjTkoJXXg",
+      "address": "32 London Bridge St, London SE1 9SG, UK"
+    },
+    {
+      "name": "Leadenhall Market & Harry Potter",
+      "coord": [
+        51.512766,
+        -0.0835289
+      ],
+      "desc": "Historic market, Harry Potter filming location, atmosphere",
+      "longDesc": "A stunning Victorian-era covered market featured in Harry Potter films with atmospheric architecture and restaurants.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Leadenhall%20Market%20%26%20Harry%20Potter&center=51.512766,-0.0835289",
+      "placeId": "ChIJURt2jFIDdkgRsxERfqYhtSo",
+      "address": "Gracechurch St, London EC3V 1LT, UK"
+    },
+    {
+      "name": "Notting Hill Charm & Portobello",
+      "coord": [
+        51.5185621,
+        -0.20735180000000003
+      ],
+      "desc": "Bohemian neighborhood, Portobello Road, colourful houses",
+      "longDesc": "A bohemian London neighborhood famous for colourful Victorian houses, Portobello Road Market, and creative community.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Notting%20Hill%20Charm%20%26%20Portobello&center=51.5185621,-0.20735180000000003",
+      "placeId": "ChIJxSx2GqgRdkgRzq7sXpfqREg",
+      "address": "Unit 8, 281 Portobello Rd, London W10 5TZ, UK"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "ZSL Zoo",
+      "coord": [
+        51.535287499999995,
+        -0.1534303
+      ],
+      "desc": "Historic zoo, animals, Regent's Park",
+      "longDesc": "London's oldest zoo in beautiful Regent's Park with over 750 animals from around the world.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=ZSL%20Zoo&center=51.535287499999995,-0.1534303",
+      "placeId": "ChIJV_iXMtcadkgRqBI84CY_crE",
+      "address": "Outer Cir, London NW1 4RY, UK"
+    },
+    {
+      "name": "Shrek's Adventure London",
+      "coord": [
+        51.5018817,
+        -0.1193734
+      ],
+      "desc": "DreamWorks adventure, family fun, South Bank",
+      "longDesc": "A family-friendly interactive attraction with DreamWorks games, 4D experiences, and silly humor. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Shrek%27s%20Adventure%20London&center=51.5018817,-0.1193734",
+      "placeId": "ChIJnzLnCMcEdkgRioLEm8rT_aA",
+      "address": "Riverside Building, County Hall, Westminster Bridge Rd, London SE1 7PB, UK"
+    },
+    {
+      "name": "Natural History Museum (Dinosaur Trail)",
+      "coord": [
+        51.496714999999995,
+        -0.17636720000000003
+      ],
+      "desc": "Dinosaur skeleton, blue whale, activity packs",
+      "longDesc": "A beloved dinosaur museum with interactive trails and fossil encounters for young minds. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Natural%20History%20Museum%20%28Dinosaur%20Trail%29&center=51.496714999999995,-0.17636720000000003",
+      "placeId": "ChIJPy8Y5kIFdkgRxGSXw4Xjt3s",
+      "address": "Cromwell Rd, South Kensington, London SW7 5BD, UK"
+    },
+    {
+      "name": "Science Museum",
+      "coord": [
+        51.4972216,
+        -0.1767283
+      ],
+      "desc": "Hands-on experiments, IMAX, space exhibits, free entry",
+      "longDesc": "A cutting-edge museum in South Kensington with interactive exhibits, IMAX, and demonstrations. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Science%20Museum&center=51.4972216,-0.1767283",
+      "placeId": "ChIJP9oAE0MFdkgR3iKGFKZO1SE",
+      "address": "Exhibition Rd, South Kensington, London SW7 2DD, UK"
+    },
+    {
+      "name": "River Boat Ride (Thames Clippers)",
+      "coord": [
+        51.507080099999996,
+        -0.12134009999999999
+      ],
+      "desc": "Scenic boat journey, Tower Bridge, commuter ferries",
+      "longDesc": "A fun boat journey along the Thames with views of Big Ben, Tower Bridge, and landmarks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=River%20Boat%20Ride%20%28Thames%20Clippers%29&center=51.507080099999996,-0.12134009999999999",
+      "placeId": "ChIJDQmNcx4FdkgRV9WC73NHtdc",
+      "address": "Victoria Embankment, London WC2N 6NU, UK"
+    },
+    {
+      "name": "Kidzania London",
+      "coord": [
+        51.557282799999996,
+        -0.056676399999999995
+      ],
+      "desc": "Interactive role-play city, 50+ activities, South Bank",
+      "longDesc": "An indoor city where children age 4-14 role-play as adults in realistic professions. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kidzania%20London&center=51.557282799999996,-0.056676399999999995",
+      "placeId": "ChIJ8UkzcfgcdkgRVtytt1g8PYk",
+      "address": "28 Powell Rd, Lower Clapton, London E5 8DJ, UK"
+    },
+    {
+      "name": "V&A Museum Family Galleries",
+      "coord": [
+        51.5289479,
+        -0.0553289
+      ],
+      "desc": "Family galleries, design workshops, craft activities",
+      "longDesc": "The V&A offers family galleries, craft workshops, and design activities for children. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=V%26A%20Museum%20Family%20Galleries&center=51.5289479,-0.0553289",
+      "placeId": "ChIJyxOhp9scdkgR3ciFcAfeG1c",
+      "address": "Cambridge Heath Rd, Bethnal Green, London E2 9PA, UK"
+    },
+    {
+      "name": "Coram's Fields Playground",
+      "coord": [
+        51.5242906,
+        -0.1204
+      ],
+      "desc": "Historic playground, farm animals, safe haven",
+      "longDesc": "A unique 7-acre urban oasis with farm animals and playgrounds (no unaccompanied adults). A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Coram%27s%20Fields%20Playground&center=51.5242906,-0.1204",
+      "placeId": "ChIJkWaLNbsbdkgRIYm3npHi3kg",
+      "address": "93 Guilford St, London WC1N 1DN, UK"
+    },
+    {
+      "name": "Diana, Princess of Wales Memorial Playground",
+      "coord": [
+        51.508707199999996,
+        -0.1878374
+      ],
+      "desc": "Neverland-themed playground, Hyde Park",
+      "longDesc": "A fantastical Peter Pan-themed playground in Hyde Park with water features and structures. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Diana%2C%20Princess%20of%20Wales%20Memorial%20Playground&center=51.508707199999996,-0.1878374",
+      "placeId": "ChIJ_X4Ce_0PdkgREqwQu2aBoOY",
+      "address": "Kensington Gardens, Broad Walk, London W2 4RU, UK"
+    },
+    {
+      "name": "Battersea Park Playground",
+      "coord": [
+        51.4762118,
+        -0.16126169999999998
+      ],
+      "desc": "Large adventure playground, boating lake",
+      "longDesc": "A south London riverside park with adventure playgrounds and boating lake for families. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Battersea%20Park%20Playground&center=51.4762118,-0.16126169999999998",
+      "placeId": "ChIJnYGBpwsFdkgR01Kj-IBOpZA",
+      "address": "Battersea, London SW11 4PY, UK"
+    },
+    {
+      "name": "Edinburgh Zoo",
+      "coord": [
+        55.945895,
+        -3.2690379
+      ],
+      "desc": "Giant pandas, animals, Scottish Highlands views",
+      "longDesc": "Scotland's premier zoo with giant pandas, diverse animals, and Edinburgh/Firth of Forth views. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Edinburgh%20Zoo&center=55.945895,-3.2690379",
+      "placeId": "ChIJZ6MsSGHGh0gRywLNlqk_udo",
+      "address": "134 Corstorphine Rd, Corstorphine, Edinburgh EH12 6TS, UK"
+    },
+    {
+      "name": "Legoland Discovery Centre",
+      "coord": [
+        51.463833799999996,
+        -0.6500275
+      ],
+      "desc": "LEGO building, rides, interactive play, Camden",
+      "longDesc": "An indoor LEGO wonderland in Camden with rides, building workshops, and creative play. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Legoland%20Discovery%20Centre&center=51.463833799999996,-0.6500275",
+      "placeId": "ChIJP9Po5557dkgRvxe0bN8lF4I",
+      "address": "Winkfield Rd, Windsor SL4 4AY, UK"
+    },
+    {
+      "name": "Chessington World of Adventures",
+      "coord": [
+        51.3485016,
+        -0.3190086
+      ],
+      "desc": "Theme park, zoo, family rides, Surrey",
+      "longDesc": "A south London theme park combining adventure rides, zoo animals, and family attractions. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chessington%20World%20of%20Adventures&center=51.3485016,-0.3190086",
+      "placeId": "ChIJCd8Ls3kKdkgRcVCOjGHysNQ",
+      "address": "Chessington KT9 2NE, UK"
+    },
+    {
+      "name": "Alton Towers Theme Park",
+      "coord": [
+        52.9859259,
+        -1.8850168
+      ],
+      "desc": "Roller coasters, family rides, Staffordshire",
+      "longDesc": "A major UK theme park with world-class coasters, family rides, and thrilling attractions. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alton%20Towers%20Theme%20Park&center=52.9859259,-1.8850168",
+      "placeId": "ChIJlbIENWEWekgRvIvaFccPCb4",
+      "address": "Farley Ln, Alton, Stoke-on-Trent ST10 4DB, UK"
+    },
+    {
+      "name": "Brighton Pier Attractions",
+      "coord": [
+        50.816855499999996,
+        -0.136738
+      ],
+      "desc": "Victorian pier, arcade, seagull watching",
+      "longDesc": "A nostalgic Victorian pier with arcade games, rides, and seaside charm for families. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brighton%20Pier%20Attractions&center=50.816855499999996,-0.136738",
+      "placeId": "ChIJfzEj9wqFdUgR1eJ2FdizVlI",
+      "address": "Madeira Dr, Brighton BN2 1TW, UK"
+    },
+    {
+      "name": "Globe Theatre Family Tour",
+      "coord": [
+        51.508075999999996,
+        -0.09719399999999999
+      ],
+      "desc": "Shakespeare's Globe, interactive tour, kid-friendly",
+      "longDesc": "Family-friendly Globe tours offering kid-appropriate performances and historical education. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Globe%20Theatre%20Family%20Tour&center=51.508075999999996,-0.09719399999999999",
+      "placeId": "ChIJIRauBakEdkgRjoeyuI53AOc",
+      "address": "21 New Globe Walk, London SE1 9DT, UK"
+    },
+    {
+      "name": "British Museum Family Trail",
+      "coord": [
+        51.5194133,
+        -0.1269566
+      ],
+      "desc": "Interactive family trail, mummy unwrapping",
+      "longDesc": "The British Museum offers special family trails with interactive activities and treasures. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=British%20Museum%20Family%20Trail&center=51.5194133,-0.1269566",
+      "placeId": "ChIJB9OTMDIbdkgRp0JWbQGZsS8",
+      "address": "Great Russell St, London WC1B 3DG, UK"
+    },
+    {
+      "name": "Young V&A",
+      "coord": [
+        51.5289479,
+        -0.0553289
+      ],
+      "desc": "Children's design galleries, interactive exhibits",
+      "longDesc": "The V&A's dedicated children's museum with interactive design galleries and activities. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Young%20V%26A&center=51.5289479,-0.0553289",
+      "placeId": "ChIJyxOhp9scdkgR3ciFcAfeG1c",
+      "address": "Cambridge Heath Rd, Bethnal Green, London E2 9PA, UK"
+    },
+    {
+      "name": "Horniman Museum & Gardens",
+      "coord": [
+        51.4419283,
+        -0.0619967
+      ],
+      "desc": "Natural history, musical instruments, free entry",
+      "longDesc": "A South London gem with natural history, musical instruments, and beautiful gardens. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Horniman%20Museum%20%26%20Gardens&center=51.4419283,-0.0619967",
+      "placeId": "ChIJSzwgydoDdkgRndnXVYQGXBI",
+      "address": "100 London Rd, London SE23 3PQ, UK"
+    },
+    {
+      "name": "SEA LIFE London Aquarium",
+      "coord": [
+        51.501557999999996,
+        -0.119506
+      ],
+      "desc": "Underwater tunnel, ray touch pool, South Bank",
+      "longDesc": "An interactive aquarium on the South Bank with underwater tunnel and touch pools for children.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=SEA%20LIFE%20London%20Aquarium&center=51.501557999999996,-0.119506",
+      "placeId": "ChIJc2nSALkEdkgRviluWxwFsxA",
+      "address": "Riverside Building, County Hall, Westminster Bridge Rd, London SE1 7PB, UK"
+    },
+    {
+      "name": "Kew Gardens (Family Activities)",
+      "coord": [
+        51.4818856,
+        -0.2955212
+      ],
+      "desc": "Botanical gardens, family trails, Kew",
+      "longDesc": "One of the world's finest gardens with family trails, picnic areas, and botanical exploration. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kew%20Gardens%20%28Family%20Activities%29&center=51.4818856,-0.2955212",
+      "placeId": "ChIJr4EKovANdkgRZRvF5OENkv0",
+      "address": "Royal Botanic Gardens, Kew, Richmond TW9 3AE, UK"
+    },
+    {
+      "name": "Go Ape Treetop Parks",
+      "coord": [
+        51.5399903,
+        -0.5497917999999999
+      ],
+      "desc": "Ziplines, rope courses, outdoor adventure",
+      "longDesc": "Multiple UK locations with treetop adventure courses, ziplines, and outdoor thrills. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Go%20Ape%20Treetop%20Parks&center=51.5399903,-0.5497917999999999",
+      "placeId": "ChIJ____v6JvdkgRsDlE8A2lpzk",
+      "address": "Go Ape, Black Park Country Park, Black Park Rd, Slough SL3 6DS, UK"
+    },
+    {
+      "name": "Hampton Court Palace (Maze)",
+      "coord": [
+        51.406101199999995,
+        -0.3376656
+      ],
+      "desc": "Historic maze, palace tours, family activities",
+      "longDesc": "A Tudor palace with famous maze, palace tours, and family-friendly activities. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hampton%20Court%20Palace%20%28Maze%29&center=51.406101199999995,-0.3376656",
+      "placeId": "ChIJj-6oPQcLdkgRmFMQK4cRYVM",
+      "address": "Hampton Court Palace Gardens, Molesey, East Molesey KT8 9AU, UK"
+    },
+    {
+      "name": "Hampstead Heath",
+      "coord": [
+        51.560829399999996,
+        -0.1629416
+      ],
+      "desc": "Wide-open space, playgrounds, swimming ponds",
+      "longDesc": "A vast north London heath with playgrounds, swimming ponds, and open spaces for families. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hampstead%20Heath&center=51.560829399999996,-0.1629416",
+      "placeId": "ChIJIzJDyggadkgROFAV19Ti070",
+      "address": "London, UK"
+    },
+    {
+      "name": "Design Museum – Mudlarks",
+      "coord": [
+        51.507559799999996,
+        -0.0238525
+      ],
+      "desc": "Children's design workshops, creative activities",
+      "longDesc": "The Design Museum's children's program with workshops, creative activities, and design education. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Design%20Museum%20%E2%80%93%20Mudlarks&center=51.507559799999996,-0.0238525",
+      "placeId": "ChIJVTZUsMcCdkgRMc_-OpJq9v8",
+      "address": "No 1, West India Quay, Hertsmere Rd, London E14 4AL, UK"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Borough Market",
+      "coord": [
+        51.505582600000004,
+        -0.09048080000000001
+      ],
+      "desc": "Premier food market, fresh produce, gourmet foods",
+      "longDesc": "London's legendary covered food market with 130+ vendors, fresh produce, and artisan cheeses. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Borough%20Market&center=51.505582600000004,-0.09048080000000001",
+      "placeId": "ChIJD2bPdVcDdkgRuUSgnOXnKDE",
+      "address": "London SE1 9AL, UK"
+    },
+    {
+      "name": "Portobello Road Market",
+      "coord": [
+        51.5170002,
+        -0.205847
+      ],
+      "desc": "Antiques, vintage fashion, street food, Notting Hill",
+      "longDesc": "London's most famous antique market with 1,500 traders selling antiques, vintage, and food. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Portobello%20Road%20Market&center=51.5170002,-0.205847",
+      "placeId": "ChIJG1YB2m4RdkgRsetv9D40NGY",
+      "address": "London W11 1LJ, UK"
+    },
+    {
+      "name": "Camden Market",
+      "coord": [
+        51.5414026,
+        -0.14650839999999998
+      ],
+      "desc": "Alternative market, handmade goods, global food",
+      "longDesc": "London's alternative market with vintage clothing, handmade crafts, and international food. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Camden%20Market&center=51.5414026,-0.14650839999999998",
+      "placeId": "ChIJSfFEEuQadkgRCO-FF_-eZUc",
+      "address": "54-56 Camden Lock Pl, London NW1 8AF, UK"
+    },
+    {
+      "name": "Leadenhall Market",
+      "coord": [
+        51.512766,
+        -0.0835289
+      ],
+      "desc": "Historic covered market, restaurants, atmosphere",
+      "longDesc": "A stunning Victorian-era covered market with restaurants and atmospheric architecture since 125 AD. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Leadenhall%20Market&center=51.512766,-0.0835289",
+      "placeId": "ChIJURt2jFIDdkgRsxERfqYhtSo",
+      "address": "Gracechurch St, London EC3V 1LT, UK"
+    },
+    {
+      "name": "Old Spitalfields Market",
+      "coord": [
+        51.5196569,
+        -0.0755469
+      ],
+      "desc": "Vintage, crafts, organic food, Spitalfields",
+      "longDesc": "A historic market in trendy Spitalfields with vintage fashion, artisan crafts, and organic produce. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Old%20Spitalfields%20Market&center=51.5196569,-0.0755469",
+      "placeId": "ChIJh6-3GrQcdkgRvNQCJqs-8qI",
+      "address": "16 Horner Square, London E1 6EW, UK"
+    },
+    {
+      "name": "Greenwich Market",
+      "coord": [
+        51.481577099999996,
+        -0.009037
+      ],
+      "desc": "Craft market, food stalls, riverside location",
+      "longDesc": "A covered market in Greenwich with crafts, vintage goods, and food stalls near the Thames.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Greenwich%20Market&center=51.481577099999996,-0.009037",
+      "placeId": "ChIJUeZvHYUCdkgRekRqtN5kdVA",
+      "address": "5B Greenwich Market, London SE10 9HZ, UK"
+    },
+    {
+      "name": "Brixton Market",
+      "coord": [
+        51.462493099999996,
+        -0.11181350000000001
+      ],
+      "desc": "Caribbean food, vegetables, vibrant community",
+      "longDesc": "A colorful South London market celebrating Caribbean and multicultural food culture. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brixton%20Market&center=51.462493099999996,-0.11181350000000001",
+      "placeId": "ChIJF8HHA2YEdkgRVb0f71B1D8s",
+      "address": "Brixton Village, Coldharbour Ln, London SW9 8PS, UK"
+    },
+    {
+      "name": "Maltby Street Market",
+      "coord": [
+        51.499457899999996,
+        -0.0759299
+      ],
+      "desc": "Street food, vintage goods, beer vendors",
+      "longDesc": "A weekend Shoreditch street market with food vendors, craft beer, and vintage stalls. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Maltby%20Street%20Market&center=51.499457899999996,-0.0759299",
+      "placeId": "ChIJZ9jUVEEDdkgRN7k3RDL_908",
+      "address": "Arch 46, Ropewalk, Maltby St, London SE1 3PA, UK"
+    },
+    {
+      "name": "Sunday Upmarket",
+      "coord": [
+        51.520494299999996,
+        -0.0719551
+      ],
+      "desc": "Designer fashion, vintage, handmade goods",
+      "longDesc": "A Sunday-only Spitalfields market with independent fashion designers and handmade jewelry. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunday%20Upmarket&center=51.520494299999996,-0.0719551",
+      "placeId": "ChIJUeGR5skcdkgRUHHEKhiaXZE",
+      "address": "83 Brick Ln, London E1 6QR, UK"
+    },
+    {
+      "name": "Petticoat Lane",
+      "coord": [
+        51.5168918,
+        -0.07337840000000001
+      ],
+      "desc": "Fashion, textiles, street vendors, East London",
+      "longDesc": "A historic East London market famous for fashion and textiles with friendly vendors. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Petticoat%20Lane&center=51.5168918,-0.07337840000000001",
+      "placeId": "ChIJUe_EX7McdkgRtk96QW0KTlc",
+      "address": "119-121 Middlesex St, London E1 7JF, UK"
+    },
+    {
+      "name": "Smithfield Market",
+      "coord": [
+        51.519402799999995,
+        -0.1014037
+      ],
+      "desc": "Historic meat market, restaurants, flowers",
+      "longDesc": "London's historic wholesale meat market with surrounding restaurants and Victorian architecture. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Smithfield%20Market&center=51.519402799999995,-0.1014037",
+      "placeId": "ChIJP-efSFIbdkgRHa0DkmQD50Q",
+      "address": "Grand Ave., London EC1A 9PS, UK"
+    },
+    {
+      "name": "Chapel Market",
+      "coord": [
+        51.5336413,
+        -0.1069058
+      ],
+      "desc": "Food and drinks, casual atmosphere, Islington",
+      "longDesc": "A charming north London market in Islington with food vendors and relaxed community. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chapel%20Market&center=51.5336413,-0.1069058",
+      "placeId": "ChIJcfACe-4bdkgRyKcsmC7MLVI",
+      "address": "Chapel Market, London N1 9EN, UK"
+    },
+    {
+      "name": "Brick Lane Beigel Bake",
+      "coord": [
+        51.5244985,
+        -0.0717608
+      ],
+      "desc": "Historic Jewish bakery, bagels, Brick Lane",
+      "longDesc": "A 24-hour Brick Lane institution serving warm bagels since 1977 with East End heritage. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brick%20Lane%20Beigel%20Bake&center=51.5244985,-0.0717608",
+      "placeId": "ChIJjUgahq0ddkgRDLV2zZrg4ck",
+      "address": "159 Brick Ln, London E1 6SB, UK"
+    },
+    {
+      "name": "Billingsgate Fish Market",
+      "coord": [
+        51.506235,
+        -0.0128097
+      ],
+      "desc": "Wholesale fish market, Friday morning tours",
+      "longDesc": "London's historic fish market on the Thames showcasing the nation's best seafood. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Billingsgate%20Fish%20Market&center=51.506235,-0.0128097",
+      "placeId": "ChIJK_ex97ACdkgRGJLJV_JwpCE",
+      "address": "Trafalgar Wy., London E14 5ST, UK"
+    },
+    {
+      "name": "New Covent Garden Market",
+      "coord": [
+        51.4801414,
+        -0.1389138
+      ],
+      "desc": "Wholesale produce, flowers, fruit, vegetable wholesale",
+      "longDesc": "London's main produce market with fresh vegetables, fruit, and flowers in working environment. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Covent%20Garden%20Market&center=51.4801414,-0.1389138",
+      "placeId": "ChIJH6HA3vsEdkgR4cM6K6uyQOw",
+      "address": "Nine Elms Ln, Nine Elms, London SW8 5BH, UK"
+    },
+    {
+      "name": "Pimlico Road Antiques Market",
+      "coord": [
+        51.4903499,
+        -0.1534414
+      ],
+      "desc": "High-end antiques, art, collectors items",
+      "longDesc": "An upmarket Chelsea/Pimlico antique market with furniture, art, and collectibles. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pimlico%20Road%20Antiques%20Market&center=51.4903499,-0.1534414",
+      "placeId": "ChIJGwPB1RkFdkgR3ZCy31cxFRw",
+      "address": "69 Pimlico Rd, London SW1W 8NE, UK"
+    },
+    {
+      "name": "Farringdon Vintage Market",
+      "coord": [
+        51.5195687,
+        -0.1073277
+      ],
+      "desc": "Vintage clothing, record shops, weekend market",
+      "longDesc": "A popular Farringdon weekend market for vintage fashion and vinyl records. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Farringdon%20Vintage%20Market&center=51.5195687,-0.1073277",
+      "placeId": "ChIJdSfUwk0bdkgRc_CDjRwegaY",
+      "address": "32b Greville St, London EC1N 8TB, UK"
+    },
+    {
+      "name": "Columbia Road Flower Market",
+      "coord": [
+        51.529134,
+        -0.06982569999999999
+      ],
+      "desc": "Fresh flowers, plants, plants, East London",
+      "longDesc": "A vibrant East London Sunday flower market with fresh blooms and plant vendors. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Columbia%20Road%20Flower%20Market&center=51.529134,-0.06982569999999999",
+      "placeId": "ChIJUe_EX7McdkgRUyuFGZPputs",
+      "address": "Columbia Rd, London E2 7RG, UK"
+    },
+    {
+      "name": "Fortnum & Mason Food Hall",
+      "coord": [
+        51.5083687,
+        -0.13831
+      ],
+      "desc": "Luxury groceries, teas, gourmet foods, Piccadilly",
+      "longDesc": "A legendary Piccadilly food hall with luxury groceries, fine teas, and gourmet delicacies. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fortnum%20%26%20Mason%20Food%20Hall&center=51.5083687,-0.13831",
+      "placeId": "ChIJ__8_XtYEdkgRtTLtWfASNFg",
+      "address": "181 Piccadilly, London W1A 1ER, UK"
+    },
+    {
+      "name": "Harrods Food Halls",
+      "coord": [
+        51.499091299999996,
+        -0.1628889
+      ],
+      "desc": "High-end groceries, international foods, Knightsbridge",
+      "longDesc": "A luxury Knightsbridge food hall with international cuisines and premium groceries. A family favorite offering engagement, discovery, and memorable experiences.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Harrods%20Food%20Halls&center=51.499091299999996,-0.1628889",
+      "placeId": "ChIJaZ3batMFdkgREM_5SzO6ZE4",
+      "address": "Food Halls, GROUND FLOOR, Harrods, 87-135 Brompton Rd, London SW1X 7XL, UK"
+    }
+  ],
+  "cityCenters": {
+    "London (Central)": [
+      51.507,
+      -0.128,
+      0.03
+    ],
+    "London (Mayfair)": [
+      51.506,
+      -0.147,
+      0.015
+    ],
+    "London (Soho)": [
+      51.515,
+      -0.131,
+      0.012
+    ],
+    "London (Covent Garden)": [
+      51.513,
+      -0.123,
+      0.012
+    ],
+    "London (Knightsbridge)": [
+      51.501,
+      -0.165,
+      0.01
+    ],
+    "London (South Kensington)": [
+      51.495,
+      -0.173,
+      0.01
+    ],
+    "London (Chelsea)": [
+      51.485,
+      -0.186,
+      0.01
+    ],
+    "London (Belgravia)": [
+      51.501,
+      -0.152,
+      0.012
+    ],
+    "London (Fitzrovia)": [
+      51.516,
+      -0.135,
+      0.01
+    ],
+    "London (Bloomsbury)": [
+      51.523,
+      -0.127,
+      0.012
+    ],
+    "London (Shoreditch)": [
+      51.524,
+      -0.085,
+      0.012
+    ],
+    "London (Borough/Bridge)": [
+      51.499,
+      -0.086,
+      0.012
+    ],
+    "London (Spitalfields)": [
+      51.518,
+      -0.077,
+      0.01
+    ],
+    "London (King's Cross)": [
+      51.531,
+      -0.122,
+      0.01
+    ],
+    "Bath": [
+      51.381,
+      -2.361,
+      0.015
+    ],
+    "Cotswolds": [
+      51.828,
+      -1.738,
+      0.04
+    ],
+    "Oxford": [
+      51.752,
+      -1.258,
+      0.02
+    ],
+    "Cambridge": [
+      52.205,
+      0.117,
+      0.02
+    ],
+    "Windsor": [
+      51.477,
+      -0.608,
+      0.015
+    ],
+    "Lake District": [
+      54.472,
+      -3.071,
+      0.08
+    ],
+    "Edinburgh": [
+      55.953,
+      -3.188,
+      0.03
+    ],
+    "Glasgow": [
+      55.863,
+      -4.259,
+      0.02
+    ],
+    "York": [
+      53.96,
+      -1.081,
+      0.02
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "name": "Greatest Hits (7 days)",
+      "color": "#2563EB",
+      "days": [
+        {
+          "day": 1,
+          "title": "London Arrival & Mayfair",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Claridge's",
+              "coord": [
+                51.5124212,
+                -0.1478613
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Breakfast at Claridge's",
+              "coord": [
+                51.512524,
+                -0.147518
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Buckingham Palace",
+              "coord": [
+                51.501363999999995,
+                -0.14189
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "The Ritz Afternoon Tea",
+              "coord": [
+                51.507142400000006,
+                -0.14168899999999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Westminster Abbey",
+              "coord": [
+                51.4993695,
+                -0.1272993
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Alain Ducasse at The Dorchester",
+              "coord": [
+                51.507411999999995,
+                -0.1523328
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Museums & Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.512524,
+                -0.147518
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "British Museum",
+              "coord": [
+                51.5194133,
+                -0.1269566
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Rules Restaurant",
+              "coord": [
+                51.510833,
+                -0.12316940000000001
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "National Gallery",
+              "coord": [
+                51.508928999999995,
+                -0.128299
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "J Sheekey",
+              "coord": [
+                51.5108994,
+                -0.12780819999999998
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "East London & Landmarks",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Granger & Co",
+              "coord": [
+                51.532745600000005,
+                -0.1254561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tower of London",
+              "coord": [
+                51.508112399999995,
+                -0.0759493
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tower Bridge",
+              "coord": [
+                51.5054564,
+                -0.07535649999999999
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Borough Market",
+              "coord": [
+                51.505582600000004,
+                -0.09048080000000001
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tate Modern",
+              "coord": [
+                51.507595300000006,
+                -0.0993564
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Lilia",
+              "coord": [
+                51.53106,
+                -0.073652
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Bath Day Trip",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.512524,
+                -0.147518
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Roman Baths (Bath)",
+              "coord": [
+                51.381071999999996,
+                -2.359619
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Bath restaurant",
+              "coord": [
+                51.381,
+                -2.361
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bath Abbey",
+              "coord": [
+                51.381,
+                -2.361
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Return to London",
+              "coord": [
+                51.512524,
+                -0.147518
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Simpson's-in-the-Strand",
+              "coord": [
+                51.510613799999994,
+                -0.12054959999999999
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "South Kensington Museums",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.512524,
+                -0.147518
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "V&A Museum",
+              "coord": [
+                51.4966392,
+                -0.17218
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "South Ken café",
+              "coord": [
+                51.496,
+                -0.173
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Natural History Museum",
+              "coord": [
+                51.496714999999995,
+                -0.17636720000000003
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hyde Park",
+              "coord": [
+                51.5073638,
+                -0.1641135
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Dinner by Heston Blumenthal",
+              "coord": [
+                51.502161,
+                -0.159964
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "West End & Theatre",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.512524,
+                -0.147518
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Covent Garden",
+              "coord": [
+                51.513,
+                -0.123
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Ivy Restaurant",
+              "coord": [
+                51.5128449,
+                -0.1280908
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Shopping",
+              "coord": [
+                51.514,
+                -0.121
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Dinner before show",
+              "coord": [
+                51.514,
+                -0.13
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "West End Theatre",
+              "coord": [
+                51.5110253,
+                -0.1298733
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Final breakfast",
+              "coord": [
+                51.512524,
+                -0.147518
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Last-minute shopping",
+              "coord": [
+                51.512,
+                -0.138
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Fortnum & Mason",
+              "coord": [
+                51.507,
+                -0.139
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Departure",
+              "coord": [
+                51.512524,
+                -0.147518
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "name": "Hidden Gems & Countryside (7 days)",
+      "color": "#059669",
+      "days": [
+        {
+          "day": 1,
+          "title": "Cotswolds Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Soho Farmhouse",
+              "coord": [
+                51.940313599999996,
+                -1.42139
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local café",
+              "coord": [
+                51.815,
+                -1.712
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cotswolds villages",
+              "coord": [
+                51.828,
+                -1.738
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Soho Farmhouse restaurant",
+              "coord": [
+                51.815,
+                -1.712
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Cotswolds Exploration",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.815,
+                -1.712
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bourton-on-the-Water",
+              "coord": [
+                51.809,
+                -1.81
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Village pub",
+              "coord": [
+                51.809,
+                -1.81
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Stow-on-the-Wold",
+              "coord": [
+                51.824,
+                -1.738
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Gastropub dinner",
+              "coord": [
+                51.815,
+                -1.712
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Bath & Roman Baths",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.815,
+                -1.712
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Hayfield Manor",
+              "coord": [
+                51.891013199999996,
+                -8.489652099999999
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Bath restaurant",
+              "coord": [
+                51.381,
+                -2.361
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Roman Baths",
+              "coord": [
+                51.381,
+                -2.361
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hayfield Manor dining",
+              "coord": [
+                51.393,
+                -2.364
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Somerset & Stonehenge",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.393,
+                -2.364
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Stonehenge",
+              "coord": [
+                51.178881999999994,
+                -1.8262150000000001
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local café",
+              "coord": [
+                51.205,
+                -2.665
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "The Newt in Somerset",
+              "coord": [
+                51.081200700000004,
+                -2.490817
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Farm-to-table dining",
+              "coord": [
+                51.205,
+                -2.665
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Back to London (Shoreditch)",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.205,
+                -2.665
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "The Standard London",
+              "coord": [
+                51.5295373,
+                -0.1243078
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Brick Lane",
+              "coord": [
+                51.518,
+                -0.075
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Brick Lane food",
+              "coord": [
+                51.518,
+                -0.075
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Old Spitalfields Market",
+              "coord": [
+                51.5196569,
+                -0.0755469
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Brat",
+              "coord": [
+                51.5242042,
+                -0.0767031
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "East London Culture",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Granger & Co",
+              "coord": [
+                51.532745600000005,
+                -0.1254561
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Camden Market",
+              "coord": [
+                51.5414026,
+                -0.14650839999999998
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Camden food",
+              "coord": [
+                51.539,
+                -0.142
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Portobello Road",
+              "coord": [
+                51.51,
+                -0.201
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Lyle's",
+              "coord": [
+                51.5237542,
+                -0.0764767
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Gardens & Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.5225,
+                -0.085435
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kew Gardens",
+              "coord": [
+                51.4787438,
+                -0.295573
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Kew café",
+              "coord": [
+                51.471,
+                -0.29
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Departure",
+              "coord": [
+                51.5225,
+                -0.085435
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Family Comfort (10 days)",
+      "color": "#D97706",
+      "days": [
+        {
+          "day": 1,
+          "title": "London Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "The Landmark London",
+              "coord": [
+                51.5214599,
+                -0.1626027
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hotel lunch",
+              "coord": [
+                51.52178,
+                -0.162824
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Regent's Park",
+              "coord": [
+                51.533313,
+                -0.1557646
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                51.52178,
+                -0.162824
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Family dinner",
+              "coord": [
+                51.52178,
+                -0.162824
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Museum Day",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.52178,
+                -0.162824
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Natural History Museum",
+              "coord": [
+                51.496714999999995,
+                -0.17636720000000003
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "South Ken café",
+              "coord": [
+                51.496,
+                -0.173
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "V&A Museum",
+              "coord": [
+                51.4966392,
+                -0.17218
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                51.52178,
+                -0.162824
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Dishoom",
+              "coord": [
+                51.512517599999995,
+                -0.1268291
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Zoo & Parks",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.52178,
+                -0.162824
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "ZSL Zoo",
+              "coord": [
+                51.535287499999995,
+                -0.1534303
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Zoo café",
+              "coord": [
+                51.535,
+                -0.154
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Regent's Park walk",
+              "coord": [
+                51.524,
+                -0.148
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                51.52178,
+                -0.162824
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Light dinner",
+              "coord": [
+                51.52178,
+                -0.162824
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Tower & Thames",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.52178,
+                -0.162824
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tower of London",
+              "coord": [
+                51.508112399999995,
+                -0.0759493
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Near Tower",
+              "coord": [
+                51.506,
+                -0.076
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tower Bridge",
+              "coord": [
+                51.5054564,
+                -0.07535649999999999
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "River boat ride",
+              "coord": [
+                51.51,
+                -0.12
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                51.52178,
+                -0.162824
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Casual dinner",
+              "coord": [
+                51.509,
+                -0.095
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Windsor Day Trip",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.52178,
+                -0.162824
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Cliveden House",
+              "coord": [
+                51.5581265,
+                -0.688283
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Windsor Castle",
+              "coord": [
+                51.483894,
+                -0.6044027
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Windsor café",
+              "coord": [
+                51.483,
+                -0.609
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Riverside walk",
+              "coord": [
+                51.483,
+                -0.609
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                51.551869,
+                -0.684169
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Cliveden dining",
+              "coord": [
+                51.551869,
+                -0.684169
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Country Relaxation",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Country breakfast",
+              "coord": [
+                51.551869,
+                -0.684169
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Estate walks",
+              "coord": [
+                51.551869,
+                -0.684169
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Picnic",
+              "coord": [
+                51.551869,
+                -0.684169
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Spa/rest",
+              "coord": [
+                51.551869,
+                -0.684169
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Peaceful time",
+              "coord": [
+                51.551869,
+                -0.684169
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Country dining",
+              "coord": [
+                51.551869,
+                -0.684169
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Bath Arrival",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Country breakfast",
+              "coord": [
+                51.551869,
+                -0.684169
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Lucknam Park",
+              "coord": [
+                51.45505,
+                -2.25939
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local café",
+              "coord": [
+                51.381,
+                -2.361
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Roman Baths",
+              "coord": [
+                51.381,
+                -2.361
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                51.4547,
+                -2.2578
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Lucknam Park restaurant",
+              "coord": [
+                51.4547,
+                -2.2578
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Cotswolds Villages",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.4547,
+                -2.2578
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cotswolds villages",
+              "coord": [
+                51.828,
+                -1.738
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Village pub",
+              "coord": [
+                51.809,
+                -1.81
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Village exploration",
+              "coord": [
+                51.828,
+                -1.738
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                51.4547,
+                -2.2578
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Country dinner",
+              "coord": [
+                51.4547,
+                -2.2578
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Back to London",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.4547,
+                -2.2578
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "The Berkeley",
+              "coord": [
+                51.5018465,
+                -0.1560608
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "South Ken restaurant",
+              "coord": [
+                51.501255,
+                -0.164212
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Lazy museum",
+              "coord": [
+                51.496,
+                -0.173
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Rest time",
+              "coord": [
+                51.501255,
+                -0.164212
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Family dinner",
+              "coord": [
+                51.501255,
+                -0.164212
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.501255,
+                -0.164212
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Last shopping",
+              "coord": [
+                51.507,
+                -0.165
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Favorite café",
+              "coord": [
+                51.501255,
+                -0.164212
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Final rest",
+              "coord": [
+                51.501255,
+                -0.164212
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Departure",
+              "coord": [
+                51.501255,
+                -0.164212
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "d": {
+      "name": "Foodie Deep-Dive (10 days)",
+      "color": "#DC2626",
+      "days": [
+        {
+          "day": 1,
+          "title": "London Arrival & Michelin",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Corinthia London",
+              "coord": [
+                51.5064603,
+                -0.1243126
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Light lunch",
+              "coord": [
+                51.506537,
+                -0.124384
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Borough Market",
+              "coord": [
+                51.505582600000004,
+                -0.09048080000000001
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Alain Ducasse",
+              "coord": [
+                51.505173,
+                -0.150269
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "3-Michelin Day",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.506537,
+                -0.124384
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "CORE by Clare Smyth",
+              "coord": [
+                51.5127727,
+                -0.2031335
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Notting Hill",
+              "coord": [
+                51.51,
+                -0.201
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Restaurant Gordon Ramsay",
+              "coord": [
+                51.4855169,
+                -0.16203489999999998
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "2-Michelin & Casual",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Granger & Co",
+              "coord": [
+                51.532745600000005,
+                -0.1254561
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Dinner by Heston",
+              "coord": [
+                51.501362,
+                -0.162844
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Food markets",
+              "coord": [
+                51.505,
+                -0.09
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Salt Baked",
+              "coord": [
+                51.5237461,
+                -0.0729121
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Indian & Asian",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.506537,
+                -0.124384
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Dishoom",
+              "coord": [
+                51.512517599999995,
+                -0.1268291
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "East London markets",
+              "coord": [
+                51.518,
+                -0.077
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Gymkhana",
+              "coord": [
+                51.508491199999995,
+                -0.1414724
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Markets & Street Food",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Market café",
+              "coord": [
+                51.505,
+                -0.09
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Borough Market feast",
+              "coord": [
+                51.505,
+                -0.09
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Portobello Road",
+              "coord": [
+                51.51,
+                -0.201
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Barrafina",
+              "coord": [
+                51.514109999999995,
+                -0.13266709999999998
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Thames Gastropub Trip",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.506537,
+                -0.124384
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "The Hand & Flowers",
+              "coord": [
+                51.5697937,
+                -0.7833315
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local café",
+              "coord": [
+                51.478,
+                -0.658
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Marlow riverside",
+              "coord": [
+                51.478,
+                -0.658
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "The Hand & Flowers (2 Michelin)",
+              "coord": [
+                51.478,
+                -0.658
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Countryside Dining",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Gastro breakfast",
+              "coord": [
+                51.478,
+                -0.658
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Whatley Manor",
+              "coord": [
+                51.5837462,
+                -2.1497284999999997
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Cotswolds café",
+              "coord": [
+                51.828,
+                -1.738
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cotswolds villages",
+              "coord": [
+                51.828,
+                -1.738
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Whatley Manor (Michelin)",
+              "coord": [
+                51.804,
+                -2.13
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Bath & Spa Cuisine",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.804,
+                -2.13
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Hayfield Manor",
+              "coord": [
+                51.891013199999996,
+                -8.489652099999999
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Bath restaurant",
+              "coord": [
+                51.381,
+                -2.361
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Roman Baths",
+              "coord": [
+                51.381,
+                -2.361
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hayfield Manor fine dining",
+              "coord": [
+                51.393,
+                -2.364
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Back & Shoreditch Gems",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.393,
+                -2.364
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "The Standard London",
+              "coord": [
+                51.5295373,
+                -0.1243078
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Brick Lane food",
+              "coord": [
+                51.518,
+                -0.075
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Shoreditch food scene",
+              "coord": [
+                51.524,
+                -0.085
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Brat (Michelin)",
+              "coord": [
+                51.524,
+                -0.085
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Final Feasts",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Granger & Co",
+              "coord": [
+                51.532745600000005,
+                -0.1254561
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Fortnum & Mason",
+              "coord": [
+                51.507,
+                -0.139
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Food market",
+              "coord": [
+                51.505,
+                -0.09
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Departure",
+              "coord": [
+                51.5225,
+                -0.085435
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "e": {
+      "name": "Grand Tour (14 days)",
+      "color": "#7C3AED",
+      "days": [
+        {
+          "day": 1,
+          "title": "London Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Claridge's",
+              "coord": [
+                51.5124212,
+                -0.1478613
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Light lunch",
+              "coord": [
+                51.512524,
+                -0.147518
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Buckingham Palace",
+              "coord": [
+                51.501363999999995,
+                -0.14189
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Alain Ducasse",
+              "coord": [
+                51.505173,
+                -0.150269
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "London Museums",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.512524,
+                -0.147518
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "British Museum",
+              "coord": [
+                51.5194133,
+                -0.1269566
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Rules Restaurant",
+              "coord": [
+                51.510833,
+                -0.12316940000000001
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "National Gallery",
+              "coord": [
+                51.508928999999995,
+                -0.128299
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "J Sheekey",
+              "coord": [
+                51.5108994,
+                -0.12780819999999998
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "London Landmarks",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.512524,
+                -0.147518
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tower of London",
+              "coord": [
+                51.508112399999995,
+                -0.0759493
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tower Bridge",
+              "coord": [
+                51.5054564,
+                -0.07535649999999999
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Borough Market",
+              "coord": [
+                51.505582600000004,
+                -0.09048080000000001
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Tate Modern",
+              "coord": [
+                51.507595300000006,
+                -0.0993564
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Simpson's-in-the-Strand",
+              "coord": [
+                51.510613799999994,
+                -0.12054959999999999
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "South Kensington",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.512524,
+                -0.147518
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "V&A Museum",
+              "coord": [
+                51.4966392,
+                -0.17218
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "South Ken café",
+              "coord": [
+                51.496,
+                -0.173
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Natural History Museum",
+              "coord": [
+                51.496714999999995,
+                -0.17636720000000003
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Dinner by Heston",
+              "coord": [
+                51.501362,
+                -0.162844
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Bath",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.512524,
+                -0.147518
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Lucknam Park",
+              "coord": [
+                51.45505,
+                -2.25939
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Bath restaurant",
+              "coord": [
+                51.381,
+                -2.361
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Roman Baths",
+              "coord": [
+                51.381,
+                -2.361
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Lucknam Park",
+              "coord": [
+                51.45505,
+                -2.25939
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Cotswolds",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.4547,
+                -2.2578
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bourton-on-the-Water",
+              "coord": [
+                51.809,
+                -1.81
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Village pub",
+              "coord": [
+                51.809,
+                -1.81
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Stow-on-the-Wold",
+              "coord": [
+                51.824,
+                -1.738
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Whatley Manor",
+              "coord": [
+                51.5837462,
+                -2.1497284999999997
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Whatley Manor",
+              "coord": [
+                51.5837462,
+                -2.1497284999999997
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Oxford",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.804,
+                -2.13
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Oxford university",
+              "coord": [
+                51.752,
+                -1.258
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Oxford college town",
+              "coord": [
+                51.752,
+                -1.258
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bodleian Library",
+              "coord": [
+                51.752,
+                -1.258
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "The Rectory Hotel",
+              "coord": [
+                51.6352316,
+                -2.0652901999999997
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "The Rectory restaurant",
+              "coord": [
+                51.715,
+                -1.621
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Lake District",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                51.715,
+                -1.621
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Holbeck Ghyll",
+              "coord": [
+                54.43,
+                -3.054
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local café",
+              "coord": [
+                54.43,
+                -3.054
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Fell walking",
+              "coord": [
+                54.472,
+                -3.071
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Holbeck Ghyll",
+              "coord": [
+                54.43,
+                -3.054
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Lake District",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                54.43,
+                -3.054
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Windermere lake",
+              "coord": [
+                54.358,
+                -2.922
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Lakeside café",
+              "coord": [
+                54.358,
+                -2.922
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mountain walking",
+              "coord": [
+                54.472,
+                -3.071
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Lake District restaurant",
+              "coord": [
+                54.43,
+                -3.054
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "York",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                54.43,
+                -3.054
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "The Grange Hotel",
+              "coord": [
+                53.96,
+                -1.081
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "York café",
+              "coord": [
+                53.96,
+                -1.081
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "York Minster",
+              "coord": [
+                53.962,
+                -1.081
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "York restaurant",
+              "coord": [
+                53.96,
+                -1.081
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "To Edinburgh",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                53.96,
+                -1.081
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "The Balmoral",
+              "coord": [
+                55.953,
+                -3.188
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Edinburgh café",
+              "coord": [
+                55.953,
+                -3.188
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Edinburgh Castle",
+              "coord": [
+                55.9485947,
+                -3.1999134999999996
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "The Balmoral",
+              "coord": [
+                55.953,
+                -3.188
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Edinburgh Old Town",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                55.953,
+                -3.188
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Royal Mile",
+              "coord": [
+                55.953,
+                -3.188
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Edinburgh restaurant",
+              "coord": [
+                55.953,
+                -3.188
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Holyroodhouse",
+              "coord": [
+                55.955,
+                -3.174
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Edinburgh fine dining",
+              "coord": [
+                55.953,
+                -3.188
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Scottish Highlands",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                55.953,
+                -3.188
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Arthur's Seat hike",
+              "coord": [
+                55.944,
+                -3.162
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Edinburgh café",
+              "coord": [
+                55.953,
+                -3.188
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Botanical Gardens",
+              "coord": [
+                55.966,
+                -3.21
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Scottish restaurant",
+              "coord": [
+                55.953,
+                -3.188
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Final breakfast",
+              "coord": [
+                55.953,
+                -3.188
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Last activities",
+              "coord": [
+                55.953,
+                -3.188
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Final meal",
+              "coord": [
+                55.953,
+                -3.188
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Departure",
+              "coord": [
+                55.953,
+                -3.188
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

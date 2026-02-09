@@ -1,0 +1,4651 @@
+{
+  "key": "greece",
+  "name": "Greece Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇬🇷",
+  "defaultCenter": [
+    38.5,
+    24
+  ],
+  "defaultZoom": 6.5,
+  "hotels": [
+    {
+      "name": "Four Seasons Astir Palace",
+      "coord": [
+        37.805205,
+        23.77115
+      ],
+      "desc": "Luxury beachfront resort, Vouliagmeni peninsula, kids",
+      "longDesc": "Sprawling luxury resort on the Vouliagmeni peninsula with direct beach access and world-class kids' amenities. A serene escape from Athens with Acropolis views from the spa and multiple family-friendly pools.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Astir%20Palace&center=37.805205,23.77115",
+      "placeId": "ChIJKwqn-87roRQRo5RKNIcMG64",
+      "address": "Apollonos 40, Vouliagmeni 166 71, Greece"
+    },
+    {
+      "name": "Grande Bretagne",
+      "coord": [
+        37.97655,
+        23.735402
+      ],
+      "desc": "Grand historic hotel, Syntagma, rooftop Acropolis views",
+      "longDesc": "Athens' most iconic grand hotel since 1874, perched above Syntagma Square with commanding Acropolis views from the rooftop pool and restaurant. Timeless elegance and impeccable service for discerning families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grande%20Bretagne&center=37.97655,23.735402",
+      "placeId": "ChIJAc8Rblc_YkgRBbyOF5ySMQs",
+      "address": "Great Britain, United Kingdom"
+    },
+    {
+      "name": "Hotel Amanzoe",
+      "coord": [
+        37.3705299,
+        23.117464599999998
+      ],
+      "desc": "Aman ultra-luxury, hilltop pavilions, Porto Heli",
+      "longDesc": "Ultra-luxury hilltop escape near Porto Heli with private pavilions overlooking the Peloponnese coast and a world-class spa. An intimate, adults-leaning property perfect for romantic getaways with design-conscious travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Amanzoe&center=37.3705299,23.117464599999998",
+      "placeId": "ChIJD9XVrpqWnxQRVZS4ikgSrgk",
+      "address": "Agios Panteleimonas,Kranidi,213 00, Kranidi 213 00, Greece"
+    },
+    {
+      "name": "Andronis Arcadia",
+      "coord": [
+        36.4638217,
+        25.375454899999998
+      ],
+      "desc": "Family-friendly boutique, Oia, private pools",
+      "longDesc": "Quintessential Santorini charm with private pools, caldera views, and genuine family hospitality in picture-perfect Oia. The sunset from the terrace rivals any restaurant in town.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Andronis%20Arcadia&center=36.4638217,25.375454899999998",
+      "placeId": "ChIJnQoxoZLLmRQRtV6396WW4qM",
+      "address": "Oia 847 02, Greece"
+    },
+    {
+      "name": "Katikies Hotel",
+      "coord": [
+        36.4617363,
+        25.3824513
+      ],
+      "desc": "Luxury cave-style, caldera views, architectural icon",
+      "longDesc": "Iconic cave-style suites carved into the caldera cliffside with dramatic white interiors and infinity pools opening to the Aegean. Pure Santorini romance and architectural drama.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Katikies%20Hotel&center=36.4617363,25.3824513",
+      "placeId": "ChIJZfN8nIDMmRQRxE4k-4aOrXw",
+      "address": "Nik. Nomikou, Oía 847 02, Greece"
+    },
+    {
+      "name": "Canaves Oia Epitome",
+      "coord": [
+        36.4636385,
+        25.3711066
+      ],
+      "desc": "Luxury resort, Elements restaurant, eco-programs",
+      "longDesc": "Luxury resort with the celebrated Elements restaurant on-site, organic spa, and caldera-facing pools in serene Oia. An eco-conscious choice without compromising sophistication.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Canaves%20Oia%20Epitome&center=36.4636385,25.3711066",
+      "placeId": "ChIJeRpcd4LLmRQRVWxVFYJRZ9k",
+      "address": "Main Street, Oía 847 02, Greece"
+    },
+    {
+      "name": "Santo Maris Oia",
+      "coord": [
+        36.4645754,
+        25.3732369
+      ],
+      "desc": "Spacious suites, family-friendly, quieter Oia",
+      "longDesc": "Spacious, family-friendly Oia alternative with generous suites and a quieter vibe away from the sunset crowds. Perfect for families who want Santorini beauty without the tourist crush.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Santo%20Maris%20Oia&center=36.4645754,25.3732369",
+      "placeId": "ChIJjW6-RX_LmRQRU6ghOMDz0ng",
+      "address": "Oia 847 00, Greece"
+    },
+    {
+      "name": "Vedema Resort",
+      "coord": [
+        36.3755871,
+        25.4323117
+      ],
+      "desc": "Converted 400-year-old winery, Megalochori village",
+      "longDesc": "Enchanting 400-year-old Venetian winery transformed into a luxury resort in the charming wine village of Megalochori. Stay amid Santorini's wine country and vineyard terraces.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Vedema%20Resort&center=36.3755871,25.4323117",
+      "placeId": "ChIJCbNYRP_OmRQRaK8VN1q-K24",
+      "address": "Megalochori 847 00, Greece"
+    },
+    {
+      "name": "Santa Marina Resort",
+      "coord": [
+        37.418268999999995,
+        25.3261947
+      ],
+      "desc": "Private beach, Ornos Bay, kids",
+      "longDesc": "Private beach resort in calm Ornos Bay with excellent kids' amenities and direct sand access—ideal for families seeking Mykonos sophistication without the party scene.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa%20Marina%20Resort&center=37.418268999999995,25.3261947",
+      "placeId": "ChIJx9AWKWG-ohQRc_7gfyskSU4",
+      "address": "Ornos Bay, Mikonos 846 00, Greece"
+    },
+    {
+      "name": "Myconian Villa Collection",
+      "coord": [
+        37.4222262,
+        25.3949312
+      ],
+      "desc": "Multi-bedroom villas, Elia Beach, calm location",
+      "longDesc": "Spacious multi-bedroom villas perfect for large families or groups, set on peaceful Elia Beach away from Mykonos Town hustle. Ideal for self-catering flexibility.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Myconian%20Villa%20Collection&center=37.4222262,25.3949312",
+      "placeId": "ChIJYyX2XCa5ohQRUOMWqGBOmQY",
+      "address": "Elia Beach, Mikonos 846 00, Greece"
+    },
+    {
+      "name": "Bill & Coo Suites",
+      "coord": [
+        37.4376988,
+        25.3278327
+      ],
+      "desc": "Minimalist chic, gastronomy project, 280+ wines",
+      "longDesc": "Minimalist architectural gem on a cliffside overlooking Mykonos with an on-site Michelin-worthy gastronomy project and 280+ wine selections. Design lovers' paradise.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bill%20%26%20Coo%20Suites&center=37.4376988,25.3278327",
+      "placeId": "ChIJd9WIVlS-ohQRCteA-uAg29M",
+      "address": "Bill & Coo Suites and Lounge Megali Ammos Beach, Μύκονος 846 00, Greece"
+    },
+    {
+      "name": "Domes Zeen Chania",
+      "coord": [
+        35.5085778,
+        23.997110199999998
+      ],
+      "desc": "Design resort, excellent kids featuring stunning Greek beauty and authentic experiences",
+      "longDesc": "Contemporary design resort in Chania with excellent kids' facilities, spa, and easy access to western Crete's beaches and old town. Modern comfort in a historic setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Domes%20Zeen%20Chania&center=35.5085778,23.997110199999998",
+      "placeId": "ChIJxb5H6b19nBQR6zj_RWFiuxQ",
+      "address": "Apteron Road Parigoria, Kon/nou Paleologou, Chania 731 00, Greece"
+    },
+    {
+      "name": "Royal Senses Resort",
+      "coord": [
+        35.4167053,
+        24.6579518
+      ],
+      "desc": "Family resort, water park, funicular",
+      "longDesc": "Family mega-resort in Crete with water park, kids' clubs, and a funicular down to the beach—entertainment and relaxation all-in-one. Perfect for families who want activities built-in.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Senses%20Resort&center=35.4167053,24.6579518",
+      "placeId": "ChIJl18V9_inmxQRvvif7R9cMH0",
+      "address": "Herakliou 58 km, Panormos 740 57, Greece"
+    },
+    {
+      "name": "Ammos Hotel",
+      "coord": [
+        35.5112507,
+        23.9751379
+      ],
+      "desc": "Boutique, supervised toddler playroom, sandy beach",
+      "longDesc": "Charming Chania boutique with a supervised toddler playroom and direct sandy beach access, designed with young children in mind. Intimate and genuinely child-friendly.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ammos%20Hotel&center=35.5112507,23.9751379",
+      "placeId": "ChIJid1MGoFinBQROBhIi-9BQqc",
+      "address": "Irakli Avgoula, Chania, Crete 731 00, Greece"
+    },
+    {
+      "name": "Daios Cove",
+      "coord": [
+        35.1466,
+        25.720067
+      ],
+      "desc": "Private beach, villas, infinity pool, Agios Nikolaos",
+      "longDesc": "Luxurious cliff-top villas with infinity pools overlooking Agios Nikolaos bay in eastern Crete. Pure Mediterranean elegance and privacy.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Daios%20Cove&center=35.1466,25.720067",
+      "placeId": "ChIJT-cUkfGAkBQRsKwobkTAobI",
+      "address": "Βαθύ, Kritsa 721 00, Greece"
+    },
+    {
+      "name": "Blue Palace",
+      "coord": [
+        35.2925567,
+        25.726254899999997
+      ],
+      "desc": "Luxury resort, Spinalonga views, Elounda",
+      "longDesc": "Stunning beachfront luxury resort in Elounda with dramatic views of Spinalonga Island fortress across the bay. A serene, upscale Crete coastal escape.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Palace&center=35.2925567,25.726254899999997",
+      "placeId": "ChIJDblxVMGckBQR2o6hYtEj_xo",
+      "address": "Plaka 720 53, Greece"
+    },
+    {
+      "name": "Sani Resort",
+      "coord": [
+        40.0999003,
+        23.3094471
+      ],
+      "desc": "5 hotels, Bear Grylls kids activities, eco-reserve",
+      "longDesc": "Sprawling 5-hotel complex on a private beachfront with Bear Grylls kids' activities, eco-reserve, and year-round entertainment on the Halkidiki peninsula. Ultimate all-in-one family destination.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sani%20Resort&center=40.0999003,23.3094471",
+      "placeId": "ChIJE9T0FrbVpxQRvEWVSimoShw",
+      "address": "Kassandreia 630 77, Greece"
+    },
+    {
+      "name": "Ikos Odisia",
+      "coord": [
+        39.6877644,
+        19.846975999999998
+      ],
+      "desc": "All-inclusive luxury, Corfu, 10 heated pools",
+      "longDesc": "All-inclusive ultra-luxury on a private Corfu beach with 10 heated pools and world-class dining options. Mediterranean indulgence for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ikos%20Odisia&center=39.6877644,19.846975999999998",
+      "placeId": "ChIJQSK2FnVbWxMRRpYqu91QXU0",
+      "address": "Kato Korakiana, Dassia 491 00, Greece"
+    },
+    {
+      "name": "Porto Zante Villas",
+      "coord": [
+        37.8257797,
+        20.8523821
+      ],
+      "desc": "9 villas, private beach, Zakynthos",
+      "longDesc": "Nine luxury villas with private beach on Zakynthos, ideal for families seeking privacy and turtle-spotting access. Exclusively designed for multi-family groups.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Porto%20Zante%20Villas&center=37.8257797,20.8523821",
+      "placeId": "ChIJpy2f0Y5GZxMRFjPNm9KXI10",
+      "address": "Tragaki 291 00, Greece"
+    },
+    {
+      "name": "Mandarin Oriental Costa Navarino",
+      "coord": [
+        36.9347779,
+        21.7124563
+      ],
+      "desc": "Ultra-luxury, golf, Messinia featuring stunning Greek beauty and authentic experiences",
+      "longDesc": "Mega-luxury resort in Messinia with championship golf course, pristine beaches, and refined European sensibility. Pinnacle of Greek resort sophistication.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mandarin%20Oriental%20Costa%20Navarino&center=36.9347779,21.7124563",
+      "placeId": "ChIJS8H56wFzYRMRUdn1lf0_kDc",
+      "address": "Navarino Bay, Costa, Costa, Pilos 240 01, Greece"
+    },
+    {
+      "name": "Astir Palace Vouliagmeni",
+      "coord": [
+        37.805205,
+        23.77115
+      ],
+      "desc": "Luxury beachfront, five restaurants, spa",
+      "longDesc": "Sprawling luxury complex with five restaurants, private beach, world-class spa, and direct Acropolis views. Athenian luxury at its finest for families.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Astir%20Palace%20Vouliagmeni&center=37.805205,23.77115",
+      "placeId": "ChIJKwqn-87roRQRo5RKNIcMG64",
+      "address": "Apollonos 40, Vouliagmeni 166 71, Greece"
+    },
+    {
+      "name": "Hotel Grande Bretagne Athens",
+      "coord": [
+        37.976178,
+        23.7353123
+      ],
+      "desc": "Five-star historic, rooftop pool, Syntagma Square",
+      "longDesc": "Athens' most prestigious hotel since 1874 with commanding rooftop pool, fine dining, and unmatched Acropolis views. Historic elegance meets modern luxury.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Grande%20Bretagne%20Athens&center=37.976178,23.7353123",
+      "placeId": "ChIJgSMyRUu9oRQRS9UFR1xmJrE",
+      "address": "1 Vasileos Georgiou A, Syntagma Square Str, Athina 105 64, Greece"
+    },
+    {
+      "name": "Kenshington Hotel",
+      "coord": [
+        37.98244,
+        23.73689
+      ],
+      "desc": "Boutique luxury, Plaka location, personalized service",
+      "longDesc": "Charming boutique luxury hotel in Plaka with personalized service, rooftop garden, and close proximity to ancient ruins. Intimate Athens elegance.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kenshington%20Hotel&center=37.98244,23.73689",
+      "placeId": "ChIJO6vgkWcFdkgRjLCrLkS_3ak",
+      "address": "109-113 Queen's Gate, South Kensington, London SW7 5LP, UK"
+    },
+    {
+      "name": "Hotel Grande Bretagne Suites",
+      "coord": [
+        37.976178,
+        23.7353123
+      ],
+      "desc": "Historic grand hotel, Syntagma, Michelin dining",
+      "longDesc": "Iconic grand hotel with Michelin-starred restaurants, rooftop Acropolis views, and timeless elegance. Athens' premier hospitality destination.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Grande%20Bretagne%20Suites&center=37.976178,23.7353123",
+      "placeId": "ChIJgSMyRUu9oRQRS9UFR1xmJrE",
+      "address": "1 Vasileos Georgiou A, Syntagma Square Str, Athina 105 64, Greece"
+    },
+    {
+      "name": "King George Palace",
+      "coord": [
+        37.976384,
+        23.734949399999998
+      ],
+      "desc": "Luxury five-star, Syntagma, Athens landmark",
+      "longDesc": "Legendary Athens luxury hotel with Michelin-level dining, spa, and front-row Acropolis views from the elegant rooms and suites. Iconic Greek hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=King%20George%20Palace&center=37.976384,23.734949399999998",
+      "placeId": "ChIJ9-naYEC9oRQRNHzbRl4WSbk",
+      "address": "3 Vasileos Georgiou A, Pl. Sintagmatos Str, Athina 105 64, Greece"
+    },
+    {
+      "name": "Mati Boutique Hotel",
+      "coord": [
+        38.047229699999995,
+        23.9977455
+      ],
+      "desc": "Oia boutique, caldera views, intimate",
+      "longDesc": "Intimate boutique hotel in charming Oia with stunning caldera views, personalized service, and sunset access. Quintessential Santorini romance.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mati%20Boutique%20Hotel&center=38.047229699999995,23.9977455",
+      "placeId": "ChIJr45MSQaDoRQRRWfThhxHWnw",
+      "address": "Leof. Posidonos 33, Nea Makri 190 05, Greece"
+    },
+    {
+      "name": "San Antonio Luxury Suites",
+      "coord": [
+        36.457318,
+        25.420411299999998
+      ],
+      "desc": "Oia luxury suites, private pools, sunset views",
+      "longDesc": "Luxurious suite-only hotel in Oia with private pools, caldera views, and sunset terraces. Pure Santorini romance and architectural beauty.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Antonio%20Luxury%20Suites&center=36.457318,25.420411299999998",
+      "placeId": "ChIJ9TtaTvnMmRQR2Z6YRoAlU04",
+      "address": "Imerovigli 847 00, Greece"
+    },
+    {
+      "name": "Mykonos Grand Hotel",
+      "coord": [
+        37.420929799999996,
+        25.313668399999997
+      ],
+      "desc": "Luxury beachfront, Mykonos Town, five-star",
+      "longDesc": "Luxurious beachfront resort in Mykonos Town with fine dining, spa, and direct beach access. Aegean sophistication meets contemporary design.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mykonos%20Grand%20Hotel&center=37.420929799999996,25.313668399999997",
+      "placeId": "ChIJ-3KOz2u-ohQRBedpETb8hoQ",
+      "address": "Agios Ioannis 846 00, Greece"
+    },
+    {
+      "name": "Cavo Tagoo",
+      "coord": [
+        37.456664599999996,
+        25.328948600000004
+      ],
+      "desc": "Cliffside luxury, Mykonos, infinity pools",
+      "longDesc": "Dramatic cliffside luxury resort overlooking Mykonos with infinity pools carved into white rock and exceptional dining. Architectural marvel.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cavo%20Tagoo&center=37.456664599999996,25.328948600000004",
+      "placeId": "ChIJwaNptaC_ohQRg-99FobStCY",
+      "address": "Mykonos 846 00, Greece"
+    },
+    {
+      "name": "Hotel Porto Mykonos",
+      "coord": [
+        37.451838599999995,
+        25.3296924
+      ],
+      "desc": "Chic beachfront, Mykonos center, waterfront dining",
+      "longDesc": "Sophisticated beachfront hotel in central Mykonos with direct beach access, waterfront dining, and contemporary design. Island glamour and comfort.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Porto%20Mykonos&center=37.451838599999995,25.3296924",
+      "placeId": "ChIJfZl3Xgi_ohQRXTdvqqcKRPw",
+      "address": "Old Port Area Mykonos Town, Μύκονος 846 00, Greece"
+    },
+    {
+      "name": "Thalassa All-Inclusive Crete",
+      "coord": [
+        35.506532,
+        23.9752175
+      ],
+      "desc": "All-inclusive family, Rethymnon, water park",
+      "longDesc": "Family-focused all-inclusive resort in Rethymnon with water park, kids' club, and direct beach access. Hassle-free Cretan family holiday.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Thalassa%20All-Inclusive%20Crete&center=35.506532,23.9752175",
+      "placeId": "ChIJA6q_d159nBQR5NEvnL9aWTM",
+      "address": "El. Venizelou, Daratsos 731 00, Greece"
+    },
+    {
+      "name": "Blue Horizon Santorini",
+      "coord": [
+        36.4233027,
+        25.4357676
+      ],
+      "desc": "Caldera-view hotel, Fira, romantic atmosphere",
+      "longDesc": "Charming caldera-view hotel in Fira with intimate atmosphere, excellent service, and sunset terraces. Romantic Santorini without the mega-resort feel.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Horizon%20Santorini&center=36.4233027,25.4357676",
+      "placeId": "ChIJuUQL4s7NmRQRneNwqI0I6oM",
+      "address": "BLUE HORIZON, Φηρά 847 00, Greece"
+    },
+    {
+      "name": "Aegean Suites Mykonos",
+      "coord": [
+        37.4551537,
+        25.329778299999997
+      ],
+      "desc": "Suite hotel, Mykonos, sea views, quiet location",
+      "longDesc": "Elegant suite-only hotel on Mykonos with sea views, calm location away from party crowds, and personalized hospitality. Peaceful island retreat.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aegean%20Suites%20Mykonos&center=37.4551537,25.329778299999997",
+      "placeId": "ChIJ5f1FkaC_ohQRjqP-ecdgKHg",
+      "address": "Tagoo, Mykonos Town (Chora), Mikonos 846 00, Greece"
+    },
+    {
+      "name": "Sunshine Villas Paros",
+      "coord": [
+        37.004924800000005,
+        25.2287292
+      ],
+      "desc": "Villa collection, Paros, private pools",
+      "longDesc": "Collection of private villas on Paros with pools, sea views, and direct beach access. Perfect for families or groups seeking autonomy and comfort.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunshine%20Villas%20Paros&center=37.004924800000005,25.2287292",
+      "placeId": "ChIJ1bgzFJltmBQRdrrRiaIw0nw",
+      "address": "Drios 844 00, Greece"
+    },
+    {
+      "name": "Limenaria Hotel Rhodes",
+      "coord": [
+        36.439378,
+        28.2319371
+      ],
+      "desc": "Boutique hotel, Rhodes Old Town, medieval setting",
+      "longDesc": "Charming boutique hotel in Rhodes' medieval Old Town with stone architecture, courtyard dining, and authentic heritage location. Historic island charm.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Limenaria%20Hotel%20Rhodes&center=36.439378,28.2319371",
+      "placeId": "ChIJVVXBq8FhlRQR2niy9IhtJOA",
+      "address": "Kolokotroni 114, Rodos 851 00, Greece"
+    },
+    {
+      "name": "Pelagos Crete",
+      "coord": [
+        35.1917425,
+        25.718620299999998
+      ],
+      "desc": "Waterfront hotel, Chania harbor, fine dining",
+      "longDesc": "Elegant waterfront hotel in Chania harbor with fine dining, spa, and sunset views over the Venetian fortress. Cretan hospitality and sophistication.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pelagos%20Crete&center=35.1917425,25.718620299999998",
+      "placeId": "ChIJF8VBsemBkBQRJXR8EMEDcEY",
+      "address": "Str. Koraka 11, Ag. Nikolaos 721 00, Greece"
+    },
+    {
+      "name": "Andronis Minois Crete",
+      "coord": [
+        37.069252,
+        25.124368999999998
+      ],
+      "desc": "Luxury boutique, Rethymnon, seaside",
+      "longDesc": "Upscale boutique hotel in Rethymnon with seaside location, fine dining, and personalized service. Cretan elegance and Mediterranean warmth.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Andronis%20Minois%20Crete&center=37.069252,25.124368999999998",
+      "placeId": "ChIJJXuhXQRxmBQRVjHE_QkTJpg",
+      "address": "Parasporos beach, Paros Island 844 00, Greece"
+    },
+    {
+      "name": "Kirini Suites Santorini",
+      "coord": [
+        36.4616492,
+        25.387986599999998
+      ],
+      "desc": "Caldera-view suites, Imerovigli, luxury",
+      "longDesc": "Luxurious suite-only hotel with dramatic caldera views, cliffside infinity pools, and fine dining. Exclusive Santorini sophistication.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kirini%20Suites%20Santorini&center=36.4616492,25.387986599999998",
+      "placeId": "ChIJIyJLg4fMmRQRfr_wvy64d_E",
+      "address": "Main Street, Oía 847 02, Greece"
+    },
+    {
+      "name": "Secrets Alystra Mykonos",
+      "coord": [
+        37.4476053,
+        25.3385829
+      ],
+      "desc": "Exclusive resort, Mykonos, adults-only luxury",
+      "longDesc": "Sophisticated adults-only luxury resort in Mykonos with fine dining, spa, and intimate design. Aegean getaway for discerning travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Secrets%20Alystra%20Mykonos&center=37.4476053,25.3385829",
+      "placeId": "ChIJ6XvW-gW_ohQRTKJI9HsHA4o",
+      "address": "Argirena, Mikonos 846 00, Greece"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Spondi",
+      "coord": [
+        37.9651249,
+        23.7430485
+      ],
+      "desc": "Two Michelin stars, modern Greek, neoclassical villa",
+      "longDesc": "Two Michelin stars in a refined neoclassical villa showcasing innovative modern Greek cuisine. An unforgettable gastronomic experience for special-occasion dinners.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Spondi&center=37.9651249,23.7430485",
+      "placeId": "ChIJ87zFe2y9oRQR_ryfDQ9QfNI",
+      "address": "Pirronos 5, Athina 116 36, Greece"
+    },
+    {
+      "name": "Delta",
+      "coord": [
+        38.46665970000001,
+        23.6052823
+      ],
+      "desc": "Two Michelin stars + Green Star, sustainable",
+      "longDesc": "Two Michelin stars plus Green Star recognition for sustainable sourcing in a forward-thinking Greek kitchen. Ethical fine dining done beautifully.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Delta&center=38.46665970000001,23.6052823",
+      "placeId": "ChIJcVWW6KQXoRQRJMHjbs7hphM",
+      "address": "Kidonion 31, Chalkida 341 00, Greece"
+    },
+    {
+      "name": "Hytra",
+      "coord": [
+        37.9815438,
+        23.7529091
+      ],
+      "desc": "Michelin star, panoramic city views, Onassis Centre",
+      "longDesc": "Michelin-starred panoramic dining at the Onassis Centre with the Acropolis illuminated below your table. Theater meets gastronomy.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hytra&center=37.9815438,23.7529091",
+      "placeId": "ChIJdTdlpiqjoRQRIk7Wh7FYGBY",
+      "address": "1, Petrou Kokkali STR, Athina 115 21, Greece"
+    },
+    {
+      "name": "Varoulko Seaside",
+      "coord": [
+        37.937288099999996,
+        23.6585093
+      ],
+      "desc": "Michelin star, Chef Lazarou, Piraeus harbor",
+      "longDesc": "Chef Lazarou's Michelin-starred seafood temple in Piraeus harbor with impeccable fresh catches and maritime views. Pure, honest Mediterranean cooking.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Varoulko%20Seaside&center=37.937288099999996,23.6585093",
+      "placeId": "ChIJw-V1pTC7oRQRwTRnUUr3DrE",
+      "address": "Akti Koumoundourou 54, Pireas 185 33, Greece"
+    },
+    {
+      "name": "Nolan",
+      "coord": [
+        37.9747986,
+        23.7323718
+      ],
+      "desc": "Michelin star, Asian-Greek fusion",
+      "longDesc": "Michelin star fusion of Asian and Greek traditions in an intimate Athens setting. Unexpected flavor pairings executed with precision.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nolan&center=37.9747986,23.7323718",
+      "placeId": "ChIJtRVOyT29oRQRQQkHE2GmEwE",
+      "address": "Voulis 31 - 33, Athina 105 57, Greece"
+    },
+    {
+      "name": "Botrini",
+      "coord": [
+        38.0234331,
+        23.7936733
+      ],
+      "desc": "Michelin star, Italian-Greek, Chef Ettore Botrini",
+      "longDesc": "Michelin-starred Italian-Greek collaboration helmed by Chef Ettore Botrini, blending two Mediterranean heritages seamlessly. Italian technique meets Greek ingredients.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Botrini&center=38.0234331,23.7936733",
+      "placeId": "ChIJ2x4_mPaYoRQRi8YGpT4_wIo",
+      "address": "Leof. Vasileos Georgiou B 24B, Athina 152 33, Greece"
+    },
+    {
+      "name": "Ta Karamanlidika",
+      "coord": [
+        37.9802444,
+        23.7256423
+      ],
+      "desc": "Deli-taverna, cured meats, Byzantine-Anatolian meze",
+      "longDesc": "Historic deli-taverna specializing in cured meats and Byzantine-Anatolian meze—a flavor journey through Greece's complex cultural past. A local institution.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ta%20Karamanlidika&center=37.9802444,23.7256423",
+      "placeId": "ChIJ7z1TkSS9oRQRJTycL4l8QlM",
+      "address": "Evripidou 52, Athina 105 52, Greece"
+    },
+    {
+      "name": "Vezene",
+      "coord": [
+        37.9747035,
+        23.7510028
+      ],
+      "desc": "Greek bistro, cutting-edge since 2011",
+      "longDesc": "Cutting-edge Greek bistro pushing boundaries since 2011, balancing tradition with contemporary technique. Where ancient Greek flavors meet modern creativity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Vezene&center=37.9747035,23.7510028",
+      "placeId": "ChIJZfpgIVG9oRQRV1t5M4X78yE",
+      "address": "Vrasida 11, Athina 115 28, Greece"
+    },
+    {
+      "name": "Kostas Souvlaki",
+      "coord": [
+        37.977415799999996,
+        23.7279947
+      ],
+      "desc": "Legendary hole-in-the-wall, best souvlaki in Athens",
+      "longDesc": "Legendary hole-in-the-wall serving the best souvlaki in Athens from a window counter since the 1950s. Simple, perfect, iconic.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kostas%20Souvlaki&center=37.977415799999996,23.7279947",
+      "placeId": "ChIJg-PjyTy9oRQRzb0O2qxPA2Q",
+      "address": "Pl. Agias Irinis 2, Athina 105 60, Greece"
+    },
+    {
+      "name": "Selene",
+      "coord": [
+        36.4214959,
+        25.4307765
+      ],
+      "desc": "Pioneer of Santorinian cuisine, Pyrgos, since 1985",
+      "longDesc": "Pioneering Santorinian cuisine since 1985 in the village of Pyrgos using hyper-local ingredients and traditional recipes. The island's culinary soul.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Selene&center=36.4214959,25.4307765",
+      "placeId": "ChIJX8E34kPPmRQRuP0FvNTwPMg",
+      "address": "Old catholic monastery, Φηρά 847 00, Greece"
+    },
+    {
+      "name": "Elements at Canaves",
+      "coord": [
+        36.4636405,
+        25.371104300000002
+      ],
+      "desc": "Award-winning, dry-aged scallops, caldera terrace",
+      "longDesc": "Award-winning contemporary Greek dining with signature dry-aged scallops and caldera views from a cliffside terrace. Scenic splendor meets refined cooking.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Elements%20at%20Canaves&center=36.4636405,25.371104300000002",
+      "placeId": "ChIJEeMpfAPLmRQRC9_J1c3nPZw",
+      "address": "Oia 847 02, Greece"
+    },
+    {
+      "name": "Koukoumavlos",
+      "coord": [
+        36.431461899999995,
+        25.424419399999998
+      ],
+      "desc": "Creative fine dining, Fira, volcano views",
+      "longDesc": "Creative fine dining overlooking the volcanic caldera from Fira with a wine list celebrating Greek producers. Every course paired with island scenery.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Koukoumavlos&center=36.431461899999995,25.424419399999998",
+      "placeId": "ChIJR-hydBrNmRQR2jm6VLK_oM0",
+      "address": "Imerovigli 847 00, Greece"
+    },
+    {
+      "name": "To Psaraki",
+      "coord": [
+        36.3379258,
+        25.4348982
+      ],
+      "desc": "Vlichada fishing port, exceptional seafood, honest prices",
+      "longDesc": "Tiny waterfront taverna at the Vlichada fishing port serving whatever the boats brought in that morning at honest prices. Authenticity distilled.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=To%20Psaraki&center=36.3379258,25.4348982",
+      "placeId": "ChIJLYDk14TPmRQRROWxipIeuxg",
+      "address": "Marina, Vlichada 847 00, Greece"
+    },
+    {
+      "name": "Ammoudi Fish Tavern",
+      "coord": [
+        36.460585699999996,
+        25.3702063
+      ],
+      "desc": "Tiny harbor below Oia, fresh-caught, sunset",
+      "longDesc": "Intimate harbor-side taverna perched in the tiny cove below Oia, serving fresh-caught seafood with sunset views that justify the walk. Quintessential Santorini romance.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ammoudi%20Fish%20Tavern&center=36.460585699999996,25.3702063",
+      "placeId": "ChIJ9T0PmYPLmRQR7hzxFyr9Efk",
+      "address": "Ammoudi Bay, Santorini, Oia, Ammoudi 847 02, Greece"
+    },
+    {
+      "name": "Matsuhisa Mykonos",
+      "coord": [
+        37.443286799999996,
+        25.330097400000003
+      ],
+      "desc": "Nobu, Japanese-Peruvian fusion, fine dining",
+      "longDesc": "Nobu's Mykonos outpost bringing Japanese-Peruvian precision to the Aegean island. High-end hospitality theater.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Matsuhisa%20Mykonos&center=37.443286799999996,25.330097400000003",
+      "placeId": "ChIJ5QxMa6q_ohQRhV7S9Xrhb2U",
+      "address": "Belvedere Hotel School of Fine Arts District, Αγίου Ιωάννου 1, Μύκονος 846 00, Greece"
+    },
+    {
+      "name": "Kiki",
+      "coord": [
+        37.9742904,
+        23.7317143
+      ],
+      "desc": "No sign, no electricity, legendary grilled pork chops",
+      "longDesc": "No sign, no electricity, just legendary grilled pork chops and Greek hospitality in a tiny Mykonos village taverna. Soul food for travelers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kiki&center=37.9742904,23.7317143",
+      "placeId": "ChIJkYeLwD29oRQR4h6Uhc_A5Wg",
+      "address": "Ipitou 4, Athina 105 57, Greece"
+    },
+    {
+      "name": "M-eating",
+      "coord": [
+        37.4460312,
+        25.3295285
+      ],
+      "desc": "Best fine dining on Mykonos featuring stunning Greek beauty and authentic experiences",
+      "longDesc": "Mykonos' finest restaurant with technical execution and creative presentations in an intimate setting. Local chef, world-class standards.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=M-eating&center=37.4460312,25.3295285",
+      "placeId": "ChIJzYUwkam_ohQRLTeSMAFXTt0",
+      "address": "Kalogera 10, Mikonos 846 00, Greece"
+    },
+    {
+      "name": "NiKolas Taverna",
+      "coord": [
+        36.0724717,
+        27.9305316
+      ],
+      "desc": "Traditional family-run, Agia Anna beach",
+      "longDesc": "Traditional family-run taverna right at Agia Anna beach where fishermen still dock their boats nearby. Immediate freshness and generational authenticity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=NiKolas%20Taverna&center=36.0724717,27.9305316",
+      "placeId": "ChIJw_t0TB8IlRQR3vt8iRTyzFw",
+      "address": "Asklipio 851 09, Greece"
+    },
+    {
+      "name": "Peskesi",
+      "coord": [
+        35.3402096,
+        25.132484599999998
+      ],
+      "desc": "Farm-to-table, 16th-19th century recipes, Heraklion",
+      "longDesc": "Farm-to-table restaurant in Heraklion serving 16th-19th century Cretan recipes using modern technique and foraged ingredients. Living culinary history.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Peskesi&center=35.3402096,25.132484599999998",
+      "placeId": "ChIJ-6wCIC9amhQRMkvzeBIbYQ0",
+      "address": "Kapetan Charalampi 6-8, Iraklio 712 02, Greece"
+    },
+    {
+      "name": "Thalassino Ageri",
+      "coord": [
+        35.5198494,
+        24.0371114
+      ],
+      "desc": "Waterfront seafood, Chania Old Harbor",
+      "longDesc": "Waterfront seafood specialist in Chania's Old Harbor with white-tablecloth standards and fresh daily catches. Where Venetian architecture meets Mediterranean bounty.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Thalassino%20Ageri&center=35.5198494,24.0371114",
+      "placeId": "ChIJtYwGG9B9nBQRvu8G2_R2hrk",
+      "address": "Vivilaki str 35 Tabakaria, Chania 731 33, Greece"
+    },
+    {
+      "name": "Tamam",
+      "coord": [
+        35.5165331,
+        24.0163838
+      ],
+      "desc": "Restored Turkish bathhouse, creative Cretan",
+      "longDesc": "Beautifully restored Turkish bathhouse in Chania now housing creative Cretan cuisine in atmospheric stone chambers. History and flavor combined.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tamam&center=35.5165331,24.0163838",
+      "placeId": "ChIJD72HWbx9nBQRwMjgj0P4FwI",
+      "address": "49 Zampeliou str Old Harbour, Chania 731 00, Greece"
+    },
+    {
+      "name": "Avli",
+      "coord": [
+        35.120072199999996,
+        25.307742500000003
+      ],
+      "desc": "Award-winning, Venetian courtyard, Rethymnon",
+      "longDesc": "Award-winning restaurant in a 16th-century Venetian courtyard in Rethymnon, serving refined island cooking with artistic presentations. Cultural depth on every plate.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Avli&center=35.120072199999996,25.307742500000003",
+      "placeId": "ChIJ3V5PUr2MmhQRLjuVDNq6BQc",
+      "address": "Avli 703 00, Greece"
+    },
+    {
+      "name": "Axiotissa",
+      "coord": [
+        37.005437,
+        25.394973
+      ],
+      "desc": "Farm-to-table, vine pergola, rural Naxos",
+      "longDesc": "Farm-to-table gem in rural Naxos with a vine-covered pergola and direct access to organic island produce. Slow food done sincerely.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Axiotissa&center=37.005437,25.394973"
+    },
+    {
+      "name": "Mario Restaurant",
+      "coord": [
+        36.4039887,
+        25.4873959
+      ],
+      "desc": "Gourmet seafood, Naoussa harbor, Paros",
+      "longDesc": "Gourmet seafood restaurant in Naoussa's picturesque harbor on Paros with direct views of fishing boats and sunset. Maritime excellence.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mario%20Restaurant&center=36.4039887,25.4873959",
+      "placeId": "ChIJN7Cdwg7SmRQR9A9-4wT3iH4",
+      "address": "Αγία Παρασκευή, Μονόλιθος 847 00, Greece"
+    },
+    {
+      "name": "Mavrikos",
+      "coord": [
+        37.8105851,
+        20.870977399999997
+      ],
+      "desc": "Family-run since 1933, Lindos, Rhodes",
+      "longDesc": "Family-run since 1933 in charming Lindos, Rhodes, serving traditional Greek cooking with recipes passed through generations. Living legacy.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mavrikos&center=37.8105851,20.870977399999997",
+      "placeId": "ChIJlUTyd0RGZxMRn40y_hvZoAk",
+      "address": "Planos 291 00, Greece"
+    },
+    {
+      "name": "Etrusco",
+      "coord": [
+        39.689140900000005,
+        19.8349032
+      ],
+      "desc": "Mediterranean fine dining, hilltop, Corfu",
+      "longDesc": "Mediterranean fine dining on a hilltop overlooking Corfu with panoramic Ionian Sea vistas and refined European technique. Scenic elevation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Etrusco&center=39.689140900000005,19.8349032",
+      "placeId": "ChIJHZ8YIN1dWxMRKsU-6w6RivY",
+      "address": "Kato Korakiana 490 83, Greece"
+    },
+    {
+      "name": "Line Athens",
+      "coord": [
+        37.968616499999996,
+        23.7033509
+      ],
+      "desc": "World's 50 Best Bar, creative cocktails",
+      "longDesc": "World's 50 Best Bar, showcasing creative cocktails in a historic Athens venue. Mixology excellence in an iconic setting.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Line%20Athens&center=37.968616499999996,23.7033509",
+      "placeId": "ChIJ13n7hoG9oRQRXHgFVrMGEGU",
+      "address": "Agathodemonos 37, Athina 118 53, Greece"
+    },
+    {
+      "name": "Baba Au Rum",
+      "coord": [
+        37.9773968,
+        23.729854200000002
+      ],
+      "desc": "World's 50 Best Bar, rum cocktails specialization",
+      "longDesc": "World's 50 Best Bar specializing in rum cocktails with imaginative preparations in a vibrant Athens atmosphere. Spirits elevated to art.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Baba%20Au%20Rum&center=37.9773968,23.729854200000002",
+      "placeId": "ChIJFVsBjjy9oRQR7XnarON2k94",
+      "address": "Klitiou 6, Athina 105 60, Greece"
+    },
+    {
+      "name": "The Clumsies",
+      "coord": [
+        37.9789356,
+        23.7297603
+      ],
+      "desc": "World's 50 Best Bar, Athens cocktail masterclass",
+      "longDesc": "World's 50 Best Bar in Athens delivering elegant cocktails and sophisticated hospitality in a charming townhouse. Elevated nightlife.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Clumsies&center=37.9789356,23.7297603",
+      "placeId": "ChIJYatZZTu9oRQRJrkQceYY2uQ",
+      "address": "Praxitelous 30, Athina 105 61, Greece"
+    },
+    {
+      "name": "Franco",
+      "coord": [
+        36.4172,
+        25.4315
+      ],
+      "desc": "Legendary caldera sunset, classical music, Fira",
+      "longDesc": "Legendary sunset cocktail bar in Fira with caldera views, classical music, and romantic ambiance as the sun descends. Pure Santorini magic.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Franco&center=36.4172,25.4315"
+    },
+    {
+      "name": "180° Sunset Bar",
+      "coord": [
+        37.4493483,
+        25.3323987
+      ],
+      "desc": "Rooftop sunset, design-forward, Mykonos",
+      "longDesc": "Design-forward rooftop bar on Mykonos with sunset aperitifs and contemporary aesthetic overlooking the Aegean. Architectural minimalism meets golden hour.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=180%C2%B0%20Sunset%20Bar&center=37.4493483,25.3323987",
+      "placeId": "ChIJo18P4Ae_ohQRziyXNPrwxqY",
+      "address": "Mykonos 846 00, Greece"
+    },
+    {
+      "name": "Scorpios",
+      "coord": [
+        37.4069079,
+        25.347629599999998
+      ],
+      "desc": "Bohemian sunset ritual, Paraga Beach, Mykonos",
+      "longDesc": "Bohemian sunset ritual at Paraga Beach on Mykonos with beach lounging, live music, and spiritual sunset energy. Hedonism with heart.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Scorpios&center=37.4069079,25.347629599999998",
+      "placeId": "ChIJOXBwpJC-ohQRcW7o3YddSes",
+      "address": "Paraga, Μύκονος 846 00, Greece"
+    },
+    {
+      "name": "Funky Gourmet",
+      "coord": [
+        37.9831192,
+        23.715986899999997
+      ],
+      "desc": "Two Michelin stars, modern Greek, Athens",
+      "longDesc": "Two Michelin stars for innovative modern Greek cuisine in an intimate Athens setting with theatrical presentations and seasonal menus. Culinary art.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Funky%20Gourmet&center=37.9831192,23.715986899999997",
+      "placeId": "ChIJT2_TfCe9oRQRLfvCicFt7OE",
+      "address": "Παραμυθιάς 13 και, Salaminos, Athina 104 35, Greece"
+    },
+    {
+      "name": "Milos",
+      "coord": [
+        37.9772537,
+        23.7331247
+      ],
+      "desc": "One Michelin star, fresh fish, Athenian",
+      "longDesc": "Michelin-starred fish restaurant in Athens celebrating Mediterranean seafood with classical Greek technique and precision. Pure piscine excellence.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Milos&center=37.9772537,23.7331247",
+      "placeId": "ChIJt3BCIUW9oRQRqGEY6WKPNAs",
+      "address": "3-5, Kolokotroni Street, Athina 105 62, Greece"
+    },
+    {
+      "name": "Papandreou",
+      "coord": [
+        37.9885204,
+        23.7303003
+      ],
+      "desc": "Traditional taverna, Plaka, home cooking",
+      "longDesc": "Beloved traditional taverna in Plaka serving authentic Greek home cooking with recipes spanning generations. Where locals and travelers alike feel at home.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Papandreou&center=37.9885204,23.7303003",
+      "placeId": "ChIJo0qJKzK9oRQRcIJiwM05zgo",
+      "address": "28is Oktovriou 49, Athina 104 33, Greece"
+    },
+    {
+      "name": "Taverna Nikolaides",
+      "coord": [
+        37.9872975,
+        23.753008599999998
+      ],
+      "desc": "Family-run taverna, Psyrri neighborhood, meze",
+      "longDesc": "Charming family-run taverna in Psyrri with an extensive meze selection, warm service, and genuine Greek hospitality. Neighborhood authentic.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taverna%20Nikolaides&center=37.9872975,23.753008599999998",
+      "placeId": "ChIJe84xwVK9oRQRiJTQH5E_NTs",
+      "address": "Panathinaikou 7, Athina 115 21, Greece"
+    },
+    {
+      "name": "Aleria",
+      "coord": [
+        37.9830778,
+        23.7177722
+      ],
+      "desc": "Wine bar with food, Gazi, natural wines",
+      "longDesc": "Contemporary wine bar in Gazi showcasing natural and organic wines paired with creative small plates. Modern Greek wine culture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aleria&center=37.9830778,23.7177722",
+      "placeId": "ChIJq_UsCSe9oRQR4zQ8hj4rxRs",
+      "address": "Meg. Alexandrou 57, Athina 104 35, Greece"
+    },
+    {
+      "name": "Karavitis",
+      "coord": [
+        37.9714703,
+        23.7437032
+      ],
+      "desc": "Seafood specialist, Syntagma, fish taverna",
+      "longDesc": "Traditional fish taverna in Syntagma with daily fresh catches, simple preparations, and exceptional seafood. Mediterranean simplicity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Karavitis&center=37.9714703,23.7437032",
+      "placeId": "ChIJjwoiwUG9oRQRDJRwVgquFs0",
+      "address": "Pafsaniou 4, Athina 116 35, Greece"
+    },
+    {
+      "name": "Diporto Agoras",
+      "coord": [
+        37.980747799999996,
+        23.7258382
+      ],
+      "desc": "Hidden gem, Central Market, no sign taverna",
+      "longDesc": "Hidden gem taverna tucked inside Central Market with no sign, no menu, just excellent grilled fish and meze. Pure market taverna authenticity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Diporto%20Agoras&center=37.980747799999996,23.7258382",
+      "placeId": "ChIJW25h6SS9oRQRajkTKiKmQVg",
+      "address": "Σωκράτους 9 και, Theatrou 10552, Athina 105 52, Greece"
+    },
+    {
+      "name": "Amalur",
+      "coord": [
+        38.0007826,
+        23.7366378
+      ],
+      "desc": "Basque cuisine, Michelin, Flisvos",
+      "longDesc": "Athens' Basque restaurant showcasing the culinary traditions of Northern Spain with precision technique and bold flavors. Spanish excellence in Greece.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Amalur&center=38.0007826,23.7366378",
+      "placeId": "ChIJgdm7amKjoRQRtmNc7Bo6TpU",
+      "address": "Fokionos Negri 30, Athina 113 61, Greece"
+    },
+    {
+      "name": "O Glentis",
+      "coord": [
+        37.9523189,
+        23.694910999999998
+      ],
+      "desc": "Mezetraki, Gazi, small plates, wine",
+      "longDesc": "Trendy mezetraki in Gazi serving creative small plates with natural wines and craft beers in a convivial atmosphere. Modern Greek meze culture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=O%20Glentis&center=37.9523189,23.694910999999998",
+      "placeId": "ChIJOeN94Fy8oRQROM7nseu5D4g",
+      "address": "Thiseos 214, Kallithea 176 75, Greece"
+    },
+    {
+      "name": "Oinomato",
+      "coord": [
+        37.972,
+        23.731
+      ],
+      "desc": "Organic wine bar, Plaka, biodynamic wines",
+      "longDesc": "Organic wine bar in Plaka specializing in biodynamic and natural wines from small producers paired with simple seasonal food. Wine connoisseur haven.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oinomato&center=37.972,23.731",
+      "placeId": "ChIJWw4DccrP5zsRZ51aiTuuVS4",
+      "address": "shop no 5, Sea Face, Chowpatty, Girgaon, Mumbai, Maharashtra 400007, India"
+    },
+    {
+      "name": "To Theyma tou Psyrri",
+      "coord": [
+        37.979089900000005,
+        23.7253963
+      ],
+      "desc": "Modern Greek, Psyrri, contemporary taverna",
+      "longDesc": "Contemporary taverna in Psyrri serving modern interpretations of Greek classics using seasonal ingredients and innovative technique. New-wave Greek cuisine.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=To%20Theyma%20tou%20Psyrri&center=37.979089900000005,23.7253963",
+      "placeId": "ChIJCWkYyii9oRQRlUFc5L9AJOE",
+      "address": "Ag. Dimitriou 19, Athina 105 54, Greece"
+    },
+    {
+      "name": "Dinner in the Sky Santorini",
+      "coord": [
+        36.394942300000004,
+        25.4389324
+      ],
+      "desc": "Suspended dining, caldera views, Santorini",
+      "longDesc": "Unique suspended dining experience above Santorini with gourmet cuisine and dramatic caldera views from the open-air platform. Theater meets gastronomy.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dinner%20in%20the%20Sky%20Santorini&center=36.394942300000004,25.4389324",
+      "placeId": "ChIJy63czzfPmRQRgEzO0gx0VJw",
+      "address": "Fira 847 00, Greece"
+    },
+    {
+      "name": "Oia Sunset Taverna",
+      "coord": [
+        36.46501,
+        25.37801
+      ],
+      "desc": "Sunset views, traditional food, Oia village",
+      "longDesc": "Traditional taverna in Oia with unforgettable caldera sunset views, homemade Greek dishes, and warm hospitality. Quintessential Santorini evening.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oia%20Sunset%20Taverna&center=36.46501,25.37801"
+    },
+    {
+      "name": "Cavo Bianco",
+      "coord": [
+        36.372744,
+        25.4793186
+      ],
+      "desc": "Mediterranean cuisine, Fira cliffside",
+      "longDesc": "Elegant Mediterranean restaurant on Fira's cliffside with creative cuisine, curated wines, and sunrise/sunset views. Epicurean island sanctuary.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cavo%20Bianco&center=36.372744,25.4793186",
+      "placeId": "ChIJO5QTYNnRmRQRVLrAc1CnDIE",
+      "address": "Kamari, Thira 847 00, Greece"
+    },
+    {
+      "name": "Petros Taverna Paros",
+      "coord": [
+        37.0855799,
+        25.14817
+      ],
+      "desc": "Family taverna, Paros, authentic Greek",
+      "longDesc": "Family-run taverna on Paros serving authentic Greek cooking with daily specials, fresh fish, and island warmth. Generational Parian hospitality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Petros%20Taverna%20Paros&center=37.0855799,25.14817",
+      "placeId": "ChIJdxPpPwRxmBQR8LT5kqlMAd4",
+      "address": "Paros 844 00, Greece"
+    },
+    {
+      "name": "Naxos Town Taverna",
+      "coord": [
+        37.1036475,
+        25.375810899999998
+      ],
+      "desc": "Traditional meze, Naxos, local favorite",
+      "longDesc": "Traditional meze restaurant in Naxos Town featuring local cheese, fresh vegetables, and simple island cooking. Where locals dine.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Naxos%20Town%20Taverna&center=37.1036475,25.375810899999998",
+      "placeId": "ChIJsbJof9YLmBQR8Vu3RuMrwX0",
+      "address": "Sarris Tavern 8, Naxos 843 00, Greece"
+    },
+    {
+      "name": "Rethymno Waterfront",
+      "coord": [
+        35.3712928,
+        24.476365899999998
+      ],
+      "desc": "Cretan cuisine, Rethymnon harbor, sea views",
+      "longDesc": "Waterfront restaurant in Rethymnon serving authentic Cretan dishes with fresh fish daily and harbor views. Island cooking authenticity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rethymno%20Waterfront&center=35.3712928,24.476365899999998",
+      "placeId": "ChIJS7k5eKB1mxQR51M4jPeIAAE",
+      "address": "Leof. Emmanouil Kefalogianni 16, Rethymno 741 31, Greece"
+    },
+    {
+      "name": "Elounda Dining",
+      "coord": [
+        35.2625421,
+        25.7214554
+      ],
+      "desc": "Fine dining, Elounda, upscale Cretan",
+      "longDesc": "Upscale Cretan restaurant in Elounda with refined techniques applied to local ingredients and sea views. Cretan elegance.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Elounda%20Dining&center=35.2625421,25.7214554",
+      "placeId": "ChIJc-muypmDkBQR9Z85yVnyqUg",
+      "address": "ΑΚΤΗ ΒΡΥΤΟΜΑΡΤΙΔΟΣ 3, Schisma Elountas 720 53, Greece"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Acropolis & Parthenon",
+      "coord": [
+        37.9715285,
+        23.7267166
+      ],
+      "desc": "Crown of Western civilization, book private family tour",
+      "longDesc": "The crown jewel of Western civilization—the temple of Athena Parthenos crowning Athens' sacred rock. Book a private family tour for context and fewer crowds.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Acropolis%20%26%20Parthenon&center=37.9715285,23.7267166",
+      "placeId": "ChIJYe45yhm9oRQRGKJ4uHmgPxs",
+      "address": "Athens 105 58, Greece"
+    },
+    {
+      "name": "Acropolis Museum",
+      "coord": [
+        37.968449899999996,
+        23.7285227
+      ],
+      "desc": "World-class, Parthenon Gallery, glass floor over excavations",
+      "longDesc": "World-class museum directly beneath the Parthenon with a glass floor revealing ongoing excavations and the stunning Parthenon Gallery. Family-friendly architecture.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Acropolis%20Museum&center=37.968449899999996,23.7285227",
+      "placeId": "ChIJ4eRGPxe9oRQRPAoBLGq0D7A",
+      "address": "Dionysiou Areopagitou 15, Athina 117 42, Greece"
+    },
+    {
+      "name": "Palace of Knossos",
+      "coord": [
+        35.297956899999996,
+        25.1627815
+      ],
+      "desc": "Minoan palace, King Minos featuring stunning Greek beauty and authentic experiences",
+      "longDesc": "Sprawling Minoan palace from 1700 BCE, the legendary home of King Minos and the mythological Labyrinth. Europe's oldest civilization makes Knossos an awe-inspiring journey.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Palace%20of%20Knossos&center=35.297956899999996,25.1627815",
+      "placeId": "ChIJNQ973BZZmhQRQz90AluejNg",
+      "address": "Knossos 714 09, Greece"
+    },
+    {
+      "name": "Delos Island",
+      "coord": [
+        37.3962623,
+        25.2689412
+      ],
+      "desc": "UNESCO, birthplace of Apollo, half-day from Mykonos",
+      "longDesc": "UNESCO World Heritage birthplace of Apollo with haunting ruins and a half-day boat journey from Mykonos. Mystical archaeology.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Delos%20Island&center=37.3962623,25.2689412",
+      "placeId": "ChIJ36vmITuWohQRC8DNvi8Urb0",
+      "address": "Delos, 846 00, Greece"
+    },
+    {
+      "name": "Medieval Old Town Rhodes",
+      "coord": [
+        36.4447001,
+        28.2275142
+      ],
+      "desc": "Largest inhabited medieval town in Europe, UNESCO",
+      "longDesc": "Europe's largest inhabited medieval town with Knights Hospitaller architecture and winding cobbled streets frozen in time. A living, walkable history book.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Medieval%20Old%20Town%20Rhodes&center=36.4447001,28.2275142",
+      "placeId": "ChIJEWPxPsJhlRQR_bpd3aiKclU",
+      "address": "Pl. Mouson 6, Rodos 851 00, Greece"
+    },
+    {
+      "name": "Temple of Poseidon, Sounion",
+      "coord": [
+        37.6502055,
+        24.024586700000004
+      ],
+      "desc": "Dramatic clifftop temple, spectacular sunset",
+      "longDesc": "Dramatic clifftop temple perched 210 meters above the Aegean, built to honor the sea god and framing the most spectacular Greek sunset. Classical majesty.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Temple%20of%20Poseidon%2C%20Sounion&center=37.6502055,24.024586700000004",
+      "placeId": "ChIJve8ybRvxoRQRBDrd_gYAUT0",
+      "address": "Sounion 195 00, Greece"
+    },
+    {
+      "name": "Meteora Monasteries",
+      "coord": [
+        39.7217044,
+        21.6305896
+      ],
+      "desc": "Surreal clifftop monasteries, UNESCO, 6 open to visitors",
+      "longDesc": "Surreal UNESCO monasteries balanced atop impossibly high rock pillars, six remain active and open to visitors. Otherworldly spirituality.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Meteora%20Monasteries&center=39.7217044,21.6305896",
+      "placeId": "ChIJOX8y6K4PWRMR_zK82NStJ3E",
+      "address": "Kalabaka 422 00, Greece"
+    },
+    {
+      "name": "Fira-Oia Hiking Trail",
+      "coord": [
+        36.4374251,
+        25.4226483
+      ],
+      "desc": "10km caldera-rim hike, breathtaking views, 3-4 hours",
+      "longDesc": "10-kilometer scenic caldera-rim hike connecting two Santorini villages with breathtaking cliff views of the volcanic crater. Three to four hours of pure Aegean beauty.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fira-Oia%20Hiking%20Trail&center=36.4374251,25.4226483",
+      "placeId": "ChIJzzVvedTNmRQRnMPcW_ega-M",
+      "address": "CCPF+X3, Fira 847 00, Greece"
+    },
+    {
+      "name": "Sunset Catamaran Cruise",
+      "coord": [
+        36.4207481,
+        25.432054599999997
+      ],
+      "desc": "Sail caldera, hot springs, snorkel, BBQ dinner onboard",
+      "longDesc": "Sail into Santorini's caldera, swim in natural hot springs, explore volcanic beaches, and feast on a BBQ dinner as the sun melts into the sea. Ultimate Santorini experience.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunset%20Catamaran%20Cruise&center=36.4207481,25.432054599999997",
+      "placeId": "ChIJdSDQ8tHNmRQRosSrX11OxI0",
+      "address": "25is Martiou, Thira 847 00, Greece"
+    },
+    {
+      "name": "Navagio Beach Viewpoint",
+      "coord": [
+        37.861817099999996,
+        20.6256395
+      ],
+      "desc": "Most photographed beach in Greece, Zakynthos",
+      "longDesc": "Most photographed beach in Greece features the iconic rusted shipwreck and turquoise cove on Zakynthos, accessible by boat or viewpoint hiking. Instagram-worthy authenticity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Navagio%20Beach%20Viewpoint&center=37.861817099999996,20.6256395",
+      "placeId": "ChIJ-R8YWPFrZxMRKq36aZRQlc4",
+      "address": "Elatia 290 91, Greece"
+    },
+    {
+      "name": "Sarakiniko Beach",
+      "coord": [
+        36.742697199999995,
+        24.458423
+      ],
+      "desc": "Lunar white rock, turquoise pools, Milos",
+      "longDesc": "Otherworldly lunar landscape of white weathered rock formations and crystalline turquoise pools on Milos island. Alien beauty.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarakiniko%20Beach&center=36.742697199999995,24.458423",
+      "placeId": "ChIJ0WiZqZngmBQRGpyewQ9Be10",
+      "address": "Milos 848 00, Greece"
+    },
+    {
+      "name": "Elafonissi Beach",
+      "coord": [
+        35.271180099999995,
+        23.541295899999998
+      ],
+      "desc": "Pink sand, shallow lagoon, perfect for toddlers, Crete",
+      "longDesc": "Unique pink-sand beach with protected shallow lagoon on Crete—sensory and safe for small children. Natural wonder.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Elafonissi%20Beach&center=35.271180099999995,23.541295899999998",
+      "placeId": "ChIJv3tWjpHnnBQRG1_wYpI-aCg",
+      "address": "Elafonissi Beach, Kissamos 730 01, Greece"
+    },
+    {
+      "name": "Balos Lagoon",
+      "coord": [
+        35.579267099999996,
+        23.588720499999997
+      ],
+      "desc": "Turquoise lagoon, shallow warm water, Crete",
+      "longDesc": "Turquoise paradise lagoon in northwest Crete with shallow, impossibly clear waters ideal for young swimmers and snorkelers. Picture-perfect.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Balos%20Lagoon&center=35.579267099999996,23.588720499999997",
+      "placeId": "ChIJx3qOxglYnBQRESdQAkSey-I",
+      "address": "Balos Beach, Greece"
+    },
+    {
+      "name": "Santo Wines Winery",
+      "coord": [
+        36.387564,
+        25.436746
+      ],
+      "desc": "Famous Assyrtiko wines, caldera sunset views",
+      "longDesc": "Wine shop with tasting bar on Santorini featuring local Assyrtiko and volcanic wine selections overlooking the caldera. Shop with a view.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Santo%20Wines%20Winery&center=36.387564,25.436746",
+      "placeId": "ChIJFbhZ3F7OmRQReOlBpwauSzg",
+      "address": "Pyrgos Kallistis 847 00, Greece"
+    },
+    {
+      "name": "Venetsanos Winery",
+      "coord": [
+        36.3823401,
+        25.431520300000003
+      ],
+      "desc": "Restored 1947 winery, cliffside tasting terrace",
+      "longDesc": "Restored 1947 winery carved into a clifftside with a tasting terrace overlooking the caldera—wine, history, and vistas combined. Atmospheric excellence.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Venetsanos%20Winery&center=36.3823401,25.431520300000003",
+      "placeId": "ChIJTy6LeFnOmRQRkX31v9sqMWo",
+      "address": "Caldera Megalochori, Santorini Island 847 00, Greece"
+    },
+    {
+      "name": "Akrotiri Archaeological Site",
+      "coord": [
+        36.3517952,
+        25.403447
+      ],
+      "desc": "Minoan city under volcanic ash, like Pompeii",
+      "longDesc": "Preserved Minoan city frozen under volcanic ash like Pompeii, with intact streets, artifacts, and buildings from 1600 BCE. Time capsule excavation.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Akrotiri%20Archaeological%20Site&center=36.3517952,25.403447",
+      "placeId": "ChIJ5xoba2rPmRQR-8qpNnWSnRM",
+      "address": "Fira 847 00, Greece"
+    },
+    {
+      "name": "Spinalonga Island",
+      "coord": [
+        35.2972222,
+        25.738333299999997
+      ],
+      "desc": "Venetian fortress, former leper colony, boat trip",
+      "longDesc": "Venetian fortress turned haunting leper colony island, accessible by boat from Crete with layered history and island views. Poignant and powerful.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Spinalonga%20Island&center=35.2972222,25.738333299999997",
+      "placeId": "ChIJmYY3k76ckBQR7-E-7d5-7u8",
+      "address": "Nisida Spinalonga, Agios Nikolaos, Greece"
+    },
+    {
+      "name": "Hydra Island Day Trip",
+      "coord": [
+        37.349870599999996,
+        23.465345499999998
+      ],
+      "desc": "Car-free island, donkey rides, 90 min from Piraeus",
+      "longDesc": "Car-free island with donkey rides, harbor-side tavernas, and 90 minutes by ferry from Piraeus—bohemian Mediterranean escape. Slow-paced perfection.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hydra%20Island%20Day%20Trip&center=37.349870599999996,23.465345499999998",
+      "placeId": "ChIJv1i9nnF3nxQROWXtlID1Voo",
+      "address": "Kolpos Idras, Idra 180 40, Greece"
+    },
+    {
+      "name": "Symi Island Day Trip",
+      "coord": [
+        36.615613,
+        27.836346
+      ],
+      "desc": "Colorful harbor, sponge shops, from Rhodes",
+      "longDesc": "Colorful harbor village with photogenic houses climbing the hillside and traditional sponge shops, easily visited from Rhodes. Postcard-pretty.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Symi%20Island%20Day%20Trip&center=36.615613,27.836346",
+      "placeId": "ChIJbX2mbt4rvhQRvcUaSy21aaM",
+      "address": "Γυαλός, Simi 856 00, Greece"
+    },
+    {
+      "name": "CookInAthens Class",
+      "coord": [
+        37.9803704,
+        23.722988899999997
+      ],
+      "desc": "5-course cooking, market visit, wine pairings",
+      "longDesc": "Five-course hands-on cooking class including market tour, wine pairings, and take-home recipes with English-speaking instructors. Culinary education and adventure.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=CookInAthens%20Class&center=37.9803704,23.722988899999997",
+      "placeId": "ChIJg5s2N_e9oRQRQ0z1NpN3SzI",
+      "address": "Evripidou 90, Athina 105 53, Greece"
+    },
+    {
+      "name": "Athens Food Tour",
+      "coord": [
+        37.9794102,
+        23.7267002
+      ],
+      "desc": "Central Market, tastings at 8-10 stops, guided",
+      "longDesc": "Guided tour of the Central Market with tastings at 8-10 food stops, family-friendly and conducted by passionate food historians. Gastronomic discovery.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20Food%20Tour&center=37.9794102,23.7267002",
+      "placeId": "ChIJCxFEbDCjoRQRi49DiGSAYKs",
+      "address": "Athinas 41, Athina 105 54, Greece"
+    },
+    {
+      "name": "Turtle Spotting",
+      "coord": [
+        37.7163785,
+        20.991125999999998
+      ],
+      "desc": "Loggerhead sea turtles, Laganas Bay, Zakynthos",
+      "longDesc": "Loggerhead sea turtles nesting and hatchling season (June-September) in Laganas Bay, Zakynthos—evening boat tours for ethical wildlife encounters. Conservation and magic.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Turtle%20Spotting&center=37.7163785,20.991125999999998",
+      "placeId": "ChIJ7YzK_843ZxMRJfvBKhQmmmA",
+      "address": "Zakynthos 291 00, Greece"
+    },
+    {
+      "name": "Olive Oil Farm Tour",
+      "coord": [
+        37.8810791,
+        22.772871199999997
+      ],
+      "desc": "Press visits, tastings, near Athens",
+      "longDesc": "Guided tour of Greek olive oil farms with press demonstrations, tasting sessions, and history of production. Liquid gold education.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Olive%20Oil%20Farm%20Tour&center=37.8810791,22.772871199999997",
+      "placeId": "ChIJFdfmjm8PoBQRCu4yJ0PA5tw",
+      "address": "Kalentzi 200 01, Greece"
+    },
+    {
+      "name": "Samaria Gorge Trek",
+      "coord": [
+        35.291558900000005,
+        23.959343699999998
+      ],
+      "desc": "Most famous gorge hike, Crete, 16km",
+      "longDesc": "Greece's most famous gorge trek at 16 kilometers with dramatic cliff walls, mountain streams, and stunning coastal arrival. Alpine to sea adventure.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Samaria%20Gorge%20Trek&center=35.291558900000005,23.959343699999998",
+      "placeId": "ChIJ-zbCXnmanBQRXFFHLk9zfxs",
+      "address": "Sfakia 730 11, Greece"
+    },
+    {
+      "name": "Delphi Archaeological Site",
+      "coord": [
+        38.4800928,
+        22.4995954
+      ],
+      "desc": "Ancient sanctuary, Oracle, mountain setting",
+      "longDesc": "Dramatically perched ancient sanctuary of Apollo with the famous Oracle's temple and stunning mountain views. Classical mystery and beauty.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Delphi%20Archaeological%20Site&center=38.4800928,22.4995954",
+      "placeId": "ChIJM-VvqXp5XxMRfkUS-0S-AGs",
+      "address": "Delphi 330 54, Greece"
+    },
+    {
+      "name": "National Archaeological Museum",
+      "coord": [
+        37.989022899999995,
+        23.732759899999998
+      ],
+      "desc": "Greece's premier museum, vast antiquities",
+      "longDesc": "Greece's premier museum housing vast collections of ancient sculpture, pottery, and artifacts spanning millennia. Comprehensive classical education.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Archaeological%20Museum&center=37.989022899999995,23.732759899999998",
+      "placeId": "ChIJi_3FvzO9oRQRtILLqjSdogI",
+      "address": "28is Oktovriou 44, Athina 106 82, Greece"
+    },
+    {
+      "name": "Benaki Museum",
+      "coord": [
+        37.975952,
+        23.740446000000002
+      ],
+      "desc": "Greek culture through ages, art design",
+      "longDesc": "Museum showcasing Greek culture from ancient to modern times with art, design, and historical perspectives. Cultural completeness.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Benaki%20Museum&center=37.975952,23.740446000000002",
+      "placeId": "ChIJdV48s0C9oRQRcDJK4TBpks8",
+      "address": "Koumpari 1, Athina 106 74, Greece"
+    },
+    {
+      "name": "Cyclades Art Studios",
+      "coord": [
+        36.9956202,
+        25.138808599999997
+      ],
+      "desc": "Artist studios, Naxos, traditional crafts",
+      "longDesc": "Working artist studios on Naxos featuring traditional crafts, sculpture, pottery, and painting with artist interactions. Creative inspiration.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cyclades%20Art%20Studios&center=36.9956202,25.138808599999997",
+      "placeId": "ChIJe3pVSblvmBQRpfQuwa58g7s",
+      "address": "Aliki 844 00, Greece"
+    },
+    {
+      "name": "Windmills of Mykonos",
+      "coord": [
+        37.444582499999996,
+        25.3259318
+      ],
+      "desc": "Historic iconic windmills, photo spot",
+      "longDesc": "Row of historic whitewashed windmills on Mykonos' hilltop, beautifully restored and iconic Mediterranean symbol. Postcard-perfect photography.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Windmills%20of%20Mykonos&center=37.444582499999996,25.3259318",
+      "placeId": "ChIJBye6dBW_ohQRjkT0ucLhnpc",
+      "address": "Mpaoumi, Mikonos 846 00, Greece"
+    },
+    {
+      "name": "Rethymnon Old Town",
+      "coord": [
+        35.3695613,
+        24.472755000000003
+      ],
+      "desc": "Venetian fortress, old harbor, traditional streets",
+      "longDesc": "Charming Venetian old town with fortress, traditional architecture, waterfront tavernas, and narrow winding streets. Medieval island charm.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rethymnon%20Old%20Town&center=35.3695613,24.472755000000003",
+      "placeId": "ChIJTYcB2qB1mxQRW_O5tOpTFt4",
+      "address": "Old Town, Rethimno 741 31, Greece"
+    },
+    {
+      "name": "Paros Marble Quarries",
+      "coord": [
+        37.0825575,
+        25.2003402
+      ],
+      "desc": "Historic marble, artisan workshops, tours",
+      "longDesc": "Historic marble quarries that supplied ancient Greece with pure white Parian marble, now home to artisan stone workshops. Stone heritage.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Paros%20Marble%20Quarries&center=37.0825575,25.2003402",
+      "placeId": "ChIJXdHwx8VzmBQRYSiv5tfOTwY",
+      "address": "Epar.Od. Parikias-Marpissas, Paros 844 00, Greece"
+    },
+    {
+      "name": "Ionian Islands Ferry Tour",
+      "coord": [
+        39.625637999999995,
+        19.9099112
+      ],
+      "desc": "Corfu, Zante, Kefalonia islands, multi-day",
+      "longDesc": "Island-hopping ferry journey through the Ionian Sea visiting Corfu, Zante, and Kefalonia with green mountains and Venetian architecture. Western island adventure.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ionian%20Islands%20Ferry%20Tour&center=39.625637999999995,19.9099112",
+      "placeId": "ChIJg6j2pNFdWxMRDy1z5HVDEos",
+      "address": "Eth. Antistaseos 4, Kerkira 491 00, Greece"
+    },
+    {
+      "name": "Sailing School Lessons",
+      "coord": [
+        37.7444802,
+        23.4308653
+      ],
+      "desc": "Learn sailing, Athenian Riviera, professional",
+      "longDesc": "Professional sailing lessons on the Athenian Riviera with experienced instructors, small classes, and beautiful coastal views. Maritime skill-building.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sailing%20School%20Lessons&center=37.7444802,23.4308653",
+      "placeId": "ChIJFRkRCnjNoRQRBXGfb7rbwuQ",
+      "address": "15 Mart, Leontiou, Egina 180 10, Greece"
+    },
+    {
+      "name": "Scuba Diving Santorini",
+      "coord": [
+        36.3459953,
+        25.460862499999998
+      ],
+      "desc": "Dive sites, underwater archaeology, PADI",
+      "longDesc": "PADI-certified scuba diving in Santorini with underwater archaeological sites, volcanic formations, and Mediterranean marine life. Underwater discovery.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Scuba%20Diving%20Santorini&center=36.3459953,25.460862499999998",
+      "placeId": "ChIJ8W4Shv3PmRQRP9LRb3bGPQ0",
+      "address": "Perivolos, Santorini 847 03, Greece"
+    },
+    {
+      "name": "Paragliding Mykonos",
+      "coord": [
+        37.422843,
+        25.3894003
+      ],
+      "desc": "Coastal tandem flights, Aegean views",
+      "longDesc": "Tandem paragliding flights launching from Mykonos' hills with breathtaking Aegean views, professional pilots, and unforgettable perspectives. Flight freedom.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Paragliding%20Mykonos&center=37.422843,25.3894003",
+      "placeId": "ChIJT636Qxq5ohQRrhGE6Msl0Y0",
+      "address": "Elia beach Mykonos island, Mikonos 846 00, Greece"
+    },
+    {
+      "name": "Island Foraging Tour",
+      "coord": [
+        37.008,
+        25.354
+      ],
+      "desc": "Learn wild herbs, Naxos, culinary use",
+      "longDesc": "Guided foraging tour on Naxos learning to identify wild herbs and plants used in traditional Greek cuisine and medicine. Botanical culinary adventure.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Island%20Foraging%20Tour&center=37.008,25.354"
+    },
+    {
+      "name": "Byzantine Museum Athens",
+      "coord": [
+        37.9753134,
+        23.7446275
+      ],
+      "desc": "Byzantine art, mosaics, religious artifacts",
+      "longDesc": "Museum dedicated to Byzantine art with mosaics, icons, and religious artifacts spanning the empire's history. Spiritual historical collection.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Byzantine%20Museum%20Athens&center=37.9753134,23.7446275",
+      "placeId": "ChIJES0SOUG9oRQRPJMyejC41c8",
+      "address": "Leof. Vasilissis Sofias 22, Athina 106 75, Greece"
+    },
+    {
+      "name": "War Museum Athens",
+      "coord": [
+        37.9754601,
+        23.7455538
+      ],
+      "desc": "Military history, Greece independence",
+      "longDesc": "Museum tracing Greek military history from ancient times through modern conflicts with weapons, uniforms, and historical documents. Historical perspective.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=War%20Museum%20Athens&center=37.9754601,23.7455538",
+      "placeId": "ChIJLZBWAkS9oRQRIwHyd0_ypDg",
+      "address": "Rizari 2-4, Athina 106 75, Greece"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Cretaquarium",
+      "coord": [
+        35.332359,
+        25.2824566
+      ],
+      "desc": "2,000+ marine creatures, touch-pools, Heraklion",
+      "longDesc": "Over 2,000 marine creatures from the Mediterranean and beyond in touch-pools and interactive exhibits, perfectly scaled for young explorers in Heraklion. Wet and spectacular.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cretaquarium&center=35.332359,25.2824566",
+      "placeId": "ChIJuZbjvIddmhQRD3FAFu3aMWw",
+      "address": "Heraklion 710 03, Greece"
+    },
+    {
+      "name": "Attica Zoological Park",
+      "coord": [
+        37.9804384,
+        23.9108061
+      ],
+      "desc": "290+ species, petting zoo, dolphin shows, Athens",
+      "longDesc": "290+ animal species including petting zoo, dolphin shows, and exotic creatures on a sprawling grounds in Athens. All-day family entertainment.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Attica%20Zoological%20Park&center=37.9804384,23.9108061",
+      "placeId": "ChIJ3fMLn_aaoRQRYw5jA5ltkMA",
+      "address": "Spata 190 04, Greece"
+    },
+    {
+      "name": "Allou! Fun Park",
+      "coord": [
+        37.973399,
+        23.672836999999998
+      ],
+      "desc": "Theme park + Kidom for young kids, Athens",
+      "longDesc": "Amusement park with rides for all ages plus Kidom interactive play area specifically designed for young children in central Athens. Classic fun.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Allou%21%20Fun%20Park&center=37.973399,23.672836999999998",
+      "placeId": "ChIJkyqJcoO8oRQRdr8uEymL2Gs",
+      "address": "Λεωφ. Κηφισού, Petrou Ralli και, Ag. Ioannis Rentis 182 33, Greece"
+    },
+    {
+      "name": "Faliraki Water Park",
+      "coord": [
+        36.3656776,
+        28.217918400000002
+      ],
+      "desc": "Europe's largest water park, Rhodes, slides",
+      "longDesc": "Europe's largest water park on Rhodes with slides, lazy river, and family-friendly pools for every swimming ability. Splashy paradise.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Faliraki%20Water%20Park&center=36.3656776,28.217918400000002",
+      "placeId": "ChIJqVU07CpnlRQRCCh3hdapJP4",
+      "address": "Leof. Kallitheas 2, Faliraki 851 00, Greece"
+    },
+    {
+      "name": "Water City",
+      "coord": [
+        35.3105903,
+        25.2515
+      ],
+      "desc": "Multiple slides, toddler splash, Crete",
+      "longDesc": "Crete water park with multiple slides, splash zones, and dedicated toddler areas for safe summer cooling-off. Smaller and more manageable than megaparks.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Water%20City&center=35.3105903,25.2515",
+      "placeId": "ChIJPeemANldmhQRO4DlpghjrVI",
+      "address": "Anopolis, Ηράκλειο 700 08, Greece"
+    },
+    {
+      "name": "Hellenic Children",
+      "coord": [
+        37.9734322,
+        23.7442271
+      ],
+      "desc": "Interactive exhibits for 2-12, Plaka, Athens",
+      "longDesc": "Interactive museum for ages 2-12 in Plaka, Athens with hands-on exhibits exploring nature, science, and culture. Learning disguised as play.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hellenic%20Children&center=37.9734322,23.7442271",
+      "placeId": "ChIJV3-IVUC9oRQRfnqlPJZxY5o",
+      "address": "Vasileos Georgiou B 19, Athina 106 75, Greece"
+    },
+    {
+      "name": "National Garden",
+      "coord": [
+        37.9725878,
+        23.737433
+      ],
+      "desc": "Duck ponds, mini zoo, playground, shaded, Athens",
+      "longDesc": "Botanical oasis in downtown Athens with duck ponds, mini zoo, playground, and shaded walkways—perfect for young kids needing green space. Urban escape.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Garden&center=37.9725878,23.737433",
+      "placeId": "ChIJDSQ1vT-9oRQRnAtzDrZWPIw",
+      "address": "Athens 105 57, Greece"
+    },
+    {
+      "name": "Flisvos Marina Playground",
+      "coord": [
+        37.926758899999996,
+        23.6891212
+      ],
+      "desc": "Modern playground, trampolines, seaside, Athens",
+      "longDesc": "Modern waterfront playground with trampolines, slides, and seaside location in Athens—a contemporary facilities favorite. Aegean backyard.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Flisvos%20Marina%20Playground&center=37.926758899999996,23.6891212",
+      "placeId": "ChIJYQMHKx-8oRQRu39Ib8zKUD8",
+      "address": "Palaio Faliro 175 61, Greece"
+    },
+    {
+      "name": "Agios Georgios Beach",
+      "coord": [
+        37.0992715,
+        25.3748659
+      ],
+      "desc": "Best toddler beach, calm shallow water, Naxos",
+      "longDesc": "Best toddler beach on Naxos with calm, shallow water and soft sand—a rarity in Greece. Safety and sunshine.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Agios%20Georgios%20Beach&center=37.0992715,25.3748659",
+      "placeId": "ChIJobq0ZNcLmBQRcVqZKL4s2Yw",
+      "address": "Agios Georgios Beach, Naxos, Greece"
+    },
+    {
+      "name": "Golden Beach",
+      "coord": [
+        40.7216872,
+        24.7576276
+      ],
+      "desc": "Long sandy, shallow, windsurfing for adults, Paros",
+      "longDesc": "Long sandy shallow beach on Paros suitable for young swimmers with windsurfing for adults on the side. Community-oriented.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden%20Beach&center=40.7216872,24.7576276",
+      "placeId": "ChIJ6wNYJJLzrhQRCT22FWo9r7I",
+      "address": "Golden beach, Thasos 640 04, Greece"
+    },
+    {
+      "name": "Elafonissi Beach",
+      "coord": [
+        35.271180099999995,
+        23.541295899999998
+      ],
+      "desc": "Pink sand, shallow lagoon, nature reserve, Crete",
+      "longDesc": "Unique pink-sand beach with protected shallow lagoon on Crete—sensory and safe for small children. Natural wonder.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Elafonissi%20Beach&center=35.271180099999995,23.541295899999998",
+      "placeId": "ChIJv3tWjpHnnBQRG1_wYpI-aCg",
+      "address": "Elafonissi Beach, Kissamos 730 01, Greece"
+    },
+    {
+      "name": "St. Paul Beach",
+      "coord": [
+        36.0871048,
+        28.088309
+      ],
+      "desc": "Sheltered cove, clear water, Lindos, Rhodes",
+      "longDesc": "Sheltered cove beach near Lindos, Rhodes with calm clear waters protected from waves—a peaceful family swimming spot. Hidden gem.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Paul%20Beach&center=36.0871048,28.088309",
+      "placeId": "ChIJEceQNnMOlRQRR906nK1LEkk",
+      "address": "St Paul's Bay, Greece"
+    },
+    {
+      "name": "Perissa Beach",
+      "coord": [
+        36.3537182,
+        25.4736829
+      ],
+      "desc": "Black volcanic sand, organized, Santorini",
+      "longDesc": "Black volcanic sand beach on Santorini with organized facilities, calm sections, and unique lunar landscape. Safe and otherworldly.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Perissa%20Beach&center=36.3537182,25.4736829",
+      "placeId": "ChIJDdDsHirQmRQRftdd2uUTclQ",
+      "address": "Paralia Perissa, Greece"
+    },
+    {
+      "name": "Caretta Turtle Beach",
+      "coord": [
+        36.776942399999996,
+        28.6315771
+      ],
+      "desc": "Turtle nesting, protected, Zakynthos",
+      "longDesc": "Protected turtle nesting beach on Zakynthos with dedicated facilities, educational programs, and evening hatchling releases June-September. Conservation magic.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Caretta%20Turtle%20Beach&center=36.776942399999996,28.6315771",
+      "placeId": "ChIJPacI2uCIvxQR_IY3XLyRIgk",
+      "address": "Gökbel, 48600 Ortaca/Muğla, Türkiye"
+    },
+    {
+      "name": "Aqua Plus Water Park",
+      "coord": [
+        35.288364,
+        25.365944
+      ],
+      "desc": "All-ages water park, Crete, family-friendly",
+      "longDesc": "Family-friendly water park in Crete with age-appropriate slides, splash pools, and dedicated toddler areas. Safe water fun.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aqua%20Plus%20Water%20Park&center=35.288364,25.365944",
+      "placeId": "ChIJyecKn1JhmhQRG-ThlRB320Y",
+      "address": "Kastelli Road, Chersonisos 712 00, Greece"
+    },
+    {
+      "name": "Byzantine & Christian Museum",
+      "coord": [
+        37.9753134,
+        23.7446275
+      ],
+      "desc": "Ancient artifacts, hands-on activities, kids",
+      "longDesc": "Museum with hands-on activities and interactive exhibits designed for children exploring ancient and Byzantine artifacts. Educational engagement.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Byzantine%20%26%20Christian%20Museum&center=37.9753134,23.7446275",
+      "placeId": "ChIJES0SOUG9oRQRPJMyejC41c8",
+      "address": "Leof. Vasilissis Sofias 22, Athina 106 75, Greece"
+    },
+    {
+      "name": "Crete Aquarium Show",
+      "coord": [
+        35.332359,
+        25.2824566
+      ],
+      "desc": "Interactive marine shows, feeding times, kids",
+      "longDesc": "Interactive marine animal shows with scheduled feeding times and educational presentations perfect for children. Aquatic learning.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Crete%20Aquarium%20Show&center=35.332359,25.2824566",
+      "placeId": "ChIJuZbjvIddmhQRD3FAFu3aMWw",
+      "address": "Heraklion 710 03, Greece"
+    },
+    {
+      "name": "Mykonos Windmill Slide",
+      "coord": [
+        37.444582499999996,
+        25.3259318
+      ],
+      "desc": "Historic windmill, playground adjacent, photo",
+      "longDesc": "Historic windmill area with adjacent playground equipment, great for kids after sightseeing and amazing for family photos. Photo fun.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mykonos%20Windmill%20Slide&center=37.444582499999996,25.3259318",
+      "placeId": "ChIJBye6dBW_ohQRjkT0ucLhnpc",
+      "address": "Mpaoumi, Mikonos 846 00, Greece"
+    },
+    {
+      "name": "Pefkos Beach Mykonos",
+      "coord": [
+        36.075293900000005,
+        28.0561291
+      ],
+      "desc": "Family beach, calm water, tavernas, Mykonos",
+      "longDesc": "Family-friendly beach on Mykonos with calm water, beachfront tavernas, and shade facilities—ideal for relaxed family beach days. Beach comfort.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pefkos%20Beach%20Mykonos&center=36.075293900000005,28.0561291",
+      "placeId": "ChIJWVC6pPEOlRQRvUwZ7pt2wAY",
+      "address": "Pefkos, Ρόδος 851 07, Greece"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Varvakios Central Market",
+      "coord": [
+        37.980428599999996,
+        23.7276638
+      ],
+      "desc": "Europe's most vibrant food market, Athens",
+      "longDesc": "Europe's most vibrant food market in downtown Athens with butchers, fishmongers, produce vendors, and aromatic spice stalls. Sensory overload in the best way.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Varvakios%20Central%20Market&center=37.980428599999996,23.7276638",
+      "placeId": "ChIJmxTsUSO9oRQRLUSSm2pGMTA",
+      "address": "Νο68 Βαρβακειος Αγορα, Athina 105 51, Greece"
+    },
+    {
+      "name": "Monastiraki Flea Market",
+      "coord": [
+        37.9762516,
+        23.7256143
+      ],
+      "desc": "Antiques, vintage, crafts, Sunday expansion",
+      "longDesc": "Antiques, vintage clothing, handcrafts, and souvenirs fill winding alleys with Sunday expansion for maximum browsing. Treasures hiding in chaos.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Monastiraki%20Flea%20Market&center=37.9762516,23.7256143",
+      "placeId": "ChIJsQ6HWCK9oRQR7QU0v_vbZho",
+      "address": "Ifestou, Athina 105 55, Greece"
+    },
+    {
+      "name": "Chania Central Market",
+      "coord": [
+        35.514110099999996,
+        24.0203575
+      ],
+      "desc": "Cross-shaped hall built 1913, Cretan products",
+      "longDesc": "Beautiful cross-shaped 1913 stone hall filled with Cretan products—cheeses, olive oil, herbs, and local crafts. Architectural charm meets gastronomy.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chania%20Central%20Market&center=35.514110099999996,24.0203575",
+      "placeId": "ChIJC6z_aL59nBQRrdho7zuqg8M",
+      "address": "Chania 731 32, Greece"
+    },
+    {
+      "name": "Naxos Old Market",
+      "coord": [
+        37.106588099999996,
+        25.3752593
+      ],
+      "desc": "Graviera cheese, kitron liqueur, honey, spoon sweets",
+      "longDesc": "Charming village market specializing in local Graviera cheese, kitron liqueur, island honey, and traditional spoon sweets. Sweet discovery.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Naxos%20Old%20Market&center=37.106588099999996,25.3752593",
+      "placeId": "ChIJO3e8XOILmBQRDbEdsnvRIVw",
+      "address": "Naxos and Lesser Cyclades 843 00, Greece"
+    },
+    {
+      "name": "Heraklion Market Street",
+      "coord": [
+        35.3384076,
+        25.1331402
+      ],
+      "desc": "1866 Street, herbs, cheese, leather, souvenirs",
+      "longDesc": "1866 Street in Crete packed with herb vendors, cheese shops, leather goods, and local crafts from Cretan producers. Authentic commerce.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Heraklion%20Market%20Street&center=35.3384076,25.1331402",
+      "placeId": "ChIJrxOYYwJbmhQRvGPXT1maOjk",
+      "address": "1866 9, Iraklio 712 01, Greece"
+    },
+    {
+      "name": "Syntagma Produce Market",
+      "coord": [
+        37.9746585,
+        23.732798900000002
+      ],
+      "desc": "Fresh produce, fruit, vegetables daily",
+      "longDesc": "Daily produce market near Syntagma Square with fresh Greek fruits, vegetables, and seasonal specialties from local farmers. Farm-fresh shopping.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Syntagma%20Produce%20Market&center=37.9746585,23.732798900000002",
+      "placeId": "ChIJPXwo0D29oRQRVpEroHuuMPY",
+      "address": "Apollonos 5, Athina 105 57, Greece"
+    },
+    {
+      "name": "Rethymnon Food Market",
+      "coord": [
+        35.365840899999995,
+        24.474227900000002
+      ],
+      "desc": "Cretan cheese, herbs, honey, local products",
+      "longDesc": "Traditional market in Rethymnon's old town featuring Cretan cheeses, dried herbs, island honey, and local specialties. Cretan authenticity.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rethymnon%20Food%20Market&center=35.365840899999995,24.474227900000002",
+      "placeId": "ChIJUUV-luV1mxQRN4adTuxXnrU",
+      "address": "Dimitrakaki 2, Rethymno 741 32, Greece"
+    },
+    {
+      "name": "Mykonos Fish Market",
+      "coord": [
+        37.425114,
+        25.322905
+      ],
+      "desc": "Daily fresh fish catch, seafood specialists",
+      "longDesc": "Daily fish market in Mykonos with fresh catches from the night's fishing boats and specialist seafood vendors. Marine bounty.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mykonos%20Fish%20Market&center=37.425114,25.322905",
+      "placeId": "ChIJ5egsXVy-ohQRKjO4Vz0HOVc",
+      "address": "Ornos 846 00, Greece"
+    },
+    {
+      "name": "Santorini Wine Market",
+      "coord": [
+        36.418868599999996,
+        25.430821599999998
+      ],
+      "desc": "Local wines, volcanic productions, tastings",
+      "longDesc": "Market dedicated to Santorini's volcanic wines with tastings from local producers and educational displays about the unique terroir. Wine culture hub.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Santorini%20Wine%20Market&center=36.418868599999996,25.430821599999998",
+      "placeId": "ChIJVYwLJBzNmRQRDMWvgwOA3uU",
+      "address": "Agiou Mina, Thira 847 00, Greece"
+    },
+    {
+      "name": "Paros Artisan Market",
+      "coord": [
+        37.084733,
+        25.150106599999997
+      ],
+      "desc": "Local artists, crafts, handmade goods",
+      "longDesc": "Market featuring local Parian artisans, handmade crafts, marble sculptures, and unique island products. Creative commerce.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Paros%20Artisan%20Market&center=37.084733,25.150106599999997",
+      "placeId": "ChIJu3vNoHdxmBQRgBHns3Zg7W0",
+      "address": "market street, Παροικιά 844 00, Greece"
+    },
+    {
+      "name": "Rhodes Old Town Market",
+      "coord": [
+        36.4291164,
+        28.230316
+      ],
+      "desc": "Medieval souvenirs, local crafts, spices",
+      "longDesc": "Winding market lanes in Rhodes' medieval old town with traditional crafts, spices, textiles, and authentic local souvenirs. Historic shopping.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rhodes%20Old%20Town%20Market&center=36.4291164,28.230316",
+      "placeId": "ChIJ41oZ1JdhlRQRPKSa8LRvCAw",
+      "address": "Rhodes 851 00, Greece"
+    },
+    {
+      "name": "Crete Honey & Herbs Market",
+      "coord": [
+        35.3372355,
+        25.131751899999998
+      ],
+      "desc": "Island honey, herbs, natural products",
+      "longDesc": "Specialty market in Crete dedicated to island honey, dried herbs, natural oils, and traditional Cretan remedies. Pure natural products.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Crete%20Honey%20%26%20Herbs%20Market&center=35.3372355,25.131751899999998",
+      "placeId": "ChIJ06fH-ihamhQRR_TTSz1JwT4",
+      "address": "Karterou 35, Iraklio 712 01, Greece"
+    },
+    {
+      "name": "Athens Olive Oil Market",
+      "coord": [
+        37.9788794,
+        23.742796199999997
+      ],
+      "desc": "Greek olive oils, tastings, varieties",
+      "longDesc": "Specialty market showcasing Greek olive oils from different regions with tastings and expert guidance on quality and flavor profiles. Liquid gold selection.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20Olive%20Oil%20Market&center=37.9788794,23.742796199999997",
+      "placeId": "ChIJ6cVaFeW9oRQRuCPOyjBAyW8",
+      "address": "Maison d' Olive, Xanthippou 7-9, Athina 106 75, Greece"
+    },
+    {
+      "name": "Psyrri Antique Market",
+      "coord": [
+        37.9767959,
+        23.723744300000003
+      ],
+      "desc": "Antiques, vintage finds, local artisans",
+      "longDesc": "Trendy neighborhood antique market with vintage finds, local artisan products, and eclectic treasures in the hip Psyrri district. Curated collectibles.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Psyrri%20Antique%20Market&center=37.9767959,23.723744300000003",
+      "placeId": "ChIJWSXkUSK9oRQR_0Tb5OHrTLE",
+      "address": "Pl. Avissinias 10, Athina 105 55, Greece"
+    },
+    {
+      "name": "Corfu Old Town Market",
+      "coord": [
+        39.6252018,
+        19.9227113
+      ],
+      "desc": "Ionian local products, cheese, citrus",
+      "longDesc": "Market in Corfu's charming old town featuring Ionian local products, Corfiot cheese, local citrus, and island specialties. Western island flavors.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Corfu%20Old%20Town%20Market&center=39.6252018,19.9227113",
+      "placeId": "ChIJe8ee1NxdWxMRdHqJEsHZ_nE",
+      "address": "Agiou Spiridonos, Kerkira 491 00, Greece"
+    }
+  ],
+  "cityCenters": {
+    "Athens": [
+      37.9838,
+      23.7275,
+      0.15
+    ],
+    "Santorini": [
+      36.3932,
+      25.4615,
+      0.12
+    ],
+    "Mykonos": [
+      37.4467,
+      25.3289,
+      0.12
+    ],
+    "Crete": [
+      35.2401,
+      24.4709,
+      0.15
+    ],
+    "Rhodes": [
+      36.4341,
+      28.2176,
+      0.12
+    ],
+    "Corfu": [
+      39.6243,
+      19.9217,
+      0.12
+    ],
+    "Naxos": [
+      37.1036,
+      25.3717,
+      0.1
+    ],
+    "Paros": [
+      37.0853,
+      25.1522,
+      0.1
+    ],
+    "Meteora": [
+      39.7217,
+      21.6308,
+      0.1
+    ],
+    "Thessaloniki": [
+      40.6401,
+      22.9444,
+      0.12
+    ],
+    "Hydra": [
+      37.3475,
+      23.4602,
+      0.1
+    ],
+    "Milos": [
+      36.7246,
+      24.4494,
+      0.1
+    ],
+    "Zakynthos": [
+      37.7872,
+      20.8979,
+      0.1
+    ],
+    "Kefalonia": [
+      38.1863,
+      20.4895,
+      0.1
+    ],
+    "Rethymnon": [
+      35.373,
+      24.473,
+      0.1
+    ],
+    "Chania": [
+      35.514,
+      24.02,
+      0.1
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "name": "Greatest Hits",
+      "color": "#2563EB",
+      "days": [
+        {
+          "day": 1,
+          "title": "Athens (Arrival)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Grande Bretagne",
+              "coord": [
+                53.833736699999996,
+                -2.4290148
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Acropolis & Parthenon",
+              "coord": [
+                37.9715285,
+                23.7267166
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Kostas Souvlaki",
+              "coord": [
+                37.977415799999996,
+                23.7279947
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Spondi",
+              "coord": [
+                37.9651249,
+                23.7430485
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Line Athens",
+              "coord": [
+                37.968616499999996,
+                23.7033509
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Athens (Museums)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Grande Bretagne",
+              "coord": [
+                53.833736699999996,
+                -2.4290148
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Acropolis Museum",
+              "coord": [
+                37.968449899999996,
+                23.7285227
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Ta Karamanlidika",
+              "coord": [
+                37.9802444,
+                23.7256423
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "National Archaeological Museum",
+              "coord": [
+                37.989022899999995,
+                23.732759899999998
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hytra",
+              "coord": [
+                37.9815438,
+                23.7529091
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Peloponnese (Delphi & Meteora)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Grande Bretagne Athens",
+              "coord": [
+                37.976178,
+                23.7353123
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Delphi Archaeological Site",
+              "coord": [
+                38.4800928,
+                22.4995954
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local Delphi taverna",
+              "coord": [
+                38.48202,
+                22.50105
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Meteora Monasteries",
+              "coord": [
+                39.7217044,
+                21.6305896
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Meteora village taverna",
+              "coord": [
+                39.716486,
+                21.608077
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Athens to Santorini",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Andronis Arcadia",
+              "coord": [
+                36.4638217,
+                25.375454899999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to Santorini",
+              "coord": [
+                36.4172,
+                25.4615
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Oia Sunset Taverna",
+              "coord": [
+                36.46501,
+                25.37801
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Oia sunset walk",
+              "coord": [
+                36.4614,
+                25.371
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Ammoudi Fish Tavern",
+              "coord": [
+                36.460585699999996,
+                25.3702063
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Santorini (Caldera & Wine)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Andronis Arcadia",
+              "coord": [
+                36.4638217,
+                25.375454899999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sunset Catamaran Cruise",
+              "coord": [
+                36.4207481,
+                25.432054599999997
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Santo Wines Winery",
+              "coord": [
+                36.387564,
+                25.436746
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Selene",
+              "coord": [
+                36.4214959,
+                25.4307765
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Elements at Canaves",
+              "coord": [
+                36.4636405,
+                25.371104300000002
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Franco",
+              "coord": [
+                36.4172,
+                25.4315
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Santorini (Villages & Archaeology)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Andronis Arcadia",
+              "coord": [
+                36.4638217,
+                25.375454899999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Akrotiri Archaeological Site",
+              "coord": [
+                36.3517952,
+                25.403447
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "To Psaraki",
+              "coord": [
+                36.3379258,
+                25.4348982
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Venetsanos Winery",
+              "coord": [
+                36.3823401,
+                25.431520300000003
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Perissa Beach",
+              "coord": [
+                36.3537182,
+                25.4736829
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Koukoumavlos",
+              "coord": [
+                36.431461899999995,
+                25.424419399999998
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Santorini to Mykonos",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Santa Marina Resort",
+              "coord": [
+                37.418268999999995,
+                25.3261947
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ferry to Mykonos",
+              "coord": [
+                37.4467,
+                25.3289
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Kiki",
+              "coord": [
+                37.9742904,
+                23.7317143
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mykonos Town walk",
+              "coord": [
+                37.4467,
+                25.3283
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "M-eating",
+              "coord": [
+                37.4460312,
+                25.3295285
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "180° Sunset Bar",
+              "coord": [
+                37.4493483,
+                25.3323987
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Mykonos (Delos)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Santa Marina Resort",
+              "coord": [
+                37.418268999999995,
+                25.3261947
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Delos Island",
+              "coord": [
+                37.3962623,
+                25.2689412
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "NiKolas Taverna",
+              "coord": [
+                36.0724717,
+                27.9305316
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Elia Beach",
+              "coord": [
+                37.42052,
+                25.39371
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Matsuhisa Mykonos",
+              "coord": [
+                37.443286799999996,
+                25.330097400000003
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Scorpios",
+              "coord": [
+                37.4069079,
+                25.347629599999998
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Mykonos (Beach & Relax)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Santa Marina Resort",
+              "coord": [
+                37.418268999999995,
+                25.3261947
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ornos Beach",
+              "coord": [
+                37.43,
+                25.325
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Alemagou",
+              "coord": [
+                37.458,
+                25.365
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Windmills of Mykonos",
+              "coord": [
+                37.444582499999996,
+                25.3259318
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Bill & Coo Suites",
+              "coord": [
+                37.4376988,
+                25.3278327
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Mykonos to Athens",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Ferry/Flight to Athens",
+              "coord": [
+                37.9715,
+                23.7257
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Varoulko Seaside",
+              "coord": [
+                37.937288099999996,
+                23.6585093
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Funky Gourmet",
+              "coord": [
+                37.9831192,
+                23.715986899999997
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "name": "Hidden Gems",
+      "color": "#059669",
+      "days": [
+        {
+          "day": 1,
+          "title": "Athens (Arrival)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Kenshington Hotel",
+              "coord": [
+                51.4925141,
+                -0.1780433
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Plaka & National Garden",
+              "coord": [
+                37.9746,
+                23.7331
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Vezene",
+              "coord": [
+                37.9747035,
+                23.7510028
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Crete (Chania)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Domes Zeen Chania",
+              "coord": [
+                35.5085778,
+                23.997110199999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to Chania",
+              "coord": [
+                35.518,
+                24.018
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Tamam",
+              "coord": [
+                35.5165331,
+                24.0163838
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chania Old Town",
+              "coord": [
+                35.516,
+                24.02
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Thalassino Ageri",
+              "coord": [
+                35.5198494,
+                24.0371114
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Crete (West Coast)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Domes Zeen Chania",
+              "coord": [
+                35.5085778,
+                23.997110199999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Balos Lagoon",
+              "coord": [
+                35.579267099999996,
+                23.588720499999997
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beach taverna",
+              "coord": [
+                35.522025,
+                23.610849
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Elafonissi Beach",
+              "coord": [
+                35.271180099999995,
+                23.541295899999998
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Avli",
+              "coord": [
+                35.120072199999996,
+                25.307742500000003
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Crete (Samaria & Rethymnon)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Andronis Minois Crete",
+              "coord": [
+                37.069252,
+                25.124368999999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Samaria Gorge Trek",
+              "coord": [
+                35.291558900000005,
+                23.959343699999998
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Gorge village taverna",
+              "coord": [
+                35.37001,
+                24.02916
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Rethymnon Old Town",
+              "coord": [
+                35.3695613,
+                24.472755000000003
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Rethymno Waterfront",
+              "coord": [
+                35.3712928,
+                24.476365899999998
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Crete (Knossos & Heraklion)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Andronis Minois Crete",
+              "coord": [
+                37.069252,
+                25.124368999999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Palace of Knossos",
+              "coord": [
+                35.297956899999996,
+                25.1627815
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Peskesi",
+              "coord": [
+                35.3402096,
+                25.132484599999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cretaquarium",
+              "coord": [
+                35.332359,
+                25.2824566
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Crete Honey & Herbs Market",
+              "coord": [
+                35.3372355,
+                25.131751899999998
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Crete to Naxos",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Mati Boutique Hotel",
+              "coord": [
+                38.047229699999995,
+                23.9977455
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ferry Crete to Naxos",
+              "coord": [
+                37.106,
+                25.373
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Naxos Town Taverna",
+              "coord": [
+                37.1036475,
+                25.375810899999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Portara (Apollo's Gate)",
+              "coord": [
+                37.11,
+                25.368
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Axiotissa",
+              "coord": [
+                37.005437,
+                25.394973
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Naxos (Villages & Beaches)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Mati Boutique Hotel",
+              "coord": [
+                38.047229699999995,
+                23.9977455
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mountain villages",
+              "coord": [
+                37.08,
+                25.45
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Oasis",
+              "coord": [
+                37.106,
+                25.373
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Agios Georgios Beach",
+              "coord": [
+                37.0992715,
+                25.3748659
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Naxos Old Market",
+              "coord": [
+                37.106588099999996,
+                25.3752593
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Naxos to Milos",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Milos",
+              "coord": [
+                36.7246,
+                24.4494
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ferry to Milos",
+              "coord": [
+                36.7246,
+                24.4494
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local taverna",
+              "coord": [
+                36.7246,
+                24.4494
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sarakiniko Beach",
+              "coord": [
+                36.742697199999995,
+                24.458423
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Milos waterfront restaurant",
+              "coord": [
+                36.7246,
+                24.4494
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Milos (Beaches & Exploration)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Milos",
+              "coord": [
+                36.7246,
+                24.4494
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kleftiko Beaches boat trip",
+              "coord": [
+                36.7246,
+                24.4494
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Fishing village taverna",
+              "coord": [
+                36.7246,
+                24.4494
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Catacombs exploration",
+              "coord": [
+                36.7246,
+                24.4494
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Milos local dinner",
+              "coord": [
+                36.7246,
+                24.4494
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Milos to Athens",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Ferry to Piraeus",
+              "coord": [
+                37.942,
+                23.651
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Piraeus seafood",
+              "coord": [
+                37.942,
+                23.651
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Delta",
+              "coord": [
+                38.46665970000001,
+                23.6052823
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Family Comfort",
+      "color": "#D97706",
+      "days": [
+        {
+          "day": 1,
+          "title": "Athens (Arrival)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Four Seasons Astir Palace",
+              "coord": [
+                37.805205,
+                23.77115
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Resort beach",
+              "coord": [
+                37.81,
+                23.796
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest",
+              "coord": [
+                37.8087,
+                23.7944
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resort restaurant",
+              "coord": [
+                37.8087,
+                23.7944
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Athens (Acropolis)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Four Seasons Astir Palace",
+              "coord": [
+                37.805205,
+                23.77115
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Acropolis private family tour",
+              "coord": [
+                37.9715,
+                23.7257
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Kostas Souvlaki",
+              "coord": [
+                37.977415799999996,
+                23.7279947
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Resort rest",
+              "coord": [
+                37.8087,
+                23.7944
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Spondi",
+              "coord": [
+                37.9651249,
+                23.7430485
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Athens (Kids Day)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Four Seasons Astir Palace",
+              "coord": [
+                37.805205,
+                23.77115
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Attica Zoo",
+              "coord": [
+                37.979073,
+                23.911354
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Zoo restaurant",
+              "coord": [
+                37.979073,
+                23.911354
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "National Garden playground",
+              "coord": [
+                37.973582,
+                23.737793
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Vezene",
+              "coord": [
+                37.9747035,
+                23.7510028
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Athens to Crete",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Royal Senses Resort",
+              "coord": [
+                35.4167053,
+                24.6579518
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to Crete",
+              "coord": [
+                35.3387,
+                25.1314
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Resort restaurant",
+              "coord": [
+                37.029591,
+                25.24954
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest",
+              "coord": [
+                37.029591,
+                25.24954
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resort tavern",
+              "coord": [
+                37.029591,
+                25.24954
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Crete (Water Park & Beach)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Royal Senses Resort",
+              "coord": [
+                35.4167053,
+                24.6579518
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Resort breakfast",
+              "coord": [
+                37.029591,
+                25.24954
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Water park & beach",
+              "coord": [
+                37.029591,
+                25.24954
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Poolside resort",
+              "coord": [
+                37.029591,
+                25.24954
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Spa & rest",
+              "coord": [
+                37.029591,
+                25.24954
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Avli",
+              "coord": [
+                35.120072199999996,
+                25.307742500000003
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Crete (Knossos & Aquarium)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Royal Senses Resort",
+              "coord": [
+                35.4167053,
+                24.6579518
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Palace of Knossos",
+              "coord": [
+                35.297956899999996,
+                25.1627815
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Peskesi",
+              "coord": [
+                35.3402096,
+                25.132484599999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cretaquarium",
+              "coord": [
+                35.332359,
+                25.2824566
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Resort rest",
+              "coord": [
+                37.029591,
+                25.24954
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Resort tavern",
+              "coord": [
+                37.029591,
+                25.24954
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Crete (Beach & Exploration)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Royal Senses Resort",
+              "coord": [
+                35.4167053,
+                24.6579518
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Elafonissi Beach day",
+              "coord": [
+                35.269455,
+                23.531635
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beach taverna",
+              "coord": [
+                35.269455,
+                23.531635
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Drive scenic coast",
+              "coord": [
+                35.35,
+                23.7
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Tamam",
+              "coord": [
+                35.5165331,
+                24.0163838
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Crete (Resort Day)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Royal Senses Resort",
+              "coord": [
+                35.4167053,
+                24.6579518
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Resort breakfast",
+              "coord": [
+                37.029591,
+                25.24954
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "All-day water park",
+              "coord": [
+                37.029591,
+                25.24954
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Poolside",
+              "coord": [
+                37.029591,
+                25.24954
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Kids club & activities",
+              "coord": [
+                37.029591,
+                25.24954
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Thalassino Ageri",
+              "coord": [
+                35.5198494,
+                24.0371114
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Crete to Santorini",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Canaves Oia Epitome",
+              "coord": [
+                36.4636385,
+                25.3711066
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ferry to Santorini",
+              "coord": [
+                36.4172,
+                25.4615
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Oia Sunset Taverna",
+              "coord": [
+                36.46501,
+                25.37801
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Afternoon rest",
+              "coord": [
+                36.4601,
+                25.3785
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Oia sunset",
+              "coord": [
+                36.4614,
+                25.371
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Ammoudi Fish Tavern",
+              "coord": [
+                36.460585699999996,
+                25.3702063
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Santorini (Catamaran & Wine)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Canaves Oia Epitome",
+              "coord": [
+                36.4636385,
+                25.3711066
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sunset Catamaran Cruise",
+              "coord": [
+                36.4207481,
+                25.432054599999997
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Selene",
+              "coord": [
+                36.4214959,
+                25.4307765
+              ]
+            },
+            {
+              "type": "nap",
+              "name": "Siesta",
+              "coord": [
+                36.4601,
+                25.3785
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Santo Wines Winery",
+              "coord": [
+                36.387564,
+                25.436746
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Elements at Canaves",
+              "coord": [
+                36.4636405,
+                25.371104300000002
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Santorini (Beaches & Relaxation)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Canaves Oia Epitome",
+              "coord": [
+                36.4636385,
+                25.3711066
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Perissa Beach",
+              "coord": [
+                36.3537182,
+                25.4736829
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beach taverna",
+              "coord": [
+                36.35233,
+                25.472348
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Pool & spa time",
+              "coord": [
+                36.4601,
+                25.3785
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Koukoumavlos",
+              "coord": [
+                36.431461899999995,
+                25.424419399999998
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Santorini to Athens (Departure)",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                36.4601,
+                25.3785
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Last Oia walk",
+              "coord": [
+                36.4614,
+                25.371
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Airport restaurant",
+              "coord": [
+                36.4172,
+                25.4615
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to Athens",
+              "coord": [
+                37.9715,
+                23.7257
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "d": {
+      "name": "Foodie Deep-Dive",
+      "color": "#DC2626",
+      "days": [
+        {
+          "day": 1,
+          "title": "Athens Food Scene",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Grande Bretagne",
+              "coord": [
+                53.833736699999996,
+                -2.4290148
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Varvakios Central Market tour",
+              "coord": [
+                37.980373,
+                23.727624
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Diporto Agoras",
+              "coord": [
+                37.980747799999996,
+                23.7258382
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Market exploration",
+              "coord": [
+                37.9837,
+                23.73
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Spondi",
+              "coord": [
+                37.9651249,
+                23.7430485
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Athens Michelin Restaurants",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Grande Bretagne",
+              "coord": [
+                53.833736699999996,
+                -2.4290148
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                37.97655,
+                23.735402
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "CookInAthens Class",
+              "coord": [
+                37.9803704,
+                23.722988899999997
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Kostas Souvlaki",
+              "coord": [
+                37.977415799999996,
+                23.7279947
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Wine bar exploration",
+              "coord": [
+                37.9705,
+                23.71002
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Funky Gourmet",
+              "coord": [
+                37.9831192,
+                23.715986899999997
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Athens Fine Dining",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Grande Bretagne",
+              "coord": [
+                53.833736699999996,
+                -2.4290148
+              ]
+            },
+            {
+              "type": "breakfast",
+              "name": "Hotel breakfast",
+              "coord": [
+                37.97655,
+                23.735402
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Hytra",
+              "coord": [
+                37.9815438,
+                23.7529091
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Taverna Nikolaides meze",
+              "coord": [
+                37.97502,
+                23.73801
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Delta",
+              "coord": [
+                38.46665970000001,
+                23.6052823
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Athens to Crete",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Pelagos Crete",
+              "coord": [
+                35.1917425,
+                25.718620299999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to Chania",
+              "coord": [
+                35.518,
+                24.018
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Tamam",
+              "coord": [
+                35.5165331,
+                24.0163838
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chania market exploration",
+              "coord": [
+                35.51413,
+                24.02033
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Thalassino Ageri",
+              "coord": [
+                35.5198494,
+                24.0371114
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Crete (Wine & Food)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Pelagos Crete",
+              "coord": [
+                35.1917425,
+                25.718620299999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cretan wine region tour",
+              "coord": [
+                35.37001,
+                24.02916
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Avli",
+              "coord": [
+                35.120072199999996,
+                25.307742500000003
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Rethymnon Old Town market",
+              "coord": [
+                35.37301,
+                24.47301
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Rethymno Waterfront",
+              "coord": [
+                35.3712928,
+                24.476365899999998
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Crete (Heraklion Culinary)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Pelagos Crete",
+              "coord": [
+                35.1917425,
+                25.718620299999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Heraklion Market Street",
+              "coord": [
+                35.3384076,
+                25.1331402
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Peskesi",
+              "coord": [
+                35.3402096,
+                25.132484599999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Crete honey & herbs market",
+              "coord": [
+                35.34037,
+                25.13254
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Elounda Dining",
+              "coord": [
+                35.2625421,
+                25.7214554
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Crete (Olive Oil & Agriculture)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Pelagos Crete",
+              "coord": [
+                35.1917425,
+                25.718620299999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Olive oil farm tour",
+              "coord": [
+                35.37001,
+                24.02916
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Farm lunch",
+              "coord": [
+                35.37001,
+                24.02916
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Herb gathering walk",
+              "coord": [
+                35.35,
+                23.7
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Tamam",
+              "coord": [
+                35.5165331,
+                24.0163838
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Crete to Santorini",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Canaves Oia Epitome",
+              "coord": [
+                36.4636385,
+                25.3711066
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ferry to Santorini",
+              "coord": [
+                36.4172,
+                25.4615
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Oia Sunset Taverna",
+              "coord": [
+                36.46501,
+                25.37801
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Santo Wines Winery",
+              "coord": [
+                36.387564,
+                25.436746
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Ammoudi Fish Tavern",
+              "coord": [
+                36.460585699999996,
+                25.3702063
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Santorini (Wine & Dining)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Canaves Oia Epitome",
+              "coord": [
+                36.4636385,
+                25.3711066
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Venetsanos Winery",
+              "coord": [
+                36.3823401,
+                25.431520300000003
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Selene",
+              "coord": [
+                36.4214959,
+                25.4307765
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Santorini Wine Market",
+              "coord": [
+                36.418868599999996,
+                25.430821599999998
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Elements at Canaves",
+              "coord": [
+                36.4636405,
+                25.371104300000002
+              ]
+            },
+            {
+              "type": "optional",
+              "name": "Franco",
+              "coord": [
+                36.4172,
+                25.4315
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Santorini (Seafood Focus)",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Canaves Oia Epitome",
+              "coord": [
+                36.4636385,
+                25.3711066
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Fishing villages tour",
+              "coord": [
+                36.33799,
+                25.435048
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "To Psaraki",
+              "coord": [
+                36.3379258,
+                25.4348982
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sunset Catamaran Cruise",
+              "coord": [
+                36.4207481,
+                25.432054599999997
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Koukoumavlos",
+              "coord": [
+                36.431461899999995,
+                25.424419399999998
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "e": {
+      "name": "Grand Tour",
+      "color": "#7C3AED",
+      "days": [
+        {
+          "day": 1,
+          "title": "Athens Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Grande Bretagne",
+              "coord": [
+                53.833736699999996,
+                -2.4290148
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Acropolis & Parthenon",
+              "coord": [
+                37.9715285,
+                23.7267166
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Kostas Souvlaki",
+              "coord": [
+                37.977415799999996,
+                23.7279947
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Spondi",
+              "coord": [
+                37.9651249,
+                23.7430485
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Athens Museums",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Grande Bretagne",
+              "coord": [
+                53.833736699999996,
+                -2.4290148
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "National Archaeological Museum",
+              "coord": [
+                37.989022899999995,
+                23.732759899999998
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Ta Karamanlidika",
+              "coord": [
+                37.9802444,
+                23.7256423
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Acropolis Museum",
+              "coord": [
+                37.968449899999996,
+                23.7285227
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Hytra",
+              "coord": [
+                37.9815438,
+                23.7529091
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Delphi & Meteora",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Hotel Meteora",
+              "coord": [
+                39.716486,
+                21.608077
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Delphi Archaeological Site",
+              "coord": [
+                38.4800928,
+                22.4995954
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Local Delphi taverna",
+              "coord": [
+                38.48202,
+                22.50105
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Meteora Monasteries",
+              "coord": [
+                39.7217044,
+                21.6305896
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Meteora village taverna",
+              "coord": [
+                39.716486,
+                21.608077
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Temple of Sounion",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Grande Bretagne",
+              "coord": [
+                53.833736699999996,
+                -2.4290148
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Temple of Poseidon Sounion",
+              "coord": [
+                37.650212,
+                24.02459
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Sounion coastal taverna",
+              "coord": [
+                37.650212,
+                24.02459
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Coastal drive",
+              "coord": [
+                37.81,
+                23.796
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Varoulko Seaside",
+              "coord": [
+                37.937288099999996,
+                23.6585093
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Athens to Crete",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Domes Zeen Chania",
+              "coord": [
+                35.5085778,
+                23.997110199999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Flight to Chania",
+              "coord": [
+                35.518,
+                24.018
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Tamam",
+              "coord": [
+                35.5165331,
+                24.0163838
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chania Old Town",
+              "coord": [
+                35.516,
+                24.02
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Thalassino Ageri",
+              "coord": [
+                35.5198494,
+                24.0371114
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Crete West Coast",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Domes Zeen Chania",
+              "coord": [
+                35.5085778,
+                23.997110199999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Balos Lagoon",
+              "coord": [
+                35.579267099999996,
+                23.588720499999997
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beach taverna",
+              "coord": [
+                35.522025,
+                23.610849
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Elafonissi Beach",
+              "coord": [
+                35.271180099999995,
+                23.541295899999998
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Avli",
+              "coord": [
+                35.120072199999996,
+                25.307742500000003
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Crete Knossos & Heraklion",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Pelagos Crete",
+              "coord": [
+                35.1917425,
+                25.718620299999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Palace of Knossos",
+              "coord": [
+                35.297956899999996,
+                25.1627815
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Peskesi",
+              "coord": [
+                35.3402096,
+                25.132484599999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Cretaquarium",
+              "coord": [
+                35.332359,
+                25.2824566
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Elounda Dining",
+              "coord": [
+                35.2625421,
+                25.7214554
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Crete Spinalonga",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Blue Palace",
+              "coord": [
+                35.2925567,
+                25.726254899999997
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Spinalonga Island boat trip",
+              "coord": [
+                35.272676,
+                25.747191
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Elounda harbor taverna",
+              "coord": [
+                35.27267,
+                25.74719
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Agios Nikolaos exploration",
+              "coord": [
+                35.272676,
+                25.747191
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Blue Palace fine dining",
+              "coord": [
+                37.05888,
+                22.390347
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Crete to Santorini",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Andronis Arcadia",
+              "coord": [
+                36.4638217,
+                25.375454899999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ferry to Santorini",
+              "coord": [
+                36.4172,
+                25.4615
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Oia Sunset Taverna",
+              "coord": [
+                36.46501,
+                25.37801
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Oia sunset walk",
+              "coord": [
+                36.4614,
+                25.371
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Ammoudi Fish Tavern",
+              "coord": [
+                36.460585699999996,
+                25.3702063
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Santorini Caldera",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Andronis Arcadia",
+              "coord": [
+                36.4638217,
+                25.375454899999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sunset Catamaran Cruise",
+              "coord": [
+                36.4207481,
+                25.432054599999997
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Selene",
+              "coord": [
+                36.4214959,
+                25.4307765
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Santo Wines Winery",
+              "coord": [
+                36.387564,
+                25.436746
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Elements at Canaves",
+              "coord": [
+                36.4636405,
+                25.371104300000002
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Santorini Archaeology",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Andronis Arcadia",
+              "coord": [
+                36.4638217,
+                25.375454899999998
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Akrotiri Archaeological Site",
+              "coord": [
+                36.3517952,
+                25.403447
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "To Psaraki",
+              "coord": [
+                36.3379258,
+                25.4348982
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Venetsanos Winery",
+              "coord": [
+                36.3823401,
+                25.431520300000003
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Koukoumavlos",
+              "coord": [
+                36.431461899999995,
+                25.424419399999998
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Santorini to Mykonos",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Santa Marina Resort",
+              "coord": [
+                37.418268999999995,
+                25.3261947
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ferry to Mykonos",
+              "coord": [
+                37.4467,
+                25.3289
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Kiki",
+              "coord": [
+                37.9742904,
+                23.7317143
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Mykonos Town",
+              "coord": [
+                37.4467,
+                25.3283
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "M-eating",
+              "coord": [
+                37.4460312,
+                25.3295285
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Mykonos Delos",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Santa Marina Resort",
+              "coord": [
+                37.418268999999995,
+                25.3261947
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Delos Island UNESCO",
+              "coord": [
+                37.39089,
+                25.271739
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "NiKolas Taverna",
+              "coord": [
+                36.0724717,
+                27.9305316
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Windmills of Mykonos",
+              "coord": [
+                37.444582499999996,
+                25.3259318
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Matsuhisa Mykonos",
+              "coord": [
+                37.443286799999996,
+                25.330097400000003
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Mykonos to Athens Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Resort breakfast",
+              "coord": [
+                35.336833,
+                25.072803
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Elia Beach",
+              "coord": [
+                37.42052,
+                25.39371
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Beach lunch",
+              "coord": [
+                37.42052,
+                25.39371
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Ferry/Flight to Athens",
+              "coord": [
+                37.9715,
+                23.7257
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Funky Gourmet",
+              "coord": [
+                37.9831192,
+                23.715986899999997
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

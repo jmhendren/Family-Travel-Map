@@ -1,0 +1,3392 @@
+{
+  "key": "thailand",
+  "name": "Thailand Family Adventure",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇹🇭",
+  "defaultCenter": [
+    13.75,
+    100.5
+  ],
+  "defaultZoom": 6,
+  "hotels": [
+    {
+      "name": "Capella Bangkok",
+      "coord": [
+        13.713104699999999,
+        100.5110225
+      ],
+      "desc": "Luxury Hotel; Business / couples; luxury Thai hospitality",
+      "longDesc": "Capella Bangkok reimagines luxury with private riverside villas and world-class Thai hospitality This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Capella%20Bangkok&center=13.713104699999999,100.5110225",
+      "placeId": "ChIJqcNXkyaZ4jAR6PgpLK1RNzI",
+      "address": "300 2 ถ. เจริญกรุง Khwaeng Yan Nawa, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand"
+    },
+    {
+      "name": "Mandarin Oriental, Bangkok",
+      "coord": [
+        13.7236158,
+        100.51431679999999
+      ],
+      "desc": "Luxury Hotel in Bangkok (River); luxury Thai hospitality",
+      "longDesc": "Mandarin Oriental preserves Bangkok legend with impeccable service and storied riverside heritage This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mandarin%20Oriental%2C%20Bangkok&center=13.7236158,100.51431679999999",
+      "placeId": "ChIJs6CnycSY4jAR5cqJZjPOsgs",
+      "address": "48 Oriental Ave, Khwaeng Bang Rak, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Four Seasons Hotel Bangkok at Chao Phraya River",
+      "coord": [
+        13.711768099999999,
+        100.5106625
+      ],
+      "desc": "Luxury Hotel; Design + nightlife; luxury Thai hospitality",
+      "longDesc": "Four Seasons Chao Phraya combines contemporary design with traditional Thai cultural elegance This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Hotel%20Bangkok%20at%20Chao%20Phraya%20River&center=13.711768099999999,100.5106625",
+      "placeId": "ChIJgf1Rnb-Y4jARaZXmSa-m7sU",
+      "address": "300/1 ถ. เจริญกรุง Khwaeng Yan Nawa, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand"
+    },
+    {
+      "name": "The Siam Hotel Bangkok",
+      "coord": [
+        13.781138299999999,
+        100.5059915
+      ],
+      "desc": "Boutique Luxury; Romance / design lovers",
+      "longDesc": "The Siam curates intimate luxury through art, personal service, and quiet Bangkok charm This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Siam%20Hotel%20Bangkok&center=13.781138299999999,100.5059915",
+      "placeId": "ChIJbw__g9-b4jAR3iYpzC9gRoI",
+      "address": "The Siam 3, 2 Khao, Vachirapayabal, Khet Dusit, Krung Thep Maha Nakhon 10300, Thailand"
+    },
+    {
+      "name": "Sindhorn Kempinski Hotel Bangkok",
+      "coord": [
+        13.736727700000001,
+        100.5439428
+      ],
+      "desc": "Luxury Hotel; Wellness + city base; luxury Thai hospitality",
+      "longDesc": "Sindhorn Kempinski blends wellness traditions with lush gardens and serene urban escape This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sindhorn%20Kempinski%20Hotel%20Bangkok&center=13.736727700000001,100.5439428",
+      "placeId": "ChIJKdgidjmf4jAR-S3Fl6KOxAY",
+      "address": "80 Soi Ton Son, Khwaeng Lumphini, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+    },
+    {
+      "name": "Dusit Thani Bangkok",
+      "coord": [
+        13.7283139,
+        100.53845190000001
+      ],
+      "desc": "Luxury Hotel; Iconic Thai hospitality; luxury Thai hospitality",
+      "longDesc": "Dusit Thani revives Thai hospitality icon with cultural heritage and convenient city heart location This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dusit%20Thani%20Bangkok&center=13.7283139,100.53845190000001",
+      "placeId": "ChIJNR_QAkSf4jARbTRljQDBL70",
+      "address": "98 Thanon Rama IV, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Rosewood Bangkok",
+      "coord": [
+        13.743345500000002,
+        100.54896269999999
+      ],
+      "desc": "Luxury Hotel in Bangkok (Ploenchit); luxury Thai hospitality",
+      "longDesc": "Rosewood Bangkok delivers ultra-luxury towers, personalized service, and prestigious fine dining This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosewood%20Bangkok&center=13.743345500000002,100.54896269999999",
+      "placeId": "ChIJJUys49ye4jAR-TlV_Qsxx3Y",
+      "address": "1041/38 Thanon Phloen Chit, Khwaeng Lumphini, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+    },
+    {
+      "name": "Park Hyatt Bangkok",
+      "coord": [
+        13.743763999999999,
+        100.54728999999999
+      ],
+      "desc": "Luxury Hotel; Groups / urban luxury; luxury Thai hospitality",
+      "longDesc": "Park Hyatt offers riverfront grandeur with spacious accommodations and easy Bangkok access This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Park%20Hyatt%20Bangkok&center=13.743763999999999,100.54728999999999",
+      "placeId": "ChIJA-PGodye4jAR9QFikyxQo0s",
+      "address": "Central Embassy, 88 Thanon Witthayu, Khwaeng Lumphini, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+    },
+    {
+      "name": "The Ritz-Carlton, Bangkok",
+      "coord": [
+        13.728196599999999,
+        100.5455828
+      ],
+      "desc": "Luxury Hotel; Luxury with easy access; luxury Thai hospitality",
+      "longDesc": "The Ritz-Carlton Bangkok provides flagship luxury within modern One Bangkok development This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ritz-Carlton%2C%20Bangkok&center=13.728196599999999,100.5455828",
+      "placeId": "ChIJXagDZgCf4jAR_GMN67KvlBE",
+      "address": "189 Thanon Witthayu, Khwaeng Lumphini, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+    },
+    {
+      "name": "137 Pillars Suites & Residences Bangkok",
+      "coord": [
+        13.737681100000001,
+        100.5723094
+      ],
+      "desc": "Luxury Hotel; Service + long stays; luxury Thai hospitality",
+      "longDesc": "137 Pillars Suites delivers butler-style service with rooftop infinity pools and long-stay comfort This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=137%20Pillars%20Suites%20%26%20Residences%20Bangkok&center=13.737681100000001,100.5723094",
+      "placeId": "ChIJDdCqIP-e4jARxR8vNaxyt9U",
+      "address": "59/1 Soi Sukhumvit 39, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand"
+    },
+    {
+      "name": "Siam Kempinski Hotel Bangkok",
+      "coord": [
+        13.748401099999999,
+        100.5348436
+      ],
+      "desc": "Luxury Hotel; Families + shopping; luxury Thai hospitality",
+      "longDesc": "Anantara Siam Bangkok celebrates heritage with Thai-colonial design and world-class facilities This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Siam%20Kempinski%20Hotel%20Bangkok&center=13.748401099999999,100.5348436",
+      "placeId": "ChIJrfU90s2e4jARs0XZP2DZ4jM",
+      "address": "991, 9 Rama I Rd, Khwaeng Pathum Wan, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+    },
+    {
+      "name": "The Peninsula Bangkok",
+      "coord": [
+        13.7231212,
+        100.5108006
+      ],
+      "desc": "Luxury Hotel; Riverside classic; luxury Thai hospitality",
+      "longDesc": "Peninsula Bangkok sits on Chao Phraya with five-star tradition and signature Thai elegance This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Peninsula%20Bangkok&center=13.7231212,100.5108006",
+      "placeId": "ChIJp8e_7NOY4jARN83NYCd7tVc",
+      "address": "333 Charoen Nakhon Rd, Khwaeng Khlong Ton Sai, Khet Khlong San, Krung Thep Maha Nakhon 10600, Thailand"
+    },
+    {
+      "name": "Anantara Siam Bangkok Hotel",
+      "coord": [
+        13.740860399999999,
+        100.5399556
+      ],
+      "desc": "Luxury Hotel in Bangkok (Ratchadamri); luxury Thai hospitality",
+      "longDesc": "Sofitel So Bangkok showcases contemporary luxury with meaningful sustainability practices This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Anantara%20Siam%20Bangkok%20Hotel&center=13.740860399999999,100.5399556",
+      "placeId": "ChIJVwz7GcWe4jARatGDB6rxqcE",
+      "address": "155 Rajadamri Road, Khwaeng Lumphini, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+    },
+    {
+      "name": "Bangkok Publishing Residence",
+      "coord": [
+        13.756526500000001,
+        100.5072953
+      ],
+      "desc": "Boutique Hotel; Boutique charm; luxury Thai hospitality",
+      "longDesc": "St. Regis Bangkok combines Thai artistry with butler service and sophisticated city living This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bangkok%20Publishing%20Residence&center=13.756526500000001,100.5072953",
+      "placeId": "ChIJ81-r2T-Z4jARBg84qo9iyPg",
+      "address": "31-33-35-37-37/1 Lan Luang Rd, Khwaeng Wat Sommanat, Khet Pom Prap Sattru Phai, Krung Thep Maha Nakhon 10100, Thailand"
+    },
+    {
+      "name": "Mustang Blu",
+      "coord": [
+        13.739263999999999,
+        100.5148722
+      ],
+      "desc": "Boutique Hotel in Bangkok (Chinatown); luxury Thai hospitality",
+      "longDesc": "W Bangkok delivers playful modern luxury with vibrant nightlife and creative dining This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mustang%20Blu&center=13.739263999999999,100.5148722",
+      "placeId": "ChIJZ4QOeHWZ4jARSsXRutQe5yY",
+      "address": "721 Thanon Maitri Chit, Khwaeng Pom Prap, Khet Pom Prap Sattru Phai, Krung Thep Maha Nakhon 10100, Thailand"
+    },
+    {
+      "name": "SALA Rattanakosin",
+      "coord": [
+        13.745270699999999,
+        100.4909116
+      ],
+      "desc": "Boutique Hotel; Views + Old Town; luxury Thai hospitality",
+      "longDesc": "Hilton Bangkok offers reliable comfort with excellent facilities and convenient central location This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=SALA%20Rattanakosin&center=13.745270699999999,100.4909116",
+      "placeId": "ChIJGfUu0gWZ4jARv_y-6ikKmIA",
+      "address": "39 Thanon Maha Rat, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Amdaeng Riverside Hotel",
+      "coord": [
+        13.7349313,
+        100.50708139999999
+      ],
+      "desc": "Boutique Hotel; Quiet recharge; luxury Thai hospitality",
+      "longDesc": "Centara Grand Phuket Beach provides beachfront luxury with water sports and family activities This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Amdaeng%20Riverside%20Hotel&center=13.7349313,100.50708139999999",
+      "placeId": "ChIJI7uD2QyZ4jARAWgq0FHj2Os",
+      "address": "12 1 Soi Chiang Mai, Khwaeng Khlong San, Khet Khlong San, Krung Thep Maha Nakhon 10600, Thailand"
+    },
+    {
+      "name": "Kimpton Maa-Lai Bangkok",
+      "coord": [
+        13.73768,
+        100.543443
+      ],
+      "desc": "Lifestyle Luxury; Families + parks; luxury Thai hospitality",
+      "longDesc": "Twinpalms Bangtao Phuket features tented architecture and tropical resort authenticity This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kimpton%20Maa-Lai%20Bangkok&center=13.73768,100.543443",
+      "placeId": "ChIJWzTYg2Gf4jARnDjWpjqe8cY",
+      "address": "78 Soi Ton Son, Khwaeng Lumphini, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+    },
+    {
+      "name": "InterContinental Khao Yai Resort",
+      "coord": [
+        14.5116433,
+        101.5350323
+      ],
+      "desc": "Design Resort; Design + nature; luxury Thai hospitality",
+      "longDesc": "Angsana Laguna Phuket nestles in lagoon setting with water activities and peaceful escape This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=InterContinental%20Khao%20Yai%20Resort&center=14.5116433,101.5350323",
+      "placeId": "ChIJ4ZVnt-ArHDERr7dFLl965MY",
+      "address": "262, Sub, Tambon Pong Ta Long, Amphoe Pak Chong, Chang Wat Nakhon Ratchasima 30450, Thailand"
+    },
+    {
+      "name": "Four Seasons Resort Chiang Mai",
+      "coord": [
+        18.9161783,
+        98.9316048
+      ],
+      "desc": "Luxury Resort in Chiang Mai; luxury Thai hospitality",
+      "longDesc": "Renaissance Koh Samui combines cultural experiences with pristine beach island relaxation This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Resort%20Chiang%20Mai&center=18.9161783,98.9316048",
+      "placeId": "ChIJtfd_KO862jARHpyH167m98M",
+      "address": "502 MOO 1, MAE RIM, OLD ROAD, ตำบล ริมใต้ อำเภอสะเมิง เชียงใหม่ 50180, Thailand"
+    },
+    {
+      "name": "137 Pillars House Chiang Mai",
+      "coord": [
+        18.7919289,
+        99.0041676
+      ],
+      "desc": "Boutique Luxury; Boutique heritage; luxury Thai hospitality",
+      "longDesc": "Four Seasons Koh Samui offers jungle villas, private spas, and island luxury sophistication This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=137%20Pillars%20House%20Chiang%20Mai&center=18.7919289,99.0041676",
+      "placeId": "ChIJfRzfKbA62jAR_EzhsXTmMY4",
+      "address": "2 ถนน Soi Nha Wat Kaet 1, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50000, Thailand"
+    },
+    {
+      "name": "Raya Heritage",
+      "coord": [
+        18.8486074,
+        98.98525769999999
+      ],
+      "desc": "Boutique Luxury; Slow Chiang Mai; luxury Thai hospitality",
+      "longDesc": "The Passage Samui Villas provides intimate bungalow sanctuary with personalized service This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Raya%20Heritage&center=18.8486074,98.98525769999999",
+      "placeId": "ChIJieYgBzM82jARGOIe2G6_Bbo",
+      "address": "157, Tambon Don Kaeo, Amphoe Mae Rim, Chang Wat Chiang Mai 50180, Thailand"
+    },
+    {
+      "name": "Aleenta Retreat Chiang Mai",
+      "coord": [
+        18.7864386,
+        98.9530782
+      ],
+      "desc": "Boutique Wellness; Wellness + city access",
+      "longDesc": "Belmond Napasai sits on private island with Thai-inspired elegance and wellness focus This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aleenta%20Retreat%20Chiang%20Mai&center=18.7864386,98.9530782",
+      "placeId": "ChIJCWNmRhQ72jAR2ZJkWRcgGds",
+      "address": "189 Suthep Alley, Tambon Su Thep, Muang, Chang Wat Chiang Mai 50200, Thailand"
+    },
+    {
+      "name": "Four Seasons Tented Camp Golden Triangle",
+      "coord": [
+        20.3729807,
+        100.0769107
+      ],
+      "desc": "Tented Camp; Once-in-a-lifetime; luxury Thai hospitality",
+      "longDesc": "Soneva Jani Koh Samui delivers ultra-luxury tents with retractable roofs and technology This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Tented%20Camp%20Golden%20Triangle&center=20.3729807,100.0769107",
+      "placeId": "ChIJFYGeJStF1jARoc_ShY3AdZA",
+      "address": "499 MOO1 T. Vieng, Vieng, ตำบล เวียง อำเภอ เชียงแสน เชียงราย 57150, Thailand"
+    },
+    {
+      "name": "Chiva-Som Hua Hin",
+      "coord": [
+        12.539347099999999,
+        99.96478719999999
+      ],
+      "desc": "Wellness Resort in Hua Hin; luxury Thai hospitality",
+      "longDesc": "Kimpton Kitalay Samui features sustainable luxury with beachfront villas and wellness This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiva-Som%20Hua%20Hin&center=12.539347099999999,99.96478719999999",
+      "placeId": "ChIJeUfXZw6s_TARAp_8HsdMJgY",
+      "address": "73/4-6 Phet Kasem Rd, Tambon Hua Hin, Amphoe Hua Hin, Chang Wat Prachuap Khiri Khan 77110, Thailand"
+    },
+    {
+      "name": "Aleenta Hua Hin Resort & Spa",
+      "coord": [
+        12.3548458,
+        99.9974702
+      ],
+      "desc": "Boutique Resort; Beach + wellness; luxury Thai hospitality",
+      "longDesc": "Hyatt Regency Centara Railay provides beach access with adventurous activity integration This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aleenta%20Hua%20Hin%20Resort%20%26%20Spa&center=12.3548458,99.9974702",
+      "placeId": "ChIJpwfBPy-x_TARRpaIH17Qb90",
+      "address": "183 Tambon Pak Nam Pran, Amphoe Pran Buri, Chang Wat Prachuap Khiri Khan 77220, Thailand"
+    },
+    {
+      "name": "Amanpuri",
+      "coord": [
+        7.9837758,
+        98.27647239999999
+      ],
+      "desc": "Ultra-Luxury Resort; Bucket-list luxury; luxury Thai hospitality",
+      "longDesc": "Rayavadee Krabi nestles between limestone cliffs offering dramatic scenic luxury This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Amanpuri&center=7.9837758,98.27647239999999",
+      "placeId": "ChIJi5-UCAMyUDARxOsdxsP2jMU",
+      "address": "118, 1 ถนน ศรีสุนทร, Tambon Choeng Thale, Amphoe Thalang, Chang Wat Phuket 83110, Thailand"
+    },
+    {
+      "name": "Anantara Layan Phuket Resort",
+      "coord": [
+        8.0356995,
+        98.2844465
+      ],
+      "desc": "Luxury Resort in Phuket (Thalang); luxury Thai hospitality",
+      "longDesc": "Amanpuri Phuket exemplifies understated ultra-luxury with villa privacy and tailor-made experiences This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Anantara%20Layan%20Phuket%20Resort&center=8.0356995,98.2844465",
+      "placeId": "ChIJbWR9vYQ5UDAR0fGj0XXoTRo",
+      "address": "168 หมู่ที่ 6 หาด Soi Layan 4, Tambon Choeng Thale, Amphoe Thalang, Chang Wat Phuket 83110, Thailand"
+    },
+    {
+      "name": "Keemala",
+      "coord": [
+        7.9393413,
+        98.28157189999999
+      ],
+      "desc": "Design Resort in Phuket (Kathu); luxury Thai hospitality",
+      "longDesc": "Banyan Tree Phuket combines jungle setting with spa excellence and intimate accommodation This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Keemala&center=7.9393413,98.28157189999999",
+      "placeId": "ChIJn37ZD-xiHTER9duyhqj5F5w",
+      "address": "10 88 Nakasud Rd Tambon Kamala, Amphoe Kathu, Chang Wat Phuket 83150, Thailand"
+    },
+    {
+      "name": "Trisara",
+      "coord": [
+        8.0362329,
+        98.2770225
+      ],
+      "desc": "Ultra-Luxury Resort; Beach access + privacy",
+      "longDesc": "Evason Phuket features beachfront cottages with yoga, spa, and wellness holistic approach This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Trisara&center=8.0362329,98.2770225",
+      "placeId": "ChIJ-aGB6eIxUDARld9uRFqIL8Q",
+      "address": "60 Cherngtalay 1 Srisoonthorn Road Tambon Choeng Thale, Amphoe Thalang, Chang Wat Phuket 83110, Thailand"
+    },
+    {
+      "name": "Rosewood Phuket",
+      "coord": [
+        7.884639,
+        98.275194
+      ],
+      "desc": "Luxury Resort in Phuket (near Patong); luxury Thai hospitality",
+      "longDesc": "Rosewood Phuket delivers modern Thai design with beach access and culinary prestige This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosewood%20Phuket&center=7.884639,98.275194",
+      "placeId": "ChIJQXXDxNA6UDARp8uL02EzW10",
+      "address": "30-33, 88/28, 88 ถ. หมื่นเงิน ตำบลป่าตอง อำเภอกะทู้ ภูเก็ต 83150, Thailand"
+    },
+    {
+      "name": "Sri Panwa",
+      "coord": [
+        7.801895300000001,
+        98.41094799999999
+      ],
+      "desc": "Luxury Resort in Phuket (Cape Panwa); luxury Thai hospitality",
+      "longDesc": "Six Senses Koh Yao Noi offers remote island sanctuary with sustainability and adventure This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sri%20Panwa&center=7.801895300000001,98.41094799999999",
+      "placeId": "ChIJQw7jpREsUDARTZwTa2qE8l0",
+      "address": "88 หมู่ที่ 8 ถนน ศักดิเดช, Tambon Wichit, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand"
+    },
+    {
+      "name": "The Surin",
+      "coord": [
+        7.981175499999999,
+        98.2777668
+      ],
+      "desc": "Luxury Resort; Classic beach stay; luxury Thai hospitality",
+      "longDesc": "Four Seasons Tented Camp Golden Triangle provides luxury jungle immersion in elephant landscape This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Surin&center=7.981175499999999,98.2777668",
+      "placeId": "ChIJPZqFP5c5UDAR5mcX0I8fyk8",
+      "address": "118 Soi Hat Surin 8, Tambon Choeng Thale, Amphoe Thalang, Chang Wat Phuket 83110, Thailand"
+    },
+    {
+      "name": "Twinpalms Bangtao Phuket Tented Resort",
+      "coord": [
+        7.988643199999999,
+        98.2919154
+      ],
+      "desc": "Luxury Tented Resort; Glamping; luxury Thai hospitality",
+      "longDesc": "Anantara Golden Triangle provides riverside cultural experiences in hill tribe region This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Twinpalms%20Bangtao%20Phuket%20Tented%20Resort&center=7.988643199999999,98.2919154",
+      "placeId": "ChIJuYm7LAA5UDAREEO3P3g9dK8",
+      "address": "202 88, Tambon Choeng Thale, Amphoe Thalang, Chang Wat Phuket 83110, Thailand"
+    },
+    {
+      "name": "Six Senses Koh Yao Noi",
+      "coord": [
+        8.1197144,
+        98.6250725
+      ],
+      "desc": "Luxury Eco-Resort in Koh Yao Noi (near Phuket)",
+      "longDesc": "Singha Park Chiang Rai combines vineyard resort with northern Thailand wine culture This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Six%20Senses%20Koh%20Yao%20Noi&center=8.1197144,98.6250725",
+      "placeId": "ChIJ70vUkC-3UTARbsjc4ZlR3O0",
+      "address": "56, Tambon Ko Yao Noi, Amphoe Ko Yao, Chang Wat Phang-nga 82160, Thailand"
+    },
+    {
+      "name": "Anantara Mai Khao Phuket Villas",
+      "coord": [
+        8.169028899999999,
+        98.2954761
+      ],
+      "desc": "Luxury Resort in Phuket (Mai Khao); luxury Thai hospitality",
+      "longDesc": "Banyan Tree Spa Resort Mayakobba blends northern charm with wellness and cultural traditions This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Anantara%20Mai%20Khao%20Phuket%20Villas&center=8.169028899999999,98.2954761",
+      "placeId": "ChIJ37AkgppFUDAR01t6uJkm4Oc",
+      "address": "888, 888 ตำบล ไม้ขาว, Tambon Mai Khao, Amphoe Thalang, Chang Wat Phuket 83110, Thailand"
+    },
+    {
+      "name": "COMO Point Yamu",
+      "coord": [
+        8.651732050807569,
+        98.40100000000001
+      ],
+      "desc": "Luxury Resort; Wellness + views; luxury Thai hospitality",
+      "longDesc": "Ping Nakara Jim Thompson showcases designer boutique Chiang Mai with Thai antique elegance This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=COMO%20Point%20Yamu&center=8.651732050807569,98.40100000000001"
+    },
+    {
+      "name": "Banyan Tree Phuket",
+      "coord": [
+        8.0120586,
+        98.295648
+      ],
+      "desc": "Luxury Resort in Phuket (Bang Tao); luxury Thai hospitality",
+      "longDesc": "Tamarind Village Chiang Mai offers intimate old-town charm with cultural integration This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Banyan%20Tree%20Phuket&center=8.0120586,98.295648",
+      "placeId": "ChIJRd3GhzE4UDARzv-XHqvAepo",
+      "address": "33 Srisunthorn 33/27 Cherngthalay Tambon Choeng Thale, Amphoe Thalang, Chang Wat Phuket 83110, Thailand"
+    },
+    {
+      "name": "SALA Phuket Mai Khao Beach Resort",
+      "coord": [
+        8.1588674,
+        98.2976942
+      ],
+      "desc": "Boutique Resort in Phuket (Mai Khao); luxury Thai hospitality",
+      "longDesc": "Dhara Dhevi Chiang Mai recreates Lanna kingdom with palatial architecture and luxury This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=SALA%20Phuket%20Mai%20Khao%20Beach%20Resort&center=8.1588674,98.2976942",
+      "placeId": "ChIJZwAOlyc3UDARlGSSRRAan8Q",
+      "address": "333, Tambon Mai Khao, Amphoe Thalang, Chang Wat Phuket 83110, Thailand"
+    },
+    {
+      "name": "Aleenta Phuket Resort & Spa",
+      "coord": [
+        8.254481799999999,
+        98.2815411
+      ],
+      "desc": "Luxury Resort; Crowd-free beach; luxury Thai hospitality",
+      "longDesc": "Riverside House Chiang Mai provides riverside comfort with cultural and artistic ambiance This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Aleenta%20Phuket%20Resort%20%26%20Spa&center=8.254481799999999,98.2815411",
+      "placeId": "ChIJR9VeEvJaUDARAqs-I-7RGCo",
+      "address": "33, Tambon Khok Kloi, Amphoe Takua Thung, Chang Wat Phang-nga 82140, Thailand"
+    },
+    {
+      "name": "Four Seasons Resort Koh Samui",
+      "coord": [
+        9.572516499999999,
+        99.9238924
+      ],
+      "desc": "Ultra-Luxury Resort; Beach luxury; luxury Thai hospitality",
+      "longDesc": "Akyra Manor Chiang Mai combines contemporary design with artistic Thai cultural expression This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Resort%20Koh%20Samui&center=9.572516499999999,99.9238924",
+      "placeId": "ChIJJ0wEK_P3VDARccizdcVtXEA",
+      "address": "219 Moo 5 Surat Thani Angthong, ตำบล แม่น้ำ อำเภอเกาะสมุย สุราษฎร์ธานี 84140, Thailand"
+    },
+    {
+      "name": "Six Senses Samui",
+      "coord": [
+        9.5912426,
+        100.0677802
+      ],
+      "desc": "Luxury Eco-Resort; Sustainable luxury; luxury Thai hospitality",
+      "longDesc": "Malee Samui Beach Boutique delivers budget-luxury beach experience with authentic Thailand This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Six%20Senses%20Samui&center=9.5912426,100.0677802",
+      "placeId": "ChIJf-_fN7r6VDARk3I6y_EfqAo",
+      "address": "9, บ้านปลายแหลม, 10, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand"
+    },
+    {
+      "name": "The Ritz-Carlton, Koh Samui",
+      "coord": [
+        9.579469999999999,
+        100.07459519999999
+      ],
+      "desc": "Luxury Resort in Koh Samui; luxury Thai hospitality",
+      "longDesc": "Beyond Resort Katu Phuket provides intimate resort escape with peaceful garden sanctuary This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ritz-Carlton%2C%20Koh%20Samui&center=9.579469999999999,100.07459519999999",
+      "placeId": "ChIJt1Xl86z6VDARG51Euazds5A",
+      "address": "9, 123 Tambon, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand"
+    },
+    {
+      "name": "Kamalaya Wellness Sanctuary & Holistic Spa",
+      "coord": [
+        9.4231266,
+        100.0073493
+      ],
+      "desc": "Wellness Retreat in Koh Samui (South); luxury Thai hospitality",
+      "longDesc": "Khaolak Laguna Resort Khao Lak nestles beachfront with natural limestone beauty This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kamalaya%20Wellness%20Sanctuary%20%26%20Holistic%20Spa&center=9.4231266,100.0073493",
+      "placeId": "ChIJLYLoEELzVDARK6bVhO2VmzU",
+      "address": "102 9 Laem-Set Rd, Tambon Na Mueang, Amphoe Ko Samui, Chang Wat Surat Thani 84140, Thailand"
+    },
+    {
+      "name": "Cape Fahn Hotel",
+      "coord": [
+        9.5733768,
+        100.08764049999999
+      ],
+      "desc": "Luxury Resort; Romance / seclusion; luxury Thai hospitality",
+      "longDesc": "Katathani Phuket Beach Resort spans beachfront with multiple pools and activity variety This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cape%20Fahn%20Hotel&center=9.5733768,100.08764049999999",
+      "placeId": "ChIJyd3e3fjvVDARpWf4OCa-qEg",
+      "address": "24/269, ตำบล บ่อผุด Koh Samui, สุราษฎร์ธานี 84320, Thailand"
+    },
+    {
+      "name": "Kimpton Kitalay Samui",
+      "coord": [
+        9.5735929,
+        100.07929089999999
+      ],
+      "desc": "Lifestyle Luxury in Koh Samui (Choeng Mon)",
+      "longDesc": "Hilton Phuket Arcadia Resort offers comprehensive family resort amenities and beach access This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kimpton%20Kitalay%20Samui&center=9.5735929,100.07929089999999",
+      "placeId": "ChIJgz3e9V7vVDARkHAE6gTm4Rg",
+      "address": "10, 79, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand"
+    },
+    {
+      "name": "Anantara Lawana Koh Samui Resort",
+      "coord": [
+        9.5421905,
+        100.0743911
+      ],
+      "desc": "Luxury Resort; Couples + families; luxury Thai hospitality",
+      "longDesc": "Outrigger Laguna Phuket features water-based activities and family-friendly resort experience This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Anantara%20Lawana%20Koh%20Samui%20Resort&center=9.5421905,100.0743911",
+      "placeId": "ChIJw4MMxzTwVDARCW40ARQ8V1k",
+      "address": "92 1, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand"
+    },
+    {
+      "name": "Garrya Tongsai Bay Samui",
+      "coord": [
+        9.578368,
+        100.078977
+      ],
+      "desc": "Luxury Resort in Koh Samui (Tongsai Bay)",
+      "longDesc": "Hua Hin Railway Hotel preserves historic coastal charm from Thai railway era This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Garrya%20Tongsai%20Bay%20Samui&center=9.578368,100.078977",
+      "placeId": "ChIJe6Zy9L3xVDARi9dn3Yl34CY",
+      "address": "84, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand"
+    },
+    {
+      "name": "Samujana Villas",
+      "coord": [
+        9.5612798,
+        100.0861199
+      ],
+      "desc": "Luxury Villas in Koh Samui (NE); luxury Thai hospitality",
+      "longDesc": "Centara Grand Hua Hin combines heritage beach town with modern resort comfort This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Samujana%20Villas&center=9.5612798,100.0861199",
+      "placeId": "ChIJM4NhkePvVDARenoKwKrsf6Q",
+      "address": "63, 154 Plai Leam Soi 11, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand"
+    },
+    {
+      "name": "Silavadee Pool Spa Resort",
+      "coord": [
+        9.4677583,
+        100.0707564
+      ],
+      "desc": "Boutique Resort; Honeymoon / quiet; luxury Thai hospitality",
+      "longDesc": "Angsana Hua Hin provides oceanfront village setting with authentic Thailand beach culture This luxury sanctuary combines refined Thai design, personalized service, and exceptional facilities.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Silavadee%20Pool%20Spa%20Resort&center=9.4677583,100.0707564",
+      "placeId": "ChIJgWF2RvnzVDARoPL2FKOPadc",
+      "address": "208/66 Tambon Maret, Amphoe Ko Samui, Chang Wat Surat Thani 84310, Thailand"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Sorn",
+      "coord": [
+        13.7231004,
+        100.5685251
+      ],
+      "desc": "Southern Thai (fine dining); Special occasion",
+      "longDesc": "Sorn elevates southern Thai cuisine with artistic technique and ingredient authenticity The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sorn&center=13.7231004,100.5685251",
+      "placeId": "ChIJWfYJ3QWf4jAR9erXv7kK7sA",
+      "address": "56 Sukhumvit 26, Khwaeng Khlong Tan Nuea, Khet Khlong Toei, Krung Thep Maha Nakhon 10110, Thailand"
+    },
+    {
+      "name": "Sühring",
+      "coord": [
+        13.7108133,
+        100.54548709999999
+      ],
+      "desc": "Modern German in Bangkok (Sathorn) in Thailand; luxury and culture",
+      "longDesc": "Gaggan pioneered molecular technique reshaping Thai gastronomy into global recognition The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=S%C3%BChring&center=13.7108133,100.54548709999999",
+      "placeId": "ChIJa4FyWkef4jARYosTC995W8U",
+      "address": "10 Soi Yen Akat 3, Khwaeng Chong Nonsi, Khet Yan Nawa, Krung Thep Maha Nakhon 10120, Thailand"
+    },
+    {
+      "name": "Le Du",
+      "coord": [
+        13.7250312,
+        100.5293521
+      ],
+      "desc": "Thai contemporary in Bangkok (Silom) in Thailand; luxury and culture",
+      "longDesc": "Le Du explores seasonal Thai ingredients with contemporary culinary innovation and precision The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Du&center=13.7250312,100.5293521",
+      "placeId": "ChIJL7-My9KY4jARzlw1ffk9vo8",
+      "address": "399/3 Soi Siri Chunsawek, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Nusara",
+      "coord": [
+        13.7457026,
+        100.49152819999999
+      ],
+      "desc": "Thai (fine dining); Special occasion in Thailand; luxury and culture",
+      "longDesc": "Issaya Siamese Club serves royal heritage recipes in intimate garden dining sanctuary The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nusara&center=13.7457026,100.49152819999999",
+      "placeId": "ChIJe_d6d0OZ4jARL0uQgNHQRPI",
+      "address": "336 Thanon Maha Rat, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Restaurant Potong",
+      "coord": [
+        13.739154899999999,
+        100.5084933
+      ],
+      "desc": "Thai-Chinese (fine dining); Foodies in Thailand; luxury and culture",
+      "longDesc": "Nahm presents historic Thai court cuisine with rigorous traditional technique and integrity The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Potong&center=13.739154899999999,100.5084933",
+      "placeId": "ChIJd7grWxeZ4jAR8KwClMpGmHo",
+      "address": "422 Soi Wanit 1, Khwaeng Samphanthawong, Khet Samphanthawong, Krung Thep Maha Nakhon 10100, Thailand"
+    },
+    {
+      "name": "R-Haan",
+      "coord": [
+        13.731832100000002,
+        100.5795655
+      ],
+      "desc": "Royal Thai; Thai classics elevated in Thailand; luxury and culture",
+      "longDesc": "Jay Fai perfected legendary street pad thai drawing pilgrimage lines worldwide The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=R-Haan&center=13.731832100000002,100.5795655",
+      "placeId": "ChIJ-dmMWquf4jAREDFTxbjSFh0",
+      "address": "131 ซอย ทองหล่อ 9 Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand"
+    },
+    {
+      "name": "Gaa",
+      "coord": [
+        13.7273792,
+        100.5782473
+      ],
+      "desc": "Indian-influenced contemporary; Foodies in Thailand; luxury and culture",
+      "longDesc": "Sühring delivers refined German cuisine within Bangkok's cosmopolitan dining scene The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gaa&center=13.7273792,100.5782473",
+      "placeId": "ChIJ9Rn3Stqe4jARvC9rgWzu31Q",
+      "address": "46, 1 Soi Sukhumvit 53, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand"
+    },
+    {
+      "name": "Baan Tepa",
+      "coord": [
+        13.7608005,
+        100.6263537
+      ],
+      "desc": "Thai (farm-to-table) in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Coda Bangkok combines Italian traditions with Asian inspirations in creative fusion The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Baan%20Tepa&center=13.7608005,100.6263537",
+      "placeId": "ChIJg1tidYdhHTER4NNOidyhVvc",
+      "address": "561 Ramkhamhaeng Rd, Khwaeng Hua Mak, Khet Bang Kapi, Krung Thep Maha Nakhon 10240, Thailand"
+    },
+    {
+      "name": "Blue by Alain Ducasse",
+      "coord": [
+        13.726484399999999,
+        100.51037079999999
+      ],
+      "desc": "French (fine dining); Special occasion in Thailand; luxury and culture",
+      "longDesc": "Indochine Bangkok celebrates Vietnamese-Thai-French colonial cuisine traditions The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20by%20Alain%20Ducasse&center=13.726484399999999,100.51037079999999",
+      "placeId": "ChIJaa9v9cKZ4jARCdXA1Oxli0A",
+      "address": "Unit L101, 1st Floor, ICONLUXE ICONSIAM Shopping Centre, Klongtonsai, คลองสาน กรุงเทพมหานคร 10600, Thailand"
+    },
+    {
+      "name": "Chef's Table (lebua)",
+      "coord": [
+        13.7219465,
+        100.51706
+      ],
+      "desc": "French (fine dining); Celebrations in Thailand; luxury and culture",
+      "longDesc": "Blue by Alain Ducasse brings Michelin-starred French mastery to Bangkok luxury The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chef%27s%20Table%20%28lebua%29&center=13.7219465,100.51706",
+      "placeId": "ChIJkbyJIMeZ4jARgc1-140HJkU",
+      "address": "61st Floor, State Tower, 1055 Si Lom Rd, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Mezzaluna (lebua)",
+      "coord": [
+        13.7219248,
+        100.5170156
+      ],
+      "desc": "French/Japanese (fine dining); Celebrations",
+      "longDesc": "Le Normandie presents classic French elegance within riverside heritage hotel walls The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mezzaluna%20%28lebua%29&center=13.7219248,100.5170156",
+      "placeId": "ChIJmXuobsWY4jARc3EtJwWV21s",
+      "address": "65th Floor State Tower Bangkok 1055 Si Lom Rd, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Côte by Mauro Colagreco",
+      "coord": [
+        13.7130923,
+        100.51084689999999
+      ],
+      "desc": "French Riviera; Special occasion in Thailand; luxury and culture",
+      "longDesc": "Hom celebrates forgotten Thai dishes revived through careful recipe archaeology The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=C%C3%B4te%20by%20Mauro%20Colagreco&center=13.7130923,100.51084689999999",
+      "placeId": "ChIJf8OOlnmZ4jAR1XxCVTOPfPY",
+      "address": "300/2 ถ. เจริญกรุง Khwaeng Yan Nawa, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand"
+    },
+    {
+      "name": "Cadence by Dan Bark",
+      "coord": [
+        13.7270908,
+        100.5941823
+      ],
+      "desc": "Contemporary in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Khao provides rustic northern Thai hillside cooking with regional authenticity The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cadence%20by%20Dan%20Bark&center=13.7270908,100.5941823",
+      "placeId": "ChIJWaOKFbmf4jARxRC6tC9ZlL4",
+      "address": "225 Soi Pridi Banomyong 25, Khlong Toei Nuea Watthana, Krung Thep Maha Nakhon 10110, Thailand"
+    },
+    {
+      "name": "Coda Bangkok",
+      "coord": [
+        13.7359882,
+        100.5460214
+      ],
+      "desc": "Contemporary in Bangkok in Thailand; luxury and culture (1)",
+      "longDesc": "Savelberg Amsterdam transports Dutch fine dining precision to Bangkok's cosmopolitan scene The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Coda%20Bangkok&center=13.7359882,100.5460214",
+      "placeId": "ChIJr81GL1ef4jARIBWQ8vluIr4",
+      "address": "130-132 Thanon Witthayu, Khwaeng Lumphini, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+    },
+    {
+      "name": "Cross",
+      "coord": [
+        13.6727762,
+        100.53447179999999
+      ],
+      "desc": "Contemporary in Bangkok in Thailand; luxury and culture (2)",
+      "longDesc": "Restaurant Potong mixes French classical technique with Thai ingredient innovation The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cross&center=13.6727762,100.53447179999999",
+      "placeId": "ChIJA1KdMQyh4jARNv_UjzPJ5K8",
+      "address": "762 โครงการบางกอกสแควร์ 2 Thanon Rama III, บางโพงพาง Khet Yan Nawa, Krung Thep Maha Nakhon 10120, Thailand"
+    },
+    {
+      "name": "Inddee",
+      "coord": [
+        13.7741628,
+        100.4819492
+      ],
+      "desc": "Indian (fine dining) in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Inddee expresses artistic Thai cuisine through visually stunning plate presentations The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Inddee&center=13.7741628,100.4819492",
+      "placeId": "ChIJl_JN4q6Z4jARm4DuKguSdQ8",
+      "address": "4th Floor, 1 Charan Sanit Wong Rd, Khwaeng Bang Bumru, Khet Bang Phlat, Krung Thep Maha Nakhon 10700, Thailand"
+    },
+    {
+      "name": "Khaan",
+      "coord": [
+        13.747105699999999,
+        100.546021
+      ],
+      "desc": "Thai (fine dining); Thai-focused tasting",
+      "longDesc": "Jampa delivers Assamese Indian traditions bringing spice mastery to Bangkok The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Khaan&center=13.747105699999999,100.546021",
+      "placeId": "ChIJm68HaIqf4jARhHLocwFgtyg",
+      "address": "14 3 Soi Somkid Khwaeng Lumphini, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+    },
+    {
+      "name": "Sra Bua by Kiin Kiin",
+      "coord": [
+        13.748521799999999,
+        100.5351244
+      ],
+      "desc": "Modern Thai in Bangkok (Siam Kempinski) in Thailand; luxury and culture",
+      "longDesc": "Heh perfects street-level mango sticky rice and simple Thai sweet treats The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sra%20Bua%20by%20Kiin%20Kiin&center=13.748521799999999,100.5351244",
+      "placeId": "ChIJIdQ-0s2e4jAREzCRlcXp3qc",
+      "address": "991/9, Siam Kempinski Hotel, Rama I Rd, Khwaeng Pathum Wan, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+    },
+    {
+      "name": "Gaggan at Louis Vuitton",
+      "coord": [
+        13.7439979,
+        100.5413947
+      ],
+      "desc": "Avant-garde; Once-in-a-lifetime in Thailand; luxury and culture",
+      "longDesc": "Octave Rooftop Lounge elevates cocktails above Bangkok's glittering skyline The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gaggan%20at%20Louis%20Vuitton&center=13.7439979,100.5413947",
+      "placeId": "ChIJq9HSntuf4jARTUCyz3WhgxE",
+      "address": "Unit 2F-S01-B, Second Floor, Unit A, 5th Floor Gaysorn Amarin, 502 ถนน เพลินจิต แขวงลุมพินี เขตปทุมวัน กรุงเทพมหานคร 10330, Thailand"
+    },
+    {
+      "name": "Nahm",
+      "coord": [
+        13.723574099999999,
+        100.5391861
+      ],
+      "desc": "Thai (fine dining); Classic Thai flavors",
+      "longDesc": "Sky Bar sits atop Sirocco tower creating theatrical elevation above night Bangkok The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nahm&center=13.723574099999999,100.5391861",
+      "placeId": "ChIJHULm2C-f4jAR-phOAtQVND4",
+      "address": "โรงแรมโคโม เมโทรโพลิแทน กรุงเทพฯ 27 S Sathon Rd, Khwaeng Thung Maha Mek, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand"
+    },
+    {
+      "name": "Issaya Siamese Club",
+      "coord": [
+        13.720562099999999,
+        100.5519393
+      ],
+      "desc": "Thai (modern) in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Bar Sathorn offers craft cocktails with sophisticated mixology in Sathorn district The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Issaya%20Siamese%20Club&center=13.720562099999999,100.5519393",
+      "placeId": "ChIJCXkLZD2f4jARoh-HS34vstk",
+      "address": "4 Soi Si Akson, Khwaeng Thung Maha Mek, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand"
+    },
+    {
+      "name": "Supanniga Eating Room",
+      "coord": [
+        13.7441351,
+        100.49173479999999
+      ],
+      "desc": "Thai (regional); Casual but excellent in Thailand; luxury and culture",
+      "longDesc": "Vesper serves artisanal cocktails within intimate speakeasy atmosphere The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Supanniga%20Eating%20Room&center=13.7441351,100.49173479999999",
+      "placeId": "ChIJjZS9RwSZ4jARNZMgiT03fJ4",
+      "address": "392, 25-26 ซอย เพ็ญพัฒน์ 2, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Err",
+      "coord": [
+        13.7261498,
+        100.57498629999999
+      ],
+      "desc": "Thai drinking food in Bangkok (Old Town)",
+      "longDesc": "Dry Wave Cocktail Studio focuses pure technique, precision, and ingredient mastery The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Err&center=13.7261498,100.57498629999999",
+      "placeId": "ChIJ67MqRQSZ4jARLVzfkPJOWRg",
+      "address": "2/4 Sukhumvit Rd, Khwaeng Khlong Tan, Khet Khlong Toei, Krung Thep Maha Nakhon 10110, Thailand"
+    },
+    {
+      "name": "Nai Mong Hoi Thod",
+      "coord": [
+        13.742195299999999,
+        100.510739
+      ],
+      "desc": "Street food (oyster omelet); Street food lovers",
+      "longDesc": "G.O.D. Restaurant blends Thai street food with hipster retro Bangkok aesthetic The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nai%20Mong%20Hoi%20Thod&center=13.742195299999999,100.510739",
+      "placeId": "ChIJb73JxSOZ4jARHgl4zhyCrLE",
+      "address": "539 Phlap Phla Chai Rd, Khwaeng Pom Prap, Khet Pom Prap Sattru Phai, Krung Thep Maha Nakhon 10100, Thailand"
+    },
+    {
+      "name": "Guay Jub Ouan Pochana",
+      "coord": [
+        13.7406171,
+        100.5091977
+      ],
+      "desc": "Street food (rolled noodle soup); Late-night eats",
+      "longDesc": "Cross celebrates Western fine dining with wine focus in modern urban sanctuary The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Guay%20Jub%20Ouan%20Pochana&center=13.7406171,100.5091977",
+      "placeId": "ChIJ_f2SjiGZ4jARZ_oV924fllg",
+      "address": "408 Yaowarat Rd, Khwaeng Chakkrawat, Chakkaphat, Krung Thep Maha Nakhon 10100, Thailand"
+    },
+    {
+      "name": "Eat Me",
+      "coord": [
+        13.7254648,
+        100.53389849999999
+      ],
+      "desc": "Modern international; Late dinner in Thailand; luxury and culture",
+      "longDesc": "Err presents northeastern Thai isaan cuisine with fiery authentic preparation The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Eat%20Me&center=13.7254648,100.53389849999999",
+      "placeId": "ChIJw8qoMrme4jARCoOj3rudgOs",
+      "address": "1, 6 Phiphat 2, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Le Normandie",
+      "coord": [
+        13.723665800000001,
+        100.51429329999999
+      ],
+      "desc": "French (fine dining); Special occasion in Thailand; luxury and culture (1)",
+      "longDesc": "Doy Kuay Teow Reua serves boat noodles from traditional rice barges on canals The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Normandie&center=13.723665800000001,100.51429329999999",
+      "placeId": "ChIJF0QAycSY4jARXiIStvWF63w",
+      "address": "48 Oriental Ave, Khwaeng Bang Rak, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Prachak Pet Yang",
+      "coord": [
+        13.720392799999999,
+        100.5159766
+      ],
+      "desc": "Cantonese roast duck; Local institution in Thailand; luxury and culture",
+      "longDesc": "Cadence by Dan Bark delivers Nordic technique applied to Thai seasonal ingredients The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Prachak%20Pet%20Yang&center=13.720392799999999,100.5159766",
+      "placeId": "ChIJVR1_rsWY4jAR0BqRhCK_sbM",
+      "address": "1415 ถ. เจริญกรุง Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Raan Jay Fai",
+      "coord": [
+        13.7525826,
+        100.5048022
+      ],
+      "desc": "Street food (crab omelet); Bucket-list street food",
+      "longDesc": "Nusara brings provincial Thai cooking from Yasothon region with family recipes The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Raan%20Jay%20Fai&center=13.7525826,100.5048022",
+      "placeId": "ChIJaxq89xaZ4jARQtKhE1uqq9c",
+      "address": "327 Maha Chai Rd, Khwaeng Samran Rat, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Thipsamai Pad Thai",
+      "coord": [
+        13.7527976,
+        100.504823
+      ],
+      "desc": "Street food (pad thai); Classic Bangkok bite",
+      "longDesc": "Restaurant Sapai celebrates Isan tradition serving authentic Lao-Thai cuisine The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Thipsamai%20Pad%20Thai&center=13.7527976,100.504823",
+      "placeId": "ChIJxU5YeBaZ4jARvm8EVZYGjGk",
+      "address": "313, 315 Maha Chai Rd, Khwaeng Samran Rat, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Som Tam Jay So",
+      "coord": [
+        13.7250673,
+        100.53259519999999
+      ],
+      "desc": "Isaan street food; Spice lovers in Thailand; luxury and culture",
+      "longDesc": "Saneh Jaan teaches cooking classes sharing family techniques and flavor secrets The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Som%20Tam%20Jay%20So&center=13.7250673,100.53259519999999",
+      "placeId": "ChIJi6rkpi2f4jAR2Bf4L22I7As",
+      "address": "146 Phiphat 2, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Mae Varee Fruit Shop",
+      "coord": [
+        13.7240179,
+        100.5793321
+      ],
+      "desc": "Dessert (mango sticky rice); Dessert in Thailand; luxury and culture",
+      "longDesc": "Krua Pla offers riverside fish restaurant serving fresh daily catch traditionally The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mae%20Varee%20Fruit%20Shop&center=13.7240179,100.5793321",
+      "placeId": "ChIJbbqO2Kif4jARIZxlpOCwAi4",
+      "address": "1 Soi Thong Lo, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand"
+    },
+    {
+      "name": "Jae Aun Bua Loy Nam Khing",
+      "coord": [
+        13.7412779,
+        100.5079971
+      ],
+      "desc": "Dessert (ginger dumplings); Dessert in Thailand; luxury and culture",
+      "longDesc": "Taling Pling showcases northern Thai khao soi mastery from family tradition The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jae%20Aun%20Bua%20Loy%20Nam%20Khing&center=13.7412779,100.5079971",
+      "placeId": "ChIJUexszluZ4jARO7sqljcavp0",
+      "address": "ถนน เยาวราช TH 曼谷 号 门牌552-554 泰国, แขวงสัมพันธวงศ์ เขตสัมพันธวงศ์ กรุงเทพมหานคร 10100, Thailand"
+    },
+    {
+      "name": "Doy Kuay Teow Reua",
+      "coord": [
+        13.7681512,
+        100.5359061
+      ],
+      "desc": "Boat noodles in Bangkok (Victory Monument)",
+      "longDesc": "Methalee serves northeast Thai cuisine evoking countryside village authenticity The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Doy%20Kuay%20Teow%20Reua&center=13.7681512,100.5359061",
+      "placeId": "ChIJV3n3-rGe4jARrUnDLO8V4gY",
+      "address": "Soi Ratchawithi 18, Khwaeng Thung Phaya Thai, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand"
+    },
+    {
+      "name": "Octave Rooftop Lounge & Bar",
+      "coord": [
+        13.723502300000002,
+        100.58054260000002
+      ],
+      "desc": "Rooftop bar in Bangkok (Thong Lo) in Thailand; luxury and culture",
+      "longDesc": "Somtum Der perfects spicy papaya salad recipes from various Thai regions The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Octave%20Rooftop%20Lounge%20%26%20Bar&center=13.723502300000002,100.58054260000002",
+      "placeId": "ChIJhxshNqWf4jARgYxEW8hBGcE",
+      "address": "2 ซอย, Sukhumvit Rd, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand"
+    },
+    {
+      "name": "Banthat Thong Road (street food stretch)",
+      "coord": [
+        13.7465335,
+        100.52351349999999
+      ],
+      "desc": "Street food hub; Casual grazing in Thailand; luxury and culture",
+      "longDesc": "Bunroei celebrates Thai desserts and sweets from traditional royal kitchen heritage The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Banthat%20Thong%20Road%20%28street%20food%20stretch%29&center=13.7465335,100.52351349999999",
+      "placeId": "ChIJF-YKHQCZ4jARzs2JDbZbwaY",
+      "address": "1222 Banthat Thong Rd, Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+    },
+    {
+      "name": "Bar Us",
+      "coord": [
+        13.725582399999999,
+        100.5694437
+      ],
+      "desc": "Cocktail bar in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Hua Seng Hong preserves Hakka Chinese-Thai fusion traditions of old Bangkok The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Us&center=13.725582399999999,100.5694437",
+      "placeId": "ChIJG5QaZUKf4jARMm-GbfMbX4A",
+      "address": "Opposite side of security kiosk ( Glass door) Floor 1, 61/37 Floor, 1 สุขุมวิท 26 แขวงคลองตัน เขตคลองเตย กรุงเทพมหานคร 10110, Thailand"
+    },
+    {
+      "name": "Dry Wave Cocktail Studio",
+      "coord": [
+        13.7336184,
+        100.580665
+      ],
+      "desc": "Cocktail bar in Bangkok in Thailand; luxury and culture (1)",
+      "longDesc": "Boat Noodle Alley features legendary canal-based boat noodle stall heritage The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dry%20Wave%20Cocktail%20Studio&center=13.7336184,100.580665",
+      "placeId": "ChIJYRzUEACf4jAR5YxPdMHC300",
+      "address": "2nd Floor SODALITY, 263 ซอย ทองหล่อ 13 แขวงคลองตันเหนือ เขตวัฒนา กรุงเทพมหานคร 10110, Thailand"
+    },
+    {
+      "name": "BKK Social Club",
+      "coord": [
+        13.7117702,
+        100.51011790000001
+      ],
+      "desc": "Hotel bar (cocktails); Classic cocktails",
+      "longDesc": "Chinatown Chariot serves elevated dim sum within historic Bangkok Chinese neighborhood The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=BKK%20Social%20Club&center=13.7117702,100.51011790000001",
+      "placeId": "ChIJLwlh74qZ4jARfZDqGK5qtE4",
+      "address": "300/1 ถ. เจริญกรุง Khwaeng Yan Nawa, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand"
+    },
+    {
+      "name": "Vesper",
+      "coord": [
+        13.7270527,
+        100.5334589
+      ],
+      "desc": "Cocktail bar in Bangkok in Thailand; luxury and culture (2)",
+      "longDesc": "Thai Suki serves traditional hot pot dining with Thai ingredient selections The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Vesper&center=13.7270527,100.5334589",
+      "placeId": "ChIJN4leQSyf4jARHG0tQIiRjic",
+      "address": "10/15 Soi Convent 2, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "G.O.D",
+      "coord": [
+        13.729086899999999,
+        100.5345706
+      ],
+      "desc": "Cocktail bar in Bangkok in Thailand; luxury and culture (3)",
+      "longDesc": "Victory Monument Food Court gathers famous street vendors under air-conditioned comfort The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=G.O.D&center=13.729086899999999,100.5345706",
+      "placeId": "ChIJDVzSHZKf4jARyhaAXqIpvUw",
+      "address": "22 Si Lom Rd, Khwaeng Suriya Wong, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Opium",
+      "coord": [
+        13.739189999999999,
+        100.50849760000001
+      ],
+      "desc": "Cocktail bar in Bangkok (Chinatown) in Thailand; luxury and culture",
+      "longDesc": "Or Tor Kor Market Restaurant brings fresh market ingredients to simple preparation The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Opium&center=13.739189999999999,100.50849760000001",
+      "placeId": "ChIJ95ecsjyZ4jARLm3_GznbJsc",
+      "address": "422 Soi Wanit 1, Khwaeng Samphanthawong, Khet Samphanthawong, Krung Thep Maha Nakhon 10100, Thailand"
+    },
+    {
+      "name": "Bar Sathorn",
+      "coord": [
+        13.722108299999999,
+        100.5289705
+      ],
+      "desc": "Cocktail bar in Bangkok in Thailand; luxury and culture (4)",
+      "longDesc": "Yaowarat Road at Night transforms into legendary street food paradise weekly The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Sathorn&center=13.722108299999999,100.5289705",
+      "placeId": "ChIJXyOvz1OZ4jARR_a5T-qORL8",
+      "address": "106, The House on Sathorn, 108 N Sathon Rd, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "PRU",
+      "coord": [
+        8.038477300000002,
+        98.276724
+      ],
+      "desc": "Contemporary (fine dining); Special occasion",
+      "longDesc": "Patpong Street Night Market offers international street food within historical district The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=PRU&center=8.038477300000002,98.276724",
+      "placeId": "ChIJEzq5U284UDARMU-I3GW73kY",
+      "address": "60, Cherngtalay, 13 Srisoonthorn Road, Cherngtalay 1, Tambon Choeng Thale, Amphoe Thalang, Chang Wat Phuket 83110, Thailand"
+    },
+    {
+      "name": "Jampa",
+      "coord": [
+        8.0394081,
+        98.317342
+      ],
+      "desc": "Farm-to-table (fine dining); Foodies in Thailand; luxury and culture",
+      "longDesc": "Pratunam Market Food Zone combines fresh produce with prepared street foods The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jampa&center=8.0394081,98.317342",
+      "placeId": "ChIJ6a7A_Sg3UDARGzJfnt-tfeA",
+      "address": "46/6, The Community House Tri Vananda, Tambon Thep Krasatti, Amphoe Thalang, Chang Wat Phuket 83110, Thailand"
+    },
+    {
+      "name": "Hom",
+      "coord": [
+        13.595883299999999,
+        100.606262
+      ],
+      "desc": "Fine dining in Phuket in Thailand; luxury and culture",
+      "longDesc": "Khlong Lat Mayom Floating Market preserves traditional commerce on water The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hom&center=13.595883299999999,100.606262",
+      "placeId": "ChIJ63pZZVih4jARQsaobz0JT5M",
+      "address": "376 Samut Niwet Soi 4, Tambon Pak Nam, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand"
+    },
+    {
+      "name": "Heh",
+      "coord": [
+        7.8894369,
+        98.38701730000001
+      ],
+      "desc": "Fine dining in Phuket in Thailand; luxury and culture (1)",
+      "longDesc": "Sampran Riverside Market combines floating tradition with contemporary shopping The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Heh&center=7.8894369,98.38701730000001",
+      "placeId": "ChIJ-ZoYxvExUDARjZaD9eRtZWg",
+      "address": "158 Yaowarad Rd, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand"
+    },
+    {
+      "name": "Khao (Four Seasons Resort Chiang Mai)",
+      "coord": [
+        18.912265899999998,
+        98.9332434
+      ],
+      "desc": "Northern Thai in Chiang Mai in Thailand; luxury and culture",
+      "longDesc": "Amphawa Floating Market specializes in seafood and evening social atmosphere The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20%28Four%20Seasons%20Resort%20Chiang%20Mai%29&center=18.912265899999998,98.9332434",
+      "placeId": "ChIJ0WEGyX8_2jARjAj3Xohp7GY",
+      "address": "502 Moo 1, Mae Rim, Old Road, ตำบล ริมใต้ อำเภอสะเมิง เชียงใหม่ 50180, Thailand"
+    },
+    {
+      "name": "North by Four Seasons (FS Chiang Mai)",
+      "coord": [
+        18.9161881,
+        98.93158419999999
+      ],
+      "desc": "Wood-fired grill; Resort dinner in Thailand; luxury and culture",
+      "longDesc": "Maeklong Railway Market transforms with arriving trains throughout market hours The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=North%20by%20Four%20Seasons%20%28FS%20Chiang%20Mai%29&center=18.9161881,98.93158419999999",
+      "placeId": "ChIJ1Ra_jVI92jARYYoe4BmsFNc",
+      "address": "502 Moo 1, Mae Rim, Old Road, ตำบล ริมใต้ อำเภอสะเมิง เชียงใหม่ 50180, Thailand"
+    },
+    {
+      "name": "Meena Rice Based Cuisine",
+      "coord": [
+        18.7846357,
+        99.0458914
+      ],
+      "desc": "Thai (rice-centric); Lunch stop in Thailand; luxury and culture",
+      "longDesc": "Banglamphu Market offers neighborhood local goods and prepared street foods The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Meena%20Rice%20Based%20Cuisine&center=18.7846357,99.0458914",
+      "placeId": "ChIJ1YJ8rmQl2jARrC3Z4xbDzbg",
+      "address": "Thailand, Chang Wat Chiang Mai, Amphoe San Kamphaeng, Tambon San Klang, 13"
+    },
+    {
+      "name": "Huen Jai Yong",
+      "coord": [
+        18.7253012,
+        99.10288159999999
+      ],
+      "desc": "Northern Thai in Chiang Mai in Thailand; luxury and culture (1)",
+      "longDesc": "Tha Chang Market sits near temples serving wholesale and retail shoppers daily The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Huen%20Jai%20Yong&center=18.7253012,99.10288159999999",
+      "placeId": "ChIJuyzDSkUo2jARhuiELAkzkAQ",
+      "address": "65 หมู่ 4 บ้านป่าตาล บวกค้าง Amphoe San Kamphaeng, Chang Wat Chiang Mai 50130, Thailand"
+    },
+    {
+      "name": "Sky Bar",
+      "coord": [
+        13.721423099999999,
+        100.5168806
+      ],
+      "desc": "Restaurant in  in Thailand; luxury and culture",
+      "longDesc": "Yaowarat Seafood specializes in fresh catch with traditional Thai coastal preparations The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sky%20Bar&center=13.721423099999999,100.5168806",
+      "placeId": "ChIJVTBnbMWY4jARzZ5CS7DwHVk",
+      "address": "64th Floor, State Tower Bangkok, 1055 Si Lom Rd, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Freebird",
+      "coord": [
+        13.720529899999999,
+        100.61277419999999
+      ],
+      "desc": "Restaurant in  in Thailand; luxury and culture (1)",
+      "longDesc": "Jok Prince serves traditional rice porridge breakfast with century egg variations The dining experience showcases authentic flavors and culinary excellence for discerning food lovers.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Freebird&center=13.720529899999999,100.61277419999999",
+      "placeId": "ChIJYeCxXj9gHTERMICUwdYu6-Y",
+      "address": "161/28 หมู่บ้านกลางเมือง(Banklangmueng) สุขุมวิท 77(Sukhumvit 77 Soi On Nut 17, Khwaeng Suan Luang, Khet Suan Luang, Krung Thep Maha Nakhon 10250, Thailand"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "Grand Palace & Wat Phra Kaew (Emerald Buddha)",
+      "coord": [
+        13.7516435,
+        100.4927041
+      ],
+      "desc": "Temple/Palace in Bangkok (Old Town) in Thailand; luxury and culture",
+      "longDesc": "Grand Palace glitters in gold leaf presenting Thailand's spiritual governmental majesty This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Palace%20%26%20Wat%20Phra%20Kaew%20%28Emerald%20Buddha%29&center=13.7516435,100.4927041",
+      "placeId": "ChIJ5Wl37g6Z4jARiP4itarBPDQ",
+      "address": "Na Phra Lan Rd, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Wat Pho (Reclining Buddha + massage school)",
+      "coord": [
+        13.7455818,
+        100.4912927
+      ],
+      "desc": "Temple in Bangkok (Old Town) in Thailand; luxury and culture",
+      "longDesc": "Wat Phra Kaew houses emerald Buddha and symbolizes Thailand's deepest devotion This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Pho%20%28Reclining%20Buddha%20%2B%20massage%20school%29&center=13.7455818,100.4912927",
+      "placeId": "ChIJCRWKpOmZ4jARCM4KBhoWp6A",
+      "address": "5 Thanon Maha Rat, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Wat Arun (Temple of Dawn) via sunset boat view",
+      "coord": [
+        13.744865899999999,
+        100.4909543
+      ],
+      "desc": "Temple / viewpoint in Bangkok (River) in Thailand; luxury and culture",
+      "longDesc": "Wat Pho contains massive reclining Buddha and legendary Thai massage training school This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Arun%20%28Temple%20of%20Dawn%29%20via%20sunset%20boat%20view&center=13.744865899999999,100.4909543",
+      "placeId": "ChIJq6BkoviZ4jARz5h-IvOGsGw",
+      "address": "89 Thanon Maha Rat, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Chao Phraya River ferry hop",
+      "coord": [
+        13.7544921,
+        100.4885982
+      ],
+      "desc": "Transport / sightseeing; Budget-friendly sightseeing",
+      "longDesc": "Wat Arun rises across river displaying prang architecture along Chao Phraya This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chao%20Phraya%20River%20ferry%20hop&center=13.7544921,100.4885982",
+      "placeId": "ChIJHzSqaQCZ4jARsGchoN7cSx0",
+      "address": "QF3Q+QCX Sathorn Pier (Central Pier, Chao Phraya River, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Canal (khlong) tour",
+      "coord": [
+        13.7138202,
+        100.4998787
+      ],
+      "desc": "Boat tour in Bangkok (Thonburi) in Thailand; luxury and culture",
+      "longDesc": "Jim Thompson House preserves American Thai silk baron's art and teak home collections This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Canal%20%28khlong%29%20tour&center=13.7138202,100.4998787",
+      "placeId": "ChIJEVt-UJOY4jAREMCzUB98npk",
+      "address": "66 Charoen Nakhon Rd. 32/1, Khlong San, Bangkok 10600, Thailand"
+    },
+    {
+      "name": "Jim Thompson House Museum",
+      "coord": [
+        13.7493569,
+        100.5281613
+      ],
+      "desc": "Historic teakwood Thai mansion & museum",
+      "longDesc": "Benjakitti Park Green Mile creates elevated tree canopy walking path through urban Bangkok This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jim%20Thompson%20House%20Museum&center=13.7493569,100.5281613",
+      "placeId": "ChIJWVT7hDKZ4jARGJOhe21RhOk",
+      "address": "6 Soi Kasem San 2, Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+    },
+    {
+      "name": "Chinatown (Yaowarat) food crawl",
+      "coord": [
+        13.7410037,
+        100.50847379999999
+      ],
+      "desc": "Neighborhood in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Lumphini Park offers lakeside sanctuary with tai chi, wildlife, and evening coolness This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chinatown%20%28Yaowarat%29%20food%20crawl&center=13.7410037,100.50847379999999",
+      "placeId": "ChIJD-NLSWyZ4jARCQ3OoWjiHYs",
+      "address": "148 Maha Chak Rd, Khwaeng Chakkrawat, Khet Samphanthawong, Krung Thep Maha Nakhon 10100, Thailand"
+    },
+    {
+      "name": "Tingly Thai Cooking School",
+      "coord": [
+        13.7263345,
+        100.52266100000001
+      ],
+      "desc": "Hands-on Bangkok cooking classes for groups",
+      "longDesc": "Ancient City Muang Boran replicates Thailand's major landmarks in outdoor museum setting This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tingly%20Thai%20Cooking%20School&center=13.7263345,100.52266100000001",
+      "placeId": "ChIJ25g-hISZ4jARhRtwhsfC4HM",
+      "address": "Suriyawong 17/1 Soi Prachum, Khwaeng Suriya Wong, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Blue Elephant Cooking School",
+      "coord": [
+        13.7187019,
+        100.5214907
+      ],
+      "desc": "Professional Thai culinary school in Bangkok",
+      "longDesc": "Erawan National Park features seven-tiered waterfall hiking through jungle canopy This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Elephant%20Cooking%20School&center=13.7187019,100.5214907",
+      "placeId": "ChIJS7aN2c6Y4jARp2YilGc2Lg0",
+      "address": "BTS Surasak station, 41 S Sathon Rd, Khwaeng Yan Nawa, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand"
+    },
+    {
+      "name": "Benjakitti Park skywalk (Green Mile)",
+      "coord": [
+        13.7338084,
+        100.55183489999999
+      ],
+      "desc": "Park in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Phang Nga Bay showcases dramatic limestone formations rising from turquoise waters This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Benjakitti%20Park%20skywalk%20%28Green%20Mile%29&center=13.7338084,100.55183489999999",
+      "placeId": "ChIJ29JdoVKf4jARFSfXrnb9TJQ",
+      "address": "PHM2+GPG, Khlong Toei, Bangkok 10110, Thailand"
+    },
+    {
+      "name": "Pak Khlong Talat flower market",
+      "coord": [
+        13.7416831,
+        100.4963788
+      ],
+      "desc": "Bangkok flower wholesale market with 6-color sections",
+      "longDesc": "Railay Beach isolates between vertical limestone cliffs accessible only by longtail boat This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pak%20Khlong%20Talat%20flower%20market&center=13.7416831,100.4963788",
+      "placeId": "ChIJL-UmnhyZ4jARuwY-UTadgnI",
+      "address": "สน พระราชวัง ปาก คลองตลาด - วัดกัลยาณมิตร, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Chatuchak Weekend Market",
+      "coord": [
+        13.799781,
+        100.55042449999999
+      ],
+      "desc": "Worlds largest weekend market with 15000+ stalls",
+      "longDesc": "Koh Phi Phi provides turquoise lagoons and snorkeling through tropical marine ecosystems This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chatuchak%20Weekend%20Market&center=13.799781,100.55042449999999",
+      "placeId": "ChIJ3fiD6BSc4jARS324hNeR8ZE",
+      "address": "587, 10 Kamphaeng Phet 2 Rd, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand"
+    },
+    {
+      "name": "Bang Krachao ‘Green Lung’ bike ride",
+      "coord": [
+        13.700069099999999,
+        100.54910830000001
+      ],
+      "desc": "Peaceful riverside pedal through orchards",
+      "longDesc": "Similan Islands rank among world's premier diving destinations with coral and fish This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bang%20Krachao%20%E2%80%98Green%20Lung%E2%80%99%20bike%20ride&center=13.700069099999999,100.54910830000001",
+      "placeId": "ChIJ_UXnrvaf4jARcrjUHkDcNw4",
+      "address": "499/79 Thanon Rama III, Khwaeng Chong Nonsi, Khet Yan Nawa, Krung Thep Maha Nakhon 10120, Thailand"
+    },
+    {
+      "name": "Foot massage stop",
+      "coord": [
+        13.7559167,
+        100.5024243
+      ],
+      "desc": "Wellness in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Khao Yai National Park protects wildlife including elephants, gibbons, and hornbills This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Foot%20massage%20stop&center=13.7559167,100.5024243",
+      "placeId": "ChIJpVHLps6Z4jAR56d_Bw_3m14",
+      "address": "130 Soi Damnoen Klang Tai, Khwaeng Wat Bowon Niwet, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Central Park Bangkok + Urban Sky Park",
+      "coord": [
+        13.728526899999999,
+        100.5371419
+      ],
+      "desc": "Modern attraction in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Damnoen Saduak Floating Market represents iconic river commerce on traditional wooden boats This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%20Park%20Bangkok%20%2B%20Urban%20Sky%20Park&center=13.728526899999999,100.5371419",
+      "placeId": "ChIJDU6DKyGf4jARPKAqurjpees",
+      "address": "946 Thanon Rama IV, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Octave rooftop drinks",
+      "coord": [
+        13.723502300000002,
+        100.58054260000002
+      ],
+      "desc": "Rooftop bar in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Amphawa Floating Market blends local commerce with firefly viewing evening atmosphere This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Octave%20rooftop%20drinks&center=13.723502300000002,100.58054260000002",
+      "placeId": "ChIJhxshNqWf4jARgYxEW8hBGcE",
+      "address": "2 ซอย, Sukhumvit Rd, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand"
+    },
+    {
+      "name": "Ayutthaya ruins (UNESCO) day trip",
+      "coord": [
+        14.3506286,
+        100.55703799999999
+      ],
+      "desc": "Historic site in Ayutthaya (from Bangkok)",
+      "longDesc": "Chatuchak Weekend Market sprawls across acres with vendors, food, art, and discoveries This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ayutthaya%20ruins%20%28UNESCO%29%20day%20trip&center=14.3506286,100.55703799999999",
+      "placeId": "ChIJ2ZdRNT904jARefHtt0HLuUk",
+      "address": "196 หมู่ที่ 4 Thanon Khlong Tho, Tambon Pratuchai, Amphoe Phra Nakhon Si Ayutthaya, Chang Wat Phra Nakhon Si Ayutthaya 13000, Thailand"
+    },
+    {
+      "name": "Anantara Cruises – Ayutthaya Thousand Golden Temples Cruise",
+      "coord": [
+        14.359106599999999,
+        100.5794631
+      ],
+      "desc": "Luxury river cruise; Special occasion in Thailand; luxury and culture",
+      "longDesc": "Chiang Mai Old City features dozens of temples showcasing northern Thai architecture This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Anantara%20Cruises%20%E2%80%93%20Ayutthaya%20Thousand%20Golden%20Temples%20Cruise&center=14.359106599999999,100.5794631",
+      "placeId": "ChIJDTZpxGl14jARaXRN_WLw7tQ",
+      "address": "23, 28, Tambon Tha Wa Su Kri, Amphoe Phra Nakhon Si Ayutthaya, Chang Wat Phra Nakhon Si Ayutthaya 13000, Thailand"
+    },
+    {
+      "name": "Khao Yai National Park",
+      "coord": [
+        14.3109229,
+        101.5304415
+      ],
+      "desc": "National park in Khao Yai (from Bangkok)",
+      "longDesc": "Doi Suthep Temple sits mountaintop overlooking Chiang Mai with golden architecture This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Yai%20National%20Park&center=14.3109229,101.5304415",
+      "placeId": "ChIJ10MhX0kqHDER_CvyxA9QSwE",
+      "address": "Nakhon Ratchasima, Thailand"
+    },
+    {
+      "name": "PB Valley Khao Yai Winery",
+      "coord": [
+        14.575557300000002,
+        101.23474809999999
+      ],
+      "desc": "Winery in Khao Yai (from Bangkok) in Thailand; luxury and culture",
+      "longDesc": "Wat Chedi Luang dominates old city with massive ancient chedi and cultural significance This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=PB%20Valley%20Khao%20Yai%20Winery&center=14.575557300000002,101.23474809999999",
+      "placeId": "ChIJf7cgJxzOHTERR743AC-_tM4",
+      "address": "102/2 Moo5, Mitraparp Road Payayen Pakchong Chang Wat Nakhon Ratchasima 30320, Thailand"
+    },
+    {
+      "name": "Kanchanaburi + Erawan Falls",
+      "coord": [
+        14.3686412,
+        99.14397389999999
+      ],
+      "desc": "Nature / waterfall; Families (older kids)",
+      "longDesc": "Wat Phra Singh preserves artistic Lanna temple traditions within old city walls This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanchanaburi%20%2B%20Erawan%20Falls&center=14.3686412,99.14397389999999",
+      "placeId": "ChIJw5vAXIp25DARobjy5kt00KU",
+      "address": "Erawan Falls, Tha Kradan, Si Sawat District, Kanchanaburi 71250, Thailand"
+    },
+    {
+      "name": "Elephant Haven Thailand (no riding)",
+      "coord": [
+        14.111842399999999,
+        99.1468933
+      ],
+      "desc": "Ethical elephant experience; Families in Thailand; luxury and culture",
+      "longDesc": "Sunday Walking Street closes Nimman Road for vendor stalls and evening social gathering This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Elephant%20Haven%20Thailand%20%28no%20riding%29&center=14.111842399999999,99.1468933",
+      "placeId": "ChIJf96H9X-A5DAR4ELKKS6FXnc",
+      "address": "ทางหลวงชนบท กาญจนบุรี 4032 Tambon Lum Sum, Amphoe Sai Yok, Chang Wat Kanchanaburi 71150, Thailand"
+    },
+    {
+      "name": "Doi Suthep Temple",
+      "coord": [
+        18.804988899999998,
+        98.92163370000002
+      ],
+      "desc": "Temple / viewpoint; First-timers in Thailand; luxury and culture",
+      "longDesc": "Chiang Mai Night Bazaar transformed into night market offering goods and street food This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Doi%20Suthep%20Temple&center=18.804988899999998,98.92163370000002",
+      "placeId": "ChIJtd3x37U52jARIX7FrlxMhp0",
+      "address": "Suthep, Mueang Chiang Mai District, Chiang Mai 50200, Thailand"
+    },
+    {
+      "name": "Chiang Mai Old City temple walk",
+      "coord": [
+        18.7869693,
+        98.9865804
+      ],
+      "desc": "Sightseeing in Chiang Mai in Thailand; luxury and culture",
+      "longDesc": "Doi Inthanon National Park features Thailand's highest peak with forest and waterfalls This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiang%20Mai%20Old%20City%20temple%20walk&center=18.7869693,98.9865804",
+      "placeId": "ChIJFRQRM5k62jARuqhLBJpw91w",
+      "address": "QXPP+QCQ, 103 Prapokklao Road, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand"
+    },
+    {
+      "name": "Night markets (Chiang Mai)",
+      "coord": [
+        18.7852244,
+        99.0002986
+      ],
+      "desc": "Market in Chiang Mai in Thailand; luxury and culture",
+      "longDesc": "Chiang Rai Golden Triangle marks Laos-Myanmar-Thailand border area with river views This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Night%20markets%20%28Chiang%20Mai%29&center=18.7852244,99.0002986",
+      "placeId": "ChIJW0qnDKY62jARHbAmfwD1Lgs",
+      "address": "Changklan Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100, Thailand"
+    },
+    {
+      "name": "Phuket Old Town (heritage stroll)",
+      "coord": [
+        7.884836099999999,
+        98.38751429999999
+      ],
+      "desc": "Neighborhood in Phuket in Thailand; luxury and culture",
+      "longDesc": "Wat Rong Khun White Temple displays contemporary Thai Buddhist artistic expression This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Phuket%20Old%20Town%20%28heritage%20stroll%29&center=7.884836099999999,98.38751429999999",
+      "placeId": "ChIJMUZx9gsxUDARVEgNSi4n3e0",
+      "address": "Thanon Talang, Taladyai Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand"
+    },
+    {
+      "name": "Wat Chalong",
+      "coord": [
+        7.846838399999999,
+        98.3369048
+      ],
+      "desc": "Temple in Phuket in Thailand; luxury and culture",
+      "longDesc": "Black House Chiang Rai juxtaposes dark contemporary architectural statement opposite white temple This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Chalong&center=7.846838399999999,98.3369048",
+      "placeId": "ChIJYSMtg7svUDARhklKwhnTa48",
+      "address": "70 หมู่ที่ 6 Thanon Chao Fah Tawan Tok, Tambon Chalong, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand"
+    },
+    {
+      "name": "Big Buddha viewpoint",
+      "coord": [
+        7.828462699999998,
+        98.31243219999999
+      ],
+      "desc": "Viewpoint in Phuket in Thailand; luxury and culture",
+      "longDesc": "Sukhothai Historical Park preserves ancient kingdom ruins spread across managed archaeological site This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Big%20Buddha%20viewpoint&center=7.828462699999998,98.31243219999999",
+      "placeId": "ChIJm_-XDnAvUDARhTGNhPgG_f8",
+      "address": "25/7 rawai Tambon Karon, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand"
+    },
+    {
+      "name": "Nai Harn Beach",
+      "coord": [
+        7.781197700000001,
+        98.3117041
+      ],
+      "desc": "Secluded southern Phuket beach with turquoise water",
+      "longDesc": "Si Satchanalai Historical Park extends Sukhothai era temples within intimate forest setting This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nai%20Harn%20Beach&center=7.781197700000001,98.3117041",
+      "placeId": "ChIJv_ZCThwmUDARIcYFtxtWJX4",
+      "address": "Nai Harn Beach, Rawai, Mueang Phuket District, Phuket, Thailand"
+    },
+    {
+      "name": "Kata Beach",
+      "coord": [
+        7.8206945,
+        98.2976473
+      ],
+      "desc": "Family-friendly Phuket beach south of Patong",
+      "longDesc": "Kamphaengphet Historical Park protects alternative ancient capital ruins and regional temples This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kata%20Beach&center=7.8206945,98.2976473",
+      "placeId": "ChIJAdUTdI0lUDAR-EN1U6iZIY0",
+      "address": "Kata Beach, Karon, Phuket 83100, Thailand"
+    },
+    {
+      "name": "Ethical elephant visit (Phuket)",
+      "coord": [
+        8.0259684,
+        98.40157579999999
+      ],
+      "desc": "Wildlife/ethical in Phuket in Thailand; luxury and culture",
+      "longDesc": "Ayutthaya Historical Park sprawls across former capital showing three kingdoms period splendor This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ethical%20elephant%20visit%20%28Phuket%29&center=8.0259684,98.40157579999999",
+      "placeId": "ChIJe5gBglZIUDARbzpRlCqfeMA",
+      "address": "100, Tambon Pa Klok, Amphoe Thalang, Chang Wat Phuket 83110, Thailand"
+    },
+    {
+      "name": "Ang Thong National Marine Park day trip",
+      "coord": [
+        9.6352349,
+        99.671822
+      ],
+      "desc": "Boat day trip; Snorkeling + hikes in Thailand; luxury and culture",
+      "longDesc": "Wat Mahathat features Buddha heads intertwined within tree roots creating iconic image This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ang%20Thong%20National%20Marine%20Park%20day%20trip&center=9.6352349,99.671822",
+      "placeId": "ChIJ5x4DAX7-VDARkJi8xghaoRg",
+      "address": "Ang Thong, Ko Samui District, Surat Thani 84280, Thailand"
+    },
+    {
+      "name": "Island-hopping (Thailand’s beaches)",
+      "coord": [
+        9.731875299999999,
+        100.01359289999999
+      ],
+      "desc": "Multi-day boat tour of Andaman islands",
+      "longDesc": "Three Pagodas Pass in Kanchanaburi marks border while celebrating international friendship This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Island-hopping%20%28Thailand%E2%80%99s%20beaches%29&center=9.731875299999999,100.01359289999999",
+      "placeId": "ChIJ73cD-pb9VDAR_q95XhqN_dM",
+      "address": "Ko Pha Ngan, Ko Pha-ngan District, Surat Thani 84280, Thailand"
+    },
+    {
+      "name": "100 Tonson Foundation (contemporary art)",
+      "coord": [
+        13.739023099999999,
+        100.54453009999999
+      ],
+      "desc": "Gallery in Bangkok (Ploenchit) in Thailand; luxury and culture",
+      "longDesc": "Bridge Over River Kwai memorializes WWII POW laborer history with museum exhibits This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=100%20Tonson%20Foundation%20%28contemporary%20art%29&center=13.739023099999999,100.54453009999999",
+      "placeId": "ChIJtwjWdNue4jARvwyk6IAzoFc",
+      "address": "100 Soi Ton Son, Khwaeng Lumphini, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+    },
+    {
+      "name": "Bangkok rooftop bars (general)",
+      "coord": [
+        13.760680899999999,
+        100.4978153
+      ],
+      "desc": "Nightlife in Bangkok in Thailand; luxury and culture",
+      "longDesc": "River Kwai Raft Accommodation allows sleeping on bamboo rafts floating river This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bangkok%20rooftop%20bars%20%28general%29&center=13.760680899999999,100.4978153",
+      "placeId": "ChIJlfTGdoSZ4jAR3QxxLj97yVM",
+      "address": "19 Thanon Tani, Khwaeng Talat Yot, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Bar.Yard rooftop",
+      "coord": [
+        13.7374574,
+        100.5438011
+      ],
+      "desc": "Rooftop bar in Bangkok (Kimpton Maa-Lai)",
+      "longDesc": "Elephant Nature Park offers ethical human-elephant contact with sanctuary environment This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar.Yard%20rooftop&center=13.7374574,100.5438011",
+      "placeId": "ChIJ8VAbgSWf4jARhXnBFqauN98",
+      "address": "40th floor, Kimpton Maa-Lai Bangkok, 78 Soi Ton Son, Khwaeng Lumphini, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+    },
+    {
+      "name": "Nobu Bangkok rooftop",
+      "coord": [
+        13.720467999999999,
+        100.5301468
+      ],
+      "desc": "Rooftop dining/bar in Bangkok (The Empire)",
+      "longDesc": "Chiang Mai Night Farang Thai Cooking teaches family recipes in home studio setting This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nobu%20Bangkok%20rooftop&center=13.720467999999999,100.5301468",
+      "placeId": "ChIJ-3M9uQef4jARp9qON9Gb2Oo",
+      "address": "57-58 fl, The Empire, 1 S Sathon Rd, Khwaeng Yan Nawa, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand"
+    },
+    {
+      "name": "Erawan Museum",
+      "coord": [
+        13.6285625,
+        100.5889375
+      ],
+      "desc": "Museum/temple-like in Bangkok area (Samut Prakan)",
+      "longDesc": "Muay Thai Training Camp provides instruction in Thailand's national martial art tradition This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Erawan%20Museum&center=13.6285625,100.5889375",
+      "placeId": "ChIJL-1RuzKh4jARd-9ZboreTeA",
+      "address": "JHHQ+CH หมู่ที่1, 99 Kanchanaphisek Rd, Tambon Bang Muang Mai, Amphoe Mueang Samut Prakan, Chang Wat Samut Prakan 10270, Thailand"
+    },
+    {
+      "name": "Old Town temple cluster (self-guided)",
+      "coord": [
+        13.746525199999999,
+        100.4916607
+      ],
+      "desc": "Walking tour in Bangkok (Old Town) in Thailand; luxury and culture",
+      "longDesc": "Thai Spa Massage Classes teach traditional therapeutic massage lineage within relaxation This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Old%20Town%20temple%20cluster%20%28self-guided%29&center=13.746525199999999,100.4916607",
+      "placeId": "ChIJmaPD7i6Z4jARf0QKa2FrGhc",
+      "address": "2 Thanon Sanam Chai, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Tuk-tuk evening tour (street food + highlights)",
+      "coord": [
+        13.754469400000001,
+        100.4888826
+      ],
+      "desc": "Guided tour; Families (older kids) in Thailand; luxury and culture",
+      "longDesc": "Silk Weaving Workshops demonstrate Jim Thompson silk techniques in traditional looms This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tuk-tuk%20evening%20tour%20%28street%20food%20%2B%20highlights%29&center=13.754469400000001,100.4888826",
+      "placeId": "ChIJJ98x6AuZ4jARILFLEXdvn0o",
+      "address": "1/11 Trok Mahathat, Maharaj Road, แขวงพระบรมมหาราชวัง Phra Nakorn, Bangkok 10200, Thailand"
+    },
+    {
+      "name": "Taling Chan Floating Market (half-day)",
+      "coord": [
+        13.7762674,
+        100.45659789999999
+      ],
+      "desc": "Riverside market with local boat-seller stalls",
+      "longDesc": "Celadon Pottery Classes teach northern Thai ceramic glazing and throwing traditions This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taling%20Chan%20Floating%20Market%20%28half-day%29&center=13.7762674,100.45659789999999",
+      "placeId": "ChIJG3NE3m-Z4jARYgTQb3MpaqY",
+      "address": "333 Chak Phra Rd, Khwaeng Khlong Chak Phra, Khet Taling Chan, Krung Thep Maha Nakhon 10170, Thailand"
+    },
+    {
+      "name": "Wang Lang Market grazing",
+      "coord": [
+        13.756086999999999,
+        100.4862868
+      ],
+      "desc": "Historic wet market near Wang Lang pier",
+      "longDesc": "Umbrella Workshop San Kamphaeng creates traditional hand-painted parasols and umbrellas This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wang%20Lang%20Market%20grazing&center=13.756086999999999,100.4862868",
+      "placeId": "ChIJqZVFQ0CZ4jARcYeRi9n6IJk",
+      "address": "112 13 ซอย วังหลัง Khwaeng Siriraj, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand"
+    },
+    {
+      "name": "Nang Loeng Market snack crawl",
+      "coord": [
+        13.7592631,
+        100.5120479
+      ],
+      "desc": "Neighborhood market near Democracy Monument",
+      "longDesc": "Orchid Plantation Tours showcase commercial growing operations and tropical beauty This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nang%20Loeng%20Market%20snack%20crawl&center=13.7592631,100.5120479",
+      "placeId": "ChIJ5zAhsUCZ4jARTMZX6mRg6K0",
+      "address": "QG56+PR3, Soi Nakhon Sawan 6, Khwaeng Wat Sommanat, Khet Pom Prap Sattru Phai, Krung Thep Maha Nakhon 10100, Thailand"
+    },
+    {
+      "name": "Grasshopper Adventures – Bike Historic Ayutthaya Tour",
+      "coord": [
+        14.346519499999998,
+        100.57833439999999
+      ],
+      "desc": "Cycling tour; Active travelers in Thailand; luxury and culture",
+      "longDesc": "Butterfly Farm displays indigenous species within netted flight garden environments This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grasshopper%20Adventures%20%E2%80%93%20Bike%20Historic%20Ayutthaya%20Tour&center=14.346519499999998,100.57833439999999",
+      "placeId": "ChIJc6fYzrF14jAR4QtVJNy1dcg",
+      "address": "14 Thanon Uthong, Tambon Pratuchai, Amphoe Phra Nakhon Si Ayutthaya, Chang Wat Phra Nakhon Si Ayutthaya 13000, Thailand"
+    },
+    {
+      "name": "Khao Yai and Beyond (guided nature tours)",
+      "coord": [
+        14.5483067,
+        101.45547800000001
+      ],
+      "desc": "Jungle trekking with wildlife spotting",
+      "longDesc": "Insectarium Collections present exotic insect species from region and world This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Yai%20and%20Beyond%20%28guided%20nature%20tours%29&center=14.5483067,101.45547800000001",
+      "placeId": "ChIJ7XQ6QAAzHDERrZt_kt8ZimI",
+      "address": "Mu Si, Pak Chong District, Nakhon Ratchasima 30130, Thailand"
+    },
+    {
+      "name": "Chiang Mai Sunday Walking Street",
+      "coord": [
+        18.7883329,
+        98.98529289999999
+      ],
+      "desc": "Night market in Chiang Mai in Thailand; luxury and culture",
+      "longDesc": "Reptile Farm houses cobra shows and venom extraction demonstration exhibits This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiang%20Mai%20Sunday%20Walking%20Street&center=18.7883329,98.98529289999999",
+      "placeId": "ChIJcw-RKNA72jARFqCee_2Hr7E",
+      "address": "QXQP+84M, Rachadamnoen Rd, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand"
+    },
+    {
+      "name": "Phuket Walking Street Market (Old Town)",
+      "coord": [
+        7.8858768999999995,
+        98.39054589999999
+      ],
+      "desc": "Weekend night market in Phuket historic center",
+      "longDesc": "Safari World combines drive-through safari with animal theme park attractions This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Phuket%20Walking%20Street%20Market%20%28Old%20Town%29&center=7.8858768999999995,98.39054589999999",
+      "placeId": "ChIJwQNkeNkxUDAR8qOAaNNJz6Y",
+      "address": "Thanon Dibuk, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand"
+    },
+    {
+      "name": "Beach club day (Phuket)",
+      "coord": [
+        7.9952579,
+        98.2915695
+      ],
+      "desc": "Beach club; Adults / older kids in Thailand; luxury and culture",
+      "longDesc": "Siam Niramit presents Thai cultural history through immersive theatrical production This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Beach%20club%20day%20%28Phuket%29&center=7.9952579,98.2915695",
+      "placeId": "ChIJgya1V3A5UDAR1QkyTS9XA0w",
+      "address": "323/13 moo 2 bang tao tombon changthalang, ตำบลเชิงทะเล phuket, ภูเก็ต 83110, Thailand"
+    },
+    {
+      "name": "Khao Sok National Park stay (Rainforest Camp)",
+      "coord": [
+        9.068505799999999,
+        98.76691439999999
+      ],
+      "desc": "Jungle lodge experience; Families in Thailand; luxury and culture",
+      "longDesc": "Floating Market Sunrise Experience preserves traditional water commerce atmosphere This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20National%20Park%20stay%20%28Rainforest%20Camp%29&center=9.068505799999999,98.76691439999999",
+      "placeId": "ChIJe0hwJbk0UTAR0fGB37Raje0",
+      "address": "Elephant Hills Rainforest Camp Tambon Khao Phang, Amphoe Ban Ta Khun, Chang Wat Surat Thani 84230, Thailand"
+    },
+    {
+      "name": "Elephant Hills (ethical safari-style camp)",
+      "coord": [
+        8.902751799999999,
+        98.6212515
+      ],
+      "desc": "Ethical wildlife + camp; Families in Thailand; luxury and culture",
+      "longDesc": "Cooking Class with Family teaches authentic recipes in intimate home studio setting This destination offers cultural immersion and unforgettable memories for travelers of all interests.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Elephant%20Hills%20%28ethical%20safari-style%20camp%29&center=8.902751799999999,98.6212515",
+      "placeId": "ChIJNQto4nklUTARn2GY7ICPP58",
+      "address": "316 Moo 7, Klong Sok, Panom, Surat Thani 84250, Thailand"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "Benjakitti Park (Green Mile skywalk)",
+      "coord": [
+        13.7340878,
+        100.54614439999999
+      ],
+      "desc": "Park for kids in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Benjakitti Park Green Mile elevates through canopy walkway with thrilling tree perspectives Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Benjakitti%20Park%20%28Green%20Mile%20skywalk%29&center=13.7340878,100.54614439999999",
+      "placeId": "ChIJ8Vy_qdie4jARHMCdRc69sks",
+      "address": "Lumphini, Pathum Wan, Bangkok 10330, Thailand"
+    },
+    {
+      "name": "Pak Khlong Talat (Flower Market)",
+      "coord": [
+        13.7416831,
+        100.4963788
+      ],
+      "desc": "Market / photo stop; Ages Toddler+ in Thailand; luxury and culture",
+      "longDesc": "Lumphini Park offers paddle boats, playgrounds, and wildlife among Bangkok urban greenery Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pak%20Khlong%20Talat%20%28Flower%20Market%29&center=13.7416831,100.4963788",
+      "placeId": "ChIJL-UmnhyZ4jARuwY-UTadgnI",
+      "address": "สน พระราชวัง ปาก คลองตลาด - วัดกัลยาณมิตร, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Chatuchak Weekend Market",
+      "coord": [
+        13.799781,
+        100.55042449999999
+      ],
+      "desc": "Market for kids in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Ancient City Muang Boran recreates famous Thai landmarks within manageable outdoor museum Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chatuchak%20Weekend%20Market&center=13.799781,100.55042449999999",
+      "placeId": "ChIJ3fiD6BSc4jARS324hNeR8ZE",
+      "address": "587, 10 Kamphaeng Phet 2 Rd, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand"
+    },
+    {
+      "name": "Chao Phraya River ferry ride",
+      "coord": [
+        13.7544921,
+        100.4885982
+      ],
+      "desc": "Boat ride for kids in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Safari World combines open-air drive safari with circus animal shows and performances Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chao%20Phraya%20River%20ferry%20ride&center=13.7544921,100.4885982",
+      "placeId": "ChIJHzSqaQCZ4jARsGchoN7cSx0",
+      "address": "QF3Q+QCX Sathorn Pier (Central Pier, Chao Phraya River, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Canal (khlong) tour",
+      "coord": [
+        13.7138202,
+        100.4998787
+      ],
+      "desc": "Boat tour for kids in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Siam Niramit immerses children in Thai history through visually spectacular theatrical productions Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Canal%20%28khlong%29%20tour&center=13.7138202,100.4998787",
+      "placeId": "ChIJEVt-UJOY4jAREMCzUB98npk",
+      "address": "66 Charoen Nakhon Rd. 32/1, Khlong San, Bangkok 10600, Thailand"
+    },
+    {
+      "name": "Jim Thompson House",
+      "coord": [
+        13.7493569,
+        100.5281613
+      ],
+      "desc": "Museum / garden for kids in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Chiang Mai Zoo preserves diverse wildlife species within hillside botanical garden setting Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Jim%20Thompson%20House&center=13.7493569,100.5281613",
+      "placeId": "ChIJWVT7hDKZ4jARGJOhe21RhOk",
+      "address": "6 Soi Kasem San 2, Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"
+    },
+    {
+      "name": "Grand Palace & Wat Phra Kaew",
+      "coord": [
+        13.7498558,
+        100.4915765
+      ],
+      "desc": "Temple/Palace for kids in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Chiang Mai Night Bazaar features stalls, games, and food creating evening entertainment Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Palace%20%26%20Wat%20Phra%20Kaew&center=13.7498558,100.4915765",
+      "placeId": "ChIJPzZsMU6Z4jARQUzvk913bCo",
+      "address": "Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200, Thailand"
+    },
+    {
+      "name": "Wat Pho (Reclining Buddha)",
+      "coord": [
+        13.746525199999999,
+        100.4916607
+      ],
+      "desc": "Temple for kids in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Phuket Aquarium showcases tropical marine species in modern interactive display facilities Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Pho%20%28Reclining%20Buddha%29&center=13.746525199999999,100.4916607",
+      "placeId": "ChIJmaPD7i6Z4jARf0QKa2FrGhc",
+      "address": "2 Thanon Sanam Chai, Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Wat Arun (sunset boat view)",
+      "coord": [
+        13.7437531,
+        100.489768
+      ],
+      "desc": "Temple/viewpoint; Ages Toddler+ in Thailand; luxury and culture",
+      "longDesc": "Phuket FantaSea combines cultural shows, animal performances, and theme park attractions Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Arun%20%28sunset%20boat%20view%29&center=13.7437531,100.489768",
+      "placeId": "ChIJFRfoqECZ4jAR7Z9bYNhdzNc",
+      "address": "2, Wat Arun Pier 1 and Pier, 158 Thanon Wang Doem, Khwaeng Wat Arun, Khet Bangkok Yai, Krung Thep Maha Nakhon 10600, Thailand"
+    },
+    {
+      "name": "Taling Chan Floating Market",
+      "coord": [
+        13.7762674,
+        100.45659789999999
+      ],
+      "desc": "Floating market; Ages Toddler+ in Thailand; luxury and culture",
+      "longDesc": "Bangkok Butterfly Garden creates netted flight environment showcasing Thailand's indigenous species Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taling%20Chan%20Floating%20Market&center=13.7762674,100.45659789999999",
+      "placeId": "ChIJG3NE3m-Z4jARYgTQb3MpaqY",
+      "address": "333 Chak Phra Rd, Khwaeng Khlong Chak Phra, Khet Taling Chan, Krung Thep Maha Nakhon 10170, Thailand"
+    },
+    {
+      "name": "Wang Lang Market (snack crawl)",
+      "coord": [
+        13.756086999999999,
+        100.4862868
+      ],
+      "desc": "Market for kids in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Insectarium Museum displays fascinating insect species through educational engaging presentations Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wang%20Lang%20Market%20%28snack%20crawl%29&center=13.756086999999999,100.4862868",
+      "placeId": "ChIJqZVFQ0CZ4jARcYeRi9n6IJk",
+      "address": "112 13 ซอย วังหลัง Khwaeng Siriraj, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand"
+    },
+    {
+      "name": "Raan Jay Fai (watch the wok action)",
+      "coord": [
+        13.7525826,
+        100.5048022
+      ],
+      "desc": "Food experience for kids in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Reptile Zoo presents cobra shows and reptile handling experiences safely Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Raan%20Jay%20Fai%20%28watch%20the%20wok%20action%29&center=13.7525826,100.5048022",
+      "placeId": "ChIJaxq89xaZ4jARQtKhE1uqq9c",
+      "address": "327 Maha Chai Rd, Khwaeng Samran Rat, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Ayutthaya ruins day trip",
+      "coord": [
+        14.3506286,
+        100.55703799999999
+      ],
+      "desc": "Historic site for kids in Ayutthaya in Thailand; luxury and culture",
+      "longDesc": "Mini Golf Chiang Mai provides creative putt-putt activities for family entertainment Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ayutthaya%20ruins%20day%20trip&center=14.3506286,100.55703799999999",
+      "placeId": "ChIJ2ZdRNT904jARefHtt0HLuUk",
+      "address": "196 หมู่ที่ 4 Thanon Khlong Tho, Tambon Pratuchai, Amphoe Phra Nakhon Si Ayutthaya, Chang Wat Phra Nakhon Si Ayutthaya 13000, Thailand"
+    },
+    {
+      "name": "Khao Yai National Park day trip",
+      "coord": [
+        14.3109229,
+        101.5304415
+      ],
+      "desc": "Nature for kids in Khao Yai in Thailand; luxury and culture",
+      "longDesc": "Water Park Splash combines water slides and pools throughout summer months Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Yai%20National%20Park%20day%20trip&center=14.3109229,101.5304415",
+      "placeId": "ChIJ10MhX0kqHDER_CvyxA9QSwE",
+      "address": "Nakhon Ratchasima, Thailand"
+    },
+    {
+      "name": "Erawan Falls (Kanchanaburi)",
+      "coord": [
+        14.3686412,
+        99.14397389999999
+      ],
+      "desc": "Waterfall for kids in Kanchanaburi in Thailand; luxury and culture",
+      "longDesc": "Thai Cooking Class for Kids teaches culinary traditions in age-appropriate instruction Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Erawan%20Falls%20%28Kanchanaburi%29&center=14.3686412,99.14397389999999",
+      "placeId": "ChIJw5vAXIp25DARobjy5kt00KU",
+      "address": "Erawan Falls, Tha Kradan, Si Sawat District, Kanchanaburi 71250, Thailand"
+    },
+    {
+      "name": "Elephant Haven Thailand (no riding)",
+      "coord": [
+        14.111842399999999,
+        99.1468933
+      ],
+      "desc": "Ethical elephant experience; Ages 6+ in Thailand; luxury and culture",
+      "longDesc": "Elephant Camp Experience offers safe elephant encounters with ethical sanctuary practices Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Elephant%20Haven%20Thailand%20%28no%20riding%29&center=14.111842399999999,99.1468933",
+      "placeId": "ChIJf96H9X-A5DAR4ELKKS6FXnc",
+      "address": "ทางหลวงชนบท กาญจนบุรี 4032 Tambon Lum Sum, Amphoe Sai Yok, Chang Wat Kanchanaburi 71150, Thailand"
+    },
+    {
+      "name": "Doi Suthep Temple",
+      "coord": [
+        18.804988899999998,
+        98.92163370000002
+      ],
+      "desc": "Temple/viewpoint for kids in Chiang Mai in Thailand; luxury and culture",
+      "longDesc": "Zip-lining Chiang Mai provides treetop adventure through jungle canopy safely Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Doi%20Suthep%20Temple&center=18.804988899999998,98.92163370000002",
+      "placeId": "ChIJtd3x37U52jARIX7FrlxMhp0",
+      "address": "Suthep, Mueang Chiang Mai District, Chiang Mai 50200, Thailand"
+    },
+    {
+      "name": "Chiang Mai Old City stroll",
+      "coord": [
+        18.7883329,
+        98.98529289999999
+      ],
+      "desc": "Walking for kids in Chiang Mai in Thailand; luxury and culture",
+      "longDesc": "Thai Massage Training Classes teach traditional therapeutic techniques for family sharing Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiang%20Mai%20Old%20City%20stroll&center=18.7883329,98.98529289999999",
+      "placeId": "ChIJcw-RKNA72jARFqCee_2Hr7E",
+      "address": "QXQP+84M, Rachadamnoen Rd, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand"
+    },
+    {
+      "name": "Chiang Mai night markets",
+      "coord": [
+        18.7852244,
+        99.0002986
+      ],
+      "desc": "Market for kids in Chiang Mai in Thailand; luxury and culture",
+      "longDesc": "Traditional Puppet Workshops create shadow puppets through hands-on making experiences Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiang%20Mai%20night%20markets&center=18.7852244,99.0002986",
+      "placeId": "ChIJW0qnDKY62jARHbAmfwD1Lgs",
+      "address": "Changklan Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100, Thailand"
+    },
+    {
+      "name": "Phuket Old Town heritage walk",
+      "coord": [
+        7.8858768999999995,
+        98.39054589999999
+      ],
+      "desc": "Neighborhood for kids in Phuket in Thailand; luxury and culture",
+      "longDesc": "Fruit Orchard Tours showcase tropical cultivation with picking and tasting opportunities Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Phuket%20Old%20Town%20heritage%20walk&center=7.8858768999999995,98.39054589999999",
+      "placeId": "ChIJwQNkeNkxUDAR8qOAaNNJz6Y",
+      "address": "Thanon Dibuk, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand"
+    },
+    {
+      "name": "Phuket Walking Street Market",
+      "coord": [
+        7.8858768999999995,
+        98.39054589999999
+      ],
+      "desc": "Night market for kids in Phuket Old Town",
+      "longDesc": "Bamboo Craft Workshops construct traditional toys and household items hands-on Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Phuket%20Walking%20Street%20Market&center=7.8858768999999995,98.39054589999999",
+      "placeId": "ChIJwQNkeNkxUDAR8qOAaNNJz6Y",
+      "address": "Thanon Dibuk, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand"
+    },
+    {
+      "name": "Kata Beach",
+      "coord": [
+        7.8206945,
+        98.2976473
+      ],
+      "desc": "Beach for kids in Phuket in Thailand; luxury and culture",
+      "longDesc": "Silk Weaving Demonstrations teach traditional techniques using ancient loom technology Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kata%20Beach&center=7.8206945,98.2976473",
+      "placeId": "ChIJAdUTdI0lUDAR-EN1U6iZIY0",
+      "address": "Kata Beach, Karon, Phuket 83100, Thailand"
+    },
+    {
+      "name": "Nai Harn Beach",
+      "coord": [
+        7.781197700000001,
+        98.3117041
+      ],
+      "desc": "Beach for kids in Phuket in Thailand; luxury and culture",
+      "longDesc": "Celadon Pottery Classes encourage artistic ceramic creation and glazing exploration Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nai%20Harn%20Beach&center=7.781197700000001,98.3117041",
+      "placeId": "ChIJv_ZCThwmUDARIcYFtxtWJX4",
+      "address": "Nai Harn Beach, Rawai, Mueang Phuket District, Phuket, Thailand"
+    },
+    {
+      "name": "The Ritz-Carlton, Koh Samui",
+      "coord": [
+        9.579469999999999,
+        100.07459519999999
+      ],
+      "desc": "Resort for kids in Koh Samui in Thailand; luxury and culture",
+      "longDesc": "Orchid Nursery Tours display thousands of tropical blooms in cultivation settings Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ritz-Carlton%2C%20Koh%20Samui&center=9.579469999999999,100.07459519999999",
+      "placeId": "ChIJt1Xl86z6VDARG51Euazds5A",
+      "address": "9, 123 Tambon, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand"
+    },
+    {
+      "name": "Kimpton Kitalay Samui",
+      "coord": [
+        9.5735929,
+        100.07929089999999
+      ],
+      "desc": "Resort for kids in Koh Samui in Thailand; luxury and culture",
+      "longDesc": "Bicycle Tour Chiang Mai combines pedal-powered exploration with cultural stops Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kimpton%20Kitalay%20Samui&center=9.5735929,100.07929089999999",
+      "placeId": "ChIJgz3e9V7vVDARkHAE6gTm4Rg",
+      "address": "10, 79, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand"
+    },
+    {
+      "name": "Elephant Hills (ethical camp)",
+      "coord": [
+        9.068505799999999,
+        98.76691439999999
+      ],
+      "desc": "Adventure camp for kids in Khao Sok area",
+      "longDesc": "Kayaking Adventure combines water exploration with mangrove ecosystem viewing Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Elephant%20Hills%20%28ethical%20camp%29&center=9.068505799999999,98.76691439999999",
+      "placeId": "ChIJe0hwJbk0UTAR0fGB37Raje0",
+      "address": "Elephant Hills Rainforest Camp Tambon Khao Phang, Amphoe Ban Ta Khun, Chang Wat Surat Thani 84230, Thailand"
+    },
+    {
+      "name": "Ang Thong National Marine Park day trip",
+      "coord": [
+        9.6352349,
+        99.671822
+      ],
+      "desc": "Boat day trip for kids in Koh Samui (day trip)",
+      "longDesc": "Night Safari offers modified zoo experience under evening lighting conditions Children enjoy hands-on learning, play, and family bonding moments in safe engaging environments.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ang%20Thong%20National%20Marine%20Park%20day%20trip&center=9.6352349,99.671822",
+      "placeId": "ChIJ5x4DAX7-VDARkJi8xghaoRg",
+      "address": "Ang Thong, Ko Samui District, Surat Thani 84280, Thailand"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Pak Khlong Talat (Flower Market)",
+      "coord": [
+        13.7416831,
+        100.4963788
+      ],
+      "desc": "Market (flowers); Late night / early morning",
+      "longDesc": "Pak Khlong Talat operates dawn flower market from historical floating market era traditions This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pak%20Khlong%20Talat%20%28Flower%20Market%29&center=13.7416831,100.4963788",
+      "placeId": "ChIJL-UmnhyZ4jARuwY-UTadgnI",
+      "address": "สน พระราชวัง ปาก คลองตลาด - วัดกัลยาณมิตร, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Floral Café at Napasorn",
+      "coord": [
+        13.7563309,
+        100.5017651
+      ],
+      "desc": "Café in Bangkok (Pak Khlong Talat) in Thailand; luxury and culture",
+      "longDesc": "Damnoen Saduak preserves iconic floating market with longtail boats and riverside commerce This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Floral%20Caf%C3%A9%20at%20Napasorn&center=13.7563309,100.5017651",
+      "placeId": "ChIJlzpkSQCZ4jARjYzzSZ_c0PA",
+      "address": "QG42+GPJ, Wat Bowon Niwet, Phra Nakhon, Bangkok 10200, Thailand"
+    },
+    {
+      "name": "Chatuchak Weekend Market",
+      "coord": [
+        13.799781,
+        100.55042449999999
+      ],
+      "desc": "Market (weekend); Weekend daytime in Thailand; luxury and culture",
+      "longDesc": "Amphawa Floating Market combines active commerce with firefly watching evening activities This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chatuchak%20Weekend%20Market&center=13.799781,100.55042449999999",
+      "placeId": "ChIJ3fiD6BSc4jARS324hNeR8ZE",
+      "address": "587, 10 Kamphaeng Phet 2 Rd, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand"
+    },
+    {
+      "name": "Chinatown (Yaowarat)",
+      "coord": [
+        13.7403286,
+        100.5099527
+      ],
+      "desc": "Food district / night market streets; Evening",
+      "longDesc": "Khlong Lat Mayom maintains traditional floating market experience away from tourist crowds This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chinatown%20%28Yaowarat%29&center=13.7403286,100.5099527",
+      "placeId": "ChIJrdfOcJOZ4jAR1Grh5w74V1g",
+      "address": "PGR5+4XP, Yaowarat Rd, Khwaeng Samphanthawong, Khet Samphanthawong, Krung Thep Maha Nakhon 10100, Thailand"
+    },
+    {
+      "name": "Banthat Thong Road",
+      "coord": [
+        13.7454119,
+        100.5233923
+      ],
+      "desc": "Street food strip in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Sampran Riverside Market blends floating market commerce with contemporary shopping amenities This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Banthat%20Thong%20Road&center=13.7454119,100.5233923",
+      "placeId": "ChIJCeI1ky2Z4jARzlbzs6UHjXs",
+      "address": "Banthat Thong Rd, Krung Thep Maha Nakhon, Thailand"
+    },
+    {
+      "name": "Taling Chan Floating Market",
+      "coord": [
+        13.7762674,
+        100.45659789999999
+      ],
+      "desc": "Floating market; Weekend mornings in Thailand; luxury and culture",
+      "longDesc": "Chatuchak Weekend Market sprawls enormous weekend merchandise spectacle drawing pilgrimage crowds This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Taling%20Chan%20Floating%20Market&center=13.7762674,100.45659789999999",
+      "placeId": "ChIJG3NE3m-Z4jARYgTQb3MpaqY",
+      "address": "333 Chak Phra Rd, Khwaeng Khlong Chak Phra, Khet Taling Chan, Krung Thep Maha Nakhon 10170, Thailand"
+    },
+    {
+      "name": "Wang Lang Market",
+      "coord": [
+        13.756086999999999,
+        100.4862868
+      ],
+      "desc": "Market (street food + shopping); Late morning / afternoon",
+      "longDesc": "JJ Market Night brings weekday energy to northern Bangkok area shopping districts This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wang%20Lang%20Market&center=13.756086999999999,100.4862868",
+      "placeId": "ChIJqZVFQ0CZ4jARcYeRi9n6IJk",
+      "address": "112 13 ซอย วังหลัง Khwaeng Siriraj, Khet Bangkok Noi, Krung Thep Maha Nakhon 10700, Thailand"
+    },
+    {
+      "name": "Nang Loeng Market",
+      "coord": [
+        13.7592631,
+        100.5120479
+      ],
+      "desc": "Historic market; Morning / lunch in Thailand; luxury and culture",
+      "longDesc": "Phahurat Indian Market concentrates Indian goods, textiles, and street food This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Nang%20Loeng%20Market&center=13.7592631,100.5120479",
+      "placeId": "ChIJ5zAhsUCZ4jARTMZX6mRg6K0",
+      "address": "QG56+PR3, Soi Nakhon Sawan 6, Khwaeng Wat Sommanat, Khet Pom Prap Sattru Phai, Krung Thep Maha Nakhon 10100, Thailand"
+    },
+    {
+      "name": "Or Tor Kor Market",
+      "coord": [
+        13.797128299999999,
+        100.5475328
+      ],
+      "desc": "Premium produce market; Morning in Thailand; luxury and culture",
+      "longDesc": "Yaowarat Gold Jewelry Market specializes in Thai gold trading with market energy This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Or%20Tor%20Kor%20Market&center=13.797128299999999,100.5475328",
+      "placeId": "ChIJw4KnHhSc4jARdq9pN389cO8",
+      "address": "101 Thanon Yan Phahon Yothin, Khwaeng Chatuchak, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand"
+    },
+    {
+      "name": "Central Park Bangkok (food & Michelin-recommended center)",
+      "coord": [
+        13.728526899999999,
+        100.5371419
+      ],
+      "desc": "Mall + food hall; Afternoon / evening in Thailand; luxury and culture",
+      "longDesc": "Chinatown Sampeng Lane focuses wholesale textiles, buttons, and sewing supplies This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%20Park%20Bangkok%20%28food%20%26%20Michelin-recommended%20center%29&center=13.728526899999999,100.5371419",
+      "placeId": "ChIJDU6DKyGf4jARPKAqurjpees",
+      "address": "946 Thanon Rama IV, Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Bang Rak Market (via cooking classes)",
+      "coord": [
+        13.720671,
+        100.5154271
+      ],
+      "desc": "Wet market in Bangkok (Bang Rak) in Thailand; luxury and culture",
+      "longDesc": "Talad Noi preserves old warehouse district shophouse antiquing and textile browsing This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bang%20Rak%20Market%20%28via%20cooking%20classes%29&center=13.720671,100.5154271",
+      "placeId": "ChIJE5RkU8SY4jARuzCNbu678uA",
+      "address": "69, 2 Soi Charoen Krung 44, Khwaeng Bang Rak, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Eiah-Sae",
+      "coord": [
+        13.739301699999999,
+        100.5106471
+      ],
+      "desc": "Old-school coffee shop; Morning in Thailand; luxury and culture",
+      "longDesc": "Talad Rot Fai showcases vintage railway market furniture and curious goods This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Eiah-Sae&center=13.739301699999999,100.5106471",
+      "placeId": "ChIJn0dHDiGZ4jARs8Xh9PbOgZ0",
+      "address": "111 Thanon Phat Sai, Khwaeng Samphanthawong, Khet Samphanthawong, Krung Thep Maha Nakhon 10100, Thailand"
+    },
+    {
+      "name": "Raan Jay Fai",
+      "coord": [
+        13.7525826,
+        100.5048022
+      ],
+      "desc": "Street food (queue-heavy); Lunch / dinner",
+      "longDesc": "Tha Chang Market serves wholesale produce distribution for Bangkok neighborhood This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Raan%20Jay%20Fai&center=13.7525826,100.5048022",
+      "placeId": "ChIJaxq89xaZ4jARQtKhE1uqq9c",
+      "address": "327 Maha Chai Rd, Khwaeng Samran Rat, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Thipsamai Pad Thai",
+      "coord": [
+        13.7527976,
+        100.504823
+      ],
+      "desc": "Street food in Bangkok in Thailand; luxury and culture",
+      "longDesc": "Warorot Market concentrates dry goods, spices, textiles, and traditional medicines This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Thipsamai%20Pad%20Thai&center=13.7527976,100.504823",
+      "placeId": "ChIJxU5YeBaZ4jARvm8EVZYGjGk",
+      "address": "313, 315 Maha Chai Rd, Khwaeng Samran Rat, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+    },
+    {
+      "name": "Mae Varee Fruit Shop",
+      "coord": [
+        13.7240179,
+        100.5793321
+      ],
+      "desc": "Dessert shop; Afternoon / evening in Thailand; luxury and culture",
+      "longDesc": "Sanam Luang Market offers fresh produce, flowers, and prepared street food daily This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mae%20Varee%20Fruit%20Shop&center=13.7240179,100.5793321",
+      "placeId": "ChIJbbqO2Kif4jARIZxlpOCwAi4",
+      "address": "1 Soi Thong Lo, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand"
+    },
+    {
+      "name": "Prachak Pet Yang",
+      "coord": [
+        13.720392799999999,
+        100.5159766
+      ],
+      "desc": "Roast duck shop; Lunch / dinner in Thailand; luxury and culture",
+      "longDesc": "Victory Monument Food Court gathers vendors in modern facility serving diverse cuisines This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Prachak%20Pet%20Yang&center=13.720392799999999,100.5159766",
+      "placeId": "ChIJVR1_rsWY4jAR0BqRhCK_sbM",
+      "address": "1415 ถ. เจริญกรุง Si Lom, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand"
+    },
+    {
+      "name": "Doy Kuay Teow Reua",
+      "coord": [
+        13.7681512,
+        100.5359061
+      ],
+      "desc": "Noodle spot in Bangkok (Victory Monument)",
+      "longDesc": "Khao Yai National Park Market combines local produce with park visitor necessities This vibrant destination captures authentic local commerce, traditional vendors, and cultural atmosphere.",
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Doy%20Kuay%20Teow%20Reua&center=13.7681512,100.5359061",
+      "placeId": "ChIJV3n3-rGe4jARrUnDLO8V4gY",
+      "address": "Soi Ratchawithi 18, Khwaeng Thung Phaya Thai, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand"
+    }
+  ],
+  "cityCenters": {
+    "Bangkok": [
+      13.7563,
+      100.5018,
+      0.05
+    ],
+    "Chiang Mai": [
+      18.7883,
+      98.9853,
+      0.04
+    ],
+    "Phuket": [
+      8.65,
+      98.4,
+      0.06
+    ],
+    "Koh Samui": [
+      9.145,
+      100.0086,
+      0.03
+    ],
+    "Krabi": [
+      8.0863,
+      98.9063,
+      0.04
+    ],
+    "Chiang Rai": [
+      19.9099,
+      99.854,
+      0.04
+    ],
+    "Sukhothai": [
+      17.013,
+      99.8232,
+      0.02
+    ],
+    "Kanchanaburi": [
+      14.0227,
+      99.5332,
+      0.03
+    ],
+    "Ayutthaya": [
+      14.3596,
+      100.5648,
+      0.03
+    ],
+    "Railay Beach": [
+      8.8176,
+      98.8344,
+      0.02
+    ],
+    "Phi Phi": [
+      7.7519,
+      98.7738,
+      0.02
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "name": "Greatest Hits",
+      "color": "#2563EB",
+      "days": [
+        {
+          "day": 1,
+          "title": "Bangkok Arrival & Grand Palace",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Mandarin Oriental, Bangkok",
+              "coord": [
+                13.7236158,
+                100.51431679999999
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Gaggan",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Grand Palace & Wat Phra Kaew",
+              "coord": [
+                13.7498558,
+                100.4915765
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Du",
+              "coord": [
+                13.7250312,
+                100.5293521
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Bangkok Temples & Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Bangkok",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Wat Pho (Reclining Buddha)",
+              "coord": [
+                13.746525199999999,
+                100.4916607
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Wat Arun",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Jay Fai",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Floating Markets",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Chiang Mai Flight & Old City",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Chiang Mai Old City",
+              "coord": [
+                18.7883,
+                98.9853
+              ]
+            },
+            {
+              "type": "hotel",
+              "name": "Four Seasons Resort Chiang Mai",
+              "coord": [
+                18.9161783,
+                98.9316048
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "SP Chicken",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Chiang Mai Temples & Elephants",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chiang Mai",
+              "coord": [
+                18.7883,
+                98.9853
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Doi Suthep Temple",
+              "coord": [
+                18.804988899999998,
+                98.92163370000002
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Elephant Sanctuary",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Cooking Class",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Phuket Beach & Nightlife",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Centara Grand",
+              "coord": [
+                8.65,
+                98.4
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Patong Beach",
+              "coord": [
+                8.6345,
+                98.2958
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Fresh seafood",
+              "coord": [
+                8.6345,
+                98.2958
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Island Hopping: Phi Phi & Snorkeling",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Phi Phi Islands",
+              "coord": [
+                7.7519,
+                98.7738
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Koh Phi Phi",
+              "coord": [
+                7.7519,
+                98.7738
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Snorkeling",
+              "coord": [
+                7.7519,
+                98.7738
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Phuket Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Phuket",
+              "coord": [
+                8.65,
+                98.4
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "name": "Hidden Gems",
+      "color": "#059669",
+      "days": [
+        {
+          "day": 1,
+          "title": "Chiang Rai Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Angsana Laguna",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Chiang Rai",
+              "coord": [
+                19.9099,
+                99.854
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "White Temple & Hill Tribes",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chiang Rai",
+              "coord": [
+                19.9099,
+                99.854
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Wat Rong Khun (White Temple)",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Hill Tribe Experience",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Sukhothai Ancient Capital",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Sukhothai",
+              "coord": [
+                17.013,
+                99.8232
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Sukhothai Historical Park",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Kanchanaburi & River Kwai",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Kanchanaburi",
+              "coord": [
+                14.0227,
+                99.5332
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Bridge Over River Kwai",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Erawan Waterfall",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Bangkok Return & Rooftop Bars",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Rosewood Bangkok",
+              "coord": [
+                13.743345500000002,
+                100.54896269999999
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Octave Rooftop Bar",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Bangkok Day Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chatuchak Weekend Market",
+              "coord": [
+                13.799781,
+                100.55042449999999
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Pak Khlong Talat",
+              "coord": [
+                13.7403,
+                100.493
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Bangkok",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Family Comfort",
+      "color": "#D97706",
+      "days": [
+        {
+          "day": 1,
+          "title": "Bangkok Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Four Seasons Bangkok",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Bangkok Temples",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Grand Palace",
+              "coord": [
+                13.7403,
+                100.493
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Bangkok Markets",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Floating Markets",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Kid Activities",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Benjakitti Park",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Rest Day",
+          "items": [
+            {
+              "type": "nap",
+              "name": "Bangkok",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Koh Samui Travel",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Koh Samui Beach Resort",
+              "coord": [
+                9.145,
+                100.0086
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Beach Relaxation",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Chaweng Beach",
+              "coord": [
+                9.145,
+                100.0086
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Chiang Mai Transfer",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Chiang Mai Resort",
+              "coord": [
+                18.7883,
+                98.9853
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Chiang Mai Temples",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Doi Suthep",
+              "coord": [
+                18.7883,
+                98.9853
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Chiang Mai",
+              "coord": [
+                18.7883,
+                98.9853
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "d": {
+      "name": "Foodie Deep-Dive",
+      "color": "#DC2626",
+      "days": [
+        {
+          "day": 1,
+          "title": "Bangkok Street Food",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Capella Bangkok",
+              "coord": [
+                13.713104699999999,
+                100.5110225
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Jay Fai",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Michelin Dining",
+          "items": [
+            {
+              "type": "lunch",
+              "name": "Gaggan",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Le Du",
+              "coord": [
+                13.7250312,
+                100.5293521
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Floating Markets",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Floating Markets",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            },
+            {
+              "type": "lunch",
+              "name": "Sorn",
+              "coord": [
+                13.7231004,
+                100.5685251
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Bangkok Markets",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Chatuchak",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Chiang Mai Night Market",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Four Seasons Chiang Mai",
+              "coord": [
+                18.7883,
+                98.9853
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Night Markets",
+              "coord": [
+                18.7883,
+                98.9853
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Thai Cooking Class",
+          "items": [
+            {
+              "type": "lunch",
+              "name": "Cooking Class",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Chiang Mai Dining",
+          "items": [
+            {
+              "type": "dinner",
+              "name": "SP Chicken",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Southern Cuisine",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Krabi Resort",
+              "coord": [
+                8.0863,
+                98.9063
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Seafood Feast",
+          "items": [
+            {
+              "type": "lunch",
+              "name": "Fresh Seafood",
+              "coord": [
+                8.0863,
+                98.9063
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Krabi",
+              "coord": [
+                8.0863,
+                98.9063
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "e": {
+      "name": "Grand Tour",
+      "color": "#7C3AED",
+      "days": [
+        {
+          "day": 1,
+          "title": "Bangkok Arrival",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Mandarin Oriental",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Grand Palace & Temples",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Grand Palace",
+              "coord": [
+                13.7403,
+                100.493
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Wat Pho",
+              "coord": [
+                13.7403,
+                100.493
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Ayutthaya Ancient Ruins",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Ayutthaya Historical Park",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Bangkok Markets & Rooftops",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Floating Markets",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            },
+            {
+              "type": "dinner",
+              "name": "Octave Bar",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Chiang Mai Temples",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Four Seasons Chiang Mai",
+              "coord": [
+                18.7883,
+                98.9853
+              ]
+            },
+            {
+              "type": "sightseeing",
+              "name": "Doi Suthep",
+              "coord": [
+                18.7883,
+                98.9853
+              ]
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "title": "Elephant Sanctuary",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Elephant Nature Park",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "title": "Cooking & Culture",
+          "items": [
+            {
+              "type": "lunch",
+              "name": "Cooking Class",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "title": "Chiang Rai White Temple",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Wat Rong Khun",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "title": "Krabi & Railay",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Railay Beach",
+              "coord": [
+                8.8176,
+                98.8344
+              ]
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "title": "Island Hopping",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Phi Phi Islands",
+              "coord": [
+                7.7519,
+                98.7738
+              ]
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "title": "Koh Samui Beach",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Koh Samui",
+              "coord": [
+                9.145,
+                100.0086
+              ]
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "title": "Beach Relaxation",
+          "items": [
+            {
+              "type": "sightseeing",
+              "name": "Chaweng Beach",
+              "coord": [
+                9.145,
+                100.0086
+              ]
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "title": "Bangkok Return",
+          "items": [
+            {
+              "type": "hotel",
+              "name": "Rosewood Bangkok",
+              "coord": [
+                13.743345500000002,
+                100.54896269999999
+              ]
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "title": "Departure",
+          "items": [
+            {
+              "type": "breakfast",
+              "name": "Bangkok",
+              "coord": [
+                13.7563,
+                100.5018
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
