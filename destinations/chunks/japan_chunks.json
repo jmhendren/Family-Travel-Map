@@ -1,0 +1,2021 @@
+{
+  "destination": "japan",
+  "generated": "2026-02-10",
+  "total_chunks": 31,
+  "chunks": [
+    {
+      "id": "tokyo-greatest-hits",
+      "region": "tokyo-yokohama",
+      "name": "Tokyo's Iconic Icons",
+      "theme": "greatest-hits",
+      "audience": "all",
+      "description": "Experience Tokyo's must-see temples, markets, and cutting-edge culture.",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy"
+      ],
+      "day": {
+        "label": "Tokyo's Iconic Icons",
+        "items": [
+          {
+            "name": "Park Hyatt Tokyo",
+            "type": "hotel",
+            "coord": [
+              35.6861125,
+              139.6904007
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Senso-ji Temple",
+            "type": "sightseeing",
+            "coord": [
+              35.7147651,
+              139.7966553
+            ]
+          },
+          {
+            "name": "Ichiran Shibuya",
+            "type": "lunch",
+            "coord": [
+              35.6611185,
+              139.7009846
+            ]
+          },
+          {
+            "name": "Meiji Shrine & Harajuku stroll",
+            "type": "sightseeing",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Sukiyabashi Jiro Honten",
+            "type": "dinner",
+            "coord": [
+              35.672740399999995,
+              139.7639378
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "tokyo-foodie",
+      "region": "tokyo-yokohama",
+      "name": "Tokyo Culinary Journey",
+      "theme": "foodie",
+      "audience": "all",
+      "description": "Fine dining and street food across Tokyo neighborhoods.",
+      "tags": [
+        "Food & Drink",
+        "Gourmet"
+      ],
+      "day": {
+        "label": "Tokyo Culinary Journey",
+        "items": [
+          {
+            "name": "Bvlgari Hotel Tokyo",
+            "type": "hotel",
+            "coord": [
+              35.6788388,
+              139.7683266
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Tsukiji Outer Market",
+            "type": "sightseeing",
+            "coord": [
+              35.6647703,
+              139.7702515
+            ]
+          },
+          {
+            "name": "Mizuno",
+            "type": "lunch",
+            "coord": [
+              34.6705672,
+              135.5014196
+            ]
+          },
+          {
+            "name": "Narisawa",
+            "type": "dinner",
+            "coord": [
+              35.6715648,
+              139.7218885
+            ]
+          },
+          {
+            "name": "Bar Benfiddich",
+            "type": "optional",
+            "coord": [
+              35.6894823,
+              139.6966117
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "tokyo-art-tech",
+      "region": "tokyo-yokohama",
+      "name": "Art & Technology Tokyo",
+      "theme": "culture",
+      "audience": "all",
+      "description": "Digital art, museums, and Tokyo's cutting-edge culture scene.",
+      "tags": [
+        "Art & Culture",
+        "Modern"
+      ],
+      "day": {
+        "label": "Art & Technology Tokyo",
+        "items": [
+          {
+            "name": "Tokyo Edition",
+            "type": "hotel",
+            "coord": [
+              35.6646936,
+              139.74554419999998
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "teamLab Borderless",
+            "type": "sightseeing",
+            "coord": [
+              35.662103099999996,
+              139.7432609
+            ]
+          },
+          {
+            "name": "Onibus Coffee",
+            "type": "lunch",
+            "coord": [
+              35.6431767,
+              139.6980318
+            ]
+          },
+          {
+            "name": "teamLab Planets",
+            "type": "sightseeing",
+            "coord": [
+              35.6491207,
+              139.7897739
+            ]
+          },
+          {
+            "name": "Den",
+            "type": "dinner",
+            "coord": [
+              35.6731762,
+              139.71272159999998
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "tokyo-family",
+      "region": "tokyo-yokohama",
+      "name": "Family Fun Tokyo",
+      "theme": "family",
+      "audience": "families",
+      "description": "Kid-friendly attractions, play centers, and family-friendly dining.",
+      "tags": [
+        "Family",
+        "Entertainment"
+      ],
+      "day": {
+        "label": "Family Fun Tokyo",
+        "items": [
+          {
+            "name": "Hotel Okura",
+            "type": "hotel",
+            "coord": [
+              35.6671751,
+              139.7438601
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Ghibli Museum",
+            "type": "sightseeing",
+            "coord": [
+              35.696238,
+              139.5704317
+            ]
+          },
+          {
+            "name": "Free afternoon",
+            "type": "nap",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Ueno Zoo",
+            "type": "sightseeing",
+            "coord": [
+              35.716015299999995,
+              139.77288199999998
+            ]
+          },
+          {
+            "name": "Tsurutontan Udon",
+            "type": "dinner",
+            "coord": [
+              35.6953842,
+              139.703149
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "tokyo-shopping-culture",
+      "region": "tokyo-yokohama",
+      "name": "Tokyo Shopping & Street Culture",
+      "theme": "culture",
+      "audience": "all",
+      "description": "Harajuku fashion, vintage shops, and Tokyo's vibrant street scenes.",
+      "tags": [
+        "Shopping",
+        "Fashion"
+      ],
+      "day": {
+        "label": "Tokyo Shopping & Street Culture",
+        "items": [
+          {
+            "name": "Trunk Hotel",
+            "type": "hotel",
+            "coord": [
+              35.6642971,
+              139.7040118
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Shimokitazawa Vintage",
+            "type": "shopping",
+            "coord": [
+              35.6604233,
+              139.6681317
+            ]
+          },
+          {
+            "name": "Lunch break",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Nakano Broadway",
+            "type": "shopping",
+            "coord": [
+              35.7092475,
+              139.66565240000003
+            ]
+          },
+          {
+            "name": "Bar High Five",
+            "type": "optional",
+            "coord": [
+              35.671641,
+              139.762943
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "tokyo-luxury-spa",
+      "region": "tokyo-yokohama",
+      "name": "Luxury Tokyo: Spa & Wellness",
+      "theme": "luxury/splurge",
+      "audience": "all",
+      "description": "High-end hotels, spa treatments, and refined Tokyo experiences.",
+      "tags": [
+        "Luxury",
+        "Wellness"
+      ],
+      "day": {
+        "label": "Luxury Tokyo: Spa & Wellness",
+        "items": [
+          {
+            "name": "Hoshinoya Tokyo",
+            "type": "hotel",
+            "coord": [
+              35.6878409,
+              139.7651065
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Head Spa KUU",
+            "type": "sightseeing",
+            "coord": [
+              35.690382,
+              139.7018315
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Shinjuku Gyoen",
+            "type": "sightseeing",
+            "coord": [
+              35.685176299999995,
+              139.7100517
+            ]
+          },
+          {
+            "name": "Saito",
+            "type": "dinner",
+            "coord": [
+              35.6653768,
+              139.7395884
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "hakone-onsen-nature",
+      "region": "hakone-fuji",
+      "name": "Hakone Onsen & Mt. Fuji Views",
+      "theme": "onsen",
+      "audience": "all",
+      "description": "Hot springs, mountain views, and Alpine mountain culture.",
+      "tags": [
+        "Onsen",
+        "Nature"
+      ],
+      "day": {
+        "label": "Hakone Onsen & Mt. Fuji Views",
+        "items": [
+          {
+            "name": "Gora Kadan",
+            "type": "hotel",
+            "coord": [
+              35.247364399999995,
+              139.04856139999998
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Hakone Open Air Museum",
+            "type": "sightseeing",
+            "coord": [
+              35.2451601,
+              139.0507271
+            ]
+          },
+          {
+            "name": "Lunch at hotel",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Hakone Yuryo",
+            "type": "sightseeing",
+            "coord": [
+              35.2338594,
+              139.095725
+            ]
+          },
+          {
+            "name": "Onsen bath at hotel",
+            "type": "dinner",
+            "coord": [
+              0,
+              0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "hakone-family",
+      "region": "hakone-fuji",
+      "name": "Hakone Family Adventure",
+      "theme": "family",
+      "audience": "families",
+      "description": "Family-friendly activities and hot spring relaxation.",
+      "tags": [
+        "Family",
+        "Onsen"
+      ],
+      "day": {
+        "label": "Hakone Family Adventure",
+        "items": [
+          {
+            "name": "Hotel Mitsui Hakone",
+            "type": "hotel",
+            "coord": [
+              35.2394536,
+              139.0533051
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Thomas Land",
+            "type": "sightseeing",
+            "coord": [
+              35.4861991,
+              138.7814677
+            ]
+          },
+          {
+            "name": "Lunch break",
+            "type": "nap",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Hakone Kowakien Yunessun",
+            "type": "sightseeing",
+            "coord": [
+              35.239422399999995,
+              139.0453369
+            ]
+          },
+          {
+            "name": "Dinner at hotel",
+            "type": "dinner",
+            "coord": [
+              0,
+              0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "kyoto-temples-culture",
+      "region": "kyoto-nara",
+      "name": "Kyoto Temple Circuit",
+      "theme": "temple-circuit",
+      "audience": "all",
+      "description": "Iconic temples, bamboo groves, and Kyoto's spiritual heart.",
+      "tags": [
+        "Temples",
+        "Cultural"
+      ],
+      "day": {
+        "label": "Kyoto Temple Circuit",
+        "items": [
+          {
+            "name": "Six Senses Kyoto",
+            "type": "hotel",
+            "coord": [
+              34.9909956,
+              135.7743567
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Kinkaku-ji Golden Pavilion",
+            "type": "sightseeing",
+            "coord": [
+              35.03937,
+              135.7292431
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Arashiyama Bamboo Grove",
+            "type": "sightseeing",
+            "coord": [
+              35.0168187,
+              135.67130129999998
+            ]
+          },
+          {
+            "name": "Kitcho Arashiyama",
+            "type": "dinner",
+            "coord": [
+              35.0136211,
+              135.6746552
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "kyoto-tea-ceremony",
+      "region": "kyoto-nara",
+      "name": "Kyoto Tea & Craft Experience",
+      "theme": "culture",
+      "audience": "all",
+      "description": "Tea ceremonies, pottery, and traditional Kyoto crafts.",
+      "tags": [
+        "Tea & Ceremony",
+        "Crafts"
+      ],
+      "day": {
+        "label": "Kyoto Tea & Craft Experience",
+        "items": [
+          {
+            "name": "Four Seasons Kyoto",
+            "type": "hotel",
+            "coord": [
+              34.9906846,
+              135.77612299999998
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Maikoya Tea Ceremony",
+            "type": "sightseeing",
+            "coord": [
+              35.0076598,
+              135.76637119999998
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Kiyomizu Pottery Street",
+            "type": "shopping",
+            "coord": [
+              34.995142,
+              135.7781578
+            ]
+          },
+          {
+            "name": "Kikunoi",
+            "type": "dinner",
+            "coord": [
+              35.0014754,
+              135.7820562
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "kyoto-philosopher",
+      "region": "kyoto-nara",
+      "name": "Kyoto's Romantic Path",
+      "theme": "culture",
+      "audience": "all",
+      "description": "Philosopher's Path, art museums, and Kyoto's artistic side.",
+      "tags": [
+        "Art & Culture",
+        "Nature"
+      ],
+      "day": {
+        "label": "Kyoto's Romantic Path",
+        "items": [
+          {
+            "name": "Aman Kyoto",
+            "type": "hotel",
+            "coord": [
+              35.050764099999995,
+              135.73058419999998
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Philosopher's Path",
+            "type": "sightseeing",
+            "coord": [
+              35.0266194,
+              135.795457
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Miho Museum",
+            "type": "sightseeing",
+            "coord": [
+              34.9149168,
+              136.0162153
+            ]
+          },
+          {
+            "name": "L'Escamoteur",
+            "type": "dinner",
+            "coord": [
+              35.0018221,
+              135.76996409999998
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "kyoto-foodie",
+      "region": "kyoto-nara",
+      "name": "Kyoto Culinary & Market Tour",
+      "theme": "foodie",
+      "audience": "all",
+      "description": "Nishiki Market, sake district, and Kyoto's food traditions.",
+      "tags": [
+        "Food & Drink",
+        "Markets"
+      ],
+      "day": {
+        "label": "Kyoto Culinary & Market Tour",
+        "items": [
+          {
+            "name": "Capella Kyoto",
+            "type": "hotel",
+            "coord": [
+              34.999349699999996,
+              135.7720604
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Nishiki Market",
+            "type": "sightseeing",
+            "coord": [
+              35.0050258,
+              135.764723
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Fushimi Sake District",
+            "type": "sightseeing",
+            "coord": [
+              34.9325,
+              135.7605556
+            ]
+          },
+          {
+            "name": "Roan Kikunoi",
+            "type": "dinner",
+            "coord": [
+              35.00345130000001,
+              135.7706684
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "kyoto-family",
+      "region": "kyoto-nara",
+      "name": "Kyoto Family & Nature",
+      "theme": "family",
+      "audience": "families",
+      "description": "Parks, temples, and kid-friendly Kyoto attractions.",
+      "tags": [
+        "Family",
+        "Nature"
+      ],
+      "day": {
+        "label": "Kyoto Family & Nature",
+        "items": [
+          {
+            "name": "Tawaraya Ryokan",
+            "type": "hotel",
+            "coord": [
+              35.0102623,
+              135.7659155
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Nara Park",
+            "type": "sightseeing",
+            "coord": [
+              34.685047,
+              135.843012
+            ]
+          },
+          {
+            "name": "Lunch break",
+            "type": "nap",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Sanzen-in Temple",
+            "type": "sightseeing",
+            "coord": [
+              35.119726,
+              135.83440579999998
+            ]
+          },
+          {
+            "name": "Honke Owariya",
+            "type": "dinner",
+            "coord": [
+              35.013,
+              135.76
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "osaka-foodie-market",
+      "region": "osaka",
+      "name": "Osaka Food & Market Life",
+      "theme": "foodie",
+      "audience": "all",
+      "description": "Street food, markets, and Osaka's bold culinary traditions.",
+      "tags": [
+        "Food & Drink",
+        "Markets"
+      ],
+      "day": {
+        "label": "Osaka Food & Market Life",
+        "items": [
+          {
+            "name": "Waldorf Astoria Osaka",
+            "type": "hotel",
+            "coord": [
+              34.702998199999996,
+              135.4915467
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Kuromon Market",
+            "type": "sightseeing",
+            "coord": [
+              34.6653529,
+              135.5062406
+            ]
+          },
+          {
+            "name": "Lunch at market",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Dotonbori Food Stalls",
+            "type": "sightseeing",
+            "coord": [
+              34.668865499999995,
+              135.50467469999998
+            ]
+          },
+          {
+            "name": "Hajime",
+            "type": "dinner",
+            "coord": [
+              34.688713199999995,
+              135.49605739999998
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "osaka-onsen-family",
+      "region": "osaka",
+      "name": "Osaka Onsen & Family Fun",
+      "theme": "family",
+      "audience": "families",
+      "description": "Onsen spas and family-friendly attractions in Osaka.",
+      "tags": [
+        "Onsen",
+        "Family"
+      ],
+      "day": {
+        "label": "Osaka Onsen & Family Fun",
+        "items": [
+          {
+            "name": "Patina Osaka",
+            "type": "hotel",
+            "coord": [
+              34.681912499999996,
+              135.5247714
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Solaniwa Onsen",
+            "type": "sightseeing",
+            "coord": [
+              34.6703579,
+              135.4595476
+            ]
+          },
+          {
+            "name": "Lunch break",
+            "type": "nap",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Osaka Aquarium Kaiyukan",
+            "type": "sightseeing",
+            "coord": [
+              34.6545182,
+              135.4289645
+            ]
+          },
+          {
+            "name": "Kashiwaya",
+            "type": "dinner",
+            "coord": [
+              34.696899,
+              135.5005309
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "kanazawa-art-gardens",
+      "region": "kanazawa-hokuriku",
+      "name": "Kanazawa Art & Tradition",
+      "theme": "culture",
+      "audience": "all",
+      "description": "Contemporary art, historic gardens, and Kanazawa's refined culture.",
+      "tags": [
+        "Art & Culture",
+        "Gardens"
+      ],
+      "day": {
+        "label": "Kanazawa Art & Tradition",
+        "items": [
+          {
+            "name": "Hyatt Centric Kanazawa",
+            "type": "hotel",
+            "coord": [
+              36.5800473,
+              136.6478362
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "21st Century Museum of Art",
+            "type": "sightseeing",
+            "coord": [
+              36.560871299999995,
+              136.6585251
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Kenrokuen Garden",
+            "type": "sightseeing",
+            "coord": [
+              36.5621278,
+              136.66265149999998
+            ]
+          },
+          {
+            "name": "Zeniya",
+            "type": "dinner",
+            "coord": [
+              36.5607226,
+              136.6499747
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "kanazawa-market-crafts",
+      "region": "kanazawa-hokuriku",
+      "name": "Kanazawa Market & Artisans",
+      "theme": "craft/artisan",
+      "audience": "all",
+      "description": "Omicho Market, traditional crafts, and Hokuriku heritage.",
+      "tags": [
+        "Crafts",
+        "Markets"
+      ],
+      "day": {
+        "label": "Kanazawa Market & Artisans",
+        "items": [
+          {
+            "name": "Beniya Mukayu",
+            "type": "hotel",
+            "coord": [
+              36.288967,
+              136.3630854
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Omicho Market",
+            "type": "sightseeing",
+            "coord": [
+              36.5717335,
+              136.6558651
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Free afternoon",
+            "type": "shopping",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Otome Sushi",
+            "type": "dinner",
+            "coord": [
+              36.561437,
+              136.65169330000003
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sapporo-whisky-canal",
+      "region": "sapporo-otaru",
+      "name": "Sapporo Whisky & Otaru Canal",
+      "theme": "foodie",
+      "audience": "all",
+      "description": "Whisky distillery tours, historic canal, and local cuisine.",
+      "tags": [
+        "Food & Drink",
+        "Cultural"
+      ],
+      "day": {
+        "label": "Sapporo Whisky & Otaru Canal",
+        "items": [
+          {
+            "name": "Free afternoon",
+            "type": "hotel",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Nikka Whisky Yoichi",
+            "type": "sightseeing",
+            "coord": [
+              43.1868327,
+              140.7912896
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Otaru Canal",
+            "type": "sightseeing",
+            "coord": [
+              43.199041,
+              141.0021176
+            ]
+          },
+          {
+            "name": "Sushi Miyakawa",
+            "type": "dinner",
+            "coord": [
+              43.0621249,
+              141.3176119
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sapporo-markets-culture",
+      "region": "sapporo-otaru",
+      "name": "Sapporo Markets & Local Flavor",
+      "theme": "culture",
+      "audience": "all",
+      "description": "Fish markets, sake museums, and Hokkaido food traditions.",
+      "tags": [
+        "Food & Drink",
+        "Markets"
+      ],
+      "day": {
+        "label": "Sapporo Markets & Local Flavor",
+        "items": [
+          {
+            "name": "Free afternoon",
+            "type": "hotel",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Nijo Market",
+            "type": "sightseeing",
+            "coord": [
+              43.058299,
+              141.358446
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Otokoyama Sake Museum",
+            "type": "sightseeing",
+            "coord": [
+              43.7962231,
+              142.4094264
+            ]
+          },
+          {
+            "name": "Tempura Araki",
+            "type": "dinner",
+            "coord": [
+              43.0525053,
+              141.3535794
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "niseko-onsen-nature",
+      "region": "niseko-lake-toya",
+      "name": "Niseko & Lake Toya Onsen",
+      "theme": "onsen",
+      "audience": "all",
+      "description": "Mountain onsen, Lake Toya views, and Alpine luxury.",
+      "tags": [
+        "Onsen",
+        "Nature"
+      ],
+      "day": {
+        "label": "Niseko & Lake Toya Onsen",
+        "items": [
+          {
+            "name": "Park Hyatt Niseko",
+            "type": "hotel",
+            "coord": [
+              42.8940091,
+              140.698515
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Free afternoon",
+            "type": "sightseeing",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Lunch at hotel",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Free afternoon",
+            "type": "nap",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Onsen at hotel",
+            "type": "dinner",
+            "coord": [
+              0,
+              0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "niseko-powder-adventure",
+      "region": "niseko-lake-toya",
+      "name": "Niseko Winter & Adventure",
+      "theme": "nature/outdoor",
+      "audience": "all",
+      "description": "Mountain activities and seasonal Alpine experiences.",
+      "tags": [
+        "Outdoor",
+        "Adventure"
+      ],
+      "day": {
+        "label": "Niseko Winter & Adventure",
+        "items": [
+          {
+            "name": "Zaborin",
+            "type": "hotel",
+            "coord": [
+              42.9046156,
+              140.6773586
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Free afternoon",
+            "type": "sightseeing",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Lunch break",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Free afternoon",
+            "type": "sightseeing",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Dinner at hotel",
+            "type": "dinner",
+            "coord": [
+              0,
+              0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "hakodate-seafood-night",
+      "region": "hakodate",
+      "name": "Hakodate Night View & Seafood",
+      "theme": "foodie",
+      "audience": "all",
+      "description": "Night market views, fresh squid, and Hokkaido seafood.",
+      "tags": [
+        "Food & Drink",
+        "Scenic"
+      ],
+      "day": {
+        "label": "Hakodate Night View & Seafood",
+        "items": [
+          {
+            "name": "Free afternoon",
+            "type": "hotel",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Hakodate Morning Market",
+            "type": "sightseeing",
+            "coord": [
+              41.7722914,
+              140.7251981
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Mt. Hakodate Night View",
+            "type": "sightseeing",
+            "coord": [
+              41.7594596,
+              140.7046519
+            ]
+          },
+          {
+            "name": "Uni Murakami",
+            "type": "dinner",
+            "coord": [
+              41.771901299999996,
+              140.7243531
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "furano-fields-cheese",
+      "region": "furano-biei",
+      "name": "Furano & Biei Lavender Fields",
+      "theme": "nature/outdoor",
+      "audience": "all",
+      "description": "Colorful flower fields, patchwork roads, and rural charm.",
+      "tags": [
+        "Nature",
+        "Scenic"
+      ],
+      "day": {
+        "label": "Furano & Biei Lavender Fields",
+        "items": [
+          {
+            "name": "Free afternoon",
+            "type": "hotel",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Farm Tomita",
+            "type": "sightseeing",
+            "coord": [
+              43.4182493,
+              142.4280407
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Patchwork Road",
+            "type": "sightseeing",
+            "coord": [
+              43.6306405,
+              142.42831719999998
+            ]
+          },
+          {
+            "name": "Furano Cheese Factory",
+            "type": "dinner",
+            "coord": [
+              43.3206967,
+              142.3774354
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sendai-bay-nature",
+      "region": "tohoku-sendai",
+      "name": "Sendai & Matsushima Bay",
+      "theme": "nature/outdoor",
+      "audience": "all",
+      "description": "Island-filled bay, temples, and coastal beauty.",
+      "tags": [
+        "Nature",
+        "Scenic"
+      ],
+      "day": {
+        "label": "Sendai & Matsushima Bay",
+        "items": [
+          {
+            "name": "The Westin Sendai",
+            "type": "hotel",
+            "coord": [
+              38.2564637,
+              140.8762422
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Matsushima Bay Cruise",
+            "type": "sightseeing",
+            "coord": [
+              38.3696558,
+              141.0628391
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Free afternoon",
+            "type": "sightseeing",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Rikyu Gyutan",
+            "type": "dinner",
+            "coord": [
+              38.2610177,
+              140.87631489999998
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sendai-family",
+      "region": "tohoku-sendai",
+      "name": "Sendai Family Attractions",
+      "theme": "family",
+      "audience": "families",
+      "description": "Aquariums, museums, and Sendai's family attractions.",
+      "tags": [
+        "Family",
+        "Entertainment"
+      ],
+      "day": {
+        "label": "Sendai Family Attractions",
+        "items": [
+          {
+            "name": "Matsushima Taikanso",
+            "type": "hotel",
+            "coord": [
+              38.3641266,
+              141.056538
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Sendai Umi no Mori Aquarium",
+            "type": "sightseeing",
+            "coord": [
+              38.271152099999995,
+              140.9807068
+            ]
+          },
+          {
+            "name": "Lunch break",
+            "type": "nap",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Anpanman Museum Sendai",
+            "type": "sightseeing",
+            "coord": [
+              38.2640996,
+              140.8875088
+            ]
+          },
+          {
+            "name": "Zunda Saryo",
+            "type": "dinner",
+            "coord": [
+              38.2604316,
+              140.8818661
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "akita-onsen-samurai",
+      "region": "tohoku-akita",
+      "name": "Kakunodate Samurai & Onsen",
+      "theme": "onsen",
+      "audience": "all",
+      "description": "Historic samurai district and authentic hot spring villages.",
+      "tags": [
+        "Onsen",
+        "Historical"
+      ],
+      "day": {
+        "label": "Kakunodate Samurai & Onsen",
+        "items": [
+          {
+            "name": "Tsuru no Yu",
+            "type": "hotel",
+            "coord": [
+              39.805188799999996,
+              140.7798893
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Kakunodate Samurai District",
+            "type": "sightseeing",
+            "coord": [
+              39.59926180000001,
+              140.5617163
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Nyuto Onsen Village",
+            "type": "sightseeing",
+            "coord": [
+              39.800895499999996,
+              140.7947045
+            ]
+          },
+          {
+            "name": "Sakura no Sato",
+            "type": "dinner",
+            "coord": [
+              39.5973882,
+              140.5623434
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "akita-culture-food",
+      "region": "tohoku-akita",
+      "name": "Akita Culture & Local Food",
+      "theme": "culture",
+      "audience": "all",
+      "description": "Local traditions, regional cuisine, and mountain culture.",
+      "tags": [
+        "Cultural",
+        "Food & Drink"
+      ],
+      "day": {
+        "label": "Akita Culture & Local Food",
+        "items": [
+          {
+            "name": "Kakunodate Sanso Wabizakura",
+            "type": "hotel",
+            "coord": [
+              39.654213,
+              140.5549164
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Kakunodate Walking",
+            "type": "sightseeing",
+            "coord": [
+              39.59926180000001,
+              140.5617163
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Free afternoon",
+            "type": "sightseeing",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Pairon",
+            "type": "dinner",
+            "coord": [
+              39.7022579,
+              141.1521889
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "yamagata-onsen-temple",
+      "region": "tohoku-yamagata",
+      "name": "Ginzan Onsen & Dewa Sanzan",
+      "theme": "onsen",
+      "audience": "all",
+      "description": "Historic onsen village and sacred mountain pilgrimages.",
+      "tags": [
+        "Onsen",
+        "Temples"
+      ],
+      "day": {
+        "label": "Ginzan Onsen & Dewa Sanzan",
+        "items": [
+          {
+            "name": "Fujiya Hotel Ginzan Onsen",
+            "type": "hotel",
+            "coord": [
+              38.569499,
+              140.5311485
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Ginzan Onsen Village",
+            "type": "sightseeing",
+            "coord": [
+              38.571984,
+              140.528755
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Dewa Sanzan",
+            "type": "sightseeing",
+            "coord": [
+              38.7023491,
+              139.98135299999998
+            ]
+          },
+          {
+            "name": "Al-ché-cciano",
+            "type": "dinner",
+            "coord": [
+              38.706958799999995,
+              139.84145030000002
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "north-tohoku-nature",
+      "region": "tohoku-north",
+      "name": "Northern Tohoku Gorges & Nature",
+      "theme": "nature/outdoor",
+      "audience": "all",
+      "description": "Oirase Gorge, morning markets, and rugged natural beauty.",
+      "tags": [
+        "Nature",
+        "Scenic"
+      ],
+      "day": {
+        "label": "Northern Tohoku Gorges & Nature",
+        "items": [
+          {
+            "name": "Free afternoon",
+            "type": "hotel",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Oirase Gorge",
+            "type": "sightseeing",
+            "coord": [
+              40.489961799999996,
+              140.9525486
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Tatehana Wharf Morning Market",
+            "type": "sightseeing",
+            "coord": [
+              40.5278596,
+              141.5294053
+            ]
+          },
+          {
+            "name": "Restaurant Yamazaki",
+            "type": "dinner",
+            "coord": [
+              40.6023879,
+              140.4702922
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "setouchi-art",
+      "region": "setouchi",
+      "name": "Naoshima Art Island",
+      "theme": "culture",
+      "audience": "all",
+      "description": "Contemporary art museums and island art experiences.",
+      "tags": [
+        "Art & Culture"
+      ],
+      "day": {
+        "label": "Naoshima Art Island",
+        "items": [
+          {
+            "name": "Free afternoon",
+            "type": "hotel",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Naoshima Art Island",
+            "type": "sightseeing",
+            "coord": [
+              34.4579956,
+              133.99872
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Chichu Art Museum",
+            "type": "sightseeing",
+            "coord": [
+              34.447747899999996,
+              133.9847175
+            ]
+          },
+          {
+            "name": "Free dinner",
+            "type": "dinner",
+            "coord": [
+              0,
+              0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "kyushu-onsen-nature",
+      "region": "kyushu",
+      "name": "Yufuin & Unzen Onsen",
+      "theme": "onsen",
+      "audience": "all",
+      "description": "Mountain onsen villages and Kyushu natural hot springs.",
+      "tags": [
+        "Onsen",
+        "Nature"
+      ],
+      "day": {
+        "label": "Yufuin & Unzen Onsen",
+        "items": [
+          {
+            "name": "Enowa Yufuin",
+            "type": "hotel",
+            "coord": [
+              33.2763999,
+              131.3655169
+            ]
+          },
+          {
+            "name": "Hotel breakfast",
+            "type": "info",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Free afternoon",
+            "type": "sightseeing",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Lunch",
+            "type": "lunch",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Free afternoon",
+            "type": "nap",
+            "coord": [
+              0,
+              0
+            ]
+          },
+          {
+            "name": "Onsen at hotel",
+            "type": "dinner",
+            "coord": [
+              0,
+              0
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

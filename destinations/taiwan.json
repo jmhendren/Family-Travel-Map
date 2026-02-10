@@ -7585,182 +7585,254 @@
   },
   "itineraryData": {
     "a": {
-      "name": "Greatest Hits (7 days)",
-      "color": "#2563EB",
+      "name": "Greatest Hits (7 Days)",
+      "description": "Taiwan's essential highlights from Taipei's night markets to Taroko's marble gorges and Sun Moon Lake's serene beauty.",
       "days": [
         {
-          "day": 1,
-          "title": "Taipei arrival & Taipei 101",
+          "label": "Day 1 —  Greatest Hits — Central Taipei",
           "items": [
             {
+              "name": "Regent Taipei",
               "type": "hotel",
-              "name": "Mandarin Oriental, Taipei",
               "coord": [
-                25.055741599999998,
-                121.5481485
+                25.054157999999997,
+                121.52428800000001
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Taipei 101 & Observatory",
-              "coord": [
-                25.033975,
-                121.564519
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Le Palais",
-              "coord": [
-                25.049148499999998,
-                121.5168698
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Temples & teahouses",
-          "items": [
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Eslite Bookstore",
               "coord": [
-                25.041,
-                121.56
+                25.054157999999997,
+                121.52428800000001
               ]
             },
             {
+              "name": "Chiang Kai-shek Memorial Hall",
               "type": "sightseeing",
+              "coord": [
+                25.035501999999997,
+                121.5201832
+              ]
+            },
+            {
               "name": "Mengjia Longshan Temple",
+              "type": "sightseeing",
               "coord": [
                 25.037310599999998,
                 121.49986539999999
               ]
             },
             {
+              "name": "Yu Yu 1969",
               "type": "lunch",
-              "name": "Shilin Night Market",
               "coord": [
-                25.0884972,
-                121.52435039999999
+                25.049029599999997,
+                121.54207199999999
               ]
             },
             {
+              "name": "Taipei 101 Observatory",
               "type": "sightseeing",
-              "name": "Maokong Gondola + Tea Houses",
               "coord": [
-                25.065,
-                121.581
+                25.0336752,
+                121.56488309999999
               ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Jiufen & mountain village",
-          "items": [
+            },
             {
+              "name": "Elephant Mountain (Xiangshan) hike",
               "type": "sightseeing",
-              "name": "Jiufen Old Street",
               "coord": [
-                25.109807699999998,
-                121.8452102
+                25.027375,
+                121.57096190000001
               ]
             },
             {
-              "type": "tea",
-              "name": "Tea tasting",
-              "coord": [
-                25.107,
-                121.856
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Hostels in Jiufen area",
-              "coord": [
-                25.107,
-                121.856
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Taroko Gorge",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Silks Place Taroko",
-              "coord": [
-                24.1813654,
-                121.49406269999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Taroko Gorge",
-              "coord": [
-                24.1939246,
-                121.4906668
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Taroko lodge restaurant",
-              "coord": [
-                24.15,
-                121.62
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Sun Moon Lake",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "The Lalu Sun Moon Lake",
-              "coord": [
-                23.862976,
-                120.90860399999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Sun Moon Lake cycling loop",
-              "coord": [
-                23.85,
-                120.92
-              ]
-            },
-            {
+              "name": "Raohe Night Market",
               "type": "dinner",
-              "name": "Lakeside dining",
               "coord": [
-                23.85,
-                120.92
+                25.0508854,
+                121.5774891
+              ]
+            },
+            {
+              "name": "Bar Mood",
+              "type": "optional",
+              "coord": [
+                25.043701,
+                121.54663920000002
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Tea plantations & nature",
+          "label": "Day 2 —  Travel to Taichung & Central Mountains",
           "items": [
             {
-              "type": "sightseeing",
-              "name": "Tea plantation visit",
+              "name": "Hoshinoya Guguan",
+              "type": "hotel",
               "coord": [
-                23.87,
-                120.91
+                24.205375999999998,
+                121.0104902
               ]
             },
             {
+              "name": "Morning HSR train Taipei → Taichung (2hr)",
+              "type": "info",
+              "coord": [
+                24.205375999999998,
+                121.0104902
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                25.033727,
+                121.54836999999999
+              ]
+            },
+            {
+              "name": "SHINEYU",
+              "type": "dinner",
+              "coord": [
+                24.1571592,
+                120.6386871
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 —  Taichung Essentials — City to Coast",
+          "items": [
+            {
+              "name": "RedDot Hotel",
+              "type": "hotel",
+              "coord": [
+                24.1431996,
+                120.6756298
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                24.1431996,
+                120.6756298
+              ]
+            },
+            {
+              "name": "Taichung National Theatre",
+              "type": "sightseeing",
+              "coord": [
+                24.1626492,
+                120.64030280000001
+              ]
+            },
+            {
+              "name": "Ke Kou Beef Noodles",
               "type": "lunch",
+              "coord": [
+                24.1569754,
+                120.65044520000001
+              ]
+            },
+            {
+              "name": "Taichung: Calligraphy Greenway",
+              "type": "sightseeing",
+              "coord": [
+                24.1512413,
+                120.66322939999999
+              ]
+            },
+            {
+              "name": "Taichung: Gaomei Wetlands at sunset",
+              "type": "sightseeing",
+              "coord": [
+                24.3125568,
+                120.5473767
+              ]
+            },
+            {
+              "name": "Sur-",
+              "type": "dinner",
+              "coord": [
+                24.1376739,
+                120.6832582
+              ]
+            },
+            {
+              "name": "Fengjia Night Market",
+              "type": "optional",
+              "coord": [
+                24.1761706,
+                120.6456267
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 —  Sun Moon Lake — Nature & Views",
+          "items": [
+            {
               "name": "Fleur de Chine Hotel",
+              "type": "hotel",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            },
+            {
+              "name": "Sun Moon Lake cycling loop (or partial)",
+              "type": "sightseeing",
+              "coord": [
+                23.866366,
+                120.90604649999999
+              ]
+            },
+            {
+              "name": "Lakeside casual lunch",
+              "type": "lunch",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            },
+            {
+              "name": "Sun Moon Lake boat ride",
+              "type": "sightseeing",
+              "coord": [
+                23.8645269,
+                120.91177019999998
+              ]
+            },
+            {
+              "name": "Sun Moon Lake: Ci'en Pagoda",
+              "type": "sightseeing",
+              "coord": [
+                23.8420255,
+                120.92084059999999
+              ]
+            },
+            {
+              "name": "Hotel dinner",
+              "type": "dinner",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            },
+            {
+              "name": "Evening lakeside stroll",
+              "type": "optional",
               "coord": [
                 23.870915699999998,
                 120.92346219999997
@@ -7769,31 +7841,99 @@
           ]
         },
         {
-          "day": 7,
-          "title": "Return to Taipei",
+          "label": "Day 5 —  Travel to Hualien & Taroko",
           "items": [
             {
-              "type": "breakfast",
+              "name": "Silks Place Taroko",
+              "type": "hotel",
+              "coord": [
+                24.1813654,
+                121.49406269999999
+              ]
+            },
+            {
+              "name": "Morning scenic train to Hualien (3hr)",
+              "type": "info",
+              "coord": [
+                24.1813654,
+                121.49406269999999
+              ]
+            },
+            {
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                25.055669,
-                121.54824
+                23.870915699999998,
+                120.92346219999997
               ]
             },
             {
-              "type": "shopping",
-              "name": "Yongkang Street cafés",
-              "coord": [
-                25.029,
-                121.553
-              ]
-            },
-            {
+              "name": "Dinner at hotel",
               "type": "dinner",
-              "name": "Final night market",
               "coord": [
-                25.09071,
-                121.52259
+                24.1813654,
+                121.49406269999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 —  Taroko's Best — Taroko Gorge",
+          "items": [
+            {
+              "name": "Silks Place Taroko",
+              "type": "hotel",
+              "coord": [
+                24.1813654,
+                121.49406269999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                24.1813654,
+                121.49406269999999
+              ]
+            },
+            {
+              "name": "Taroko Gorge",
+              "type": "sightseeing",
+              "coord": [
+                24.1939246,
+                121.4906668
+              ]
+            },
+            {
+              "name": "Lunch near gorge",
+              "type": "lunch",
+              "coord": [
+                24.1813654,
+                121.49406269999999
+              ]
+            },
+            {
+              "name": "Taroko: Eternal Spring Shrine (Changchun)",
+              "type": "sightseeing",
+              "coord": [
+                24.160479799999997,
+                121.6036866
+              ]
+            },
+            {
+              "name": "Hualien: Qingshui Cliffs viewpoint",
+              "type": "sightseeing",
+              "coord": [
+                24.206767000000003,
+                121.6665717
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                24.1813654,
+                121.49406269999999
               ]
             }
           ]
@@ -7801,183 +7941,445 @@
       ]
     },
     "b": {
-      "name": "Hidden Gems (7 days)",
-      "color": "#059669",
+      "name": "Family Comfort (10 Days)",
+      "description": "Multi-generational Taiwan adventure with pandas, hot springs, lake cycling, and beach fun at a relaxed pace.",
       "days": [
         {
-          "day": 1,
-          "title": "Taipei tea & culture",
+          "label": "Day 1 —  Family Day — Taipei with Kids",
           "items": [
             {
-              "type": "hotel",
               "name": "Humble House Taipei",
+              "type": "hotel",
               "coord": [
                 25.0386933,
                 121.567342
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Beitou Hot Spring Area",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                25.13,
-                121.48
+                25.0386933,
+                121.567342
+              ]
+            },
+            {
+              "name": "Taipei Zoo",
+              "type": "sightseeing",
+              "coord": [
+                24.9985635,
+                121.58098570000001
+              ]
+            },
+            {
+              "name": "Maokong Gondola + tea houses",
+              "type": "sightseeing",
+              "coord": [
+                24.9680313,
+                121.587935
+              ]
+            },
+            {
+              "name": "Tea house lunch",
+              "type": "lunch",
+              "coord": [
+                24.9680313,
+                121.587935
+              ]
+            },
+            {
+              "name": "Rest time at hotel",
+              "type": "nap",
+              "coord": [
+                25.0386933,
+                121.567342
+              ]
+            },
+            {
+              "name": "Daan Forest Park",
+              "type": "sightseeing",
+              "coord": [
+                25.0296587,
+                121.5362867
+              ]
+            },
+            {
+              "name": "Ningxia Night Market",
+              "type": "dinner",
+              "coord": [
+                25.0566808,
+                121.51536410000001
               ]
             }
           ]
         },
         {
-          "day": 2,
-          "title": "Artisan villages",
+          "label": "Day 2 —  Travel to Yilan & Northeast Coast",
           "items": [
             {
-              "type": "sightseeing",
-              "name": "Sanyi Wood Carving village",
+              "name": "The Archipelago",
+              "type": "hotel",
               "coord": [
-                24.372,
-                120.642
+                24.8708409,
+                121.8396164
               ]
             },
             {
-              "type": "hotel",
-              "name": "OKU Hotel",
+              "name": "Morning train to Yilan (50min)",
+              "type": "info",
               "coord": [
-                24.145707299999998,
-                120.67711050000001
+                24.8708409,
+                121.8396164
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                25.137710199999997,
+                121.51036979999999
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                24.8708409,
+                121.8396164
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Cingjing highlands",
+          "label": "Day 3 —  Travel to Taichung & Central Mountains",
           "items": [
             {
+              "name": "Hoshinoya Guguan",
               "type": "hotel",
-              "name": "Hemma",
               "coord": [
-                24.0660781,
-                121.16865729999999
+                24.205375999999998,
+                121.0104902
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Mountain meadows & trails",
+              "name": "Morning drive/train to Taichung (3hr)",
+              "type": "info",
               "coord": [
-                24.0253,
-                121.1318
+                24.205375999999998,
+                121.0104902
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                24.8708409,
+                121.8396164
+              ]
+            },
+            {
+              "name": "SHINEYU",
+              "type": "dinner",
+              "coord": [
+                24.1571592,
+                120.6386871
               ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Alishan sunrise & railway",
+          "label": "Day 4 —  Family Fun — Taichung",
           "items": [
             {
+              "name": "Fairfield by Marriott Taichung",
               "type": "hotel",
-              "name": "Hotel Indigo Alishan",
               "coord": [
-                23.4436262,
-                120.67247780000001
+                24.1820605,
+                120.6362184
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Alishan Forest Railway",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                23.508,
-                120.802
+                24.1820605,
+                120.6362184
               ]
             },
             {
+              "name": "Taichung National Theatre (architecture)",
               "type": "sightseeing",
-              "name": "Alishan sunrise",
               "coord": [
-                23.508,
-                120.802
+                24.1626492,
+                120.64030280000001
+              ]
+            },
+            {
+              "name": "Ke Kou Beef Noodles",
+              "type": "lunch",
+              "coord": [
+                24.1569754,
+                120.65044520000001
+              ]
+            },
+            {
+              "name": "Rest time at hotel",
+              "type": "nap",
+              "coord": [
+                24.1820605,
+                120.6362184
+              ]
+            },
+            {
+              "name": "Gaomei Wetlands boardwalk",
+              "type": "sightseeing",
+              "coord": [
+                24.3125568,
+                120.5473767
+              ]
+            },
+            {
+              "name": "Dongyin Fisherman",
+              "type": "dinner",
+              "coord": [
+                24.1467894,
+                120.66390700000001
+              ]
+            },
+            {
+              "name": "Fengjia Night Market",
+              "type": "optional",
+              "coord": [
+                24.1761706,
+                120.6456267
               ]
             }
           ]
         },
         {
-          "day": 5,
-          "title": "Tainan temples & history",
+          "label": "Day 5 —  Family Lake Day — Sun Moon Lake",
           "items": [
             {
+              "name": "Grand Hilai Sun Moon Lake",
               "type": "hotel",
-              "name": "Provintia Hotel Tainan",
               "coord": [
-                22.9990529,
-                120.20353599999999
+                23.8634913,
+                120.9089822
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Tainan Confucius Temple",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                22.9905296,
-                120.2040401
+                23.8634913,
+                120.9089822
               ]
             },
             {
+              "name": "Sun Moon Lake easy cycling (partial)",
               "type": "sightseeing",
-              "name": "Tainan: Temple-hopping day",
               "coord": [
-                22.9966464,
-                120.2015605
+                23.8662042,
+                120.9109611
+              ]
+            },
+            {
+              "name": "Lakeside lunch",
+              "type": "lunch",
+              "coord": [
+                23.8634913,
+                120.9089822
+              ]
+            },
+            {
+              "name": "Afternoon rest",
+              "type": "nap",
+              "coord": [
+                23.8634913,
+                120.9089822
+              ]
+            },
+            {
+              "name": "Sun Moon Lake boat + lakefront stroll",
+              "type": "sightseeing",
+              "coord": [
+                23.8594351,
+                120.91993579999999
+              ]
+            },
+            {
+              "name": "Hotel dinner",
+              "type": "dinner",
+              "coord": [
+                23.8634913,
+                120.9089822
+              ]
+            },
+            {
+              "name": "Evening at resort",
+              "type": "optional",
+              "coord": [
+                23.8634913,
+                120.9089822
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Kaohsiung art & design",
+          "label": "Day 6 —  Travel to Kaohsiung",
           "items": [
             {
+              "name": "InterContinental Kaohsiung",
               "type": "hotel",
-              "name": "H2O HOTEL",
               "coord": [
-                22.6628018,
-                120.3022
+                22.6113474,
+                120.30349319999999
               ]
             },
             {
+              "name": "Morning HSR to Kaohsiung (2.5hr)",
+              "type": "info",
+              "coord": [
+                22.6113474,
+                120.30349319999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                23.8634913,
+                120.9089822
+              ]
+            },
+            {
+              "name": "J Parc",
+              "type": "dinner",
+              "coord": [
+                22.6466529,
+                120.29055960000001
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 —  Family Day — Kaohsiung",
+          "items": [
+            {
+              "name": "Kaohsiung Marriott Hotel",
+              "type": "hotel",
+              "coord": [
+                22.654656499999998,
+                120.3062489
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                22.654656499999998,
+                120.3062489
+              ]
+            },
+            {
+              "name": "Kaohsiung Pier-2 Art Center",
               "type": "sightseeing",
-              "name": "Kaohsiung: Pier-2 Art Center",
               "coord": [
                 22.619980299999998,
                 120.2815287
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Kaohsiung: Dome of Light",
+              "name": "Kuca Seafood",
+              "type": "lunch",
               "coord": [
-                22.627,
-                120.301
+                22.6622379,
+                120.30630519999998
+              ]
+            },
+            {
+              "name": "Afternoon rest",
+              "type": "nap",
+              "coord": [
+                22.654656499999998,
+                120.3062489
+              ]
+            },
+            {
+              "name": "Kaohsiung: Cijin Island",
+              "type": "sightseeing",
+              "coord": [
+                22.561674,
+                120.30699799999998
+              ]
+            },
+            {
+              "name": "Ruifeng Night Market",
+              "type": "dinner",
+              "coord": [
+                22.6660714,
+                120.29962780000001
               ]
             }
           ]
         },
         {
-          "day": 7,
-          "title": "Kenting beach & departure",
+          "label": "Day 8 —  Family Day — Kenting",
           "items": [
             {
-              "type": "sightseeing",
-              "name": "Kenting National Park",
+              "name": "YOHO Bike Hotel",
+              "type": "hotel",
               "coord": [
-                21.9483307,
-                120.77975159999998
+                21.9977001,
+                120.7052723
               ]
             },
             {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Beach café",
               "coord": [
-                21.95,
-                120.79
+                21.9977001,
+                120.7052723
+              ]
+            },
+            {
+              "name": "Kenting: National Museum of Marine Biology & Aquarium",
+              "type": "sightseeing",
+              "coord": [
+                22.0460173,
+                120.6989058
+              ]
+            },
+            {
+              "name": "Aquarium cafe lunch",
+              "type": "lunch",
+              "coord": [
+                22.0460173,
+                120.6989058
+              ]
+            },
+            {
+              "name": "Afternoon rest time",
+              "type": "nap",
+              "coord": [
+                21.9977001,
+                120.7052723
+              ]
+            },
+            {
+              "name": "Kenting: Beach day at Nanwan",
+              "type": "sightseeing",
+              "coord": [
+                21.9594679,
+                120.76350400000001
+              ]
+            },
+            {
+              "name": "Casual beachside dinner",
+              "type": "dinner",
+              "coord": [
+                21.9594679,
+                120.76350400000001
               ]
             }
           ]
@@ -7985,321 +8387,588 @@
       ]
     },
     "c": {
-      "name": "Family Comfort (10 days)",
-      "color": "#D97706",
+      "name": "Grand Tour (14 Days)",
+      "description": "Complete Taiwan circuit from Taipei's urban energy through mountain tea plantations, marble gorges, ancient temples, and tropical beaches.",
       "days": [
         {
-          "day": 1,
-          "title": "Taipei arrival",
+          "label": "Day 1 —  Greatest Hits — Central Taipei",
           "items": [
             {
+              "name": "Regent Taipei",
               "type": "hotel",
-              "name": "Grand Hyatt Taipei",
               "coord": [
-                25.0351708,
-                121.56286689999999
+                25.054157999999997,
+                121.52428800000001
               ]
             },
             {
-              "type": "lunch",
-              "name": "Din Tai Fung",
-              "coord": [
-                25.032,
-                121.54
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Taipei sightseeing (easy pace)",
-          "items": [
-            {
-              "type": "breakfast",
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                25.035302,
-                121.56262
+                25.054157999999997,
+                121.52428800000001
               ]
             },
             {
+              "name": "Chiang Kai-shek Memorial Hall",
               "type": "sightseeing",
+              "coord": [
+                25.035501999999997,
+                121.5201832
+              ]
+            },
+            {
+              "name": "Mengjia Longshan Temple",
+              "type": "sightseeing",
+              "coord": [
+                25.037310599999998,
+                121.49986539999999
+              ]
+            },
+            {
+              "name": "Yu Yu 1969",
+              "type": "lunch",
+              "coord": [
+                25.049029599999997,
+                121.54207199999999
+              ]
+            },
+            {
               "name": "Taipei 101 Observatory",
+              "type": "sightseeing",
               "coord": [
                 25.0336752,
                 121.56488309999999
               ]
             },
             {
-              "type": "nap",
-              "name": "Rest time at hotel",
-              "coord": [
-                25.035302,
-                121.56262
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Shilin Night Market",
-              "coord": [
-                25.0884972,
-                121.52435039999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Zoo & parks",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                25.035302,
-                121.56262
-              ]
-            },
-            {
+              "name": "Elephant Mountain (Xiangshan) hike",
               "type": "sightseeing",
-              "name": "Taipei Zoo",
               "coord": [
-                24.9985635,
-                121.58098570000001
+                25.027375,
+                121.57096190000001
               ]
             },
             {
-              "type": "nap",
-              "name": "Rest at hotel",
-              "coord": [
-                25.035302,
-                121.56262
-              ]
-            },
-            {
+              "name": "Raohe Night Market",
               "type": "dinner",
-              "name": "Casual family restaurant",
               "coord": [
-                25.035302,
-                121.56262
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Hot springs day",
-          "items": [
-            {
-              "type": "sightseeing",
-              "name": "Beitou Hot Spring Area",
-              "coord": [
-                25.13,
-                121.48
+                25.0508854,
+                121.5774891
               ]
             },
             {
-              "type": "lunch",
-              "name": "Lakeside café",
-              "coord": [
-                25.13,
-                121.48
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Volando Urai Spring Spa",
-              "coord": [
-                24.87001,
-                121.54855
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Rest and relax",
-          "items": [
-            {
-              "type": "nap",
-              "name": "Morning spa at hotel",
-              "coord": [
-                24.87001,
-                121.54855
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Hot spring restaurant",
-              "coord": [
-                24.87001,
-                121.54855
-              ]
-            },
-            {
+              "name": "Bar Mood",
               "type": "optional",
-              "name": "Afternoon soak",
               "coord": [
-                24.87001,
-                121.54855
+                25.043701,
+                121.54663920000002
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Taroko Gorge",
+          "label": "Day 2 —  Travel to Yilan & Northeast Coast",
           "items": [
             {
+              "name": "The Archipelago",
               "type": "hotel",
+              "coord": [
+                24.8708409,
+                121.8396164
+              ]
+            },
+            {
+              "name": "Morning train to Yilan (50min)",
+              "type": "info",
+              "coord": [
+                24.8708409,
+                121.8396164
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                25.049270600000003,
+                121.5169525
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                24.8708409,
+                121.8396164
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 —  Travel to Hualien & Taroko",
+          "items": [
+            {
               "name": "Silks Place Taroko",
+              "type": "hotel",
               "coord": [
                 24.1813654,
                 121.49406269999999
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Easy Taroko trails",
+              "name": "Scenic coastal train to Hualien (1.5hr)",
+              "type": "info",
               "coord": [
-                24.15,
-                121.62
+                24.1813654,
+                121.49406269999999
               ]
             },
             {
-              "type": "nap",
-              "name": "Rest at gorge lodge",
-              "coord": [
-                24.15,
-                121.62
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Hualien coastal views",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Le Meridien Hualien",
-              "coord": [
-                23.979225,
-                121.609153
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Qingshui Cliffs",
-              "coord": [
-                24.07,
-                121.68
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest at hotel",
-              "coord": [
-                23.979225,
-                121.609153
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Sun Moon Lake (easy)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "The Lalu Sun Moon Lake",
-              "coord": [
-                23.862976,
-                120.90860399999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Short lake walk",
-              "coord": [
-                23.85,
-                120.92
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Lakeside rest",
-              "coord": [
-                23.85,
-                120.92
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Lake cycling & boating",
-          "items": [
-            {
-              "type": "breakfast",
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                23.8512,
-                120.9165
+                24.8708409,
+                121.8396164
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Easy Sun Moon Lake cycling",
+              "name": "Dinner at hotel",
+              "type": "dinner",
               "coord": [
-                23.85,
-                120.92
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Lakeside restaurant",
-              "coord": [
-                23.85,
-                120.92
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Hotel rest",
-              "coord": [
-                23.8512,
-                120.9165
+                24.1813654,
+                121.49406269999999
               ]
             }
           ]
         },
         {
-          "day": 10,
-          "title": "Return to Taipei",
+          "label": "Day 4 —  Water Wonders — Taroko",
           "items": [
             {
+              "name": "Silks Place Taroko",
               "type": "hotel",
-              "name": "Mandarin Oriental, Taipei",
               "coord": [
-                25.055741599999998,
-                121.5481485
+                24.1813654,
+                121.49406269999999
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                24.1813654,
+                121.49406269999999
+              ]
+            },
+            {
+              "name": "Taroko: Shuilian Cave (Water Curtain)",
+              "type": "sightseeing",
+              "coord": [
+                23.994588,
+                121.599146
+              ]
+            },
+            {
+              "name": "Trail-side lunch",
               "type": "lunch",
-              "name": "Final meal together",
               "coord": [
-                25.055669,
-                121.54824
+                24.1813654,
+                121.49406269999999
               ]
             },
             {
-              "type": "shopping",
-              "name": "Souvenir shopping",
+              "name": "Taroko Gorge",
+              "type": "sightseeing",
               "coord": [
-                25.04,
-                121.55
+                24.1939246,
+                121.4906668
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                24.1813654,
+                121.49406269999999
+              ]
+            },
+            {
+              "name": "Evening gorge photography",
+              "type": "optional",
+              "coord": [
+                24.1939246,
+                121.4906668
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 —  Travel to Taichung & Central Mountains",
+          "items": [
+            {
+              "name": "Hoshinoya Guguan",
+              "type": "hotel",
+              "coord": [
+                24.205375999999998,
+                121.0104902
+              ]
+            },
+            {
+              "name": "Morning train to Taichung (3hr)",
+              "type": "info",
+              "coord": [
+                24.205375999999998,
+                121.0104902
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                24.1813654,
+                121.49406269999999
+              ]
+            },
+            {
+              "name": "SHINEYU",
+              "type": "dinner",
+              "coord": [
+                24.1571592,
+                120.6386871
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 —  Taichung Essentials — City to Coast",
+          "items": [
+            {
+              "name": "RedDot Hotel",
+              "type": "hotel",
+              "coord": [
+                24.1431996,
+                120.6756298
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                24.1431996,
+                120.6756298
+              ]
+            },
+            {
+              "name": "Taichung National Theatre",
+              "type": "sightseeing",
+              "coord": [
+                24.1626492,
+                120.64030280000001
+              ]
+            },
+            {
+              "name": "Ke Kou Beef Noodles",
+              "type": "lunch",
+              "coord": [
+                24.1569754,
+                120.65044520000001
+              ]
+            },
+            {
+              "name": "Taichung: Calligraphy Greenway",
+              "type": "sightseeing",
+              "coord": [
+                24.1512413,
+                120.66322939999999
+              ]
+            },
+            {
+              "name": "Taichung: Gaomei Wetlands at sunset",
+              "type": "sightseeing",
+              "coord": [
+                24.3125568,
+                120.5473767
+              ]
+            },
+            {
+              "name": "Sur-",
+              "type": "dinner",
+              "coord": [
+                24.1376739,
+                120.6832582
+              ]
+            },
+            {
+              "name": "Fengjia Night Market",
+              "type": "optional",
+              "coord": [
+                24.1761706,
+                120.6456267
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 —  Sun Moon Lake — Nature & Views",
+          "items": [
+            {
+              "name": "Fleur de Chine Hotel",
+              "type": "hotel",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            },
+            {
+              "name": "Sun Moon Lake cycling loop (or partial)",
+              "type": "sightseeing",
+              "coord": [
+                23.866366,
+                120.90604649999999
+              ]
+            },
+            {
+              "name": "Lakeside casual lunch",
+              "type": "lunch",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            },
+            {
+              "name": "Sun Moon Lake boat ride",
+              "type": "sightseeing",
+              "coord": [
+                23.8645269,
+                120.91177019999998
+              ]
+            },
+            {
+              "name": "Sun Moon Lake: Ci'en Pagoda",
+              "type": "sightseeing",
+              "coord": [
+                23.8420255,
+                120.92084059999999
+              ]
+            },
+            {
+              "name": "Hotel dinner",
+              "type": "dinner",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            },
+            {
+              "name": "Evening lakeside stroll",
+              "type": "optional",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 —  Travel to Tainan",
+          "items": [
+            {
+              "name": "Provintia Hotel Tainan",
+              "type": "hotel",
+              "coord": [
+                22.9990529,
+                120.20353599999999
+              ]
+            },
+            {
+              "name": "Morning HSR to Tainan (2hr)",
+              "type": "info",
+              "coord": [
+                22.9990529,
+                120.20353599999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            },
+            {
+              "name": "FUKAI",
+              "type": "dinner",
+              "coord": [
+                22.988920099999998,
+                120.2306919
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 —  Ancient Capital Highlights — Central Tainan",
+          "items": [
+            {
+              "name": "Provintia Hotel Tainan",
+              "type": "hotel",
+              "coord": [
+                22.9990529,
+                120.20353599999999
+              ]
+            },
+            {
+              "name": "Dayong Street No Name Congee",
+              "type": "breakfast",
+              "coord": [
+                22.9898423,
+                120.19330839999999
+              ]
+            },
+            {
+              "name": "Tainan Confucius Temple",
+              "type": "sightseeing",
+              "coord": [
+                22.9905296,
+                120.2040401
+              ]
+            },
+            {
+              "name": "Small Park Danzai Noodles",
+              "type": "lunch",
+              "coord": [
+                22.997164899999998,
+                120.1996052
+              ]
+            },
+            {
+              "name": "Tainan: Chihkan Tower",
+              "type": "sightseeing",
+              "coord": [
+                22.997477999999997,
+                120.2025433
+              ]
+            },
+            {
+              "name": "Zhu Xin Ju",
+              "type": "dinner",
+              "coord": [
+                23.000299,
+                120.194981
+              ]
+            },
+            {
+              "name": "Garden Night Market",
+              "type": "optional",
+              "coord": [
+                23.0112387,
+                120.20022709999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 —  Travel to Kaohsiung",
+          "items": [
+            {
+              "name": "InterContinental Kaohsiung",
+              "type": "hotel",
+              "coord": [
+                22.6113474,
+                120.30349319999999
+              ]
+            },
+            {
+              "name": "Morning HSR to Kaohsiung (30min)",
+              "type": "info",
+              "coord": [
+                22.6113474,
+                120.30349319999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                22.990782,
+                120.1997872
+              ]
+            },
+            {
+              "name": "J Parc",
+              "type": "dinner",
+              "coord": [
+                22.6466529,
+                120.29055960000001
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 11 —  Kenting Highlights — Southern Tip",
+          "items": [
+            {
+              "name": "Hotel Dùa",
+              "type": "hotel",
+              "coord": [
+                21.9431801,
+                120.7997713
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                21.9431801,
+                120.7997713
+              ]
+            },
+            {
+              "name": "Kenting: Beach day at Nanwan",
+              "type": "sightseeing",
+              "coord": [
+                21.9594679,
+                120.76350400000001
+              ]
+            },
+            {
+              "name": "Nanwan lunch spot",
+              "type": "lunch",
+              "coord": [
+                21.9594679,
+                120.76350400000001
+              ]
+            },
+            {
+              "name": "Kenting: Eluanbi Lighthouse area",
+              "type": "sightseeing",
+              "coord": [
+                21.9022339,
+                120.8526297
+              ]
+            },
+            {
+              "name": "Kenting street dinner",
+              "type": "dinner",
+              "coord": [
+                21.9431801,
+                120.7997713
+              ]
+            },
+            {
+              "name": "Kenting Night Market stroll",
+              "type": "optional",
+              "coord": [
+                21.9431801,
+                120.7997713
               ]
             }
           ]
@@ -8307,313 +8976,339 @@
       ]
     },
     "d": {
-      "name": "Foodie Deep-Dive (10 days)",
-      "color": "#DC2626",
+      "name": "Foodie Pilgrimage (8 Days)",
+      "description": "A culinary journey through Taiwan's food capitals from Taipei's night markets to Tainan's Michelin street eats and Taichung's fine dining.",
       "days": [
         {
-          "day": 1,
-          "title": "Taipei night market immersion",
+          "label": "Day 1 —  Foodie Adventure — Taipei Eats",
           "items": [
             {
-              "type": "hotel",
               "name": "Mandarin Oriental, Taipei",
+              "type": "hotel",
               "coord": [
                 25.055741599999998,
                 121.5481485
               ]
             },
             {
-              "type": "dinner",
-              "name": "Shilin Night Market",
-              "coord": [
-                25.0884972,
-                121.52435039999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Fine dining & street food",
-          "items": [
-            {
+              "name": "Shih Chia Big Rice Ball",
               "type": "breakfast",
-              "name": "Din Tai Fung",
               "coord": [
-                25.032,
-                121.54
+                25.065153,
+                121.5109816
               ]
             },
             {
+              "name": "Dihua Street (Dadaocheng)",
+              "type": "sightseeing",
+              "coord": [
+                25.0581215,
+                121.50981099999998
+              ]
+            },
+            {
+              "name": "Kou Gyu Rou",
               "type": "lunch",
-              "name": "Michelin noodles",
               "coord": [
-                25.035,
-                121.553
+                25.0557099,
+                121.5107829
               ]
             },
             {
-              "type": "dinner",
-              "name": "Le Palais",
+              "name": "Addiction Aquatic Development",
+              "type": "sightseeing",
               "coord": [
-                25.049148499999998,
-                121.5168698
+                25.066707899999997,
+                121.5370059
+              ]
+            },
+            {
+              "name": "Yongkang Street cafés & desserts",
+              "type": "sightseeing",
+              "coord": [
+                25.03097,
+                121.52931
+              ]
+            },
+            {
+              "name": "Taïrroir",
+              "type": "dinner",
+              "coord": [
+                25.08278,
+                121.5591771
+              ]
+            },
+            {
+              "name": "Night market food crawl",
+              "type": "optional",
+              "coord": [
+                25.0508854,
+                121.5774891
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Taipei teahouses & cafés",
+          "label": "Day 2 —  Travel to Taichung & Central Mountains",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Maokong teahouse",
-              "coord": [
-                25.065,
-                121.581
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Yongkang dessert street",
-              "coord": [
-                25.029,
-                121.553
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Casual Taipei restaurant",
-              "coord": [
-                25.04,
-                121.55
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Taichung Michelin tour",
-          "items": [
-            {
+              "name": "Hoshinoya Guguan",
               "type": "hotel",
+              "coord": [
+                24.205375999999998,
+                121.0104902
+              ]
+            },
+            {
+              "name": "Morning HSR to Taichung (2hr)",
+              "type": "info",
+              "coord": [
+                24.205375999999998,
+                121.0104902
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                25.049270600000003,
+                121.5169525
+              ]
+            },
+            {
+              "name": "SHINEYU",
+              "type": "dinner",
+              "coord": [
+                24.1571592,
+                120.6386871
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 —  Taichung Tastes — Market to Tasting Menu",
+          "items": [
+            {
               "name": "OKU Hotel",
+              "type": "hotel",
               "coord": [
                 24.145707299999998,
                 120.67711050000001
               ]
             },
             {
+              "name": "Taichung Second Market",
+              "type": "breakfast",
+              "coord": [
+                24.1424184,
+                120.67875699999999
+              ]
+            },
+            {
+              "name": "Taichung: Michelin food tour (self-guided)",
+              "type": "sightseeing",
+              "coord": [
+                24.141101799999998,
+                120.66061889999999
+              ]
+            },
+            {
+              "name": "Taichung Meatball",
               "type": "lunch",
+              "coord": [
+                24.134469,
+                120.6825714
+              ]
+            },
+            {
+              "name": "Afternoon tea and rest",
+              "type": "sightseeing",
+              "coord": [
+                24.145707299999998,
+                120.67711050000001
+              ]
+            },
+            {
               "name": "JL STUDIO",
+              "type": "dinner",
               "coord": [
                 24.1504844,
                 120.6285429
               ]
             },
             {
-              "type": "dinner",
-              "name": "Taichung dining",
+              "name": "Fengjia Night Market",
+              "type": "optional",
               "coord": [
-                24.15,
-                120.63
+                24.1761706,
+                120.6456267
               ]
             }
           ]
         },
         {
-          "day": 5,
-          "title": "Alishan tea & mountain food",
+          "label": "Day 4 —  Travel to Tainan",
           "items": [
             {
-              "type": "hotel",
-              "name": "Hotel Indigo Alishan",
-              "coord": [
-                23.4436262,
-                120.67247780000001
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Tea plantation visit",
-              "coord": [
-                23.45,
-                120.67
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Mountain lodge cuisine",
-              "coord": [
-                23.45,
-                120.67
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Tainan street food crawl",
-          "items": [
-            {
-              "type": "hotel",
               "name": "Provintia Hotel Tainan",
+              "type": "hotel",
               "coord": [
                 22.9990529,
                 120.20353599999999
               ]
             },
             {
-              "type": "breakfast",
-              "name": "Local Tainan breakfast",
+              "name": "Morning HSR to Tainan (2hr)",
+              "type": "info",
               "coord": [
-                22.99,
-                120.19
+                22.9990529,
+                120.20353599999999
               ]
             },
             {
-              "type": "lunch",
-              "name": "Tainan Michelin street food",
-              "coord": [
-                22.99,
-                120.19
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Tainan specialties",
-              "coord": [
-                22.99,
-                120.19
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Kaohsiung seafood tour",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "H2O HOTEL",
-              "coord": [
-                22.6628018,
-                120.3022
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Harbor seafood",
-              "coord": [
-                22.62,
-                120.3
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Addiction Aquatic restaurant",
-              "coord": [
-                22.62,
-                120.3
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Kaohsiung dining",
-              "coord": [
-                22.62,
-                120.3
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Kenting beach & seafood",
-          "items": [
-            {
-              "type": "sightseeing",
-              "name": "Kenting National Park",
-              "coord": [
-                21.9483307,
-                120.77975159999998
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Beachside seafood",
-              "coord": [
-                21.95,
-                120.79
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Cijin Island seafood",
-              "coord": [
-                22.54,
-                120.29
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Return to Taipei fine dining",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Mandarin Oriental, Taipei",
-              "coord": [
-                25.055741599999998,
-                121.5481485
-              ]
-            },
-            {
-              "type": "breakfast",
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                25.055669,
-                121.54824
+                24.152573,
+                120.66370570000001
               ]
             },
             {
-              "type": "lunch",
-              "name": "Raw or Taïrroir",
-              "coord": [
-                25.03,
-                121.54
-              ]
-            },
-            {
+              "name": "FUKAI",
               "type": "dinner",
-              "name": "Le Palais or Mume",
               "coord": [
-                25.04,
-                121.55
+                22.988920099999998,
+                120.2306919
               ]
             }
           ]
         },
         {
-          "day": 10,
-          "title": "Final market & departure",
+          "label": "Day 5 —  From Street Stalls to Fine Dining — Tainan Food Trail",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Raohe Night Market",
+              "name": "U.I.J Hotel & Hostel",
+              "type": "hotel",
               "coord": [
-                25.0508854,
-                121.5774891
+                22.990782,
+                120.1997872
               ]
             },
             {
-              "type": "shopping",
-              "name": "Hongtong Bakery (pineapple cakes)",
+              "name": "A Wen Rice Cake",
+              "type": "breakfast",
               "coord": [
-                25.06,
-                121.51
+                22.9904781,
+                120.1960822
+              ]
+            },
+            {
+              "name": "A Cun Beef Soup (Baoan Road)",
+              "type": "sightseeing",
+              "coord": [
+                22.9902056,
+                120.19657749999999
+              ]
+            },
+            {
+              "name": "Tainan: Michelin street-food crawl",
+              "type": "lunch",
+              "coord": [
+                22.997164899999998,
+                120.1996052
+              ]
+            },
+            {
+              "name": "Chuan Tai Hao Milkfish Ball",
+              "type": "sightseeing",
+              "coord": [
+                22.9874776,
+                120.21715700000001
+              ]
+            },
+            {
+              "name": "FUKAI",
+              "type": "dinner",
+              "coord": [
+                22.988920099999998,
+                120.2306919
+              ]
+            },
+            {
+              "name": "Yeh San Duck Thick Soup",
+              "type": "optional",
+              "coord": [
+                22.9902835,
+                120.22454819999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 —  Foodie Heaven — Kaohsiung",
+          "items": [
+            {
+              "name": "THE AMNIS, a Luxury Collection Hotel",
+              "type": "hotel",
+              "coord": [
+                22.610472599999998,
+                120.3055197
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                22.610472599999998,
+                120.3055197
+              ]
+            },
+            {
+              "name": "Kaohsiung: Cijin Island beach & seafood",
+              "type": "sightseeing",
+              "coord": [
+                22.6100904,
+                120.26756739999999
+              ]
+            },
+            {
+              "name": "Li.nu",
+              "type": "lunch",
+              "coord": [
+                22.6061115,
+                120.30516060000001
+              ]
+            },
+            {
+              "name": "Kaohsiung: Dome of Light (Formosa Blvd. Station)",
+              "type": "sightseeing",
+              "coord": [
+                22.6313887,
+                120.30191310000001
+              ]
+            },
+            {
+              "name": "HAILI",
+              "type": "dinner",
+              "coord": [
+                22.618816199999998,
+                120.29610169999998
+              ]
+            },
+            {
+              "name": "Kaohsiung: Night market food tour",
+              "type": "optional",
+              "coord": [
+                22.6320758,
+                120.2991547
+              ]
+            },
+            {
+              "name": "Maltail",
+              "type": "optional",
+              "coord": [
+                22.6209936,
+                120.29888849999999
               ]
             }
           ]
@@ -8621,321 +9316,307 @@
       ]
     },
     "e": {
-      "name": "Grand Tour (14 days)",
-      "color": "#7C3AED",
+      "name": "Mountain & Nature Escape (9 Days)",
+      "description": "Taiwan's most breathtaking natural landscapes from Alishan's cloud seas to Taroko's marble cliffs and Sun Moon Lake's cycling trails.",
       "days": [
         {
-          "day": 1,
-          "title": "Taipei arrival",
+          "label": "Day 1 —     Nature Day — Northern Taiwan",
           "items": [
             {
+              "name": "Villa 32",
               "type": "hotel",
-              "name": "Mandarin Oriental, Taipei",
               "coord": [
-                25.055741599999998,
-                121.5481485
+                25.137710199999997,
+                121.51036979999999
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Taipei 101",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                25.033975,
-                121.564519
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Taipei temples & markets",
-          "items": [
-            {
-              "type": "sightseeing",
-              "name": "Mengjia Longshan Temple",
-              "coord": [
-                25.037310599999998,
-                121.49986539999999
+                25.137710199999997,
+                121.51036979999999
               ]
             },
             {
+              "name": "Taipei day trip: Yangmingshan NP",
+              "type": "sightseeing",
+              "coord": [
+                25.1942462,
+                121.5609363
+              ]
+            },
+            {
+              "name": "Yangming Spring (Shilin)",
               "type": "lunch",
-              "name": "Shilin Night Market",
               "coord": [
-                25.0884972,
-                121.52435039999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Jiufen & Beitou",
-          "items": [
-            {
-              "type": "sightseeing",
-              "name": "Jiufen Old Street",
-              "coord": [
-                25.109807699999998,
-                121.8452102
+                25.1441953,
+                121.55938909999999
               ]
             },
             {
+              "name": "Taipei day trip: Yehliu Geopark",
               "type": "sightseeing",
-              "name": "Beitou Hot Spring Area",
               "coord": [
-                25.13,
-                121.48
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Sanyi & Taichung",
-          "items": [
-            {
-              "type": "sightseeing",
-              "name": "Sanyi Wood Carving",
-              "coord": [
-                24.372,
-                120.642
+                25.206397199999998,
+                121.6904658
               ]
             },
             {
-              "type": "hotel",
-              "name": "OKU Hotel",
+              "name": "Beitou Hot Spring Museum + Thermal Valley",
+              "type": "sightseeing",
               "coord": [
-                24.145707299999998,
-                120.67711050000001
+                25.136569400000003,
+                121.50715
               ]
             },
             {
+              "name": "Taipei: Hot springs + food pairing (Beitou)",
               "type": "dinner",
-              "name": "JL STUDIO",
               "coord": [
-                24.1504844,
-                120.6285429
+                25.139127,
+                121.52998489999999
               ]
             }
           ]
         },
         {
-          "day": 5,
-          "title": "Cingjing highlands",
+          "label": "Day 2 —     Travel to Hualien & Taroko",
           "items": [
             {
-              "type": "hotel",
-              "name": "Hemma",
-              "coord": [
-                24.0660781,
-                121.16865729999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Mountain meadows",
-              "coord": [
-                24.0253,
-                121.1318
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Sun Moon Lake",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "The Lalu Sun Moon Lake",
-              "coord": [
-                23.862976,
-                120.90860399999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Lake cycling & temples",
-              "coord": [
-                23.85,
-                120.92
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Alishan sunrise & railway",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Indigo Alishan",
-              "coord": [
-                23.4436262,
-                120.67247780000001
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Alishan sunrise & trains",
-              "coord": [
-                23.508,
-                120.802
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Tainan history",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Provintia Hotel Tainan",
-              "coord": [
-                22.9990529,
-                120.20353599999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Temple-hopping & old streets",
-              "coord": [
-                22.99,
-                120.19
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Kaohsiung art & culture",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "H2O HOTEL",
-              "coord": [
-                22.6628018,
-                120.3022
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Pier-2 Art & Dome of Light",
-              "coord": [
-                22.62,
-                120.3
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Kenting beach",
-          "items": [
-            {
-              "type": "sightseeing",
-              "name": "Kenting National Park",
-              "coord": [
-                21.9483307,
-                120.77975159999998
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Beach resort",
-              "coord": [
-                21.95,
-                120.79
-              ]
-            }
-          ]
-        },
-        {
-          "day": 11,
-          "title": "East coast: Hualien",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Le Meridien Hualien",
-              "coord": [
-                23.979225,
-                121.609153
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Qingshui Cliffs",
-              "coord": [
-                24.07,
-                121.68
-              ]
-            }
-          ]
-        },
-        {
-          "day": 12,
-          "title": "Taroko Gorge",
-          "items": [
-            {
-              "type": "hotel",
               "name": "Silks Place Taroko",
+              "type": "hotel",
               "coord": [
                 24.1813654,
                 121.49406269999999
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Gorge hikes & Eternal Spring",
+              "name": "Morning train to Hualien (2hr)",
+              "type": "info",
               "coord": [
-                24.15,
-                121.62
-              ]
-            }
-          ]
-        },
-        {
-          "day": 13,
-          "title": "Return to Taipei",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Mandarin Oriental, Taipei",
-              "coord": [
-                25.055741599999998,
-                121.5481485
+                24.1813654,
+                121.49406269999999
               ]
             },
             {
-              "type": "shopping",
-              "name": "Taipei shopping & cafés",
-              "coord": [
-                25.04,
-                121.55
-              ]
-            }
-          ]
-        },
-        {
-          "day": 14,
-          "title": "Final explorations & departure",
-          "items": [
-            {
-              "type": "breakfast",
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                25.055669,
-                121.54824
+                25.137710199999997,
+                121.51036979999999
               ]
             },
             {
-              "type": "shopping",
-              "name": "Final souvenirs & markets",
+              "name": "Dinner at hotel",
+              "type": "dinner",
               "coord": [
-                25.03,
-                121.52
+                24.1813654,
+                121.49406269999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 —     Coastal Romance — East Coast",
+          "items": [
+            {
+              "name": "Hualien Farglory Hotel",
+              "type": "hotel",
+              "coord": [
+                23.9082896,
+                121.5966894
+              ]
+            },
+            {
+              "name": "Sea view breakfast",
+              "type": "breakfast",
+              "coord": [
+                23.9082896,
+                121.5966894
+              ]
+            },
+            {
+              "name": "Hualien: Qingshui Cliffs viewpoint",
+              "type": "sightseeing",
+              "coord": [
+                24.206767000000003,
+                121.6665717
+              ]
+            },
+            {
+              "name": "Coastal lunch stop",
+              "type": "lunch",
+              "coord": [
+                24.160479799999997,
+                121.6036866
+              ]
+            },
+            {
+              "name": "Taroko: Eternal Spring Shrine (Changchun)",
+              "type": "sightseeing",
+              "coord": [
+                24.160479799999997,
+                121.6036866
+              ]
+            },
+            {
+              "name": "Return for sunset",
+              "type": "sightseeing",
+              "coord": [
+                23.9082896,
+                121.5966894
+              ]
+            },
+            {
+              "name": "Romantic resort dinner",
+              "type": "dinner",
+              "coord": [
+                23.9082896,
+                121.5966894
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 —     Travel to Taichung & Central Mountains",
+          "items": [
+            {
+              "name": "Hoshinoya Guguan",
+              "type": "hotel",
+              "coord": [
+                24.205375999999998,
+                121.0104902
+              ]
+            },
+            {
+              "name": "Morning train to Taichung (3hr)",
+              "type": "info",
+              "coord": [
+                24.205375999999998,
+                121.0104902
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                23.9082896,
+                121.5966894
+              ]
+            },
+            {
+              "name": "SHINEYU",
+              "type": "dinner",
+              "coord": [
+                24.1571592,
+                120.6386871
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 —     Sun Moon Lake — Nature & Views",
+          "items": [
+            {
+              "name": "Fleur de Chine Hotel",
+              "type": "hotel",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            },
+            {
+              "name": "Sun Moon Lake cycling loop (or partial)",
+              "type": "sightseeing",
+              "coord": [
+                23.866366,
+                120.90604649999999
+              ]
+            },
+            {
+              "name": "Lakeside casual lunch",
+              "type": "lunch",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            },
+            {
+              "name": "Sun Moon Lake boat ride",
+              "type": "sightseeing",
+              "coord": [
+                23.8645269,
+                120.91177019999998
+              ]
+            },
+            {
+              "name": "Sun Moon Lake: Ci'en Pagoda",
+              "type": "sightseeing",
+              "coord": [
+                23.8420255,
+                120.92084059999999
+              ]
+            },
+            {
+              "name": "Hotel dinner",
+              "type": "dinner",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            },
+            {
+              "name": "Evening lakeside stroll",
+              "type": "optional",
+              "coord": [
+                23.870915699999998,
+                120.92346219999997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 —     Travel to Chiayi & Alishan",
+          "items": [
+            {
+              "name": "Hotel Indigo Alishan",
+              "type": "hotel",
+              "coord": [
+                23.4436262,
+                120.67247780000001
+              ]
+            },
+            {
+              "name": "Morning drive to Alishan (2hr)",
+              "type": "info",
+              "coord": [
+                23.4436262,
+                120.67247780000001
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                24.205375999999998,
+                121.0104902
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                23.4436262,
+                120.67247780000001
               ]
             }
           ]

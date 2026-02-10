@@ -13274,399 +13274,408 @@
   },
   "itineraryData": {
     "a": {
-      "name": "Greatest Hits",
-      "color": "#2563EB",
+      "name": "Greatest Hits (7 Days)",
+      "description": "Madrid's art and royal heritage, Seville's Moorish grandeur, and Granada's Alhambra magic.",
       "days": [
         {
-          "day": 1,
-          "title": "Madrid: Royal Welcome",
+          "label": "Day 1 — Madrid's Must-See Icons",
           "items": [
             {
+              "name": "Gran Hotel Inglés",
               "type": "hotel",
-              "name": "Four Seasons Hotel Madrid",
               "coord": [
-                40.417212299999996,
-                -3.7003412
+                40.4159384,
+                -3.6998053
               ]
             },
             {
+              "name": "Tostado Café Club",
               "type": "breakfast",
-              "name": "Hotel breakfast",
               "coord": [
-                40.417272,
-                -3.700392
+                40.41711550000001,
+                -3.7018038
               ]
             },
             {
+              "name": "Museo del Prado",
               "type": "sightseeing",
-              "name": "Royal Palace",
               "coord": [
-                40.4178,
-                -3.7142
+                40.413781799999995,
+                -3.6921270999999996
               ]
             },
             {
-              "type": "lunch",
-              "name": "Casa Botín",
-              "coord": [
-                40.4156,
-                -3.6984
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Prado Museum",
-              "coord": [
-                40.4145,
-                -3.6929
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "El Club Allard",
-              "coord": [
-                40.4532,
-                -3.6876
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Madrid: Art & Culture",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Four Seasons Hotel Madrid",
-              "coord": [
-                40.417212299999996,
-                -3.7003412
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Café near Plaza Mayor",
-              "coord": [
-                40.4155,
-                -3.7081
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Reina Sofía Museum",
-              "coord": [
-                40.4079123,
-                -3.6945569
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Retiro Park",
-              "coord": [
-                40.4116,
-                -3.6853
-              ]
-            },
-            {
-              "type": "lunch",
               "name": "Casa Lucio",
+              "type": "lunch",
               "coord": [
                 40.4120839,
                 -3.7096355999999995
               ]
             },
             {
-              "type": "dinner",
-              "name": "Punto MX",
+              "name": "Royal Palace of Madrid",
+              "type": "sightseeing",
               "coord": [
-                40.4385,
-                -3.6921
+                40.417955,
+                -3.714311999999999
+              ]
+            },
+            {
+              "name": "Mercado de San Miguel tapas sampling",
+              "type": "sightseeing",
+              "coord": [
+                40.4153716,
+                -3.708997
+              ]
+            },
+            {
+              "name": "Botín",
+              "type": "dinner",
+              "coord": [
+                40.4141933,
+                -3.7079761
+              ]
+            },
+            {
+              "name": "Flamenco show (Madrid)",
+              "type": "optional",
+              "coord": [
+                40.414887,
+                -3.7027270999999997
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Toledo: Medieval Time",
+          "label": "Day 2 — Medieval Toledo Discovery",
           "items": [
             {
+              "name": "Hotel Palacio de los Duques Gran Meliá",
+              "type": "hotel",
+              "coord": [
+                40.419756,
+                -3.7096709999999997
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Madrid hotel",
               "coord": [
-                40.417272,
-                -3.700392
+                40.419756,
+                -3.7096709999999997
               ]
             },
             {
+              "name": "Day trip by AVE: Toledo or Segovia",
               "type": "sightseeing",
-              "name": "Toledo Cathedral",
               "coord": [
-                39.8581,
-                -4.0201
+                40.4304047,
+                -3.6639736000000003
               ]
             },
             {
+              "name": "Toledo old town wander",
               "type": "sightseeing",
-              "name": "El Greco Museum",
               "coord": [
-                39.8537,
-                -4.0276
+                39.861674,
+                -4.023516
               ]
             },
             {
+              "name": "La Curiosa",
               "type": "lunch",
-              "name": "Adolfo",
               "coord": [
-                39.8634,
-                -4.0238
+                40.380671899999996,
+                -3.6953072000000002
               ]
             },
             {
+              "name": "Toledo old town wander",
               "type": "sightseeing",
-              "name": "Alcázar",
               "coord": [
-                39.8626,
-                -4.0126
+                39.861674,
+                -4.023516
               ]
             },
             {
-              "type": "hotel",
-              "name": "Hotel Toledo",
-              "coord": [
-                39.8581,
-                -4.0201
-              ]
-            },
-            {
+              "name": "Taberna El Sur",
               "type": "dinner",
-              "name": "Local Toledo restaurant",
               "coord": [
-                39.8581,
-                -4.0201
+                40.411051900000004,
+                -3.6995864
+              ]
+            },
+            {
+              "name": "Flamenco show (Madrid)",
+              "type": "optional",
+              "coord": [
+                40.414887,
+                -3.7027270999999997
               ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Barcelona: Gaudí Marvel",
+          "label": "Day 3 — Travel to Seville & Western Andalusia",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Toledo café",
-              "coord": [
-                39.8581,
-                -4.0201
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Sagrada Familia",
-              "coord": [
-                41.4036,
-                2.1744
-              ]
-            },
-            {
+              "name": "Hotel Alfonso XIII, a Luxury Collection Hotel",
               "type": "hotel",
-              "name": "Hotel Arts Barcelona",
               "coord": [
-                41.387056699999995,
-                2.1964207
+                37.3814838,
+                -5.992659199999999
               ]
             },
             {
+              "name": "Morning AVE train Madrid → Seville (2.5hr)",
+              "type": "info",
+              "coord": [
+                37.3814838,
+                -5.992659199999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.419756,
+                -3.7096709999999997
+              ]
+            },
+            {
+              "name": "Cañabota",
+              "type": "dinner",
+              "coord": [
+                37.393569899999996,
+                -5.99357
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Seville Highlights — Historic Center",
+          "items": [
+            {
+              "name": "Hotel Alfonso XIII, a Luxury Collection Hotel",
+              "type": "hotel",
+              "coord": [
+                37.3814838,
+                -5.992659199999999
+              ]
+            },
+            {
+              "name": "Ofelia Bakery",
+              "type": "breakfast",
+              "coord": [
+                37.390193,
+                -5.991766
+              ]
+            },
+            {
+              "name": "Real Alcázar of Seville",
+              "type": "sightseeing",
+              "coord": [
+                37.3830519,
+                -5.9902257
+              ]
+            },
+            {
+              "name": "La Brunilda Tapas",
               "type": "lunch",
-              "name": "Botafumeiro",
               "coord": [
-                41.3868,
-                2.1672
+                37.3883556,
+                -5.9994499999999995
               ]
             },
             {
+              "name": "Seville Cathedral + Giralda",
               "type": "sightseeing",
-              "name": "Park Güell",
               "coord": [
-                41.4145,
-                2.1527
+                37.3861784,
+                -5.992613700000001
               ]
             },
             {
+              "name": "Cañabota",
               "type": "dinner",
-              "name": "Tickets Bar",
               "coord": [
-                41.3807,
-                2.165
+                37.393569899999996,
+                -5.99357
+              ]
+            },
+            {
+              "name": "Flamenco at a traditional tablao",
+              "type": "optional",
+              "coord": [
+                37.393498099999995,
+                -5.9917188999999995
               ]
             }
           ]
         },
         {
-          "day": 5,
-          "title": "Barcelona: Culture & Markets",
+          "label": "Day 5 — Day Trip — Córdoba",
           "items": [
             {
+              "name": "Hotel Hospes Palacio del Bailío",
               "type": "hotel",
-              "name": "Hotel Arts Barcelona",
               "coord": [
-                41.387056699999995,
-                2.1964207
+                37.887409,
+                -4.777305999999999
               ]
             },
             {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "La Boqueria",
               "coord": [
-                41.3817399,
-                2.1715853
+                37.887409,
+                -4.777305999999999
               ]
             },
             {
+              "name": "Córdoba Mezquita-Catedral",
               "type": "sightseeing",
-              "name": "Gothic Quarter",
               "coord": [
-                41.3835,
-                2.1749
+                37.8789056,
+                -4.7793868999999995
               ]
             },
             {
+              "name": "Casa Pepe de La Judería",
               "type": "lunch",
-              "name": "Cal Pep",
               "coord": [
-                41.3839621,
-                2.1834105999999998
+                37.87972,
+                -4.7813099999999995
               ]
             },
             {
+              "name": "Mercado de la Corredera. Plaza de las Cañas.",
               "type": "sightseeing",
-              "name": "MNAC",
               "coord": [
-                41.3694,
-                2.1627
+                37.8831352,
+                -4.7744748999999995
               ]
             },
             {
+              "name": "Casa Matías",
               "type": "dinner",
-              "name": "Cinc Sentits",
               "coord": [
-                41.378388199999996,
-                2.1524171
+                37.8717472,
+                -4.8605444
+              ]
+            },
+            {
+              "name": "Evening stroll in Jewish Quarter",
+              "type": "optional",
+              "coord": [
+                37.8789056,
+                -4.7793868999999995
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Seville: Moorish Charm",
+          "label": "Day 6 — Travel to Granada & Eastern Andalusia",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Barcelona café",
-              "coord": [
-                41.3874,
-                2.1686
-              ]
-            },
-            {
+              "name": "Hotel Alhambra Palace",
               "type": "hotel",
-              "name": "Casa Imperial",
               "coord": [
-                37.3927,
-                -5.9842
+                37.1740597,
+                -3.5900131
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Cathedral of Seville",
+              "name": "Morning train Seville → Granada (2.5hr)",
+              "type": "info",
               "coord": [
-                37.386,
-                -5.9845
+                37.1740597,
+                -3.5900131
               ]
             },
             {
-              "type": "lunch",
-              "name": "Enrique Becerra",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                37.3898,
-                -5.9876
+                37.887409,
+                -4.777305999999999
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Alcázar",
-              "coord": [
-                37.3858,
-                -5.9924
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Plaza de España",
-              "coord": [
-                37.3736,
-                -5.9899
-              ]
-            },
-            {
+              "name": "La Macetilla - Taberna Andaluza y Restaurante en Granada",
               "type": "dinner",
-              "name": "Casa Morales",
               "coord": [
-                37.3896,
-                -5.9814
+                37.173082,
+                -3.6072919999999997
               ]
             }
           ]
         },
         {
-          "day": 7,
-          "title": "Granada: Alhambra Legend",
+          "label": "Day 7 — Granada's Greatest Hits",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Seville café",
-              "coord": [
-                37.3886,
-                -5.9823
-              ]
-            },
-            {
-              "type": "hotel",
               "name": "Parador de Granada",
+              "type": "hotel",
               "coord": [
                 37.1758455,
-                -3.5873277000000003
+                -3.5873277
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Alhambra",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                37.1761,
-                -3.5881
+                37.1758455,
+                -3.5873277
               ]
             },
             {
+              "name": "Explore the Alhambra complex",
+              "type": "sightseeing",
+              "coord": [
+                37.174208889999996,
+                -3.5842082
+              ]
+            },
+            {
+              "name": "Bar Patio Braserito",
               "type": "lunch",
-              "name": "Los Diamantes",
               "coord": [
-                40.4296234,
-                -3.7007201000000003
+                37.1729602,
+                -3.5965504999999998
               ]
             },
             {
+              "name": "Albaicín neighborhood wander",
               "type": "sightseeing",
-              "name": "Generalife Gardens",
               "coord": [
-                37.1839,
-                -3.5846
+                37.1823851,
+                -3.5954882
               ]
             },
             {
-              "type": "dinner",
-              "name": "Ruta del Azafrán",
+              "name": "Mirador de San Nicolás at sunset",
+              "type": "sightseeing",
               "coord": [
-                37.1823,
-                -3.5937
+                37.1811058,
+                -3.5926636999999997
+              ]
+            },
+            {
+              "name": "Restaurante Oliver",
+              "type": "dinner",
+              "coord": [
+                37.1759583,
+                -3.6004796
+              ]
+            },
+            {
+              "name": "Flamenco in Andalusia (Seville/Granada)",
+              "type": "optional",
+              "coord": [
+                37.177717099999995,
+                -3.5945780999999997
               ]
             }
           ]
@@ -13674,415 +13683,575 @@
       ]
     },
     "b": {
-      "name": "Hidden Gems & Deep Culture",
-      "color": "#059669",
+      "name": "Family Comfort (10 Days)",
+      "description": "Kid-friendly parks, beaches, and interactive experiences across Madrid, Barcelona, and Valencia.",
       "days": [
         {
-          "day": 1,
-          "title": "Salamanca: University Historic",
+          "label": "Day 1 — Family Adventures in Madrid",
           "items": [
             {
+              "name": "The Madrid EDITION",
               "type": "hotel",
-              "name": "Hotel Salamanca",
               "coord": [
-                40.9701,
-                -5.6634
+                40.4175359,
+                -3.7060301000000004
               ]
             },
             {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Local café",
               "coord": [
-                40.9701,
-                -5.6634
+                40.4175359,
+                -3.7060301000000004
               ]
             },
             {
+              "name": "Retiro Park (playgrounds + pond boats)",
               "type": "sightseeing",
-              "name": "University of Salamanca",
               "coord": [
-                40.9667,
-                -5.6637
+                40.417142,
+                -3.6839005
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Plaza Mayor",
-              "coord": [
-                40.9629,
-                -5.662
-              ]
-            },
-            {
+              "name": "Casa Dani (tortilla)",
               "type": "lunch",
-              "name": "Local restaurant",
               "coord": [
-                40.9701,
-                -5.6634
+                40.4270238,
+                -3.6856625999999997
               ]
             },
             {
+              "name": "Afternoon rest",
+              "type": "nap",
+              "coord": [
+                40.4175359,
+                -3.7060301000000004
+              ]
+            },
+            {
+              "name": "Santiago Bernabéu tour",
               "type": "sightseeing",
-              "name": "Cathedral",
               "coord": [
-                40.9708,
-                -5.6676
+                40.4522072,
+                -3.6893328999999992
               ]
             },
             {
+              "name": "Churros at San Ginés",
               "type": "dinner",
-              "name": "Regional cuisine",
               "coord": [
-                40.9701,
-                -5.6634
+                40.4169335,
+                -3.7069517
+              ]
+            },
+            {
+              "name": "Gran Vía evening stroll",
+              "type": "optional",
+              "coord": [
+                40.4197282,
+                -3.7013963999999997
               ]
             }
           ]
         },
         {
-          "day": 2,
-          "title": "Segovia: Aqueduct & Castles",
+          "label": "Day 2 — Parks & Nature in Madrid",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Salamanca café",
-              "coord": [
-                40.9701,
-                -5.6634
-              ]
-            },
-            {
+              "name": "BLESS Hotel Madrid",
               "type": "hotel",
-              "name": "Hotel Segovia",
               "coord": [
-                40.9429,
-                -4.1084
+                40.428114199999996,
+                -3.6835392000000002
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.428114199999996,
+                -3.6835392000000002
+              ]
+            },
+            {
+              "name": "Retiro Park rowboats + playgrounds",
               "type": "sightseeing",
-              "name": "Roman Aqueduct",
               "coord": [
-                40.9433,
-                -4.1189
+                40.415258,
+                -3.6834656999999997
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Alcázar Castle",
-              "coord": [
-                40.951,
-                -4.1118
-              ]
-            },
-            {
+              "name": "Sala de Despiece",
               "type": "lunch",
-              "name": "Cochinillo (roasted pig)",
               "coord": [
-                40.9429,
-                -4.1084
+                40.4399301,
+                -3.697484
               ]
             },
             {
+              "name": "Madrid Río park + playgrounds",
               "type": "sightseeing",
-              "name": "Cathedral",
               "coord": [
-                40.9461,
-                -4.1177
+                40.4092701,
+                -3.721395
               ]
             },
             {
+              "name": "La Tasquería",
               "type": "dinner",
-              "name": "Local restaurant",
               "coord": [
-                40.9429,
-                -4.1084
+                40.4454156,
+                -3.6956265000000004
+              ]
+            },
+            {
+              "name": "Gran Vía evening stroll",
+              "type": "optional",
+              "coord": [
+                40.4197282,
+                -3.7013963999999997
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Ronda: Cliff Village Drama",
+          "label": "Day 3 — Free Day in Madrid - Parks & Relaxation",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Segovia hotel",
-              "coord": [
-                40.9429,
-                -4.1084
-              ]
-            },
-            {
+              "name": "BLESS Hotel Madrid",
               "type": "hotel",
-              "name": "Hotel Ronda",
               "coord": [
-                36.7417,
-                -5.3329
+                40.428114199999996,
+                -3.6835392000000002
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.428114199999996,
+                -3.6835392000000002
+              ]
+            },
+            {
+              "name": "Free morning to explore Greater Madrid",
               "type": "sightseeing",
-              "name": "Puente Nuevo",
               "coord": [
-                36.7424,
-                -5.3356
+                40.428114199999996,
+                -3.6835392000000002
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Old Town",
-              "coord": [
-                36.7399,
-                -5.3295
-              ]
-            },
-            {
+              "name": "DiverXO",
               "type": "lunch",
-              "name": "Mountain views restaurant",
               "coord": [
-                36.7417,
-                -5.3329
+                40.4578992,
+                -3.6857765000000002
               ]
             },
             {
+              "name": "Free afternoon",
               "type": "sightseeing",
-              "name": "Bullring",
               "coord": [
-                36.7466,
-                -5.3289
+                40.428114199999996,
+                -3.6835392000000002
               ]
             },
             {
+              "name": "Coque",
               "type": "dinner",
-              "name": "Dinner with views",
               "coord": [
-                36.7417,
-                -5.3329
+                37.042337,
+                -2.238993
               ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Córdoba: Caliphate Legacy",
+          "label": "Day 4 — Travel to Barcelona & Catalonia",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Ronda café",
-              "coord": [
-                36.7417,
-                -5.3329
-              ]
-            },
-            {
+              "name": "Mandarin Oriental, Barcelona",
               "type": "hotel",
-              "name": "Hotel Cordoba",
               "coord": [
-                37.8882,
-                -4.7794
+                41.391167599999996,
+                2.1665772999999997
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Mosque-Cathedral",
+              "name": "Morning AVE train Madrid → Barcelona (3hr)",
+              "type": "info",
               "coord": [
-                37.8777,
-                -4.7797
+                41.391167599999996,
+                2.1665772999999997
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Jewish Quarter",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                37.8844,
-                -4.7829
+                40.428114199999996,
+                -3.6835392000000002
               ]
             },
             {
-              "type": "lunch",
-              "name": "Local Córdoba cuisine",
-              "coord": [
-                37.8882,
-                -4.7794
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Roman Bridge",
-              "coord": [
-                37.8825,
-                -4.7907
-              ]
-            },
-            {
+              "name": "Disfrutar",
               "type": "dinner",
-              "name": "Evening restaurant",
               "coord": [
-                37.8882,
-                -4.7794
+                41.3878056,
+                2.1531881
               ]
             }
           ]
         },
         {
-          "day": 5,
-          "title": "Bilbao: Art & Modernity",
+          "label": "Day 5 — Family Barcelona — Park Güell to Beach",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Cordoba hotel",
-              "coord": [
-                37.8882,
-                -4.7794
-              ]
-            },
-            {
+              "name": "The Barcelona EDITION",
               "type": "hotel",
-              "name": "Hotel Bilbao",
               "coord": [
-                43.2627,
-                -2.9253
+                41.385943999999995,
+                2.1778103
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.385943999999995,
+                2.1778103
+              ]
+            },
+            {
+              "name": "Park Güell (short route)",
               "type": "sightseeing",
-              "name": "Guggenheim",
               "coord": [
-                43.2183,
-                -2.9357
+                41.4144948,
+                2.1526945
               ]
             },
             {
+              "name": "Bar del Pla",
               "type": "lunch",
-              "name": "Nerua",
               "coord": [
-                43.2183,
-                -2.9357
+                41.385602999999996,
+                2.1800143999999997
               ]
             },
             {
+              "name": "Afternoon rest",
+              "type": "nap",
+              "coord": [
+                41.385943999999995,
+                2.1778103
+              ]
+            },
+            {
+              "name": "Beach morning at Barceloneta / Nova Icaria",
               "type": "sightseeing",
-              "name": "Old Town",
               "coord": [
-                43.2556,
-                -2.9217
+                41.390367399999995,
+                2.2023036
               ]
             },
             {
+              "name": "Can Solé",
               "type": "dinner",
-              "name": "Guria Etxea",
               "coord": [
-                43.2556,
-                -2.9217
+                41.3788768,
+                2.1883984
+              ]
+            },
+            {
+              "name": "Barcelona Aquarium",
+              "type": "optional",
+              "coord": [
+                41.3768473,
+                2.1843334
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "San Sebastián: Culinary Capital",
+          "label": "Day 6 — Outdoor Barcelona — Montjuïc & Coast",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Bilbao café",
-              "coord": [
-                43.2627,
-                -2.9253
-              ]
-            },
-            {
+              "name": "W Barcelona",
               "type": "hotel",
-              "name": "Hotel de Inglaterra",
               "coord": [
-                43.3183,
-                -1.9759
+                41.368437,
+                2.1901534
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.368437,
+                2.1901534
+              ]
+            },
+            {
+              "name": "Montjuïc: cable car + castle views",
               "type": "sightseeing",
-              "name": "La Concha Beach",
               "coord": [
-                43.3195,
-                -1.9838
+                41.368722999999996,
+                2.1634884
               ]
             },
             {
+              "name": "Tickets-style innovation: Suculent",
               "type": "lunch",
-              "name": "Arzak",
               "coord": [
-                43.3214573,
-                -1.9493146
+                41.3919235,
+                2.1788838
               ]
             },
             {
+              "name": "Barceloneta promenade + beach time",
               "type": "sightseeing",
-              "name": "Parte Vieja (Old Town)",
               "coord": [
-                43.3167,
-                -1.9815
+                41.3783631,
+                2.1924661
               ]
             },
             {
-              "type": "dinner",
-              "name": "Akelarre",
+              "name": "Beach relaxation",
+              "type": "sightseeing",
               "coord": [
-                43.307784999999996,
-                -2.0431364
+                41.368437,
+                2.1901534
+              ]
+            },
+            {
+              "name": "Besta",
+              "type": "dinner",
+              "coord": [
+                41.3904503,
+                2.1569894000000005
+              ]
+            },
+            {
+              "name": "Dr. Stravinsky",
+              "type": "optional",
+              "coord": [
+                41.3842035,
+                2.1806664
               ]
             }
           ]
         },
         {
-          "day": 7,
-          "title": "Barcelona: Gothic Beauty",
+          "label": "Day 7 — Free Beach Day in Barcelona",
           "items": [
             {
-              "type": "breakfast",
-              "name": "San Sebastián café",
-              "coord": [
-                43.3183,
-                -1.9759
-              ]
-            },
-            {
+              "name": "W Barcelona",
               "type": "hotel",
-              "name": "Mercer Hotel Barcelona",
               "coord": [
-                41.3835,
-                2.1749
+                41.368437,
+                2.1901534
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.368437,
+                2.1901534
+              ]
+            },
+            {
+              "name": "Free morning to explore Barcelona & Catalonia",
               "type": "sightseeing",
-              "name": "Gothic Quarter Walking",
               "coord": [
-                41.3835,
-                2.1749
+                41.368437,
+                2.1901534
               ]
             },
             {
+              "name": "Disfrutar",
               "type": "lunch",
-              "name": "7 Portes",
               "coord": [
-                41.3823052,
-                2.1833902000000003
+                41.3878056,
+                2.1531881
               ]
             },
             {
+              "name": "Free afternoon",
               "type": "sightseeing",
-              "name": "Santa Maria del Pi",
               "coord": [
-                41.381,
-                2.1614
+                41.368437,
+                2.1901534
               ]
             },
             {
+              "name": "Lasarte",
               "type": "dinner",
-              "name": "Dos Palillos",
               "coord": [
-                41.3886,
-                2.1729
+                42.818244199999995,
+                -2.6915529
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Travel to Valencia Region",
+          "items": [
+            {
+              "name": "Only YOU Hotel Valencia",
+              "type": "hotel",
+              "coord": [
+                39.4713608,
+                -0.375023
+              ]
+            },
+            {
+              "name": "Morning train Barcelona → Valencia (3hr)",
+              "type": "info",
+              "coord": [
+                39.4713608,
+                -0.375023
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.368437,
+                2.1901534
+              ]
+            },
+            {
+              "name": "Ricard Camarena Restaurant",
+              "type": "dinner",
+              "coord": [
+                39.485391299999996,
+                -0.3850954
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Family Adventure — Valencia",
+          "items": [
+            {
+              "name": "Only YOU Hotel Valencia",
+              "type": "hotel",
+              "coord": [
+                39.4713608,
+                -0.375023
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.4713608,
+                -0.375023
+              ]
+            },
+            {
+              "name": "City of Arts and Sciences (science museum + IMAX)",
+              "type": "sightseeing",
+              "coord": [
+                39.454875099999995,
+                -0.3504904
+              ]
+            },
+            {
+              "name": "Central Market snack crawl",
+              "type": "lunch",
+              "coord": [
+                36.5307447,
+                -6.2981365
+              ]
+            },
+            {
+              "name": "Downtime at hotel",
+              "type": "nap",
+              "coord": [
+                39.4713608,
+                -0.375023
+              ]
+            },
+            {
+              "name": "Turia Gardens (Gulliver Park area)",
+              "type": "sightseeing",
+              "coord": [
+                39.4625747,
+                -0.3594147
+              ]
+            },
+            {
+              "name": "Casa Centduros",
+              "type": "dinner",
+              "coord": [
+                39.5162025,
+                -0.3904697
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Marine Wonders — Valencia Coast",
+          "items": [
+            {
+              "name": "Only YOU Hotel Valencia",
+              "type": "hotel",
+              "coord": [
+                39.4713608,
+                -0.375023
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.4713608,
+                -0.375023
+              ]
+            },
+            {
+              "name": "Oceanogràfic (aquarium)",
+              "type": "sightseeing",
+              "coord": [
+                39.452720299999996,
+                -0.34806689999999996
+              ]
+            },
+            {
+              "name": "Central Market browse + snack",
+              "type": "lunch",
+              "coord": [
+                39.4734632,
+                -0.3790343
+              ]
+            },
+            {
+              "name": "Malvarrosa beach day",
+              "type": "sightseeing",
+              "coord": [
+                39.475075100000005,
+                -0.3235743
+              ]
+            },
+            {
+              "name": "Paella Valenciana lunch by the beach",
+              "type": "dinner",
+              "coord": [
+                39.4634413,
+                -0.32349049999999996
+              ]
+            },
+            {
+              "name": "Beach promenade evening walk",
+              "type": "optional",
+              "coord": [
+                39.475075100000005,
+                -0.3235743
               ]
             }
           ]
@@ -14090,585 +14259,840 @@
       ]
     },
     "c": {
-      "name": "Family Comfort",
-      "color": "#D97706",
+      "name": "Grand Tour (14 Days)",
+      "description": "Comprehensive Spanish journey from Madrid through Basque Country, Barcelona, Valencia, and Andalusia's highlights.",
       "days": [
         {
-          "day": 1,
-          "title": "Madrid: Easy Start",
+          "label": "Day 1 — Madrid's Must-See Icons",
           "items": [
             {
+              "name": "Gran Hotel Inglés",
               "type": "hotel",
-              "name": "Four Seasons Hotel Madrid",
               "coord": [
-                40.417212299999996,
-                -3.7003412
+                40.4159384,
+                -3.6998053
               ]
             },
             {
+              "name": "Tostado Café Club",
               "type": "breakfast",
-              "name": "Hotel breakfast",
               "coord": [
-                40.417272,
-                -3.700392
+                40.41711550000001,
+                -3.7018038
               ]
             },
             {
+              "name": "Museo del Prado",
               "type": "sightseeing",
-              "name": "Retiro Park",
               "coord": [
-                40.4116,
-                -3.6853
+                40.413781799999995,
+                -3.6921270999999996
               ]
             },
             {
-              "type": "lunch",
-              "name": "Park café",
-              "coord": [
-                40.4116,
-                -3.6853
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest at hotel",
-              "coord": [
-                40.417272,
-                -3.700392
-              ]
-            },
-            {
-              "type": "dinner",
               "name": "Casa Lucio",
+              "type": "lunch",
               "coord": [
                 40.4120839,
                 -3.7096355999999995
               ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Madrid: Culture (Kid Paced)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Four Seasons Hotel Madrid",
-              "coord": [
-                40.417212299999996,
-                -3.7003412
-              ]
             },
             {
-              "type": "breakfast",
-              "name": "Breakfast",
-              "coord": [
-                40.417272,
-                -3.700392
-              ]
-            },
-            {
+              "name": "Royal Palace of Madrid",
               "type": "sightseeing",
-              "name": "Zoo",
               "coord": [
-                40.4293,
-                -3.6742
+                40.417955,
+                -3.714311999999999
               ]
             },
             {
-              "type": "lunch",
-              "name": "Zoo restaurant",
-              "coord": [
-                40.4293,
-                -3.6742
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Hotel nap",
-              "coord": [
-                40.417272,
-                -3.700392
-              ]
-            },
-            {
+              "name": "Mercado de San Miguel tapas sampling",
               "type": "sightseeing",
-              "name": "Interactive museum",
               "coord": [
-                40.4051,
-                -3.6934
+                40.4153716,
+                -3.708997
               ]
             },
             {
+              "name": "Botín",
               "type": "dinner",
-              "name": "Family dinner",
               "coord": [
-                40.417272,
-                -3.700392
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Barcelona: Beach & Park",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Travel breakfast",
-              "coord": [
-                40.417272,
-                -3.700392
+                40.4141933,
+                -3.7079761
               ]
             },
             {
-              "type": "hotel",
-              "name": "Hotel Arts Barcelona",
-              "coord": [
-                41.387056699999995,
-                2.1964207
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Beachfront restaurant",
-              "coord": [
-                41.3865,
-                2.1929
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest",
-              "coord": [
-                41.3865,
-                2.1929
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Barceloneta Beach",
-              "coord": [
-                41.3865,
-                2.1929
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Family restaurant",
-              "coord": [
-                41.3865,
-                2.1929
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Barcelona: Kid Fun",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Arts Barcelona",
-              "coord": [
-                41.387056699999995,
-                2.1964207
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Breakfast",
-              "coord": [
-                41.3865,
-                2.1929
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Park Güell",
-              "coord": [
-                41.4145,
-                2.1527
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Park café",
-              "coord": [
-                41.4145,
-                2.1527
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Hotel rest",
-              "coord": [
-                41.3865,
-                2.1929
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Zoo",
-              "coord": [
-                41.3851,
-                2.2077
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Dinner",
-              "coord": [
-                41.3865,
-                2.1929
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Barcelona: Gaudí Easy",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Arts Barcelona",
-              "coord": [
-                41.387056699999995,
-                2.1964207
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Breakfast",
-              "coord": [
-                41.3865,
-                2.1929
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Sagrada Familia",
-              "coord": [
-                41.4036,
-                2.1744
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Lunch",
-              "coord": [
-                41.4036,
-                2.1744
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest",
-              "coord": [
-                41.3865,
-                2.1929
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Casa Batlló",
-              "coord": [
-                41.3915,
-                2.1654
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Dinner",
-              "coord": [
-                41.3865,
-                2.1929
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Seville: Relaxed Pace",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Barcelona breakfast",
-              "coord": [
-                41.3865,
-                2.1929
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Casa Imperial",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Lunch",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Plaza de España",
-              "coord": [
-                37.3736,
-                -5.9899
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Dinner",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Seville: Easy Exploration",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Casa Imperial",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Breakfast",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cathedral",
-              "coord": [
-                37.386,
-                -5.9845
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Lunch",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "River walk",
-              "coord": [
-                37.3886,
-                -5.9823
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Dinner",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Granada: Alhambra Wonder",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Seville breakfast",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Parador de Granada",
-              "coord": [
-                37.1758455,
-                -3.5873277000000003
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Lunch",
-              "coord": [
-                37.1763,
-                -3.5883
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest",
-              "coord": [
-                37.1763,
-                -3.5883
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Alhambra",
-              "coord": [
-                37.1761,
-                -3.5881
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Dinner",
-              "coord": [
-                37.1763,
-                -3.5883
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Granada: Rest Day",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Parador de Granada",
-              "coord": [
-                37.1758455,
-                -3.5873277000000003
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Breakfast",
-              "coord": [
-                37.1763,
-                -3.5883
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Albaicín neighborhood walk",
-              "coord": [
-                37.1823,
-                -3.5937
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Lunch",
-              "coord": [
-                37.1769,
-                -3.5979
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest",
-              "coord": [
-                37.1763,
-                -3.5883
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Viewpoints",
-              "coord": [
-                37.1823,
-                -3.5937
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Dinner",
-              "coord": [
-                37.1763,
-                -3.5883
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Return Madrid",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Granada breakfast",
-              "coord": [
-                37.1763,
-                -3.5883
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Morning Generalife Gardens",
-              "coord": [
-                37.1839,
-                -3.5846
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Granada lunch",
-              "coord": [
-                37.1769,
-                -3.5979
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Hotel in Madrid",
-              "coord": [
-                40.417272,
-                -3.700392
-              ]
-            },
-            {
+              "name": "Flamenco show (Madrid)",
               "type": "optional",
-              "name": "Evening walk",
               "coord": [
-                40.4155,
-                -3.7081
+                40.414887,
+                -3.7027270999999997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Segovia's Architectural Marvels",
+          "items": [
+            {
+              "name": "Santo Mauro, a Luxury Collection Hotel",
+              "type": "hotel",
+              "coord": [
+                40.4309697,
+                -3.6931097999999998
               ]
             },
             {
-              "type": "dinner",
-              "name": "Farewell dinner",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                40.417272,
-                -3.700392
+                40.4309697,
+                -3.6931097999999998
+              ]
+            },
+            {
+              "name": "Day trip by AVE: Toledo or Segovia",
+              "type": "sightseeing",
+              "coord": [
+                40.4304047,
+                -3.6639736000000003
+              ]
+            },
+            {
+              "name": "Segovia aqueduct + Alcázar",
+              "type": "sightseeing",
+              "coord": [
+                40.952572499999995,
+                -4.1325378
+              ]
+            },
+            {
+              "name": "Local lunch",
+              "type": "lunch",
+              "coord": [
+                40.952572499999995,
+                -4.1325378
+              ]
+            },
+            {
+              "name": "Segovia aqueduct + Alcázar",
+              "type": "sightseeing",
+              "coord": [
+                40.952572499999995,
+                -4.1325378
+              ]
+            },
+            {
+              "name": "Sacha",
+              "type": "dinner",
+              "coord": [
+                41.4008742,
+                2.1386537999999997
+              ]
+            },
+            {
+              "name": "Rooftop sunset drinks (Gran Vía area)",
+              "type": "optional",
+              "coord": [
+                40.4205124,
+                -3.7054841999999995
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Basque Country",
+          "items": [
+            {
+              "name": "Hotel María Cristina",
+              "type": "hotel",
+              "coord": [
+                43.321807799999995,
+                -1.9801058999999999
+              ]
+            },
+            {
+              "name": "Morning flight or train Madrid → San Sebastián (4hr train or 1hr flight)",
+              "type": "info",
+              "coord": [
+                43.321807799999995,
+                -1.9801058999999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.4309697,
+                -3.6931097999999998
+              ]
+            },
+            {
+              "name": "Asador Etxebarri",
+              "type": "dinner",
+              "coord": [
+                43.1158721,
+                -2.5984691
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Basque Essentials — San Sebastián",
+          "items": [
+            {
+              "name": "Hotel María Cristina",
+              "type": "hotel",
+              "coord": [
+                43.321807799999995,
+                -1.9801058999999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                43.321807799999995,
+                -1.9801058999999999
+              ]
+            },
+            {
+              "name": "La Concha Beach promenade",
+              "type": "sightseeing",
+              "coord": [
+                43.3144134,
+                -1.9914711
+              ]
+            },
+            {
+              "name": "La Cuchara de San Telmo",
+              "type": "lunch",
+              "coord": [
+                43.3245016,
+                -1.9853227
+              ]
+            },
+            {
+              "name": "Monte Urgull hike",
+              "type": "sightseeing",
+              "coord": [
+                43.3252327,
+                -1.9898448
+              ]
+            },
+            {
+              "name": "Bodegon Alejandro",
+              "type": "dinner",
+              "coord": [
+                43.3236037,
+                -1.9834505
+              ]
+            },
+            {
+              "name": "Pintxos bar-hopping in Parte Vieja",
+              "type": "optional",
+              "coord": [
+                43.32356190000001,
+                -1.9857908999999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Culinary Excellence — San Sebastián",
+          "items": [
+            {
+              "name": "Lasala Plaza Hotel",
+              "type": "hotel",
+              "coord": [
+                43.3222667,
+                -1.9865838999999998
+              ]
+            },
+            {
+              "name": "Bar Néstor",
+              "type": "breakfast",
+              "coord": [
+                43.323872,
+                -1.9837069999999999
+              ]
+            },
+            {
+              "name": "Mercado de la Bretxa",
+              "type": "sightseeing",
+              "coord": [
+                43.3237762,
+                -1.9828852
+              ]
+            },
+            {
+              "name": "Arzak",
+              "type": "lunch",
+              "coord": [
+                43.3214573,
+                -1.9493146
+              ]
+            },
+            {
+              "name": "La Bretxa (seafood level)",
+              "type": "sightseeing",
+              "coord": [
+                43.3237762,
+                -1.9828852
+              ]
+            },
+            {
+              "name": "Akelarre",
+              "type": "dinner",
+              "coord": [
+                43.307784999999996,
+                -2.0431364
+              ]
+            },
+            {
+              "name": "Bar Zeruko",
+              "type": "optional",
+              "coord": [
+                43.3238,
+                -1.983708
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Travel to Barcelona & Catalonia",
+          "items": [
+            {
+              "name": "Mandarin Oriental, Barcelona",
+              "type": "hotel",
+              "coord": [
+                41.391167599999996,
+                2.1665772999999997
+              ]
+            },
+            {
+              "name": "Morning train San Sebastián → Barcelona (5hr)",
+              "type": "info",
+              "coord": [
+                41.391167599999996,
+                2.1665772999999997
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                43.3222667,
+                -1.9865838999999998
+              ]
+            },
+            {
+              "name": "Disfrutar",
+              "type": "dinner",
+              "coord": [
+                41.3878056,
+                2.1531881
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Barcelona Icons — Eixample & Gothic Quarter",
+          "items": [
+            {
+              "name": "Majestic Hotel & Spa Barcelona",
+              "type": "hotel",
+              "coord": [
+                41.3934401,
+                2.1639871
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.3934401,
+                2.1639871
+              ]
+            },
+            {
+              "name": "Visit La Sagrada Família",
+              "type": "sightseeing",
+              "coord": [
+                41.4036299,
+                2.1743558
+              ]
+            },
+            {
+              "name": "7 Portes",
+              "type": "lunch",
+              "coord": [
+                41.3823052,
+                2.1833902
+              ]
+            },
+            {
+              "name": "Gothic Quarter wander + tapas stop",
+              "type": "sightseeing",
+              "coord": [
+                41.3837641,
+                2.1785945
+              ]
+            },
+            {
+              "name": "Casa Batlló (Gaudí)",
+              "type": "sightseeing",
+              "coord": [
+                41.3917,
+                2.164918
+              ]
+            },
+            {
+              "name": "Disfrutar",
+              "type": "dinner",
+              "coord": [
+                41.3878056,
+                2.1531881
+              ]
+            },
+            {
+              "name": "Boadas Cocktails",
+              "type": "optional",
+              "coord": [
+                41.384675,
+                2.1703139
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Cultural Barcelona — Born & Raval",
+          "items": [
+            {
+              "name": "Hotel Neri Relais & Châteaux",
+              "type": "hotel",
+              "coord": [
+                41.3831717,
+                2.1753815
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.3831717,
+                2.1753815
+              ]
+            },
+            {
+              "name": "Picasso Museum",
+              "type": "sightseeing",
+              "coord": [
+                41.3852706,
+                2.1809472
+              ]
+            },
+            {
+              "name": "La Paradeta Born",
+              "type": "lunch",
+              "coord": [
+                41.3863348,
+                2.1840459
+              ]
+            },
+            {
+              "name": "Parc de la Ciutadella playground + boat lake",
+              "type": "sightseeing",
+              "coord": [
+                41.3883819,
+                2.1863899
+              ]
+            },
+            {
+              "name": "Mercat de Sant Antoni",
+              "type": "shopping",
+              "coord": [
+                41.3786358,
+                2.1620492
+              ]
+            },
+            {
+              "name": "Alkimia",
+              "type": "dinner",
+              "coord": [
+                41.3826655,
+                2.1633589
+              ]
+            },
+            {
+              "name": "Two Schmucks",
+              "type": "optional",
+              "coord": [
+                41.3831899,
+                2.1652514
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Travel to Valencia Region",
+          "items": [
+            {
+              "name": "Only YOU Hotel Valencia",
+              "type": "hotel",
+              "coord": [
+                39.4713608,
+                -0.375023
+              ]
+            },
+            {
+              "name": "Morning train Barcelona → Valencia (3hr)",
+              "type": "info",
+              "coord": [
+                39.4713608,
+                -0.375023
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.3831717,
+                2.1753815
+              ]
+            },
+            {
+              "name": "Ricard Camarena Restaurant",
+              "type": "dinner",
+              "coord": [
+                39.485391299999996,
+                -0.3850954
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Valencia Essentials — City Center",
+          "items": [
+            {
+              "name": "Caro Hotel Valencia",
+              "type": "hotel",
+              "coord": [
+                39.4759647,
+                -0.37206639999999996
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.4759647,
+                -0.37206639999999996
+              ]
+            },
+            {
+              "name": "City of Arts and Sciences complex",
+              "type": "sightseeing",
+              "coord": [
+                39.454875099999995,
+                -0.3504904
+              ]
+            },
+            {
+              "name": "Central Market browse + snack",
+              "type": "lunch",
+              "coord": [
+                39.4734632,
+                -0.3790343
+              ]
+            },
+            {
+              "name": "Turia Gardens bike ride",
+              "type": "sightseeing",
+              "coord": [
+                39.4787307,
+                -0.37572740000000004
+              ]
+            },
+            {
+              "name": "Paella Valenciana lunch by the beach",
+              "type": "dinner",
+              "coord": [
+                39.4634413,
+                -0.32349049999999996
+              ]
+            },
+            {
+              "name": "Malvarrosa beach evening stroll",
+              "type": "optional",
+              "coord": [
+                39.475075100000005,
+                -0.3235743
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 11 — Travel to Granada & Eastern Andalusia",
+          "items": [
+            {
+              "name": "Hotel Alhambra Palace",
+              "type": "hotel",
+              "coord": [
+                37.1740597,
+                -3.5900131
+              ]
+            },
+            {
+              "name": "Morning train Valencia → Granada (4-5hr)",
+              "type": "info",
+              "coord": [
+                37.1740597,
+                -3.5900131
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.4759647,
+                -0.37206639999999996
+              ]
+            },
+            {
+              "name": "La Macetilla - Taberna Andaluza y Restaurante en Granada",
+              "type": "dinner",
+              "coord": [
+                37.173082,
+                -3.6072919999999997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 12 — Granada's Greatest Hits",
+          "items": [
+            {
+              "name": "Parador de Granada",
+              "type": "hotel",
+              "coord": [
+                37.1758455,
+                -3.5873277
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.1758455,
+                -3.5873277
+              ]
+            },
+            {
+              "name": "Explore the Alhambra complex",
+              "type": "sightseeing",
+              "coord": [
+                37.174208889999996,
+                -3.5842082
+              ]
+            },
+            {
+              "name": "Bar Patio Braserito",
+              "type": "lunch",
+              "coord": [
+                37.1729602,
+                -3.5965504999999998
+              ]
+            },
+            {
+              "name": "Albaicín neighborhood wander",
+              "type": "sightseeing",
+              "coord": [
+                37.1823851,
+                -3.5954882
+              ]
+            },
+            {
+              "name": "Mirador de San Nicolás at sunset",
+              "type": "sightseeing",
+              "coord": [
+                37.1811058,
+                -3.5926636999999997
+              ]
+            },
+            {
+              "name": "Restaurante Oliver",
+              "type": "dinner",
+              "coord": [
+                37.1759583,
+                -3.6004796
+              ]
+            },
+            {
+              "name": "Flamenco in Andalusia (Seville/Granada)",
+              "type": "optional",
+              "coord": [
+                37.177717099999995,
+                -3.5945780999999997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 13 — Travel to Seville & Western Andalusia",
+          "items": [
+            {
+              "name": "Hotel Alfonso XIII, a Luxury Collection Hotel",
+              "type": "hotel",
+              "coord": [
+                37.3814838,
+                -5.992659199999999
+              ]
+            },
+            {
+              "name": "Morning train Granada → Seville (2.5hr)",
+              "type": "info",
+              "coord": [
+                37.3814838,
+                -5.992659199999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.1758455,
+                -3.5873277
+              ]
+            },
+            {
+              "name": "Cañabota",
+              "type": "dinner",
+              "coord": [
+                37.393569899999996,
+                -5.99357
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 14 — Seville Highlights — Historic Center",
+          "items": [
+            {
+              "name": "Hotel Alfonso XIII, a Luxury Collection Hotel",
+              "type": "hotel",
+              "coord": [
+                37.3814838,
+                -5.992659199999999
+              ]
+            },
+            {
+              "name": "Ofelia Bakery",
+              "type": "breakfast",
+              "coord": [
+                37.390193,
+                -5.991766
+              ]
+            },
+            {
+              "name": "Real Alcázar of Seville",
+              "type": "sightseeing",
+              "coord": [
+                37.3830519,
+                -5.9902257
+              ]
+            },
+            {
+              "name": "La Brunilda Tapas",
+              "type": "lunch",
+              "coord": [
+                37.3883556,
+                -5.9994499999999995
+              ]
+            },
+            {
+              "name": "Seville Cathedral + Giralda",
+              "type": "sightseeing",
+              "coord": [
+                37.3861784,
+                -5.992613700000001
+              ]
+            },
+            {
+              "name": "Cañabota",
+              "type": "dinner",
+              "coord": [
+                37.393569899999996,
+                -5.99357
+              ]
+            },
+            {
+              "name": "Flamenco at a traditional tablao",
+              "type": "optional",
+              "coord": [
+                37.393498099999995,
+                -5.9917188999999995
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 15 — Mountain Escape — Ronda & Villages",
+          "items": [
+            {
+              "name": "Finca La Donaira",
+              "type": "hotel",
+              "coord": [
+                36.8492658,
+                -5.298684100000001
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                36.8492658,
+                -5.298684100000001
+              ]
+            },
+            {
+              "name": "White villages + Ronda viewpoints",
+              "type": "sightseeing",
+              "coord": [
+                36.7394333,
+                -5.167493599999999
+              ]
+            },
+            {
+              "name": "Scenic lunch in Ronda",
+              "type": "lunch",
+              "coord": [
+                36.7394333,
+                -5.167493599999999
+              ]
+            },
+            {
+              "name": "Mountain village exploration",
+              "type": "sightseeing",
+              "coord": [
+                36.7394333,
+                -5.167493599999999
+              ]
+            },
+            {
+              "name": "Return to finca for dinner",
+              "type": "dinner",
+              "coord": [
+                36.8492658,
+                -5.298684100000001
+              ]
+            },
+            {
+              "name": "Stargazing",
+              "type": "optional",
+              "coord": [
+                36.8492658,
+                -5.298684100000001
               ]
             }
           ]
@@ -14676,497 +15100,596 @@
       ]
     },
     "d": {
-      "name": "Foodie Deep-Dive",
-      "color": "#DC2626",
+      "name": "Culinary Pilgrimage (9 Days)",
+      "description": "Spain's ultimate gastronomic journey through Basque pintxos, Catalan markets, and Andalusian tapas traditions.",
       "days": [
         {
-          "day": 1,
-          "title": "San Sebastián: Culinary Begin",
+          "label": "Day 1 — Culinary Excellence — San Sebastián",
           "items": [
             {
+              "name": "Lasala Plaza Hotel",
               "type": "hotel",
-              "name": "Hotel de Inglaterra",
               "coord": [
-                43.3183,
-                -1.9759
+                43.3222667,
+                -1.9865838999999998
               ]
             },
             {
+              "name": "Bar Néstor",
               "type": "breakfast",
-              "name": "Coastal breakfast",
               "coord": [
-                43.3183,
-                -1.9759
+                43.323872,
+                -1.9837069999999999
               ]
             },
             {
+              "name": "Mercado de la Bretxa",
               "type": "sightseeing",
-              "name": "Pintxo Bar Crawl",
               "coord": [
-                43.3167,
-                -1.9815
+                43.3237762,
+                -1.9828852
               ]
             },
             {
-              "type": "lunch",
               "name": "Arzak",
+              "type": "lunch",
               "coord": [
                 43.3214573,
                 -1.9493146
               ]
             },
             {
+              "name": "La Bretxa (seafood level)",
               "type": "sightseeing",
-              "name": "Local market tour",
               "coord": [
-                43.3183,
-                -1.9759
+                43.3237762,
+                -1.9828852
               ]
             },
             {
-              "type": "dinner",
               "name": "Akelarre",
+              "type": "dinner",
               "coord": [
                 43.307784999999996,
                 -2.0431364
               ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "San Sebastián: Michelin Deep",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel de Inglaterra",
-              "coord": [
-                43.3183,
-                -1.9759
-              ]
             },
             {
-              "type": "breakfast",
-              "name": "Breakfast with views",
+              "name": "Bar Zeruko",
+              "type": "optional",
               "coord": [
-                43.3183,
-                -1.9759
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Martín Berasategui",
-              "coord": [
-                43.266789800000005,
-                -2.0155288
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Fish market visit",
-              "coord": [
-                43.3183,
-                -1.9759
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cider house tour",
-              "coord": [
-                43.2906,
-                -1.9859
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Local pintxo bars",
-              "coord": [
-                43.3167,
-                -1.9815
+                43.3238,
+                -1.983708
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Basque Country: Gastro Trail",
+          "label": "Day 2 — Pintxos Marathon — Parte Vieja",
           "items": [
             {
-              "type": "breakfast",
-              "name": "San Sebastián café",
-              "coord": [
-                43.3183,
-                -1.9759
-              ]
-            },
-            {
+              "name": "Hotel María Cristina",
               "type": "hotel",
-              "name": "Hotel Bilbao",
               "coord": [
-                43.2627,
-                -2.9253
+                43.321807799999995,
+                -1.9801058999999999
               ]
             },
             {
-              "type": "lunch",
-              "name": "Txuleta restaurant",
+              "name": "BAR SPORT",
+              "type": "breakfast",
               "coord": [
-                43.2627,
-                -2.9253
+                43.323493,
+                -1.9837105
               ]
             },
             {
+              "name": "Mercado de la Bretxa",
               "type": "sightseeing",
-              "name": "Bilbao market",
               "coord": [
-                43.2627,
-                -2.9253
+                43.3237762,
+                -1.9828852
               ]
             },
             {
-              "type": "dinner",
-              "name": "Nerua",
+              "name": "Ganbara",
+              "type": "lunch",
               "coord": [
-                43.2183,
-                -2.9357
+                43.3234339,
+                -1.9855010999999998
+              ]
+            },
+            {
+              "name": "San Telmo Museum",
+              "type": "sightseeing",
+              "coord": [
+                43.324993,
+                -1.984844
+              ]
+            },
+            {
+              "name": "Bar Txepetxa",
+              "type": "dinner",
+              "coord": [
+                43.32373810000001,
+                -1.9840577
+              ]
+            },
+            {
+              "name": "Pintxos bar-hopping in Parte Vieja",
+              "type": "optional",
+              "coord": [
+                43.32356190000001,
+                -1.9857908999999998
               ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Rioja: Wine & Food",
+          "label": "Day 3 — Travel to Rioja & Navarra",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Bilbao breakfast",
-              "coord": [
-                43.2627,
-                -2.9253
-              ]
-            },
-            {
+              "name": "Hotel Marqués de Riscal",
               "type": "hotel",
-              "name": "Rioja hotel",
               "coord": [
-                42.4623,
-                -2.4426
+                42.5115878,
+                -2.6176092
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Bodega tour and tasting",
+              "name": "Morning drive to Rioja wine country (1-2hr)",
+              "type": "info",
               "coord": [
-                42.4623,
-                -2.4426
+                42.5115878,
+                -2.6176092
               ]
             },
             {
-              "type": "lunch",
-              "name": "Winery lunch",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                42.4623,
-                -2.4426
+                43.321807799999995,
+                -1.9801058999999999
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Wine harvest tour",
-              "coord": [
-                42.4623,
-                -2.4426
-              ]
-            },
-            {
+              "name": "Habanero Taquería",
               "type": "dinner",
-              "name": "Wine pairing dinner",
               "coord": [
-                42.4623,
-                -2.4426
+                41.6538006,
+                -4.7218814
               ]
             }
           ]
         },
         {
-          "day": 5,
-          "title": "Rioja: Wine Mastery",
+          "label": "Day 4 — Wine Country — Elciego",
           "items": [
             {
+              "name": "Hotel Marqués de Riscal",
               "type": "hotel",
-              "name": "Rioja hotel",
               "coord": [
-                42.4623,
-                -2.4426
+                42.5115878,
+                -2.6176092
               ]
             },
             {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Bodega breakfast",
               "coord": [
-                42.4623,
-                -2.4426
+                42.5115878,
+                -2.6176092
               ]
             },
             {
+              "name": "Rioja winery day (Marqués de Riscal area)",
               "type": "sightseeing",
-              "name": "Marqués de Murrieta",
               "coord": [
-                42.4623,
-                -2.4426
+                42.5111029,
+                -2.6202787
               ]
             },
             {
+              "name": "Winery tasting menu lunch",
               "type": "lunch",
-              "name": "Producer's lunch",
               "coord": [
-                42.4623,
-                -2.4426
+                42.5111029,
+                -2.6202787
               ]
             },
             {
+              "name": "Vineyard walk and photography",
               "type": "sightseeing",
-              "name": "Second bodega tour",
               "coord": [
-                42.4623,
-                -2.4426
+                42.5111029,
+                -2.6202787
               ]
             },
             {
+              "name": "Hotel Marqués de Riscal dining",
               "type": "dinner",
-              "name": "Gourmet dinner",
               "coord": [
-                42.4623,
-                -2.4426
+                42.5115878,
+                -2.6176092
+              ]
+            },
+            {
+              "name": "Evening wine on terrace",
+              "type": "optional",
+              "coord": [
+                42.5115878,
+                -2.6176092
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Barcelona: Gourmet Capital",
+          "label": "Day 5 — Travel to Barcelona & Catalonia",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Rioja café",
-              "coord": [
-                42.4623,
-                -2.4426
-              ]
-            },
-            {
+              "name": "Mandarin Oriental, Barcelona",
               "type": "hotel",
-              "name": "Hotel Arts Barcelona",
               "coord": [
-                41.387056699999995,
-                2.1964207
+                41.391167599999996,
+                2.1665772999999997
               ]
             },
             {
-              "type": "lunch",
-              "name": "Tickets Bar",
+              "name": "Morning drive to Barcelona (3-4hr)",
+              "type": "info",
               "coord": [
-                41.3807,
-                2.165
+                41.391167599999996,
+                2.1665772999999997
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "La Boqueria market deep dive",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                41.3817,
-                2.1687
+                42.5115878,
+                -2.6176092
               ]
             },
             {
+              "name": "Disfrutar",
               "type": "dinner",
+              "coord": [
+                41.3878056,
+                2.1531881
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Culinary Barcelona — Born & Eixample",
+          "items": [
+            {
+              "name": "Cotton House Hotel",
+              "type": "hotel",
+              "coord": [
+                41.3917358,
+                2.1718018999999997
+              ]
+            },
+            {
+              "name": "Els Quatre Gats",
+              "type": "breakfast",
+              "coord": [
+                41.3857621,
+                2.1736964
+              ]
+            },
+            {
+              "name": "Food market browsing at La Boqueria",
+              "type": "sightseeing",
+              "coord": [
+                41.3817399,
+                2.1715853
+              ]
+            },
+            {
+              "name": "Cal Pep",
+              "type": "lunch",
+              "coord": [
+                41.3839621,
+                2.1834105999999998
+              ]
+            },
+            {
+              "name": "Mercat de Santa Caterina",
+              "type": "shopping",
+              "coord": [
+                41.386361099999995,
+                2.1781566
+              ]
+            },
+            {
+              "name": "Bodega 1900 (vermut & tapas)",
+              "type": "sightseeing",
+              "coord": [
+                41.375551699999995,
+                2.1565618
+              ]
+            },
+            {
               "name": "Cinc Sentits",
+              "type": "dinner",
               "coord": [
                 41.378388199999996,
                 2.1524171
               ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Barcelona: Michelin Tasting",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Arts Barcelona",
-              "coord": [
-                41.387056699999995,
-                2.1964207
-              ]
             },
             {
-              "type": "breakfast",
-              "name": "Market breakfast",
+              "name": "Paradiso",
+              "type": "optional",
               "coord": [
-                41.3817,
-                2.1687
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Caelis",
-              "coord": [
-                41.39,
-                2.1697
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Mercat food walk",
-              "coord": [
-                41.3817,
-                2.1687
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "El Bulli experience",
-              "coord": [
-                41.3874,
-                2.1686
+                40.317211,
+                -4.982257
               ]
             }
           ]
         },
         {
-          "day": 8,
-          "title": "Barcelona: Tapas Mastery",
+          "label": "Day 7 — Girona Excursion — Medieval City",
           "items": [
             {
+              "name": "Almanac Barcelona",
               "type": "hotel",
-              "name": "Hotel Arts Barcelona",
               "coord": [
-                41.387056699999995,
-                2.1964207
+                41.3907169,
+                2.1694359999999997
               ]
             },
             {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Breakfast",
               "coord": [
-                41.3865,
-                2.1929
+                41.3907169,
+                2.1694359999999997
               ]
             },
             {
-              "type": "lunch",
-              "name": "Cal Pep counter",
+              "name": "Travel to Girona",
+              "type": "info",
               "coord": [
-                41.386,
-                2.1815
+                41.9933638,
+                2.8076499
               ]
             },
             {
+              "name": "Medieval Girona exploration",
               "type": "sightseeing",
-              "name": "Tapas bar tour",
               "coord": [
-                41.3835,
-                2.1749
+                41.9933638,
+                2.8076499
               ]
             },
             {
-              "type": "dinner",
-              "name": "7 Portes traditions",
+              "name": "El Celler de Can Roca",
+              "type": "lunch",
               "coord": [
-                41.3781,
-                2.1743
+                41.9933638,
+                2.8076499
+              ]
+            },
+            {
+              "name": "Girona old town wander",
+              "type": "sightseeing",
+              "coord": [
+                41.9933638,
+                2.8076499
+              ]
+            },
+            {
+              "name": "Return to Barcelona",
+              "type": "info",
+              "coord": [
+                41.3907169,
+                2.1694359999999997
+              ]
+            },
+            {
+              "name": "Free evening in Barcelona",
+              "type": "optional",
+              "coord": [
+                41.3907169,
+                2.1694359999999997
               ]
             }
           ]
         },
         {
-          "day": 9,
-          "title": "Madrid: Culinary Grand Tour",
+          "label": "Day 8 — Travel to Valencia Region",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Barcelona breakfast",
-              "coord": [
-                41.3865,
-                2.1929
-              ]
-            },
-            {
+              "name": "Only YOU Hotel Valencia",
               "type": "hotel",
-              "name": "Four Seasons Hotel Madrid",
               "coord": [
-                40.417212299999996,
-                -3.7003412
+                39.4713608,
+                -0.375023
               ]
             },
             {
-              "type": "lunch",
-              "name": "Casa Botín",
+              "name": "Morning train Barcelona → Valencia (3hr)",
+              "type": "info",
               "coord": [
-                40.4156,
-                -3.6984
+                39.4713608,
+                -0.375023
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Mercado San Miguel tour",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                40.4161,
-                -3.707
+                41.3907169,
+                2.1694359999999997
               ]
             },
             {
+              "name": "Ricard Camarena Restaurant",
               "type": "dinner",
-              "name": "El Club Allard",
               "coord": [
-                40.4532,
-                -3.6876
+                39.485391299999996,
+                -0.3850954
               ]
             }
           ]
         },
         {
-          "day": 10,
-          "title": "Madrid: Foodie Finale",
+          "label": "Day 9 — Gastronomic Valencia — City & Coast",
           "items": [
             {
+              "name": "Hotel Hospes Palau de la Mar | Valencia",
               "type": "hotel",
-              "name": "Four Seasons Hotel Madrid",
               "coord": [
-                40.417212299999996,
-                -3.7003412
+                39.470954899999995,
+                -0.3666431
               ]
             },
             {
+              "name": "Horno y Pastelería Alfonso Martínez",
               "type": "breakfast",
-              "name": "Mercado sampling",
               "coord": [
-                40.4161,
-                -3.707
+                39.4740682,
+                -0.3778465
               ]
             },
             {
-              "type": "lunch",
-              "name": "Punto MX",
-              "coord": [
-                40.4385,
-                -3.6921
-              ]
-            },
-            {
+              "name": "Mercado Central",
               "type": "sightseeing",
-              "name": "Market exploration",
               "coord": [
-                40.4161,
-                -3.707
+                39.4734632,
+                -0.3790343
               ]
             },
             {
-              "type": "dinner",
-              "name": "DSTAgE",
+              "name": "Casa Carmela",
+              "type": "lunch",
               "coord": [
-                40.424602799999995,
-                -3.6963586999999998
+                39.482222199999995,
+                -0.3258333
+              ]
+            },
+            {
+              "name": "Albufera lagoon sunset boat ride",
+              "type": "sightseeing",
+              "coord": [
+                39.3105677,
+                -0.3183129
+              ]
+            },
+            {
+              "name": "Ricard Camarena Restaurant",
+              "type": "dinner",
+              "coord": [
+                39.485391299999996,
+                -0.3850954
+              ]
+            },
+            {
+              "name": "La Calita",
+              "type": "optional",
+              "coord": [
+                39.4746642,
+                -0.3763823
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Travel to Seville & Western Andalusia",
+          "items": [
+            {
+              "name": "Hotel Alfonso XIII, a Luxury Collection Hotel",
+              "type": "hotel",
+              "coord": [
+                37.3814838,
+                -5.992659199999999
+              ]
+            },
+            {
+              "name": "Morning train Valencia → Seville (4hr)",
+              "type": "info",
+              "coord": [
+                37.3814838,
+                -5.992659199999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.470954899999995,
+                -0.3666431
+              ]
+            },
+            {
+              "name": "Cañabota",
+              "type": "dinner",
+              "coord": [
+                37.393569899999996,
+                -5.99357
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 11 — Culinary Seville — Santa Cruz to Triana",
+          "items": [
+            {
+              "name": "Mercer Hotel Sevilla",
+              "type": "hotel",
+              "coord": [
+                37.387558399999996,
+                -5.997449
+              ]
+            },
+            {
+              "name": "Borbotea Coffee Lab",
+              "type": "breakfast",
+              "coord": [
+                37.39823,
+                -5.98783
+              ]
+            },
+            {
+              "name": "Mercado de Triana",
+              "type": "sightseeing",
+              "coord": [
+                37.3857102,
+                -6.0036109
+              ]
+            },
+            {
+              "name": "Eslava",
+              "type": "lunch",
+              "coord": [
+                42.564985,
+                -1.4591782
+              ]
+            },
+            {
+              "name": "Tapas crawl: Santa Cruz to Centro",
+              "type": "sightseeing",
+              "coord": [
+                37.386019999999995,
+                -5.990761399999999
+              ]
+            },
+            {
+              "name": "Abantal",
+              "type": "dinner",
+              "coord": [
+                37.3879127,
+                -5.9836813
+              ]
+            },
+            {
+              "name": "Bar Alfalfa",
+              "type": "optional",
+              "coord": [
+                37.3899841,
+                -5.9901075
               ]
             }
           ]
@@ -15174,689 +15697,620 @@
       ]
     },
     "e": {
-      "name": "Grand Tour",
-      "color": "#7C3AED",
+      "name": "Romantic Andalusia & Islands (10 Days)",
+      "description": "Luxurious escape combining Andalusia's Moorish romance with Mallorca's coastal elegance.",
       "days": [
         {
-          "day": 1,
-          "title": "Madrid: Royal Welcome",
+          "label": "Day 1 — Luxury Experience — Historic Seville",
           "items": [
             {
+              "name": "Hotel Alfonso XIII, a Luxury Collection Hotel",
               "type": "hotel",
-              "name": "Four Seasons Hotel Madrid",
               "coord": [
-                40.417212299999996,
-                -3.7003412
+                37.3814838,
+                -5.992659199999999
               ]
             },
             {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Breakfast",
               "coord": [
-                40.417272,
-                -3.700392
+                37.3814838,
+                -5.992659199999999
               ]
             },
             {
+              "name": "AIRE Ancient Baths Sevilla",
               "type": "sightseeing",
-              "name": "Royal Palace",
               "coord": [
-                40.4178,
-                -3.7142
+                37.38782200000001,
+                -5.99005
               ]
             },
             {
+              "name": "Abantal",
               "type": "lunch",
-              "name": "Casa Botín",
               "coord": [
-                40.4156,
-                -3.6984
+                37.3879127,
+                -5.9836813
               ]
             },
             {
+              "name": "Real Alcázar of Seville",
               "type": "sightseeing",
-              "name": "Prado Museum",
               "coord": [
-                40.4145,
-                -3.6929
+                37.3830519,
+                -5.9902257
               ]
             },
             {
+              "name": "Restaurante Arabesca",
               "type": "dinner",
-              "name": "El Club Allard",
               "coord": [
-                40.4532,
-                -3.6876
+                37.3819034,
+                -5.9909019
+              ]
+            },
+            {
+              "name": "Plaza de España (sunset)",
+              "type": "optional",
+              "coord": [
+                40.4240857,
+                -3.7111037
               ]
             }
           ]
         },
         {
-          "day": 2,
-          "title": "Madrid: Art & Museums",
+          "label": "Day 2 — Local Life — Triana Neighborhood",
           "items": [
             {
+              "name": "CoolRooms Palacio de Villapanés",
               "type": "hotel",
-              "name": "Four Seasons Hotel Madrid",
               "coord": [
-                40.417212299999996,
-                -3.7003412
+                37.3915128,
+                -5.986322599999999
               ]
             },
             {
+              "name": "Delatribu Specialty Coffee",
               "type": "breakfast",
-              "name": "Breakfast",
               "coord": [
-                40.417272,
-                -3.700392
+                37.3857594,
+                -5.9904234
               ]
             },
             {
+              "name": "Triana neighborhood walk",
               "type": "sightseeing",
-              "name": "Reina Sofía",
               "coord": [
-                40.4051,
-                -3.6934
+                37.3846814,
+                -6.0037978999999995
               ]
             },
             {
+              "name": "LA ANTIGUA ABACERÍA. TRIANA",
               "type": "lunch",
-              "name": "Casa Lucio",
               "coord": [
-                40.4120839,
-                -3.7096355999999995
+                37.3847011,
+                -6.0022177
               ]
             },
             {
+              "name": "Flamenco Museum (short films)",
               "type": "sightseeing",
-              "name": "Thyssen",
               "coord": [
-                40.4181,
-                -3.6948
+                37.3889396,
+                -5.9911628
               ]
             },
             {
+              "name": "Restaurante De La O",
               "type": "dinner",
-              "name": "Punto MX",
               "coord": [
-                40.4385,
-                -3.6921
+                37.38879730000001,
+                -6.0069671
+              ]
+            },
+            {
+              "name": "Alameda de Hércules",
+              "type": "optional",
+              "coord": [
+                37.3985785,
+                -5.993890599999999
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Toledo: Medieval Time Warp",
+          "label": "Day 3 — Travel to Granada & Eastern Andalusia",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Madrid café",
-              "coord": [
-                40.417272,
-                -3.700392
-              ]
-            },
-            {
+              "name": "Hotel Alhambra Palace",
               "type": "hotel",
-              "name": "Hotel Toledo",
               "coord": [
-                39.8581,
-                -4.0201
+                37.1740597,
+                -3.5900131
               ]
             },
             {
-              "type": "lunch",
-              "name": "Adolfo",
+              "name": "Morning train Seville → Granada (2.5hr)",
+              "type": "info",
               "coord": [
-                39.8634,
-                -4.0238
+                37.1740597,
+                -3.5900131
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Cathedral & Alcázar",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                39.8581,
-                -4.0201
+                37.3915128,
+                -5.986322599999999
               ]
             },
             {
+              "name": "La Macetilla - Taberna Andaluza y Restaurante en Granada",
               "type": "dinner",
-              "name": "Local restaurant",
               "coord": [
-                39.8581,
-                -4.0201
+                37.173082,
+                -3.6072919999999997
               ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Córdoba: Caliphate Heritage",
+          "label": "Day 4 — Romantic Granada",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Toledo café",
-              "coord": [
-                39.8581,
-                -4.0201
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Hotel Cordoba",
-              "coord": [
-                37.8882,
-                -4.7794
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Local Córdoba",
-              "coord": [
-                37.8882,
-                -4.7794
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Mosque-Cathedral",
-              "coord": [
-                37.8777,
-                -4.7797
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Evening meal",
-              "coord": [
-                37.8882,
-                -4.7794
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Seville: Moorish Splendor",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Cordoba breakfast",
-              "coord": [
-                37.8882,
-                -4.7794
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Casa Imperial",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Enrique Becerra",
-              "coord": [
-                37.3898,
-                -5.9876
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cathedral & Alcázar",
-              "coord": [
-                37.386,
-                -5.9845
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Casa Morales",
-              "coord": [
-                37.3896,
-                -5.9814
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Seville: River & Culture",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Casa Imperial",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Breakfast",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Plaza de España",
-              "coord": [
-                37.3736,
-                -5.9899
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Local restaurant",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "River walk & Torre",
-              "coord": [
-                37.3886,
-                -5.9823
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Dinner",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Málaga: Mediterranean Gateway",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Seville café",
-              "coord": [
-                37.3927,
-                -5.9842
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Hotel Málaga",
-              "coord": [
-                36.7213,
-                -4.4214
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Beachfront restaurant",
-              "coord": [
-                36.7213,
-                -4.4214
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Picasso Museum",
-              "coord": [
-                41.3852706,
-                2.1809472
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Seafood dinner",
-              "coord": [
-                36.7213,
-                -4.4214
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Granada: Alhambra Splendor",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Málaga breakfast",
-              "coord": [
-                36.7213,
-                -4.4214
-              ]
-            },
-            {
-              "type": "hotel",
               "name": "Parador de Granada",
+              "type": "hotel",
               "coord": [
                 37.1758455,
-                -3.5873277000000003
+                -3.5873277
               ]
             },
             {
-              "type": "lunch",
-              "name": "Los Diamantes",
-              "coord": [
-                40.4296234,
-                -3.7007201000000003
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Alhambra & Generalife",
-              "coord": [
-                37.1761,
-                -3.5881
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Ruta del Azafrán",
-              "coord": [
-                37.1823,
-                -3.5937
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Valencia: Mediterranean Flavor",
-          "items": [
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Granada breakfast",
               "coord": [
-                37.1763,
-                -3.5883
+                37.1758455,
+                -3.5873277
               ]
             },
             {
-              "type": "hotel",
-              "name": "Hotel Valencia",
-              "coord": [
-                39.4699,
-                -0.3763
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Paella lunch",
-              "coord": [
-                39.4699,
-                -0.3763
-              ]
-            },
-            {
+              "name": "Generalife gardens",
               "type": "sightseeing",
-              "name": "City of Arts",
               "coord": [
-                39.4611,
-                -0.3566
+                37.176851,
+                -3.58513
               ]
             },
             {
+              "name": "Restaurante Oliver",
+              "type": "lunch",
+              "coord": [
+                37.1759583,
+                -3.6004796
+              ]
+            },
+            {
+              "name": "Hammam Al Ándalus baths",
+              "type": "sightseeing",
+              "coord": [
+                37.177644199999996,
+                -3.5939441
+              ]
+            },
+            {
+              "name": "Mirador de San Nicolás at sunset",
+              "type": "sightseeing",
+              "coord": [
+                37.1811058,
+                -3.5926636999999997
+              ]
+            },
+            {
+              "name": "La Macetilla - Taberna Andaluza y Restaurante en Granada",
               "type": "dinner",
-              "name": "Evening meal",
               "coord": [
-                39.4699,
-                -0.3763
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Barcelona: Gaudí Gateway",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Valencia breakfast",
-              "coord": [
-                39.4699,
-                -0.3763
+                37.173082,
+                -3.6072919999999997
               ]
             },
             {
-              "type": "hotel",
-              "name": "Hotel Arts Barcelona",
-              "coord": [
-                41.387056699999995,
-                2.1964207
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Botafumeiro",
-              "coord": [
-                41.3868,
-                2.1672
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Sagrada Familia",
-              "coord": [
-                41.4036,
-                2.1744
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Tickets Bar",
-              "coord": [
-                41.3807,
-                2.165
-              ]
-            }
-          ]
-        },
-        {
-          "day": 11,
-          "title": "Barcelona: Modernisme Deep",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Arts Barcelona",
-              "coord": [
-                41.387056699999995,
-                2.1964207
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "La Boqueria",
-              "coord": [
-                41.3817399,
-                2.1715853
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Park Güell",
-              "coord": [
-                41.4145,
-                2.1527
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Cal Pep",
-              "coord": [
-                41.3839621,
-                2.1834105999999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Casa Batlló & others",
-              "coord": [
-                41.3915,
-                2.1654
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Cinc Sentits",
-              "coord": [
-                41.378388199999996,
-                2.1524171
-              ]
-            }
-          ]
-        },
-        {
-          "day": 12,
-          "title": "Barcelona: Culture & Coast",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Arts Barcelona",
-              "coord": [
-                41.387056699999995,
-                2.1964207
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Breakfast",
-              "coord": [
-                41.3865,
-                2.1929
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Gothic Quarter",
-              "coord": [
-                41.3835,
-                2.1749
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "7 Portes",
-              "coord": [
-                41.3823052,
-                2.1833902000000003
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "MNAC Museum",
-              "coord": [
-                41.3694,
-                2.1627
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Dinner with views",
-              "coord": [
-                41.3865,
-                2.1929
-              ]
-            }
-          ]
-        },
-        {
-          "day": 13,
-          "title": "Basque Country: Culinary Summit",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Barcelona breakfast",
-              "coord": [
-                41.3865,
-                2.1929
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Hotel de Inglaterra",
-              "coord": [
-                43.3183,
-                -1.9759
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Arzak",
-              "coord": [
-                43.3214573,
-                -1.9493146
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Parte Vieja",
-              "coord": [
-                43.3167,
-                -1.9815
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Akelarre",
-              "coord": [
-                43.307784999999996,
-                -2.0431364
-              ]
-            }
-          ]
-        },
-        {
-          "day": 14,
-          "title": "Grand Tour Finale",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "San Sebastián",
-              "coord": [
-                43.3183,
-                -1.9759
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Final coastal walk",
-              "coord": [
-                43.3195,
-                -1.9838
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Pintxo bar crawl",
-              "coord": [
-                43.3167,
-                -1.9815
-              ]
-            },
-            {
+              "name": "Sacromonte cave flamenco",
               "type": "optional",
-              "name": "Museum visit",
               "coord": [
-                43.3183,
-                -1.9759
+                37.1815485,
+                -3.5852869999999997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Granada Evenings",
+          "items": [
+            {
+              "name": "Hotel Alhambra Palace",
+              "type": "hotel",
+              "coord": [
+                37.1740597,
+                -3.5900131
               ]
             },
             {
-              "type": "dinner",
-              "name": "Farewell dinner",
+              "name": "Late breakfast at hotel",
+              "type": "breakfast",
               "coord": [
-                43.3183,
-                -1.9759
+                37.1740597,
+                -3.5900131
+              ]
+            },
+            {
+              "name": "Albaicín neighborhood wander",
+              "type": "sightseeing",
+              "coord": [
+                37.1823851,
+                -3.5954882
+              ]
+            },
+            {
+              "name": "Casa Castañeda",
+              "type": "lunch",
+              "coord": [
+                37.1768332,
+                -3.5967373
+              ]
+            },
+            {
+              "name": "Hammam Al Ándalus baths",
+              "type": "sightseeing",
+              "coord": [
+                37.177644199999996,
+                -3.5939441
+              ]
+            },
+            {
+              "name": "Mirador de San Nicolás at sunset",
+              "type": "sightseeing",
+              "coord": [
+                37.1811058,
+                -3.5926636999999997
+              ]
+            },
+            {
+              "name": "Restaurante Oliver",
+              "type": "dinner",
+              "coord": [
+                37.1759583,
+                -3.6004796
+              ]
+            },
+            {
+              "name": "Sacromonte cave flamenco",
+              "type": "optional",
+              "coord": [
+                37.1815485,
+                -3.5852869999999997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Travel to Costa del Sol & Málaga",
+          "items": [
+            {
+              "name": "Gran Hotel Miramar GL",
+              "type": "hotel",
+              "coord": [
+                36.7202416,
+                -4.4075339
+              ]
+            },
+            {
+              "name": "Morning drive to Málaga (1.5hr)",
+              "type": "info",
+              "coord": [
+                36.7202416,
+                -4.4075339
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.1740597,
+                -3.5900131
+              ]
+            },
+            {
+              "name": "Casa Jondal",
+              "type": "dinner",
+              "coord": [
+                38.8686465,
+                1.3160174999999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Luxury Day — Marbella",
+          "items": [
+            {
+              "name": "Puente Romano Beach Resort",
+              "type": "hotel",
+              "coord": [
+                36.5040236,
+                -4.9255159
+              ]
+            },
+            {
+              "name": "Champagne breakfast",
+              "type": "breakfast",
+              "coord": [
+                36.5040236,
+                -4.9255159
+              ]
+            },
+            {
+              "name": "Spa morning at resort",
+              "type": "sightseeing",
+              "coord": [
+                36.5040236,
+                -4.9255159
+              ]
+            },
+            {
+              "name": "Private beach lunch",
+              "type": "lunch",
+              "coord": [
+                36.5040236,
+                -4.9255159
+              ]
+            },
+            {
+              "name": "Couples massage and wellness",
+              "type": "sightseeing",
+              "coord": [
+                36.5040236,
+                -4.9255159
+              ]
+            },
+            {
+              "name": "Sunset at hotel terrace",
+              "type": "sightseeing",
+              "coord": [
+                36.5040236,
+                -4.9255159
+              ]
+            },
+            {
+              "name": "Fine dining at resort",
+              "type": "dinner",
+              "coord": [
+                36.5040236,
+                -4.9255159
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Travel to Balearic Islands",
+          "items": [
+            {
+              "name": "La Residencia, A Belmond Hotel, Mallorca",
+              "type": "hotel",
+              "coord": [
+                39.7490478,
+                2.6494486999999998
+              ]
+            },
+            {
+              "name": "Flight Málaga → Palma (1hr)",
+              "type": "info",
+              "coord": [
+                39.7490478,
+                2.6494486999999998
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                36.5040236,
+                -4.9255159
+              ]
+            },
+            {
+              "name": "Marc Fosh",
+              "type": "dinner",
+              "coord": [
+                39.573361899999995,
+                2.6513869999999997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Splurge Day — Deià & Palma",
+          "items": [
+            {
+              "name": "La Residencia, A Belmond Hotel, Mallorca",
+              "type": "hotel",
+              "coord": [
+                39.7490478,
+                2.6494486999999998
+              ]
+            },
+            {
+              "name": "Hotel breakfast on terrace",
+              "type": "breakfast",
+              "coord": [
+                39.7490478,
+                2.6494486999999998
+              ]
+            },
+            {
+              "name": "Spa morning at hotel",
+              "type": "sightseeing",
+              "coord": [
+                39.7490478,
+                2.6494486999999998
+              ]
+            },
+            {
+              "name": "Ca's Patró March",
+              "type": "lunch",
+              "coord": [
+                39.7602197,
+                2.64093
+              ]
+            },
+            {
+              "name": "Deià village wander",
+              "type": "sightseeing",
+              "coord": [
+                39.760170099999996,
+                2.64093
+              ]
+            },
+            {
+              "name": "Marc Fosh",
+              "type": "dinner",
+              "coord": [
+                39.573361899999995,
+                2.6513869999999997
+              ]
+            },
+            {
+              "name": "Cocktails in Palma old town",
+              "type": "optional",
+              "coord": [
+                39.5674251,
+                2.6482994
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Cove Hopping — South & East Mallorca",
+          "items": [
+            {
+              "name": "Castell Son Claret",
+              "type": "hotel",
+              "coord": [
+                39.5921735,
+                2.4795838999999997
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.5921735,
+                2.4795838999999997
+              ]
+            },
+            {
+              "name": "Caló del Moro",
+              "type": "sightseeing",
+              "coord": [
+                39.3136144,
+                3.1213986
+              ]
+            },
+            {
+              "name": "Cala Llombards",
+              "type": "sightseeing",
+              "coord": [
+                39.319375699999995,
+                3.1359361999999997
+              ]
+            },
+            {
+              "name": "Picnic lunch at the beach",
+              "type": "lunch",
+              "coord": [
+                39.319375699999995,
+                3.1359361999999997
+              ]
+            },
+            {
+              "name": "Boat to calas (coves)",
+              "type": "sightseeing",
+              "coord": [
+                39.91908240000001,
+                3.0560519
+              ]
+            },
+            {
+              "name": "Return to hotel",
+              "type": "info",
+              "coord": [
+                39.5921735,
+                2.4795838999999997
+              ]
+            },
+            {
+              "name": "Dinner at hotel restaurant",
+              "type": "dinner",
+              "coord": [
+                39.5921735,
+                2.4795838999999997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 11 — Private Beach Day in Mallorca",
+          "items": [
+            {
+              "name": "Castell Son Claret",
+              "type": "hotel",
+              "coord": [
+                39.5921735,
+                2.4795838999999997
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.5921735,
+                2.4795838999999997
+              ]
+            },
+            {
+              "name": "Free morning to explore Balearic Islands",
+              "type": "sightseeing",
+              "coord": [
+                39.5921735,
+                2.4795838999999997
+              ]
+            },
+            {
+              "name": "Marc Fosh",
+              "type": "lunch",
+              "coord": [
+                39.573361899999995,
+                2.6513869999999997
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                39.5921735,
+                2.4795838999999997
+              ]
+            },
+            {
+              "name": "Mercat D'Olivar",
+              "type": "dinner",
+              "coord": [
+                39.5737478,
+                2.6534932
               ]
             }
           ]

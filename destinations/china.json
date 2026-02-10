@@ -5805,860 +5805,193 @@
   },
   "itineraryData": {
     "a": {
-      "name": "Greatest Hits (7 days)",
-      "color": "#2563EB",
+      "name": "Greatest Hits (7 Days)",
+      "description": "First-timer's journey through Beijing's imperial grandeur and Shanghai's modern marvels.",
       "days": [
         {
-          "day": 1,
-          "title": "Arrive Beijing; Forbidden City",
+          "label": "Day 1 — Imperial Beijing — Historic Center",
           "items": [
             {
-              "type": "hotel",
               "name": "The Peninsula Beijing",
+              "type": "hotel",
               "coord": [
                 39.9153498,
                 116.4164271
               ]
             },
             {
-              "type": "lunch",
-              "name": "Duyichu",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                39.896192,
-                116.39832000000001
+                39.9153498,
+                116.4164271
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Forbidden City",
+              "type": "sightseeing",
               "coord": [
                 39.9168038,
                 116.39716209999999
               ]
             },
             {
-              "type": "dinner",
-              "name": "Jing",
-              "coord": [
-                39.914964,
-                116.416393
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Great Wall & Ming Tombs",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                39.9094,
-                116.4084
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Great Wall (Mutianyu Section)",
-              "coord": [
-                40.432683,
-                116.56400599999999
-              ]
-            },
-            {
-              "type": "lunch",
               "name": "Quanjude",
+              "type": "lunch",
               "coord": [
                 39.896535,
                 116.39824999999999
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Ming Tombs",
-              "coord": [
-                40.255148999999996,
-                116.2235556
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Ai Ti Liao",
-              "coord": [
-                39.90403,
-                116.407526
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Summer Palace & Temple of Heaven",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                39.9094,
-                116.4084
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Summer Palace",
-              "coord": [
-                39.9999823,
-                116.27546059999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Capital M",
-              "coord": [
-                -1.2657238,
-                36.8068519
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Temple of Heaven",
+              "type": "sightseeing",
               "coord": [
                 39.8821803,
                 116.40660559999998
               ]
             },
             {
+              "name": "Jing",
               "type": "dinner",
-              "name": "Zhu Wei Xuan",
               "coord": [
-                39.444086999999996,
-                116.309905
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Fly to Xi'an; Terracotta Army",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                39.9094,
-                116.4084
+                39.914964,
+                116.416393
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Flight to Xi'an",
-              "coord": [
-                34.3415,
-                109.0355
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Shangri-La Xi'an",
-              "coord": [
-                34.235367,
-                108.89339
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Terracotta Army",
-              "coord": [
-                34.3841153,
-                109.2784918
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Da Qin Xiaochi",
-              "coord": [
-                34.285219999999995,
-                108.90179
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Song Dynasty Banquet",
-              "coord": [
-                34.236337,
-                108.947211
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Xi'an City Wall & Muslim Quarter",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                34.3416,
-                109.0357
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Xi'an City Wall",
-              "coord": [
-                34.276795,
-                108.94724099999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "La Mian Workshop",
-              "coord": [
-                34.2553516,
-                108.94127209999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Muslim Quarter Walking Tour",
-              "coord": [
-                34.261497999999996,
-                108.938791
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Shaanxi Roujiamo House",
-              "coord": [
-                34.256093,
-                108.952128
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Fly to Shanghai; The Bund",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                34.3416,
-                109.0357
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Shanghai",
-              "coord": [
-                31.2304,
-                121.4737
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Pudong Shangri-La",
-              "coord": [
-                31.2354278,
-                121.49908210000001
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "The Bund (Waitan)",
-              "coord": [
-                31.240261099999998,
-                121.49057699999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Noble House Noodles",
-              "coord": [
-                31.234394999999996,
-                121.47293799999998
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Yu Yue Heen",
-              "coord": [
-                23.118437,
-                113.32322099999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Shanghai Museum & Yu Garden; Depart",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                31.2361,
-                121.515
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Shanghai Museum",
-              "coord": [
-                31.228330699999994,
-                121.47552780000001
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Jade Mansion",
-              "coord": [
-                1.3134187,
-                103.79725789999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Yu Garden (Yuyuan)",
-              "coord": [
-                31.227235500000003,
-                121.49209399999998
-              ]
-            },
-            {
+              "name": "Beijing Opera at National Theatre",
               "type": "optional",
-              "name": "Afternoon flight home",
               "coord": [
-                31.2304,
-                121.4737
+                39.904799,
+                116.38967120000001
               ]
             }
           ]
-        }
-      ]
-    },
-    "b": {
-      "name": "Hidden Gems (7 days)",
-      "color": "#059669",
-      "days": [
+        },
         {
-          "day": 1,
-          "title": "Arrive Chengdu; Pandas & Tea",
+          "label": "Day 2 — Great Wall Day — Mutianyu",
           "items": [
             {
+              "name": "Waldorf Astoria Beijing",
               "type": "hotel",
-              "name": "Shangri-La Chengdu",
               "coord": [
-                30.643185000000003,
-                104.08552999999999
+                39.915986700000005,
+                116.41413439999998
               ]
             },
             {
-              "type": "breakfast",
               "name": "Hotel breakfast",
-              "coord": [
-                30.5728,
-                104.0662
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Giant Panda Breeding Base",
-              "coord": [
-                30.732969,
-                104.14581
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Yu's Family Kitchen",
-              "coord": [
-                30.609264,
-                104.13664899999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Chengdu Tea House Culture",
-              "coord": [
-                30.557917000000003,
-                104.073785
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Chen Mapo Tofu",
-              "coord": [
-                30.67768,
-                104.080519
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Leshan Buddha & Mount Emei",
-          "items": [
-            {
               "type": "breakfast",
-              "name": "Hotel breakfast",
               "coord": [
-                30.5728,
-                104.0662
+                39.915986700000005,
+                116.41413439999998
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Leshan Giant Buddha",
-              "coord": [
-                29.544130900000003,
-                103.7715369
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tian Fu Old Kitchen",
-              "coord": [
-                47.661643,
-                -122.31805879999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Mount Emei Buddhist Temple",
-              "coord": [
-                29.520252,
-                103.339445
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Sichuan Cuisine Fine Dining",
-              "coord": [
-                30.986569900000003,
-                103.6135989
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Chengdu Neighborhoods & Opera",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                30.5728,
-                104.0662
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Jinli Ancient Street",
-              "coord": [
-                30.644858999999997,
-                104.04997399999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Chengdu Hot Pot Paradise",
-              "coord": [
-                30.636825299999998,
-                104.01458369999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Chengdu Kuanzhai Xiangzi",
-              "coord": [
-                30.663611099999997,
-                104.0525
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Sichuan Opera Face-Changing Performance",
-              "coord": [
-                30.652301100000003,
-                104.0646003
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Xiang Zhu Ji Dan Zi",
-              "coord": [
-                30.6341358,
-                104.04988069999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Fly to Yunnan; Lijiang Old Town",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                30.5728,
-                104.0662
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Lijiang",
-              "coord": [
-                26.8738,
-                100.2318
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Banyan Tree Lijiang",
-              "coord": [
-                26.917564,
-                100.216089
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Lijiang Old Town",
-              "coord": [
-                26.8718026,
-                100.2358502
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Yunnan Garden Kitchen",
-              "coord": [
-                1.3429098,
-                103.6848138
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Dai Cuisine Riverside",
-              "coord": [
-                33.9408333,
-                -117.28166669999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Jade Dragon Snow Mountain",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                26.8738,
-                100.2318
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Jade Dragon Snow Mountain",
-              "coord": [
-                27.0983333,
-                100.175
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Lijiang Old Town Hotpot",
-              "coord": [
-                26.86102,
-                100.22708999999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Lijiang Impression Shows",
-              "coord": [
-                27.097406,
-                100.258437
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Yunnan Garden Kitchen",
-              "coord": [
-                1.3429098,
-                103.6848138
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Fly to Guilin; Li River Cruise",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                26.8738,
-                100.2318
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Guilin",
-              "coord": [
-                25.2908,
-                110.2911
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "The Leela Guilin",
-              "coord": [
-                25.295517,
-                110.307672
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Li River Bamboo Raft Cruise",
-              "coord": [
-                25.260078999999998,
-                110.3131123
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Guilin Rice Noodles Temple",
-              "coord": [
-                25.2751824,
-                110.29846529999999
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Fish and Bamboo Raft Dinner",
-              "coord": [
-                25.2908,
-                110.2911
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Karst Hiking & Yangshuo; Depart",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                25.2908,
-                110.2911
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Karst Mountain Hiking",
-              "coord": [
-                10.1454062,
-                118.866915
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Yangshuo Waterfront Lounge",
-              "coord": [
-                24.775399999999998,
-                110.49419999999999
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Afternoon flight home",
-              "coord": [
-                25.2908,
-                110.2911
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "c": {
-      "name": "Family Comfort (10 days)",
-      "color": "#D97706",
-      "days": [
-        {
-          "day": 1,
-          "title": "Arrive Beijing; Forbidden City",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Island Shangri-La Hong Kong",
-              "coord": [
-                22.2771904,
-                114.16442409999999
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                39.9094,
-                116.4084
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Forbidden City",
-              "coord": [
-                39.9168038,
-                116.39716209999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Duyichu",
-              "coord": [
-                39.896192,
-                116.39832000000001
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest time",
-              "coord": [
-                39.9094,
-                116.4084
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Lama Temple (Yonghegong)",
-              "coord": [
-                39.947671199999995,
-                116.4172902
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Capital M",
-              "coord": [
-                -1.2657238,
-                36.8068519
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Great Wall family hike",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                39.9094,
-                116.4084
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Great Wall (Mutianyu Section)",
+              "type": "sightseeing",
               "coord": [
                 40.432683,
                 116.56400599999999
               ]
             },
             {
+              "name": "Packed lunch at Great Wall",
               "type": "lunch",
-              "name": "Wall-side picnic",
               "coord": [
-                40.4553,
-                116.5674
+                40.432683,
+                116.56400599999999
               ]
             },
             {
-              "type": "nap",
-              "name": "Rest time",
-              "coord": [
-                39.9094,
-                116.4084
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Summer Palace",
+              "type": "sightseeing",
               "coord": [
                 39.9999823,
                 116.27546059999999
               ]
             },
             {
+              "name": "Ai Ti Liao",
               "type": "dinner",
-              "name": "Quanjude",
               "coord": [
-                39.896535,
-                116.39824999999999
+                39.90403,
+                116.407526
+              ]
+            },
+            {
+              "name": "Free evening",
+              "type": "optional",
+              "coord": [
+                39.915986700000005,
+                116.41413439999998
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Beijing Zoo & Hutong",
+          "label": "Day 3 — Hidden Beijing — Hutongs & Markets",
           "items": [
             {
-              "type": "breakfast",
+              "name": "Mandarin Oriental Beijing Qianmen",
+              "type": "hotel",
+              "coord": [
+                39.8968663,
+                116.4096019
+              ]
+            },
+            {
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                39.9094,
-                116.4084
+                39.8968663,
+                116.4096019
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Beijing Zoo",
-              "coord": [
-                39.938863999999995,
-                116.33954999999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Huang Cheng Lao Ma",
-              "coord": [
-                39.953657199999995,
-                116.38197849999999
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest time",
-              "coord": [
-                39.9094,
-                116.4084
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Beijing Hutong Tour on Bicycle",
+              "type": "sightseeing",
               "coord": [
                 39.9399,
                 116.39099999999999
               ]
             },
             {
+              "name": "Duyichu",
+              "type": "lunch",
+              "coord": [
+                39.896192,
+                116.39832000000001
+              ]
+            },
+            {
+              "name": "Beijing Caishikou Fabric Market",
+              "type": "shopping",
+              "coord": [
+                39.886072,
+                116.42057899999999
+              ]
+            },
+            {
+              "name": "Beijing Hongqiao Pearl Market",
+              "type": "shopping",
+              "coord": [
+                39.886072,
+                116.42057899999999
+              ]
+            },
+            {
+              "name": "Ai Ti Liao",
               "type": "dinner",
+              "coord": [
+                39.90403,
+                116.407526
+              ]
+            },
+            {
               "name": "Lao She Teahouse",
+              "type": "optional",
               "coord": [
                 39.899634,
                 116.39343699999999
@@ -6667,988 +6000,415 @@
           ]
         },
         {
-          "day": 4,
-          "title": "Fly to Shanghai; Bund & Museum",
+          "label": "Day 4 — Travel to Shanghai",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                39.9094,
-                116.4084
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Shanghai",
-              "coord": [
-                31.2304,
-                121.4737
-              ]
-            },
-            {
-              "type": "hotel",
               "name": "Pudong Shangri-La",
+              "type": "hotel",
               "coord": [
                 31.2354278,
                 121.49908210000001
               ]
             },
             {
-              "type": "sightseeing",
+              "name": "Morning high-speed train Beijing → Shanghai (5.5hr) or 2hr flight",
+              "type": "info",
+              "coord": [
+                31.2354278,
+                121.49908210000001
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.8968663,
+                116.4096019
+              ]
+            },
+            {
+              "name": "Jade Mansion",
+              "type": "dinner",
+              "coord": [
+                31.24,
+                121.4845
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Greatest Hits — Central Shanghai",
+          "items": [
+            {
+              "name": "Fairmont Peace Hotel",
+              "type": "hotel",
+              "coord": [
+                31.2390388,
+                121.4895427
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                31.2390388,
+                121.4895427
+              ]
+            },
+            {
               "name": "The Bund (Waitan)",
+              "type": "sightseeing",
               "coord": [
                 31.240261099999998,
                 121.49057699999999
               ]
             },
             {
-              "type": "lunch",
-              "name": "Shanghai Laozha",
-              "coord": [
-                31.232864,
-                121.47929599999999
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest time",
-              "coord": [
-                31.2361,
-                121.515
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Shanghai Museum",
-              "coord": [
-                31.228330699999994,
-                121.47552780000001
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Noble House Noodles",
-              "coord": [
-                31.234394999999996,
-                121.47293799999998
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Shanghai kids day",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                31.2361,
-                121.515
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Shanghai Children's Museum",
-              "coord": [
-                31.193876000000003,
-                121.41312200000002
-              ]
-            },
-            {
-              "type": "lunch",
               "name": "Din Tai Fung Shanghai",
+              "type": "lunch",
               "coord": [
                 31.234948000000003,
                 121.50767399999998
               ]
             },
             {
-              "type": "nap",
-              "name": "Rest time",
-              "coord": [
-                31.2361,
-                121.515
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Oriental Pearl TV Tower",
-              "coord": [
-                31.239688899999997,
-                121.49975529999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Shanghai Acrobatics Show",
-              "coord": [
-                31.306500000000003,
-                121.44789999999999
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Beefbar Shanghai",
-              "coord": [
-                31.236722999999998,
-                121.501922
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Water town day trip",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                31.2361,
-                121.515
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Zhujiajiao Water Town",
-              "coord": [
-                31.114370200000003,
-                121.05399899999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Water town picnic",
-              "coord": [
-                31.1649,
-                121.0737
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest time",
-              "coord": [
-                31.2361,
-                121.515
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Yu Garden (Yuyuan)",
+              "type": "sightseeing",
               "coord": [
                 31.227235500000003,
                 121.49209399999998
               ]
             },
             {
-              "type": "dinner",
-              "name": "Jade Mansion",
-              "coord": [
-                1.3134187,
-                103.79725789999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Fly to Hong Kong",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                31.2361,
-                121.515
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Hong Kong",
-              "coord": [
-                22.2783,
-                114.1747
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Island Shangri-La Hong Kong",
-              "coord": [
-                22.2771904,
-                114.16442409999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Star Ferry (Central ↔ Tsim Sha Tsui)",
-              "coord": [
-                22.293763,
-                114.168748
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Dim Sum Square",
-              "coord": [
-                22.2848766,
-                114.15129320000001
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest time",
-              "coord": [
-                22.2772,
-                114.1645
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Victoria Peak",
-              "coord": [
-                22.2758835,
-                114.14553199999999
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Tim Ho Wan",
-              "coord": [
-                22.2975261,
-                114.17397079999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Hong Kong family theme parks",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                22.2772,
-                114.1645
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Hong Kong Disneyland",
-              "coord": [
-                22.3129666,
-                114.0412819
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Disneyland lunch",
-              "coord": [
-                22.311,
-                113.9426
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest time",
-              "coord": [
-                22.2772,
-                114.1645
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ocean Park Hong Kong",
-              "coord": [
-                22.248082099999998,
-                114.1745713
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Peking Garden",
-              "coord": [
-                22.2946924,
-                114.16904219999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Hong Kong culture & shopping",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                22.2772,
-                114.1645
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Hong Kong Museum of History",
-              "coord": [
-                22.3018851,
-                114.17726119999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Lei Yue Mun Seafood Market",
-              "coord": [
-                22.3049,
-                114.2241
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest time",
-              "coord": [
-                22.2772,
-                114.1645
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Temple Street Night Market",
-              "coord": [
-                22.3065185,
-                114.1699805
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Yung Kee Restaurant",
-              "coord": [
-                22.2815799,
-                114.1555671
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Big Buddha & Depart",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                22.2772,
-                114.1645
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Big Buddha (Tian Tan Buddha)",
-              "coord": [
-                22.2539847,
-                113.904984
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Last harbor meal",
-              "coord": [
-                22.2977,
-                114.1728
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Evening flight home",
-              "coord": [
-                22.2783,
-                114.1747
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "d": {
-      "name": "Foodie Deep-Dive (10 days)",
-      "color": "#DC2626",
-      "days": [
-        {
-          "day": 1,
-          "title": "Arrive Hong Kong; Dim Sum Breakfast",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Four Seasons Hong Kong",
-              "coord": [
-                22.2863701,
-                114.1570412
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Dim Sum Square",
-              "coord": [
-                22.2848766,
-                114.15129320000001
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Temple Street Night Market",
-              "coord": [
-                22.3065185,
-                114.1699805
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tim Ho Wan",
-              "coord": [
-                22.2975261,
-                114.17397079999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Lei Yue Mun Seafood Market",
-              "coord": [
-                22.3049,
-                114.2241
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Ta Vie",
-              "coord": [
-                22.282759300000002,
-                114.1553459
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Hong Kong Michelin tour",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                22.2866,
-                114.1567
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "T'ang Court",
-              "coord": [
-                22.2964119,
-                114.16974599999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Victoria Peak",
-              "coord": [
-                22.2758835,
-                114.14553199999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Stanley Beach & Waterfront",
-              "coord": [
-                22.2183857,
-                114.2114716
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Sushi Shikon",
-              "coord": [
-                22.280523499999997,
-                114.1579388
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Fly to Guangzhou; Roasted meats",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                22.2866,
-                114.1567
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Guangzhou",
-              "coord": [
-                23.1291,
-                113.2644
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Ritz-Carlton Guangzhou",
-              "coord": [
-                23.116601,
-                113.32699699999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Guangzhou Roasted Meats Master",
-              "coord": [
-                23.113829,
-                113.246186
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Guangzhou Antique & Culture Market",
-              "coord": [
-                23.120905999999998,
-                113.237184
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Michelin Cantonese Dim Sum",
-              "coord": [
-                23.136537,
-                113.272668
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Guangzhou seafood & Pearl River",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Guangzhou Congee King",
-              "coord": [
-                23.118132,
-                113.23939899999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Guangzhou Seafood Bazaar",
-              "coord": [
-                23.10784,
-                113.238615
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Fresh catch from market",
-              "coord": [
-                23.1113,
-                113.2515
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Afternoon rest",
-              "coord": [
-                23.1291,
-                113.2644
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Pearl River Night Dinner Cruise",
-              "coord": [
-                23.114828,
-                113.271315
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Fly to Chengdu; Sichuan spice",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                23.1291,
-                113.2644
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Chengdu",
-              "coord": [
-                30.5728,
-                104.0662
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Shangri-La Chengdu",
-              "coord": [
-                30.643185000000003,
-                104.08552999999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Yu's Family Kitchen",
-              "coord": [
-                30.609264,
-                104.13664899999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Chengdu Kuanzhai Xiangzi",
-              "coord": [
-                30.663611099999997,
-                104.0525
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Chen Mapo Tofu",
-              "coord": [
-                30.67768,
-                104.080519
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Chengdu hot pot & street food",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                30.5728,
-                104.0662
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Jinli Ancient Street",
-              "coord": [
-                30.644858999999997,
-                104.04997399999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Chengdu Jinli Ancient Street Food Market",
-              "coord": [
-                30.646459999999998,
-                104.04968
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Afternoon rest",
-              "coord": [
-                30.5728,
-                104.0662
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Chengdu Hot Pot Paradise",
-              "coord": [
-                30.636825299999998,
-                104.01458369999999
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Chengdu Hot Pot Paradise",
-              "coord": [
-                30.636825299999998,
-                104.01458369999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Fly to Shanghai; French-Asian cuisine",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                30.5728,
-                104.0662
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Shanghai",
-              "coord": [
-                31.2304,
-                121.4737
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Park Hyatt Shanghai",
-              "coord": [
-                31.234732,
-                121.50764000000001
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "L'Atelier de Joël Robuchon",
-              "coord": [
-                48.856685999999996,
-                2.3277452
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "The Bund (Waitan)",
-              "coord": [
-                31.240261099999998,
-                121.49057699999999
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Yu Yue Heen",
-              "coord": [
-                23.118437,
-                113.32322099999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Shanghai Michelin & handmade dumplings",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                31.2467,
-                121.5069
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Shanghai Old City Xiaolongbao Tour",
-              "coord": [
-                31.226721299999998,
-                121.49154949999998
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Din Tai Fung Shanghai",
-              "coord": [
-                31.234948000000003,
-                121.50767399999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Shanghai Silk Museum",
-              "coord": [
-                31.210911,
-                121.50492399999997
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Ultraviolet",
-              "coord": [
-                31.239264,
-                121.489651
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Shanghai noodles & street food",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Chun Fang Noodles",
-              "coord": [
-                31.264829,
-                121.487945
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Shanghai Longhua Temple Market",
-              "coord": [
-                31.173806999999996,
-                121.451911
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Shanghai Laozha",
-              "coord": [
-                31.232864,
-                121.47929599999999
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Afternoon rest",
-              "coord": [
-                31.2467,
-                121.5069
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Zhujiajiao Water Town",
-              "coord": [
-                31.114370200000003,
-                121.05399899999999
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "El Willy",
-              "coord": [
-                31.230678,
-                121.49398699999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Shanghai markets & departure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                31.2467,
-                121.5069
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Shanghai Yuyuan Garden Bazaar",
+              "type": "shopping",
               "coord": [
                 31.227392,
                 121.49139100000001
               ]
             },
             {
-              "type": "lunch",
+              "name": "Fu 1088",
+              "type": "dinner",
+              "coord": [
+                31.2219363,
+                121.43589490000001
+              ]
+            },
+            {
+              "name": "Oriental Pearl TV Tower",
+              "type": "optional",
+              "coord": [
+                31.239688899999997,
+                121.49975529999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Romantic Day — French Concession",
+          "items": [
+            {
+              "name": "Fairmont Peace Hotel",
+              "type": "hotel",
+              "coord": [
+                31.2390388,
+                121.4895427
+              ]
+            },
+            {
+              "name": "Shang-High Tea",
+              "type": "breakfast",
+              "coord": [
+                31.225015999999997,
+                121.490219
+              ]
+            },
+            {
+              "name": "French Concession Stroll",
+              "type": "sightseeing",
+              "coord": [
+                31.2146148,
+                121.4448405
+              ]
+            },
+            {
               "name": "Chez Panisse Shanghai",
+              "type": "lunch",
               "coord": [
                 31.2354931,
                 121.48395670000001
               ]
             },
             {
-              "type": "optional",
-              "name": "Afternoon flight home",
+              "name": "Jing'an Temple",
+              "type": "sightseeing",
               "coord": [
-                31.2304,
-                121.4737
+                31.223518799999997,
+                121.445284
+              ]
+            },
+            {
+              "name": "Shanghai Museum",
+              "type": "sightseeing",
+              "coord": [
+                31.228330699999994,
+                121.47552780000001
+              ]
+            },
+            {
+              "name": "L'Atelier de Joël Robuchon",
+              "type": "dinner",
+              "coord": [
+                31.238,
+                121.5079
+              ]
+            },
+            {
+              "name": "The Bund (Waitan)",
+              "type": "optional",
+              "coord": [
+                31.240261099999998,
+                121.49057699999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Cultural Immersion — Ancient Shanghai",
+          "items": [
+            {
+              "name": "The Bund Luxury Hotel",
+              "type": "hotel",
+              "coord": [
+                31.251424099999994,
+                121.5027642
+              ]
+            },
+            {
+              "name": "Shanghai Laozha",
+              "type": "breakfast",
+              "coord": [
+                31.232864,
+                121.47929599999999
+              ]
+            },
+            {
+              "name": "Longhua Temple & Pagoda",
+              "type": "sightseeing",
+              "coord": [
+                31.173806999999996,
+                121.451911
+              ]
+            },
+            {
+              "name": "Noble House Noodles",
+              "type": "lunch",
+              "coord": [
+                31.234394999999996,
+                121.47293799999998
+              ]
+            },
+            {
+              "name": "Zhujiajiao Water Town",
+              "type": "sightseeing",
+              "coord": [
+                31.114370200000003,
+                121.05399899999999
+              ]
+            },
+            {
+              "name": "Shanghai Silk Museum",
+              "type": "sightseeing",
+              "coord": [
+                31.210911,
+                121.50492399999997
+              ]
+            },
+            {
+              "name": "Jade Mansion",
+              "type": "dinner",
+              "coord": [
+                31.24,
+                121.4845
               ]
             }
           ]
         }
       ]
     },
-    "e": {
-      "name": "Grand Tour (14 days)",
-      "color": "#7C3AED",
+    "b": {
+      "name": "Family Comfort (10 Days)",
+      "description": "Kid-friendly exploration of Beijing, Xi'an's warriors, and Shanghai's modern wonders with comfortable pacing.",
       "days": [
         {
-          "day": 1,
-          "title": "Arrive Beijing; Forbidden City",
+          "label": "Day 1 — Family Fun — Beijing with Kids",
           "items": [
             {
+              "name": "Shangri-La Beijing",
               "type": "hotel",
+              "coord": [
+                39.944285,
+                116.30831300000001
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.944285,
+                116.30831300000001
+              ]
+            },
+            {
+              "name": "Beijing Zoo",
+              "type": "sightseeing",
+              "coord": [
+                39.938863999999995,
+                116.33954999999999
+              ]
+            },
+            {
+              "name": "Huang Cheng Lao Ma",
+              "type": "lunch",
+              "coord": [
+                39.953657199999995,
+                116.38197849999999
+              ]
+            },
+            {
+              "name": "Nap time at hotel",
+              "type": "nap",
+              "coord": [
+                39.944285,
+                116.30831300000001
+              ]
+            },
+            {
+              "name": "Beijing Aquarium",
+              "type": "sightseeing",
+              "coord": [
+                39.944607999999995,
+                116.34083500000001
+              ]
+            },
+            {
+              "name": "Baoyue Lou",
+              "type": "dinner",
+              "coord": [
+                39.87307,
+                116.38602
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Imperial Beijing — Historic Center",
+          "items": [
+            {
               "name": "The Peninsula Beijing",
+              "type": "hotel",
               "coord": [
                 39.9153498,
                 116.4164271
               ]
             },
             {
-              "type": "sightseeing",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.9153498,
+                116.4164271
+              ]
+            },
+            {
               "name": "Forbidden City",
+              "type": "sightseeing",
               "coord": [
                 39.9168038,
                 116.39716209999999
               ]
             },
             {
-              "type": "lunch",
-              "name": "Duyichu",
-              "coord": [
-                39.896192,
-                116.39832000000001
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Jing",
-              "coord": [
-                39.914964,
-                116.416393
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Great Wall & Ming Tombs",
-          "items": [
-            {
-              "type": "sightseeing",
-              "name": "Great Wall (Mutianyu Section)",
-              "coord": [
-                40.432683,
-                116.56400599999999
-              ]
-            },
-            {
-              "type": "lunch",
               "name": "Quanjude",
+              "type": "lunch",
               "coord": [
                 39.896535,
                 116.39824999999999
               ]
             },
             {
+              "name": "Temple of Heaven",
               "type": "sightseeing",
-              "name": "Ming Tombs",
               "coord": [
-                40.255148999999996,
-                116.2235556
+                39.8821803,
+                116.40660559999998
               ]
             },
             {
+              "name": "Jing",
               "type": "dinner",
+              "coord": [
+                39.914964,
+                116.416393
+              ]
+            },
+            {
+              "name": "Beijing Opera at National Theatre",
+              "type": "optional",
+              "coord": [
+                39.904799,
+                116.38967120000001
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Free Day for Kids - Parks & Recovery",
+          "items": [
+            {
+              "name": "The Peninsula Beijing",
+              "type": "hotel",
+              "coord": [
+                39.9153498,
+                116.4164271
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.9153498,
+                116.4164271
+              ]
+            },
+            {
+              "name": "Free morning to explore Beijing",
+              "type": "sightseeing",
+              "coord": [
+                39.9153498,
+                116.4164271
+              ]
+            },
+            {
+              "name": "Jing",
+              "type": "lunch",
+              "coord": [
+                39.914964,
+                116.416393
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                39.9153498,
+                116.4164271
+              ]
+            },
+            {
               "name": "Ai Ti Liao",
+              "type": "dinner",
               "coord": [
                 39.90403,
                 116.407526
@@ -7657,296 +6417,945 @@
           ]
         },
         {
-          "day": 3,
-          "title": "Summer Palace & Temple of Heaven",
+          "label": "Day 4 — Travel to Xi'an",
           "items": [
             {
-              "type": "sightseeing",
-              "name": "Summer Palace",
-              "coord": [
-                39.9999823,
-                116.27546059999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Capital M",
-              "coord": [
-                -1.2657238,
-                36.8068519
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Temple of Heaven",
-              "coord": [
-                39.8821803,
-                116.40660559999998
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Zhu Wei Xuan",
-              "coord": [
-                39.444086999999996,
-                116.309905
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Fly to Xi'an; Terracotta Army",
-          "items": [
-            {
-              "type": "hotel",
               "name": "Shangri-La Xi'an",
+              "type": "hotel",
               "coord": [
                 34.235367,
                 108.89339
               ]
             },
             {
-              "type": "sightseeing",
+              "name": "Morning high-speed train Beijing → Xi'an (5hr) or 2hr flight",
+              "type": "info",
+              "coord": [
+                34.235367,
+                108.89339
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.9153498,
+                116.4164271
+              ]
+            },
+            {
+              "name": "Da Qin Xiaochi",
+              "type": "dinner",
+              "coord": [
+                34.285219999999995,
+                108.90179
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Family Fun — Xi'an Highlights",
+          "items": [
+            {
+              "name": "Sofitel Legend People's Grand Hotel",
+              "type": "hotel",
+              "coord": [
+                34.2649058,
+                108.96334669999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.2649058,
+                108.96334669999999
+              ]
+            },
+            {
               "name": "Terracotta Army",
+              "type": "sightseeing",
               "coord": [
                 34.3841153,
                 109.2784918
               ]
             },
             {
+              "name": "Xi'an Noodle House",
               "type": "lunch",
-              "name": "Da Qin Xiaochi",
               "coord": [
-                34.285219999999995,
-                108.90179
+                34.288208,
+                108.886377
               ]
             },
             {
+              "name": "Rest time at hotel",
+              "type": "nap",
+              "coord": [
+                34.2649058,
+                108.96334669999999
+              ]
+            },
+            {
+              "name": "Xi'an Children's Museum",
+              "type": "sightseeing",
+              "coord": [
+                34.257625,
+                108.94129
+              ]
+            },
+            {
+              "name": "Muslim Quarter Kebab Masters",
               "type": "dinner",
-              "name": "Song Dynasty Banquet",
-              "coord": [
-                34.236337,
-                108.947211
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Xi'an City Wall & Muslim Quarter",
-          "items": [
-            {
-              "type": "sightseeing",
-              "name": "Xi'an City Wall",
-              "coord": [
-                34.276795,
-                108.94724099999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "La Mian Workshop",
-              "coord": [
-                34.2553516,
-                108.94127209999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Muslim Quarter Walking Tour",
               "coord": [
                 34.261497999999996,
                 108.938791
               ]
             },
             {
-              "type": "dinner",
-              "name": "Shaanxi Roujiamo House",
+              "name": "Xi'an Lantern Festival",
+              "type": "optional",
               "coord": [
-                34.256093,
-                108.952128
+                34.2123098,
+                108.9747383
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Xi'an Shaanxi Museum & Pagoda",
+          "label": "Day 6 — Greatest Hits — Xi'an City Center",
           "items": [
             {
-              "type": "sightseeing",
-              "name": "Shaanxi History Museum",
-              "coord": [
-                34.22352,
-                108.955298
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Jia Wei Shuang Shi Fu",
-              "coord": [
-                34.5043992,
-                109.4520776
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Big Wild Goose Pagoda",
-              "coord": [
-                34.2182433,
-                108.9641518
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Dayan Pagoda Night Show",
-              "coord": [
-                34.219662,
-                108.96337299999999
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Xu's Restaurant",
-              "coord": [
-                -37.814655099999996,
-                144.9526747
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Fly to Chengdu; Pandas & Temples",
-          "items": [
-            {
+              "name": "Sofitel Legend People's Grand Hotel",
               "type": "hotel",
+              "coord": [
+                34.2649058,
+                108.96334669999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.2649058,
+                108.96334669999999
+              ]
+            },
+            {
+              "name": "Terracotta Army",
+              "type": "sightseeing",
+              "coord": [
+                34.3841153,
+                109.2784918
+              ]
+            },
+            {
+              "name": "Xu's Restaurant",
+              "type": "lunch",
+              "coord": [
+                34.3355,
+                109.0442
+              ]
+            },
+            {
+              "name": "Xi'an City Wall",
+              "type": "sightseeing",
+              "coord": [
+                34.276795,
+                108.94724099999999
+              ]
+            },
+            {
+              "name": "Muslim Quarter Kebab Masters",
+              "type": "dinner",
+              "coord": [
+                34.261497999999996,
+                108.938791
+              ]
+            },
+            {
+              "name": "Muslim Quarter Walking Tour",
+              "type": "optional",
+              "coord": [
+                34.261497999999996,
+                108.938791
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Travel to Shanghai",
+          "items": [
+            {
+              "name": "Pudong Shangri-La",
+              "type": "hotel",
+              "coord": [
+                31.2354278,
+                121.49908210000001
+              ]
+            },
+            {
+              "name": "Morning flight Xi'an → Shanghai (2hr)",
+              "type": "info",
+              "coord": [
+                31.2354278,
+                121.49908210000001
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.2649058,
+                108.96334669999999
+              ]
+            },
+            {
+              "name": "Jade Mansion",
+              "type": "dinner",
+              "coord": [
+                31.24,
+                121.4845
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Family Day — Shanghai Fun",
+          "items": [
+            {
+              "name": "Ritz-Carlton Shanghai Pudong",
+              "type": "hotel",
+              "coord": [
+                31.236544900000002,
+                121.5012467
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                31.236544900000002,
+                121.5012467
+              ]
+            },
+            {
+              "name": "Shanghai Wild Animal Park",
+              "type": "sightseeing",
+              "coord": [
+                31.0547658,
+                121.72433009999997
+              ]
+            },
+            {
+              "name": "Xiao Fei Yang Hot Pot",
+              "type": "lunch",
+              "coord": [
+                31.211157399999998,
+                121.4823513
+              ]
+            },
+            {
+              "name": "Rest time at hotel",
+              "type": "nap",
+              "coord": [
+                31.236544900000002,
+                121.5012467
+              ]
+            },
+            {
+              "name": "Shanghai Yu Garden Lantern Festival",
+              "type": "sightseeing",
+              "coord": [
+                31.227235500000003,
+                121.49209399999998
+              ]
+            },
+            {
+              "name": "Din Tai Fung Shanghai",
+              "type": "dinner",
+              "coord": [
+                31.234948000000003,
+                121.50767399999998
+              ]
+            },
+            {
+              "name": "Shanghai Acrobatics Show",
+              "type": "optional",
+              "coord": [
+                31.306500000000003,
+                121.44789999999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Greatest Hits — Central Shanghai",
+          "items": [
+            {
+              "name": "Fairmont Peace Hotel",
+              "type": "hotel",
+              "coord": [
+                31.2390388,
+                121.4895427
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                31.2390388,
+                121.4895427
+              ]
+            },
+            {
+              "name": "The Bund (Waitan)",
+              "type": "sightseeing",
+              "coord": [
+                31.240261099999998,
+                121.49057699999999
+              ]
+            },
+            {
+              "name": "Din Tai Fung Shanghai",
+              "type": "lunch",
+              "coord": [
+                31.234948000000003,
+                121.50767399999998
+              ]
+            },
+            {
+              "name": "Yu Garden (Yuyuan)",
+              "type": "sightseeing",
+              "coord": [
+                31.227235500000003,
+                121.49209399999998
+              ]
+            },
+            {
+              "name": "Shanghai Yuyuan Garden Bazaar",
+              "type": "shopping",
+              "coord": [
+                31.227392,
+                121.49139100000001
+              ]
+            },
+            {
+              "name": "Fu 1088",
+              "type": "dinner",
+              "coord": [
+                31.2219363,
+                121.43589490000001
+              ]
+            },
+            {
+              "name": "Oriental Pearl TV Tower",
+              "type": "optional",
+              "coord": [
+                31.239688899999997,
+                121.49975529999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Free Day - Kids' Choice & Departure Prep",
+          "items": [
+            {
+              "name": "Fairmont Peace Hotel",
+              "type": "hotel",
+              "coord": [
+                31.2390388,
+                121.4895427
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                31.2390388,
+                121.4895427
+              ]
+            },
+            {
+              "name": "Free morning to explore Shanghai",
+              "type": "sightseeing",
+              "coord": [
+                31.2390388,
+                121.4895427
+              ]
+            },
+            {
+              "name": "Jade Mansion",
+              "type": "lunch",
+              "coord": [
+                31.24,
+                121.4845
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                31.2390388,
+                121.4895427
+              ]
+            },
+            {
+              "name": "Noble House Noodles",
+              "type": "dinner",
+              "coord": [
+                31.234394999999996,
+                121.47293799999998
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Grand Tour (14 Days)",
+      "description": "Epic sweep from Beijing's imperial legacy through Xi'an, Chengdu's pandas, Guilin's karsts, to Hong Kong's harbour.",
+      "days": [
+        {
+          "label": "Day 1 — Imperial Beijing — Historic Center",
+          "items": [
+            {
+              "name": "The Peninsula Beijing",
+              "type": "hotel",
+              "coord": [
+                39.9153498,
+                116.4164271
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.9153498,
+                116.4164271
+              ]
+            },
+            {
+              "name": "Forbidden City",
+              "type": "sightseeing",
+              "coord": [
+                39.9168038,
+                116.39716209999999
+              ]
+            },
+            {
+              "name": "Quanjude",
+              "type": "lunch",
+              "coord": [
+                39.896535,
+                116.39824999999999
+              ]
+            },
+            {
+              "name": "Temple of Heaven",
+              "type": "sightseeing",
+              "coord": [
+                39.8821803,
+                116.40660559999998
+              ]
+            },
+            {
+              "name": "Jing",
+              "type": "dinner",
+              "coord": [
+                39.914964,
+                116.416393
+              ]
+            },
+            {
+              "name": "Beijing Opera at National Theatre",
+              "type": "optional",
+              "coord": [
+                39.904799,
+                116.38967120000001
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Cultural Beijing — Art & Heritage",
+          "items": [
+            {
+              "name": "The Opposite House Beijing",
+              "type": "hotel",
+              "coord": [
+                39.937486299999996,
+                116.45464799999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.937486299999996,
+                116.45464799999999
+              ]
+            },
+            {
+              "name": "798 Art District",
+              "type": "sightseeing",
+              "coord": [
+                39.984536899999995,
+                116.49314799999999
+              ]
+            },
+            {
+              "name": "Casual lunch at 798",
+              "type": "lunch",
+              "coord": [
+                39.984536899999995,
+                116.49314799999999
+              ]
+            },
+            {
+              "name": "Beijing Calligraphy Masterclass",
+              "type": "sightseeing",
+              "coord": [
+                39.907,
+                116.409
+              ]
+            },
+            {
+              "name": "Lama Temple (Yonghegong)",
+              "type": "sightseeing",
+              "coord": [
+                39.947671199999995,
+                116.4172902
+              ]
+            },
+            {
+              "name": "Gui Man Tang",
+              "type": "dinner",
+              "coord": [
+                39.89962,
+                116.47238999999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Xi'an",
+          "items": [
+            {
+              "name": "Shangri-La Xi'an",
+              "type": "hotel",
+              "coord": [
+                34.235367,
+                108.89339
+              ]
+            },
+            {
+              "name": "Morning high-speed train Beijing → Xi'an (5hr)",
+              "type": "info",
+              "coord": [
+                34.235367,
+                108.89339
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.937486299999996,
+                116.45464799999999
+              ]
+            },
+            {
+              "name": "Da Qin Xiaochi",
+              "type": "dinner",
+              "coord": [
+                34.285219999999995,
+                108.90179
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Greatest Hits — Xi'an City Center",
+          "items": [
+            {
+              "name": "Sofitel Legend People's Grand Hotel",
+              "type": "hotel",
+              "coord": [
+                34.2649058,
+                108.96334669999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.2649058,
+                108.96334669999999
+              ]
+            },
+            {
+              "name": "Terracotta Army",
+              "type": "sightseeing",
+              "coord": [
+                34.3841153,
+                109.2784918
+              ]
+            },
+            {
+              "name": "Xu's Restaurant",
+              "type": "lunch",
+              "coord": [
+                34.3355,
+                109.0442
+              ]
+            },
+            {
+              "name": "Xi'an City Wall",
+              "type": "sightseeing",
+              "coord": [
+                34.276795,
+                108.94724099999999
+              ]
+            },
+            {
+              "name": "Muslim Quarter Kebab Masters",
+              "type": "dinner",
+              "coord": [
+                34.261497999999996,
+                108.938791
+              ]
+            },
+            {
+              "name": "Muslim Quarter Walking Tour",
+              "type": "optional",
+              "coord": [
+                34.261497999999996,
+                108.938791
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Silk Road Heritage — Trading Post Xi'an",
+          "items": [
+            {
+              "name": "Jin Yang Hotel",
+              "type": "hotel",
+              "coord": [
+                34.3374932,
+                109.0175568
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.3374932,
+                109.0175568
+              ]
+            },
+            {
+              "name": "Terracotta Army",
+              "type": "sightseeing",
+              "coord": [
+                34.3841153,
+                109.2784918
+              ]
+            },
+            {
+              "name": "Xu's Restaurant",
+              "type": "lunch",
+              "coord": [
+                34.3355,
+                109.0442
+              ]
+            },
+            {
+              "name": "Muslim Quarter Walking Tour",
+              "type": "sightseeing",
+              "coord": [
+                34.261497999999996,
+                108.938791
+              ]
+            },
+            {
+              "name": "Xi'an Muslim Quarter Market",
+              "type": "shopping",
+              "coord": [
+                34.261497999999996,
+                108.938791
+              ]
+            },
+            {
+              "name": "Da Qin Xiaochi",
+              "type": "dinner",
+              "coord": [
+                34.285219999999995,
+                108.90179
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Travel to Chengdu & Emeishan",
+          "items": [
+            {
               "name": "Shangri-La Chengdu",
+              "type": "hotel",
               "coord": [
                 30.643185000000003,
                 104.08552999999999
               ]
             },
             {
-              "type": "sightseeing",
+              "name": "Morning high-speed train Xi'an → Chengdu (4hr)",
+              "type": "info",
+              "coord": [
+                30.643185000000003,
+                104.08552999999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.3374932,
+                109.0175568
+              ]
+            },
+            {
+              "name": "Yu's Family Kitchen",
+              "type": "dinner",
+              "coord": [
+                30.609264,
+                104.13664899999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Greatest Hits — Chengdu",
+          "items": [
+            {
+              "name": "Wide And Far Boutique Hotel",
+              "type": "hotel",
+              "coord": [
+                30.587143,
+                104.050995
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                30.587143,
+                104.050995
+              ]
+            },
+            {
               "name": "Giant Panda Breeding Base",
+              "type": "sightseeing",
               "coord": [
                 30.732969,
                 104.14581
               ]
             },
             {
-              "type": "lunch",
               "name": "Yu's Family Kitchen",
+              "type": "lunch",
               "coord": [
                 30.609264,
                 104.13664899999999
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Wuhou Shrine & Museum",
+              "type": "sightseeing",
               "coord": [
                 30.645802,
                 104.04942899999999
               ]
             },
             {
-              "type": "dinner",
+              "name": "Jinli Ancient Street",
+              "type": "sightseeing",
+              "coord": [
+                30.644858999999997,
+                104.04997399999999
+              ]
+            },
+            {
               "name": "Chen Mapo Tofu",
+              "type": "dinner",
               "coord": [
                 30.67768,
                 104.080519
+              ]
+            },
+            {
+              "name": "Sichuan Opera Face-Changing Performance",
+              "type": "optional",
+              "coord": [
+                30.652301100000003,
+                104.0646003
               ]
             }
           ]
         },
         {
-          "day": 8,
-          "title": "Leshan Buddha & Chengdu culture",
+          "label": "Day 8 — Sacred Sites — Emeishan & Leshan",
           "items": [
             {
+              "name": "Wide And Far Boutique Hotel",
+              "type": "hotel",
+              "coord": [
+                30.587143,
+                104.050995
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                30.587143,
+                104.050995
+              ]
+            },
+            {
+              "name": "Mount Emei Buddhist Temple",
               "type": "sightseeing",
+              "coord": [
+                29.520252,
+                103.339445
+              ]
+            },
+            {
+              "name": "Mountain lunch",
+              "type": "lunch",
+              "coord": [
+                29.520252,
+                103.339445
+              ]
+            },
+            {
               "name": "Leshan Giant Buddha",
+              "type": "sightseeing",
               "coord": [
                 29.544130900000003,
                 103.7715369
               ]
             },
             {
-              "type": "lunch",
-              "name": "Tian Fu Old Kitchen",
-              "coord": [
-                47.661643,
-                -122.31805879999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Chengdu Kuanzhai Xiangzi",
-              "coord": [
-                30.663611099999997,
-                104.0525
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Sichuan Opera Face-Changing Performance",
-              "coord": [
-                30.652301100000003,
-                104.0646003
-              ]
-            },
-            {
+              "name": "Sichuan Cuisine Fine Dining",
               "type": "dinner",
-              "name": "Chengdu Hot Pot Paradise",
               "coord": [
-                30.636825299999998,
-                104.01458369999999
+                30.986569900000003,
+                103.6135989
+              ]
+            },
+            {
+              "name": "Evening return to Chengdu",
+              "type": "info",
+              "coord": [
+                30.587143,
+                104.050995
               ]
             }
           ]
         },
         {
-          "day": 9,
-          "title": "Fly to Guilin; Li River Cruise",
+          "label": "Day 9 — Travel to Guilin & Yangshuo",
           "items": [
             {
-              "type": "hotel",
               "name": "The Leela Guilin",
+              "type": "hotel",
               "coord": [
                 25.295517,
                 110.307672
               ]
             },
             {
-              "type": "sightseeing",
+              "name": "Flight Chengdu → Guilin (1.5hr)",
+              "type": "info",
+              "coord": [
+                25.295517,
+                110.307672
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                30.587143,
+                104.050995
+              ]
+            },
+            {
+              "name": "Guilin Rice Noodles Temple",
+              "type": "dinner",
+              "coord": [
+                25.2751824,
+                110.29846529999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Greatest Hits — Guilin",
+          "items": [
+            {
+              "name": "The Leela Guilin",
+              "type": "hotel",
+              "coord": [
+                25.295517,
+                110.307672
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                25.295517,
+                110.307672
+              ]
+            },
+            {
               "name": "Li River Bamboo Raft Cruise",
+              "type": "sightseeing",
               "coord": [
                 25.260078999999998,
                 110.3131123
               ]
             },
             {
-              "type": "lunch",
               "name": "Guilin Rice Noodles Temple",
+              "type": "lunch",
               "coord": [
                 25.2751824,
                 110.29846529999999
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Guilin Reed Flute Cave",
+              "type": "sightseeing",
               "coord": [
                 25.304409,
                 110.273614
               ]
             },
             {
-              "type": "dinner",
               "name": "Fish and Bamboo Raft Dinner",
+              "type": "dinner",
+              "coord": [
+                25.2908,
+                110.2911
+              ]
+            },
+            {
+              "name": "Cormorant Fishing (Night Performance)",
+              "type": "optional",
               "coord": [
                 25.2908,
                 110.2911
@@ -7955,36 +7364,59 @@
           ]
         },
         {
-          "day": 10,
-          "title": "Yangshuo karst hiking",
+          "label": "Day 11 — Yangshuo Explorer — Yangshuo",
           "items": [
             {
-              "type": "sightseeing",
+              "name": "The Leela Guilin",
+              "type": "hotel",
+              "coord": [
+                25.295517,
+                110.307672
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                25.295517,
+                110.307672
+              ]
+            },
+            {
               "name": "Karst Mountain Hiking",
+              "type": "sightseeing",
               "coord": [
-                10.1454062,
-                118.866915
+                24.7725,
+                110.4876
               ]
             },
             {
-              "type": "lunch",
               "name": "Yangshuo Waterfront Lounge",
+              "type": "lunch",
               "coord": [
                 24.775399999999998,
                 110.49419999999999
               ]
             },
             {
+              "name": "Free time exploring Yangshuo town",
               "type": "sightseeing",
-              "name": "Dragon's Backbone Rice Terraces",
               "coord": [
-                25.770429999999998,
-                110.13217999999999
+                24.775399999999998,
+                110.49419999999999
               ]
             },
             {
-              "type": "dinner",
               "name": "Yangshuo Waterfront Lounge",
+              "type": "dinner",
+              "coord": [
+                24.775399999999998,
+                110.49419999999999
+              ]
+            },
+            {
+              "name": "West Street evening stroll",
+              "type": "optional",
               "coord": [
                 24.775399999999998,
                 110.49419999999999
@@ -7993,128 +7425,35 @@
           ]
         },
         {
-          "day": 11,
-          "title": "Fly to Shanghai; Bund & museums",
+          "label": "Day 12 — Travel to Hong Kong",
           "items": [
             {
+              "name": "Regent Hong Kong",
               "type": "hotel",
-              "name": "Pudong Shangri-La",
               "coord": [
-                31.2354278,
-                121.49908210000001
+                22.2934362,
+                114.1739346
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "The Bund (Waitan)",
+              "name": "Morning high-speed train Guilin → Hong Kong (3hr)",
+              "type": "info",
               "coord": [
-                31.240261099999998,
-                121.49057699999999
+                22.2934362,
+                114.1739346
               ]
             },
             {
-              "type": "lunch",
-              "name": "Noble House Noodles",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                31.234394999999996,
-                121.47293799999998
+                25.295517,
+                110.307672
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Shanghai Museum",
-              "coord": [
-                31.228330699999994,
-                121.47552780000001
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Yu Yue Heen",
-              "coord": [
-                23.118437,
-                113.32322099999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 12,
-          "title": "Shanghai gardens & water town",
-          "items": [
-            {
-              "type": "sightseeing",
-              "name": "Yu Garden (Yuyuan)",
-              "coord": [
-                31.227235500000003,
-                121.49209399999998
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Jade Mansion",
-              "coord": [
-                1.3134187,
-                103.79725789999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Zhujiajiao Water Town",
-              "coord": [
-                31.114370200000003,
-                121.05399899999999
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Chez Panisse Shanghai",
-              "coord": [
-                31.2354931,
-                121.48395670000001
-              ]
-            }
-          ]
-        },
-        {
-          "day": 13,
-          "title": "Fly to Hong Kong; Peak & markets",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Four Seasons Hong Kong",
-              "coord": [
-                22.2863701,
-                114.1570412
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Victoria Peak",
-              "coord": [
-                22.2758835,
-                114.14553199999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tim Ho Wan",
-              "coord": [
-                22.2975261,
-                114.17397079999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Temple Street Night Market",
-              "coord": [
-                22.3065185,
-                114.1699805
-              ]
-            },
-            {
-              "type": "dinner",
               "name": "Ta Vie",
+              "type": "dinner",
               "coord": [
                 22.282759300000002,
                 114.1553459
@@ -8123,39 +7462,1190 @@
           ]
         },
         {
-          "day": 14,
-          "title": "Hong Kong Big Buddha & Depart",
+          "label": "Day 13 — Hong Kong Highlights — Kowloon & Hong Kong Island",
           "items": [
             {
-              "type": "sightseeing",
-              "name": "Big Buddha (Tian Tan Buddha)",
+              "name": "The Peninsula Hong Kong",
+              "type": "hotel",
               "coord": [
-                22.2539847,
-                113.904984
+                22.295102399999998,
+                114.1718537
               ]
             },
             {
-              "type": "lunch",
-              "name": "Lei Yue Mun Seafood Market",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                22.3049,
-                114.2241
+                22.295102399999998,
+                114.1718537
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Star Ferry (Central ↔ Tsim Sha Tsui)",
+              "type": "sightseeing",
               "coord": [
                 22.293763,
                 114.168748
               ]
             },
             {
-              "type": "optional",
-              "name": "Evening flight home",
+              "name": "Dim Sum Square",
+              "type": "lunch",
               "coord": [
-                22.2783,
-                114.1747
+                22.2848766,
+                114.15129320000001
+              ]
+            },
+            {
+              "name": "Victoria Peak",
+              "type": "sightseeing",
+              "coord": [
+                22.2758835,
+                114.14553199999999
+              ]
+            },
+            {
+              "name": "Yung Kee Restaurant",
+              "type": "dinner",
+              "coord": [
+                22.2815799,
+                114.1555671
+              ]
+            },
+            {
+              "name": "Symphony of Lights Harbour Show",
+              "type": "optional",
+              "coord": [
+                22.293005200000003,
+                114.1739717
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 14 — Hong Kong Food Pilgrimage — Central to Kowloon",
+          "items": [
+            {
+              "name": "Mandarin Oriental Hong Kong",
+              "type": "hotel",
+              "coord": [
+                22.281879399999998,
+                114.15944329999999
+              ]
+            },
+            {
+              "name": "Tim Ho Wan",
+              "type": "breakfast",
+              "coord": [
+                22.2975261,
+                114.17397079999999
+              ]
+            },
+            {
+              "name": "Hong Kong Star Ferry Heritage Ride",
+              "type": "sightseeing",
+              "coord": [
+                22.2871502,
+                114.1612735
+              ]
+            },
+            {
+              "name": "Lung King Heen",
+              "type": "lunch",
+              "coord": [
+                22.2864276,
+                114.15705439999999
+              ]
+            },
+            {
+              "name": "Lei Yue Mun Seafood Harbor",
+              "type": "sightseeing",
+              "coord": [
+                22.291002,
+                114.2386209
+              ]
+            },
+            {
+              "name": "T'ang Court",
+              "type": "dinner",
+              "coord": [
+                22.2964119,
+                114.16974599999999
+              ]
+            },
+            {
+              "name": "Temple Street Night Market",
+              "type": "optional",
+              "coord": [
+                22.3065185,
+                114.1699805
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "d": {
+      "name": "Foodie's China (10 Days)",
+      "description": "Culinary odyssey from Beijing's imperial kitchens through Sichuan spice to Cantonese mastery in Hong Kong.",
+      "days": [
+        {
+          "label": "Day 1 — Culinary Beijing — Food Trail",
+          "items": [
+            {
+              "name": "Rosewood Beijing",
+              "type": "hotel",
+              "coord": [
+                39.9203352,
+                116.4607054
+              ]
+            },
+            {
+              "name": "Siji Minfu",
+              "type": "breakfast",
+              "coord": [
+                39.918247199999996,
+                116.40888209999999
+              ]
+            },
+            {
+              "name": "Beijing Panjiayuan Antique Market",
+              "type": "sightseeing",
+              "coord": [
+                39.87596,
+                116.460533
+              ]
+            },
+            {
+              "name": "Duyichu",
+              "type": "lunch",
+              "coord": [
+                39.896192,
+                116.39832000000001
+              ]
+            },
+            {
+              "name": "Beijing Hutong Tour on Bicycle",
+              "type": "sightseeing",
+              "coord": [
+                39.9399,
+                116.39099999999999
+              ]
+            },
+            {
+              "name": "Peking Duck at Xianyuantan",
+              "type": "dinner",
+              "coord": [
+                39.8949165,
+                116.39214319999998
+              ]
+            },
+            {
+              "name": "Lao She Teahouse",
+              "type": "optional",
+              "coord": [
+                39.899634,
+                116.39343699999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Imperial Beijing — Historic Center",
+          "items": [
+            {
+              "name": "The Peninsula Beijing",
+              "type": "hotel",
+              "coord": [
+                39.9153498,
+                116.4164271
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.9153498,
+                116.4164271
+              ]
+            },
+            {
+              "name": "Forbidden City",
+              "type": "sightseeing",
+              "coord": [
+                39.9168038,
+                116.39716209999999
+              ]
+            },
+            {
+              "name": "Quanjude",
+              "type": "lunch",
+              "coord": [
+                39.896535,
+                116.39824999999999
+              ]
+            },
+            {
+              "name": "Temple of Heaven",
+              "type": "sightseeing",
+              "coord": [
+                39.8821803,
+                116.40660559999998
+              ]
+            },
+            {
+              "name": "Jing",
+              "type": "dinner",
+              "coord": [
+                39.914964,
+                116.416393
+              ]
+            },
+            {
+              "name": "Beijing Opera at National Theatre",
+              "type": "optional",
+              "coord": [
+                39.904799,
+                116.38967120000001
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Xi'an",
+          "items": [
+            {
+              "name": "Shangri-La Xi'an",
+              "type": "hotel",
+              "coord": [
+                34.235367,
+                108.89339
+              ]
+            },
+            {
+              "name": "Morning high-speed train Beijing → Xi'an (5hr)",
+              "type": "info",
+              "coord": [
+                34.235367,
+                108.89339
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.9153498,
+                116.4164271
+              ]
+            },
+            {
+              "name": "Da Qin Xiaochi",
+              "type": "dinner",
+              "coord": [
+                34.285219999999995,
+                108.90179
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Foodie Journey — Muslim Quarter & Beyond",
+          "items": [
+            {
+              "name": "Pullman Xi'an",
+              "type": "hotel",
+              "coord": [
+                34.255722,
+                108.93978639999999
+              ]
+            },
+            {
+              "name": "Shaanxi Roujiamo House",
+              "type": "breakfast",
+              "coord": [
+                34.256093,
+                108.952128
+              ]
+            },
+            {
+              "name": "Xi'an Muslim Quarter Market",
+              "type": "sightseeing",
+              "coord": [
+                34.261497999999996,
+                108.938791
+              ]
+            },
+            {
+              "name": "Biang Biang Noodles",
+              "type": "lunch",
+              "coord": [
+                34.2553516,
+                108.94127209999999
+              ]
+            },
+            {
+              "name": "La Mian Workshop",
+              "type": "sightseeing",
+              "coord": [
+                34.2553516,
+                108.94127209999999
+              ]
+            },
+            {
+              "name": "Jia Wei Shuang Shi Fu",
+              "type": "dinner",
+              "coord": [
+                34.5043992,
+                109.4520776
+              ]
+            },
+            {
+              "name": "Da Qin Xiaochi",
+              "type": "optional",
+              "coord": [
+                34.285219999999995,
+                108.90179
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Greatest Hits — Xi'an City Center",
+          "items": [
+            {
+              "name": "Sofitel Legend People's Grand Hotel",
+              "type": "hotel",
+              "coord": [
+                34.2649058,
+                108.96334669999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.2649058,
+                108.96334669999999
+              ]
+            },
+            {
+              "name": "Terracotta Army",
+              "type": "sightseeing",
+              "coord": [
+                34.3841153,
+                109.2784918
+              ]
+            },
+            {
+              "name": "Xu's Restaurant",
+              "type": "lunch",
+              "coord": [
+                34.3355,
+                109.0442
+              ]
+            },
+            {
+              "name": "Xi'an City Wall",
+              "type": "sightseeing",
+              "coord": [
+                34.276795,
+                108.94724099999999
+              ]
+            },
+            {
+              "name": "Muslim Quarter Kebab Masters",
+              "type": "dinner",
+              "coord": [
+                34.261497999999996,
+                108.938791
+              ]
+            },
+            {
+              "name": "Muslim Quarter Walking Tour",
+              "type": "optional",
+              "coord": [
+                34.261497999999996,
+                108.938791
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Travel to Chengdu & Emeishan",
+          "items": [
+            {
+              "name": "Shangri-La Chengdu",
+              "type": "hotel",
+              "coord": [
+                30.643185000000003,
+                104.08552999999999
+              ]
+            },
+            {
+              "name": "Flight Xi'an → Chengdu (1.5hr)",
+              "type": "info",
+              "coord": [
+                30.643185000000003,
+                104.08552999999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.2649058,
+                108.96334669999999
+              ]
+            },
+            {
+              "name": "Yu's Family Kitchen",
+              "type": "dinner",
+              "coord": [
+                30.609264,
+                104.13664899999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Foodie Adventure — Chengdu",
+          "items": [
+            {
+              "name": "Kewei Hotel Chengdu",
+              "type": "hotel",
+              "coord": [
+                30.58467,
+                104.05414800000001
+              ]
+            },
+            {
+              "name": "Sweet Water Noodle House",
+              "type": "breakfast",
+              "coord": [
+                30.658848000000003,
+                104.060424
+              ]
+            },
+            {
+              "name": "Chengdu Kuanzhai Xiangzi Craft Market",
+              "type": "sightseeing",
+              "coord": [
+                30.663611099999997,
+                104.0525
+              ]
+            },
+            {
+              "name": "Guangya Dumpling Parlor",
+              "type": "lunch",
+              "coord": [
+                30.632594,
+                104.044615
+              ]
+            },
+            {
+              "name": "Chengdu Tea House Culture",
+              "type": "sightseeing",
+              "coord": [
+                30.557917000000003,
+                104.073785
+              ]
+            },
+            {
+              "name": "Chengdu Jinli Ancient Street Food Market",
+              "type": "shopping",
+              "coord": [
+                30.646459999999998,
+                104.04968
+              ]
+            },
+            {
+              "name": "Chengdu Hot Pot Paradise",
+              "type": "dinner",
+              "coord": [
+                30.636825299999998,
+                104.01458369999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Local Life — Chengdu",
+          "items": [
+            {
+              "name": "Wide And Far Boutique Hotel",
+              "type": "hotel",
+              "coord": [
+                30.587143,
+                104.050995
+              ]
+            },
+            {
+              "name": "Sweet Water Noodle House",
+              "type": "breakfast",
+              "coord": [
+                30.658848000000003,
+                104.060424
+              ]
+            },
+            {
+              "name": "Chengdu Kuanzhai Xiangzi",
+              "type": "sightseeing",
+              "coord": [
+                30.663611099999997,
+                104.0525
+              ]
+            },
+            {
+              "name": "Xiang Zhu Ji Dan Zi",
+              "type": "lunch",
+              "coord": [
+                30.6341358,
+                104.04988069999999
+              ]
+            },
+            {
+              "name": "Chengdu Tea House Culture",
+              "type": "sightseeing",
+              "coord": [
+                30.557917000000003,
+                104.073785
+              ]
+            },
+            {
+              "name": "Chengdu Jinli Ancient Street Food Market",
+              "type": "shopping",
+              "coord": [
+                30.646459999999998,
+                104.04968
+              ]
+            },
+            {
+              "name": "Yulin Hot Pot",
+              "type": "dinner",
+              "coord": [
+                30.6231245,
+                104.0623147
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Travel to Guangzhou",
+          "items": [
+            {
+              "name": "Ritz-Carlton Guangzhou",
+              "type": "hotel",
+              "coord": [
+                23.116601,
+                113.32699699999999
+              ]
+            },
+            {
+              "name": "Flight Chengdu → Guangzhou (2hr)",
+              "type": "info",
+              "coord": [
+                23.116601,
+                113.32699699999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                30.587143,
+                104.050995
+              ]
+            },
+            {
+              "name": "Yu Yue Heen",
+              "type": "dinner",
+              "coord": [
+                23.118437,
+                113.32322099999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Foodie's Dream — Cantonese Masters",
+          "items": [
+            {
+              "name": "Shangri-La Guangzhou",
+              "type": "hotel",
+              "coord": [
+                23.102532999999998,
+                113.370184
+              ]
+            },
+            {
+              "name": "Guangzhou Congee King",
+              "type": "breakfast",
+              "coord": [
+                23.118132,
+                113.23939899999999
+              ]
+            },
+            {
+              "name": "Morning market exploration",
+              "type": "sightseeing",
+              "coord": [
+                23.10784,
+                113.238615
+              ]
+            },
+            {
+              "name": "Michelin Cantonese Dim Sum",
+              "type": "lunch",
+              "coord": [
+                23.136537,
+                113.272668
+              ]
+            },
+            {
+              "name": "Guangzhou Roasted Meats Master",
+              "type": "sightseeing",
+              "coord": [
+                23.113829,
+                113.246186
+              ]
+            },
+            {
+              "name": "Yu Yue Heen",
+              "type": "dinner",
+              "coord": [
+                23.118437,
+                113.32322099999999
+              ]
+            },
+            {
+              "name": "Dessert and digestif at hotel lounge",
+              "type": "optional",
+              "coord": [
+                23.102532999999998,
+                113.370184
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 11 — Street Food Chronicles — Authentic Guangzhou",
+          "items": [
+            {
+              "name": "White Swan Hotel Guangzhou",
+              "type": "hotel",
+              "coord": [
+                23.105743,
+                113.24297299999999
+              ]
+            },
+            {
+              "name": "Guangzhou Congee King",
+              "type": "breakfast",
+              "coord": [
+                23.118132,
+                113.23939899999999
+              ]
+            },
+            {
+              "name": "Local market exploration",
+              "type": "sightseeing",
+              "coord": [
+                23.120905999999998,
+                113.237184
+              ]
+            },
+            {
+              "name": "Guangzhou Roasted Meats Master",
+              "type": "lunch",
+              "coord": [
+                23.113829,
+                113.246186
+              ]
+            },
+            {
+              "name": "Riverside walk and people watching",
+              "type": "sightseeing",
+              "coord": [
+                23.105743,
+                113.24297299999999
+              ]
+            },
+            {
+              "name": "Guangzhou Seafood Bazaar",
+              "type": "dinner",
+              "coord": [
+                23.10784,
+                113.238615
+              ]
+            },
+            {
+              "name": "Evening dessert crawl",
+              "type": "optional",
+              "coord": [
+                23.105743,
+                113.24297299999999
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "e": {
+      "name": "Romantic China (8 Days)",
+      "description": "Couples escape through Hangzhou's poetic lakes, Shanghai's art deco elegance, and Hong Kong's harbour romance.",
+      "days": [
+        {
+          "label": "Day 1 — West Lake Classics — Hangzhou",
+          "items": [
+            {
+              "name": "Hangzhou Amanfayun",
+              "type": "hotel",
+              "coord": [
+                30.237438999999995,
+                120.097404
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                30.237438999999995,
+                120.097404
+              ]
+            },
+            {
+              "name": "Hangzhou West Lake",
+              "type": "sightseeing",
+              "coord": [
+                30.2479326,
+                120.15026990000001
+              ]
+            },
+            {
+              "name": "Hangzhou Old Hangzhou Tea House",
+              "type": "lunch",
+              "coord": [
+                30.235303,
+                120.09747799999998
+              ]
+            },
+            {
+              "name": "Hangzhou Longjing Tea Ceremony",
+              "type": "sightseeing",
+              "coord": [
+                30.223355999999995,
+                120.108776
+              ]
+            },
+            {
+              "name": "Hangzhou Qinghefang Ancient Street",
+              "type": "shopping",
+              "coord": [
+                30.239607,
+                120.175461
+              ]
+            },
+            {
+              "name": "Hangzhou Song Dynasty Night Banquet",
+              "type": "dinner",
+              "coord": [
+                30.170564,
+                120.09770899999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Romance by the Lake — Hangzhou",
+          "items": [
+            {
+              "name": "Hangzhou Amanfayun",
+              "type": "hotel",
+              "coord": [
+                30.237438999999995,
+                120.097404
+              ]
+            },
+            {
+              "name": "Private breakfast",
+              "type": "breakfast",
+              "coord": [
+                30.237438999999995,
+                120.097404
+              ]
+            },
+            {
+              "name": "Hangzhou West Lake",
+              "type": "sightseeing",
+              "coord": [
+                30.2479326,
+                120.15026990000001
+              ]
+            },
+            {
+              "name": "Hangzhou Old Hangzhou Tea House",
+              "type": "lunch",
+              "coord": [
+                30.235303,
+                120.09747799999998
+              ]
+            },
+            {
+              "name": "Hangzhou Longjing Tea Ceremony",
+              "type": "sightseeing",
+              "coord": [
+                30.223355999999995,
+                120.108776
+              ]
+            },
+            {
+              "name": "Hangzhou West Lake Silk Market",
+              "type": "shopping",
+              "coord": [
+                30.216537,
+                120.17456200000001
+              ]
+            },
+            {
+              "name": "Hangzhou Song Dynasty Night Banquet",
+              "type": "dinner",
+              "coord": [
+                30.170564,
+                120.09770899999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Shanghai",
+          "items": [
+            {
+              "name": "Pudong Shangri-La",
+              "type": "hotel",
+              "coord": [
+                31.2354278,
+                121.49908210000001
+              ]
+            },
+            {
+              "name": "Morning high-speed train Hangzhou → Shanghai (1hr)",
+              "type": "info",
+              "coord": [
+                31.2354278,
+                121.49908210000001
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                30.237438999999995,
+                120.097404
+              ]
+            },
+            {
+              "name": "Jade Mansion",
+              "type": "dinner",
+              "coord": [
+                31.24,
+                121.4845
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Romantic Day — French Concession",
+          "items": [
+            {
+              "name": "Fairmont Peace Hotel",
+              "type": "hotel",
+              "coord": [
+                31.2390388,
+                121.4895427
+              ]
+            },
+            {
+              "name": "Shang-High Tea",
+              "type": "breakfast",
+              "coord": [
+                31.225015999999997,
+                121.490219
+              ]
+            },
+            {
+              "name": "French Concession Stroll",
+              "type": "sightseeing",
+              "coord": [
+                31.2146148,
+                121.4448405
+              ]
+            },
+            {
+              "name": "Chez Panisse Shanghai",
+              "type": "lunch",
+              "coord": [
+                31.2354931,
+                121.48395670000001
+              ]
+            },
+            {
+              "name": "Jing'an Temple",
+              "type": "sightseeing",
+              "coord": [
+                31.223518799999997,
+                121.445284
+              ]
+            },
+            {
+              "name": "Shanghai Museum",
+              "type": "sightseeing",
+              "coord": [
+                31.228330699999994,
+                121.47552780000001
+              ]
+            },
+            {
+              "name": "L'Atelier de Joël Robuchon",
+              "type": "dinner",
+              "coord": [
+                31.238,
+                121.5079
+              ]
+            },
+            {
+              "name": "The Bund (Waitan)",
+              "type": "optional",
+              "coord": [
+                31.240261099999998,
+                121.49057699999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Luxury Day — Ultimate Shanghai",
+          "items": [
+            {
+              "name": "Park Hyatt Shanghai",
+              "type": "hotel",
+              "coord": [
+                31.234732,
+                121.50764000000001
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                31.234732,
+                121.50764000000001
+              ]
+            },
+            {
+              "name": "Spa morning at hotel",
+              "type": "sightseeing",
+              "coord": [
+                31.234732,
+                121.50764000000001
+              ]
+            },
+            {
+              "name": "L'Atelier de Joël Robuchon",
+              "type": "lunch",
+              "coord": [
+                31.238,
+                121.5079
+              ]
+            },
+            {
+              "name": "Shanghai Museum",
+              "type": "sightseeing",
+              "coord": [
+                31.228330699999994,
+                121.47552780000001
+              ]
+            },
+            {
+              "name": "Shanghai Jing'an Wholesale Market",
+              "type": "shopping",
+              "coord": [
+                31.227899100000002,
+                121.487922
+              ]
+            },
+            {
+              "name": "Beefbar Shanghai",
+              "type": "dinner",
+              "coord": [
+                31.236722999999998,
+                121.501922
+              ]
+            },
+            {
+              "name": "Oriental Pearl TV Tower",
+              "type": "optional",
+              "coord": [
+                31.239688899999997,
+                121.49975529999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Travel to Hong Kong",
+          "items": [
+            {
+              "name": "Regent Hong Kong",
+              "type": "hotel",
+              "coord": [
+                22.2934362,
+                114.1739346
+              ]
+            },
+            {
+              "name": "Flight Shanghai → Hong Kong (2.5hr)",
+              "type": "info",
+              "coord": [
+                22.2934362,
+                114.1739346
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                31.234732,
+                121.50764000000001
+              ]
+            },
+            {
+              "name": "Ta Vie",
+              "type": "dinner",
+              "coord": [
+                22.282759300000002,
+                114.1553459
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Luxury Hong Kong — Peak Indulgence",
+          "items": [
+            {
+              "name": "Four Seasons Hong Kong",
+              "type": "hotel",
+              "coord": [
+                22.2863701,
+                114.1570412
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                22.2863701,
+                114.1570412
+              ]
+            },
+            {
+              "name": "Spa treatment at Four Seasons",
+              "type": "sightseeing",
+              "coord": [
+                22.2863701,
+                114.1570412
+              ]
+            },
+            {
+              "name": "Sushi Shikon",
+              "type": "lunch",
+              "coord": [
+                22.280523499999997,
+                114.1579388
+              ]
+            },
+            {
+              "name": "Traditional Chinese Junk Cruise",
+              "type": "sightseeing",
+              "coord": [
+                20.9607127,
+                107.06257339999999
+              ]
+            },
+            {
+              "name": "Ta Vie",
+              "type": "dinner",
+              "coord": [
+                22.282759300000002,
+                114.1553459
+              ]
+            },
+            {
+              "name": "Cocktails with harbour views",
+              "type": "optional",
+              "coord": [
+                22.2863701,
+                114.1570412
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Maritime Hong Kong — Harbour Circuit",
+          "items": [
+            {
+              "name": "Regent Hong Kong",
+              "type": "hotel",
+              "coord": [
+                22.2934362,
+                114.1739346
+              ]
+            },
+            {
+              "name": "Hotel breakfast with harbour views",
+              "type": "breakfast",
+              "coord": [
+                22.2934362,
+                114.1739346
+              ]
+            },
+            {
+              "name": "Hong Kong Star Ferry Heritage Ride",
+              "type": "sightseeing",
+              "coord": [
+                22.2871502,
+                114.1612735
+              ]
+            },
+            {
+              "name": "Lung King Heen",
+              "type": "lunch",
+              "coord": [
+                22.2864276,
+                114.15705439999999
+              ]
+            },
+            {
+              "name": "Traditional Chinese Junk Cruise",
+              "type": "sightseeing",
+              "coord": [
+                20.9607127,
+                107.06257339999999
+              ]
+            },
+            {
+              "name": "Amber at Mandarin Oriental",
+              "type": "dinner",
+              "coord": [
+                22.2809128,
+                114.15781770000001
+              ]
+            },
+            {
+              "name": "Symphony of Lights Harbour Show",
+              "type": "optional",
+              "coord": [
+                22.293005200000003,
+                114.1739717
               ]
             }
           ]

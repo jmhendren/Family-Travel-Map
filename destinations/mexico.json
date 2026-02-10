@@ -5744,1524 +5744,193 @@
   },
   "itineraryData": {
     "a": {
-      "name": "Greatest Hits",
-      "color": "#2563EB",
+      "name": "Greatest Hits (7 Days)",
+      "description": "First-timer journey from ancient pyramids and modern Mexico City through colonial Puebla to Caribbean beaches and Maya ruins.",
       "days": [
         {
-          "day": 1,
-          "title": "Mexico City Arrival & Historic Center",
+          "label": "Day 1 — Greatest Hits — Historic Center & Chapultepec",
           "items": [
             {
+              "name": "Downtown Mexico City",
               "type": "hotel",
-              "name": "Four Seasons Mexico City",
               "coord": [
-                19.4232659,
-                -99.17437129999999
+                19.4357068,
+                -99.131757
               ]
             },
             {
-              "type": "lunch",
-              "name": "Pujol",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                19.432376299999998,
-                -99.1948132
+                19.4357068,
+                -99.131757
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Templo Mayor",
+              "type": "sightseeing",
               "coord": [
                 19.434603799999998,
                 -99.13188099999999
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Palacio Nacional",
+              "type": "sightseeing",
               "coord": [
                 19.4328868,
                 -99.1313531
               ]
             },
             {
-              "type": "dinner",
-              "name": "Quintonil",
+              "name": "Punto MX",
+              "type": "lunch",
               "coord": [
-                19.4308408,
-                -99.1917115
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Museums & Anthropology",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Casa Campos",
-              "coord": [
-                19.4332852,
-                -99.13554579999999
+                19.4305803,
+                -99.1376657
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Museo de Antropología",
+              "type": "sightseeing",
               "coord": [
                 19.426003200000004,
                 -99.1862786
               ]
             },
             {
+              "name": "Castillo de Chapultepec",
               "type": "sightseeing",
-              "name": "Chapultepec Park",
               "coord": [
-                19.4194815,
-                -99.18945579999999
+                19.4204397,
+                -99.181935
               ]
             },
             {
-              "type": "lunch",
               "name": "Contramar",
+              "type": "dinner",
               "coord": [
                 19.4195793,
                 -99.1671526
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Frida Kahlo Museum",
-              "coord": [
-                19.4159,
-                -99.1461
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Sud 777",
-              "coord": [
-                19.3090281,
-                -99.2093428
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Teotihuacán Pyramids",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Four Seasons Mexico City",
-              "coord": [
-                19.4232659,
-                -99.17437129999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Teotihuacán",
-              "coord": [
-                19.6860799,
-                -98.87163609999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Local restaurant near Teotihuacán",
-              "coord": [
-                19.69,
-                -98.844
-              ]
-            },
-            {
+              "name": "Bellas Artes Palace",
               "type": "optional",
-              "name": "Xochimilco Floating Gardens",
               "coord": [
-                19.2756,
-                -99.097
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Rosetta",
-              "coord": [
-                19.4197758,
-                -99.1598009
+                19.4352,
+                -99.1412
               ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Oaxaca Cultural Immersion",
+          "label": "Day 2 — Market Day — Historic Center & Beyond",
           "items": [
             {
+              "name": "Downtown Mexico City",
               "type": "hotel",
-              "name": "Casa Cinnamon",
               "coord": [
-                17.068796799999998,
-                -96.71785229999999
+                19.4357068,
+                -99.131757
               ]
             },
             {
-              "type": "lunch",
-              "name": "Casa Oaxaca",
-              "coord": [
-                17.065218299999998,
-                -96.7222793
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Monte Albán",
-              "coord": [
-                17.046592699999998,
-                -96.76588439999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Mercado Benito Juárez",
-              "coord": [
-                17.0675,
-                -96.7245
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Donají",
-              "coord": [
-                17.0564781,
-                -96.72985829999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Oaxaca Markets & Mezcal",
-          "items": [
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Cafetería Brújula",
               "coord": [
-                17.0625852,
-                -96.72436710000001
+                19.4357068,
+                -99.131757
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Central de Abastos Market",
-              "coord": [
-                17.07,
-                -96.72
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Abacus Oaxaca",
-              "coord": [
-                17.0647238,
-                -96.7248565
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Mezcal Distillery Tours",
-              "coord": [
-                17.065,
-                -96.726
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Guelaguetza",
-              "coord": [
-                17.0686803,
-                -96.73102
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Tulum Beaches & Cenotes",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Azulik Tulum",
-              "coord": [
-                20.179156,
-                -87.4456393
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Hartwood",
-              "coord": [
-                20.149875599999998,
-                -87.459374
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Tulum Ruins",
-              "coord": [
-                20.2149504,
-                -87.4294212
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cenote Swimming",
-              "coord": [
-                20.21,
-                -87.46
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Los Tacos de Pablo",
-              "coord": [
-                20.7273276,
-                -103.39314279999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Riviera Maya & Departure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Azulik Tulum",
-              "coord": [
-                20.179156,
-                -87.4456393
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Xcaret Park",
-              "coord": [
-                20.5809134,
-                -87.119698
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Playa Blanca",
-              "coord": [
-                20.6641055,
-                -87.0702449
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Chichén Itzá",
-              "coord": [
-                20.684284899999998,
-                -88.5677826
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest at hotel",
-              "coord": [
-                20.233,
-                -87.389
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Restaurante Bar El Capitán",
-              "coord": [
-                20.210382199999998,
-                -87.4520433
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "b": {
-      "name": "Hidden Gems",
-      "color": "#059669",
-      "days": [
-        {
-          "day": 1,
-          "title": "San Miguel de Allende Arrival",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Belmond Casa de Sierra Nevada",
-              "coord": [
-                20.9127691,
-                -100.74231789999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Café Santa Ana",
-              "coord": [
-                20.916864399999998,
-                -100.7431936
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "San Miguel Galleries & Churches",
-              "coord": [
-                20.914,
-                -100.7515
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Mi Cocina",
-              "coord": [
-                20.920625,
-                -100.7563105
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "San Miguel Markets & Arts",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Luna Café",
-              "coord": [
-                20.9183563,
-                -100.74922649999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Bazar del Sábado",
-              "coord": [
-                20.91,
-                -100.76
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Coni",
-              "coord": [
-                21.080014400000003,
-                -101.6504303
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Artisan Studios",
-              "coord": [
-                20.914,
-                -100.752
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "El Pegote",
-              "coord": [
-                -34.3798963,
-                -58.5832368
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Guanajuato Colorful City",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Misión Guanajuato",
-              "coord": [
-                21.0094623,
-                -101.273056
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Casa del Conde",
-              "coord": [
-                21.017076799999998,
-                -101.2543807
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Guanajuato Historic Center",
-              "coord": [
-                21.016,
-                -101.256
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Silver Mining Heritage",
-              "coord": [
-                21.015,
-                -101.257
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Restaurante Guanajuato",
-              "coord": [
-                21.0159928,
-                -101.2513498
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Guanajuato Exploration",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Taco Taco Cafe",
-              "coord": [
-                21.017309299999997,
-                -101.2570968
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cable Car Rides",
-              "coord": [
-                21.0154,
-                -101.2567
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Casa del Conde",
-              "coord": [
-                21.017076799999998,
-                -101.2543807
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Mineral Museum",
-              "coord": [
-                21.016,
-                -101.256
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Restaurante Guanajuato",
-              "coord": [
-                21.0159928,
-                -101.2513498
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Oaxaca Artisan Heart",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Coyote Nativo Oaxaca",
-              "coord": [
-                17.067392899999998,
-                -96.71750929999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Casa Crespo Restaurant",
-              "coord": [
-                17.069992799999998,
-                -96.7210015
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Textile Markets (San Cristóbal)",
-              "coord": [
-                16.7282,
-                -92.6376
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Hidalgo",
-              "coord": [
-                17.051425599999998,
-                -96.7268204
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Oaxaca Food & Culture",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Cafetería Brújula",
-              "coord": [
-                17.0625852,
-                -96.72436710000001
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Mezcal Distillery Tours",
-              "coord": [
-                17.065,
-                -96.726
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Mezcaleria Zig-Zag",
-              "coord": [
-                17.0622837,
-                -96.72198490000001
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Chocolate Workshops",
-              "coord": [
-                17.064,
-                -96.728
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Abacus Oaxaca",
-              "coord": [
-                17.0647238,
-                -96.7248565
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Relaxation & Departure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Ho'okah Boutique Hotel",
-              "coord": [
-                39.6646962,
-                20.848853599999998
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Optional spa or artisan shopping",
-              "coord": [
-                17.065,
-                -96.726
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Casa Oaxaca",
-              "coord": [
-                17.065218299999998,
-                -96.7222793
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Final market exploration",
-              "coord": [
-                17.0675,
-                -96.7245
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest before travel",
-              "coord": [
-                17.0643,
-                -96.7278
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "c": {
-      "name": "Family Comfort",
-      "color": "#D97706",
-      "days": [
-        {
-          "day": 1,
-          "title": "Mexico City Arrival & Chapultepec",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Four Seasons Mexico City",
-              "coord": [
-                19.4232659,
-                -99.17437129999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Rosetta",
-              "coord": [
-                19.4197758,
-                -99.1598009
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Chapultepec Park",
-              "coord": [
-                19.4194815,
-                -99.18945579999999
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest at hotel",
-              "coord": [
-                19.431,
-                -99.1898
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Family-friendly restaurant",
-              "coord": [
-                19.43,
-                -99.15
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Museums & Zoo",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Four Seasons Mexico City",
-              "coord": [
-                19.4232659,
-                -99.17437129999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Zoo of Mexico City",
-              "coord": [
-                19.423208499999998,
-                -99.1895256
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Mercado Roma",
-              "coord": [
-                19.414186,
-                -99.16455470000001
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Museo de Arte Popular",
-              "coord": [
-                19.433735199999997,
-                -99.1462978
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest",
-              "coord": [
-                19.431,
-                -99.1898
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Blanco Colima",
-              "coord": [
-                19.419712399999998,
-                -99.15989359999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Frida Kahlo & Floating Gardens",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Four Seasons Mexico City",
-              "coord": [
-                19.4232659,
-                -99.17437129999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Frida Kahlo Museum",
-              "coord": [
-                19.4159,
-                -99.1461
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tamayo",
-              "coord": [
-                19.4607762,
-                -99.1423348
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Xochimilco Boat Tours",
-              "coord": [
-                19.2646808,
-                -99.1079586
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Evening rest",
-              "coord": [
-                19.431,
-                -99.1898
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Casual family dinner",
-              "coord": [
-                19.43,
-                -99.15
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Teotihuacán Adventure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Four Seasons Mexico City",
-              "coord": [
-                19.4232659,
-                -99.17437129999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Teotihuacán",
-              "coord": [
-                19.6860799,
-                -98.87163609999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Local restaurant near Teotihuacán",
-              "coord": [
-                19.69,
-                -98.844
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest at hotel",
-              "coord": [
-                19.431,
-                -99.1898
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Garibaldi Plaza Mariachi",
-              "coord": [
-                19.4406,
-                -99.1335
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Perico",
-              "coord": [
-                19.3897397,
-                -99.15959319999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Travel to Tulum, Beach Arrival",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Four Seasons Mexico City",
-              "coord": [
-                19.4232659,
-                -99.17437129999999
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Mahekal Beach Resort",
-              "coord": [
-                20.633880599999998,
-                -87.0637747
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Taco Stand Paradise",
-              "coord": [
-                39.7493829,
-                -121.6326759
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Beach time and relaxation",
-              "coord": [
-                20.2115,
-                -87.4654
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon beach rest",
-              "coord": [
-                20.1996,
-                -87.461
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Restaurante Bar El Capitán",
-              "coord": [
-                20.210382199999998,
-                -87.4520433
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Tulum Ruins & Cenotes",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Mahekal Beach Resort",
-              "coord": [
-                20.633880599999998,
-                -87.0637747
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Tulum Ruins",
-              "coord": [
-                20.2149504,
-                -87.4294212
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Los Tacos de Pablo",
-              "coord": [
-                20.7273276,
-                -103.39314279999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cenote Swimming",
-              "coord": [
-                20.21,
-                -87.46
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest and beach time",
-              "coord": [
-                20.1996,
-                -87.461
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Hartwood",
-              "coord": [
-                20.149875599999998,
-                -87.459374
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Xcaret Eco-Park Family Day",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Mahekal Beach Resort",
-              "coord": [
-                20.633880599999998,
-                -87.0637747
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Xcaret Park",
-              "coord": [
-                20.5809134,
-                -87.119698
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Xcaret on-site dining",
-              "coord": [
-                20.64,
-                -87.06
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Water activities and shows",
-              "coord": [
-                20.64,
-                -87.06
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest",
-              "coord": [
-                20.1996,
-                -87.461
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Playa Blanca",
-              "coord": [
-                20.6641055,
-                -87.0702449
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Chichén Itzá & Beach",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Mahekal Beach Resort",
-              "coord": [
-                20.633880599999998,
-                -87.0637747
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Chichén Itzá",
-              "coord": [
-                20.684284899999998,
-                -88.5677826
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Local restaurant near Chichén Itzá",
-              "coord": [
-                20.6829,
-                -87.5479
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Return to Tulum beach",
-              "coord": [
-                20.2115,
-                -87.4654
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Evening rest",
-              "coord": [
-                20.1996,
-                -87.461
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Ki'bok Coffee area dinner",
-              "coord": [
-                20.2115,
-                -87.461
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Xel-Há Park Adventure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Mahekal Beach Resort",
-              "coord": [
-                20.633880599999998,
-                -87.0637747
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Xel-Há Water Park",
-              "coord": [
-                20.3193587,
-                -87.3578124
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Xel-Há on-site dining",
-              "coord": [
-                20.3514,
-                -87.3214
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Snorkeling and swimming",
-              "coord": [
-                20.3514,
-                -87.3214
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest",
-              "coord": [
-                20.1996,
-                -87.461
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Beach casual dinner",
-              "coord": [
-                20.2115,
-                -87.4654
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Relaxation & Departure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Mahekal Beach Resort",
-              "coord": [
-                20.633880599999998,
-                -87.0637747
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Final beach time or shopping",
-              "coord": [
-                20.2115,
-                -87.4654
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Favorite restaurant revisit",
-              "coord": [
-                20.2102,
-                -87.4624
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Artisan market shopping",
-              "coord": [
-                20.218,
-                -87.44
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest before travel",
-              "coord": [
-                20.1996,
-                -87.461
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Farewell dinner",
-              "coord": [
-                20.2115,
-                -87.4654
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "d": {
-      "name": "Foodie Deep-Dive",
-      "color": "#DC2626",
-      "days": [
-        {
-          "day": 1,
-          "title": "Mexico City Pujol Experience",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Condesa DF",
-              "coord": [
-                19.4149803,
-                -99.17744619999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Rosetta",
-              "coord": [
-                19.4197758,
-                -99.1598009
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Mercado de la Merced",
+              "type": "sightseeing",
               "coord": [
                 19.426112399999997,
                 -99.1251527
               ]
             },
             {
-              "type": "dinner",
-              "name": "Pujol",
-              "coord": [
-                19.432376299999998,
-                -99.1948132
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Fine Dining & Markets",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Café Santa Ana style spot",
-              "coord": [
-                19.433,
-                -99.1665
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Mercado Roma",
-              "coord": [
-                19.414186,
-                -99.16455470000001
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Quintonil",
-              "coord": [
-                19.4308408,
-                -99.1917115
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "La Lagunilla Market",
+              "type": "shopping",
               "coord": [
                 19.4432808,
                 -99.1361326
               ]
             },
             {
-              "type": "dinner",
-              "name": "Sud 777",
-              "coord": [
-                19.3090281,
-                -99.2093428
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Seafood & Chef Cuisine",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Local café",
-              "coord": [
-                19.43,
-                -99.15
-              ]
-            },
-            {
+              "name": "Xoco",
               "type": "lunch",
-              "name": "Contramar",
               "coord": [
-                19.4195793,
-                -99.1671526
+                19.359955900000003,
+                -99.16252999999999
               ]
             },
             {
+              "name": "Museo de Arte Popular",
               "type": "sightseeing",
-              "name": "Frida Kahlo Museum",
               "coord": [
-                19.4159,
-                -99.1461
+                19.433735199999997,
+                -99.1462978
               ]
             },
             {
-              "type": "dinner",
-              "name": "Máximo Bistrot",
+              "name": "Papier-Mâché Workshops (Mexico City)",
+              "type": "shopping",
               "coord": [
-                19.4189482,
-                -99.1580841
+                19.429593099999998,
+                -99.13089370000002
+              ]
+            },
+            {
+              "name": "Dezeen",
+              "type": "dinner",
+              "coord": [
+                19.4318,
+                -99.1645
+              ]
+            },
+            {
+              "name": "Garibaldi Plaza (Mariachi Music)",
+              "type": "optional",
+              "coord": [
+                19.4406739,
+                -99.1391089
               ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Michelin Stars & Innovation",
+          "label": "Day 3 — Travel to Puebla",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Condesa DF",
-              "coord": [
-                19.4149803,
-                -99.17744619999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Merotoro",
-              "coord": [
-                19.4096588,
-                -99.1698509
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Museo de Antropología",
-              "coord": [
-                19.426003200000004,
-                -99.1862786
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Biko",
-              "coord": [
-                19.6231898,
-                -99.1598647
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Oaxaca Mole & Mezcal",
-          "items": [
-            {
+              "name": "Puebla Boutique Hotel",
               "type": "hotel",
-              "name": "Casa Cinnamon",
               "coord": [
-                17.068796799999998,
-                -96.71785229999999
+                19.0402155,
+                -98.1994062
               ]
             },
             {
-              "type": "lunch",
-              "name": "Donají",
+              "name": "Morning bus to Puebla (2hr drive)",
+              "type": "info",
               "coord": [
-                17.0564781,
-                -96.72985829999999
+                19.0402155,
+                -98.1994062
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Central de Abastos Market",
-              "coord": [
-                17.07,
-                -96.72
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Casa Oaxaca",
-              "coord": [
-                17.065218299999998,
-                -96.7222793
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Mole Mastery & Artisanal Spirits",
-          "items": [
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Cafetería Brújula",
               "coord": [
-                17.0625852,
-                -96.72436710000001
+                19.4357068,
+                -99.131757
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Mezcal Distillery Tours",
-              "coord": [
-                17.065,
-                -96.726
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Abacus Oaxaca",
-              "coord": [
-                17.0647238,
-                -96.7248565
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Chocolate Workshops",
-              "coord": [
-                17.064,
-                -96.728
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Hidalgo",
-              "coord": [
-                17.051425599999998,
-                -96.7268204
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Puebla Cuisine & Mole",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Royalty Puebla",
-              "coord": [
-                19.044289,
-                -98.1981065
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "El Mole Pipián",
-              "coord": [
-                19.0521945,
-                -98.20036429999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Mercado del Carmen",
-              "coord": [
-                19.034,
-                -98.2075
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Casa Santo Domingo",
-              "coord": [
-                14.5585993,
-                -90.7279093
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Puebla Traditional Flavors",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel Royalty Puebla",
-              "coord": [
-                19.044289,
-                -98.1981065
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "La Pasita sweets tradition",
-              "coord": [
-                19.033,
-                -98.2065
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Revistazo",
-              "coord": [
-                19.035,
-                -98.2085
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Mercado 20 de Noviembre (Oaxaca)",
-              "coord": [
-                17.058032700000002,
-                -96.72708519999999
-              ]
-            },
-            {
-              "type": "dinner",
               "name": "Mercadito",
+              "type": "dinner",
               "coord": [
                 19.0334778,
                 -98.2011598
@@ -7270,126 +5939,415 @@
           ]
         },
         {
-          "day": 9,
-          "title": "Yucatán Distinct Cuisine",
+          "label": "Day 4 — Colonial Heritage — Puebla Historic Center",
           "items": [
             {
+              "name": "Hotel Royalty Puebla",
               "type": "hotel",
-              "name": "Merida Jim's House",
               "coord": [
-                20.9773659,
-                -89.6329444
+                19.044289,
+                -98.1981065
               ]
             },
             {
-              "type": "lunch",
-              "name": "La Chaya Maya",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                20.9699203,
-                -89.62389189999999
+                19.044289,
+                -98.1981065
               ]
             },
             {
+              "name": "Puebla Historic Center walk",
               "type": "sightseeing",
-              "name": "Mercado Lucas de Galvez",
               "coord": [
-                20.969,
-                -89.625
+                19.044289,
+                -98.1981065
               ]
             },
             {
-              "type": "dinner",
-              "name": "Casa Kin",
+              "name": "El Mole Pipián",
+              "type": "lunch",
               "coord": [
-                20.9606457,
-                -89.62725590000001
+                19.0521945,
+                -98.20036429999999
+              ]
+            },
+            {
+              "name": "Mercado del Carmen (Puebla)",
+              "type": "shopping",
+              "coord": [
+                19.0356859,
+                -98.2011297
+              ]
+            },
+            {
+              "name": "Mercadito",
+              "type": "dinner",
+              "coord": [
+                19.0334778,
+                -98.2011598
+              ]
+            },
+            {
+              "name": "La Pasita",
+              "type": "optional",
+              "coord": [
+                19.043311,
+                -98.201166
               ]
             }
           ]
         },
         {
-          "day": 10,
-          "title": "Cochinita Pibil & Regional Specialties",
+          "label": "Day 5 — Travel to Riviera Maya",
           "items": [
             {
+              "name": "La Posada Tulum",
+              "type": "hotel",
+              "coord": [
+                20.1775071,
+                -87.4464081
+              ]
+            },
+            {
+              "name": "Flight to Playa del Carmen (2.5hr flight)",
+              "type": "info",
+              "coord": [
+                20.1775071,
+                -87.4464081
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Merida Jim's House",
               "coord": [
-                20.9773659,
-                -89.6329444
+                19.044289,
+                -98.1981065
               ]
             },
             {
-              "type": "lunch",
-              "name": "Tacos de Cochinita Pibil",
-              "coord": [
-                20.9637367,
-                -89.6209197
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Casa Lucia cooking class",
-              "coord": [
-                20.967,
-                -89.626
-              ]
-            },
-            {
+              "name": "Ki'bok Coffee Tulum",
               "type": "dinner",
-              "name": "Restaurante Merida 60",
               "coord": [
-                20.9730944,
-                -89.62204419999999
+                20.207486300000003,
+                -87.4735795
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Tulum Highlights — Tulum",
+          "items": [
+            {
+              "name": "La Posada Tulum",
+              "type": "hotel",
+              "coord": [
+                20.1775071,
+                -87.4464081
+              ]
+            },
+            {
+              "name": "Ki'bok Coffee Tulum",
+              "type": "breakfast",
+              "coord": [
+                20.207486300000003,
+                -87.4735795
+              ]
+            },
+            {
+              "name": "Tulum Ruins",
+              "type": "sightseeing",
+              "coord": [
+                20.2149504,
+                -87.4294212
+              ]
+            },
+            {
+              "name": "Restaurante Bar El Capitán",
+              "type": "lunch",
+              "coord": [
+                20.210382199999998,
+                -87.4520433
+              ]
+            },
+            {
+              "name": "Cenote Swimming (Tulum)",
+              "type": "sightseeing",
+              "coord": [
+                20.246581799999998,
+                -87.464201
+              ]
+            },
+            {
+              "name": "Hartwood",
+              "type": "dinner",
+              "coord": [
+                20.149875599999998,
+                -87.459374
+              ]
+            },
+            {
+              "name": "Beach walk at sunset",
+              "type": "optional",
+              "coord": [
+                20.1775071,
+                -87.4464081
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Maya Heritage — Tulum & Riviera Maya",
+          "items": [
+            {
+              "name": "Azulik Tulum",
+              "type": "hotel",
+              "coord": [
+                20.179156,
+                -87.4456393
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                20.179156,
+                -87.4456393
+              ]
+            },
+            {
+              "name": "Tulum Ruins",
+              "type": "sightseeing",
+              "coord": [
+                20.2149504,
+                -87.4294212
+              ]
+            },
+            {
+              "name": "Restaurante Bar El Capitán",
+              "type": "lunch",
+              "coord": [
+                20.210382199999998,
+                -87.4520433
+              ]
+            },
+            {
+              "name": "Aktun Chen Cave",
+              "type": "sightseeing",
+              "coord": [
+                20.3607561,
+                -87.3418209
+              ]
+            },
+            {
+              "name": "Taco Stand Paradise",
+              "type": "dinner",
+              "coord": [
+                20.212,
+                -87.46
+              ]
+            },
+            {
+              "name": "Art installations at hotel",
+              "type": "optional",
+              "coord": [
+                20.179156,
+                -87.4456393
               ]
             }
           ]
         }
       ]
     },
-    "e": {
-      "name": "Grand Tour",
-      "color": "#7C3AED",
+    "b": {
+      "name": "Family Comfort (10 Days)",
+      "description": "Multi-generational adventure featuring kid-friendly activities in Mexico City, Puebla, and the Riviera Maya with comfortable 2-3 night stays.",
       "days": [
         {
-          "day": 1,
-          "title": "Mexico City Arrival & Historic Center",
+          "label": "Day 1 — Family Day — Teotihuacán & Xochimilco",
           "items": [
             {
+              "name": "Casa Campos",
               "type": "hotel",
+              "coord": [
+                19.4332852,
+                -99.13554579999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                19.4332852,
+                -99.13554579999999
+              ]
+            },
+            {
+              "name": "Teotihuacán",
+              "type": "sightseeing",
+              "coord": [
+                19.6860799,
+                -98.87163609999999
+              ]
+            },
+            {
+              "name": "Teotihuacán Artisan Market",
+              "type": "shopping",
+              "coord": [
+                19.690459,
+                -98.851507
+              ]
+            },
+            {
+              "name": "Brindis",
+              "type": "lunch",
+              "coord": [
+                19.4866436,
+                -99.1264406
+              ]
+            },
+            {
+              "name": "Rest time at hotel",
+              "type": "nap",
+              "coord": [
+                19.4332852,
+                -99.13554579999999
+              ]
+            },
+            {
+              "name": "Xochimilco Boat Tours",
+              "type": "sightseeing",
+              "coord": [
+                19.2646808,
+                -99.1079586
+              ]
+            },
+            {
+              "name": "Perico",
+              "type": "dinner",
+              "coord": [
+                19.3897397,
+                -99.15959319999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Nature Day — Chapultepec & Beyond",
+          "items": [
+            {
               "name": "St. Regis Mexico City",
+              "type": "hotel",
               "coord": [
                 19.4256338,
                 -99.1720892
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                19.4256338,
+                -99.1720892
+              ]
+            },
+            {
+              "name": "Chapultepec Park",
+              "type": "sightseeing",
+              "coord": [
+                19.4194815,
+                -99.18945579999999
+              ]
+            },
+            {
+              "name": "Zoo of Mexico City",
+              "type": "sightseeing",
+              "coord": [
+                19.423208499999998,
+                -99.1895256
+              ]
+            },
+            {
+              "name": "Mercado Chapultepec (Mexico City)",
               "type": "lunch",
+              "coord": [
+                19.410681699999998,
+                -99.1904983
+              ]
+            },
+            {
+              "name": "Rest time at hotel",
+              "type": "nap",
+              "coord": [
+                19.4256338,
+                -99.1720892
+              ]
+            },
+            {
+              "name": "Xochimilco",
+              "type": "sightseeing",
+              "coord": [
+                19.2572314,
+                -99.1029664
+              ]
+            },
+            {
+              "name": "Ultramarinos DeMAR",
+              "type": "dinner",
+              "coord": [
+                19.423471499999998,
+                -99.1586808
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Free morning & afternoon departure to Puebla",
+          "items": [
+            {
+              "name": "St. Regis Mexico City",
+              "type": "hotel",
+              "coord": [
+                19.4256338,
+                -99.1720892
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                19.4256338,
+                -99.1720892
+              ]
+            },
+            {
+              "name": "Free morning to explore Mexico City",
+              "type": "sightseeing",
+              "coord": [
+                19.4256338,
+                -99.1720892
+              ]
+            },
+            {
               "name": "Pujol",
+              "type": "lunch",
               "coord": [
                 19.432376299999998,
                 -99.1948132
               ]
             },
             {
+              "name": "Free afternoon",
               "type": "sightseeing",
-              "name": "Templo Mayor",
               "coord": [
-                19.434603799999998,
-                -99.13188099999999
+                19.4256338,
+                -99.1720892
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Palacio Nacional",
-              "coord": [
-                19.4328868,
-                -99.1313531
-              ]
-            },
-            {
-              "type": "dinner",
               "name": "Quintonil",
+              "type": "dinner",
               "coord": [
                 19.4308408,
                 -99.1917115
@@ -7398,320 +6356,1269 @@
           ]
         },
         {
-          "day": 2,
-          "title": "Museums & Anthropology",
+          "label": "Day 4 — Travel to Puebla",
           "items": [
             {
+              "name": "Puebla Boutique Hotel",
+              "type": "hotel",
+              "coord": [
+                19.0402155,
+                -98.1994062
+              ]
+            },
+            {
+              "name": "Afternoon bus to Puebla (2hr drive)",
+              "type": "info",
+              "coord": [
+                19.0402155,
+                -98.1994062
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "St. Regis Mexico City",
               "coord": [
                 19.4256338,
                 -99.1720892
               ]
             },
             {
+              "name": "Mercadito",
+              "type": "dinner",
+              "coord": [
+                19.0334778,
+                -98.2011598
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Family Day — Puebla Center",
+          "items": [
+            {
+              "name": "Hotel Royalty Puebla",
+              "type": "hotel",
+              "coord": [
+                19.044289,
+                -98.1981065
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                19.044289,
+                -98.1981065
+              ]
+            },
+            {
+              "name": "Mercado del Carmen (Puebla)",
               "type": "sightseeing",
+              "coord": [
+                19.0356859,
+                -98.2011297
+              ]
+            },
+            {
+              "name": "El Mole Pipián",
+              "type": "lunch",
+              "coord": [
+                19.0521945,
+                -98.20036429999999
+              ]
+            },
+            {
+              "name": "Afternoon rest",
+              "type": "nap",
+              "coord": [
+                19.044289,
+                -98.1981065
+              ]
+            },
+            {
+              "name": "La Pasita",
+              "type": "shopping",
+              "coord": [
+                19.043311,
+                -98.201166
+              ]
+            },
+            {
+              "name": "Revistazo",
+              "type": "dinner",
+              "coord": [
+                19.035,
+                -98.2085
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Street Eats — Puebla Markets",
+          "items": [
+            {
+              "name": "Hotel Royalty Puebla",
+              "type": "hotel",
+              "coord": [
+                19.044289,
+                -98.1981065
+              ]
+            },
+            {
+              "name": "Market breakfast",
+              "type": "breakfast",
+              "coord": [
+                19.0356859,
+                -98.2011297
+              ]
+            },
+            {
+              "name": "Mercado del Carmen (Puebla)",
+              "type": "sightseeing",
+              "coord": [
+                19.0356859,
+                -98.2011297
+              ]
+            },
+            {
+              "name": "Mercadito",
+              "type": "lunch",
+              "coord": [
+                19.0334778,
+                -98.2011598
+              ]
+            },
+            {
+              "name": "Street food tour",
+              "type": "sightseeing",
+              "coord": [
+                19.044289,
+                -98.1981065
+              ]
+            },
+            {
+              "name": "El Mole Pipián",
+              "type": "dinner",
+              "coord": [
+                19.0521945,
+                -98.20036429999999
+              ]
+            },
+            {
+              "name": "La Pasita",
+              "type": "optional",
+              "coord": [
+                19.043311,
+                -98.201166
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Travel to Riviera Maya",
+          "items": [
+            {
+              "name": "La Posada Tulum",
+              "type": "hotel",
+              "coord": [
+                20.1775071,
+                -87.4464081
+              ]
+            },
+            {
+              "name": "Morning flight to Cancún (2.5hr flight)",
+              "type": "info",
+              "coord": [
+                20.1775071,
+                -87.4464081
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                19.044289,
+                -98.1981065
+              ]
+            },
+            {
+              "name": "Ki'bok Coffee Tulum",
+              "type": "dinner",
+              "coord": [
+                20.207486300000003,
+                -87.4735795
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Xcaret Family Day — Riviera Maya",
+          "items": [
+            {
+              "name": "Barceló Maya Tropical",
+              "type": "hotel",
+              "coord": [
+                20.4912419,
+                -87.2426301
+              ]
+            },
+            {
+              "name": "Hotel breakfast buffet",
+              "type": "breakfast",
+              "coord": [
+                20.4912419,
+                -87.2426301
+              ]
+            },
+            {
+              "name": "Xcaret Park",
+              "type": "sightseeing",
+              "coord": [
+                20.5809134,
+                -87.119698
+              ]
+            },
+            {
+              "name": "Lunch at Xcaret Park",
+              "type": "lunch",
+              "coord": [
+                20.5809134,
+                -87.119698
+              ]
+            },
+            {
+              "name": "Quiet time at hotel",
+              "type": "nap",
+              "coord": [
+                20.4912419,
+                -87.2426301
+              ]
+            },
+            {
+              "name": "Playa Maya Beach (Riviera Maya)",
+              "type": "sightseeing",
+              "coord": [
+                20.6251334,
+                -87.07214189999999
+              ]
+            },
+            {
+              "name": "The Taco Spot",
+              "type": "dinner",
+              "coord": [
+                20.6275227,
+                -87.0708963
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Family Day — Cancún",
+          "items": [
+            {
+              "name": "Moon Palace Cancun",
+              "type": "hotel",
+              "coord": [
+                20.9886511,
+                -86.826701
+              ]
+            },
+            {
+              "name": "Hotel breakfast buffet",
+              "type": "breakfast",
+              "coord": [
+                20.9886511,
+                -86.826701
+              ]
+            },
+            {
+              "name": "Aquarium Interactive Cancun",
+              "type": "sightseeing",
+              "coord": [
+                21.1094311,
+                -86.7643231
+              ]
+            },
+            {
+              "name": "Casual lunch near aquarium",
+              "type": "lunch",
+              "coord": [
+                21.1094311,
+                -86.7643231
+              ]
+            },
+            {
+              "name": "Afternoon nap and quiet time",
+              "type": "nap",
+              "coord": [
+                20.9886511,
+                -86.826701
+              ]
+            },
+            {
+              "name": "Pool time at resort",
+              "type": "sightseeing",
+              "coord": [
+                20.9886511,
+                -86.826701
+              ]
+            },
+            {
+              "name": "Family dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                20.9886511,
+                -86.826701
+              ]
+            },
+            {
+              "name": "Evening beach walk",
+              "type": "optional",
+              "coord": [
+                20.9886511,
+                -86.826701
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Toddler Day — Cancún & Isla Mujeres",
+          "items": [
+            {
+              "name": "Moon Palace Cancun",
+              "type": "hotel",
+              "coord": [
+                20.9886511,
+                -86.826701
+              ]
+            },
+            {
+              "name": "Leisurely hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                20.9886511,
+                -86.826701
+              ]
+            },
+            {
+              "name": "Isla Mujeres Beach",
+              "type": "sightseeing",
+              "coord": [
+                21.261035099999997,
+                -86.75088099999999
+              ]
+            },
+            {
+              "name": "Lunch at island cafe",
+              "type": "lunch",
+              "coord": [
+                21.261035099999997,
+                -86.75088099999999
+              ]
+            },
+            {
+              "name": "Nap time at hotel",
+              "type": "nap",
+              "coord": [
+                20.9886511,
+                -86.826701
+              ]
+            },
+            {
+              "name": "Aquarium Interactive Cancun",
+              "type": "sightseeing",
+              "coord": [
+                21.1094311,
+                -86.7643231
+              ]
+            },
+            {
+              "name": "Early dinner",
+              "type": "dinner",
+              "coord": [
+                20.9886511,
+                -86.826701
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Grand Tour (14 Days)",
+      "description": "Epic sweep from Pacific beaches through colonial highlands, cosmopolitan capital, ancient cultures in Oaxaca, mystical Chiapas jungles, to Caribbean paradise.",
+      "days": [
+        {
+          "label": "Day 1 — Puerto Vallarta Essentials",
+          "items": [
+            {
+              "name": "Paradise Village",
+              "type": "hotel",
+              "coord": [
+                20.690488,
+                -105.2950631
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                20.690488,
+                -105.2950631
+              ]
+            },
+            {
+              "name": "Mercado 5 de Mayo (Puerto Vallarta)",
+              "type": "sightseeing",
+              "coord": [
+                20.620021899999998,
+                -105.22522130000002
+              ]
+            },
+            {
+              "name": "Fresh seafood lunch at market",
+              "type": "lunch",
+              "coord": [
+                20.620021899999998,
+                -105.22522130000002
+              ]
+            },
+            {
+              "name": "Beach time at Paradise Village",
+              "type": "sightseeing",
+              "coord": [
+                20.690488,
+                -105.2950631
+              ]
+            },
+            {
+              "name": "Beachfront dinner",
+              "type": "dinner",
+              "coord": [
+                20.690488,
+                -105.2950631
+              ]
+            },
+            {
+              "name": "Malecon sunset stroll",
+              "type": "optional",
+              "coord": [
+                20.620021899999998,
+                -105.22522130000002
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Yelapa Discovery",
+          "items": [
+            {
+              "name": "Verana Yelapa",
+              "type": "hotel",
+              "coord": [
+                20.4925546,
+                -105.4562176
+              ]
+            },
+            {
+              "name": "Early breakfast",
+              "type": "breakfast",
+              "coord": [
+                20.4925546,
+                -105.4562176
+              ]
+            },
+            {
+              "name": "Hike to Yelapa waterfall",
+              "type": "sightseeing",
+              "coord": [
+                20.4925546,
+                -105.4562176
+              ]
+            },
+            {
+              "name": "Village palapa lunch",
+              "type": "lunch",
+              "coord": [
+                20.4925546,
+                -105.4562176
+              ]
+            },
+            {
+              "name": "Kayaking and snorkeling",
+              "type": "sightseeing",
+              "coord": [
+                20.4925546,
+                -105.4562176
+              ]
+            },
+            {
+              "name": "Beach sunset",
+              "type": "optional",
+              "coord": [
+                20.4925546,
+                -105.4562176
+              ]
+            },
+            {
+              "name": "Grilled fish dinner",
+              "type": "dinner",
+              "coord": [
+                20.4925546,
+                -105.4562176
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Colonial Highlands",
+          "items": [
+            {
+              "name": "Belmond Casa de Sierra Nevada",
+              "type": "hotel",
+              "coord": [
+                20.9127691,
+                -100.74231789999999
+              ]
+            },
+            {
+              "name": "Flight to León/Bajío (1hr flight)",
+              "type": "info",
+              "coord": [
+                20.9127691,
+                -100.74231789999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                20.4925546,
+                -105.4562176
+              ]
+            },
+            {
+              "name": "Mi Cocina",
+              "type": "dinner",
+              "coord": [
+                20.920625,
+                -100.7563105
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Colonial Highlights — San Miguel de Allende",
+          "items": [
+            {
+              "name": "Belmond Casa de Sierra Nevada",
+              "type": "hotel",
+              "coord": [
+                20.9127691,
+                -100.74231789999999
+              ]
+            },
+            {
+              "name": "Café Santa Ana",
+              "type": "breakfast",
+              "coord": [
+                20.916864399999998,
+                -100.7431936
+              ]
+            },
+            {
+              "name": "Mercado Benito Juárez (San Miguel de Allende)",
+              "type": "sightseeing",
+              "coord": [
+                20.908673699999998,
+                -100.7428814
+              ]
+            },
+            {
+              "name": "Mi Cocina",
+              "type": "lunch",
+              "coord": [
+                20.920625,
+                -100.7563105
+              ]
+            },
+            {
+              "name": "Luna Café",
+              "type": "sightseeing",
+              "coord": [
+                20.9183563,
+                -100.74922649999999
+              ]
+            },
+            {
+              "name": "El Pegote",
+              "type": "dinner",
+              "coord": [
+                20.916,
+                -100.748
+              ]
+            },
+            {
+              "name": "Evening stroll through historic center",
+              "type": "optional",
+              "coord": [
+                20.9127691,
+                -100.74231789999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Colorful City Exploration — Guanajuato",
+          "items": [
+            {
+              "name": "Misión Guanajuato",
+              "type": "hotel",
+              "coord": [
+                21.0094623,
+                -101.273056
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                21.0094623,
+                -101.273056
+              ]
+            },
+            {
+              "name": "Cable Car rides (Guanajuato)",
+              "type": "sightseeing",
+              "coord": [
+                21.0148895,
+                -101.253171
+              ]
+            },
+            {
+              "name": "Casa del Conde",
+              "type": "lunch",
+              "coord": [
+                21.017076799999998,
+                -101.2543807
+              ]
+            },
+            {
+              "name": "Mineral Museum (Guanajuato)",
+              "type": "sightseeing",
+              "coord": [
+                21.0271786,
+                -101.26124349999999
+              ]
+            },
+            {
+              "name": "Restaurante Guanajuato",
+              "type": "dinner",
+              "coord": [
+                21.0159928,
+                -101.2513498
+              ]
+            },
+            {
+              "name": "Walk the historic center's illuminated streets",
+              "type": "optional",
+              "coord": [
+                21.0094623,
+                -101.273056
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Travel to Mexico City",
+          "items": [
+            {
+              "name": "Four Seasons Mexico City",
+              "type": "hotel",
+              "coord": [
+                19.4232659,
+                -99.17437129999999
+              ]
+            },
+            {
+              "name": "Morning drive or flight to Mexico City (4hr drive or 45min flight)",
+              "type": "info",
+              "coord": [
+                19.4232659,
+                -99.17437129999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                21.0094623,
+                -101.273056
+              ]
+            },
+            {
+              "name": "Pujol",
+              "type": "dinner",
+              "coord": [
+                19.432376299999998,
+                -99.1948132
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Greatest Hits — Historic Center & Chapultepec",
+          "items": [
+            {
+              "name": "Downtown Mexico City",
+              "type": "hotel",
+              "coord": [
+                19.4357068,
+                -99.131757
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                19.4357068,
+                -99.131757
+              ]
+            },
+            {
+              "name": "Templo Mayor",
+              "type": "sightseeing",
+              "coord": [
+                19.434603799999998,
+                -99.13188099999999
+              ]
+            },
+            {
+              "name": "Palacio Nacional",
+              "type": "sightseeing",
+              "coord": [
+                19.4328868,
+                -99.1313531
+              ]
+            },
+            {
+              "name": "Punto MX",
+              "type": "lunch",
+              "coord": [
+                19.4305803,
+                -99.1376657
+              ]
+            },
+            {
               "name": "Museo de Antropología",
+              "type": "sightseeing",
               "coord": [
                 19.426003200000004,
                 -99.1862786
               ]
             },
             {
-              "type": "lunch",
+              "name": "Castillo de Chapultepec",
+              "type": "sightseeing",
+              "coord": [
+                19.4204397,
+                -99.181935
+              ]
+            },
+            {
               "name": "Contramar",
+              "type": "dinner",
               "coord": [
                 19.4195793,
                 -99.1671526
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Frida Kahlo Museum",
+              "name": "Bellas Artes Palace",
+              "type": "optional",
               "coord": [
-                19.4159,
-                -99.1461
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Sud 777",
-              "coord": [
-                19.3090281,
-                -99.2093428
+                19.4352,
+                -99.1412
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Teotihuacán & Xochimilco",
+          "label": "Day 8 — Travel to Oaxaca",
           "items": [
             {
-              "type": "breakfast",
-              "name": "St. Regis Mexico City",
-              "coord": [
-                19.4256338,
-                -99.1720892
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Teotihuacán",
-              "coord": [
-                19.6860799,
-                -98.87163609999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Local restaurant",
-              "coord": [
-                19.69,
-                -98.844
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Xochimilco Floating Gardens",
-              "coord": [
-                19.2756,
-                -99.097
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Rosetta",
-              "coord": [
-                19.4197758,
-                -99.1598009
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Oaxaca Cultural Immersion",
-          "items": [
-            {
+              "name": "Habitas Oaxaca",
               "type": "hotel",
-              "name": "Casa Cinnamon",
               "coord": [
-                17.068796799999998,
-                -96.71785229999999
+                17.0986217,
+                -96.6941499
               ]
             },
             {
-              "type": "lunch",
+              "name": "Flight to Oaxaca (1hr flight)",
+              "type": "info",
+              "coord": [
+                17.0986217,
+                -96.6941499
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                19.4357068,
+                -99.131757
+              ]
+            },
+            {
               "name": "Donají",
+              "type": "dinner",
               "coord": [
                 17.0564781,
                 -96.72985829999999
               ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Monte Albán",
-              "coord": [
-                17.046592699999998,
-                -96.76588439999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Central de Abastos Market",
-              "coord": [
-                17.07,
-                -96.72
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Casa Oaxaca",
-              "coord": [
-                17.065218299999998,
-                -96.7222793
-              ]
             }
           ]
         },
         {
-          "day": 5,
-          "title": "Oaxaca Mezcal & Textiles",
+          "label": "Day 9 — Oaxaca Essentials — Historic Center",
           "items": [
             {
-              "type": "breakfast",
+              "name": "Casa del Sotano",
+              "type": "hotel",
+              "coord": [
+                17.0658335,
+                -96.7266765
+              ]
+            },
+            {
               "name": "Cafetería Brújula",
+              "type": "breakfast",
               "coord": [
                 17.0625852,
                 -96.72436710000001
               ]
             },
             {
+              "name": "Monte Albán",
               "type": "sightseeing",
-              "name": "Mezcal Distillery Tours",
               "coord": [
-                17.065,
-                -96.726
+                17.046592699999998,
+                -96.76588439999999
               ]
             },
             {
+              "name": "Casa Oaxaca",
               "type": "lunch",
-              "name": "Abacus Oaxaca",
               "coord": [
-                17.0647238,
-                -96.7248565
+                17.065218299999998,
+                -96.7222793
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Textile Markets exploration",
+              "name": "Mercado Benito Juárez (Oaxaca)",
+              "type": "shopping",
               "coord": [
-                17.0675,
-                -96.7245
+                17.0589907,
+                -96.7266697
               ]
             },
             {
-              "type": "dinner",
               "name": "Guelaguetza",
+              "type": "dinner",
               "coord": [
                 17.0686803,
                 -96.73102
               ]
+            },
+            {
+              "name": "Mezcaleria Zig-Zag",
+              "type": "optional",
+              "coord": [
+                17.0622837,
+                -96.72198490000001
+              ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Chiapas & Palenque Ruins",
+          "label": "Day 10 — Mezcal Journey — Oaxaca Valley",
           "items": [
             {
+              "name": "Coyote Nativo Oaxaca",
               "type": "hotel",
-              "name": "Casa Angel Inn",
               "coord": [
-                20.9111482,
-                -100.7427165
+                17.067392899999998,
+                -96.71750929999999
               ]
             },
             {
-              "type": "lunch",
-              "name": "Local restaurant",
-              "coord": [
-                17.4845,
-                -92.0456
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Palenque",
-              "coord": [
-                17.484769699999998,
-                -92.0458949
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Jungle trekking",
-              "coord": [
-                17.4845,
-                -92.0456
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Local Chiapas cuisine",
-              "coord": [
-                17.4845,
-                -92.0456
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Yucatán Peninsula Arrival",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Temozón House",
-              "coord": [
-                21.0659916,
-                -89.59566769999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Casa Kin",
-              "coord": [
-                20.9606457,
-                -89.62725590000001
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Valladolid colonial town",
-              "coord": [
-                20.25,
-                -87.9
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cenote exploration",
-              "coord": [
-                20.25,
-                -87.9
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Local Yucatán cuisine",
-              "coord": [
-                20.25,
-                -87.9
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Chichén Itzá & Mérida",
-          "items": [
-            {
+              "name": "Cafetería Brújula",
               "type": "breakfast",
-              "name": "Temozón House",
               "coord": [
-                21.0659916,
-                -89.59566769999999
+                17.0625852,
+                -96.72436710000001
               ]
             },
             {
+              "name": "Mezcal Distillery Tours (Oaxaca)",
               "type": "sightseeing",
-              "name": "Chichén Itzá",
               "coord": [
-                20.684284899999998,
-                -88.5677826
+                17.0625309,
+                -96.7106202
               ]
             },
             {
+              "name": "Mezcaleria Zig-Zag",
               "type": "lunch",
-              "name": "Local restaurant",
               "coord": [
-                20.6829,
-                -87.5479
+                17.0622837,
+                -96.72198490000001
               ]
             },
             {
+              "name": "Boutique Mezcal Shops (Oaxaca)",
+              "type": "shopping",
+              "coord": [
+                17.0643685,
+                -96.72602239999999
+              ]
+            },
+            {
+              "name": "Los Danzantes Oaxaca",
+              "type": "dinner",
+              "coord": [
+                17.0652024,
+                -96.7239883
+              ]
+            },
+            {
+              "name": "Mezcal Casa Oaxaca",
+              "type": "optional",
+              "coord": [
+                17.0588203,
+                -96.7261719
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 11 — Travel to Chiapas",
+          "items": [
+            {
+              "name": "Hotel in Chiapas",
               "type": "hotel",
+              "coord": [
+                16.7282,
+                -92.6376
+              ]
+            },
+            {
+              "name": "Flight to Tuxtla Gutiérrez (1hr flight)",
+              "type": "info",
+              "coord": [
+                16.7282,
+                -92.6376
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                17.067392899999998,
+                -96.71750929999999
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                16.7282,
+                -92.6376
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 12 — Greatest Hits — San Cristóbal",
+          "items": [
+            {
+              "name": "Hotel Casa Mexicana",
+              "type": "hotel",
+              "coord": [
+                16.7282,
+                -92.6376
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                16.7282,
+                -92.6376
+              ]
+            },
+            {
+              "name": "Artisan Textile Markets (San Cristóbal)",
+              "type": "sightseeing",
+              "coord": [
+                16.7406385,
+                -92.6377986
+              ]
+            },
+            {
+              "name": "Traditional Chiapaneco lunch",
+              "type": "lunch",
+              "coord": [
+                16.7282,
+                -92.6376
+              ]
+            },
+            {
+              "name": "Colonial San Cristóbal walking tour",
+              "type": "sightseeing",
+              "coord": [
+                16.7282,
+                -92.6376
+              ]
+            },
+            {
+              "name": "Regional cuisine dinner",
+              "type": "dinner",
+              "coord": [
+                16.7282,
+                -92.6376
+              ]
+            },
+            {
+              "name": "Evening stroll around the Zócalo",
+              "type": "optional",
+              "coord": [
+                16.7282,
+                -92.6376
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 13 — Travel to Riviera Maya",
+          "items": [
+            {
+              "name": "La Posada Tulum",
+              "type": "hotel",
+              "coord": [
+                20.1775071,
+                -87.4464081
+              ]
+            },
+            {
+              "name": "Flight to Cancún (2hr flight)",
+              "type": "info",
+              "coord": [
+                20.1775071,
+                -87.4464081
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                16.7282,
+                -92.6376
+              ]
+            },
+            {
+              "name": "Ki'bok Coffee Tulum",
+              "type": "dinner",
+              "coord": [
+                20.207486300000003,
+                -87.4735795
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 14 — Tulum Highlights — Tulum",
+          "items": [
+            {
+              "name": "La Posada Tulum",
+              "type": "hotel",
+              "coord": [
+                20.1775071,
+                -87.4464081
+              ]
+            },
+            {
+              "name": "Ki'bok Coffee Tulum",
+              "type": "breakfast",
+              "coord": [
+                20.207486300000003,
+                -87.4735795
+              ]
+            },
+            {
+              "name": "Tulum Ruins",
+              "type": "sightseeing",
+              "coord": [
+                20.2149504,
+                -87.4294212
+              ]
+            },
+            {
+              "name": "Restaurante Bar El Capitán",
+              "type": "lunch",
+              "coord": [
+                20.210382199999998,
+                -87.4520433
+              ]
+            },
+            {
+              "name": "Cenote Swimming (Tulum)",
+              "type": "sightseeing",
+              "coord": [
+                20.246581799999998,
+                -87.464201
+              ]
+            },
+            {
+              "name": "Hartwood",
+              "type": "dinner",
+              "coord": [
+                20.149875599999998,
+                -87.459374
+              ]
+            },
+            {
+              "name": "Beach walk at sunset",
+              "type": "optional",
+              "coord": [
+                20.1775071,
+                -87.4464081
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 15 — Greatest Hits — Cancún & Isla Mujeres",
+          "items": [
+            {
+              "name": "Iberostar Selection Cancun",
+              "type": "hotel",
+              "coord": [
+                21.0671078,
+                -86.7784818
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                21.0671078,
+                -86.7784818
+              ]
+            },
+            {
+              "name": "Isla Mujeres Day Trip",
+              "type": "sightseeing",
+              "coord": [
+                21.2574209,
+                -86.74806629999999
+              ]
+            },
+            {
+              "name": "Beachfront lunch on Isla Mujeres",
+              "type": "lunch",
+              "coord": [
+                21.261035099999997,
+                -86.75088099999999
+              ]
+            },
+            {
+              "name": "Isla Mujeres Beach",
+              "type": "sightseeing",
+              "coord": [
+                21.261035099999997,
+                -86.75088099999999
+              ]
+            },
+            {
+              "name": "Plaza de las Flores (Cancun)",
+              "type": "shopping",
+              "coord": [
+                21.1620751,
+                -86.9102676
+              ]
+            },
+            {
+              "name": "Dinner at hotel restaurant",
+              "type": "dinner",
+              "coord": [
+                21.0671078,
+                -86.7784818
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "d": {
+      "name": "Yucatán Maya & Caribbean (9 Days)",
+      "description": "Deep dive into Maya civilization, cenotes, colonial cities, and pristine Caribbean coast across the entire Yucatán Peninsula.",
+      "days": [
+        {
+          "label": "Day 1 — Maya Heritage — Chichén Itzá & Mérida",
+          "items": [
+            {
               "name": "Merida Jim's House",
+              "type": "hotel",
               "coord": [
                 20.9773659,
                 -89.6329444
               ]
             },
             {
-              "type": "dinner",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                20.9773659,
+                -89.6329444
+              ]
+            },
+            {
+              "name": "Chichén Itzá",
+              "type": "sightseeing",
+              "coord": [
+                20.684284899999998,
+                -88.5677826
+              ]
+            },
+            {
+              "name": "Cenote Ik Kil",
+              "type": "sightseeing",
+              "coord": [
+                20.6610138,
+                -88.550438
+              ]
+            },
+            {
+              "name": "La Chaya Maya",
+              "type": "lunch",
+              "coord": [
+                20.9699203,
+                -89.62389189999999
+              ]
+            },
+            {
+              "name": "Mercado Lucas de Galvez (Mérida)",
+              "type": "shopping",
+              "coord": [
+                20.9638942,
+                -89.6212077
+              ]
+            },
+            {
               "name": "Restaurante Merida 60",
+              "type": "dinner",
               "coord": [
                 20.9730944,
                 -89.62204419999999
@@ -7720,136 +7627,279 @@
           ]
         },
         {
-          "day": 9,
-          "title": "Tulum Riviera Maya",
+          "label": "Day 2 — Maya Masterpiece — Chichén Itzá Deep Dive",
           "items": [
             {
+              "name": "Merida Jim's House",
               "type": "hotel",
+              "coord": [
+                20.9773659,
+                -89.6329444
+              ]
+            },
+            {
+              "name": "Early departure with packed breakfast",
+              "type": "breakfast",
+              "coord": [
+                20.9773659,
+                -89.6329444
+              ]
+            },
+            {
+              "name": "Chichén Itzá",
+              "type": "sightseeing",
+              "coord": [
+                20.684284899999998,
+                -88.5677826
+              ]
+            },
+            {
+              "name": "Cenote Ik Kil",
+              "type": "lunch",
+              "coord": [
+                20.6610138,
+                -88.550438
+              ]
+            },
+            {
+              "name": "Yucatan Cenote Pools",
+              "type": "sightseeing",
+              "coord": [
+                20.7394882,
+                -89.2972197
+              ]
+            },
+            {
+              "name": "Restaurante Merida 60",
+              "type": "dinner",
+              "coord": [
+                20.9730944,
+                -89.62204419999999
+              ]
+            },
+            {
+              "name": "Relax after big day",
+              "type": "optional",
+              "coord": [
+                20.9773659,
+                -89.6329444
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Cenote Circuit — Natural Wonders",
+          "items": [
+            {
+              "name": "Merida Jim's House",
+              "type": "hotel",
+              "coord": [
+                20.9773659,
+                -89.6329444
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                20.9773659,
+                -89.6329444
+              ]
+            },
+            {
+              "name": "Yucatan Cenote Pools",
+              "type": "sightseeing",
+              "coord": [
+                20.7394882,
+                -89.2972197
+              ]
+            },
+            {
+              "name": "Tacos de Cochinita Pibil",
+              "type": "lunch",
+              "coord": [
+                20.9637367,
+                -89.6209197
+              ]
+            },
+            {
+              "name": "Cenote Ik Kil",
+              "type": "sightseeing",
+              "coord": [
+                20.6610138,
+                -88.550438
+              ]
+            },
+            {
+              "name": "La Chaya Maya",
+              "type": "dinner",
+              "coord": [
+                20.9699203,
+                -89.62389189999999
+              ]
+            },
+            {
+              "name": "Evening stroll in Mérida centro",
+              "type": "optional",
+              "coord": [
+                20.9773659,
+                -89.6329444
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Travel to Riviera Maya",
+          "items": [
+            {
+              "name": "La Posada Tulum",
+              "type": "hotel",
+              "coord": [
+                20.1775071,
+                -87.4464081
+              ]
+            },
+            {
+              "name": "Morning drive along Riviera Maya coast (4hr drive)",
+              "type": "info",
+              "coord": [
+                20.1775071,
+                -87.4464081
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                20.9773659,
+                -89.6329444
+              ]
+            },
+            {
+              "name": "Ki'bok Coffee Tulum",
+              "type": "dinner",
+              "coord": [
+                20.207486300000003,
+                -87.4735795
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Maya Heritage — Tulum & Riviera Maya",
+          "items": [
+            {
               "name": "Azulik Tulum",
+              "type": "hotel",
               "coord": [
                 20.179156,
                 -87.4456393
               ]
             },
             {
-              "type": "lunch",
-              "name": "Hartwood",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                20.149875599999998,
-                -87.459374
+                20.179156,
+                -87.4456393
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Tulum Ruins",
+              "type": "sightseeing",
               "coord": [
                 20.2149504,
                 -87.4294212
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Cenote Swimming",
+              "name": "Restaurante Bar El Capitán",
+              "type": "lunch",
               "coord": [
-                20.21,
+                20.210382199999998,
+                -87.4520433
+              ]
+            },
+            {
+              "name": "Aktun Chen Cave",
+              "type": "sightseeing",
+              "coord": [
+                20.3607561,
+                -87.3418209
+              ]
+            },
+            {
+              "name": "Taco Stand Paradise",
+              "type": "dinner",
+              "coord": [
+                20.212,
                 -87.46
               ]
             },
             {
-              "type": "dinner",
-              "name": "Los Tacos de Pablo",
+              "name": "Art installations at hotel",
+              "type": "optional",
               "coord": [
-                20.7273276,
-                -103.39314279999999
+                20.179156,
+                -87.4456393
               ]
             }
           ]
         },
         {
-          "day": 10,
-          "title": "Xcaret & Xel-Há Parks",
+          "label": "Day 6 — Cenote Adventure — Riviera Maya & Tulum",
           "items": [
             {
+              "name": "Grand Palladium Riviera Maya",
+              "type": "hotel",
+              "coord": [
+                20.4424255,
+                -87.2879425
+              ]
+            },
+            {
+              "name": "Early hotel breakfast",
               "type": "breakfast",
-              "name": "Azulik Tulum",
               "coord": [
-                20.179156,
-                -87.4456393
+                20.4424255,
+                -87.2879425
               ]
             },
             {
+              "name": "Cenote Route (Riviera Maya)",
               "type": "sightseeing",
-              "name": "Xcaret Park",
               "coord": [
-                20.5809134,
-                -87.119698
+                20.488169,
+                -87.2510202
               ]
             },
             {
+              "name": "The Taco Spot",
               "type": "lunch",
-              "name": "Xcaret on-site dining",
               "coord": [
-                20.64,
-                -87.06
+                20.6275227,
+                -87.0708963
               ]
             },
             {
+              "name": "Cenote Swimming (Tulum)",
               "type": "sightseeing",
-              "name": "Water activities",
               "coord": [
-                20.64,
-                -87.06
+                20.246581799999998,
+                -87.464201
               ]
             },
             {
-              "type": "dinner",
-              "name": "Playa Blanca",
-              "coord": [
-                20.6641055,
-                -87.0702449
-              ]
-            }
-          ]
-        },
-        {
-          "day": 11,
-          "title": "Xel-Há Eco-Park Day",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Azulik Tulum",
-              "coord": [
-                20.179156,
-                -87.4456393
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Xel-Há Water Park",
-              "coord": [
-                20.3193587,
-                -87.3578124
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Xel-Há dining",
-              "coord": [
-                20.3514,
-                -87.3214
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Snorkeling & swimming",
-              "coord": [
-                20.3514,
-                -87.3214
-              ]
-            },
-            {
-              "type": "dinner",
               "name": "Restaurante Bar El Capitán",
+              "type": "dinner",
+              "coord": [
+                20.210382199999998,
+                -87.4520433
+              ]
+            },
+            {
+              "name": "Sunset at Tulum beach",
+              "type": "optional",
               "coord": [
                 20.210382199999998,
                 -87.4520433
@@ -7858,147 +7908,776 @@
           ]
         },
         {
-          "day": 12,
-          "title": "Cozumel Diving & Snorkeling",
+          "label": "Day 7 — Natural Wonders — Riviera Maya",
           "items": [
             {
+              "name": "Rosewood Mayakoba",
               "type": "hotel",
-              "name": "Rosewood Mayakoba",
               "coord": [
                 20.6879277,
                 -87.0201301
               ]
             },
             {
-              "type": "lunch",
-              "name": "Flora Farms",
-              "coord": [
-                23.079463,
-                -109.676935
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cozumel Diving",
-              "coord": [
-                20.505,
-                -87.075
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Reef exploration",
-              "coord": [
-                20.505,
-                -87.075
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Guacamole Grill",
-              "coord": [
-                40.978903100000004,
-                -90.36185359999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 13,
-          "title": "Laguna Bacalar & Kohunlich",
-          "items": [
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Rosewood Mayakoba",
               "coord": [
                 20.6879277,
                 -87.0201301
               ]
             },
             {
+              "name": "Sian Ka'an Biosphere Reserve",
               "type": "sightseeing",
-              "name": "Laguna Bacalar",
               "coord": [
-                18.7671365,
-                -88.30688169999999
+                19.8509509,
+                -87.63934309999999
               ]
             },
             {
+              "name": "Picnic lunch in biosphere",
               "type": "lunch",
-              "name": "Local restaurant",
               "coord": [
-                18.6858,
-                -87.692
+                19.8509509,
+                -87.63934309999999
               ]
             },
             {
+              "name": "Cenote Route (Riviera Maya)",
               "type": "sightseeing",
-              "name": "Kohunlich Maya Ruins",
               "coord": [
-                18.4192634,
-                -88.79089909999999
+                20.488169,
+                -87.2510202
               ]
             },
             {
+              "name": "Playa Blanca",
               "type": "dinner",
-              "name": "Casual beachfront dinner",
               "coord": [
-                18.6858,
-                -87.692
-              ]
-            }
-          ]
-        },
-        {
-          "day": 14,
-          "title": "Relaxation & Departure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Rosewood Mayakoba",
-              "coord": [
-                20.6879277,
-                -87.0201301
+                20.6641055,
+                -87.0702449
               ]
             },
             {
+              "name": "Evening beach walk",
               "type": "optional",
-              "name": "Final beach time or spa",
               "coord": [
-                20.698,
-                -87.289
+                20.6879277,
+                -87.0201301
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Diving & Snorkeling — Cozumel",
+          "items": [
+            {
+              "name": "Iberostar Selection Cancun",
+              "type": "hotel",
+              "coord": [
+                21.0671078,
+                -86.7784818
               ]
             },
             {
-              "type": "lunch",
-              "name": "Favorite restaurant revisit",
+              "name": "Early breakfast",
+              "type": "breakfast",
               "coord": [
-                20.6296,
-                -87.0739
+                21.0671078,
+                -86.7784818
               ]
             },
             {
+              "name": "Cozumel Diving & Snorkeling",
               "type": "sightseeing",
-              "name": "Souvenir shopping",
               "coord": [
-                20.6296,
-                -87.0739
+                20.467689999999997,
+                -86.9788464
               ]
             },
             {
-              "type": "nap",
-              "name": "Rest before departure",
+              "name": "Fresh ceviche lunch in Cozumel",
+              "type": "lunch",
               "coord": [
-                20.698,
-                -87.289
+                20.467689999999997,
+                -86.9788464
               ]
             },
             {
+              "name": "Second dive or reef snorkeling",
+              "type": "sightseeing",
+              "coord": [
+                20.467689999999997,
+                -86.9788464
+              ]
+            },
+            {
+              "name": "Return to Cancún",
+              "type": "info",
+              "coord": [
+                21.0671078,
+                -86.7784818
+              ]
+            },
+            {
+              "name": "Seafood dinner",
               "type": "dinner",
-              "name": "Farewell celebration",
               "coord": [
-                20.6296,
-                -87.0739
+                21.0671078,
+                -86.7784818
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Island Adventures — Caribbean Islands",
+          "items": [
+            {
+              "name": "Moon Palace Cancun",
+              "type": "hotel",
+              "coord": [
+                20.9886511,
+                -86.826701
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                20.9886511,
+                -86.826701
+              ]
+            },
+            {
+              "name": "Isla Mujeres Day Trip",
+              "type": "sightseeing",
+              "coord": [
+                21.2574209,
+                -86.74806629999999
+              ]
+            },
+            {
+              "name": "Island lunch",
+              "type": "lunch",
+              "coord": [
+                21.261035099999997,
+                -86.75088099999999
+              ]
+            },
+            {
+              "name": "Isla Mujeres Beach",
+              "type": "sightseeing",
+              "coord": [
+                21.261035099999997,
+                -86.75088099999999
+              ]
+            },
+            {
+              "name": "Return to Cancún",
+              "type": "info",
+              "coord": [
+                20.9886511,
+                -86.826701
+              ]
+            },
+            {
+              "name": "Dinner with Caribbean views",
+              "type": "dinner",
+              "coord": [
+                20.9886511,
+                -86.826701
+              ]
+            },
+            {
+              "name": "Evening entertainment at resort",
+              "type": "optional",
+              "coord": [
+                20.9886511,
+                -86.826701
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "e": {
+      "name": "Culinary & Cultural Heartland (10 Days)",
+      "description": "Foodie pilgrimage through Mexico's gastronomic capitals from street markets to mezcal distilleries, celebrating indigenous traditions and colonial heritage.",
+      "days": [
+        {
+          "label": "Day 1 — Foodie Tour — Roma & Condesa",
+          "items": [
+            {
+              "name": "Condesa DF",
+              "type": "hotel",
+              "coord": [
+                19.4149803,
+                -99.17744619999999
+              ]
+            },
+            {
+              "name": "Xoco",
+              "type": "breakfast",
+              "coord": [
+                19.359955900000003,
+                -99.16252999999999
+              ]
+            },
+            {
+              "name": "Mercado Roma",
+              "type": "sightseeing",
+              "coord": [
+                19.414186,
+                -99.16455470000001
+              ]
+            },
+            {
+              "name": "Máximo Bistrot",
+              "type": "lunch",
+              "coord": [
+                19.4189482,
+                -99.1580841
+              ]
+            },
+            {
+              "name": "La Docena",
+              "type": "sightseeing",
+              "coord": [
+                19.4192386,
+                -99.1560365
+              ]
+            },
+            {
+              "name": "Pujol",
+              "type": "dinner",
+              "coord": [
+                19.432376299999998,
+                -99.1948132
+              ]
+            },
+            {
+              "name": "Garibaldi Plaza (Mariachi Music)",
+              "type": "optional",
+              "coord": [
+                19.4406739,
+                -99.1391089
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Deep Culture — Coyoacán & Museums",
+          "items": [
+            {
+              "name": "Casa Campos",
+              "type": "hotel",
+              "coord": [
+                19.4332852,
+                -99.13554579999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                19.4332852,
+                -99.13554579999999
+              ]
+            },
+            {
+              "name": "Frida Kahlo Museum (Casa Azul)",
+              "type": "sightseeing",
+              "coord": [
+                19.3551806,
+                -99.1624636
+              ]
+            },
+            {
+              "name": "Rosetta",
+              "type": "lunch",
+              "coord": [
+                19.4197758,
+                -99.1598009
+              ]
+            },
+            {
+              "name": "Museo de Arte Popular",
+              "type": "sightseeing",
+              "coord": [
+                19.433735199999997,
+                -99.1462978
+              ]
+            },
+            {
+              "name": "Tlatelolco (Three Cultures)",
+              "type": "sightseeing",
+              "coord": [
+                19.4516547,
+                -99.1362473
+              ]
+            },
+            {
+              "name": "Quintonil",
+              "type": "dinner",
+              "coord": [
+                19.4308408,
+                -99.1917115
+              ]
+            },
+            {
+              "name": "Lucha Libre (Wrestling)",
+              "type": "optional",
+              "coord": [
+                19.4247054,
+                -99.1516884
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Neighborhood Special — Roma & Condesa",
+          "items": [
+            {
+              "name": "Condesa DF",
+              "type": "hotel",
+              "coord": [
+                19.4149803,
+                -99.17744619999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                19.4149803,
+                -99.17744619999999
+              ]
+            },
+            {
+              "name": "Mercado Roma",
+              "type": "sightseeing",
+              "coord": [
+                19.414186,
+                -99.16455470000001
+              ]
+            },
+            {
+              "name": "Museo de Arte Moderno",
+              "type": "sightseeing",
+              "coord": [
+                19.423004199999998,
+                -99.179689
+              ]
+            },
+            {
+              "name": "Blanco Colima",
+              "type": "lunch",
+              "coord": [
+                19.419712399999998,
+                -99.15989359999999
+              ]
+            },
+            {
+              "name": "Shopping in Roma Norte",
+              "type": "shopping",
+              "coord": [
+                19.4149803,
+                -99.17744619999999
+              ]
+            },
+            {
+              "name": "Mientras Tanto",
+              "type": "dinner",
+              "coord": [
+                19.4155721,
+                -99.1618859
+              ]
+            },
+            {
+              "name": "Punto MX",
+              "type": "optional",
+              "coord": [
+                19.4305803,
+                -99.1376657
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Travel to Puebla",
+          "items": [
+            {
+              "name": "Puebla Boutique Hotel",
+              "type": "hotel",
+              "coord": [
+                19.0402155,
+                -98.1994062
+              ]
+            },
+            {
+              "name": "Morning bus to Puebla (2hr drive)",
+              "type": "info",
+              "coord": [
+                19.0402155,
+                -98.1994062
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                19.4149803,
+                -99.17744619999999
+              ]
+            },
+            {
+              "name": "Mercadito",
+              "type": "dinner",
+              "coord": [
+                19.0334778,
+                -98.2011598
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Puebla Culinary Trail — Historic District",
+          "items": [
+            {
+              "name": "Puebla Boutique Hotel",
+              "type": "hotel",
+              "coord": [
+                19.0402155,
+                -98.1994062
+              ]
+            },
+            {
+              "name": "Mercado del Carmen (Puebla)",
+              "type": "breakfast",
+              "coord": [
+                19.0356859,
+                -98.2011297
+              ]
+            },
+            {
+              "name": "Market food tour",
+              "type": "sightseeing",
+              "coord": [
+                19.0356859,
+                -98.2011297
+              ]
+            },
+            {
+              "name": "El Mole Pipián",
+              "type": "lunch",
+              "coord": [
+                19.0521945,
+                -98.20036429999999
+              ]
+            },
+            {
+              "name": "La Pasita",
+              "type": "shopping",
+              "coord": [
+                19.043311,
+                -98.201166
+              ]
+            },
+            {
+              "name": "Mercadito",
+              "type": "dinner",
+              "coord": [
+                19.0334778,
+                -98.2011598
+              ]
+            },
+            {
+              "name": "Revistazo",
+              "type": "optional",
+              "coord": [
+                19.035,
+                -98.2085
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Artisan Heritage — Colonial Puebla",
+          "items": [
+            {
+              "name": "Puebla Boutique Hotel",
+              "type": "hotel",
+              "coord": [
+                19.0402155,
+                -98.1994062
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                19.0402155,
+                -98.1994062
+              ]
+            },
+            {
+              "name": "Talavera pottery workshops",
+              "type": "sightseeing",
+              "coord": [
+                19.0402155,
+                -98.1994062
+              ]
+            },
+            {
+              "name": "El Mole Pipián",
+              "type": "lunch",
+              "coord": [
+                19.0521945,
+                -98.20036429999999
+              ]
+            },
+            {
+              "name": "Colonial churches tour",
+              "type": "sightseeing",
+              "coord": [
+                19.044289,
+                -98.1981065
+              ]
+            },
+            {
+              "name": "Casa Santo Domingo",
+              "type": "dinner",
+              "coord": [
+                14.5585993,
+                -90.7279093
+              ]
+            },
+            {
+              "name": "La Pasita",
+              "type": "optional",
+              "coord": [
+                19.043311,
+                -98.201166
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Travel to Oaxaca",
+          "items": [
+            {
+              "name": "Habitas Oaxaca",
+              "type": "hotel",
+              "coord": [
+                17.0986217,
+                -96.6941499
+              ]
+            },
+            {
+              "name": "Scenic drive to Oaxaca (5hr drive)",
+              "type": "info",
+              "coord": [
+                17.0986217,
+                -96.6941499
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                19.0402155,
+                -98.1994062
+              ]
+            },
+            {
+              "name": "Donají",
+              "type": "dinner",
+              "coord": [
+                17.0564781,
+                -96.72985829999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Flavors of Oaxaca — Market to Table",
+          "items": [
+            {
+              "name": "Casa Cinnamon",
+              "type": "hotel",
+              "coord": [
+                17.068796799999998,
+                -96.71785229999999
+              ]
+            },
+            {
+              "name": "Mercado 20 de Noviembre (Oaxaca)",
+              "type": "breakfast",
+              "coord": [
+                17.058032700000002,
+                -96.72708519999999
+              ]
+            },
+            {
+              "name": "Central de Abastos (Oaxaca)",
+              "type": "sightseeing",
+              "coord": [
+                17.0594267,
+                -96.7342711
+              ]
+            },
+            {
+              "name": "Abacus Oaxaca",
+              "type": "lunch",
+              "coord": [
+                17.0647238,
+                -96.7248565
+              ]
+            },
+            {
+              "name": "Mezcal Distillery Tours (Oaxaca)",
+              "type": "sightseeing",
+              "coord": [
+                17.0625309,
+                -96.7106202
+              ]
+            },
+            {
+              "name": "Hidalgo",
+              "type": "dinner",
+              "coord": [
+                17.051425599999998,
+                -96.7268204
+              ]
+            },
+            {
+              "name": "Mezcal Casa Oaxaca",
+              "type": "optional",
+              "coord": [
+                17.0588203,
+                -96.7261719
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Indigenous Roots — Oaxaca Valley",
+          "items": [
+            {
+              "name": "Casa Ámbar",
+              "type": "hotel",
+              "coord": [
+                17.059919,
+                -96.7174352
+              ]
+            },
+            {
+              "name": "Donají",
+              "type": "breakfast",
+              "coord": [
+                17.0564781,
+                -96.72985829999999
+              ]
+            },
+            {
+              "name": "Oaxaca Archaeological Sites",
+              "type": "sightseeing",
+              "coord": [
+                17.046592699999998,
+                -96.76588439999999
+              ]
+            },
+            {
+              "name": "Guelaguetza",
+              "type": "lunch",
+              "coord": [
+                17.0686803,
+                -96.73102
+              ]
+            },
+            {
+              "name": "Chocolate Workshops (Oaxaca)",
+              "type": "shopping",
+              "coord": [
+                17.0633941,
+                -96.7232181
+              ]
+            },
+            {
+              "name": "Boutique Mezcal Shops (Oaxaca)",
+              "type": "shopping",
+              "coord": [
+                17.0643685,
+                -96.72602239999999
+              ]
+            },
+            {
+              "name": "Astrid y Gastón Oaxaca",
+              "type": "dinner",
+              "coord": [
+                17.0652,
+                -96.7272
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Workshop Day — Artisan Oaxaca",
+          "items": [
+            {
+              "name": "Ho'okah Boutique Hotel",
+              "type": "hotel",
+              "coord": [
+                17.0628,
+                -96.7265
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                17.0628,
+                -96.7265
+              ]
+            },
+            {
+              "name": "Chocolate Workshops (Oaxaca)",
+              "type": "sightseeing",
+              "coord": [
+                17.0633941,
+                -96.7232181
+              ]
+            },
+            {
+              "name": "Museo Gastronómico Oaxaca",
+              "type": "lunch",
+              "coord": [
+                17.0681566,
+                -96.72425940000001
+              ]
+            },
+            {
+              "name": "Mercado 20 de Noviembre (Oaxaca)",
+              "type": "shopping",
+              "coord": [
+                17.058032700000002,
+                -96.72708519999999
+              ]
+            },
+            {
+              "name": "Abacus Oaxaca",
+              "type": "dinner",
+              "coord": [
+                17.0647238,
+                -96.7248565
+              ]
+            },
+            {
+              "name": "Evening stroll and mezcal",
+              "type": "optional",
+              "coord": [
+                17.0628,
+                -96.7265
               ]
             }
           ]

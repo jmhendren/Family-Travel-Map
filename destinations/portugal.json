@@ -7515,78 +7515,254 @@
   },
   "itineraryData": {
     "a": {
-      "name": "Greatest Hits (7 days)",
-      "color": "#2563EB",
+      "name": "Greatest Hits (7 Days)",
+      "description": "Portugal's iconic highlights from Lisbon's hills to Porto's port lodges and Sintra's fairy-tale palaces.",
       "days": [
         {
-          "day": 1,
-          "title": "Arrival in Lisbon",
+          "label": "Day 1 — Lisbon Icons — Belém to Alfama",
           "items": [
             {
+              "name": "Memmo Alfama Hotel",
               "type": "hotel",
-              "name": "Four Seasons Hotel Ritz Lisbon",
               "coord": [
-                38.7255223,
-                -9.1553051
+                38.7102204,
+                -9.1305785
               ]
             },
             {
-              "type": "lunch",
-              "name": "Cervejaria Ramiro",
-              "coord": [
-                38.720257,
-                -9.1357429
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Castelo de São Jorge",
-              "coord": [
-                38.713909199999996,
-                -9.1334762
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Avenida",
-              "coord": [
-                38.720113999999995,
-                -9.145823
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Lisbon Heritage",
-          "items": [
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Pastéis de Belém",
               "coord": [
-                38.716,
-                -9.209
+                38.7102204,
+                -9.1305785
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Jerónimos Monastery",
+              "type": "sightseeing",
               "coord": [
                 38.6978909,
                 -9.206703899999999
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Belém Tower",
+              "type": "sightseeing",
               "coord": [
                 38.691583699999995,
                 -9.215977299999999
               ]
             },
             {
+              "name": "Feitoria",
+              "type": "lunch",
+              "coord": [
+                38.6934397,
+                -9.210497799999999
+              ]
+            },
+            {
+              "name": "Castelo de São Jorge",
+              "type": "sightseeing",
+              "coord": [
+                38.713909199999996,
+                -9.1334762
+              ]
+            },
+            {
+              "name": "Lisbon Tram 28 Journey",
+              "type": "sightseeing",
+              "coord": [
+                38.7152423,
+                -9.136078399999999
+              ]
+            },
+            {
+              "name": "Belcanto",
               "type": "dinner",
+              "coord": [
+                38.7100994,
+                -9.1414656
+              ]
+            },
+            {
+              "name": "Adamastor Viewpoint",
+              "type": "optional",
+              "coord": [
+                38.7095542,
+                -9.1475977
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Sintra Magic — Palaces & Mysteries",
+          "items": [
+            {
+              "name": "Tivoli Palácio de Seteais",
+              "type": "hotel",
+              "coord": [
+                38.7967332,
+                -9.3995856
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.7967332,
+                -9.3995856
+              ]
+            },
+            {
+              "name": "Pena Palace",
+              "type": "sightseeing",
+              "coord": [
+                38.7875851,
+                -9.3906089
+              ]
+            },
+            {
+              "name": "Parque da Pena",
+              "type": "sightseeing",
+              "coord": [
+                38.7883979,
+                -9.3886436
+              ]
+            },
+            {
+              "name": "Cantinho Gastronómico",
+              "type": "lunch",
+              "coord": [
+                38.7965178,
+                -9.3904018
+              ]
+            },
+            {
+              "name": "Quinta da Regaleira",
+              "type": "sightseeing",
+              "coord": [
+                38.7963069,
+                -9.3960244
+              ]
+            },
+            {
+              "name": "Palácio Nacional de Sintra",
+              "type": "sightseeing",
+              "coord": [
+                38.7976627,
+                -9.3906554
+              ]
+            },
+            {
+              "name": "Boca do Lobo",
+              "type": "dinner",
+              "coord": [
+                38.7981038,
+                -9.399659
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Coastal Adventure — Cascais to Ericeira",
+          "items": [
+            {
+              "name": "Sublime Ericeira",
+              "type": "hotel",
+              "coord": [
+                38.9614409,
+                -9.4157371
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.9614409,
+                -9.4157371
+              ]
+            },
+            {
+              "name": "Cliffs of Farol (Cabo da Roca)",
+              "type": "sightseeing",
+              "coord": [
+                38.7818405,
+                -9.4973957
+              ]
+            },
+            {
+              "name": "Cascais Beaches & Coastal Walks",
+              "type": "sightseeing",
+              "coord": [
+                38.7019521,
+                -9.391996299999999
+              ]
+            },
+            {
+              "name": "Confraria dos Peixeiros",
+              "type": "lunch",
+              "coord": [
+                38.6955762,
+                -9.4208265
+              ]
+            },
+            {
+              "name": "Ericeira Coastal Village",
+              "type": "sightseeing",
+              "coord": [
+                38.9729167,
+                -9.4201944
+              ]
+            },
+            {
+              "name": "Ericeira Fish Market",
+              "type": "shopping",
+              "coord": [
+                38.9649506,
+                -9.4168606
+              ]
+            },
+            {
+              "name": "Ribamar Restaurante",
+              "type": "dinner",
+              "coord": [
+                39.0058784,
+                -9.4203081
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Travel to Porto & Northern Portugal",
+          "items": [
+            {
+              "name": "The Yeatman",
+              "type": "hotel",
+              "coord": [
+                41.133345999999996,
+                -8.613011
+              ]
+            },
+            {
+              "name": "Morning train Lisbon → Porto (3hr)",
+              "type": "info",
+              "coord": [
+                41.133345999999996,
+                -8.613011
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.9614409,
+                -9.4157371
+              ]
+            },
+            {
               "name": "Antiqvvm",
+              "type": "dinner",
               "coord": [
                 41.147458,
                 -8.6284843
@@ -7595,215 +7771,192 @@
           ]
         },
         {
-          "day": 3,
-          "title": "Sintra Magic",
+          "label": "Day 5 — Porto's Best — Historic Center",
           "items": [
             {
+              "name": "Hotel Infante de Sagres",
               "type": "hotel",
-              "name": "Tivoli Palácio de Seteais",
               "coord": [
-                38.7967332,
-                -9.3995856
+                41.147947099999996,
+                -8.6129597
               ]
             },
             {
-              "type": "lunch",
-              "name": "Cantinho Gastronómico",
-              "coord": [
-                38.7965178,
-                -9.3904018
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Pena Palace",
-              "coord": [
-                38.7875851,
-                -9.3906089
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Quinta da Regaleira",
-              "coord": [
-                38.7963069,
-                -9.3960244
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Tivoli Palácio Restaurant",
-              "coord": [
-                38.8,
-                -9.391
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Cascais Escape",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Martinhal Lisbon Cascais Family Resort",
-              "coord": [
-                38.7087432,
-                -9.143559300000001
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cascais Beaches & Coastal Walks",
-              "coord": [
-                38.7019521,
-                -9.391996299999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Confraria dos Peixeiros",
-              "coord": [
-                38.6955762,
-                -9.4208265
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cliffs of Farol",
-              "coord": [
-                38.715,
-                -9.498
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Porto Arrival",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "The Yeatman",
-              "coord": [
-                41.133345999999996,
-                -8.613011
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Livraria Lello",
-              "coord": [
-                41.146905499999995,
-                -8.614774599999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Dom Luís I Bridge",
-              "coord": [
-                41.139958899999996,
-                -8.6094485
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Francesinha Café",
-              "coord": [
-                41.1601875,
-                -8.6006582
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Feitoria",
-              "coord": [
-                38.6934397,
-                -9.210497799999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Ribeira Exploration",
-          "items": [
-            {
-              "type": "breakfast",
               "name": "Confeitaria do Bolhão",
+              "type": "breakfast",
               "coord": [
                 41.1485339,
                 -8.6075535
               ]
             },
             {
+              "name": "Livraria Lello",
               "type": "sightseeing",
-              "name": "Ribeira Historic Quarter",
               "coord": [
-                41.142606699999995,
-                -8.614674899999999
+                41.146905499999995,
+                -8.614774599999999
               ]
             },
             {
+              "name": "Torre dos Clérigos",
               "type": "sightseeing",
-              "name": "Bolhão Market",
               "coord": [
-                41.1493855,
-                -8.6071175
+                41.1456705,
+                -8.6145977
               ]
             },
             {
-              "type": "lunch",
               "name": "Casa Filipa",
+              "type": "lunch",
               "coord": [
                 41.147888800000004,
                 -8.612245999999999
               ]
             },
             {
+              "name": "Ribeira Historic Quarter",
               "type": "sightseeing",
-              "name": "Museu Serralves",
               "coord": [
-                41.1598058,
-                -8.659614999999999
+                41.142606699999995,
+                -8.614674899999999
+              ]
+            },
+            {
+              "name": "Museu do Vinho do Porto",
+              "type": "sightseeing",
+              "coord": [
+                41.1400547,
+                -8.6153256
+              ]
+            },
+            {
+              "name": "Sandeman Port Lodge Restaurant",
+              "type": "dinner",
+              "coord": [
+                41.137648999999996,
+                -8.6124
               ]
             }
           ]
         },
         {
-          "day": 7,
-          "title": "Douro Valley",
+          "label": "Day 6 — Port Wine Journey — Cellars & Vineyards",
           "items": [
             {
+              "name": "Porto A.S. 1829",
               "type": "hotel",
+              "coord": [
+                41.1429603,
+                -8.6149224
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.1429603,
+                -8.6149224
+              ]
+            },
+            {
+              "name": "Wine Shippers Houses",
+              "type": "sightseeing",
+              "coord": [
+                41.137381999999995,
+                -8.612826
+              ]
+            },
+            {
+              "name": "Museu do Vinho do Porto",
+              "type": "sightseeing",
+              "coord": [
+                41.1400547,
+                -8.6153256
+              ]
+            },
+            {
+              "name": "Sandeman Port Lodge Restaurant",
+              "type": "lunch",
+              "coord": [
+                41.137648999999996,
+                -8.6124
+              ]
+            },
+            {
+              "name": "Douro Wine Shop",
+              "type": "shopping",
+              "coord": [
+                41.1404845,
+                -8.6141667
+              ]
+            },
+            {
+              "name": "The Yeatman",
+              "type": "dinner",
+              "coord": [
+                41.133345999999996,
+                -8.613011
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Douro Valley Must-See Day",
+          "items": [
+            {
               "name": "Six Senses Douro Valley",
+              "type": "hotel",
               "coord": [
                 41.144117400000006,
                 -7.812800999999999
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Douro Valley Train Experience",
               "type": "sightseeing",
+              "coord": [
+                41.1918416,
+                -7.5479306
+              ]
+            },
+            {
+              "name": "Riverside lunch",
+              "type": "lunch",
+              "coord": [
+                41.1918416,
+                -7.5479306
+              ]
+            },
+            {
               "name": "Wine Tasting at Quinta",
+              "type": "sightseeing",
               "coord": [
                 41.1891952,
                 -7.540864000000001
               ]
             },
             {
-              "type": "lunch",
-              "name": "Quinta do Vale Restaurant",
+              "name": "Traditional Portuguese dinner",
+              "type": "dinner",
               "coord": [
-                40.4996642,
-                -8.0853318
+                41.1476539,
+                -7.408433699999999
               ]
             },
             {
-              "type": "dinner",
-              "name": "Casa do Comendador",
+              "name": "Evening stroll through vineyards",
+              "type": "optional",
               "coord": [
-                40.3937497,
-                -7.543531000000001
+                41.144117400000006,
+                -7.812800999999999
               ]
             }
           ]
@@ -7811,132 +7964,230 @@
       ]
     },
     "b": {
-      "name": "Hidden Gems (7 days)",
-      "color": "#059669",
+      "name": "Family Comfort (10 Days)",
+      "description": "Family-friendly exploration through Lisbon, Central Coast castles, and Porto with comfortable 2-3 night stays.",
       "days": [
         {
-          "day": 1,
-          "title": "Alentejo Arrival",
+          "label": "Day 1 — Family Day — Parque das Nações",
           "items": [
             {
+              "name": "Hilton Lisbon Oriente",
               "type": "hotel",
-              "name": "Torre de Palma Wine Hotel",
               "coord": [
-                39.068323,
-                -7.488911000000001
+                38.7678423,
+                -9.0993449
               ]
             },
             {
-              "type": "lunch",
-              "name": "Tejo Cozinha",
-              "coord": [
-                38.708949,
-                -9.1315349
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Monsaraz Medieval Village",
-              "coord": [
-                38.4422413,
-                -7.381747
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Herdade do Rocim Restaurant",
-              "coord": [
-                38.1982608,
-                -7.8575162999999995
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Évora UNESCO",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Convento do Espinheiro",
-              "coord": [
-                38.601179599999995,
-                -7.888501499999999
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Café da Rainha",
               "coord": [
-                38.266,
-                -7.59
+                38.7678423,
+                -9.0993449
               ]
             },
             {
+              "name": "Oceanário de Lisboa",
               "type": "sightseeing",
-              "name": "Évora Cathedral & Museum",
               "coord": [
-                38.5717642,
-                -7.9068568
+                38.7635435,
+                -9.0937415
               ]
             },
             {
+              "name": "Parque Nações",
               "type": "sightseeing",
-              "name": "Chapel of the Bones",
               "coord": [
-                38.5687576,
-                -7.9088254
+                38.7686316,
+                -9.095858
               ]
             },
             {
+              "name": "Time Out Market",
+              "type": "lunch",
+              "coord": [
+                38.7070608,
+                -9.1456691
+              ]
+            },
+            {
+              "name": "Rest time at hotel",
+              "type": "nap",
+              "coord": [
+                38.7678423,
+                -9.0993449
+              ]
+            },
+            {
+              "name": "Chocolate Museum",
               "type": "sightseeing",
-              "name": "Roman Temple of Évora",
               "coord": [
-                38.572590399999996,
-                -7.9072944000000005
+                38.762127558821135,
+                -9.091709832847746
               ]
             },
             {
+              "name": "Ramada Restaurant",
               "type": "dinner",
-              "name": "Adega das Bruxas",
               "coord": [
-                -23.012923800000003,
-                -45.5545519
+                38.739724599999995,
+                -9.124188799999999
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Marvão Mountain",
+          "label": "Day 2 — Sintra Magic — Palaces & Mysteries",
           "items": [
             {
+              "name": "Tivoli Palácio de Seteais",
               "type": "hotel",
-              "name": "Herdade do Rocim",
               "coord": [
-                38.1982608,
-                -7.8575162999999995
+                38.7967332,
+                -9.3995856
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.7967332,
+                -9.3995856
+              ]
+            },
+            {
+              "name": "Pena Palace",
               "type": "sightseeing",
-              "name": "Marvão Castle",
               "coord": [
-                39.3968898,
-                -7.3798623
+                38.7875851,
+                -9.3906089
               ]
             },
             {
+              "name": "Parque da Pena",
+              "type": "sightseeing",
+              "coord": [
+                38.7883979,
+                -9.3886436
+              ]
+            },
+            {
+              "name": "Cantinho Gastronómico",
               "type": "lunch",
-              "name": "Moenda",
               "coord": [
-                43.3103712,
-                -8.265341099999999
+                38.7965178,
+                -9.3904018
               ]
             },
             {
+              "name": "Quinta da Regaleira",
+              "type": "sightseeing",
+              "coord": [
+                38.7963069,
+                -9.3960244
+              ]
+            },
+            {
+              "name": "Palácio Nacional de Sintra",
+              "type": "sightseeing",
+              "coord": [
+                38.7976627,
+                -9.3906554
+              ]
+            },
+            {
+              "name": "Boca do Lobo",
               "type": "dinner",
+              "coord": [
+                38.7981038,
+                -9.399659
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Beach Day at Cascais",
+          "items": [
+            {
+              "name": "Tivoli Palácio de Seteais",
+              "type": "hotel",
+              "coord": [
+                38.7967332,
+                -9.3995856
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.7967332,
+                -9.3995856
+              ]
+            },
+            {
+              "name": "Free morning to explore Lisbon & Metropolitan Area",
+              "type": "sightseeing",
+              "coord": [
+                38.7967332,
+                -9.3995856
+              ]
+            },
+            {
+              "name": "Avenida",
+              "type": "lunch",
+              "coord": [
+                38.720113999999995,
+                -9.145823
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                38.7967332,
+                -9.3995856
+              ]
+            },
+            {
+              "name": "Feitoria",
+              "type": "dinner",
+              "coord": [
+                38.6934397,
+                -9.210497799999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Travel to Central Coast & Silver Coast",
+          "items": [
+            {
+              "name": "Albergaria da Atouguia",
+              "type": "hotel",
+              "coord": [
+                39.3390254,
+                -9.325765299999999
+              ]
+            },
+            {
+              "name": "Morning drive to Óbidos (1hr)",
+              "type": "info",
+              "coord": [
+                39.3390254,
+                -9.325765299999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.7967332,
+                -9.3995856
+              ]
+            },
+            {
               "name": "Adega Tipica",
+              "type": "dinner",
               "coord": [
                 39.2663856,
                 -8.6969181
@@ -7945,161 +8196,343 @@
           ]
         },
         {
-          "day": 4,
-          "title": "Óbidos Medieval",
+          "label": "Day 5 — Family Fun — Óbidos & Caldas",
           "items": [
             {
+              "name": "Albergaria da Atouguia",
               "type": "hotel",
-              "name": "Casa Areias",
               "coord": [
-                38.402985099999995,
-                -8.7648606
+                39.3390254,
+                -9.325765299999999
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.3390254,
+                -9.325765299999999
+              ]
+            },
+            {
+              "name": "Óbidos Medieval Town",
               "type": "sightseeing",
+              "coord": [
+                39.3582074,
+                -9.1581321
+              ]
+            },
+            {
+              "name": "Café & Comida",
+              "type": "lunch",
+              "coord": [
+                39.3591145,
+                -9.1569947
+              ]
+            },
+            {
+              "name": "Afternoon rest",
+              "type": "nap",
+              "coord": [
+                39.3390254,
+                -9.325765299999999
+              ]
+            },
+            {
+              "name": "Caldas da Rainha Thermal Pools",
+              "type": "sightseeing",
+              "coord": [
+                39.403265600000005,
+                -9.1322985
+              ]
+            },
+            {
+              "name": "O Forno",
+              "type": "dinner",
+              "coord": [
+                39.202195599999996,
+                -8.6273967
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Greatest Hits — Batalha to Óbidos",
+          "items": [
+            {
+              "name": "Albergaria da Atouguia",
+              "type": "hotel",
+              "coord": [
+                39.3390254,
+                -9.325765299999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.3390254,
+                -9.325765299999999
+              ]
+            },
+            {
               "name": "Óbidos Medieval Walled Town",
+              "type": "sightseeing",
               "coord": [
                 39.3604437,
                 -9.158180800000002
               ]
             },
             {
-              "type": "lunch",
               "name": "O Tejo",
+              "type": "lunch",
               "coord": [
-                43.7063645,
-                7.267202299999999
+                39.36,
+                -9.158
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Egg Custard Pastry Shop",
-              "coord": [
-                39.4001282,
-                -9.1358812
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Batalha & Alcobaça",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Sublime Ericeira",
-              "coord": [
-                38.9614409,
-                -9.4157371
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Batalha Monastery",
+              "type": "sightseeing",
               "coord": [
                 39.6591585,
                 -8.825539899999999
               ]
             },
             {
-              "type": "lunch",
               "name": "Pousada Restaurant",
+              "type": "dinner",
               "coord": [
                 39.7007141,
                 -8.7873926
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Alcobaça Monastery",
+              "name": "Evening stroll in Batalha",
+              "type": "optional",
               "coord": [
-                39.5482091,
-                -8.9796067
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Casa do Bacalhoeiro",
-              "coord": [
-                38.732207599999995,
-                -9.106444699999999
+                39.6591585,
+                -8.825539899999999
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Ericeira Surf",
+          "label": "Day 7 — Travel to Porto & Northern Portugal",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Coffee at Ericeira",
-              "coord": [
-                38.964,
-                -9.435
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ericeira Coastal Village",
-              "coord": [
-                38.9729167,
-                -9.4201944
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Ericeira Fish Market",
-              "coord": [
-                38.9649506,
-                -9.4168606
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Peniche Surfer Beach",
-              "coord": [
-                39.371772799999995,
-                -9.3324628
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Lisbon Return",
-          "items": [
-            {
+              "name": "The Yeatman",
               "type": "hotel",
-              "name": "Memmo Alfama Hotel",
               "coord": [
-                38.7102204,
-                -9.1305785
+                41.133345999999996,
+                -8.613011
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Museu do Azulejo",
+              "name": "Drive to Porto (2hr) via scenic coastal route",
+              "type": "info",
               "coord": [
-                38.7250559,
-                -9.113539
+                41.133345999999996,
+                -8.613011
               ]
             },
             {
-              "type": "lunch",
-              "name": "Solar dos Presuntos",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                38.7178208,
-                -9.141697899999999
+                39.3390254,
+                -9.325765299999999
               ]
             },
             {
+              "name": "Antiqvvm",
               "type": "dinner",
-              "name": "Pap'Açôrda",
               "coord": [
-                38.7067428,
-                -9.1460537
+                41.147458,
+                -8.6284843
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Family Fun — Porto with Kids",
+          "items": [
+            {
+              "name": "Oporto Boutique Hotel",
+              "type": "hotel",
+              "coord": [
+                41.1545255,
+                -8.604629
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.1545255,
+                -8.604629
+              ]
+            },
+            {
+              "name": "São Bento Train Station",
+              "type": "sightseeing",
+              "coord": [
+                41.145492,
+                -8.609544
+              ]
+            },
+            {
+              "name": "Bolhão Market",
+              "type": "sightseeing",
+              "coord": [
+                41.1493855,
+                -8.6071175
+              ]
+            },
+            {
+              "name": "Casa Filipa",
+              "type": "lunch",
+              "coord": [
+                41.147888800000004,
+                -8.612245999999999
+              ]
+            },
+            {
+              "name": "Afternoon rest",
+              "type": "nap",
+              "coord": [
+                41.1545255,
+                -8.604629
+              ]
+            },
+            {
+              "name": "Dom Luís I Bridge",
+              "type": "sightseeing",
+              "coord": [
+                41.139958899999996,
+                -8.6094485
+              ]
+            },
+            {
+              "name": "O Comercial",
+              "type": "dinner",
+              "coord": [
+                41.14156020000001,
+                -8.6152944
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Family Fun in the Vineyards",
+          "items": [
+            {
+              "name": "Six Senses Douro Valley",
+              "type": "hotel",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Family breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Douro Valley Train Journey",
+              "type": "sightseeing",
+              "coord": [
+                41.190509899999995,
+                -7.545028100000001
+              ]
+            },
+            {
+              "name": "Kid-friendly restaurant",
+              "type": "lunch",
+              "coord": [
+                41.1891952,
+                -7.540864000000001
+              ]
+            },
+            {
+              "name": "Rest time at hotel",
+              "type": "nap",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Wine Tasting at Quinta",
+              "type": "sightseeing",
+              "coord": [
+                41.1891952,
+                -7.540864000000001
+              ]
+            },
+            {
+              "name": "Casual family dinner",
+              "type": "dinner",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Free Day in Porto",
+          "items": [
+            {
+              "name": "Six Senses Douro Valley",
+              "type": "hotel",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Free morning to explore Porto & Northern Portugal",
+              "type": "sightseeing",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Antiqvvm",
+              "type": "lunch",
+              "coord": [
+                41.147458,
+                -8.6284843
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Pedro Lemos",
+              "type": "dinner",
+              "coord": [
+                41.1480641,
+                -8.6500361
               ]
             }
           ]
@@ -8107,572 +8540,185 @@
       ]
     },
     "c": {
-      "name": "Family Comfort (10 days)",
-      "color": "#D97706",
+      "name": "Grand Tour (14 Days)",
+      "description": "Comprehensive Portuguese journey from Lisbon through Alentejo, Algarve, Central Interior, Douro Valley to Porto.",
       "days": [
         {
-          "day": 1,
-          "title": "Lisbon Arrival",
+          "label": "Day 1 — Lisbon Icons — Belém to Alfama",
           "items": [
             {
+              "name": "Memmo Alfama Hotel",
               "type": "hotel",
-              "name": "Martinhal Lisbon Cascais Family Resort",
               "coord": [
-                38.7087432,
-                -9.143559300000001
+                38.7102204,
+                -9.1305785
               ]
             },
             {
-              "type": "lunch",
-              "name": "Pastéis de Belém",
-              "coord": [
-                38.716,
-                -9.209
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Oceanário de Lisboa",
-              "coord": [
-                38.7635435,
-                -9.0937415
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Rio Maravilha",
-              "coord": [
-                38.7019654,
-                -9.1779379
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Lisbon Culture",
-          "items": [
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Mercado da Ribeira",
               "coord": [
-                38.7070608,
-                -9.1456691
+                38.7102204,
+                -9.1305785
               ]
             },
             {
+              "name": "Jerónimos Monastery",
               "type": "sightseeing",
-              "name": "Museu da Criança",
               "coord": [
-                38.7622587,
-                -9.095872
+                38.6978909,
+                -9.206703899999999
               ]
             },
             {
+              "name": "Belém Tower",
+              "type": "sightseeing",
+              "coord": [
+                38.691583699999995,
+                -9.215977299999999
+              ]
+            },
+            {
+              "name": "Feitoria",
               "type": "lunch",
-              "name": "Comida de Santo",
               "coord": [
-                38.7032585,
-                -9.1797246
+                38.6934397,
+                -9.210497799999999
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Castelo de São Jorge",
+              "type": "sightseeing",
               "coord": [
                 38.713909199999996,
                 -9.1334762
               ]
             },
             {
-              "type": "optional",
-              "name": "Nap time",
+              "name": "Lisbon Tram 28 Journey",
+              "type": "sightseeing",
               "coord": [
-                38.699,
-                -9.421
+                38.7152423,
+                -9.136078399999999
+              ]
+            },
+            {
+              "name": "Belcanto",
+              "type": "dinner",
+              "coord": [
+                38.7100994,
+                -9.1414656
+              ]
+            },
+            {
+              "name": "Adamastor Viewpoint",
+              "type": "optional",
+              "coord": [
+                38.7095542,
+                -9.1475977
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Sintra Family",
+          "label": "Day 2 — Sintra Magic — Palaces & Mysteries",
           "items": [
             {
+              "name": "Tivoli Palácio de Seteais",
               "type": "hotel",
-              "name": "Penha Longa Resort",
               "coord": [
-                38.7608284,
-                -9.396718
+                38.7967332,
+                -9.3995856
               ]
             },
             {
-              "type": "lunch",
-              "name": "Cantinho Gastronómico",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                38.7965178,
-                -9.3904018
+                38.7967332,
+                -9.3995856
               ]
             },
             {
+              "name": "Pena Palace",
               "type": "sightseeing",
-              "name": "Pena Palace Grounds",
               "coord": [
                 38.7875851,
                 -9.3906089
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Parque da Pena",
+              "type": "sightseeing",
               "coord": [
                 38.7883979,
                 -9.3886436
               ]
             },
             {
-              "type": "optional",
-              "name": "Rest and pool",
-              "coord": [
-                38.760819,
-                -9.396629
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Sintra Magic",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                38.760819,
-                -9.396629
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Sintra Forest Walks",
-              "coord": [
-                38.7664672,
-                -9.424982600000002
-              ]
-            },
-            {
+              "name": "Cantinho Gastronómico",
               "type": "lunch",
-              "name": "Café nearby",
               "coord": [
-                38.8,
-                -9.393
+                38.7965178,
+                -9.3904018
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Quinta da Regaleira",
+              "type": "sightseeing",
               "coord": [
                 38.7963069,
                 -9.3960244
               ]
             },
             {
-              "type": "optional",
-              "name": "Nap",
-              "coord": [
-                38.760819,
-                -9.396629
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Cascais Beach",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Areias do Seixo",
-              "coord": [
-                39.1532931,
-                -9.362714
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Confraria dos Peixeiros",
-              "coord": [
-                38.6955762,
-                -9.4208265
-              ]
-            },
-            {
+              "name": "Palácio Nacional de Sintra",
               "type": "sightseeing",
-              "name": "Cascais Beaches",
               "coord": [
-                38.6919009,
-                -9.422165699999999
+                38.7976627,
+                -9.3906554
               ]
             },
             {
-              "type": "optional",
-              "name": "Beach play and relaxation",
+              "name": "Boca do Lobo",
+              "type": "dinner",
               "coord": [
-                38.696,
-                -9.421
+                38.7981038,
+                -9.399659
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Beach Rest",
+          "label": "Day 3 — Travel to Alentejo Plains & Wine Country",
           "items": [
             {
-              "type": "breakfast",
+              "name": "Vermelho Melides",
+              "type": "hotel",
+              "coord": [
+                38.146318799999996,
+                -8.7282551
+              ]
+            },
+            {
+              "name": "Morning drive to Évora (1.5hr)",
+              "type": "info",
+              "coord": [
+                38.146318799999996,
+                -8.7282551
+              ]
+            },
+            {
               "name": "Hotel breakfast",
-              "coord": [
-                39.522,
-                -9.268
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cascais Beaches & Coastal Walks",
-              "coord": [
-                38.7019521,
-                -9.391996299999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Ribamar Restaurante",
-              "coord": [
-                39.0058784,
-                -9.4203081
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Beach time and rest",
-              "coord": [
-                38.696,
-                -9.421
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Algarve Arrival",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Dom Pedro Meia Praia",
-              "coord": [
-                37.113190200000005,
-                -8.6594956
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Ramada Restaurant",
-              "coord": [
-                38.739724599999995,
-                -9.124188799999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ponta da Piedade Sea Caves Boat",
-              "coord": [
-                37.109233499999995,
-                -8.6732711
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Pool and rest",
-              "coord": [
-                37.105,
-                -8.677
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Algarve Exploration",
-          "items": [
-            {
               "type": "breakfast",
-              "name": "Hotel breakfast",
               "coord": [
-                37.105,
-                -8.677
+                38.7967332,
+                -9.3995856
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Silves Castle Courtyard",
-              "coord": [
-                37.1908831,
-                -8.4379774
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tasquinha do Arco",
-              "coord": [
-                38.7145967,
-                -9.1510131
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Algarve Cliff Viewing",
-              "coord": [
-                37.0767257,
-                -8.2764679
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Beach time",
-              "coord": [
-                37.105,
-                -8.677
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Algarve Beach",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                37.105,
-                -8.677
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Caldas da Rainha Thermal Pools",
-              "coord": [
-                39.403265600000005,
-                -9.1322985
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Casual restaurant",
-              "coord": [
-                37.12,
-                -8.39
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Relaxation and play",
-              "coord": [
-                37.105,
-                -8.677
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Porto Return",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Conrad Porto",
-              "coord": [
-                37.0632425,
-                -8.0289784
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Francesinha Café",
-              "coord": [
-                41.1601875,
-                -8.6006582
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Livraria Lello",
-              "coord": [
-                41.146905499999995,
-                -8.614774599999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Dom Luís I Bridge",
-              "coord": [
-                41.139958899999996,
-                -8.6094485
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Pedro Lemos",
-              "coord": [
-                41.1480641,
-                -8.6500361
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "d": {
-      "name": "Foodie Deep-Dive (10 days)",
-      "color": "#DC2626",
-      "days": [
-        {
-          "day": 1,
-          "title": "Lisbon Gastronomic Gateway",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Four Seasons Hotel Ritz Lisbon",
-              "coord": [
-                38.7255223,
-                -9.1553051
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Cervejaria Ramiro",
-              "coord": [
-                38.720257,
-                -9.1357429
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Avenida",
-              "coord": [
-                38.720113999999995,
-                -9.145823
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Lisbon Food Markets",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Mercado da Ribeira",
-              "coord": [
-                38.7070608,
-                -9.1456691
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Conserveira de Lisboa",
-              "coord": [
-                38.7093206,
-                -9.134697
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Mercado de São Bento",
-              "coord": [
-                38.714012,
-                -9.1532184
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Antiqvvm",
-              "coord": [
-                41.147458,
-                -8.6284843
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Lisbon Casual Gems",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Pastéis de Belém",
-              "coord": [
-                38.716,
-                -9.209
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Solar dos Presuntos",
-              "coord": [
-                38.7178208,
-                -9.141697899999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Feira da Ladra Flea Market",
-              "coord": [
-                38.715247999999995,
-                -9.1262075
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Pap'Açôrda",
-              "coord": [
-                38.7067428,
-                -9.1460537
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Alentejo Wine Country",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Torre de Palma Wine Hotel",
-              "coord": [
-                39.068323,
-                -7.488911000000001
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tejo Cozinha",
-              "coord": [
-                38.708949,
-                -9.1315349
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Wine Tasting at Quinta",
-              "coord": [
-                41.1891952,
-                -7.540864000000001
-              ]
-            },
-            {
-              "type": "dinner",
               "name": "Herdade do Rocim Restaurant",
+              "type": "dinner",
               "coord": [
                 38.1982608,
                 -7.8575162999999995
@@ -8681,36 +8727,1489 @@
           ]
         },
         {
-          "day": 5,
-          "title": "Alentejo Culinary Tour",
+          "label": "Day 4 — Greatest Hits — Évora",
           "items": [
             {
+              "name": "Convento do Espinheiro",
+              "type": "hotel",
+              "coord": [
+                38.601179599999995,
+                -7.888501499999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Estate breakfast",
               "coord": [
-                39.068615,
-                -7.488797
+                38.601179599999995,
+                -7.888501499999999
               ]
             },
             {
-              "type": "lunch",
-              "name": "Moenda",
-              "coord": [
-                43.3103712,
-                -8.265341099999999
-              ]
-            },
-            {
+              "name": "Roman Temple of Évora",
               "type": "sightseeing",
-              "name": "Specialty Cheese Shop",
               "coord": [
-                38.7173131,
-                -9.1506385
+                38.572590399999996,
+                -7.9072944000000005
               ]
             },
             {
+              "name": "Évora Cathedral & Museum",
+              "type": "sightseeing",
+              "coord": [
+                38.5717642,
+                -7.9068568
+              ]
+            },
+            {
+              "name": "Moenda",
+              "type": "lunch",
+              "coord": [
+                38.4,
+                -7.95
+              ]
+            },
+            {
+              "name": "Chapel of the Bones",
+              "type": "sightseeing",
+              "coord": [
+                38.5687576,
+                -7.9088254
+              ]
+            },
+            {
+              "name": "Essência do Alentejo",
               "type": "dinner",
+              "coord": [
+                38.5611599,
+                -7.4720038
+              ]
+            },
+            {
+              "name": "Evening stroll through Évora old town",
+              "type": "optional",
+              "coord": [
+                38.5717642,
+                -7.9068568
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Wine Country — Rural Alentejo",
+          "items": [
+            {
+              "name": "Herdade do Rocim",
+              "type": "hotel",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            },
+            {
+              "name": "Hotel breakfast with estate views",
+              "type": "breakfast",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            },
+            {
+              "name": "Farm experiences and vineyard tour",
+              "type": "sightseeing",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            },
+            {
+              "name": "Herdade do Rocim Restaurant",
+              "type": "lunch",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            },
+            {
+              "name": "Wine tasting and cork grove walk",
+              "type": "sightseeing",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            },
+            {
+              "name": "Adega das Bruxas",
+              "type": "dinner",
+              "coord": [
+                38.266,
+                -7.59
+              ]
+            },
+            {
+              "name": "Stargazing on the estate",
+              "type": "optional",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Travel to Algarve Coast",
+          "items": [
+            {
+              "name": "Vila Vita Parc Resort & Spa",
+              "type": "hotel",
+              "coord": [
+                37.1018506,
+                -8.379326599999999
+              ]
+            },
+            {
+              "name": "Drive to Algarve (2hr)",
+              "type": "info",
+              "coord": [
+                37.1018506,
+                -8.379326599999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            },
+            {
+              "name": "Adega do Cantor",
+              "type": "dinner",
+              "coord": [
+                37.1238643,
+                -8.2787843
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Algarve Icons — Lagos to Sagres",
+          "items": [
+            {
+              "name": "Dom Pedro Meia Praia",
+              "type": "hotel",
+              "coord": [
+                37.113190200000005,
+                -8.6594956
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.113190200000005,
+                -8.6594956
+              ]
+            },
+            {
+              "name": "Ponta da Piedade Sea Caves Boat",
+              "type": "sightseeing",
+              "coord": [
+                37.109233499999995,
+                -8.6732711
+              ]
+            },
+            {
+              "name": "Adega do Cantor",
+              "type": "lunch",
+              "coord": [
+                37.1238643,
+                -8.2787843
+              ]
+            },
+            {
+              "name": "Sagres Fortress Tour",
+              "type": "sightseeing",
+              "coord": [
+                37.0006581,
+                -8.9482365
+              ]
+            },
+            {
+              "name": "Sunset viewing at fortress",
+              "type": "sightseeing",
+              "coord": [
+                37.0006581,
+                -8.9482365
+              ]
+            },
+            {
+              "name": "Return to hotel area for dinner",
+              "type": "dinner",
+              "coord": [
+                37.113190200000005,
+                -8.6594956
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Coastal Drive — Albufeira to Sagres",
+          "items": [
+            {
+              "name": "Bela Vista Hotel & Spa",
+              "type": "hotel",
+              "coord": [
+                37.1185334,
+                -8.5374673
+              ]
+            },
+            {
+              "name": "Hotel breakfast with ocean views",
+              "type": "breakfast",
+              "coord": [
+                37.1185334,
+                -8.5374673
+              ]
+            },
+            {
+              "name": "Algarve Cliff Viewing",
+              "type": "sightseeing",
+              "coord": [
+                37.0767257,
+                -8.2764679
+              ]
+            },
+            {
+              "name": "Adega do Cantor",
+              "type": "lunch",
+              "coord": [
+                37.1238643,
+                -8.2787843
+              ]
+            },
+            {
+              "name": "Sagres Fortress Tour",
+              "type": "sightseeing",
+              "coord": [
+                37.0006581,
+                -8.9482365
+              ]
+            },
+            {
+              "name": "Sunset at Cape St. Vincent",
+              "type": "sightseeing",
+              "coord": [
+                37.0006581,
+                -8.9482365
+              ]
+            },
+            {
+              "name": "Return to hotel for spa dinner",
+              "type": "dinner",
+              "coord": [
+                37.1185334,
+                -8.5374673
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Travel to Central Mountains & Beiras",
+          "items": [
+            {
+              "name": "Quinta das Lágrimas",
+              "type": "hotel",
+              "coord": [
+                40.1986646,
+                -8.4351702
+              ]
+            },
+            {
+              "name": "Drive north to Beiras region (4.5hr) with scenic stops",
+              "type": "info",
+              "coord": [
+                40.1986646,
+                -8.4351702
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.1185334,
+                -8.5374673
+              ]
+            },
+            {
+              "name": "Restaurante Panorama",
+              "type": "dinner",
+              "coord": [
+                40.331432799999995,
+                -8.841612
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Best of Central Beiras — Aveiro to Mountains",
+          "items": [
+            {
+              "name": "Quinta das Lágrimas",
+              "type": "hotel",
+              "coord": [
+                40.1986646,
+                -8.4351702
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.1986646,
+                -8.4351702
+              ]
+            },
+            {
+              "name": "Aveiro Canal City Gondola Rides",
+              "type": "sightseeing",
+              "coord": [
+                40.6413733,
+                -8.655442899999999
+              ]
+            },
+            {
+              "name": "Trem da História",
+              "type": "lunch",
+              "coord": [
+                40.644,
+                -8.648
+              ]
+            },
+            {
+              "name": "Buçaco Palace",
+              "type": "sightseeing",
+              "coord": [
+                40.3759896,
+                -8.3650551
+              ]
+            },
+            {
+              "name": "Quinta do Vale Restaurant",
+              "type": "dinner",
+              "coord": [
+                40.4996642,
+                -8.0853318
+              ]
+            },
+            {
+              "name": "Evening stroll in estate grounds",
+              "type": "optional",
+              "coord": [
+                40.1986646,
+                -8.4351702
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 11 — Cultural Discovery — Mountain Villages",
+          "items": [
+            {
+              "name": "Pousada de Guarda",
+              "type": "hotel",
+              "coord": [
+                40.5348792,
+                -7.2733031
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.5348792,
+                -7.2733031
+              ]
+            },
+            {
+              "name": "Guarda Medieval Town Walks",
+              "type": "sightseeing",
+              "coord": [
+                40.5374579,
+                -7.271479500000001
+              ]
+            },
+            {
+              "name": "Mountain cafe lunch",
+              "type": "lunch",
+              "coord": [
+                40.5348792,
+                -7.2733031
+              ]
+            },
+            {
+              "name": "Piodão Village",
+              "type": "sightseeing",
+              "coord": [
+                40.2292601,
+                -7.825028799999999
+              ]
+            },
+            {
+              "name": "Casa do Comendador",
+              "type": "dinner",
+              "coord": [
+                40.3937497,
+                -7.543531000000001
+              ]
+            },
+            {
+              "name": "Evening walk in medieval quarter",
+              "type": "optional",
+              "coord": [
+                40.5374579,
+                -7.271479500000001
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 12 — Travel to Douro Valley Wine Region",
+          "items": [
+            {
+              "name": "Six Senses Douro Valley",
+              "type": "hotel",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Drive to Douro Valley (1.5hr)",
+              "type": "info",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.5348792,
+                -7.2733031
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 13 — Douro Valley Must-See Day",
+          "items": [
+            {
+              "name": "Six Senses Douro Valley",
+              "type": "hotel",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Douro Valley Train Experience",
+              "type": "sightseeing",
+              "coord": [
+                41.1918416,
+                -7.5479306
+              ]
+            },
+            {
+              "name": "Riverside lunch",
+              "type": "lunch",
+              "coord": [
+                41.1918416,
+                -7.5479306
+              ]
+            },
+            {
+              "name": "Wine Tasting at Quinta",
+              "type": "sightseeing",
+              "coord": [
+                41.1891952,
+                -7.540864000000001
+              ]
+            },
+            {
+              "name": "Traditional Portuguese dinner",
+              "type": "dinner",
+              "coord": [
+                41.1476539,
+                -7.408433699999999
+              ]
+            },
+            {
+              "name": "Evening stroll through vineyards",
+              "type": "optional",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 14 — Wine Lover's Paradise",
+          "items": [
+            {
+              "name": "Six Senses Douro Valley",
+              "type": "hotel",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Vineyard breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Museu do Vinho",
+              "type": "sightseeing",
+              "coord": [
+                41.1476539,
+                -7.408433699999999
+              ]
+            },
+            {
+              "name": "Wine-paired lunch at quinta",
+              "type": "lunch",
+              "coord": [
+                41.1891952,
+                -7.540864000000001
+              ]
+            },
+            {
+              "name": "Wine Tasting at Quinta",
+              "type": "sightseeing",
+              "coord": [
+                41.1891952,
+                -7.540864000000001
+              ]
+            },
+            {
+              "name": "Gourmet vineyard dinner",
+              "type": "dinner",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Port tasting at hotel",
+              "type": "optional",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 15 — Porto's Best — Historic Center",
+          "items": [
+            {
+              "name": "Hotel Infante de Sagres",
+              "type": "hotel",
+              "coord": [
+                41.147947099999996,
+                -8.6129597
+              ]
+            },
+            {
+              "name": "Confeitaria do Bolhão",
+              "type": "breakfast",
+              "coord": [
+                41.1485339,
+                -8.6075535
+              ]
+            },
+            {
+              "name": "Livraria Lello",
+              "type": "sightseeing",
+              "coord": [
+                41.146905499999995,
+                -8.614774599999999
+              ]
+            },
+            {
+              "name": "Torre dos Clérigos",
+              "type": "sightseeing",
+              "coord": [
+                41.1456705,
+                -8.6145977
+              ]
+            },
+            {
+              "name": "Casa Filipa",
+              "type": "lunch",
+              "coord": [
+                41.147888800000004,
+                -8.612245999999999
+              ]
+            },
+            {
+              "name": "Ribeira Historic Quarter",
+              "type": "sightseeing",
+              "coord": [
+                41.142606699999995,
+                -8.614674899999999
+              ]
+            },
+            {
+              "name": "Museu do Vinho do Porto",
+              "type": "sightseeing",
+              "coord": [
+                41.1400547,
+                -8.6153256
+              ]
+            },
+            {
+              "name": "Sandeman Port Lodge Restaurant",
+              "type": "dinner",
+              "coord": [
+                41.137648999999996,
+                -8.6124
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "d": {
+      "name": "Wine & Vineyard Journey (9 Days)",
+      "description": "Portugal's finest wine regions from Douro Valley terraces to Alentejo estates and Lisbon's coastal cellars.",
+      "days": [
+        {
+          "label": "Day 1 — Port Wine Journey — Cellars & Vineyards",
+          "items": [
+            {
+              "name": "Porto A.S. 1829",
+              "type": "hotel",
+              "coord": [
+                41.1429603,
+                -8.6149224
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.1429603,
+                -8.6149224
+              ]
+            },
+            {
+              "name": "Wine Shippers Houses",
+              "type": "sightseeing",
+              "coord": [
+                41.137381999999995,
+                -8.612826
+              ]
+            },
+            {
+              "name": "Museu do Vinho do Porto",
+              "type": "sightseeing",
+              "coord": [
+                41.1400547,
+                -8.6153256
+              ]
+            },
+            {
+              "name": "Sandeman Port Lodge Restaurant",
+              "type": "lunch",
+              "coord": [
+                41.137648999999996,
+                -8.6124
+              ]
+            },
+            {
+              "name": "Douro Wine Shop",
+              "type": "shopping",
+              "coord": [
+                41.1404845,
+                -8.6141667
+              ]
+            },
+            {
+              "name": "The Yeatman",
+              "type": "dinner",
+              "coord": [
+                41.133345999999996,
+                -8.613011
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Wine Lover's Paradise",
+          "items": [
+            {
+              "name": "Six Senses Douro Valley",
+              "type": "hotel",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Vineyard breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Museu do Vinho",
+              "type": "sightseeing",
+              "coord": [
+                41.1476539,
+                -7.408433699999999
+              ]
+            },
+            {
+              "name": "Wine-paired lunch at quinta",
+              "type": "lunch",
+              "coord": [
+                41.1891952,
+                -7.540864000000001
+              ]
+            },
+            {
+              "name": "Wine Tasting at Quinta",
+              "type": "sightseeing",
+              "coord": [
+                41.1891952,
+                -7.540864000000001
+              ]
+            },
+            {
+              "name": "Gourmet vineyard dinner",
+              "type": "dinner",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Port tasting at hotel",
+              "type": "optional",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Luxury Escape",
+          "items": [
+            {
+              "name": "Six Senses Douro Valley",
+              "type": "hotel",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Champagne breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Spa morning at Six Senses",
+              "type": "sightseeing",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Farm-to-table lunch",
+              "type": "lunch",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Private wine tasting",
+              "type": "sightseeing",
+              "coord": [
+                41.1891952,
+                -7.540864000000001
+              ]
+            },
+            {
+              "name": "Fine dining experience",
+              "type": "dinner",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Sunset terrace drinks",
+              "type": "optional",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Travel to Central Mountains & Beiras",
+          "items": [
+            {
+              "name": "Quinta das Lágrimas",
+              "type": "hotel",
+              "coord": [
+                40.1986646,
+                -8.4351702
+              ]
+            },
+            {
+              "name": "Drive to Dão wine region (1.5hr)",
+              "type": "info",
+              "coord": [
+                40.1986646,
+                -8.4351702
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.144117400000006,
+                -7.812800999999999
+              ]
+            },
+            {
+              "name": "Restaurante Panorama",
+              "type": "dinner",
+              "coord": [
+                40.331432799999995,
+                -8.841612
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Flavors of the Beiras — Wine & Cheese Trail",
+          "items": [
+            {
+              "name": "Quinta das Lágrimas",
+              "type": "hotel",
+              "coord": [
+                40.1986646,
+                -8.4351702
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.1986646,
+                -8.4351702
+              ]
+            },
+            {
+              "name": "Costa da Bairrada Wine Routes",
+              "type": "sightseeing",
+              "coord": [
+                40.4382963,
+                -8.4382646
+              ]
+            },
+            {
+              "name": "Casa do Comendador",
+              "type": "lunch",
+              "coord": [
+                40.3937497,
+                -7.543531000000001
+              ]
+            },
+            {
+              "name": "Aveiro Ovos Moles Shop",
+              "type": "shopping",
+              "coord": [
+                40.6445937,
+                -8.655045399999999
+              ]
+            },
+            {
+              "name": "Quinta do Vale Restaurant",
+              "type": "dinner",
+              "coord": [
+                40.4996642,
+                -8.0853318
+              ]
+            },
+            {
+              "name": "Wine tasting on estate",
+              "type": "optional",
+              "coord": [
+                40.4996642,
+                -8.0853318
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Travel to Alentejo Plains & Wine Country",
+          "items": [
+            {
+              "name": "Vermelho Melides",
+              "type": "hotel",
+              "coord": [
+                38.146318799999996,
+                -8.7282551
+              ]
+            },
+            {
+              "name": "Drive to Alentejo wine country (2hr)",
+              "type": "info",
+              "coord": [
+                38.146318799999996,
+                -8.7282551
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.1986646,
+                -8.4351702
+              ]
+            },
+            {
+              "name": "Herdade do Rocim Restaurant",
+              "type": "dinner",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Wine Country — Rural Alentejo",
+          "items": [
+            {
+              "name": "Herdade do Rocim",
+              "type": "hotel",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            },
+            {
+              "name": "Hotel breakfast with estate views",
+              "type": "breakfast",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            },
+            {
+              "name": "Farm experiences and vineyard tour",
+              "type": "sightseeing",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            },
+            {
+              "name": "Herdade do Rocim Restaurant",
+              "type": "lunch",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            },
+            {
+              "name": "Wine tasting and cork grove walk",
+              "type": "sightseeing",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            },
+            {
+              "name": "Adega das Bruxas",
+              "type": "dinner",
+              "coord": [
+                38.266,
+                -7.59
+              ]
+            },
+            {
+              "name": "Stargazing on the estate",
+              "type": "optional",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Foodie Tour — Alentejo Flavors",
+          "items": [
+            {
+              "name": "Convento do Espinheiro",
+              "type": "hotel",
+              "coord": [
+                38.601179599999995,
+                -7.888501499999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.601179599999995,
+                -7.888501499999999
+              ]
+            },
+            {
+              "name": "Feira Cabra",
+              "type": "sightseeing",
+              "coord": [
+                38.9028515,
+                -8.4984589
+              ]
+            },
+            {
+              "name": "Essência do Alentejo",
+              "type": "lunch",
+              "coord": [
+                38.5611599,
+                -7.4720038
+              ]
+            },
+            {
+              "name": "Monsaraz Medieval Village",
+              "type": "sightseeing",
+              "coord": [
+                38.4422413,
+                -7.381747
+              ]
+            },
+            {
+              "name": "Herdade do Rocim Restaurant",
+              "type": "dinner",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            },
+            {
+              "name": "Wine tasting at the estate",
+              "type": "optional",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Travel to Lisbon & Metropolitan Area",
+          "items": [
+            {
+              "name": "Four Seasons Hotel Ritz Lisbon",
+              "type": "hotel",
+              "coord": [
+                38.7255223,
+                -9.1553051
+              ]
+            },
+            {
+              "name": "Drive to Lisbon (1.5hr)",
+              "type": "info",
+              "coord": [
+                38.7255223,
+                -9.1553051
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.601179599999995,
+                -7.888501499999999
+              ]
+            },
+            {
+              "name": "Avenida",
+              "type": "dinner",
+              "coord": [
+                38.720113999999995,
+                -9.145823
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Food Lovers' Lisbon",
+          "items": [
+            {
+              "name": "Brown's Boutique Hotel",
+              "type": "hotel",
+              "coord": [
+                38.7109212,
+                -9.1383864
+              ]
+            },
+            {
+              "name": "Manteigaria Silva",
+              "type": "breakfast",
+              "coord": [
+                38.7140939,
+                -9.1386541
+              ]
+            },
+            {
+              "name": "Mercado da Ribeira",
+              "type": "shopping",
+              "coord": [
+                38.7070608,
+                -9.1456691
+              ]
+            },
+            {
+              "name": "Time Out Market",
+              "type": "lunch",
+              "coord": [
+                38.7070608,
+                -9.1456691
+              ]
+            },
+            {
+              "name": "Conserveira de Lisboa",
+              "type": "shopping",
+              "coord": [
+                38.7093206,
+                -9.134697
+              ]
+            },
+            {
+              "name": "Belém Pastéis de Nata Class",
+              "type": "sightseeing",
+              "coord": [
+                38.6975105,
+                -9.203227600000002
+              ]
+            },
+            {
+              "name": "Avenida",
+              "type": "dinner",
+              "coord": [
+                38.720113999999995,
+                -9.145823
+              ]
+            },
+            {
+              "name": "Pavilhão Chinês",
+              "type": "optional",
+              "coord": [
+                38.715784,
+                -9.146719
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "e": {
+      "name": "Coastal & Nature Explorer (8 Days)",
+      "description": "Atlantic Portugal from Algarve's golden cliffs through wild Central Coast to Porto's river meets ocean.",
+      "days": [
+        {
+          "label": "Day 1 — Nature Day — Eastern Algarve",
+          "items": [
+            {
+              "name": "Castro Marim Salterns Hotel",
+              "type": "hotel",
+              "coord": [
+                37.2178069,
+                -7.4590771
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.2178069,
+                -7.4590771
+              ]
+            },
+            {
+              "name": "Nature reserve bird watching",
+              "type": "sightseeing",
+              "coord": [
+                37.2178069,
+                -7.4590771
+              ]
+            },
+            {
+              "name": "Picnic by the lagoon",
+              "type": "lunch",
+              "coord": [
+                37.2178069,
+                -7.4590771
+              ]
+            },
+            {
+              "name": "Tavira Chocolate Shop",
+              "type": "shopping",
+              "coord": [
+                37.1223913,
+                -7.6531602
+              ]
+            },
+            {
+              "name": "Coastal walk and photography",
+              "type": "sightseeing",
+              "coord": [
+                37.2178069,
+                -7.4590771
+              ]
+            },
+            {
+              "name": "Fresh seafood dinner",
+              "type": "dinner",
+              "coord": [
+                37.2178069,
+                -7.4590771
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Coastal Drive — Albufeira to Sagres",
+          "items": [
+            {
+              "name": "Bela Vista Hotel & Spa",
+              "type": "hotel",
+              "coord": [
+                37.1185334,
+                -8.5374673
+              ]
+            },
+            {
+              "name": "Hotel breakfast with ocean views",
+              "type": "breakfast",
+              "coord": [
+                37.1185334,
+                -8.5374673
+              ]
+            },
+            {
+              "name": "Algarve Cliff Viewing",
+              "type": "sightseeing",
+              "coord": [
+                37.0767257,
+                -8.2764679
+              ]
+            },
+            {
+              "name": "Adega do Cantor",
+              "type": "lunch",
+              "coord": [
+                37.1238643,
+                -8.2787843
+              ]
+            },
+            {
+              "name": "Sagres Fortress Tour",
+              "type": "sightseeing",
+              "coord": [
+                37.0006581,
+                -8.9482365
+              ]
+            },
+            {
+              "name": "Sunset at Cape St. Vincent",
+              "type": "sightseeing",
+              "coord": [
+                37.0006581,
+                -8.9482365
+              ]
+            },
+            {
+              "name": "Return to hotel for spa dinner",
+              "type": "dinner",
+              "coord": [
+                37.1185334,
+                -8.5374673
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Alentejo Plains & Wine Country",
+          "items": [
+            {
+              "name": "Vermelho Melides",
+              "type": "hotel",
+              "coord": [
+                38.146318799999996,
+                -8.7282551
+              ]
+            },
+            {
+              "name": "Drive to Comporta coast (2hr)",
+              "type": "info",
+              "coord": [
+                38.146318799999996,
+                -8.7282551
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.1185334,
+                -8.5374673
+              ]
+            },
+            {
+              "name": "Herdade do Rocim Restaurant",
+              "type": "dinner",
+              "coord": [
+                38.1982608,
+                -7.8575162999999995
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Family Day — Comporta Coast",
+          "items": [
+            {
+              "name": "Solar Melides",
+              "type": "hotel",
+              "coord": [
+                38.147031399999996,
+                -8.7286323
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.147031399999996,
+                -8.7286323
+              ]
+            },
+            {
+              "name": "Comporta Beach Family Day",
+              "type": "sightseeing",
+              "coord": [
+                38.305943299999996,
+                -8.779261499999999
+              ]
+            },
+            {
+              "name": "Beach picnic lunch",
+              "type": "lunch",
+              "coord": [
+                38.305943299999996,
+                -8.779261499999999
+              ]
+            },
+            {
+              "name": "Afternoon nap and quiet time",
+              "type": "nap",
+              "coord": [
+                38.147031399999996,
+                -8.7286323
+              ]
+            },
+            {
+              "name": "Estate walk and organic farm visit",
+              "type": "sightseeing",
+              "coord": [
+                38.147031399999996,
+                -8.7286323
+              ]
+            },
+            {
+              "name": "Early dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                38.147031399999996,
+                -8.7286323
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Travel to Central Coast & Silver Coast",
+          "items": [
+            {
+              "name": "Albergaria da Atouguia",
+              "type": "hotel",
+              "coord": [
+                39.3390254,
+                -9.325765299999999
+              ]
+            },
+            {
+              "name": "Drive to Silver Coast (2hr)",
+              "type": "info",
+              "coord": [
+                39.3390254,
+                -9.325765299999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.147031399999996,
+                -8.7286323
+              ]
+            },
+            {
               "name": "Adega Tipica",
+              "type": "dinner",
               "coord": [
                 39.2663856,
                 -8.6969181
@@ -8719,286 +10218,157 @@
           ]
         },
         {
-          "day": 6,
-          "title": "Évora UNESCO & Dining",
+          "label": "Day 6 — Surf Coast — Peniche to Nazaré",
           "items": [
             {
+              "name": "Albergaria da Atouguia",
               "type": "hotel",
-              "name": "Convento do Espinheiro",
               "coord": [
-                38.601179599999995,
-                -7.888501499999999
+                39.3390254,
+                -9.325765299999999
               ]
             },
             {
-              "type": "lunch",
-              "name": "Adega das Bruxas",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                -23.012923800000003,
-                -45.5545519
+                39.3390254,
+                -9.325765299999999
               ]
             },
             {
+              "name": "Peniche Surfer Beach",
               "type": "sightseeing",
-              "name": "Évora Cathedral & Museum",
               "coord": [
-                38.5717642,
-                -7.9068568
+                39.371772799999995,
+                -9.3324628
               ]
             },
             {
-              "type": "dinner",
-              "name": "Roman Temple dining",
+              "name": "Snack Bar Mariscos",
+              "type": "lunch",
               "coord": [
-                38.266,
-                -7.59
+                39.3575309,
+                -9.3909307
+              ]
+            },
+            {
+              "name": "Nazaré Big Waves Viewpoint",
+              "type": "sightseeing",
+              "coord": [
+                39.6059099,
+                -9.0834551
+              ]
+            },
+            {
+              "name": "Restaurante Solar",
+              "type": "dinner",
+              "coord": [
+                39.6109961,
+                -9.0629516
+              ]
+            },
+            {
+              "name": "Sunset beach walk",
+              "type": "optional",
+              "coord": [
+                39.6059099,
+                -9.0834551
               ]
             }
           ]
         },
         {
-          "day": 7,
-          "title": "Porto Food Scene",
+          "label": "Day 7 — Coastal Drive — Silver Coast Villages",
           "items": [
             {
+              "name": "Albergaria da Atouguia",
               "type": "hotel",
+              "coord": [
+                39.3390254,
+                -9.325765299999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.3390254,
+                -9.325765299999999
+              ]
+            },
+            {
+              "name": "Peniche Market Hall",
+              "type": "sightseeing",
+              "coord": [
+                39.3604255,
+                -9.3801141
+              ]
+            },
+            {
+              "name": "Restaurante A Lanterna",
+              "type": "lunch",
+              "coord": [
+                38.8867865,
+                -9.0492674
+              ]
+            },
+            {
+              "name": "Nazaré Big Waves Viewpoint",
+              "type": "sightseeing",
+              "coord": [
+                39.6059099,
+                -9.0834551
+              ]
+            },
+            {
+              "name": "Restaurante Solar",
+              "type": "dinner",
+              "coord": [
+                39.6109961,
+                -9.0629516
+              ]
+            },
+            {
+              "name": "Sunset at the beach",
+              "type": "optional",
+              "coord": [
+                39.6109961,
+                -9.0629516
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Travel to Porto & Northern Portugal",
+          "items": [
+            {
               "name": "The Yeatman",
+              "type": "hotel",
               "coord": [
                 41.133345999999996,
                 -8.613011
               ]
             },
             {
-              "type": "breakfast",
-              "name": "Confeitaria do Bolhão",
+              "name": "Drive to Porto (2hr)",
+              "type": "info",
               "coord": [
-                41.1485339,
-                -8.6075535
+                41.133345999999996,
+                -8.613011
               ]
             },
             {
-              "type": "lunch",
-              "name": "Francesinha Café",
-              "coord": [
-                41.1601875,
-                -8.6006582
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Bolhão Market",
-              "coord": [
-                41.1493855,
-                -8.6071175
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Feitoria",
-              "coord": [
-                38.6934397,
-                -9.210497799999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Porto Culinary Deep-Dive",
-          "items": [
-            {
-              "type": "breakfast",
               "name": "Hotel breakfast",
-              "coord": [
-                41.141,
-                -8.631
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Casa Filipa",
-              "coord": [
-                41.147888800000004,
-                -8.612245999999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Museu do Vinho do Porto",
-              "coord": [
-                41.1400547,
-                -8.6153256
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Pedro Lemos",
-              "coord": [
-                41.1480641,
-                -8.6500361
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Douro Valley Wine & Dine",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Six Senses Douro Valley",
-              "coord": [
-                41.144117400000006,
-                -7.812800999999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Quinta do Vale Restaurant",
-              "coord": [
-                40.4996642,
-                -8.0853318
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Wine Tasting at Quinta",
-              "coord": [
-                41.1891952,
-                -7.540864000000001
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Casa do Comendador",
-              "coord": [
-                40.3937497,
-                -7.543531000000001
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Douro Farewell",
-          "items": [
-            {
               "type": "breakfast",
-              "name": "Estate breakfast",
               "coord": [
-                41.299276,
-                -7.742192
+                39.3390254,
+                -9.325765299999999
               ]
             },
             {
-              "type": "lunch",
-              "name": "O Camarão",
-              "coord": [
-                41.078756999999996,
-                -8.473461799999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Costa da Bairrada Wine Routes",
-              "coord": [
-                40.4382963,
-                -8.4382646
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Sal & Rei",
-              "coord": [
-                16.183349,
-                -22.9148168
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "e": {
-      "name": "Grand Tour (14 days)",
-      "color": "#7C3AED",
-      "days": [
-        {
-          "day": 1,
-          "title": "Lisbon Arrival",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Four Seasons Hotel Ritz Lisbon",
-              "coord": [
-                38.7255223,
-                -9.1553051
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Cervejaria Ramiro",
-              "coord": [
-                38.720257,
-                -9.1357429
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Castelo de São Jorge",
-              "coord": [
-                38.713909199999996,
-                -9.1334762
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Avenida",
-              "coord": [
-                38.720113999999995,
-                -9.145823
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Lisbon Heritage",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Pastéis de Belém",
-              "coord": [
-                38.716,
-                -9.209
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Jerónimos Monastery",
-              "coord": [
-                38.6978909,
-                -9.206703899999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Belém Tower",
-              "coord": [
-                38.691583699999995,
-                -9.215977299999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Comida de Santo",
-              "coord": [
-                38.7032585,
-                -9.1797246
-              ]
-            },
-            {
-              "type": "dinner",
               "name": "Antiqvvm",
+              "type": "dinner",
               "coord": [
                 41.147458,
                 -8.6284843
@@ -9007,481 +10377,70 @@
           ]
         },
         {
-          "day": 3,
-          "title": "Sintra Magic",
+          "label": "Day 9 — Couples Retreat — Ribeira Romance",
           "items": [
             {
+              "name": "Juma Boutique Hotel",
               "type": "hotel",
-              "name": "Tivoli Palácio de Seteais",
               "coord": [
-                38.7967332,
-                -9.3995856
+                41.159,
+                -8.63
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Pena Palace",
-              "coord": [
-                38.7875851,
-                -9.3906089
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Cantinho Gastronómico",
-              "coord": [
-                38.7965178,
-                -9.3904018
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Quinta da Regaleira",
-              "coord": [
-                38.7963069,
-                -9.3960244
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Tivoli Palácio Restaurant",
-              "coord": [
-                38.8,
-                -9.391
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Algarve Beach Escape",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Dom Pedro Meia Praia",
-              "coord": [
-                37.113190200000005,
-                -8.6594956
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Adega do Cantor",
-              "coord": [
-                37.1238643,
-                -8.2787843
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ponta da Piedade Sea Caves Boat",
-              "coord": [
-                37.109233499999995,
-                -8.6732711
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Silves Castle Courtyard",
-              "coord": [
-                37.1908831,
-                -8.4379774
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Algarve Beach Days",
-          "items": [
-            {
+              "name": "Livraria Lello Café",
               "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                37.105,
-                -8.677
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Algarve Cliff Viewing",
-              "coord": [
-                37.0767257,
-                -8.2764679
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tasquinha do Arco",
-              "coord": [
-                38.7145967,
-                -9.1510131
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Caldas da Rainha Thermal Pools",
-              "coord": [
-                39.403265600000005,
-                -9.1322985
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Alentejo Wine Country",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Torre de Palma Wine Hotel",
-              "coord": [
-                39.068323,
-                -7.488911000000001
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tejo Cozinha",
-              "coord": [
-                38.708949,
-                -9.1315349
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Monsaraz Medieval Village",
-              "coord": [
-                38.4422413,
-                -7.381747
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Herdade do Rocim Restaurant",
-              "coord": [
-                38.1982608,
-                -7.8575162999999995
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Évora UNESCO",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Convento do Espinheiro",
-              "coord": [
-                38.601179599999995,
-                -7.888501499999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Adega das Bruxas",
-              "coord": [
-                -23.012923800000003,
-                -45.5545519
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Évora Cathedral & Museum",
-              "coord": [
-                38.5717642,
-                -7.9068568
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Roman Temple of Évora",
-              "coord": [
-                38.572590399999996,
-                -7.9072944000000005
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Marvão & Óbidos",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Casa Areias",
-              "coord": [
-                38.402985099999995,
-                -8.7648606
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Marvão Castle",
-              "coord": [
-                39.3968898,
-                -7.3798623
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Moenda",
-              "coord": [
-                43.3103712,
-                -8.265341099999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Óbidos Medieval Walled Town",
-              "coord": [
-                39.3604437,
-                -9.158180800000002
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Batalha & Alcobaça",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Sublime Ericeira",
-              "coord": [
-                38.9614409,
-                -9.4157371
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Batalha Monastery",
-              "coord": [
-                39.6591585,
-                -8.825539899999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Pousada Restaurant",
-              "coord": [
-                39.7007141,
-                -8.7873926
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Alcobaça Monastery",
-              "coord": [
-                39.5482091,
-                -8.9796067
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Porto Arrival",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "The Yeatman",
-              "coord": [
-                41.133345999999996,
-                -8.613011
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Livraria Lello",
               "coord": [
                 41.146905499999995,
                 -8.614774599999999
               ]
             },
             {
-              "type": "lunch",
-              "name": "Francesinha Café",
-              "coord": [
-                41.1601875,
-                -8.6006582
-              ]
-            },
-            {
+              "name": "Porto Cathedral",
               "type": "sightseeing",
-              "name": "Dom Luís I Bridge",
               "coord": [
-                41.139958899999996,
-                -8.6094485
+                41.142853099999996,
+                -8.6111165
               ]
             },
             {
-              "type": "dinner",
-              "name": "Feitoria",
-              "coord": [
-                38.6934397,
-                -9.210497799999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 11,
-          "title": "Porto Food Scene",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Confeitaria do Bolhão",
-              "coord": [
-                41.1485339,
-                -8.6075535
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Ribeira Historic Quarter",
+              "type": "sightseeing",
               "coord": [
                 41.142606699999995,
                 -8.614674899999999
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Bolhão Market",
-              "coord": [
-                41.1493855,
-                -8.6071175
-              ]
-            },
-            {
+              "name": "Sandeman Port Lodge Restaurant",
               "type": "lunch",
-              "name": "Casa Filipa",
               "coord": [
-                41.147888800000004,
-                -8.612245999999999
+                41.137648999999996,
+                -8.6124
               ]
             },
             {
-              "type": "dinner",
+              "name": "Dom Luís I Bridge",
+              "type": "sightseeing",
+              "coord": [
+                41.139958899999996,
+                -8.6094485
+              ]
+            },
+            {
               "name": "Pedro Lemos",
+              "type": "dinner",
               "coord": [
                 41.1480641,
                 -8.6500361
               ]
-            }
-          ]
-        },
-        {
-          "day": 12,
-          "title": "Douro Valley Entry",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Six Senses Douro Valley",
-              "coord": [
-                41.144117400000006,
-                -7.812800999999999
-              ]
             },
             {
-              "type": "lunch",
-              "name": "Quinta do Vale Restaurant",
+              "name": "Rooftop drinks at hotel",
+              "type": "optional",
               "coord": [
-                40.4996642,
-                -8.0853318
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Wine Tasting at Quinta",
-              "coord": [
-                41.1891952,
-                -7.540864000000001
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Casa do Comendador",
-              "coord": [
-                40.3937497,
-                -7.543531000000001
-              ]
-            }
-          ]
-        },
-        {
-          "day": 13,
-          "title": "Douro Valley Wine Tour",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Estate breakfast",
-              "coord": [
-                41.299276,
-                -7.742192
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Douro Valley Train Experience",
-              "coord": [
-                41.1918416,
-                -7.5479306
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "O Camarão",
-              "coord": [
-                41.078756999999996,
-                -8.473461799999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Costa da Bairrada Wine Routes",
-              "coord": [
-                40.4382963,
-                -8.4382646
-              ]
-            }
-          ]
-        },
-        {
-          "day": 14,
-          "title": "Minho North & Departure",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Pousada Monastério de Vilarinho",
-              "coord": [
-                41.443498,
-                -8.276537
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Monastery breakfast",
-              "coord": [
-                41.783,
-                -8.563
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Restaurante Velha Goa",
-              "coord": [
-                41.7790044,
-                -8.5862438
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Minho countryside exploration",
-              "coord": [
-                41.697,
-                -8.826
+                41.159,
+                -8.63
               ]
             }
           ]

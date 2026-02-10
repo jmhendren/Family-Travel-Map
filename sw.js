@@ -5,7 +5,7 @@ const ASSETS_TO_CACHE = [
   './destinations.json',
   './config.json',
   './manifest.json',
-  // All 16 destination JSONs
+  // All 17 destination JSONs
   './destinations/japan.json',
   './destinations/italy.json',
   './destinations/greece.json',
@@ -22,6 +22,7 @@ const ASSETS_TO_CACHE = [
   './destinations/belgium.json',
   './destinations/mexico.json',
   './destinations/singapore.json',
+  './destinations/usa.json',
   // CDN assets
   'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js',
   'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css',

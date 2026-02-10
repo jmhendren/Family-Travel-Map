@@ -6004,70 +6004,148 @@
   },
   "itineraryData": {
     "a": {
-      "name": "Greatest Hits (7 days)",
-      "color": "#2563EB",
+      "name": "Greatest Hits (7 Days)",
+      "description": "First-timer's journey through Seoul's iconic sites, Busan's beaches, and Jeju's volcanic wonders.",
       "days": [
         {
-          "day": 1,
-          "title": "Seoul Arrival & Myeongdong",
+          "label": "Day 1 — Seoul Icons — Palaces to Han River",
           "items": [
             {
+              "name": "Four Seasons Hotel Seoul",
               "type": "hotel",
-              "name": "SIGNIEL Seoul",
               "coord": [
-                37.512603899999995,
-                127.10252419999998
+                37.57071,
+                126.9754143
               ]
             },
             {
-              "type": "lunch",
-              "name": "Mingles",
-              "coord": [
-                37.5253386,
-                127.04414519999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Myeongdong Street Food",
-              "coord": [
-                37.561668499999996,
-                126.9858438
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Palaces & Markets",
-          "items": [
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "SIGNIEL Seoul",
               "coord": [
-                37.512603899999995,
-                127.10252419999998
+                37.57071,
+                126.9754143
               ]
             },
             {
+              "name": "Gyeongbokgung Palace + Changing of the Guard",
               "type": "sightseeing",
-              "name": "Gyeongbokgung Palace",
               "coord": [
-                37.5777,
-                126.9769
+                37.576011099999995,
+                126.9768611
               ]
             },
             {
+              "name": "Bukchon Hanok Village",
+              "type": "sightseeing",
+              "coord": [
+                37.5814696,
+                126.9849519
+              ]
+            },
+            {
+              "name": "Gwangjang Market Street Food Crawl",
               "type": "lunch",
-              "name": "Gwangjang Market",
               "coord": [
                 37.570039799999996,
                 126.99960360000001
               ]
             },
             {
+              "name": "N Seoul Tower (Namsan Tower)",
               "type": "sightseeing",
+              "coord": [
+                37.5511694,
+                126.98822659999999
+              ]
+            },
+            {
+              "name": "Han River Picnic at Banpo Bridge",
+              "type": "sightseeing",
+              "coord": [
+                37.5124603,
+                127.00041010000001
+              ]
+            },
+            {
+              "name": "Jungsik",
+              "type": "dinner",
+              "coord": [
+                37.525673399999995,
+                127.04108459999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Cultural Immersion — Joseon Dynasty to Today",
+          "items": [
+            {
+              "name": "The Shilla Seoul",
+              "type": "hotel",
+              "coord": [
+                37.5559034,
+                127.0052509
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.5559034,
+                127.0052509
+              ]
+            },
+            {
+              "name": "Changdeokgung Palace & Secret Garden",
+              "type": "sightseeing",
+              "coord": [
+                37.5821721,
+                126.9931659
+              ]
+            },
+            {
+              "name": "Jongmyo Shrine",
+              "type": "sightseeing",
+              "coord": [
+                37.5746313,
+                126.9938158
+              ]
+            },
+            {
+              "name": "Onjium",
+              "type": "lunch",
+              "coord": [
+                37.5804867,
+                126.97334880000001
+              ]
+            },
+            {
+              "name": "Insadong (Tea houses + crafts)",
+              "type": "sightseeing",
+              "coord": [
+                37.5743809,
+                126.985427
+              ]
+            },
+            {
+              "name": "Jogyesa Temple",
+              "type": "sightseeing",
+              "coord": [
+                37.5738369,
+                126.982202
+              ]
+            },
+            {
+              "name": "Kwonsooksoo",
+              "type": "dinner",
+              "coord": [
+                37.5243775,
+                127.0435589
+              ]
+            },
+            {
               "name": "Seochon Neighborhood Stroll",
+              "type": "optional",
               "coord": [
                 37.5786683,
                 126.97310700000001
@@ -6076,175 +6154,274 @@
           ]
         },
         {
-          "day": 3,
-          "title": "Art & Culture",
+          "label": "Day 3 — Travel to Busan",
           "items": [
             {
-              "type": "breakfast",
-              "name": "SIGNIEL Seoul",
-              "coord": [
-                37.512603899999995,
-                127.10252419999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "National Museum of Korea",
-              "coord": [
-                37.523850599999996,
-                126.98047020000001
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Jungsik",
-              "coord": [
-                37.525673399999995,
-                127.04108459999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Leeum Samsung Museum of Art",
-              "coord": [
-                37.5379389,
-                126.9992749
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Day Trip: DMZ & History",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "SIGNIEL Seoul",
-              "coord": [
-                37.512603899999995,
-                127.10252419999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "DMZ (Demilitarized Zone)",
-              "coord": [
-                37.845,
-                126.6819
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "DMZ Tour Lunch",
-              "coord": [
-                37.845,
-                126.6819
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Flight to Busan",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "SIGNIEL Seoul",
-              "coord": [
-                37.512603899999995,
-                127.10252419999998
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "SIGNIEL Busan",
-              "coord": [
-                35.1599375,
-                129.1698125
-              ]
-            },
-            {
               "type": "hotel",
-              "name": "SIGNIEL Busan",
               "coord": [
                 35.1599375,
                 129.1698125
               ]
             },
             {
-              "type": "dinner",
-              "name": "Millimeter Milligram",
+              "name": "Morning KTX train Seoul → Busan (2.5hr)",
+              "type": "info",
               "coord": [
-                35.1608,
-                129.1683
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.5559034,
+                127.0052509
+              ]
+            },
+            {
+              "name": "Voila Café Busan (Haeundae Marine City)",
+              "type": "dinner",
+              "coord": [
+                35.1541923,
+                129.1462914
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Busan Beaches & Markets",
+          "label": "Day 4 — Busan Essentials — Haeundae to Nampo",
           "items": [
             {
-              "type": "breakfast",
-              "name": "SIGNIEL Busan",
+              "name": "The Westin Josun Busan",
+              "type": "hotel",
               "coord": [
-                35.1599375,
-                129.1698125
+                35.1559466,
+                129.1540745
               ]
             },
             {
-              "type": "sightseeing",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.1559466,
+                129.1540745
+              ]
+            },
+            {
               "name": "Haeundae Beach",
+              "type": "sightseeing",
               "coord": [
                 35.158697499999995,
                 129.16038419999998
               ]
             },
             {
+              "name": "Hanwolgwan",
               "type": "lunch",
-              "name": "Jagalchi Market",
               "coord": [
-                35.099,
-                129.0412
+                35.154691199999995,
+                129.1185433
               ]
             },
             {
+              "name": "Jagalchi Fish Market",
               "type": "sightseeing",
-              "name": "Gamcheon Culture Village",
               "coord": [
-                35.1019,
-                129.0584
+                35.0966339,
+                129.0307965
+              ]
+            },
+            {
+              "name": "Gukje Market",
+              "type": "shopping",
+              "coord": [
+                35.1013575,
+                129.0281978
+              ]
+            },
+            {
+              "name": "Jeongjitgan",
+              "type": "dinner",
+              "coord": [
+                35.0957261,
+                128.962501
+              ]
+            },
+            {
+              "name": "Marine City Night Skyline",
+              "type": "optional",
+              "coord": [
+                35.157235799999995,
+                129.14826879999998
               ]
             }
           ]
         },
         {
-          "day": 7,
-          "title": "Return to Seoul",
+          "label": "Day 5 — Cultural Deep Dive — Nampo & Memorial Sites",
           "items": [
             {
+              "name": "Good Ol' Days Hotel",
+              "type": "hotel",
+              "coord": [
+                35.1011124,
+                129.035885
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "SIGNIEL Busan",
               "coord": [
-                35.1599375,
-                129.1698125
+                35.1011124,
+                129.035885
               ]
             },
             {
+              "name": "UN Memorial Cemetery in Korea",
               "type": "sightseeing",
-              "name": "Flight to Seoul",
               "coord": [
-                37.5665,
-                126.978
+                35.127812,
+                129.09571259999998
               ]
             },
             {
-              "type": "nap",
-              "name": "Rest at hotel",
+              "name": "Hanwolgwan",
+              "type": "lunch",
               "coord": [
-                37.5126,
-                127.1028
+                35.154691199999995,
+                129.1185433
+              ]
+            },
+            {
+              "name": "Gukje Market",
+              "type": "sightseeing",
+              "coord": [
+                35.1013575,
+                129.0281978
+              ]
+            },
+            {
+              "name": "Jagalchi Fish Market",
+              "type": "shopping",
+              "coord": [
+                35.0966339,
+                129.0307965
+              ]
+            },
+            {
+              "name": "Jeongjitgan",
+              "type": "dinner",
+              "coord": [
+                35.0957261,
+                128.962501
+              ]
+            },
+            {
+              "name": "Bupyeong Kkangtong Market",
+              "type": "optional",
+              "coord": [
+                35.101853999999996,
+                129.0258719
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Travel to Jeju Island",
+          "items": [
+            {
+              "name": "JW Marriott Jeju Resort & Spa",
+              "type": "hotel",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Flight Busan → Jeju (1hr)",
+              "type": "info",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.1011124,
+                129.035885
+              ]
+            },
+            {
+              "name": "Guksi Teumeong (국시트멍)",
+              "type": "dinner",
+              "coord": [
+                33.4793473,
+                126.4813944
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Jeju Island Highlights — Central Jeju",
+          "items": [
+            {
+              "name": "Grand Hyatt Jeju",
+              "type": "hotel",
+              "coord": [
+                33.4853707,
+                126.4815713
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                33.4853707,
+                126.4815713
+              ]
+            },
+            {
+              "name": "Jeju: Hallasan Hiking Day",
+              "type": "sightseeing",
+              "coord": [
+                33.3606281,
+                126.53583449999999
+              ]
+            },
+            {
+              "name": "Guksi Teumeong (국시트멍)",
+              "type": "lunch",
+              "coord": [
+                33.4793473,
+                126.4813944
+              ]
+            },
+            {
+              "name": "Jeju: Volcanic Landscapes + Lava Tubes",
+              "type": "sightseeing",
+              "coord": [
+                33.305833299999996,
+                126.5163889
+              ]
+            },
+            {
+              "name": "Jeju: Dongmun Traditional Market",
+              "type": "dinner",
+              "coord": [
+                33.5115133,
+                126.5262564
+              ]
+            },
+            {
+              "name": "Evening coastal drive",
+              "type": "optional",
+              "coord": [
+                33.4853707,
+                126.4815713
               ]
             }
           ]
@@ -6252,626 +6429,148 @@
       ]
     },
     "b": {
-      "name": "Hidden Gems (7 days)",
-      "color": "#059669",
+      "name": "Family Comfort (10 Days)",
+      "description": "Family-friendly adventure with extended stays in Seoul, Busan, and Jeju featuring beaches, theme parks, and easy cultural activities.",
       "days": [
         {
-          "day": 1,
-          "title": "Seoul to Gyeongju",
+          "label": "Day 1 — Family Day — Palaces, Parks & Play",
           "items": [
             {
+              "name": "Grand Hyatt Seoul",
               "type": "hotel",
-              "name": "Raum Boutique Hotel",
               "coord": [
-                35.8362,
-                129.2259
+                37.539431799999996,
+                126.997519
               ]
             },
             {
-              "type": "lunch",
-              "name": "Local Gyeongju Restaurant",
-              "coord": [
-                35.8362,
-                129.2259
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Bulguksa Temple",
-              "coord": [
-                35.7897,
-                129.3306
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Gyeongju Historic Sites",
-          "items": [
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Raum Boutique Hotel",
               "coord": [
-                35.8362,
-                129.2259
+                37.539431799999996,
+                126.997519
               ]
             },
             {
+              "name": "Gyeongbokgung Palace (short loop)",
               "type": "sightseeing",
-              "name": "Seokguram Grotto",
               "coord": [
-                35.7965,
-                129.3386
+                37.579617,
+                126.977041
               ]
             },
             {
+              "name": "Bukchon Hanok Village (early AM)",
+              "type": "sightseeing",
+              "coord": [
+                37.5814696,
+                126.9849519
+              ]
+            },
+            {
+              "name": "Gwangjang Market Snack Crawl",
               "type": "lunch",
-              "name": "Aglibang Sikdang",
               "coord": [
-                35.8362,
-                129.2259
+                37.5704134,
+                127.0018677
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Anapji Pond",
-              "coord": [
-                35.8388,
-                129.2274
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Andong Folk Village",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Raum Boutique Hotel",
-              "coord": [
-                35.8362,
-                129.2259
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Hahoe Folk Village",
-              "coord": [
-                35.9868,
-                128.5674
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Andong Jjim",
-              "coord": [
-                35.5708,
-                128.7276
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Oyaji Bridge",
-              "coord": [
-                35.9868,
-                128.5674
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Jeonju Hanok & Food",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Jeonju Hanok Stay",
-              "coord": [
-                35.8242,
-                127.1479
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Jeonju Bibimbap Street",
-              "coord": [
-                35.8242,
-                127.1479
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Jeonju Hanok Village",
-              "coord": [
-                35.8242,
-                127.1479
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Jeonju Markets & Arts",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Jeonju Hanok Stay",
-              "coord": [
-                35.8242,
-                127.1479
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Jeonju Paper Museum",
-              "coord": [
-                35.8242,
-                127.1479
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Jeonju Traditional Market",
-              "coord": [
-                35.8242,
-                127.1479
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Deoksugung Palace",
-              "coord": [
-                37.566,
-                126.9629
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Return to Seoul via Busan",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Jeonju Hanok Stay",
-              "coord": [
-                35.8242,
-                127.1479
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Seoul",
-              "coord": [
-                37.5665,
-                126.978
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Four Seasons Hotel Seoul",
-              "coord": [
-                37.57071,
-                126.9754143
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Seoul Hangover & Rest",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Four Seasons Hotel Seoul",
-              "coord": [
-                37.57071,
-                126.9754143
-              ]
-            },
-            {
+              "name": "Afternoon rest",
               "type": "nap",
-              "name": "Rest & Recover",
               "coord": [
-                37.54557,
-                126.67324
+                37.539431799999996,
+                126.997519
               ]
             },
             {
+              "name": "COEX Starfield Library",
+              "type": "sightseeing",
+              "coord": [
+                37.5100586,
+                127.0601188
+              ]
+            },
+            {
+              "name": "Jin Jin",
+              "type": "dinner",
+              "coord": [
+                37.5538,
+                126.918437
+              ]
+            },
+            {
+              "name": "Cheonggyecheon Stream Night Walk",
               "type": "optional",
-              "name": "Explore Hongdae District",
               "coord": [
-                37.5505,
-                126.9241
+                37.569101499999995,
+                126.97866919999998
               ]
             }
           ]
-        }
-      ]
-    },
-    "c": {
-      "name": "Family Comfort (10 days)",
-      "color": "#D97706",
-      "days": [
+        },
         {
-          "day": 1,
-          "title": "Seoul Arrival",
+          "label": "Day 2 — Seoul Icons — Palaces to Han River",
           "items": [
             {
+              "name": "Four Seasons Hotel Seoul",
               "type": "hotel",
-              "name": "Grand Hyatt Seoul",
               "coord": [
-                37.539431799999996,
-                126.997519
+                37.57071,
+                126.9754143
               ]
             },
             {
-              "type": "lunch",
-              "name": "Myeongdong Street Food",
-              "coord": [
-                37.561668499999996,
-                126.9858438
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "N Seoul Tower",
-              "coord": [
-                37.5511694,
-                126.98822659999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Family Palace Tour",
-          "items": [
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Grand Hyatt Seoul",
               "coord": [
-                37.539431799999996,
-                126.997519
+                37.57071,
+                126.9754143
               ]
             },
             {
+              "name": "Gyeongbokgung Palace + Changing of the Guard",
               "type": "sightseeing",
-              "name": "Gyeongbokgung Palace",
               "coord": [
-                37.5777,
-                126.9769
+                37.576011099999995,
+                126.9768611
               ]
             },
             {
+              "name": "Bukchon Hanok Village",
+              "type": "sightseeing",
+              "coord": [
+                37.5814696,
+                126.9849519
+              ]
+            },
+            {
+              "name": "Gwangjang Market Street Food Crawl",
               "type": "lunch",
-              "name": "Korean BBQ Restaurant",
-              "coord": [
-                37.5359,
-                126.9945
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "National Folk Museum",
-              "coord": [
-                37.5777,
-                126.9769
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Kids Activities",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Grand Hyatt Seoul",
-              "coord": [
-                37.539431799999996,
-                126.997519
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Lotte World",
-              "coord": [
-                37.5126,
-                127.1028
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Lotte World Food Court",
-              "coord": [
-                37.5126,
-                127.1028
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest at hotel",
-              "coord": [
-                37.5359,
-                126.9945
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Market & Culture",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Grand Hyatt Seoul",
-              "coord": [
-                37.539431799999996,
-                126.997519
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Gwangjang Market",
               "coord": [
                 37.570039799999996,
                 126.99960360000001
               ]
             },
             {
-              "type": "lunch",
-              "name": "Market Food Stalls",
-              "coord": [
-                37.571,
-                126.9825
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest",
-              "coord": [
-                37.5359,
-                126.9945
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Jeju Arrival & Beach",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Grand Hyatt Seoul",
-              "coord": [
-                37.539431799999996,
-                126.997519
-              ]
-            },
-            {
+              "name": "N Seoul Tower (Namsan Tower)",
               "type": "sightseeing",
-              "name": "Flight to Jeju",
               "coord": [
-                33.4996,
-                126.5312
+                37.5511694,
+                126.98822659999999
               ]
             },
             {
-              "type": "hotel",
-              "name": "Grand Hyatt Jeju",
-              "coord": [
-                33.4853707,
-                126.4815713
-              ]
-            },
-            {
+              "name": "Han River Picnic at Banpo Bridge",
               "type": "sightseeing",
-              "name": "Hyeopjae Beach",
               "coord": [
-                33.4088,
-                126.2418
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Jeju Nature & Activities",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Grand Hyatt Jeju",
-              "coord": [
-                33.4853707,
-                126.4815713
+                37.5124603,
+                127.00041010000001
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Hallasan Mountain",
-              "coord": [
-                33.3615,
-                126.5314
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Jeju Black Pork BBQ",
-              "coord": [
-                33.4996,
-                126.5312
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest at resort",
-              "coord": [
-                33.485368,
-                126.481498
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Jeju Museum & Zoo",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Grand Hyatt Jeju",
-              "coord": [
-                33.4853707,
-                126.4815713
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Jeju Teddy Bear Museum",
-              "coord": [
-                33.4996,
-                126.5312
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Seogwipo Food",
-              "coord": [
-                33.2453,
-                126.5623
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cheonjiyeon Falls",
-              "coord": [
-                33.2435,
-                126.5688
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Return to Seoul via Busan",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Grand Hyatt Jeju",
-              "coord": [
-                33.4853707,
-                126.4815713
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Seoul",
-              "coord": [
-                37.5665,
-                126.978
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Mondrian Seoul Itaewon",
-              "coord": [
-                37.5285106,
-                126.99311629999998
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Korean Folk Village",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Mondrian Seoul Itaewon",
-              "coord": [
-                37.5285106,
-                126.99311629999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Korean Folk Village",
-              "coord": [
-                37.2854,
-                127.0984
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Folk Village Traditional Lunch",
-              "coord": [
-                37.2854,
-                127.0984
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Seoul Final & Departure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Mondrian Seoul Itaewon",
-              "coord": [
-                37.5285106,
-                126.99311629999998
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Last-minute shopping",
-              "coord": [
-                37.56,
-                126.9844
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Departure",
-              "coord": [
-                37.4769,
-                126.7094
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "d": {
-      "name": "Foodie Deep-Dive (10 days)",
-      "color": "#DC2626",
-      "days": [
-        {
-          "day": 1,
-          "title": "Seoul Michelin Scene",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "SIGNIEL Seoul",
-              "coord": [
-                37.512603899999995,
-                127.10252419999998
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Mingles",
-              "coord": [
-                37.5253386,
-                127.04414519999999
-              ]
-            },
-            {
-              "type": "dinner",
               "name": "Jungsik",
+              "type": "dinner",
               "coord": [
                 37.525673399999995,
                 127.04108459999999
@@ -6880,335 +6579,1731 @@
           ]
         },
         {
-          "day": 2,
-          "title": "Korean Fine Dining & Markets",
+          "label": "Day 3 — Free Day in Seoul - Shopping & Recreation",
           "items": [
             {
-              "type": "breakfast",
-              "name": "SIGNIEL Seoul",
-              "coord": [
-                37.512603899999995,
-                127.10252419999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Gwangjang Market",
-              "coord": [
-                37.570039799999996,
-                126.99960360000001
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Market Street Food",
-              "coord": [
-                37.571,
-                126.9825
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Kwonsooksoo",
-              "coord": [
-                37.5243775,
-                127.0435589
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Japanese & Innovative",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "SIGNIEL Seoul",
-              "coord": [
-                37.512603899999995,
-                127.10252419999998
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Evett",
-              "coord": [
-                37.5233759,
-                127.03621329999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Food Museum Visit",
-              "coord": [
-                37.5527,
-                126.9881
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Mosu",
-              "coord": [
-                37.52,
-                127.025
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Korean BBQ Masterclass",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "SIGNIEL Seoul",
-              "coord": [
-                37.512603899999995,
-                127.10252419999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "BBQ Market Research",
-              "coord": [
-                37.5359,
-                126.9945
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Premium Hanwoo BBQ",
-              "coord": [
-                37.5359,
-                126.9945
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Local BBQ Institution",
-              "coord": [
-                37.5359,
-                126.9945
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Myeongdong Street Food Tour",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "SIGNIEL Seoul",
-              "coord": [
-                37.512603899999995,
-                127.10252419999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Myeongdong Street Food",
-              "coord": [
-                37.561668499999996,
-                126.9858438
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Pojangmacha Food Stalls",
-              "coord": [
-                37.56,
-                126.9844
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest & digest",
-              "coord": [
-                37.5126,
-                127.1028
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Flight to Busan & Seafood",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "SIGNIEL Seoul",
-              "coord": [
-                37.512603899999995,
-                127.10252419999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Busan",
-              "coord": [
-                35.1796,
-                129.0756
-              ]
-            },
-            {
+              "name": "Four Seasons Hotel Seoul",
               "type": "hotel",
-              "name": "SIGNIEL Busan",
               "coord": [
-                35.1599375,
-                129.1698125
+                37.57071,
+                126.9754143
               ]
             },
             {
-              "type": "dinner",
-              "name": "Jagalchi Market Seafood",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                35.099,
-                129.0412
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "name": "Free morning to explore Seoul Metropolitan Area",
+              "type": "sightseeing",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "name": "Mingles",
+              "type": "lunch",
+              "coord": [
+                37.5253386,
+                127.04414519999999
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "name": "Soigné",
+              "type": "dinner",
+              "coord": [
+                37.5193295,
+                127.01903259999999
               ]
             }
           ]
         },
         {
-          "day": 7,
-          "title": "Fish Markets & Local",
+          "label": "Day 4 — Travel to Busan",
           "items": [
             {
-              "type": "breakfast",
               "name": "SIGNIEL Busan",
+              "type": "hotel",
               "coord": [
                 35.1599375,
                 129.1698125
               ]
             },
             {
+              "name": "Morning KTX train Seoul → Busan (2.5hr)",
+              "type": "info",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "name": "Voila Café Busan (Haeundae Marine City)",
+              "type": "dinner",
+              "coord": [
+                35.1541923,
+                129.1462914
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Family Fun — Haeundae & Songdo",
+          "items": [
+            {
+              "name": "Grand Josun Busan",
+              "type": "hotel",
+              "coord": [
+                35.1600161,
+                129.1630504
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.1600161,
+                129.1630504
+              ]
+            },
+            {
+              "name": "Haeundae Beach",
               "type": "sightseeing",
+              "coord": [
+                35.158697499999995,
+                129.16038419999998
+              ]
+            },
+            {
+              "name": "Buda Myeonoak",
+              "type": "lunch",
+              "coord": [
+                35.162367599999996,
+                129.1629743
+              ]
+            },
+            {
+              "name": "Afternoon rest",
+              "type": "nap",
+              "coord": [
+                35.1600161,
+                129.1630504
+              ]
+            },
+            {
+              "name": "Songdo Cable Car",
+              "type": "sightseeing",
+              "coord": [
+                35.0763876,
+                129.0236199
+              ]
+            },
+            {
+              "name": "Gukje Market",
+              "type": "dinner",
+              "coord": [
+                35.1013575,
+                129.0281978
+              ]
+            },
+            {
+              "name": "Gwangalli Beach Night Lights",
+              "type": "optional",
+              "coord": [
+                35.154965,
+                129.12248879999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Busan Essentials — Haeundae to Nampo",
+          "items": [
+            {
+              "name": "The Westin Josun Busan",
+              "type": "hotel",
+              "coord": [
+                35.1559466,
+                129.1540745
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.1559466,
+                129.1540745
+              ]
+            },
+            {
+              "name": "Haeundae Beach",
+              "type": "sightseeing",
+              "coord": [
+                35.158697499999995,
+                129.16038419999998
+              ]
+            },
+            {
+              "name": "Hanwolgwan",
+              "type": "lunch",
+              "coord": [
+                35.154691199999995,
+                129.1185433
+              ]
+            },
+            {
               "name": "Jagalchi Fish Market",
+              "type": "sightseeing",
               "coord": [
                 35.0966339,
                 129.0307965
               ]
             },
             {
-              "type": "lunch",
-              "name": "Market Seafood Restaurant",
+              "name": "Gukje Market",
+              "type": "shopping",
               "coord": [
-                35.099,
-                129.0412
+                35.1013575,
+                129.0281978
               ]
             },
             {
+              "name": "Jeongjitgan",
               "type": "dinner",
-              "name": "Premium Seafood Omakase",
               "coord": [
-                35.1608,
-                129.1683
+                35.0957261,
+                128.962501
+              ]
+            },
+            {
+              "name": "Marine City Night Skyline",
+              "type": "optional",
+              "coord": [
+                35.157235799999995,
+                129.14826879999998
               ]
             }
           ]
         },
         {
-          "day": 8,
-          "title": "Return Seoul, Street Food",
+          "label": "Day 7 — Travel to Jeju Island",
           "items": [
             {
+              "name": "JW Marriott Jeju Resort & Spa",
+              "type": "hotel",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Flight Busan → Jeju (1hr)",
+              "type": "info",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
+              "coord": [
+                35.1559466,
+                129.1540745
+              ]
+            },
+            {
+              "name": "Guksi Teumeong (국시트멍)",
+              "type": "dinner",
+              "coord": [
+                33.4793473,
+                126.4813944
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Family Day — Jungmun Resort Area",
+          "items": [
+            {
+              "name": "The Shilla Jeju",
+              "type": "hotel",
+              "coord": [
+                33.2471631,
+                126.4079553
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                33.2471631,
+                126.4079553
+              ]
+            },
+            {
+              "name": "Jeju Waterfalls (short walks)",
+              "type": "sightseeing",
+              "coord": [
+                33.244852099999996,
+                126.57180319999999
+              ]
+            },
+            {
+              "name": "Seogwipo Maeil Olle Market",
+              "type": "lunch",
+              "coord": [
+                33.2487163,
+                126.5640617
+              ]
+            },
+            {
+              "name": "Nap time",
+              "type": "nap",
+              "coord": [
+                33.2471631,
+                126.4079553
+              ]
+            },
+            {
+              "name": "Resort Pool Day (Jungmun)",
+              "type": "sightseeing",
+              "coord": [
+                33.2625508,
+                126.415721
+              ]
+            },
+            {
+              "name": "Hotel restaurant dinner",
+              "type": "dinner",
+              "coord": [
+                33.2471631,
+                126.4079553
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Southern Waterfalls — Seogwipo",
+          "items": [
+            {
+              "name": "JW Marriott Jeju Resort & Spa",
+              "type": "hotel",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Jeju Waterfalls Day (Seogwipo)",
+              "type": "sightseeing",
+              "coord": [
+                33.244852099999996,
+                126.57180319999999
+              ]
+            },
+            {
+              "name": "Seogwipo Maeil Olle Market",
+              "type": "lunch",
+              "coord": [
+                33.2487163,
+                126.5640617
+              ]
+            },
+            {
+              "name": "Market exploration & shopping",
+              "type": "shopping",
+              "coord": [
+                33.2487163,
+                126.5640617
+              ]
+            },
+            {
+              "name": "Afternoon waterfall hike",
+              "type": "sightseeing",
+              "coord": [
+                33.244852099999996,
+                126.57180319999999
+              ]
+            },
+            {
+              "name": "Fresh seafood dinner",
+              "type": "dinner",
+              "coord": [
+                33.2487163,
+                126.5640617
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Beach & Resort Day in Jeju",
+          "items": [
+            {
+              "name": "JW Marriott Jeju Resort & Spa",
+              "type": "hotel",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Free morning to explore Jeju Island",
+              "type": "sightseeing",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Guksi Teumeong (국시트멍)",
+              "type": "lunch",
+              "coord": [
+                33.4793473,
+                126.4813944
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Grand Tour (14 Days)",
+      "description": "Comprehensive exploration from Seoul through Jeonju's heritage, Busan's coast, and Jeju's natural wonders.",
+      "days": [
+        {
+          "label": "Day 1 — Seoul Icons — Palaces to Han River",
+          "items": [
+            {
+              "name": "Four Seasons Hotel Seoul",
+              "type": "hotel",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "name": "Gyeongbokgung Palace + Changing of the Guard",
+              "type": "sightseeing",
+              "coord": [
+                37.576011099999995,
+                126.9768611
+              ]
+            },
+            {
+              "name": "Bukchon Hanok Village",
+              "type": "sightseeing",
+              "coord": [
+                37.5814696,
+                126.9849519
+              ]
+            },
+            {
+              "name": "Gwangjang Market Street Food Crawl",
+              "type": "lunch",
+              "coord": [
+                37.570039799999996,
+                126.99960360000001
+              ]
+            },
+            {
+              "name": "N Seoul Tower (Namsan Tower)",
+              "type": "sightseeing",
+              "coord": [
+                37.5511694,
+                126.98822659999999
+              ]
+            },
+            {
+              "name": "Han River Picnic at Banpo Bridge",
+              "type": "sightseeing",
+              "coord": [
+                37.5124603,
+                127.00041010000001
+              ]
+            },
+            {
+              "name": "Jungsik",
+              "type": "dinner",
+              "coord": [
+                37.525673399999995,
+                127.04108459999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Design Seoul — DDP to Seongsu",
+          "items": [
+            {
+              "name": "RYSE",
+              "type": "hotel",
+              "coord": [
+                37.5543695,
+                126.92128
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.5543695,
+                126.92128
+              ]
+            },
+            {
+              "name": "Dongdaemun Design Plaza (DDP)",
+              "type": "sightseeing",
+              "coord": [
+                37.5665256,
+                127.00922360000001
+              ]
+            },
+            {
+              "name": "Leeum Samsung Museum of Art",
+              "type": "sightseeing",
+              "coord": [
+                37.5379389,
+                126.9992749
+              ]
+            },
+            {
+              "name": "Soul",
+              "type": "lunch",
+              "coord": [
+                37.533283100000006,
+                127.00679170000001
+              ]
+            },
+            {
+              "name": "Seongsu (Concept stores + cafés)",
+              "type": "sightseeing",
+              "coord": [
+                37.5389944,
+                127.0499414
+              ]
+            },
+            {
+              "name": "Daelim Warehouse (Seongsu)",
+              "type": "sightseeing",
+              "coord": [
+                37.541838399999996,
+                127.0564636
+              ]
+            },
+            {
+              "name": "Cafe Onion Seongsu",
+              "type": "sightseeing",
+              "coord": [
+                37.5447328,
+                127.0582091
+              ]
+            },
+            {
+              "name": "Evett",
+              "type": "dinner",
+              "coord": [
+                37.5233759,
+                127.03621329999999
+              ]
+            },
+            {
+              "name": "Soko",
+              "type": "optional",
+              "coord": [
+                37.5622341,
+                126.9237
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Active Seoul — Mountains to River",
+          "items": [
+            {
+              "name": "Vista Walkerhill Seoul",
+              "type": "hotel",
+              "coord": [
+                37.5543699,
+                127.1112096
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.5543699,
+                127.1112096
+              ]
+            },
+            {
+              "name": "Bukhansan National Park Hike",
+              "type": "sightseeing",
+              "coord": [
+                37.6190261,
+                126.99695839999998
+              ]
+            },
+            {
+              "name": "Hadongkwan",
+              "type": "lunch",
+              "coord": [
+                37.5643946,
+                126.9850185
+              ]
+            },
+            {
+              "name": "Seoul Forest",
+              "type": "sightseeing",
+              "coord": [
+                37.544387799999996,
+                127.03744239999999
+              ]
+            },
+            {
+              "name": "Ddareungi Bike Ride (Han River)",
+              "type": "sightseeing",
+              "coord": [
+                37.547158499999995,
+                126.90671429999999
+              ]
+            },
+            {
+              "name": "Mukjung",
+              "type": "dinner",
+              "coord": [
+                37.5618138,
+                127.0005302
+              ]
+            },
+            {
+              "name": "Namsan Park Trails",
+              "type": "optional",
+              "coord": [
+                37.5532916,
+                126.9845912
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Travel to Jeonju",
+          "items": [
+            {
+              "name": "Hotel in Jeonju",
+              "type": "hotel",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "name": "Morning KTX train Seoul → Jeonju (2hr)",
+              "type": "info",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.5543699,
+                127.1112096
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Jeonju Hanok Village & Traditional Cuisine",
+          "items": [
+            {
+              "name": "Hotel in Jeonju",
+              "type": "hotel",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "name": "Free morning to explore Jeonju",
+              "type": "sightseeing",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "name": "Lunch in town",
+              "type": "lunch",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Jeonju Bibimbap Trail & Cultural Sites",
+          "items": [
+            {
+              "name": "Hotel in Jeonju",
+              "type": "hotel",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "name": "Free morning to explore Jeonju",
+              "type": "sightseeing",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "name": "Lunch in town",
+              "type": "lunch",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Travel to Busan",
+          "items": [
+            {
               "name": "SIGNIEL Busan",
+              "type": "hotel",
               "coord": [
                 35.1599375,
                 129.1698125
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Flight to Seoul",
+              "name": "Train/Drive Jeonju → Busan (2-2.5hr)",
+              "type": "info",
               "coord": [
-                37.5665,
-                126.978
+                35.1599375,
+                129.1698125
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.8242,
+                127.1479
+              ]
+            },
+            {
+              "name": "Voila Café Busan (Haeundae Marine City)",
+              "type": "dinner",
+              "coord": [
+                35.1541923,
+                129.1462914
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Busan Essentials — Haeundae to Nampo",
+          "items": [
+            {
+              "name": "The Westin Josun Busan",
               "type": "hotel",
-              "name": "Four Seasons Hotel Seoul",
               "coord": [
-                37.57071,
-                126.9754143
+                35.1559466,
+                129.1540745
               ]
             },
             {
-              "type": "dinner",
-              "name": "Street Food Crawl",
-              "coord": [
-                37.56,
-                126.9844
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Temple Food & Tea",
-          "items": [
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Four Seasons Hotel Seoul",
               "coord": [
-                37.57071,
-                126.9754143
+                35.1559466,
+                129.1540745
               ]
             },
             {
+              "name": "Haeundae Beach",
               "type": "sightseeing",
-              "name": "Temple Stay Experience",
               "coord": [
-                37.582,
-                126.969
+                35.158697499999995,
+                129.16038419999998
               ]
             },
             {
+              "name": "Hanwolgwan",
               "type": "lunch",
-              "name": "Temple Food Lunch",
               "coord": [
-                37.582,
-                126.969
+                35.154691199999995,
+                129.1185433
               ]
             },
             {
-              "type": "dinner",
-              "name": "Gourmet Tea Tasting",
+              "name": "Jagalchi Fish Market",
+              "type": "sightseeing",
               "coord": [
-                37.582,
-                126.969
+                35.0966339,
+                129.0307965
+              ]
+            },
+            {
+              "name": "Gukje Market",
+              "type": "shopping",
+              "coord": [
+                35.1013575,
+                129.0281978
+              ]
+            },
+            {
+              "name": "Jeongjitgan",
+              "type": "dinner",
+              "coord": [
+                35.0957261,
+                128.962501
+              ]
+            },
+            {
+              "name": "Marine City Night Skyline",
+              "type": "optional",
+              "coord": [
+                35.157235799999995,
+                129.14826879999998
               ]
             }
           ]
         },
         {
-          "day": 10,
-          "title": "Final Michelin & Departure",
+          "label": "Day 9 — Nature Escape — Songdo to Dalmaji",
           "items": [
             {
+              "name": "Ananti at Busan Cove",
+              "type": "hotel",
+              "coord": [
+                35.200575799999996,
+                129.22928729999998
+              ]
+            },
+            {
+              "name": "Resort breakfast",
               "type": "breakfast",
+              "coord": [
+                35.200575799999996,
+                129.22928729999998
+              ]
+            },
+            {
+              "name": "Amnam Park Trails",
+              "type": "sightseeing",
+              "coord": [
+                35.06087780000001,
+                129.01610470000003
+              ]
+            },
+            {
+              "name": "100.1.Pyeongnaeng",
+              "type": "lunch",
+              "coord": [
+                35.1485537,
+                129.111649
+              ]
+            },
+            {
+              "name": "Songdo Cable Car",
+              "type": "sightseeing",
+              "coord": [
+                35.0763876,
+                129.0236199
+              ]
+            },
+            {
+              "name": "Dalmaji-gil (Haeundae hillside road)",
+              "type": "sightseeing",
+              "coord": [
+                35.1590479,
+                129.18327539999999
+              ]
+            },
+            {
+              "name": "Voila Café Busan (Haeundae Marine City)",
+              "type": "dinner",
+              "coord": [
+                35.1541923,
+                129.1462914
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Evening Magic — Gwangalli & Marine City",
+          "items": [
+            {
+              "name": "Park Hyatt Busan",
+              "type": "hotel",
+              "coord": [
+                35.156544499999995,
+                129.1419018
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.156544499999995,
+                129.1419018
+              ]
+            },
+            {
+              "name": "Haeundae Beach",
+              "type": "sightseeing",
+              "coord": [
+                35.158697499999995,
+                129.16038419999998
+              ]
+            },
+            {
+              "name": "100.1.Pyeongnaeng",
+              "type": "lunch",
+              "coord": [
+                35.1485537,
+                129.111649
+              ]
+            },
+            {
+              "name": "Dalmaji-gil (Haeundae hillside road)",
+              "type": "sightseeing",
+              "coord": [
+                35.1590479,
+                129.18327539999999
+              ]
+            },
+            {
+              "name": "Voila Café Busan (Haeundae Marine City)",
+              "type": "dinner",
+              "coord": [
+                35.1541923,
+                129.1462914
+              ]
+            },
+            {
+              "name": "Gwangalli Beach Night Lights",
+              "type": "sightseeing",
+              "coord": [
+                35.154965,
+                129.12248879999999
+              ]
+            },
+            {
+              "name": "Haeundae Hotel Lounge for Views",
+              "type": "optional",
+              "coord": [
+                35.1559601,
+                129.1539819
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 11 — Travel to Jeju Island",
+          "items": [
+            {
+              "name": "JW Marriott Jeju Resort & Spa",
+              "type": "hotel",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Flight Busan → Jeju (1hr)",
+              "type": "info",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.156544499999995,
+                129.1419018
+              ]
+            },
+            {
+              "name": "Guksi Teumeong (국시트멍)",
+              "type": "dinner",
+              "coord": [
+                33.4793473,
+                126.4813944
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 12 — Jeju Island Highlights — Central Jeju",
+          "items": [
+            {
+              "name": "Grand Hyatt Jeju",
+              "type": "hotel",
+              "coord": [
+                33.4853707,
+                126.4815713
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                33.4853707,
+                126.4815713
+              ]
+            },
+            {
+              "name": "Jeju: Hallasan Hiking Day",
+              "type": "sightseeing",
+              "coord": [
+                33.3606281,
+                126.53583449999999
+              ]
+            },
+            {
+              "name": "Guksi Teumeong (국시트멍)",
+              "type": "lunch",
+              "coord": [
+                33.4793473,
+                126.4813944
+              ]
+            },
+            {
+              "name": "Jeju: Volcanic Landscapes + Lava Tubes",
+              "type": "sightseeing",
+              "coord": [
+                33.305833299999996,
+                126.5163889
+              ]
+            },
+            {
+              "name": "Jeju: Dongmun Traditional Market",
+              "type": "dinner",
+              "coord": [
+                33.5115133,
+                126.5262564
+              ]
+            },
+            {
+              "name": "Evening coastal drive",
+              "type": "optional",
+              "coord": [
+                33.4853707,
+                126.4815713
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 13 — Nature Immersion — Western Jeju",
+          "items": [
+            {
+              "name": "The Shilla Jeju",
+              "type": "hotel",
+              "coord": [
+                33.2471631,
+                126.4079553
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                33.2471631,
+                126.4079553
+              ]
+            },
+            {
+              "name": "Jeju: Volcanic Landscapes + Lava Tubes",
+              "type": "sightseeing",
+              "coord": [
+                33.305833299999996,
+                126.5163889
+              ]
+            },
+            {
+              "name": "Packed lunch or local spot",
+              "type": "lunch",
+              "coord": [
+                33.305833299999996,
+                126.5163889
+              ]
+            },
+            {
+              "name": "Jeju: Quiet Cabin Retreat (Egattoc / forest cabins)",
+              "type": "sightseeing",
+              "coord": [
+                33.2931737,
+                126.3707376
+              ]
+            },
+            {
+              "name": "Jeju: Slow Coastal Drive + Viewpoints",
+              "type": "sightseeing",
+              "coord": [
+                33.3433637,
+                126.17396300000001
+              ]
+            },
+            {
+              "name": "Sunset viewing at coast",
+              "type": "optional",
+              "coord": [
+                33.3433637,
+                126.17396300000001
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 14 — Coastal Loop — Island Circle",
+          "items": [
+            {
+              "name": "Grand Hyatt Jeju",
+              "type": "hotel",
+              "coord": [
+                33.4853707,
+                126.4815713
+              ]
+            },
+            {
+              "name": "Early breakfast at hotel",
+              "type": "breakfast",
+              "coord": [
+                33.4853707,
+                126.4815713
+              ]
+            },
+            {
+              "name": "Jeju: Slow Coastal Drive + Viewpoints",
+              "type": "sightseeing",
+              "coord": [
+                33.3433637,
+                126.17396300000001
+              ]
+            },
+            {
+              "name": "Coastal village lunch stop",
+              "type": "lunch",
+              "coord": [
+                33.3433637,
+                126.17396300000001
+              ]
+            },
+            {
+              "name": "Continue coastal exploration",
+              "type": "sightseeing",
+              "coord": [
+                33.2471631,
+                126.4079553
+              ]
+            },
+            {
+              "name": "Seogwipo Maeil Olle Market",
+              "type": "shopping",
+              "coord": [
+                33.2487163,
+                126.5640617
+              ]
+            },
+            {
+              "name": "Fresh seafood dinner",
+              "type": "dinner",
+              "coord": [
+                33.2487163,
+                126.5640617
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "d": {
+      "name": "Culinary Korea (8 Days)",
+      "description": "A foodie's dream tour from Seoul's Michelin restaurants through Busan's markets to Jeju's island specialties.",
+      "days": [
+        {
+          "label": "Day 1 — Seoul Gastronomy — Markets to Michelin",
+          "items": [
+            {
+              "name": "Andaz Seoul Gangnam",
+              "type": "hotel",
+              "coord": [
+                37.5254876,
+                127.0289201
+              ]
+            },
+            {
+              "name": "KITH Seoul / Sadelle's",
+              "type": "breakfast",
+              "coord": [
+                37.541768,
+                127.05708399999997
+              ]
+            },
+            {
+              "name": "Gwangjang Market Street Food Crawl",
+              "type": "sightseeing",
+              "coord": [
+                37.570039799999996,
+                126.99960360000001
+              ]
+            },
+            {
+              "name": "Pildong Myeonok",
+              "type": "lunch",
+              "coord": [
+                37.5603604,
+                126.9969996
+              ]
+            },
+            {
+              "name": "Seongsu (Concept stores + cafés)",
+              "type": "sightseeing",
+              "coord": [
+                37.5389944,
+                127.0499414
+              ]
+            },
+            {
+              "name": "Daelim Warehouse",
+              "type": "sightseeing",
+              "coord": [
+                37.541838399999996,
+                127.0564636
+              ]
+            },
+            {
+              "name": "Mingles",
+              "type": "dinner",
+              "coord": [
+                37.5253386,
+                127.04414519999999
+              ]
+            },
+            {
+              "name": "Pine & Co",
+              "type": "optional",
+              "coord": [
+                37.5262836,
+                127.0370432
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Seoul Icons — Palaces to Han River",
+          "items": [
+            {
               "name": "Four Seasons Hotel Seoul",
+              "type": "hotel",
               "coord": [
                 37.57071,
                 126.9754143
               ]
             },
             {
-              "type": "lunch",
-              "name": "alla prima",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                37.513413799999995,
-                127.0260405
+                37.57071,
+                126.9754143
               ]
             },
             {
-              "type": "optional",
-              "name": "Last-minute food shopping",
+              "name": "Gyeongbokgung Palace + Changing of the Guard",
+              "type": "sightseeing",
               "coord": [
-                37.571,
-                126.9825
+                37.576011099999995,
+                126.9768611
+              ]
+            },
+            {
+              "name": "Bukchon Hanok Village",
+              "type": "sightseeing",
+              "coord": [
+                37.5814696,
+                126.9849519
+              ]
+            },
+            {
+              "name": "Gwangjang Market Street Food Crawl",
+              "type": "lunch",
+              "coord": [
+                37.570039799999996,
+                126.99960360000001
+              ]
+            },
+            {
+              "name": "N Seoul Tower (Namsan Tower)",
+              "type": "sightseeing",
+              "coord": [
+                37.5511694,
+                126.98822659999999
+              ]
+            },
+            {
+              "name": "Han River Picnic at Banpo Bridge",
+              "type": "sightseeing",
+              "coord": [
+                37.5124603,
+                127.00041010000001
+              ]
+            },
+            {
+              "name": "Jungsik",
+              "type": "dinner",
+              "coord": [
+                37.525673399999995,
+                127.04108459999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Street Food Markets & Local Eateries",
+          "items": [
+            {
+              "name": "Four Seasons Hotel Seoul",
+              "type": "hotel",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "name": "Free morning to explore Seoul Metropolitan Area",
+              "type": "sightseeing",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "name": "Mingles",
+              "type": "lunch",
+              "coord": [
+                37.5253386,
+                127.04414519999999
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "name": "Soigné",
+              "type": "dinner",
+              "coord": [
+                37.5193295,
+                127.01903259999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Travel to Busan",
+          "items": [
+            {
+              "name": "SIGNIEL Busan",
+              "type": "hotel",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "name": "Morning KTX train Seoul → Busan (2.5hr)",
+              "type": "info",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.57071,
+                126.9754143
+              ]
+            },
+            {
+              "name": "Voila Café Busan (Haeundae Marine City)",
+              "type": "dinner",
+              "coord": [
+                35.1541923,
+                129.1462914
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Busan Food Trail — Markets & Michelin",
+          "items": [
+            {
+              "name": "Good Ol' Days Hotel",
+              "type": "hotel",
+              "coord": [
+                35.1011124,
+                129.035885
+              ]
+            },
+            {
+              "name": "Jeongjitgan",
+              "type": "breakfast",
+              "coord": [
+                35.0957261,
+                128.962501
+              ]
+            },
+            {
+              "name": "Jagalchi Fish Market",
+              "type": "sightseeing",
+              "coord": [
+                35.0966339,
+                129.0307965
+              ]
+            },
+            {
+              "name": "Damiok",
+              "type": "lunch",
+              "coord": [
+                35.151863999999996,
+                129.02054809999998
+              ]
+            },
+            {
+              "name": "Naengmyeon Trio: Damiok / 100.1 / Buda Myeonoak",
+              "type": "sightseeing",
+              "coord": [
+                35.162367599999996,
+                129.1629743
+              ]
+            },
+            {
+              "name": "Voila Café Busan (Haeundae Marine City)",
+              "type": "dinner",
+              "coord": [
+                35.1541923,
+                129.1462914
+              ]
+            },
+            {
+              "name": "Bupyeong Kkangtong Market",
+              "type": "optional",
+              "coord": [
+                35.101853999999996,
+                129.0258719
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Cultural Deep Dive — Nampo & Memorial Sites",
+          "items": [
+            {
+              "name": "Good Ol' Days Hotel",
+              "type": "hotel",
+              "coord": [
+                35.1011124,
+                129.035885
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.1011124,
+                129.035885
+              ]
+            },
+            {
+              "name": "UN Memorial Cemetery in Korea",
+              "type": "sightseeing",
+              "coord": [
+                35.127812,
+                129.09571259999998
+              ]
+            },
+            {
+              "name": "Hanwolgwan",
+              "type": "lunch",
+              "coord": [
+                35.154691199999995,
+                129.1185433
+              ]
+            },
+            {
+              "name": "Gukje Market",
+              "type": "sightseeing",
+              "coord": [
+                35.1013575,
+                129.0281978
+              ]
+            },
+            {
+              "name": "Jagalchi Fish Market",
+              "type": "shopping",
+              "coord": [
+                35.0966339,
+                129.0307965
+              ]
+            },
+            {
+              "name": "Jeongjitgan",
+              "type": "dinner",
+              "coord": [
+                35.0957261,
+                128.962501
+              ]
+            },
+            {
+              "name": "Bupyeong Kkangtong Market",
+              "type": "optional",
+              "coord": [
+                35.101853999999996,
+                129.0258719
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Travel to Jeju Island",
+          "items": [
+            {
+              "name": "JW Marriott Jeju Resort & Spa",
+              "type": "hotel",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Flight Busan → Jeju (1hr)",
+              "type": "info",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.1011124,
+                129.035885
+              ]
+            },
+            {
+              "name": "Guksi Teumeong (국시트멍)",
+              "type": "dinner",
+              "coord": [
+                33.4793473,
+                126.4813944
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Jeju Food Trail — Northern Jeju",
+          "items": [
+            {
+              "name": "Grand Hyatt Jeju",
+              "type": "hotel",
+              "coord": [
+                33.4853707,
+                126.4815713
+              ]
+            },
+            {
+              "name": "Dongmun Traditional Market",
+              "type": "breakfast",
+              "coord": [
+                33.5115133,
+                126.5262564
+              ]
+            },
+            {
+              "name": "Market exploration & snacks",
+              "type": "shopping",
+              "coord": [
+                33.5115133,
+                126.5262564
+              ]
+            },
+            {
+              "name": "Jeju: Signature Pork Noodle Soup (gogi-guksu)",
+              "type": "lunch",
+              "coord": [
+                33.498621,
+                126.45876589999997
+              ]
+            },
+            {
+              "name": "Seogwipo Maeil Olle Market",
+              "type": "sightseeing",
+              "coord": [
+                33.2487163,
+                126.5640617
+              ]
+            },
+            {
+              "name": "Guksi Teumeong (국시트멍)",
+              "type": "dinner",
+              "coord": [
+                33.4793473,
+                126.4813944
+              ]
+            },
+            {
+              "name": "Tangerine tasting at market",
+              "type": "optional",
+              "coord": [
+                33.2487163,
+                126.5640617
               ]
             }
           ]
@@ -7216,497 +8311,530 @@
       ]
     },
     "e": {
-      "name": "Grand Tour (14 days)",
-      "color": "#7C3AED",
+      "name": "Luxury Romance (9 Days)",
+      "description": "Couples escape featuring Seoul's finest hotels, Busan's marina sunsets, and Jeju's spa resorts.",
       "days": [
         {
-          "day": 1,
-          "title": "Seoul Arrival",
+          "label": "Day 1 — Luxury Day — Sky Tower to Spa",
           "items": [
             {
-              "type": "hotel",
               "name": "SIGNIEL Seoul",
+              "type": "hotel",
               "coord": [
                 37.512603899999995,
                 127.10252419999998
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.512603899999995,
+                127.10252419999998
+              ]
+            },
+            {
+              "name": "Cheongdam Luxury Street",
+              "type": "shopping",
+              "coord": [
+                37.5259243,
+                127.0419225
+              ]
+            },
+            {
+              "name": "Café Dior by Pierre Hermé",
+              "type": "sightseeing",
+              "coord": [
+                37.524847199999996,
+                127.0466488
+              ]
+            },
+            {
+              "name": "La Yeon",
               "type": "lunch",
+              "coord": [
+                37.555764599999996,
+                127.00508660000001
+              ]
+            },
+            {
+              "name": "Sulwhasoo Spa (luxury skincare spa)",
+              "type": "sightseeing",
+              "coord": [
+                37.523553799999995,
+                127.0354599
+              ]
+            },
+            {
+              "name": "Garosu-gil (Sinsa)",
+              "type": "shopping",
+              "coord": [
+                37.5210566,
+                127.0228686
+              ]
+            },
+            {
               "name": "Mingles",
+              "type": "dinner",
               "coord": [
                 37.5253386,
                 127.04414519999999
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Myeongdong",
-              "coord": [
-                37.56,
-                126.9844
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Seoul Palaces",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "SIGNIEL Seoul",
-              "coord": [
-                37.512603899999995,
-                127.10252419999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Gyeongbokgung Palace",
-              "coord": [
-                37.5777,
-                126.9769
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Traditional Korean",
-              "coord": [
-                37.5665,
-                126.978
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Deoksugung Palace",
-              "coord": [
-                37.566,
-                126.9629
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "DMZ & History",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "SIGNIEL Seoul",
-              "coord": [
-                37.512603899999995,
-                127.10252419999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "DMZ (Demilitarized Zone)",
-              "coord": [
-                37.845,
-                126.6819
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "DMZ Tour Area",
-              "coord": [
-                37.845,
-                126.6819
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Seoul Markets & Culture",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "SIGNIEL Seoul",
-              "coord": [
-                37.512603899999995,
-                127.10252419999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Gwangjang Market",
-              "coord": [
-                37.570039799999996,
-                126.99960360000001
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Market Food",
-              "coord": [
-                37.571,
-                126.9825
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "National Museum",
-              "coord": [
-                37.553,
-                127.0165
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Gyeongju Ancient Capital",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Raum Boutique Hotel",
-              "coord": [
-                35.8362,
-                129.2259
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Gyeongju Local Food",
-              "coord": [
-                35.8362,
-                129.2259
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Bulguksa Temple",
-              "coord": [
-                35.7897,
-                129.3306
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Gyeongju Historic Sites",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Raum Boutique Hotel",
-              "coord": [
-                35.8362,
-                129.2259
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Seokguram Grotto",
-              "coord": [
-                35.7965,
-                129.3386
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Traditional Temple Food",
-              "coord": [
-                35.8362,
-                129.2259
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Anapji Pond",
-              "coord": [
-                35.8388,
-                129.2274
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Busan Arrival",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Raum Boutique Hotel",
-              "coord": [
-                35.8362,
-                129.2259
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Travel to Busan",
-              "coord": [
-                35.1796,
-                129.0756
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "SIGNIEL Busan",
-              "coord": [
-                35.1599375,
-                129.1698125
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Busan Local Restaurant",
-              "coord": [
-                35.1608,
-                129.1683
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Busan Beaches & Markets",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "SIGNIEL Busan",
-              "coord": [
-                35.1599375,
-                129.1698125
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Haeundae Beach",
-              "coord": [
-                35.158697499999995,
-                129.16038419999998
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Jagalchi Market",
-              "coord": [
-                35.099,
-                129.0412
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Gamcheon Culture Village",
-              "coord": [
-                35.1019,
-                129.0584
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Jeju Arrival",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "SIGNIEL Busan",
-              "coord": [
-                35.1599375,
-                129.1698125
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Jeju",
-              "coord": [
-                33.4996,
-                126.5312
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Grand Hyatt Jeju",
-              "coord": [
-                33.4853707,
-                126.4815713
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Jeju Beach Sunset",
-              "coord": [
-                33.4088,
-                126.2418
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Jeju Nature & Culture",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Grand Hyatt Jeju",
-              "coord": [
-                33.4853707,
-                126.4815713
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Hallasan Mountain",
-              "coord": [
-                33.3615,
-                126.5314
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Jeju Black Pork",
-              "coord": [
-                33.4996,
-                126.5312
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Jeju Folk Museum",
-              "coord": [
-                33.4996,
-                126.5312
-              ]
-            }
-          ]
-        },
-        {
-          "day": 11,
-          "title": "Jeonju Hanok Village",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Jeonju Hanok Stay",
-              "coord": [
-                35.8242,
-                127.1479
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Jeonju Bibimbap",
-              "coord": [
-                35.8242,
-                127.1479
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Jeonju Hanok Village",
-              "coord": [
-                35.8242,
-                127.1479
-              ]
-            }
-          ]
-        },
-        {
-          "day": 12,
-          "title": "Jeonju Arts & Crafts",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Jeonju Hanok Stay",
-              "coord": [
-                35.8242,
-                127.1479
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Jeonju Paper Museum",
-              "coord": [
-                35.8242,
-                127.1479
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Traditional Market Food",
-              "coord": [
-                35.8242,
-                127.1479
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Craft Workshops",
-              "coord": [
-                35.8242,
-                127.1479
-              ]
-            }
-          ]
-        },
-        {
-          "day": 13,
-          "title": "Return to Seoul",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Jeonju Hanok Stay",
-              "coord": [
-                35.8242,
-                127.1479
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Travel to Seoul",
-              "coord": [
-                37.5665,
-                126.978
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Four Seasons Hotel Seoul",
-              "coord": [
-                37.57071,
-                126.9754143
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Farewell Dinner",
-              "coord": [
-                37.522682,
-                127.039179
-              ]
-            }
-          ]
-        },
-        {
-          "day": 14,
-          "title": "Final Seoul & Departure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Four Seasons Hotel Seoul",
-              "coord": [
-                37.57071,
-                126.9754143
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Last-minute exploration",
-              "coord": [
-                37.5665,
-                126.978
-              ]
-            },
-            {
+              "name": "Le Chamber",
               "type": "optional",
-              "name": "Airport departure",
               "coord": [
-                37.4769,
-                126.7094
+                37.5262177,
+                127.04103959999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Seoul Nights — Rooftops to Speakeasies",
+          "items": [
+            {
+              "name": "Mondrian Seoul Itaewon",
+              "type": "hotel",
+              "coord": [
+                37.5285106,
+                126.99311629999998
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.5285106,
+                126.99311629999998
+              ]
+            },
+            {
+              "name": "Shinsegae Department Store LED Billboard",
+              "type": "sightseeing",
+              "coord": [
+                37.56092230000001,
+                126.98113889999999
+              ]
+            },
+            {
+              "name": "Le Chocolat Maxime Frédéric at Louis Vuitton",
+              "type": "sightseeing",
+              "coord": [
+                37.56092230000001,
+                126.98113889999999
+              ]
+            },
+            {
+              "name": "JP (Louis Vuitton The Place Seoul)",
+              "type": "lunch",
+              "coord": [
+                37.56092230000001,
+                126.98113889999999
+              ]
+            },
+            {
+              "name": "Hannam-dong + Itaewon Browsing",
+              "type": "shopping",
+              "coord": [
+                37.536489599999996,
+                126.99877500000001
+              ]
+            },
+            {
+              "name": "Myeongdong Street Food",
+              "type": "sightseeing",
+              "coord": [
+                37.561668499999996,
+                126.9858438
+              ]
+            },
+            {
+              "name": "Soigné",
+              "type": "dinner",
+              "coord": [
+                37.5193295,
+                127.01903259999999
+              ]
+            },
+            {
+              "name": "Bar Cham",
+              "type": "optional",
+              "coord": [
+                37.5791709,
+                126.97038509999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Spa & Fine Dining Day in Seoul",
+          "items": [
+            {
+              "name": "Mondrian Seoul Itaewon",
+              "type": "hotel",
+              "coord": [
+                37.5285106,
+                126.99311629999998
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.5285106,
+                126.99311629999998
+              ]
+            },
+            {
+              "name": "Free morning to explore Seoul Metropolitan Area",
+              "type": "sightseeing",
+              "coord": [
+                37.5285106,
+                126.99311629999998
+              ]
+            },
+            {
+              "name": "Mingles",
+              "type": "lunch",
+              "coord": [
+                37.5253386,
+                127.04414519999999
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                37.5285106,
+                126.99311629999998
+              ]
+            },
+            {
+              "name": "Soigné",
+              "type": "dinner",
+              "coord": [
+                37.5193295,
+                127.01903259999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Travel to Busan",
+          "items": [
+            {
+              "name": "SIGNIEL Busan",
+              "type": "hotel",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "name": "Morning KTX train Seoul → Busan (2.5hr)",
+              "type": "info",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.5285106,
+                126.99311629999998
+              ]
+            },
+            {
+              "name": "Voila Café Busan (Haeundae Marine City)",
+              "type": "dinner",
+              "coord": [
+                35.1541923,
+                129.1462914
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Luxury Busan — Haeundae Heights",
+          "items": [
+            {
+              "name": "SIGNIEL Busan",
+              "type": "hotel",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "name": "Hotel breakfast with ocean views",
+              "type": "breakfast",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "name": "Dalmaji-gil (Haeundae hillside road)",
+              "type": "sightseeing",
+              "coord": [
+                35.1590479,
+                129.18327539999999
+              ]
+            },
+            {
+              "name": "Voila Café Busan (Haeundae Marine City)",
+              "type": "lunch",
+              "coord": [
+                35.1541923,
+                129.1462914
+              ]
+            },
+            {
+              "name": "Marine City Night Skyline",
+              "type": "sightseeing",
+              "coord": [
+                35.157235799999995,
+                129.14826879999998
+              ]
+            },
+            {
+              "name": "Fine dining at hotel",
+              "type": "dinner",
+              "coord": [
+                35.1599375,
+                129.1698125
+              ]
+            },
+            {
+              "name": "Haeundae Hotel Lounge for Views",
+              "type": "optional",
+              "coord": [
+                35.1559601,
+                129.1539819
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Spa Day — Centum City & Cove Resort",
+          "items": [
+            {
+              "name": "Ananti at Busan Cove",
+              "type": "hotel",
+              "coord": [
+                35.200575799999996,
+                129.22928729999998
+              ]
+            },
+            {
+              "name": "Healthy resort breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.200575799999996,
+                129.22928729999998
+              ]
+            },
+            {
+              "name": "Resort spa session",
+              "type": "sightseeing",
+              "coord": [
+                35.200575799999996,
+                129.22928729999998
+              ]
+            },
+            {
+              "name": "Light lunch at resort",
+              "type": "lunch",
+              "coord": [
+                35.200575799999996,
+                129.22928729999998
+              ]
+            },
+            {
+              "name": "Spa Land (Centum City)",
+              "type": "sightseeing",
+              "coord": [
+                35.168233799999996,
+                129.1295279
+              ]
+            },
+            {
+              "name": "Buda Myeonoak",
+              "type": "dinner",
+              "coord": [
+                35.162367599999996,
+                129.1629743
+              ]
+            },
+            {
+              "name": "Marine City Night Skyline",
+              "type": "optional",
+              "coord": [
+                35.157235799999995,
+                129.14826879999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Travel to Jeju Island",
+          "items": [
+            {
+              "name": "JW Marriott Jeju Resort & Spa",
+              "type": "hotel",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Flight Busan → Jeju (1hr)",
+              "type": "info",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.200575799999996,
+                129.22928729999998
+              ]
+            },
+            {
+              "name": "Guksi Teumeong (국시트멍)",
+              "type": "dinner",
+              "coord": [
+                33.4793473,
+                126.4813944
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Luxury Wellness — Southern Jeju",
+          "items": [
+            {
+              "name": "JW Marriott Jeju Resort & Spa",
+              "type": "hotel",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast with ocean views",
+              "type": "breakfast",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Resort spa treatments",
+              "type": "sightseeing",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Resort fine dining lunch",
+              "type": "lunch",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Jeju Waterfalls Day (Seogwipo)",
+              "type": "sightseeing",
+              "coord": [
+                33.244852099999996,
+                126.57180319999999
+              ]
+            },
+            {
+              "name": "Resort signature restaurant",
+              "type": "dinner",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            },
+            {
+              "name": "Private beach walk",
+              "type": "optional",
+              "coord": [
+                33.243829,
+                126.53863039999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Culture & Design — Western Jeju",
+          "items": [
+            {
+              "name": "The Shilla Jeju",
+              "type": "hotel",
+              "coord": [
+                33.2471631,
+                126.4079553
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                33.2471631,
+                126.4079553
+              ]
+            },
+            {
+              "name": "Jeju: Quiet Cabin Retreat (Egattoc / forest cabins)",
+              "type": "sightseeing",
+              "coord": [
+                33.2931737,
+                126.3707376
+              ]
+            },
+            {
+              "name": "Local cafe lunch",
+              "type": "lunch",
+              "coord": [
+                33.2931737,
+                126.3707376
+              ]
+            },
+            {
+              "name": "Jeju: Dongmun Traditional Market",
+              "type": "sightseeing",
+              "coord": [
+                33.5115133,
+                126.5262564
+              ]
+            },
+            {
+              "name": "Guksi Teumeong (국시트멍)",
+              "type": "dinner",
+              "coord": [
+                33.4793473,
+                126.4813944
+              ]
+            },
+            {
+              "name": "Market evening stroll",
+              "type": "optional",
+              "coord": [
+                33.5115133,
+                126.5262564
               ]
             }
           ]

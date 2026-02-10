@@ -1,7 +1,7 @@
 {
   "name": "Travel Map — Family Trip Planner",
   "short_name": "Travel Map",
-  "description": "Interactive travel map with 16 destinations, 3,670 POIs, AI itinerary planning, and personal bookings.",
+  "description": "Interactive travel map with 17 destinations, 3,792 POIs, AI itinerary planning, and personal bookings.",
   "start_url": "/Family-Travel-Map/",
   "scope": "/Family-Travel-Map/",
   "display": "standalone",

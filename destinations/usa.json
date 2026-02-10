@@ -1,0 +1,4885 @@
+{
+  "key": "usa",
+  "name": "United States",
+  "subtitle": "Interactive Trip Map",
+  "flag": "🇺🇸",
+  "defaultCenter": [
+    39.8283,
+    -98.5795
+  ],
+  "defaultZoom": 5,
+  "hotels": [
+    {
+      "name": "The Carlyle, A Rosewood Hotel",
+      "coord": [
+        40.7746,
+        -73.9632
+      ],
+      "desc": "Upper East Side icon, Bemelmans Bar, old-world luxury",
+      "longDesc": "A landmark of Upper East Side elegance since 1930, beloved for Bemelmans Bar's murals, white-glove service, and a guest list of presidents and royalty.",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Romantic",
+        "Cultural & Historical"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Carlyle%2C%20A%20Rosewood%20Hotel&center=40.7746,-73.9632"
+    },
+    {
+      "name": "The Greenwich Hotel",
+      "coord": [
+        40.7197,
+        -74.01
+      ],
+      "desc": "Tribeca retreat by De Niro, Japanese-inspired pool",
+      "longDesc": "Robert De Niro's Tribeca gem with hand-picked antiques in every room, a subterranean Japanese pool house with reclaimed wood, and understated downtown cool.",
+      "tags": [
+        "Splurge",
+        "Art & Design",
+        "Romantic",
+        "Wellness & Spa"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Greenwich%20Hotel&center=40.7197,-74.01"
+    },
+    {
+      "name": "The Bowery Hotel",
+      "coord": [
+        40.7254,
+        -73.9923
+      ],
+      "desc": "Industrial-chic downtown NYC, buzzy lobby scene",
+      "longDesc": "Factory-windows-meet-velvet downtown hotel where the lobby fireplace draws fashion editors and musicians — peak East Village atmosphere.",
+      "tags": [
+        "Art & Design",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Bowery%20Hotel&center=40.7254,-73.9923"
+    },
+    {
+      "name": "1 Hotel Brooklyn Bridge",
+      "coord": [
+        40.699,
+        -73.9963
+      ],
+      "desc": "Eco-luxury with jaw-dropping Manhattan skyline views",
+      "longDesc": "Sustainable luxury on the Brooklyn waterfront with floor-to-ceiling views of the Manhattan skyline, a rooftop pool, and reclaimed-wood interiors.",
+      "tags": [
+        "Photography Worthy",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=1%20Hotel%20Brooklyn%20Bridge&center=40.699,-73.9963"
+    },
+    {
+      "name": "The Ned NoMad",
+      "coord": [
+        40.7453,
+        -73.988
+      ],
+      "desc": "Soho House group, rooftop pool, NoMad neighborhood",
+      "longDesc": "The Soho House team's NYC outpost in a Beaux-Arts tower with a rooftop pool, multiple restaurants, and the kind of effortless style that defines NoMad.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Art & Design",
+        "Nightlife"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ned%20NoMad&center=40.7453,-73.988"
+    },
+    {
+      "name": "Wildflower Farms, Auberge Resorts",
+      "coord": [
+        41.746,
+        -74.12
+      ],
+      "desc": "Luxury farm-to-table resort in the Hudson Valley",
+      "longDesc": "A 140-acre Catskills estate by Auberge with free-standing cabins, a working farm, spa with garden views, and dining that defines Hudson Valley farm-to-table.",
+      "tags": [
+        "Splurge",
+        "Outdoor & Nature",
+        "Wellness & Spa",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Wildflower%20Farms%2C%20Auberge%20Resorts&center=41.746,-74.12"
+    },
+    {
+      "name": "Piaule Catskill",
+      "coord": [
+        42.205,
+        -73.919
+      ],
+      "desc": "Minimalist Nordic-inspired cabins, sauna, Catskills",
+      "longDesc": "Architecturally stunning Scandinavian-inspired cabins perched above the Catskills with a communal sauna house, plunge pool, and contemplative forest setting.",
+      "tags": [
+        "Art & Design",
+        "Wellness & Spa",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Piaule%20Catskill&center=42.205,-73.919"
+    },
+    {
+      "name": "Inness",
+      "coord": [
+        41.6625,
+        -74.339
+      ],
+      "desc": "Design-forward country hotel, farm, spa, golf",
+      "longDesc": "A 225-acre design hotel with a working barley farm, Bjarke Ingels-designed cabins, a world-class spa, and an ethos that redefines the country getaway.",
+      "tags": [
+        "Art & Design",
+        "Splurge",
+        "Outdoor & Nature",
+        "Wellness & Spa",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Inness&center=41.6625,-74.339"
+    },
+    {
+      "name": "Hotel Kinsley",
+      "coord": [
+        41.9268,
+        -73.9985
+      ],
+      "desc": "Restored 19th-century Kingston boutique hotel",
+      "longDesc": "Four beautifully restored historic buildings in Kingston's Stockade District, blending industrial bones with refined modern interiors and a rooftop bar.",
+      "tags": [
+        "Art & Design",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Kinsley&center=41.9268,-73.9985"
+    },
+    {
+      "name": "Hutton Brickyards",
+      "coord": [
+        41.915,
+        -73.983
+      ],
+      "desc": "Glamping cabins on the Hudson River, Kingston",
+      "longDesc": "Former brick factory turned riverside glamping retreat with minimalist cabins, fire pits, kayaks, and direct Hudson River access — an hour from NYC.",
+      "tags": [
+        "Outdoor & Nature",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hutton%20Brickyards&center=41.915,-73.983"
+    },
+    {
+      "name": "Urban Cowboy Lodge",
+      "coord": [
+        42.0725,
+        -74.31
+      ],
+      "desc": "Bohemian-luxe lodge, Big Indian, Catskills",
+      "longDesc": "A hipper-than-thou Catskills lodge with soaking tubs, curated vinyl collections, campfires, and eclectic rooms that feel like a very cool friend's cabin.",
+      "tags": [
+        "Art & Design",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Urban%20Cowboy%20Lodge&center=42.0725,-74.31"
+    },
+    {
+      "name": "Hasbrouck House",
+      "coord": [
+        41.715,
+        -74.24
+      ],
+      "desc": "18th-century stone house inn, Stone Ridge",
+      "longDesc": "A meticulously restored 1757 stone house with a pool, farm-to-table restaurant, and the kind of Hudson Valley character that can't be manufactured.",
+      "tags": [
+        "Cultural & Historical",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hasbrouck%20House&center=41.715,-74.24"
+    },
+    {
+      "name": "The DeBruce",
+      "coord": [
+        41.875,
+        -74.58
+      ],
+      "desc": "Remote Catskills inn, Michelin-recognized kitchen",
+      "longDesc": "A secluded 1880s inn deep in the Catskills with a tasting-menu restaurant, crackling fireplaces, and the rare feeling of being completely off-grid in luxury.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Fine Dining",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20DeBruce&center=41.875,-74.58"
+    },
+    {
+      "name": "Kenoza Hall",
+      "coord": [
+        41.72,
+        -74.98
+      ],
+      "desc": "1880s lakeside resort, Sullivan County",
+      "longDesc": "A lovingly restored Gilded Age lakeside resort with Arts & Crafts interiors, a farm-driven restaurant, and views over Kenoza Lake that haven't changed in a century.",
+      "tags": [
+        "Cultural & Historical",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kenoza%20Hall&center=41.72,-74.98"
+    },
+    {
+      "name": "Alila Ventana Big Sur",
+      "coord": [
+        36.238,
+        -121.759
+      ],
+      "desc": "Cliffside luxury on the Pacific, Big Sur",
+      "longDesc": "Perched 1,200 feet above the Pacific on 160 acres of redwood canyon, with glamping tents, infinity pools, and the most dramatic coastline in North America.",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Romantic",
+        "Outdoor & Nature",
+        "Wellness & Spa"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alila%20Ventana%20Big%20Sur&center=36.238,-121.759"
+    },
+    {
+      "name": "Cavallo Point Lodge",
+      "coord": [
+        37.8335,
+        -122.4764
+      ],
+      "desc": "Former army post at the Golden Gate, Sausalito",
+      "longDesc": "A historic Fort Baker officer's quarters turned luxury lodge directly beneath the Golden Gate Bridge — the only hotel with this iconic vantage point.",
+      "tags": [
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cavallo%20Point%20Lodge&center=37.8335,-122.4764"
+    },
+    {
+      "name": "Bernardus Lodge & Spa",
+      "coord": [
+        36.48,
+        -121.73
+      ],
+      "desc": "Carmel Valley wine country retreat",
+      "longDesc": "A Carmel Valley hideaway surrounded by vineyards and lavender, with a world-class spa, Lucia restaurant, and the warm pace of California wine country.",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bernardus%20Lodge%20%26%20Spa&center=36.48,-121.73"
+    },
+    {
+      "name": "The Ritz-Carlton Bacara, Santa Barbara",
+      "coord": [
+        34.442,
+        -119.912
+      ],
+      "desc": "Beachfront resort, two pools, Santa Barbara",
+      "longDesc": "A sprawling 78-acre beachfront resort on the Gaviota Coast with two pools, a 42,000 sq ft spa, and the effortless luxury Santa Barbara does best.",
+      "tags": [
+        "Splurge",
+        "Wellness & Spa",
+        "Family Friendly",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Ritz-Carlton%20Bacara%2C%20Santa%20Barbara&center=34.442,-119.912"
+    },
+    {
+      "name": "Alila Napa Valley",
+      "coord": [
+        38.457,
+        -122.405
+      ],
+      "desc": "Vineyard-surrounded modern luxury, St. Helena",
+      "longDesc": "A contemporary wine country estate in St. Helena with clean-lined architecture, vineyard views from every room, and a farm-to-table restaurant.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Art & Design",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alila%20Napa%20Valley&center=38.457,-122.405"
+    },
+    {
+      "name": "The Sea Ranch Lodge",
+      "coord": [
+        38.715,
+        -123.454
+      ],
+      "desc": "Iconic modernist coastal lodge, Sonoma Coast",
+      "longDesc": "An architectural icon on the rugged Sonoma Coast, where 1960s modernism meets the Pacific — the kind of place design pilgrims seek out.",
+      "tags": [
+        "Art & Design",
+        "Photography Worthy",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Sea%20Ranch%20Lodge&center=38.715,-123.454"
+    },
+    {
+      "name": "Timber Cove Resort",
+      "coord": [
+        38.55,
+        -123.27
+      ],
+      "desc": "Brutalist-meets-bohemian on the Sonoma Coast",
+      "longDesc": "A dramatic 1963 lodge reimagined as a modern retreat on the Sonoma cliffs with a Benny Bufano sculpture, fire pits, and wild coastal views.",
+      "tags": [
+        "Art & Design",
+        "Photography Worthy",
+        "Romantic",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Timber%20Cove%20Resort&center=38.55,-123.27"
+    },
+    {
+      "name": "Carmel Valley Ranch",
+      "coord": [
+        36.47,
+        -121.74
+      ],
+      "desc": "Activity-rich family resort, Carmel",
+      "longDesc": "A 500-acre playground in Carmel Valley with horseback riding, beekeeping, golf, pools, and the kind of California sunshine that makes everything better.",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Wellness & Spa"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Carmel%20Valley%20Ranch&center=36.47,-121.74"
+    },
+    {
+      "name": "1 Hotel Hanalei Bay",
+      "coord": [
+        22.209,
+        -159.501
+      ],
+      "desc": "Luxury beachfront resort, Kauai's north shore",
+      "longDesc": "A sustainably designed beachfront resort on Kauai's impossibly beautiful north shore, with views of Bali Hai, organic dining, and world-class surf.",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Romantic",
+        "Wellness & Spa"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=1%20Hotel%20Hanalei%20Bay&center=22.209,-159.501"
+    },
+    {
+      "name": "W Austin",
+      "coord": [
+        30.264,
+        -97.747
+      ],
+      "desc": "Downtown Austin, rooftop pool, live music scene",
+      "longDesc": "The W's Austin outpost anchors the city's entertainment district with a rooftop pool overlooking Lady Bird Lake and an anything-goes live-music energy.",
+      "tags": [
+        "Nightlife",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=W%20Austin&center=30.264,-97.747"
+    },
+    {
+      "name": "Hotel Saint Cecilia",
+      "coord": [
+        30.253,
+        -97.751
+      ],
+      "desc": "Rock-and-roll-meets-luxury boutique, South Congress",
+      "longDesc": "A converted Victorian mansion on South Congress named for the patron saint of music, with a vinyl library, pool, and the coolest vibe in Austin.",
+      "tags": [
+        "Art & Design",
+        "Romantic",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Saint%20Cecilia&center=30.253,-97.751"
+    },
+    {
+      "name": "The Breakers Palm Beach",
+      "coord": [
+        26.71,
+        -80.037
+      ],
+      "desc": "Legendary 1926 Italian Renaissance oceanfront resort",
+      "longDesc": "An oceanfront palace built in 1926 in Italian Renaissance style with five pools, a private beach, and the grand ambition of the Gilded Age still intact.",
+      "tags": [
+        "Splurge",
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Breakers%20Palm%20Beach&center=26.71,-80.037"
+    },
+    {
+      "name": "Faena Miami Beach",
+      "coord": [
+        25.81,
+        -80.122
+      ],
+      "desc": "Baz Luhrmann-designed maximalist beach hotel",
+      "longDesc": "Baz Luhrmann's theatrical collaboration with Alan Faena — a maximalist masterpiece of gold columns, Damien Hirst installations, and Miami Beach glamour.",
+      "tags": [
+        "Splurge",
+        "Art & Design",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Faena%20Miami%20Beach&center=25.81,-80.122"
+    },
+    {
+      "name": "Post Ranch Inn",
+      "coord": [
+        36.237,
+        -121.76
+      ],
+      "desc": "Clifftop luxury above Big Sur, adults-only",
+      "longDesc": "An adults-only clifftop sanctuary with tree houses and ocean houses cantilevered over Big Sur's coast — regularly ranked among the world's best hotels.",
+      "tags": [
+        "Splurge",
+        "Romantic",
+        "Photography Worthy",
+        "Wellness & Spa"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Post%20Ranch%20Inn&center=36.237,-121.76"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "sushi AMANE",
+      "coord": [
+        40.7248,
+        -73.9909
+      ],
+      "desc": "Intimate omakase counter, Nori Sugie-trained, East Village",
+      "longDesc": "A 9-seat omakase counter from a Nori Sugie protégé, serving pristine Edomae sushi in a hushed East Village basement — one of NYC's most refined meals.",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Good for Dinner",
+        "Local Delicacies"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=sushi%20AMANE&center=40.7248,-73.9909"
+    },
+    {
+      "name": "Frenchette",
+      "coord": [
+        40.72,
+        -74.005
+      ],
+      "desc": "Neo-bistro in Tribeca, natural wines, rotisserie",
+      "longDesc": "A Tribeca neo-bistro that channels 1970s Paris with rotisserie duck, plateaux de fruits de mer, and a natural wine list that launched a thousand imitators.",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Frenchette&center=40.72,-74.005"
+    },
+    {
+      "name": "Una Pizza Napoletana",
+      "coord": [
+        40.7265,
+        -73.9856
+      ],
+      "desc": "Anthony Mangieri's legendary pizza, East Village",
+      "longDesc": "Anthony Mangieri's obsessive pursuit of perfect Neapolitan pizza — just four pies, no slices, no reservations, and a cult following that spans decades.",
+      "tags": [
+        "Local Delicacies",
+        "Good for Dinner",
+        "Casual Eats",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Una%20Pizza%20Napoletana&center=40.7265,-73.9856"
+    },
+    {
+      "name": "odo",
+      "coord": [
+        40.7408,
+        -73.992
+      ],
+      "desc": "Kaiseki-style omakase hidden in Flatiron",
+      "longDesc": "A hidden kaiseki counter in the Flatiron where chef Hiroki Odo serves 20+ courses of seasonal Japanese cuisine — NYC's most transporting dining experience.",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Good for Dinner"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=odo&center=40.7408,-73.992"
+    },
+    {
+      "name": "Rezdôra",
+      "coord": [
+        40.741,
+        -73.989
+      ],
+      "desc": "Emilian pasta, Michelin-starred, Flatiron",
+      "longDesc": "Michelin-starred Emilian pasta in the Flatiron — the tortellini in brodo and tagliatelle al ragù are some of the best Italian food outside of Bologna.",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Local Delicacies"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rezd%C3%B4ra&center=40.741,-73.989"
+    },
+    {
+      "name": "Di An Di",
+      "coord": [
+        40.714,
+        -73.956
+      ],
+      "desc": "Modern Vietnamese, Greenpoint, gorgeous space",
+      "longDesc": "A stunning Greenpoint space serving modern Vietnamese cuisine — the pho is excellent, the bún chả is better, and the plant-filled room is the best in Brooklyn.",
+      "tags": [
+        "Good for Dinner",
+        "Good for Lunch",
+        "Photography Worthy",
+        "Casual Eats"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Di%20An%20Di&center=40.714,-73.956"
+    },
+    {
+      "name": "886",
+      "coord": [
+        40.727,
+        -73.987
+      ],
+      "desc": "Taiwanese beer house, East Village",
+      "longDesc": "A raucous East Village Taiwanese beer house serving three-cup chicken, pork belly bao, and popcorn chicken alongside craft beers and natural wines.",
+      "tags": [
+        "Casual Eats",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Nightlife"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=886&center=40.727,-73.987"
+    },
+    {
+      "name": "Casa Enrique",
+      "coord": [
+        40.748,
+        -73.922
+      ],
+      "desc": "Michelin-starred Mexican, Long Island City",
+      "longDesc": "The only Michelin-starred Mexican restaurant in NYC, serving Chiapas-inspired mole negro, enchiladas, and the most soulful Mexican food in the five boroughs.",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Local Delicacies"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Enrique&center=40.748,-73.922"
+    },
+    {
+      "name": "Oiji Mi",
+      "coord": [
+        40.744,
+        -73.983
+      ],
+      "desc": "Elevated Korean, Flatiron, tasting menu",
+      "longDesc": "Elevated Korean cuisine in a sleek Flatiron dining room — the jjimdak is extraordinary, the banchan are museum-quality, and the tasting menu is unmissable.",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oiji%20Mi&center=40.744,-73.983"
+    },
+    {
+      "name": "Bar Pisellino",
+      "coord": [
+        40.734,
+        -74.002
+      ],
+      "desc": "Italian café-bar, West Village, aperitivo perfection",
+      "longDesc": "A West Village Italian café-bar that nails the aperitivo hour with perfect spritzes, tramezzini sandwiches, and a corner that could be in Milan.",
+      "tags": [
+        "Cocktails & Bars",
+        "Good for Lunch",
+        "Photography Worthy",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20Pisellino&center=40.734,-74.002"
+    },
+    {
+      "name": "Katana Kitten",
+      "coord": [
+        40.735,
+        -74.001
+      ],
+      "desc": "Japanese-American cocktail bar, West Village",
+      "longDesc": "A West Village cocktail bar blending Japanese precision with American hospitality — the highballs are immaculate and the vibe is effortlessly cool.",
+      "tags": [
+        "Cocktails & Bars",
+        "Nightlife",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Katana%20Kitten&center=40.735,-74.001"
+    },
+    {
+      "name": "Overstory",
+      "coord": [
+        40.706,
+        -74.009
+      ],
+      "desc": "64th-floor cocktail bar, FiDi skyline views",
+      "longDesc": "A 64th-floor cocktail bar atop a Financial District tower with floor-to-ceiling views of the harbor, Statue of Liberty, and Brooklyn Bridge — NYC's best view.",
+      "tags": [
+        "Cocktails & Bars",
+        "Photography Worthy",
+        "Romantic",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Overstory&center=40.706,-74.009"
+    },
+    {
+      "name": "Tempura Matsui",
+      "coord": [
+        40.764,
+        -73.976
+      ],
+      "desc": "Counter-only tempura omakase, Midtown",
+      "longDesc": "A refined counter-only tempura omakase where each piece is fried to ethereal crispness — the kind of meticulous Japanese craft that's rare even in Tokyo.",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tempura%20Matsui&center=40.764,-73.976"
+    },
+    {
+      "name": "COQODAQ",
+      "coord": [
+        40.76,
+        -73.98
+      ],
+      "desc": "Korean fried chicken, Michelin-starred, Midtown",
+      "longDesc": "Michelin-starred Korean fried chicken in Midtown — sounds unlikely, tastes extraordinary. The crunch, the glaze, the banchan — all elevated to fine-dining levels.",
+      "tags": [
+        "Good for Dinner",
+        "Local Delicacies",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=COQODAQ&center=40.76,-73.98"
+    },
+    {
+      "name": "Sushi Ichimura",
+      "coord": [
+        40.761,
+        -73.973
+      ],
+      "desc": "Intimate 7-seat omakase, Midtown East",
+      "longDesc": "A 7-seat counter where chef Ichimura serves Edomae sushi with quiet mastery — the kind of hushed, reverential omakase that transports you to Ginza.",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Good for Dinner"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sushi%20Ichimura&center=40.761,-73.973"
+    },
+    {
+      "name": "Yakitori Torishin",
+      "coord": [
+        40.768,
+        -73.963
+      ],
+      "desc": "Michelin-starred yakitori, Upper East Side",
+      "longDesc": "NYC's only Michelin-starred yakitori counter, where every part of the chicken is grilled over binchotan to smoky perfection by a master craftsman.",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Local Delicacies"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yakitori%20Torishin&center=40.768,-73.963"
+    },
+    {
+      "name": "Ho Foods",
+      "coord": [
+        40.726,
+        -73.99
+      ],
+      "desc": "Taiwanese beef noodle soup, East Village",
+      "longDesc": "Rich, deeply spiced Taiwanese beef noodle soup from chef Richard Ho — the broth simmers for 12 hours and every bowl is a revelation.",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Local Delicacies",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ho%20Foods&center=40.726,-73.99"
+    },
+    {
+      "name": "Los Mariscos",
+      "coord": [
+        40.742,
+        -74.005
+      ],
+      "desc": "Taco stand at Chelsea Market, seafood tacos",
+      "longDesc": "A tiny counter inside Chelsea Market serving the city's best fish tacos — grilled, fried, and ceviched with Mexican precision and NYC hustle.",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Local Delicacies",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Los%20Mariscos&center=40.742,-74.005"
+    },
+    {
+      "name": "Sake Bar Decibel",
+      "coord": [
+        40.73,
+        -73.99
+      ],
+      "desc": "Underground sake bar, East Village, punk rock",
+      "longDesc": "A graffiti-covered underground sake bar on East 9th Street — part punk rock, part izakaya, entirely unlike anything else in the city.",
+      "tags": [
+        "Cocktails & Bars",
+        "Nightlife",
+        "Local Delicacies",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Sake%20Bar%20Decibel&center=40.73,-73.99"
+    },
+    {
+      "name": "Raines Law Room",
+      "coord": [
+        40.74,
+        -73.991
+      ],
+      "desc": "Speakeasy cocktail bar, velvet curtains, Flatiron",
+      "longDesc": "A dimly lit speakeasy hidden behind an unmarked door on 17th Street — ring the bell, part the velvet curtain, and enter some of NYC's finest cocktails.",
+      "tags": [
+        "Cocktails & Bars",
+        "Romantic",
+        "Nightlife"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Raines%20Law%20Room&center=40.74,-73.991"
+    },
+    {
+      "name": "Le Bernardin",
+      "coord": [
+        40.7614,
+        -73.9818
+      ],
+      "desc": "Eric Ripert's 3-Michelin-star seafood temple",
+      "longDesc": "Eric Ripert's Midtown seafood temple — three Michelin stars for decades, widely considered the finest seafood restaurant in the Western Hemisphere.",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Good for Dinner",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Le%20Bernardin&center=40.7614,-73.9818"
+    },
+    {
+      "name": "Peter Luger Steak House",
+      "coord": [
+        40.7099,
+        -73.9622
+      ],
+      "desc": "Legendary 1887 Williamsburg steakhouse",
+      "longDesc": "Brooklyn's 137-year-old cash-only steakhouse — the porterhouse for two is seared to crusty perfection and carved tableside. No menu needed.",
+      "tags": [
+        "Local Delicacies",
+        "Good for Dinner",
+        "Cultural & Historical",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Peter%20Luger%20Steak%20House&center=40.7099,-73.9622"
+    },
+    {
+      "name": "Lucali",
+      "coord": [
+        40.679,
+        -73.997
+      ],
+      "desc": "BYOB pizza in Carroll Gardens, cult following",
+      "longDesc": "A Carroll Gardens BYOB where Mark Iacono hand-stretches every pizza in a converted candy shop — the char, the mozzarella, the calzone. Worth every minute of the wait.",
+      "tags": [
+        "Local Delicacies",
+        "Good for Dinner",
+        "Budget Friendly",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Lucali&center=40.679,-73.997"
+    },
+    {
+      "name": "Gaskins",
+      "coord": [
+        42.235,
+        -73.73
+      ],
+      "desc": "Farm-to-table bistro, Germantown",
+      "longDesc": "A husband-and-wife bistro in tiny Germantown that exemplifies Hudson Valley farm-to-table — seasonal menu, local farms, and a warmth that keeps NYC weekenders coming back.",
+      "tags": [
+        "Good for Dinner",
+        "Romantic",
+        "Local Delicacies"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Gaskins&center=42.235,-73.73"
+    },
+    {
+      "name": "Phoenicia Diner",
+      "coord": [
+        42.083,
+        -74.315
+      ],
+      "desc": "Catskills roadside diner, elevated comfort food",
+      "longDesc": "A vintage Catskills diner reborn with locally sourced ingredients — the cream biscuits, huevos rancheros, and pie are worth the mountain drive from anywhere.",
+      "tags": [
+        "Good for Lunch",
+        "Casual Eats",
+        "Family Friendly",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Phoenicia%20Diner&center=42.083,-74.315"
+    },
+    {
+      "name": "Brushland Eating House",
+      "coord": [
+        42.31,
+        -74.65
+      ],
+      "desc": "Seasonal tasting menu in Bovina, remote Catskills",
+      "longDesc": "A tiny seasonal restaurant in the middle-of-nowhere Catskills village of Bovina, serving a multi-course tasting menu from hyperlocal ingredients. Worth the pilgrimage.",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Romantic",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brushland%20Eating%20House&center=42.31,-74.65"
+    },
+    {
+      "name": "Stissing House",
+      "coord": [
+        41.785,
+        -73.66
+      ],
+      "desc": "1782 tavern turned fine dining, Pine Plains",
+      "longDesc": "A meticulously restored 1782 stone tavern in Pine Plains serving modern American cuisine with French technique — one of the Hudson Valley's destination dinners.",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Cultural & Historical",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Stissing%20House&center=41.785,-73.66"
+    },
+    {
+      "name": "Silvia",
+      "coord": [
+        42.046,
+        -74.127
+      ],
+      "desc": "Woodstock farm-to-table, beautiful garden",
+      "longDesc": "A Woodstock restaurant with a dreamy garden dining room, seasonal cocktails, and the kind of thoughtful farm cooking that makes you want to move upstate.",
+      "tags": [
+        "Good for Dinner",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Silvia&center=42.046,-74.127"
+    },
+    {
+      "name": "Bread Alone Bakery",
+      "coord": [
+        42.043,
+        -74.315
+      ],
+      "desc": "Legendary organic sourdough, Catskills institution",
+      "longDesc": "A Catskills institution since 1983, baking organic sourdough in wood-fired brick ovens — the bread alone justifies a trip, but the pastries seal it.",
+      "tags": [
+        "Good for Lunch",
+        "Casual Eats",
+        "Local Delicacies",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bread%20Alone%20Bakery&center=42.043,-74.315"
+    },
+    {
+      "name": "feast & floret",
+      "coord": [
+        42.248,
+        -73.79
+      ],
+      "desc": "Seasonal Hudson Valley cuisine, Hudson",
+      "longDesc": "A light-filled Hudson restaurant focused on local farms and seasonal produce — the vegetable dishes steal the show from the proteins.",
+      "tags": [
+        "Good for Dinner",
+        "Good for Lunch",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=feast%20%26%20floret&center=42.248,-73.79"
+    },
+    {
+      "name": "Franklin Barbecue",
+      "coord": [
+        30.2701,
+        -97.7312
+      ],
+      "desc": "World-famous brisket, Austin's #1 BBQ",
+      "longDesc": "Aaron Franklin's legendary brisket — the line starts at 7 AM for an 11 AM open, and every single person who's eaten it says it's worth every minute.",
+      "tags": [
+        "Local Delicacies",
+        "Good for Lunch",
+        "Casual Eats",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Franklin%20Barbecue&center=30.2701,-97.7312"
+    },
+    {
+      "name": "la Barbecue",
+      "coord": [
+        30.2591,
+        -97.7254
+      ],
+      "desc": "No-frills trailer BBQ, massive beef ribs",
+      "longDesc": "A trailer-park BBQ joint serving monstrous beef ribs and brisket that rivals Franklin with a fraction of the wait — Austin's best-kept open secret.",
+      "tags": [
+        "Local Delicacies",
+        "Good for Lunch",
+        "Casual Eats",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=la%20Barbecue&center=30.2591,-97.7254"
+    },
+    {
+      "name": "Veracruz All Natural",
+      "coord": [
+        30.268,
+        -97.723
+      ],
+      "desc": "Migas tacos, Austin food truck legend",
+      "longDesc": "An Austin food truck institution — the migas tacos (eggs, tortilla strips, cheese, salsa verde) are the city's most beloved breakfast, served from a modest trailer.",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Local Delicacies",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Veracruz%20All%20Natural&center=30.268,-97.723"
+    },
+    {
+      "name": "Elizabeth Street Cafe",
+      "coord": [
+        30.2497,
+        -97.7519
+      ],
+      "desc": "Vietnamese-French bakery-café, South Congress",
+      "longDesc": "A pastel-tiled Vietnamese-French café on South Congress serving pho, bahn mi, and elaborate French pastries — the most Instagrammable brunch in Austin.",
+      "tags": [
+        "Good for Lunch",
+        "Casual Eats",
+        "Sweet Treats",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Elizabeth%20Street%20Cafe&center=30.2497,-97.7519"
+    },
+    {
+      "name": "Uchi",
+      "coord": [
+        30.252,
+        -97.757
+      ],
+      "desc": "James Beard-winning Japanese, Tyson Cole",
+      "longDesc": "Tyson Cole's James Beard-winning Japanese restaurant in a converted bungalow — the omakase, the hamachi, the cool oak rice — this is why Austin is a food city.",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Splurge",
+        "Local Delicacies"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Uchi&center=30.252,-97.757"
+    },
+    {
+      "name": "The French Laundry",
+      "coord": [
+        38.404,
+        -122.365
+      ],
+      "desc": "Thomas Keller's 3-Michelin-star icon, Yountville",
+      "longDesc": "Thomas Keller's Yountville landmark — three Michelin stars, a legendary 9-course tasting menu, and a place in the pantheon of American dining.",
+      "tags": [
+        "Fine Dining",
+        "Splurge",
+        "Good for Dinner",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20French%20Laundry&center=38.404,-122.365"
+    },
+    {
+      "name": "Chez Panisse",
+      "coord": [
+        37.8795,
+        -122.269
+      ],
+      "desc": "Alice Waters' farm-to-table birthplace, Berkeley",
+      "longDesc": "Where Alice Waters invented California cuisine in 1971 — still serving a single prix-fixe menu of hyper-seasonal, farmer-driven food that changed American dining forever.",
+      "tags": [
+        "Fine Dining",
+        "Good for Dinner",
+        "Cultural & Historical",
+        "Local Delicacies"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chez%20Panisse&center=37.8795,-122.269"
+    },
+    {
+      "name": "Hog Island Oyster Farm",
+      "coord": [
+        38.191,
+        -122.938
+      ],
+      "desc": "Oysters on the half shell, Marshall, Tomales Bay",
+      "longDesc": "Shuck-your-own oysters on picnic tables overlooking Tomales Bay — bring wine, bread, and butter, and spend an afternoon in Northern California perfection.",
+      "tags": [
+        "Casual Eats",
+        "Good for Lunch",
+        "Local Delicacies",
+        "Outdoor & Nature",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hog%20Island%20Oyster%20Farm&center=38.191,-122.938"
+    },
+    {
+      "name": "Tartine Bakery",
+      "coord": [
+        37.7613,
+        -122.424
+      ],
+      "desc": "Legendary San Francisco sourdough and pastries",
+      "longDesc": "Chad Robertson's Mission District bakery — the morning bun and country loaf are worth the inevitable line, and they helped launch America's bread renaissance.",
+      "tags": [
+        "Sweet Treats",
+        "Casual Eats",
+        "Good for Lunch",
+        "Local Delicacies"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Tartine%20Bakery&center=37.7613,-122.424"
+    },
+    {
+      "name": "Swan Oyster Depot",
+      "coord": [
+        37.789,
+        -122.421
+      ],
+      "desc": "1912 counter-only seafood, Nob Hill, SF",
+      "longDesc": "A counter-only seafood bar unchanged since 1912 — 18 stools, Dungeness crab, oysters, and a family of fishmongers serving pure San Francisco.",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Good for Lunch",
+        "Cultural & Historical",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Swan%20Oyster%20Depot&center=37.789,-122.421"
+    },
+    {
+      "name": "Joe's Stone Crab",
+      "coord": [
+        25.768,
+        -80.135
+      ],
+      "desc": "1913 Miami Beach institution, seasonal stone crab",
+      "longDesc": "Miami Beach's most iconic restaurant since 1913 — stone crab claws with mustard sauce, creamed spinach, and key lime pie in a no-reservations madhouse.",
+      "tags": [
+        "Local Delicacies",
+        "Good for Dinner",
+        "Cultural & Historical",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Joe%27s%20Stone%20Crab&center=25.768,-80.135"
+    },
+    {
+      "name": "La Sirena",
+      "coord": [
+        26.705,
+        -80.036
+      ],
+      "desc": "Italian on Worth Avenue, Palm Beach",
+      "longDesc": "An elegant Italian restaurant on Palm Beach's storied Worth Avenue, blending seaside glamour with handmade pasta and Amalfi Coast flavors.",
+      "tags": [
+        "Good for Dinner",
+        "Romantic",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Sirena&center=26.705,-80.036"
+    }
+  ],
+  "experiences": [
+    {
+      "name": "The Metropolitan Museum of Art",
+      "coord": [
+        40.7794,
+        -73.9632
+      ],
+      "desc": "World's greatest encyclopedic art museum",
+      "longDesc": "Two million works spanning 5,000 years — from Egyptian temples to Vermeer to the rooftop garden. The Met is not a museum, it's a civilization.",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Rainy Day",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Metropolitan%20Museum%20of%20Art&center=40.7794,-73.9632"
+    },
+    {
+      "name": "MoMA",
+      "coord": [
+        40.7614,
+        -73.9776
+      ],
+      "desc": "Modern art from Starry Night to Warhol",
+      "longDesc": "Starry Night, Campbell's Soup Cans, Les Demoiselles d'Avignon — MoMA's collection is the story of modern art, housed in a building that's a work of art itself.",
+      "tags": [
+        "Art & Design",
+        "Cultural & Historical",
+        "Rainy Day",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=MoMA&center=40.7614,-73.9776"
+    },
+    {
+      "name": "Whitney Museum of American Art",
+      "coord": [
+        40.7396,
+        -74.0089
+      ],
+      "desc": "American art + Renzo Piano building, Meatpacking",
+      "longDesc": "American art from Hopper to Kara Walker in Renzo Piano's stunning Meatpacking building — the outdoor terraces overlooking the High Line are unmissable.",
+      "tags": [
+        "Art & Design",
+        "Photography Worthy",
+        "Cultural & Historical"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Whitney%20Museum%20of%20American%20Art&center=40.7396,-74.0089"
+    },
+    {
+      "name": "The High Line",
+      "coord": [
+        40.748,
+        -74.0048
+      ],
+      "desc": "Elevated park on former rail line, Chelsea",
+      "longDesc": "An abandoned freight rail line transformed into Manhattan's most beloved park — 1.45 miles of gardens, art installations, and Hudson River views above the streets of Chelsea.",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Family Friendly",
+        "Art & Design"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20High%20Line&center=40.748,-74.0048"
+    },
+    {
+      "name": "Brooklyn Bridge Walk",
+      "coord": [
+        40.7061,
+        -73.9969
+      ],
+      "desc": "Iconic 1883 suspension bridge, Manhattan to Brooklyn",
+      "longDesc": "Walking the Gothic arches of the 1883 Brooklyn Bridge at sunset, with the Manhattan skyline behind you and Brooklyn ahead, is a New York rite of passage.",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Cultural & Historical",
+        "Family Friendly",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Bridge%20Walk&center=40.7061,-73.9969"
+    },
+    {
+      "name": "Central Park",
+      "coord": [
+        40.7829,
+        -73.9654
+      ],
+      "desc": "843-acre urban masterpiece, Bethesda Fountain",
+      "longDesc": "843 acres of Olmsted and Vaux's masterwork — Bethesda Fountain, the Ramble, the Reservoir, Strawberry Fields. The green heart of Manhattan.",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Family Friendly",
+        "Romantic"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%20Park&center=40.7829,-73.9654"
+    },
+    {
+      "name": "Statue of Liberty & Ellis Island",
+      "coord": [
+        40.6892,
+        -74.0445
+      ],
+      "desc": "America's symbol of freedom, immigration museum",
+      "longDesc": "Lady Liberty and the Ellis Island immigration museum — 12 million people entered America through these doors. The ferry ride alone is worth it for the harbor views.",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Statue%20of%20Liberty%20%26%20Ellis%20Island&center=40.6892,-74.0445"
+    },
+    {
+      "name": "Broadway Show",
+      "coord": [
+        40.759,
+        -73.9845
+      ],
+      "desc": "World-class theater, Times Square district",
+      "longDesc": "The beating heart of American theater — from Hamilton to classic revivals, a Broadway show is one of those NYC experiences that lives up to every expectation.",
+      "tags": [
+        "Cultural & Historical",
+        "Rainy Day",
+        "Romantic",
+        "Nightlife"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Broadway%20Show&center=40.759,-73.9845"
+    },
+    {
+      "name": "Chelsea Market",
+      "coord": [
+        40.7424,
+        -74.0061
+      ],
+      "desc": "Food hall in former Nabisco factory, Meatpacking",
+      "longDesc": "A bustling food hall in a former Nabisco factory — lobster rolls, Thai, tacos, artisan ice cream, and a bookshop, all under industrial brick arches.",
+      "tags": [
+        "Shopping",
+        "Local Delicacies",
+        "Family Friendly",
+        "Rainy Day"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chelsea%20Market&center=40.7424,-74.0061"
+    },
+    {
+      "name": "Dia:Beacon",
+      "coord": [
+        41.504,
+        -73.967
+      ],
+      "desc": "Massive contemporary art museum in a factory",
+      "longDesc": "A former Nabisco box-printing factory on the Hudson filled with monumental works by Serra, De Maria, Judd, and Turrell — art at a scale that changes how you see space.",
+      "tags": [
+        "Art & Design",
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Rainy Day"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Dia%3ABeacon&center=41.504,-73.967"
+    },
+    {
+      "name": "Storm King Art Center",
+      "coord": [
+        41.427,
+        -74.055
+      ],
+      "desc": "500-acre outdoor sculpture park, Hudson Valley",
+      "longDesc": "500 acres of rolling hills dotted with monumental sculptures by Calder, Serra, Goldsworthy, and more — America's greatest outdoor art museum.",
+      "tags": [
+        "Art & Design",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Storm%20King%20Art%20Center&center=41.427,-74.055"
+    },
+    {
+      "name": "Walkway Over the Hudson",
+      "coord": [
+        41.714,
+        -73.943
+      ],
+      "desc": "Longest elevated pedestrian bridge in the world",
+      "longDesc": "The world's longest elevated pedestrian bridge — a former railroad span 212 feet above the Hudson River with views stretching to the Catskills and Shawangunks.",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Walkway%20Over%20the%20Hudson&center=41.714,-73.943"
+    },
+    {
+      "name": "Mohonk Preserve",
+      "coord": [
+        41.765,
+        -74.19
+      ],
+      "desc": "8,000-acre nature preserve, Shawangunk Ridge",
+      "longDesc": "8,000 acres of the Shawangunk Ridge with world-class rock climbing, 70+ miles of trails, and the dramatic white cliff faces that make the Gunks legendary.",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mohonk%20Preserve&center=41.765,-74.19"
+    },
+    {
+      "name": "Minnewaska State Park",
+      "coord": [
+        41.731,
+        -74.224
+      ],
+      "desc": "Sky lakes, waterfalls, cliff trails, Shawangunks",
+      "longDesc": "Sky-blue lakes perched atop white cliffs, swimming holes, waterfalls, and miles of carriage roads through wild Shawangunk ridgeline forest.",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Family Friendly",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Minnewaska%20State%20Park&center=41.731,-74.224"
+    },
+    {
+      "name": "Rosendale Trestle",
+      "coord": [
+        41.845,
+        -74.077
+      ],
+      "desc": "Historic railroad trestle walkway, 150 feet up",
+      "longDesc": "A restored 1872 railroad trestle soaring 150 feet above the Rondout Creek — a short, thrilling walk with panoramic views of the Catskills and Shawangunks.",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosendale%20Trestle&center=41.845,-74.077"
+    },
+    {
+      "name": "Golden Gate Bridge",
+      "coord": [
+        37.8199,
+        -122.4783
+      ],
+      "desc": "The world's most photographed bridge",
+      "longDesc": "Walk or bike across the 1.7-mile Art Deco suspension bridge — the fog rolling through the towers is the most iconic image of San Francisco and possibly all of California.",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Cultural & Historical",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden%20Gate%20Bridge&center=37.8199,-122.4783"
+    },
+    {
+      "name": "Alcatraz Island",
+      "coord": [
+        37.8267,
+        -122.423
+      ],
+      "desc": "Former federal prison, ferry from Fisherman's Wharf",
+      "longDesc": "The Rock — tour the cellblocks where Al Capone and the Birdman lived, explore the gardens, and take in the shockingly beautiful views back to San Francisco.",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Alcatraz%20Island&center=37.8267,-122.423"
+    },
+    {
+      "name": "Big Sur — Pacific Coast Highway",
+      "coord": [
+        36.2704,
+        -121.8081
+      ],
+      "desc": "The world's most dramatic coastal drive",
+      "longDesc": "80 miles of hairpin turns between towering redwoods and sheer Pacific cliffs — Bixby Bridge, McWay Falls, and the feeling that you've driven to the edge of the world.",
+      "tags": [
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Romantic",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Big%20Sur%20%E2%80%94%20Pacific%20Coast%20Highway&center=36.2704,-121.8081"
+    },
+    {
+      "name": "Yosemite National Park",
+      "coord": [
+        37.749,
+        -119.5885
+      ],
+      "desc": "Half Dome, El Capitan, waterfalls, giant sequoias",
+      "longDesc": "Half Dome, El Capitan, Yosemite Falls, the Mariposa Grove of giant sequoias — Ansel Adams photographed it and John Muir called it a cathedral. Both were right.",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Yosemite%20National%20Park&center=37.749,-119.5885"
+    },
+    {
+      "name": "Napa Valley Wine Tasting",
+      "coord": [
+        38.5025,
+        -122.2654
+      ],
+      "desc": "World-class wineries, Opus One to boutique caves",
+      "longDesc": "From the grand estates of Opus One and Robert Mondavi to tiny boutique caves, Napa's 400+ wineries offer world-class cabernets in the California sunshine.",
+      "tags": [
+        "Local Delicacies",
+        "Romantic",
+        "Photography Worthy",
+        "Splurge"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Napa%20Valley%20Wine%20Tasting&center=38.5025,-122.2654"
+    },
+    {
+      "name": "SFMOMA",
+      "coord": [
+        37.7857,
+        -122.4011
+      ],
+      "desc": "San Francisco Museum of Modern Art",
+      "longDesc": "A Mario Botta-designed museum with 33,000+ works — the photography collection is legendary, and the living wall on the expansion is a masterpiece of green architecture.",
+      "tags": [
+        "Art & Design",
+        "Cultural & Historical",
+        "Rainy Day",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=SFMOMA&center=37.7857,-122.4011"
+    },
+    {
+      "name": "South Congress Avenue (SoCo)",
+      "coord": [
+        30.25,
+        -97.75
+      ],
+      "desc": "Austin's iconic strip of shops, food, music",
+      "longDesc": "Austin's soul distilled into a mile of vintage shops, boot stores, food trucks, music venues, and the neon 'I love you so much' mural that defines the city.",
+      "tags": [
+        "Shopping",
+        "Photography Worthy",
+        "Local Delicacies",
+        "Nightlife"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=South%20Congress%20Avenue%20%28SoCo%29&center=30.25,-97.75"
+    },
+    {
+      "name": "Barton Springs Pool",
+      "coord": [
+        30.264,
+        -97.771
+      ],
+      "desc": "Natural spring-fed swimming pool, 68°F year-round",
+      "longDesc": "A 3-acre natural limestone pool fed by underground springs at a constant 68°F — Austinites have been swimming here for 10,000 years and it never gets old.",
+      "tags": [
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Photography Worthy",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Barton%20Springs%20Pool&center=30.264,-97.771"
+    },
+    {
+      "name": "Live Music on 6th Street",
+      "coord": [
+        30.2672,
+        -97.7431
+      ],
+      "desc": "Austin's legendary live music strip",
+      "longDesc": "The Live Music Capital of the World earns its name on Dirty Sixth — 50+ bars and venues blasting blues, country, rock, and everything in between every single night.",
+      "tags": [
+        "Nightlife",
+        "Local Delicacies",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Live%20Music%20on%206th%20Street&center=30.2672,-97.7431"
+    },
+    {
+      "name": "Art Deco Historic District, Miami Beach",
+      "coord": [
+        25.7816,
+        -80.131
+      ],
+      "desc": "800+ pastel Art Deco buildings on Ocean Drive",
+      "longDesc": "The largest collection of Art Deco architecture in the world — 800+ pastel-colored buildings from the 1920s-40s along Ocean Drive and Collins Avenue.",
+      "tags": [
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Art & Design"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Art%20Deco%20Historic%20District%2C%20Miami%20Beach&center=25.7816,-80.131"
+    },
+    {
+      "name": "Everglades National Park",
+      "coord": [
+        25.2866,
+        -80.8987
+      ],
+      "desc": "Subtropical wilderness, airboat tours, alligators",
+      "longDesc": "1.5 million acres of subtropical wilderness — airboat through sawgrass marshes, spot alligators and manatees, and explore a landscape unlike anywhere else in America.",
+      "tags": [
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Everglades%20National%20Park&center=25.2866,-80.8987"
+    },
+    {
+      "name": "Na Pali Coast, Kauai",
+      "coord": [
+        22.168,
+        -159.648
+      ],
+      "desc": "Dramatic cliffs, helicopter tours, boat snorkeling",
+      "longDesc": "Kauai's impossibly dramatic 17-mile coastline of emerald cliffs and hidden beaches — accessible only by boat, helicopter, or the grueling Kalalau Trail.",
+      "tags": [
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Na%20Pali%20Coast%2C%20Kauai&center=22.168,-159.648"
+    }
+  ],
+  "kidFriendly": [
+    {
+      "name": "American Museum of Natural History",
+      "coord": [
+        40.7813,
+        -73.974
+      ],
+      "desc": "Dinosaurs, whale, planetarium, NYC icon",
+      "longDesc": "T. rex, the blue whale, the Hayden Planetarium — a NYC institution where kids and adults alike lose themselves in the wonder of the natural world.",
+      "tags": [
+        "Cultural & Historical",
+        "Rainy Day",
+        "Family Friendly",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=American%20Museum%20of%20Natural%20History&center=40.7813,-73.974"
+    },
+    {
+      "name": "Central Park Zoo",
+      "coord": [
+        40.7678,
+        -73.9718
+      ],
+      "desc": "Compact zoo in Central Park, penguins & sea lions",
+      "longDesc": "A compact, walkable zoo right in Central Park — the sea lions, snow leopards, and penguin house are perfect for kids, and you're steps from the playground.",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%20Park%20Zoo&center=40.7678,-73.9718"
+    },
+    {
+      "name": "Central Park Playgrounds",
+      "coord": [
+        40.775,
+        -73.972
+      ],
+      "desc": "Heckscher, Ancient, Adventure — dozens of playgrounds",
+      "longDesc": "Central Park has 21 playgrounds — from the castle-themed Ancient Playground near the Met to the sprawling Heckscher. Pack snacks and let the kids run wild.",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%20Park%20Playgrounds&center=40.775,-73.972"
+    },
+    {
+      "name": "Brooklyn Children's Museum",
+      "coord": [
+        40.6735,
+        -73.9443
+      ],
+      "desc": "First children's museum in the world, interactive",
+      "longDesc": "The world's first children's museum (1899) with hands-on exhibits for kids 0-10 — the water play area, music studio, and world cultures exhibits are exceptional.",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day",
+        "Cultural & Historical"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Children%27s%20Museum&center=40.6735,-73.9443"
+    },
+    {
+      "name": "Intrepid Sea, Air & Space Museum",
+      "coord": [
+        40.7645,
+        -73.9997
+      ],
+      "desc": "Aircraft carrier museum, space shuttle, submarine",
+      "longDesc": "An aircraft carrier, a submarine, a Concorde, and the Space Shuttle Enterprise — all docked on the Hudson River. Kids lose their minds here (adults too).",
+      "tags": [
+        "Family Friendly",
+        "Cultural & Historical",
+        "Rainy Day",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Intrepid%20Sea%2C%20Air%20%26%20Space%20Museum&center=40.7645,-73.9997"
+    },
+    {
+      "name": "DUMBO Carousel (Jane's Carousel)",
+      "coord": [
+        40.7043,
+        -73.9905
+      ],
+      "desc": "1922 carousel in a glass box, Brooklyn Bridge views",
+      "longDesc": "A beautifully restored 1922 carousel spinning inside a Jean Nouvel-designed glass pavilion under the Brooklyn Bridge — magical at sunset.",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=DUMBO%20Carousel%20%28Jane%27s%20Carousel%29&center=40.7043,-73.9905"
+    },
+    {
+      "name": "Top of the Rock",
+      "coord": [
+        40.7593,
+        -73.9794
+      ],
+      "desc": "Observation deck, Rockefeller Center, Empire State views",
+      "longDesc": "70 floors up at Rockefeller Center with unobstructed views of the Empire State Building, Central Park, and all of Manhattan — better views than the Empire State itself.",
+      "tags": [
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Top%20of%20the%20Rock&center=40.7593,-73.9794"
+    },
+    {
+      "name": "Catamount Mountain Resort",
+      "coord": [
+        42.175,
+        -73.435
+      ],
+      "desc": "Family-friendly skiing & adventure park, Berkshires",
+      "longDesc": "A family-friendly mountain with skiing in winter, aerial adventures in summer, and a zip line that soars across the state border — Berkshires adventure for all ages.",
+      "tags": [
+        "Family Friendly",
+        "Adventure & Active",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Catamount%20Mountain%20Resort&center=42.175,-73.435"
+    },
+    {
+      "name": "Legoland New York",
+      "coord": [
+        41.434,
+        -74.27
+      ],
+      "desc": "Lego theme park, Goshen, Hudson Valley",
+      "longDesc": "175 acres of Lego-themed rides, building workshops, and a Miniland USA built from 22 million bricks — a full-day destination for Lego-loving families.",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Legoland%20New%20York&center=41.434,-74.27"
+    },
+    {
+      "name": "Austin Children's Museum (Thinkery)",
+      "coord": [
+        30.267,
+        -97.72
+      ],
+      "desc": "Interactive STEAM museum for kids, Austin",
+      "longDesc": "A hands-on STEAM museum where kids build, experiment, splash, and create — the outdoor play area and maker space are standouts.",
+      "tags": [
+        "Family Friendly",
+        "Rainy Day"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Austin%20Children%27s%20Museum%20%28Thinkery%29&center=30.267,-97.72"
+    },
+    {
+      "name": "San Diego Zoo",
+      "coord": [
+        32.7353,
+        -117.149
+      ],
+      "desc": "World-famous zoo, 3,700 animals, Balboa Park",
+      "longDesc": "One of the world's great zoos with 3,700 animals across 100 acres of Balboa Park — the panda habitat, African safari, and nighttime zoo are all legendary.",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Outdoor & Nature"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Diego%20Zoo&center=32.7353,-117.149"
+    },
+    {
+      "name": "Monterey Bay Aquarium",
+      "coord": [
+        36.6183,
+        -121.9018
+      ],
+      "desc": "World-class aquarium, sea otters, kelp forest",
+      "longDesc": "A world-class aquarium built on Cannery Row with a 28-foot kelp forest, sea otters, jellyfish galleries, and an open-ocean exhibit that stuns adults and kids alike.",
+      "tags": [
+        "Family Friendly",
+        "Photography Worthy",
+        "Rainy Day"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Monterey%20Bay%20Aquarium&center=36.6183,-121.9018"
+    },
+    {
+      "name": "Barton Springs Pool (Kids)",
+      "coord": [
+        30.264,
+        -97.771
+      ],
+      "desc": "Natural 68°F spring-fed pool, shallow end for kids",
+      "longDesc": "The shallow end of this natural limestone pool is perfect for little ones, and the constant 68°F water means it's swimmable even in Austin's blazing summers.",
+      "tags": [
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Barton%20Springs%20Pool%20%28Kids%29&center=30.264,-97.771"
+    }
+  ],
+  "markets": [
+    {
+      "name": "Chelsea Market",
+      "coord": [
+        40.7424,
+        -74.0061
+      ],
+      "desc": "Food hall, bakeries, artisan shops, Meatpacking",
+      "longDesc": "A repurposed Nabisco factory packed with artisan food vendors — lobster, tacos, Italian imports, craft donuts, and a bookshop under soaring brick arches.",
+      "tags": [
+        "Local Delicacies",
+        "Shopping",
+        "Family Friendly",
+        "Rainy Day"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chelsea%20Market&center=40.7424,-74.0061"
+    },
+    {
+      "name": "Smorgasburg Brooklyn",
+      "coord": [
+        40.7215,
+        -73.9616
+      ],
+      "desc": "Open-air food market, 100+ vendors, Williamsburg",
+      "longDesc": "NYC's largest open-air food market with 100+ vendors on the Williamsburg waterfront — ramen burgers, Thai iced tea, and the Manhattan skyline as your backdrop.",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Smorgasburg%20Brooklyn&center=40.7215,-73.9616"
+    },
+    {
+      "name": "Union Square Greenmarket",
+      "coord": [
+        40.7359,
+        -73.9911
+      ],
+      "desc": "Year-round farmers market, 140+ local farms",
+      "longDesc": "NYC's premier farmers market since 1976 — 140+ local farms selling heirloom tomatoes, Hudson Valley cheeses, fresh-baked bread, and seasonal flowers four days a week.",
+      "tags": [
+        "Local Delicacies",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Union%20Square%20Greenmarket&center=40.7359,-73.9911"
+    },
+    {
+      "name": "Essex Market",
+      "coord": [
+        40.7185,
+        -73.9876
+      ],
+      "desc": "Lower East Side food hall since 1940",
+      "longDesc": "A Lower East Side institution since 1940 reborn in a sleek new building — Shopsin's, Dhamaka, Puebla Mexican, and a curated mix of old and new LES.",
+      "tags": [
+        "Local Delicacies",
+        "Shopping",
+        "Rainy Day"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Essex%20Market&center=40.7185,-73.9876"
+    },
+    {
+      "name": "Eataly NYC Flatiron",
+      "coord": [
+        40.7427,
+        -73.9895
+      ],
+      "desc": "Mario Batali's Italian food emporium, Flatiron",
+      "longDesc": "A 50,000 sq ft Italian food emporium with restaurants, counters, a rooftop beer garden, and every Italian ingredient you could dream of — a pilgrimage for food lovers.",
+      "tags": [
+        "Local Delicacies",
+        "Shopping",
+        "Good for Lunch"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Eataly%20NYC%20Flatiron&center=40.7427,-73.9895"
+    },
+    {
+      "name": "Di Palo's Fine Foods",
+      "coord": [
+        40.7191,
+        -73.9975
+      ],
+      "desc": "1925 Italian deli, mozzarella, salumi, Little Italy",
+      "longDesc": "A family-run Italian deli since 1925 — hand-pulled mozzarella, imported salumi, aged cheeses, and a piece of old Little Italy that's still thriving.",
+      "tags": [
+        "Local Delicacies",
+        "Shopping",
+        "Cultural & Historical",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Di%20Palo%27s%20Fine%20Foods&center=40.7191,-73.9975"
+    },
+    {
+      "name": "Russ & Daughters",
+      "coord": [
+        40.7223,
+        -73.9882
+      ],
+      "desc": "1914 appetizing shop, smoked fish, LES icon",
+      "longDesc": "Smoked salmon, whitefish salad, and cream cheese on a bialy — Russ & Daughters has been the gold standard of Jewish appetizing since 1914 on the Lower East Side.",
+      "tags": [
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Good for Lunch",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Russ%20%26%20Daughters&center=40.7223,-73.9882"
+    },
+    {
+      "name": "Kingston Farmers Market",
+      "coord": [
+        41.927,
+        -73.998
+      ],
+      "desc": "Saturday market, local farms, Hudson Valley",
+      "longDesc": "A beloved Saturday morning market in Kingston's Uptown with Hudson Valley farms, artisan bread, local cheese, and the community spirit that defines the region.",
+      "tags": [
+        "Local Delicacies",
+        "Outdoor & Nature",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kingston%20Farmers%20Market&center=41.927,-73.998"
+    },
+    {
+      "name": "Ferry Building Marketplace",
+      "coord": [
+        37.7956,
+        -122.3933
+      ],
+      "desc": "Iconic SF food hall, bay views, artisan vendors",
+      "longDesc": "San Francisco's grand 1898 Ferry Building reborn as a world-class food marketplace — Cowgirl Creamery, Hog Island Oysters, Blue Bottle, and bay views.",
+      "tags": [
+        "Local Delicacies",
+        "Shopping",
+        "Photography Worthy"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ferry%20Building%20Marketplace&center=37.7956,-122.3933"
+    },
+    {
+      "name": "Grand Central Market, LA",
+      "coord": [
+        34.0508,
+        -118.2487
+      ],
+      "desc": "Downtown LA food hall, 100+ years, diverse vendors",
+      "longDesc": "A 100-year-old downtown LA food hall with an eclectic mix of vendors — egg sandwiches, Thai, pupusas, and the best counter service lunch in the city.",
+      "tags": [
+        "Local Delicacies",
+        "Casual Eats",
+        "Cultural & Historical",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Central%20Market%2C%20LA&center=34.0508,-118.2487"
+    },
+    {
+      "name": "Pike Place Market",
+      "coord": [
+        47.6097,
+        -122.3421
+      ],
+      "desc": "Seattle's iconic market, fish throwing, first Starbucks",
+      "longDesc": "Seattle's 1907 public market — watch fish fly, visit the original Starbucks, browse artisan crafts, and discover why it's been the city's beating heart for over a century.",
+      "tags": [
+        "Local Delicacies",
+        "Shopping",
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pike%20Place%20Market&center=47.6097,-122.3421"
+    },
+    {
+      "name": "SFC Farmers Market at Republic Square",
+      "coord": [
+        30.268,
+        -97.747
+      ],
+      "desc": "Austin's flagship farmers market, Saturday mornings",
+      "longDesc": "Austin's largest farmers market with Texas produce, breakfast tacos, live music, and the relaxed Saturday-morning energy that defines the city's food culture.",
+      "tags": [
+        "Local Delicacies",
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Budget Friendly"
+      ],
+      "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=SFC%20Farmers%20Market%20at%20Republic%20Square&center=30.268,-97.747"
+    }
+  ],
+  "cityCenters": {
+    "Manhattan": [
+      40.758,
+      -73.9855,
+      0.08
+    ],
+    "Brooklyn": [
+      40.6892,
+      -73.9857,
+      0.05
+    ],
+    "Lower Manhattan": [
+      40.7128,
+      -74.006,
+      0.03
+    ],
+    "Midtown": [
+      40.7549,
+      -73.984,
+      0.03
+    ],
+    "East Village": [
+      40.7265,
+      -73.9815,
+      0.015
+    ],
+    "West Village": [
+      40.734,
+      -74.002,
+      0.015
+    ],
+    "Williamsburg": [
+      40.7081,
+      -73.9571,
+      0.02
+    ],
+    "Hudson (NY)": [
+      42.25,
+      -73.79,
+      0.03
+    ],
+    "Kingston": [
+      41.9268,
+      -73.9985,
+      0.03
+    ],
+    "Woodstock": [
+      42.043,
+      -74.127,
+      0.05
+    ],
+    "Catskills": [
+      42.08,
+      -74.4,
+      0.15
+    ],
+    "Austin": [
+      30.2672,
+      -97.7431,
+      0.06
+    ],
+    "San Francisco": [
+      37.7749,
+      -122.4194,
+      0.04
+    ],
+    "Big Sur": [
+      36.27,
+      -121.8,
+      0.08
+    ],
+    "Napa Valley": [
+      38.5025,
+      -122.2654,
+      0.08
+    ],
+    "Los Angeles": [
+      34.0522,
+      -118.2437,
+      0.08
+    ],
+    "Miami Beach": [
+      25.7907,
+      -80.13,
+      0.04
+    ],
+    "Palm Beach": [
+      26.7056,
+      -80.0353,
+      0.02
+    ],
+    "Kauai": [
+      22.0964,
+      -159.5261,
+      0.15
+    ],
+    "Seattle": [
+      47.6062,
+      -122.3321,
+      0.04
+    ]
+  },
+  "itineraryData": {
+    "a": {
+      "name": "Greatest Hits (7 Days)",
+      "description": "San Francisco, Napa Valley wine country, and Big Sur's dramatic coastline — California's iconic trio for first-timers.",
+      "days": [
+        {
+          "label": "Day 1 — San Francisco Icons — City & Bay",
+          "items": [
+            {
+              "name": "Cavallo Point Lodge",
+              "type": "hotel",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "Hotel breakfast with Golden Gate views",
+              "type": "breakfast",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "Golden Gate Bridge",
+              "type": "sightseeing",
+              "coord": [
+                37.8199,
+                -122.4783
+              ]
+            },
+            {
+              "name": "Swan Oyster Depot",
+              "type": "lunch",
+              "coord": [
+                37.789,
+                -122.421
+              ]
+            },
+            {
+              "name": "Alcatraz Island",
+              "type": "sightseeing",
+              "coord": [
+                37.8267,
+                -122.423
+              ]
+            },
+            {
+              "name": "Ferry Building Marketplace",
+              "type": "shopping",
+              "coord": [
+                37.7956,
+                -122.3933
+              ]
+            },
+            {
+              "name": "Sunset walk at Cavallo Point",
+              "type": "optional",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Epicurean Excellence — Bay Area",
+          "items": [
+            {
+              "name": "Cavallo Point Lodge",
+              "type": "hotel",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "Tartine Bakery",
+              "type": "breakfast",
+              "coord": [
+                37.7613,
+                -122.424
+              ]
+            },
+            {
+              "name": "Ferry Building Marketplace",
+              "type": "sightseeing",
+              "coord": [
+                37.7956,
+                -122.3933
+              ]
+            },
+            {
+              "name": "Swan Oyster Depot",
+              "type": "lunch",
+              "coord": [
+                37.789,
+                -122.421
+              ]
+            },
+            {
+              "name": "Stroll through San Francisco neighborhoods",
+              "type": "sightseeing",
+              "coord": [
+                37.7749,
+                -122.4194
+              ]
+            },
+            {
+              "name": "Chez Panisse",
+              "type": "dinner",
+              "coord": [
+                37.8795,
+                -122.269
+              ]
+            },
+            {
+              "name": "Evening drinks in Berkeley",
+              "type": "optional",
+              "coord": [
+                37.8795,
+                -122.269
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Napa Valley Wine Country",
+          "items": [
+            {
+              "name": "Alila Napa Valley",
+              "type": "hotel",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Morning drive to Napa Valley (1hr)",
+              "type": "info",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "The French Laundry",
+              "type": "dinner",
+              "coord": [
+                38.404,
+                -122.365
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Classic Napa — St. Helena to Yountville",
+          "items": [
+            {
+              "name": "Alila Napa Valley",
+              "type": "hotel",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Napa Valley Wine Tasting",
+              "type": "sightseeing",
+              "coord": [
+                38.5025,
+                -122.2654
+              ]
+            },
+            {
+              "name": "Downtown Napa lunch",
+              "type": "lunch",
+              "coord": [
+                38.2975,
+                -122.2869
+              ]
+            },
+            {
+              "name": "Continued wine tasting",
+              "type": "sightseeing",
+              "coord": [
+                38.5025,
+                -122.2654
+              ]
+            },
+            {
+              "name": "The French Laundry",
+              "type": "dinner",
+              "coord": [
+                38.404,
+                -122.365
+              ]
+            },
+            {
+              "name": "Evening stroll in Yountville",
+              "type": "optional",
+              "coord": [
+                38.404,
+                -122.365
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Couples Escape — St. Helena & Yountville",
+          "items": [
+            {
+              "name": "Alila Napa Valley",
+              "type": "hotel",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Late breakfast in bed",
+              "type": "breakfast",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Private couples wine tasting",
+              "type": "sightseeing",
+              "coord": [
+                38.5025,
+                -122.2654
+              ]
+            },
+            {
+              "name": "Intimate vineyard picnic",
+              "type": "lunch",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Hot air balloon ride",
+              "type": "sightseeing",
+              "coord": [
+                38.5025,
+                -122.2654
+              ]
+            },
+            {
+              "name": "The French Laundry",
+              "type": "dinner",
+              "coord": [
+                38.404,
+                -122.365
+              ]
+            },
+            {
+              "name": "Moonlight walk through vineyards",
+              "type": "optional",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Travel to Big Sur & Monterey",
+          "items": [
+            {
+              "name": "Alila Ventana Big Sur",
+              "type": "hotel",
+              "coord": [
+                36.238,
+                -121.759
+              ]
+            },
+            {
+              "name": "Scenic coastal drive to Big Sur (3.5hr)",
+              "type": "info",
+              "coord": [
+                36.238,
+                -121.759
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                36.238,
+                -121.759
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Big Sur Highlights — Pacific Coast",
+          "items": [
+            {
+              "name": "Alila Ventana Big Sur",
+              "type": "hotel",
+              "coord": [
+                36.238,
+                -121.759
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                36.238,
+                -121.759
+              ]
+            },
+            {
+              "name": "Big Sur — Pacific Coast Highway",
+              "type": "sightseeing",
+              "coord": [
+                36.2704,
+                -121.8081
+              ]
+            },
+            {
+              "name": "Coastal picnic lunch",
+              "type": "lunch",
+              "coord": [
+                36.2704,
+                -121.8081
+              ]
+            },
+            {
+              "name": "Highway 1 scenic stops",
+              "type": "sightseeing",
+              "coord": [
+                36.27,
+                -121.8
+              ]
+            },
+            {
+              "name": "Sunset dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                36.238,
+                -121.759
+              ]
+            },
+            {
+              "name": "Stargazing from cliff edge",
+              "type": "optional",
+              "coord": [
+                36.238,
+                -121.759
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "name": "Family Comfort (10 Days)",
+      "description": "Family-friendly New York City, Hudson Valley nature, and Miami beaches with comfortable multi-night stays.",
+      "days": [
+        {
+          "label": "Day 1 — NYC Must-Sees — Midtown to Brooklyn",
+          "items": [
+            {
+              "name": "The Ned NoMad",
+              "type": "hotel",
+              "coord": [
+                40.7453,
+                -73.988
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.7453,
+                -73.988
+              ]
+            },
+            {
+              "name": "Central Park",
+              "type": "sightseeing",
+              "coord": [
+                40.7829,
+                -73.9654
+              ]
+            },
+            {
+              "name": "The Metropolitan Museum of Art",
+              "type": "sightseeing",
+              "coord": [
+                40.7794,
+                -73.9632
+              ]
+            },
+            {
+              "name": "Rezdôra",
+              "type": "lunch",
+              "coord": [
+                40.741,
+                -73.989
+              ]
+            },
+            {
+              "name": "Brooklyn Bridge Walk",
+              "type": "sightseeing",
+              "coord": [
+                40.7061,
+                -73.9969
+              ]
+            },
+            {
+              "name": "Frenchette",
+              "type": "dinner",
+              "coord": [
+                40.72,
+                -74.005
+              ]
+            },
+            {
+              "name": "Broadway Show",
+              "type": "optional",
+              "coord": [
+                40.759,
+                -73.9845
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Perfect Family Day — Upper West Side & Brooklyn",
+          "items": [
+            {
+              "name": "1 Hotel Brooklyn Bridge",
+              "type": "hotel",
+              "coord": [
+                40.699,
+                -73.9963
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.699,
+                -73.9963
+              ]
+            },
+            {
+              "name": "American Museum of Natural History",
+              "type": "sightseeing",
+              "coord": [
+                40.7813,
+                -73.974
+              ]
+            },
+            {
+              "name": "Chelsea Market",
+              "type": "lunch",
+              "coord": [
+                40.7424,
+                -74.0061
+              ]
+            },
+            {
+              "name": "Afternoon rest time",
+              "type": "nap",
+              "coord": [
+                40.699,
+                -73.9963
+              ]
+            },
+            {
+              "name": "Central Park Playgrounds",
+              "type": "sightseeing",
+              "coord": [
+                40.775,
+                -73.972
+              ]
+            },
+            {
+              "name": "DUMBO Carousel (Jane's Carousel)",
+              "type": "sightseeing",
+              "coord": [
+                40.7043,
+                -73.9905
+              ]
+            },
+            {
+              "name": "Lucali",
+              "type": "dinner",
+              "coord": [
+                40.679,
+                -73.997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Brooklyn Insider — Williamsburg to DUMBO",
+          "items": [
+            {
+              "name": "1 Hotel Brooklyn Bridge",
+              "type": "hotel",
+              "coord": [
+                40.699,
+                -73.9963
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.699,
+                -73.9963
+              ]
+            },
+            {
+              "name": "Brooklyn Bridge Walk",
+              "type": "sightseeing",
+              "coord": [
+                40.7061,
+                -73.9969
+              ]
+            },
+            {
+              "name": "Smorgasburg Brooklyn",
+              "type": "lunch",
+              "coord": [
+                40.7215,
+                -73.9616
+              ]
+            },
+            {
+              "name": "DUMBO Carousel (Jane's Carousel)",
+              "type": "sightseeing",
+              "coord": [
+                40.7043,
+                -73.9905
+              ]
+            },
+            {
+              "name": "Free afternoon in Williamsburg",
+              "type": "sightseeing",
+              "coord": [
+                40.7215,
+                -73.9616
+              ]
+            },
+            {
+              "name": "Peter Luger Steak House",
+              "type": "dinner",
+              "coord": [
+                40.7099,
+                -73.9622
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Travel to Hudson Valley & Catskills",
+          "items": [
+            {
+              "name": "Wildflower Farms, Auberge Resorts",
+              "type": "hotel",
+              "coord": [
+                41.746,
+                -74.12
+              ]
+            },
+            {
+              "name": "Morning train or drive to Hudson Valley (2hr)",
+              "type": "info",
+              "coord": [
+                41.746,
+                -74.12
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.699,
+                -73.9963
+              ]
+            },
+            {
+              "name": "Gaskins",
+              "type": "dinner",
+              "coord": [
+                42.235,
+                -73.73
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Family Day — Hudson Valley",
+          "items": [
+            {
+              "name": "Hutton Brickyards",
+              "type": "hotel",
+              "coord": [
+                41.915,
+                -73.983
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.915,
+                -73.983
+              ]
+            },
+            {
+              "name": "Walkway Over the Hudson",
+              "type": "sightseeing",
+              "coord": [
+                41.714,
+                -73.943
+              ]
+            },
+            {
+              "name": "Phoenicia Diner",
+              "type": "lunch",
+              "coord": [
+                42.083,
+                -74.315
+              ]
+            },
+            {
+              "name": "Afternoon rest time",
+              "type": "nap",
+              "coord": [
+                41.915,
+                -73.983
+              ]
+            },
+            {
+              "name": "Rosendale Trestle",
+              "type": "sightseeing",
+              "coord": [
+                41.845,
+                -74.077
+              ]
+            },
+            {
+              "name": "Casual dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                41.915,
+                -73.983
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Free Day for Swimming & Hiking",
+          "items": [
+            {
+              "name": "Hutton Brickyards",
+              "type": "hotel",
+              "coord": [
+                41.915,
+                -73.983
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.915,
+                -73.983
+              ]
+            },
+            {
+              "name": "Free morning to explore Hudson Valley & Catskills",
+              "type": "sightseeing",
+              "coord": [
+                41.915,
+                -73.983
+              ]
+            },
+            {
+              "name": "Gaskins",
+              "type": "lunch",
+              "coord": [
+                42.235,
+                -73.73
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                41.915,
+                -73.983
+              ]
+            },
+            {
+              "name": "Phoenicia Diner",
+              "type": "dinner",
+              "coord": [
+                42.083,
+                -74.315
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Travel to Miami & Palm Beach",
+          "items": [
+            {
+              "name": "The Breakers Palm Beach",
+              "type": "hotel",
+              "coord": [
+                26.71,
+                -80.037
+              ]
+            },
+            {
+              "name": "Flight to Miami (3hr)",
+              "type": "info",
+              "coord": [
+                26.71,
+                -80.037
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                41.915,
+                -73.983
+              ]
+            },
+            {
+              "name": "Joe's Stone Crab",
+              "type": "dinner",
+              "coord": [
+                25.768,
+                -80.135
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Family Fun — Miami Beach",
+          "items": [
+            {
+              "name": "Faena Miami Beach",
+              "type": "hotel",
+              "coord": [
+                25.81,
+                -80.122
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                25.81,
+                -80.122
+              ]
+            },
+            {
+              "name": "Morning beach time and swimming",
+              "type": "sightseeing",
+              "coord": [
+                25.81,
+                -80.122
+              ]
+            },
+            {
+              "name": "Casual beachfront lunch",
+              "type": "lunch",
+              "coord": [
+                25.7816,
+                -80.131
+              ]
+            },
+            {
+              "name": "Afternoon rest time",
+              "type": "nap",
+              "coord": [
+                25.81,
+                -80.122
+              ]
+            },
+            {
+              "name": "Art Deco Historic District, Miami Beach",
+              "type": "sightseeing",
+              "coord": [
+                25.7816,
+                -80.131
+              ]
+            },
+            {
+              "name": "Early family dinner",
+              "type": "dinner",
+              "coord": [
+                25.7816,
+                -80.131
+              ]
+            },
+            {
+              "name": "Evening ice cream walk",
+              "type": "optional",
+              "coord": [
+                25.81,
+                -80.122
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Family Resort Day — Palm Beach",
+          "items": [
+            {
+              "name": "The Breakers Palm Beach",
+              "type": "hotel",
+              "coord": [
+                26.71,
+                -80.037
+              ]
+            },
+            {
+              "name": "Hotel breakfast buffet",
+              "type": "breakfast",
+              "coord": [
+                26.71,
+                -80.037
+              ]
+            },
+            {
+              "name": "Beach and pool activities",
+              "type": "sightseeing",
+              "coord": [
+                26.71,
+                -80.037
+              ]
+            },
+            {
+              "name": "Kids' program and resort exploration",
+              "type": "sightseeing",
+              "coord": [
+                26.71,
+                -80.037
+              ]
+            },
+            {
+              "name": "Casual poolside lunch",
+              "type": "lunch",
+              "coord": [
+                26.71,
+                -80.037
+              ]
+            },
+            {
+              "name": "Afternoon rest time",
+              "type": "nap",
+              "coord": [
+                26.71,
+                -80.037
+              ]
+            },
+            {
+              "name": "Family walk on Worth Avenue",
+              "type": "shopping",
+              "coord": [
+                26.705,
+                -80.036
+              ]
+            },
+            {
+              "name": "Early family dinner at resort",
+              "type": "dinner",
+              "coord": [
+                26.71,
+                -80.037
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Resort Pool & Beach Day",
+          "items": [
+            {
+              "name": "The Breakers Palm Beach",
+              "type": "hotel",
+              "coord": [
+                26.71,
+                -80.037
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                26.71,
+                -80.037
+              ]
+            },
+            {
+              "name": "Free morning to explore Miami & Palm Beach",
+              "type": "sightseeing",
+              "coord": [
+                26.71,
+                -80.037
+              ]
+            },
+            {
+              "name": "Joe's Stone Crab",
+              "type": "lunch",
+              "coord": [
+                25.768,
+                -80.135
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                26.71,
+                -80.037
+              ]
+            },
+            {
+              "name": "La Sirena",
+              "type": "dinner",
+              "coord": [
+                26.705,
+                -80.036
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Grand Tour (14 Days)",
+      "description": "Coast-to-coast American journey from New York through California wine country to Big Sur, LA, Austin, and Miami.",
+      "days": [
+        {
+          "label": "Day 1 — Art Lover's Manhattan — Chelsea to West Village",
+          "items": [
+            {
+              "name": "The Greenwich Hotel",
+              "type": "hotel",
+              "coord": [
+                40.7197,
+                -74.01
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.7197,
+                -74.01
+              ]
+            },
+            {
+              "name": "MoMA",
+              "type": "sightseeing",
+              "coord": [
+                40.7614,
+                -73.9776
+              ]
+            },
+            {
+              "name": "Eataly NYC Flatiron",
+              "type": "lunch",
+              "coord": [
+                40.7427,
+                -73.9895
+              ]
+            },
+            {
+              "name": "The High Line",
+              "type": "sightseeing",
+              "coord": [
+                40.748,
+                -74.0048
+              ]
+            },
+            {
+              "name": "Whitney Museum of American Art",
+              "type": "sightseeing",
+              "coord": [
+                40.7396,
+                -74.0089
+              ]
+            },
+            {
+              "name": "odo",
+              "type": "dinner",
+              "coord": [
+                40.7408,
+                -73.992
+              ]
+            },
+            {
+              "name": "Katana Kitten",
+              "type": "optional",
+              "coord": [
+                40.735,
+                -74.001
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Food Lover's Tour — Lower Manhattan & Brooklyn",
+          "items": [
+            {
+              "name": "The Bowery Hotel",
+              "type": "hotel",
+              "coord": [
+                40.7254,
+                -73.9923
+              ]
+            },
+            {
+              "name": "Russ & Daughters",
+              "type": "breakfast",
+              "coord": [
+                40.7223,
+                -73.9882
+              ]
+            },
+            {
+              "name": "Essex Market",
+              "type": "shopping",
+              "coord": [
+                40.7185,
+                -73.9876
+              ]
+            },
+            {
+              "name": "Di Palo's Fine Foods",
+              "type": "shopping",
+              "coord": [
+                40.7191,
+                -73.9975
+              ]
+            },
+            {
+              "name": "Di An Di",
+              "type": "lunch",
+              "coord": [
+                40.714,
+                -73.956
+              ]
+            },
+            {
+              "name": "Smorgasburg Brooklyn",
+              "type": "sightseeing",
+              "coord": [
+                40.7215,
+                -73.9616
+              ]
+            },
+            {
+              "name": "Una Pizza Napoletana",
+              "type": "dinner",
+              "coord": [
+                40.7265,
+                -73.9856
+              ]
+            },
+            {
+              "name": "Sake Bar Decibel",
+              "type": "optional",
+              "coord": [
+                40.73,
+                -73.99
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Hudson Valley & Catskills",
+          "items": [
+            {
+              "name": "Wildflower Farms, Auberge Resorts",
+              "type": "hotel",
+              "coord": [
+                41.746,
+                -74.12
+              ]
+            },
+            {
+              "name": "Morning drive to Hudson Valley (2hr)",
+              "type": "info",
+              "coord": [
+                41.746,
+                -74.12
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.7254,
+                -73.9923
+              ]
+            },
+            {
+              "name": "Gaskins",
+              "type": "dinner",
+              "coord": [
+                42.235,
+                -73.73
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Hudson Valley Must-Sees — Kingston to Storm King",
+          "items": [
+            {
+              "name": "Hotel Kinsley",
+              "type": "hotel",
+              "coord": [
+                41.9268,
+                -73.9985
+              ]
+            },
+            {
+              "name": "Bread Alone Bakery",
+              "type": "breakfast",
+              "coord": [
+                42.043,
+                -74.315
+              ]
+            },
+            {
+              "name": "Storm King Art Center",
+              "type": "sightseeing",
+              "coord": [
+                41.427,
+                -74.055
+              ]
+            },
+            {
+              "name": "Phoenicia Diner",
+              "type": "lunch",
+              "coord": [
+                42.083,
+                -74.315
+              ]
+            },
+            {
+              "name": "Walkway Over the Hudson",
+              "type": "sightseeing",
+              "coord": [
+                41.714,
+                -73.943
+              ]
+            },
+            {
+              "name": "Gaskins",
+              "type": "dinner",
+              "coord": [
+                42.235,
+                -73.73
+              ]
+            },
+            {
+              "name": "Kingston waterfront stroll",
+              "type": "optional",
+              "coord": [
+                41.9268,
+                -73.9985
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Art Lover's Day — Beacon to Catskills",
+          "items": [
+            {
+              "name": "Piaule Catskill",
+              "type": "hotel",
+              "coord": [
+                42.205,
+                -73.919
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                42.205,
+                -73.919
+              ]
+            },
+            {
+              "name": "Dia:Beacon",
+              "type": "sightseeing",
+              "coord": [
+                41.504,
+                -73.967
+              ]
+            },
+            {
+              "name": "feast & floret",
+              "type": "lunch",
+              "coord": [
+                42.248,
+                -73.79
+              ]
+            },
+            {
+              "name": "Storm King Art Center",
+              "type": "sightseeing",
+              "coord": [
+                41.427,
+                -74.055
+              ]
+            },
+            {
+              "name": "Gaskins",
+              "type": "dinner",
+              "coord": [
+                42.235,
+                -73.73
+              ]
+            },
+            {
+              "name": "Evening sauna at hotel",
+              "type": "optional",
+              "coord": [
+                42.205,
+                -73.919
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Travel to San Francisco Bay Area",
+          "items": [
+            {
+              "name": "Cavallo Point Lodge",
+              "type": "hotel",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "Flight to San Francisco (6.5hr)",
+              "type": "info",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                42.205,
+                -73.919
+              ]
+            },
+            {
+              "name": "Chez Panisse",
+              "type": "dinner",
+              "coord": [
+                37.8795,
+                -122.269
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Cultural Immersion — San Francisco & Berkeley",
+          "items": [
+            {
+              "name": "Cavallo Point Lodge",
+              "type": "hotel",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "Morning coffee at hotel",
+              "type": "breakfast",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "SFMOMA",
+              "type": "sightseeing",
+              "coord": [
+                37.7857,
+                -122.4011
+              ]
+            },
+            {
+              "name": "Tartine Bakery",
+              "type": "lunch",
+              "coord": [
+                37.7613,
+                -122.424
+              ]
+            },
+            {
+              "name": "Ferry Building Marketplace",
+              "type": "sightseeing",
+              "coord": [
+                37.7956,
+                -122.3933
+              ]
+            },
+            {
+              "name": "Chez Panisse",
+              "type": "dinner",
+              "coord": [
+                37.8795,
+                -122.269
+              ]
+            },
+            {
+              "name": "Berkeley evening stroll",
+              "type": "optional",
+              "coord": [
+                37.8795,
+                -122.269
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Foodie Paradise — Tomales to Yountville",
+          "items": [
+            {
+              "name": "Alila Napa Valley",
+              "type": "hotel",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Early breakfast at hotel",
+              "type": "breakfast",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Drive to Tomales Bay",
+              "type": "info",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Hog Island Oyster Farm",
+              "type": "lunch",
+              "coord": [
+                38.191,
+                -122.938
+              ]
+            },
+            {
+              "name": "Return to Napa for wine tasting",
+              "type": "sightseeing",
+              "coord": [
+                38.5025,
+                -122.2654
+              ]
+            },
+            {
+              "name": "The French Laundry",
+              "type": "dinner",
+              "coord": [
+                38.404,
+                -122.365
+              ]
+            },
+            {
+              "name": "Digestif in Yountville",
+              "type": "optional",
+              "coord": [
+                38.404,
+                -122.365
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Travel to Big Sur & Monterey",
+          "items": [
+            {
+              "name": "Alila Ventana Big Sur",
+              "type": "hotel",
+              "coord": [
+                36.238,
+                -121.759
+              ]
+            },
+            {
+              "name": "Coastal drive to Big Sur (3.5hr)",
+              "type": "info",
+              "coord": [
+                36.238,
+                -121.759
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                36.238,
+                -121.759
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Bay & Village — Monterey to Carmel",
+          "items": [
+            {
+              "name": "Carmel Valley Ranch",
+              "type": "hotel",
+              "coord": [
+                36.47,
+                -121.74
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                36.47,
+                -121.74
+              ]
+            },
+            {
+              "name": "Monterey Bay Aquarium",
+              "type": "sightseeing",
+              "coord": [
+                36.6183,
+                -121.9018
+              ]
+            },
+            {
+              "name": "Fisherman's Wharf lunch",
+              "type": "lunch",
+              "coord": [
+                36.6183,
+                -121.9018
+              ]
+            },
+            {
+              "name": "Carmel-by-the-Sea village walk",
+              "type": "sightseeing",
+              "coord": [
+                36.555,
+                -121.923
+              ]
+            },
+            {
+              "name": "Carmel beach sunset dinner",
+              "type": "dinner",
+              "coord": [
+                36.555,
+                -121.923
+              ]
+            },
+            {
+              "name": "Gallery browsing",
+              "type": "optional",
+              "coord": [
+                36.555,
+                -121.923
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 11 — Travel to Los Angeles",
+          "items": [
+            {
+              "name": "The Ritz-Carlton Bacara, Santa Barbara",
+              "type": "hotel",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Drive south to Los Angeles (5hr or 1hr flight)",
+              "type": "info",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                36.47,
+                -121.74
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 12 — Greatest Hits — Hollywood",
+          "items": [
+            {
+              "name": "Hollywood hotel",
+              "type": "hotel",
+              "coord": [
+                34.0522,
+                -118.2437
+              ]
+            },
+            {
+              "name": "Classic diner breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.0522,
+                -118.2437
+              ]
+            },
+            {
+              "name": "Hollywood Walk of Fame & TCL Theatre",
+              "type": "sightseeing",
+              "coord": [
+                34.0522,
+                -118.2437
+              ]
+            },
+            {
+              "name": "Lunch on Sunset Boulevard",
+              "type": "lunch",
+              "coord": [
+                34.0522,
+                -118.2437
+              ]
+            },
+            {
+              "name": "Griffith Observatory & Hollywood Sign views",
+              "type": "sightseeing",
+              "coord": [
+                34.0522,
+                -118.2437
+              ]
+            },
+            {
+              "name": "Trendy Hollywood restaurant",
+              "type": "dinner",
+              "coord": [
+                34.0522,
+                -118.2437
+              ]
+            },
+            {
+              "name": "Live music or comedy show",
+              "type": "optional",
+              "coord": [
+                34.0522,
+                -118.2437
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 13 — Travel to Austin",
+          "items": [
+            {
+              "name": "W Austin",
+              "type": "hotel",
+              "coord": [
+                30.264,
+                -97.747
+              ]
+            },
+            {
+              "name": "Flight to Austin (3hr)",
+              "type": "info",
+              "coord": [
+                30.264,
+                -97.747
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.0522,
+                -118.2437
+              ]
+            },
+            {
+              "name": "Franklin Barbecue",
+              "type": "dinner",
+              "coord": [
+                30.2701,
+                -97.7312
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 14 — Austin's Greatest Hits — Downtown to South Congress",
+          "items": [
+            {
+              "name": "W Austin",
+              "type": "hotel",
+              "coord": [
+                30.264,
+                -97.747
+              ]
+            },
+            {
+              "name": "Veracruz All Natural",
+              "type": "breakfast",
+              "coord": [
+                30.268,
+                -97.723
+              ]
+            },
+            {
+              "name": "Barton Springs Pool",
+              "type": "sightseeing",
+              "coord": [
+                30.264,
+                -97.771
+              ]
+            },
+            {
+              "name": "Franklin Barbecue",
+              "type": "lunch",
+              "coord": [
+                30.2701,
+                -97.7312
+              ]
+            },
+            {
+              "name": "South Congress Avenue (SoCo)",
+              "type": "shopping",
+              "coord": [
+                30.25,
+                -97.75
+              ]
+            },
+            {
+              "name": "Uchi",
+              "type": "dinner",
+              "coord": [
+                30.252,
+                -97.757
+              ]
+            },
+            {
+              "name": "Live Music on 6th Street",
+              "type": "optional",
+              "coord": [
+                30.2672,
+                -97.7431
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 15 — Travel to Miami & Palm Beach",
+          "items": [
+            {
+              "name": "The Breakers Palm Beach",
+              "type": "hotel",
+              "coord": [
+                26.71,
+                -80.037
+              ]
+            },
+            {
+              "name": "Flight to Miami (2.5hr)",
+              "type": "info",
+              "coord": [
+                26.71,
+                -80.037
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                30.264,
+                -97.747
+              ]
+            },
+            {
+              "name": "Joe's Stone Crab",
+              "type": "dinner",
+              "coord": [
+                25.768,
+                -80.135
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 16 — Art Deco & Seafood — Miami Beach",
+          "items": [
+            {
+              "name": "Faena Miami Beach",
+              "type": "hotel",
+              "coord": [
+                25.81,
+                -80.122
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                25.81,
+                -80.122
+              ]
+            },
+            {
+              "name": "Art Deco Historic District, Miami Beach",
+              "type": "sightseeing",
+              "coord": [
+                25.7816,
+                -80.131
+              ]
+            },
+            {
+              "name": "Beach time at South Beach",
+              "type": "sightseeing",
+              "coord": [
+                25.7816,
+                -80.131
+              ]
+            },
+            {
+              "name": "Casual lunch on Ocean Drive",
+              "type": "lunch",
+              "coord": [
+                25.7816,
+                -80.131
+              ]
+            },
+            {
+              "name": "Free afternoon exploring Collins Avenue",
+              "type": "optional",
+              "coord": [
+                25.81,
+                -80.122
+              ]
+            },
+            {
+              "name": "Joe's Stone Crab",
+              "type": "dinner",
+              "coord": [
+                25.768,
+                -80.135
+              ]
+            },
+            {
+              "name": "Evening stroll on the beach",
+              "type": "optional",
+              "coord": [
+                25.81,
+                -80.122
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "d": {
+      "name": "BBQ & Food Pilgrimage (8 Days)",
+      "description": "The ultimate American foodie journey from Austin barbecue temples through LA's downtown scene to Napa's culinary peaks.",
+      "days": [
+        {
+          "label": "Day 1 — Austin BBQ Pilgrimage — East Side Smoke",
+          "items": [
+            {
+              "name": "W Austin",
+              "type": "hotel",
+              "coord": [
+                30.264,
+                -97.747
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                30.264,
+                -97.747
+              ]
+            },
+            {
+              "name": "Early arrival at Franklin Barbecue (worth the wait)",
+              "type": "info",
+              "coord": [
+                30.2701,
+                -97.7312
+              ]
+            },
+            {
+              "name": "Franklin Barbecue",
+              "type": "lunch",
+              "coord": [
+                30.2701,
+                -97.7312
+              ]
+            },
+            {
+              "name": "Barton Springs Pool",
+              "type": "sightseeing",
+              "coord": [
+                30.264,
+                -97.771
+              ]
+            },
+            {
+              "name": "la Barbecue",
+              "type": "dinner",
+              "coord": [
+                30.2591,
+                -97.7254
+              ]
+            },
+            {
+              "name": "Live Music on 6th Street",
+              "type": "optional",
+              "coord": [
+                30.2672,
+                -97.7431
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Ultimate Austin Food Crawl — East Side to South Congress",
+          "items": [
+            {
+              "name": "Hotel Saint Cecilia",
+              "type": "hotel",
+              "coord": [
+                30.253,
+                -97.751
+              ]
+            },
+            {
+              "name": "Veracruz All Natural",
+              "type": "breakfast",
+              "coord": [
+                30.268,
+                -97.723
+              ]
+            },
+            {
+              "name": "SFC Farmers Market at Republic Square",
+              "type": "sightseeing",
+              "coord": [
+                30.268,
+                -97.747
+              ]
+            },
+            {
+              "name": "la Barbecue",
+              "type": "lunch",
+              "coord": [
+                30.2591,
+                -97.7254
+              ]
+            },
+            {
+              "name": "South Congress Avenue (SoCo)",
+              "type": "shopping",
+              "coord": [
+                30.25,
+                -97.75
+              ]
+            },
+            {
+              "name": "Elizabeth Street Cafe",
+              "type": "sightseeing",
+              "coord": [
+                30.2497,
+                -97.7519
+              ]
+            },
+            {
+              "name": "Uchi",
+              "type": "dinner",
+              "coord": [
+                30.252,
+                -97.757
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Taco Trail & Food Truck Exploration",
+          "items": [
+            {
+              "name": "Hotel Saint Cecilia",
+              "type": "hotel",
+              "coord": [
+                30.253,
+                -97.751
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                30.253,
+                -97.751
+              ]
+            },
+            {
+              "name": "Free morning to explore Austin",
+              "type": "sightseeing",
+              "coord": [
+                30.253,
+                -97.751
+              ]
+            },
+            {
+              "name": "Franklin Barbecue",
+              "type": "lunch",
+              "coord": [
+                30.2701,
+                -97.7312
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                30.253,
+                -97.751
+              ]
+            },
+            {
+              "name": "la Barbecue",
+              "type": "dinner",
+              "coord": [
+                30.2591,
+                -97.7254
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Travel to Los Angeles",
+          "items": [
+            {
+              "name": "The Ritz-Carlton Bacara, Santa Barbara",
+              "type": "hotel",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Flight to Los Angeles (3hr)",
+              "type": "info",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                30.253,
+                -97.751
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Foodie Day — Downtown Los Angeles",
+          "items": [
+            {
+              "name": "Downtown LA Hotel",
+              "type": "hotel",
+              "coord": [
+                34.0508,
+                -118.2487
+              ]
+            },
+            {
+              "name": "Grand Central Market, LA",
+              "type": "breakfast",
+              "coord": [
+                34.0508,
+                -118.2487
+              ]
+            },
+            {
+              "name": "Historic Core Walking Tour",
+              "type": "sightseeing",
+              "coord": [
+                34.0508,
+                -118.2487
+              ]
+            },
+            {
+              "name": "Grand Central Market, LA",
+              "type": "lunch",
+              "coord": [
+                34.0508,
+                -118.2487
+              ]
+            },
+            {
+              "name": "Arts District Gallery Stroll",
+              "type": "sightseeing",
+              "coord": [
+                34.0508,
+                -118.2487
+              ]
+            },
+            {
+              "name": "Grand Central Market, LA",
+              "type": "dinner",
+              "coord": [
+                34.0508,
+                -118.2487
+              ]
+            },
+            {
+              "name": "Rooftop bar in Downtown",
+              "type": "optional",
+              "coord": [
+                34.0508,
+                -118.2487
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Travel to San Francisco Bay Area",
+          "items": [
+            {
+              "name": "Cavallo Point Lodge",
+              "type": "hotel",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "Flight to San Francisco (1.5hr)",
+              "type": "info",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.0508,
+                -118.2487
+              ]
+            },
+            {
+              "name": "Chez Panisse",
+              "type": "dinner",
+              "coord": [
+                37.8795,
+                -122.269
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Epicurean Excellence — Bay Area",
+          "items": [
+            {
+              "name": "Cavallo Point Lodge",
+              "type": "hotel",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "Tartine Bakery",
+              "type": "breakfast",
+              "coord": [
+                37.7613,
+                -122.424
+              ]
+            },
+            {
+              "name": "Ferry Building Marketplace",
+              "type": "sightseeing",
+              "coord": [
+                37.7956,
+                -122.3933
+              ]
+            },
+            {
+              "name": "Swan Oyster Depot",
+              "type": "lunch",
+              "coord": [
+                37.789,
+                -122.421
+              ]
+            },
+            {
+              "name": "Stroll through San Francisco neighborhoods",
+              "type": "sightseeing",
+              "coord": [
+                37.7749,
+                -122.4194
+              ]
+            },
+            {
+              "name": "Chez Panisse",
+              "type": "dinner",
+              "coord": [
+                37.8795,
+                -122.269
+              ]
+            },
+            {
+              "name": "Evening drinks in Berkeley",
+              "type": "optional",
+              "coord": [
+                37.8795,
+                -122.269
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Travel to Napa Valley Wine Country",
+          "items": [
+            {
+              "name": "Alila Napa Valley",
+              "type": "hotel",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Morning drive to Napa (1hr)",
+              "type": "info",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "The French Laundry",
+              "type": "dinner",
+              "coord": [
+                38.404,
+                -122.365
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Land & Sea — Tomales Bay to Wine Country",
+          "items": [
+            {
+              "name": "Alila Napa Valley",
+              "type": "hotel",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Light hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Scenic drive to coast",
+              "type": "info",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Hog Island Oyster Farm",
+              "type": "lunch",
+              "coord": [
+                38.191,
+                -122.938
+              ]
+            },
+            {
+              "name": "Explore Tomales Bay",
+              "type": "sightseeing",
+              "coord": [
+                38.191,
+                -122.938
+              ]
+            },
+            {
+              "name": "Return for evening wine tasting",
+              "type": "sightseeing",
+              "coord": [
+                38.5025,
+                -122.2654
+              ]
+            },
+            {
+              "name": "Casual dinner in St. Helena",
+              "type": "dinner",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "e": {
+      "name": "Luxury Coastal Escape (9 Days)",
+      "description": "Indulgent Pacific Coast journey from Santa Barbara through Big Sur's dramatic cliffs to Napa's finest vineyards and San Francisco elegance.",
+      "days": [
+        {
+          "label": "Day 1 — Luxury Day — Santa Barbara",
+          "items": [
+            {
+              "name": "The Ritz-Carlton Bacara, Santa Barbara",
+              "type": "hotel",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Resort breakfast with ocean views",
+              "type": "breakfast",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Spa treatment at Bacara",
+              "type": "sightseeing",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Poolside lunch",
+              "type": "lunch",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Private beach time",
+              "type": "sightseeing",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Fine dining at resort restaurant",
+              "type": "dinner",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Sunset cocktails by the fire pit",
+              "type": "optional",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Wine Tour — Santa Barbara Valley",
+          "items": [
+            {
+              "name": "The Ritz-Carlton Bacara, Santa Barbara",
+              "type": "hotel",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Leisurely hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Santa Ynez Valley winery tour",
+              "type": "sightseeing",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Winery bistro lunch",
+              "type": "lunch",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Second winery tasting",
+              "type": "sightseeing",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Santa Barbara waterfront dinner",
+              "type": "dinner",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Stroll State Street",
+              "type": "optional",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Big Sur & Monterey",
+          "items": [
+            {
+              "name": "Alila Ventana Big Sur",
+              "type": "hotel",
+              "coord": [
+                36.238,
+                -121.759
+              ]
+            },
+            {
+              "name": "Scenic coastal drive north (5hr)",
+              "type": "info",
+              "coord": [
+                36.238,
+                -121.759
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.442,
+                -119.912
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                36.238,
+                -121.759
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Luxury Escape — Big Sur Cliffs",
+          "items": [
+            {
+              "name": "Post Ranch Inn",
+              "type": "hotel",
+              "coord": [
+                36.237,
+                -121.76
+              ]
+            },
+            {
+              "name": "In-room breakfast service",
+              "type": "breakfast",
+              "coord": [
+                36.237,
+                -121.76
+              ]
+            },
+            {
+              "name": "Spa morning at Post Ranch",
+              "type": "sightseeing",
+              "coord": [
+                36.237,
+                -121.76
+              ]
+            },
+            {
+              "name": "Sierra Mar lunch",
+              "type": "lunch",
+              "coord": [
+                36.237,
+                -121.76
+              ]
+            },
+            {
+              "name": "Private coastal hike",
+              "type": "sightseeing",
+              "coord": [
+                36.237,
+                -121.76
+              ]
+            },
+            {
+              "name": "Sunset tasting menu",
+              "type": "dinner",
+              "coord": [
+                36.237,
+                -121.76
+              ]
+            },
+            {
+              "name": "Fire pit and wine",
+              "type": "optional",
+              "coord": [
+                36.237,
+                -121.76
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Couples Retreat — Big Sur Coast",
+          "items": [
+            {
+              "name": "Post Ranch Inn",
+              "type": "hotel",
+              "coord": [
+                36.237,
+                -121.76
+              ]
+            },
+            {
+              "name": "Champagne breakfast in bed",
+              "type": "breakfast",
+              "coord": [
+                36.237,
+                -121.76
+              ]
+            },
+            {
+              "name": "Big Sur — Pacific Coast Highway",
+              "type": "sightseeing",
+              "coord": [
+                36.2704,
+                -121.8081
+              ]
+            },
+            {
+              "name": "Nepenthe lunch with ocean views",
+              "type": "lunch",
+              "coord": [
+                36.255,
+                -121.795
+              ]
+            },
+            {
+              "name": "Couples spa treatment",
+              "type": "sightseeing",
+              "coord": [
+                36.237,
+                -121.76
+              ]
+            },
+            {
+              "name": "Private dining experience",
+              "type": "dinner",
+              "coord": [
+                36.237,
+                -121.76
+              ]
+            },
+            {
+              "name": "Clifftop sunset champagne",
+              "type": "optional",
+              "coord": [
+                36.237,
+                -121.76
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Travel to Napa Valley Wine Country",
+          "items": [
+            {
+              "name": "Alila Napa Valley",
+              "type": "hotel",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Drive to Napa Valley (3.5hr)",
+              "type": "info",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                36.237,
+                -121.76
+              ]
+            },
+            {
+              "name": "The French Laundry",
+              "type": "dinner",
+              "coord": [
+                38.404,
+                -122.365
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Luxury Escape — St. Helena",
+          "items": [
+            {
+              "name": "Alila Napa Valley",
+              "type": "hotel",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Champagne breakfast on terrace",
+              "type": "breakfast",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Private wine cave tasting",
+              "type": "sightseeing",
+              "coord": [
+                38.5025,
+                -122.2654
+              ]
+            },
+            {
+              "name": "Estate winery lunch",
+              "type": "lunch",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Spa treatment at hotel",
+              "type": "sightseeing",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "The French Laundry",
+              "type": "dinner",
+              "coord": [
+                38.404,
+                -122.365
+              ]
+            },
+            {
+              "name": "Stargazing at vineyard",
+              "type": "optional",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Wine Deep Dive — Napa Valley",
+          "items": [
+            {
+              "name": "Alila Napa Valley",
+              "type": "hotel",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Continental breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Morning at Opus One",
+              "type": "sightseeing",
+              "coord": [
+                38.5025,
+                -122.2654
+              ]
+            },
+            {
+              "name": "Winery estate lunch",
+              "type": "lunch",
+              "coord": [
+                38.5025,
+                -122.2654
+              ]
+            },
+            {
+              "name": "Boutique cave tasting",
+              "type": "sightseeing",
+              "coord": [
+                38.5025,
+                -122.2654
+              ]
+            },
+            {
+              "name": "Farm-to-table dinner in Napa",
+              "type": "dinner",
+              "coord": [
+                38.2975,
+                -122.2869
+              ]
+            },
+            {
+              "name": "Nightcap in downtown Napa",
+              "type": "optional",
+              "coord": [
+                38.2975,
+                -122.2869
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Travel to San Francisco Bay Area",
+          "items": [
+            {
+              "name": "Cavallo Point Lodge",
+              "type": "hotel",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "Morning drive to San Francisco (1hr)",
+              "type": "info",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.457,
+                -122.405
+              ]
+            },
+            {
+              "name": "Chez Panisse",
+              "type": "dinner",
+              "coord": [
+                37.8795,
+                -122.269
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Luxury Romance — Sausalito & Bay",
+          "items": [
+            {
+              "name": "Cavallo Point Lodge",
+              "type": "hotel",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "Champagne breakfast at Cavallo Point",
+              "type": "breakfast",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            },
+            {
+              "name": "Golden Gate Bridge",
+              "type": "sightseeing",
+              "coord": [
+                37.8199,
+                -122.4783
+              ]
+            },
+            {
+              "name": "Swan Oyster Depot",
+              "type": "lunch",
+              "coord": [
+                37.789,
+                -122.421
+              ]
+            },
+            {
+              "name": "SFMOMA",
+              "type": "sightseeing",
+              "coord": [
+                37.7857,
+                -122.4011
+              ]
+            },
+            {
+              "name": "Chez Panisse",
+              "type": "dinner",
+              "coord": [
+                37.8795,
+                -122.269
+              ]
+            },
+            {
+              "name": "Sunset at Cavallo Point",
+              "type": "optional",
+              "coord": [
+                37.8335,
+                -122.4764
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

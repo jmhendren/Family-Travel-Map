@@ -4659,294 +4659,291 @@
   },
   "itineraryData": {
     "a": {
-      "name": "Greatest Hits",
-      "color": "#2563EB",
+      "name": "Greatest Hits (7 Days)",
+      "description": "Athens, Santorini, and Mykonos — the ultimate first-timer Greek experience with ancient ruins, iconic sunsets, and Cycladic charm.",
       "days": [
         {
-          "day": 1,
-          "title": "Athens (Arrival)",
+          "label": "Day 1 — Classical Athens — Historic Center",
           "items": [
             {
-              "type": "hotel",
               "name": "Grande Bretagne",
+              "type": "hotel",
               "coord": [
-                53.833736699999996,
-                -2.4290148
+                37.97655,
+                23.735402
               ]
             },
             {
-              "type": "sightseeing",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.97655,
+                23.735402
+              ]
+            },
+            {
               "name": "Acropolis & Parthenon",
+              "type": "sightseeing",
               "coord": [
                 37.9715285,
                 23.7267166
               ]
             },
             {
-              "type": "lunch",
-              "name": "Kostas Souvlaki",
-              "coord": [
-                37.977415799999996,
-                23.7279947
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Spondi",
-              "coord": [
-                37.9651249,
-                23.7430485
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Line Athens",
-              "coord": [
-                37.968616499999996,
-                23.7033509
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Athens (Museums)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Grande Bretagne",
-              "coord": [
-                53.833736699999996,
-                -2.4290148
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Acropolis Museum",
-              "coord": [
-                37.968449899999996,
-                23.7285227
-              ]
-            },
-            {
-              "type": "lunch",
               "name": "Ta Karamanlidika",
+              "type": "lunch",
               "coord": [
                 37.9802444,
                 23.7256423
               ]
             },
             {
+              "name": "Acropolis Museum",
               "type": "sightseeing",
+              "coord": [
+                37.968449899999996,
+                23.7285227
+              ]
+            },
+            {
+              "name": "Spondi",
+              "type": "dinner",
+              "coord": [
+                37.9651249,
+                23.7430485
+              ]
+            },
+            {
+              "name": "The Clumsies",
+              "type": "optional",
+              "coord": [
+                37.9789356,
+                23.7297603
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Cultural Immersion — Museum District",
+          "items": [
+            {
+              "name": "Kenshington Hotel",
+              "type": "hotel",
+              "coord": [
+                37.98244,
+                23.73689
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.98244,
+                23.73689
+              ]
+            },
+            {
               "name": "National Archaeological Museum",
+              "type": "sightseeing",
               "coord": [
                 37.989022899999995,
                 23.732759899999998
               ]
             },
             {
-              "type": "dinner",
-              "name": "Hytra",
-              "coord": [
-                37.9815438,
-                23.7529091
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Peloponnese (Delphi & Meteora)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Grande Bretagne Athens",
-              "coord": [
-                37.976178,
-                23.7353123
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Delphi Archaeological Site",
-              "coord": [
-                38.4800928,
-                22.4995954
-              ]
-            },
-            {
+              "name": "Kostas Souvlaki",
               "type": "lunch",
-              "name": "Local Delphi taverna",
               "coord": [
-                38.48202,
-                22.50105
+                37.977415799999996,
+                23.7279947
               ]
             },
             {
+              "name": "Benaki Museum",
               "type": "sightseeing",
-              "name": "Meteora Monasteries",
               "coord": [
-                39.7217044,
-                21.6305896
+                37.975952,
+                23.740446000000002
               ]
             },
             {
-              "type": "dinner",
-              "name": "Meteora village taverna",
+              "name": "Byzantine Museum Athens",
+              "type": "sightseeing",
               "coord": [
-                39.716486,
-                21.608077
+                37.9753134,
+                23.7446275
+              ]
+            },
+            {
+              "name": "Vezene",
+              "type": "dinner",
+              "coord": [
+                37.9747035,
+                23.7510028
+              ]
+            },
+            {
+              "name": "Oinomato",
+              "type": "optional",
+              "coord": [
+                37.972,
+                23.731
               ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Athens to Santorini",
+          "label": "Day 3 — Travel to Santorini",
           "items": [
             {
-              "type": "hotel",
               "name": "Andronis Arcadia",
+              "type": "hotel",
               "coord": [
                 36.4638217,
                 25.375454899999998
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Flight to Santorini",
-              "coord": [
-                36.4172,
-                25.4615
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Oia Sunset Taverna",
-              "coord": [
-                36.46501,
-                25.37801
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Oia sunset walk",
-              "coord": [
-                36.4614,
-                25.371
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Ammoudi Fish Tavern",
-              "coord": [
-                36.460585699999996,
-                25.3702063
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Santorini (Caldera & Wine)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Andronis Arcadia",
+              "name": "Morning flight Athens → Santorini (45min) or ferry (5hr)",
+              "type": "info",
               "coord": [
                 36.4638217,
                 25.375454899999998
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Sunset Catamaran Cruise",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                36.4207481,
-                25.432054599999997
+                37.98244,
+                23.73689
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Santo Wines Winery",
-              "coord": [
-                36.387564,
-                25.436746
-              ]
-            },
-            {
-              "type": "lunch",
               "name": "Selene",
+              "type": "dinner",
               "coord": [
                 36.4214959,
                 25.4307765
               ]
-            },
-            {
-              "type": "dinner",
-              "name": "Elements at Canaves",
-              "coord": [
-                36.4636405,
-                25.371104300000002
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Franco",
-              "coord": [
-                36.4172,
-                25.4315
-              ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Santorini (Villages & Archaeology)",
+          "label": "Day 4 — Santorini Essentials — Fira to Oia",
           "items": [
             {
+              "name": "Blue Horizon Santorini",
               "type": "hotel",
-              "name": "Andronis Arcadia",
               "coord": [
-                36.4638217,
-                25.375454899999998
+                36.4233027,
+                25.4357676
               ]
             },
             {
-              "type": "sightseeing",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                36.4233027,
+                25.4357676
+              ]
+            },
+            {
               "name": "Akrotiri Archaeological Site",
+              "type": "sightseeing",
               "coord": [
                 36.3517952,
                 25.403447
               ]
             },
             {
-              "type": "lunch",
               "name": "To Psaraki",
+              "type": "lunch",
               "coord": [
                 36.3379258,
                 25.4348982
               ]
             },
             {
+              "name": "Fira-Oia Hiking Trail",
               "type": "sightseeing",
+              "coord": [
+                36.4374251,
+                25.4226483
+              ]
+            },
+            {
+              "name": "Ammoudi Fish Tavern",
+              "type": "dinner",
+              "coord": [
+                36.460585699999996,
+                25.3702063
+              ]
+            },
+            {
+              "name": "Sunset stroll through Oia village",
+              "type": "optional",
+              "coord": [
+                36.46501,
+                25.37801
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Santorini Wine Route",
+          "items": [
+            {
+              "name": "Vedema Resort",
+              "type": "hotel",
+              "coord": [
+                36.3755871,
+                25.4323117
+              ]
+            },
+            {
+              "name": "Hotel breakfast in historic winery setting",
+              "type": "breakfast",
+              "coord": [
+                36.3755871,
+                25.4323117
+              ]
+            },
+            {
               "name": "Venetsanos Winery",
+              "type": "sightseeing",
               "coord": [
                 36.3823401,
                 25.431520300000003
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Perissa Beach",
+              "name": "Selene",
+              "type": "lunch",
               "coord": [
-                36.3537182,
-                25.4736829
+                36.4214959,
+                25.4307765
               ]
             },
             {
-              "type": "dinner",
+              "name": "Santo Wines Winery",
+              "type": "sightseeing",
+              "coord": [
+                36.387564,
+                25.436746
+              ]
+            },
+            {
+              "name": "Santorini Wine Market",
+              "type": "shopping",
+              "coord": [
+                36.418868599999996,
+                25.430821599999998
+              ]
+            },
+            {
               "name": "Koukoumavlos",
+              "type": "dinner",
               "coord": [
                 36.431461899999995,
                 25.424419399999998
@@ -4955,52 +4952,927 @@
           ]
         },
         {
-          "day": 7,
-          "title": "Santorini to Mykonos",
+          "label": "Day 6 — Travel to Mykonos",
           "items": [
             {
-              "type": "hotel",
               "name": "Santa Marina Resort",
+              "type": "hotel",
               "coord": [
                 37.418268999999995,
                 25.3261947
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Ferry to Mykonos",
+              "name": "Ferry Santorini → Mykonos (2.5hr)",
+              "type": "info",
               "coord": [
-                37.4467,
-                25.3289
+                37.418268999999995,
+                25.3261947
               ]
             },
             {
-              "type": "lunch",
-              "name": "Kiki",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                37.9742904,
-                23.7317143
+                36.3755871,
+                25.4323117
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Mykonos Town walk",
-              "coord": [
-                37.4467,
-                25.3283
-              ]
-            },
-            {
+              "name": "Matsuhisa Mykonos",
               "type": "dinner",
+              "coord": [
+                37.443286799999996,
+                25.330097400000003
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Must-See Mykonos — Mykonos Town",
+          "items": [
+            {
+              "name": "Cavo Tagoo",
+              "type": "hotel",
+              "coord": [
+                37.456664599999996,
+                25.328948600000004
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.456664599999996,
+                25.328948600000004
+              ]
+            },
+            {
+              "name": "Delos Island",
+              "type": "sightseeing",
+              "coord": [
+                37.3962623,
+                25.2689412
+              ]
+            },
+            {
+              "name": "Mykonos Fish Market",
+              "type": "lunch",
+              "coord": [
+                37.425114,
+                25.322905
+              ]
+            },
+            {
+              "name": "Windmills of Mykonos",
+              "type": "sightseeing",
+              "coord": [
+                37.444582499999996,
+                25.3259318
+              ]
+            },
+            {
               "name": "M-eating",
+              "type": "dinner",
               "coord": [
                 37.4460312,
                 25.3295285
               ]
             },
             {
-              "type": "optional",
               "name": "180° Sunset Bar",
+              "type": "optional",
+              "coord": [
+                37.4493483,
+                25.3323987
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "b": {
+      "name": "Family Comfort (10 Days)",
+      "description": "Kid-friendly Greek adventure with beaches, aquariums, and gentle exploration across Athens, Crete, and Santorini.",
+      "days": [
+        {
+          "label": "Day 1 — Family Day — Athens Parks & Museums",
+          "items": [
+            {
+              "name": "Four Seasons Astir Palace",
+              "type": "hotel",
+              "coord": [
+                37.805205,
+                23.77115
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.805205,
+                23.77115
+              ]
+            },
+            {
+              "name": "Hellenic Children",
+              "type": "sightseeing",
+              "coord": [
+                37.9734322,
+                23.7442271
+              ]
+            },
+            {
+              "name": "Papandreou",
+              "type": "lunch",
+              "coord": [
+                37.9885204,
+                23.7303003
+              ]
+            },
+            {
+              "name": "Afternoon rest",
+              "type": "nap",
+              "coord": [
+                37.805205,
+                23.77115
+              ]
+            },
+            {
+              "name": "National Garden",
+              "type": "sightseeing",
+              "coord": [
+                37.9725878,
+                23.737433
+              ]
+            },
+            {
+              "name": "Taverna Nikolaides",
+              "type": "dinner",
+              "coord": [
+                37.9872975,
+                23.753008599999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Island Day — Hydra",
+          "items": [
+            {
+              "name": "Hotel Grande Bretagne Suites",
+              "type": "hotel",
+              "coord": [
+                37.976178,
+                23.7353123
+              ]
+            },
+            {
+              "name": "Early hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.976178,
+                23.7353123
+              ]
+            },
+            {
+              "name": "Hydra Island Day Trip",
+              "type": "sightseeing",
+              "coord": [
+                37.349870599999996,
+                23.465345499999998
+              ]
+            },
+            {
+              "name": "Lunch on Hydra",
+              "type": "lunch",
+              "coord": [
+                37.349870599999996,
+                23.465345499999998
+              ]
+            },
+            {
+              "name": "Island exploration",
+              "type": "sightseeing",
+              "coord": [
+                37.349870599999996,
+                23.465345499999998
+              ]
+            },
+            {
+              "name": "Return ferry",
+              "type": "info",
+              "coord": [
+                37.349870599999996,
+                23.465345499999998
+              ]
+            },
+            {
+              "name": "Nolan",
+              "type": "dinner",
+              "coord": [
+                37.9747986,
+                23.7323718
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Central Crete",
+          "items": [
+            {
+              "name": "Royal Senses Resort",
+              "type": "hotel",
+              "coord": [
+                35.4167053,
+                24.6579518
+              ]
+            },
+            {
+              "name": "Morning flight Athens → Heraklion (50min) or overnight ferry (9hr)",
+              "type": "info",
+              "coord": [
+                35.4167053,
+                24.6579518
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.976178,
+                23.7353123
+              ]
+            },
+            {
+              "name": "Peskesi",
+              "type": "dinner",
+              "coord": [
+                35.3402096,
+                25.132484599999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Family Adventure — Heraklion Area",
+          "items": [
+            {
+              "name": "Royal Senses Resort",
+              "type": "hotel",
+              "coord": [
+                35.4167053,
+                24.6579518
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.4167053,
+                24.6579518
+              ]
+            },
+            {
+              "name": "Cretaquarium",
+              "type": "sightseeing",
+              "coord": [
+                35.332359,
+                25.2824566
+              ]
+            },
+            {
+              "name": "Crete Aquarium Show",
+              "type": "sightseeing",
+              "coord": [
+                35.332359,
+                25.2824566
+              ]
+            },
+            {
+              "name": "Casual lunch near aquarium",
+              "type": "lunch",
+              "coord": [
+                35.332359,
+                25.2824566
+              ]
+            },
+            {
+              "name": "Afternoon nap time",
+              "type": "nap",
+              "coord": [
+                35.4167053,
+                24.6579518
+              ]
+            },
+            {
+              "name": "Water City",
+              "type": "sightseeing",
+              "coord": [
+                35.3105903,
+                25.2515
+              ]
+            },
+            {
+              "name": "Hotel dinner",
+              "type": "dinner",
+              "coord": [
+                35.4167053,
+                24.6579518
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Water & Waves — Elounda to Heraklion",
+          "items": [
+            {
+              "name": "Blue Palace",
+              "type": "hotel",
+              "coord": [
+                35.2925567,
+                25.726254899999997
+              ]
+            },
+            {
+              "name": "Early hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.2925567,
+                25.726254899999997
+              ]
+            },
+            {
+              "name": "Spinalonga Island",
+              "type": "sightseeing",
+              "coord": [
+                35.2972222,
+                25.738333299999997
+              ]
+            },
+            {
+              "name": "Seaside lunch in Elounda",
+              "type": "lunch",
+              "coord": [
+                35.2625421,
+                25.7214554
+              ]
+            },
+            {
+              "name": "Rest break",
+              "type": "nap",
+              "coord": [
+                35.2925567,
+                25.726254899999997
+              ]
+            },
+            {
+              "name": "Aqua Plus Water Park",
+              "type": "sightseeing",
+              "coord": [
+                35.288364,
+                25.365944
+              ]
+            },
+            {
+              "name": "Casual family dinner",
+              "type": "dinner",
+              "coord": [
+                35.2925567,
+                25.726254899999997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Beach Day & Resort Relaxation in Central Crete",
+          "items": [
+            {
+              "name": "Blue Palace",
+              "type": "hotel",
+              "coord": [
+                35.2925567,
+                25.726254899999997
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.2925567,
+                25.726254899999997
+              ]
+            },
+            {
+              "name": "Free morning to explore Central Crete",
+              "type": "sightseeing",
+              "coord": [
+                35.2925567,
+                25.726254899999997
+              ]
+            },
+            {
+              "name": "Peskesi",
+              "type": "lunch",
+              "coord": [
+                35.3402096,
+                25.132484599999998
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                35.2925567,
+                25.726254899999997
+              ]
+            },
+            {
+              "name": "Avli",
+              "type": "dinner",
+              "coord": [
+                35.120072199999996,
+                25.307742500000003
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Travel to Western Crete",
+          "items": [
+            {
+              "name": "Domes Zeen Chania",
+              "type": "hotel",
+              "coord": [
+                35.5085778,
+                23.997110199999998
+              ]
+            },
+            {
+              "name": "Morning drive Heraklion → Chania (1hr)",
+              "type": "info",
+              "coord": [
+                35.5085778,
+                23.997110199999998
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.2925567,
+                25.726254899999997
+              ]
+            },
+            {
+              "name": "Thalassino Ageri",
+              "type": "dinner",
+              "coord": [
+                35.5198494,
+                24.0371114
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Family Beach Day — Elafonissi",
+          "items": [
+            {
+              "name": "Thalassa All-Inclusive Crete",
+              "type": "hotel",
+              "coord": [
+                35.506532,
+                23.9752175
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.506532,
+                23.9752175
+              ]
+            },
+            {
+              "name": "Elafonissi Beach",
+              "type": "sightseeing",
+              "coord": [
+                35.271180099999995,
+                23.541295899999998
+              ]
+            },
+            {
+              "name": "Beach picnic or snack bar",
+              "type": "lunch",
+              "coord": [
+                35.271180099999995,
+                23.541295899999998
+              ]
+            },
+            {
+              "name": "Nap time or quiet play",
+              "type": "nap",
+              "coord": [
+                35.506532,
+                23.9752175
+              ]
+            },
+            {
+              "name": "Water park time at hotel",
+              "type": "sightseeing",
+              "coord": [
+                35.506532,
+                23.9752175
+              ]
+            },
+            {
+              "name": "Hotel dinner",
+              "type": "dinner",
+              "coord": [
+                35.506532,
+                23.9752175
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Coastal Explorer — Balos & Elafonissi",
+          "items": [
+            {
+              "name": "Ammos Hotel",
+              "type": "hotel",
+              "coord": [
+                35.5112507,
+                23.9751379
+              ]
+            },
+            {
+              "name": "Early hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.5112507,
+                23.9751379
+              ]
+            },
+            {
+              "name": "Balos Lagoon",
+              "type": "sightseeing",
+              "coord": [
+                35.579267099999996,
+                23.588720499999997
+              ]
+            },
+            {
+              "name": "Packed lunch or beach cafe",
+              "type": "lunch",
+              "coord": [
+                35.579267099999996,
+                23.588720499999997
+              ]
+            },
+            {
+              "name": "Drive to Elafonissi",
+              "type": "info",
+              "coord": [
+                35.271180099999995,
+                23.541295899999998
+              ]
+            },
+            {
+              "name": "Elafonissi Beach",
+              "type": "sightseeing",
+              "coord": [
+                35.271180099999995,
+                23.541295899999998
+              ]
+            },
+            {
+              "name": "Rethymno Waterfront",
+              "type": "dinner",
+              "coord": [
+                35.3712928,
+                24.476365899999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Travel to Santorini",
+          "items": [
+            {
+              "name": "Andronis Arcadia",
+              "type": "hotel",
+              "coord": [
+                36.4638217,
+                25.375454899999998
+              ]
+            },
+            {
+              "name": "Ferry Chania → Santorini (2hr)",
+              "type": "info",
+              "coord": [
+                36.4638217,
+                25.375454899999998
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.5112507,
+                23.9751379
+              ]
+            },
+            {
+              "name": "Selene",
+              "type": "dinner",
+              "coord": [
+                36.4214959,
+                25.4307765
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 11 — Santorini Family Adventure",
+          "items": [
+            {
+              "name": "Santo Maris Oia",
+              "type": "hotel",
+              "coord": [
+                36.4645754,
+                25.3732369
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                36.4645754,
+                25.3732369
+              ]
+            },
+            {
+              "name": "Perissa Beach",
+              "type": "sightseeing",
+              "coord": [
+                36.3537182,
+                25.4736829
+              ]
+            },
+            {
+              "name": "Beach taverna lunch",
+              "type": "lunch",
+              "coord": [
+                36.3537182,
+                25.4736829
+              ]
+            },
+            {
+              "name": "Afternoon nap and pool time",
+              "type": "nap",
+              "coord": [
+                36.4645754,
+                25.3732369
+              ]
+            },
+            {
+              "name": "Explore Oia village shops",
+              "type": "shopping",
+              "coord": [
+                36.46501,
+                25.37801
+              ]
+            },
+            {
+              "name": "Oia Sunset Taverna",
+              "type": "dinner",
+              "coord": [
+                36.46501,
+                25.37801
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "c": {
+      "name": "Grand Tour (14 Days)",
+      "description": "Epic journey from Athens through the Cyclades to Crete and Rhodes, capturing Greece's greatest archaeological, culinary, and coastal treasures.",
+      "days": [
+        {
+          "label": "Day 1 — Classical Athens — Historic Center",
+          "items": [
+            {
+              "name": "Grande Bretagne",
+              "type": "hotel",
+              "coord": [
+                37.97655,
+                23.735402
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.97655,
+                23.735402
+              ]
+            },
+            {
+              "name": "Acropolis & Parthenon",
+              "type": "sightseeing",
+              "coord": [
+                37.9715285,
+                23.7267166
+              ]
+            },
+            {
+              "name": "Ta Karamanlidika",
+              "type": "lunch",
+              "coord": [
+                37.9802444,
+                23.7256423
+              ]
+            },
+            {
+              "name": "Acropolis Museum",
+              "type": "sightseeing",
+              "coord": [
+                37.968449899999996,
+                23.7285227
+              ]
+            },
+            {
+              "name": "Spondi",
+              "type": "dinner",
+              "coord": [
+                37.9651249,
+                23.7430485
+              ]
+            },
+            {
+              "name": "The Clumsies",
+              "type": "optional",
+              "coord": [
+                37.9789356,
+                23.7297603
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Gastronomic Athens — Central Markets to Fine Dining",
+          "items": [
+            {
+              "name": "Hotel Grande Bretagne Athens",
+              "type": "hotel",
+              "coord": [
+                37.976178,
+                23.7353123
+              ]
+            },
+            {
+              "name": "Athens Food Tour",
+              "type": "breakfast",
+              "coord": [
+                37.9794102,
+                23.7267002
+              ]
+            },
+            {
+              "name": "Varvakios Central Market",
+              "type": "sightseeing",
+              "coord": [
+                37.980428599999996,
+                23.7276638
+              ]
+            },
+            {
+              "name": "Diporto Agoras",
+              "type": "lunch",
+              "coord": [
+                37.980747799999996,
+                23.7258382
+              ]
+            },
+            {
+              "name": "CookInAthens Class",
+              "type": "sightseeing",
+              "coord": [
+                37.9803704,
+                23.722988899999997
+              ]
+            },
+            {
+              "name": "Funky Gourmet",
+              "type": "dinner",
+              "coord": [
+                37.9831192,
+                23.715986899999997
+              ]
+            },
+            {
+              "name": "Baba Au Rum",
+              "type": "optional",
+              "coord": [
+                37.9773968,
+                23.729854200000002
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Mykonos",
+          "items": [
+            {
+              "name": "Santa Marina Resort",
+              "type": "hotel",
+              "coord": [
+                37.418268999999995,
+                25.3261947
+              ]
+            },
+            {
+              "name": "Morning flight Athens → Mykonos (35min) or ferry (3hr)",
+              "type": "info",
+              "coord": [
+                37.418268999999995,
+                25.3261947
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.976178,
+                23.7353123
+              ]
+            },
+            {
+              "name": "Matsuhisa Mykonos",
+              "type": "dinner",
+              "coord": [
+                37.443286799999996,
+                25.330097400000003
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Must-See Mykonos — Mykonos Town",
+          "items": [
+            {
+              "name": "Cavo Tagoo",
+              "type": "hotel",
+              "coord": [
+                37.456664599999996,
+                25.328948600000004
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.456664599999996,
+                25.328948600000004
+              ]
+            },
+            {
+              "name": "Delos Island",
+              "type": "sightseeing",
+              "coord": [
+                37.3962623,
+                25.2689412
+              ]
+            },
+            {
+              "name": "Mykonos Fish Market",
+              "type": "lunch",
+              "coord": [
+                37.425114,
+                25.322905
+              ]
+            },
+            {
+              "name": "Windmills of Mykonos",
+              "type": "sightseeing",
+              "coord": [
+                37.444582499999996,
+                25.3259318
+              ]
+            },
+            {
+              "name": "M-eating",
+              "type": "dinner",
+              "coord": [
+                37.4460312,
+                25.3295285
+              ]
+            },
+            {
+              "name": "180° Sunset Bar",
+              "type": "optional",
               "coord": [
                 37.4493483,
                 25.3323987
@@ -5009,2176 +5881,59 @@
           ]
         },
         {
-          "day": 8,
-          "title": "Mykonos (Delos)",
+          "label": "Day 5 — Archaeological Discovery — Delos",
           "items": [
             {
+              "name": "Mykonos Grand Hotel",
               "type": "hotel",
-              "name": "Santa Marina Resort",
               "coord": [
-                37.418268999999995,
-                25.3261947
+                37.420929799999996,
+                25.313668399999997
               ]
             },
             {
-              "type": "sightseeing",
+              "name": "Early hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.420929799999996,
+                25.313668399999997
+              ]
+            },
+            {
               "name": "Delos Island",
+              "type": "sightseeing",
               "coord": [
                 37.3962623,
                 25.2689412
               ]
             },
             {
+              "name": "Mykonos Fish Market",
               "type": "lunch",
-              "name": "NiKolas Taverna",
               "coord": [
-                36.0724717,
-                27.9305316
+                37.425114,
+                25.322905
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Elia Beach",
-              "coord": [
-                37.42052,
-                25.39371
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Matsuhisa Mykonos",
-              "coord": [
-                37.443286799999996,
-                25.330097400000003
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Scorpios",
-              "coord": [
-                37.4069079,
-                25.347629599999998
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Mykonos (Beach & Relax)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Santa Marina Resort",
-              "coord": [
-                37.418268999999995,
-                25.3261947
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ornos Beach",
-              "coord": [
-                37.43,
-                25.325
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Alemagou",
-              "coord": [
-                37.458,
-                25.365
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Windmills of Mykonos",
+              "type": "sightseeing",
               "coord": [
                 37.444582499999996,
                 25.3259318
               ]
             },
             {
-              "type": "dinner",
-              "name": "Bill & Coo Suites",
-              "coord": [
-                37.4376988,
-                25.3278327
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Mykonos to Athens",
-          "items": [
-            {
-              "type": "sightseeing",
-              "name": "Ferry/Flight to Athens",
-              "coord": [
-                37.9715,
-                23.7257
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Varoulko Seaside",
-              "coord": [
-                37.937288099999996,
-                23.6585093
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Funky Gourmet",
-              "coord": [
-                37.9831192,
-                23.715986899999997
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "b": {
-      "name": "Hidden Gems",
-      "color": "#059669",
-      "days": [
-        {
-          "day": 1,
-          "title": "Athens (Arrival)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Kenshington Hotel",
-              "coord": [
-                51.4925141,
-                -0.1780433
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Plaka & National Garden",
-              "coord": [
-                37.9746,
-                23.7331
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Vezene",
-              "coord": [
-                37.9747035,
-                23.7510028
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Crete (Chania)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Domes Zeen Chania",
-              "coord": [
-                35.5085778,
-                23.997110199999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Chania",
-              "coord": [
-                35.518,
-                24.018
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tamam",
-              "coord": [
-                35.5165331,
-                24.0163838
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Chania Old Town",
-              "coord": [
-                35.516,
-                24.02
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Thalassino Ageri",
-              "coord": [
-                35.5198494,
-                24.0371114
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Crete (West Coast)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Domes Zeen Chania",
-              "coord": [
-                35.5085778,
-                23.997110199999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Balos Lagoon",
-              "coord": [
-                35.579267099999996,
-                23.588720499999997
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Beach taverna",
-              "coord": [
-                35.522025,
-                23.610849
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Elafonissi Beach",
-              "coord": [
-                35.271180099999995,
-                23.541295899999998
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Avli",
-              "coord": [
-                35.120072199999996,
-                25.307742500000003
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Crete (Samaria & Rethymnon)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Andronis Minois Crete",
-              "coord": [
-                37.069252,
-                25.124368999999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Samaria Gorge Trek",
-              "coord": [
-                35.291558900000005,
-                23.959343699999998
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Gorge village taverna",
-              "coord": [
-                35.37001,
-                24.02916
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Rethymnon Old Town",
-              "coord": [
-                35.3695613,
-                24.472755000000003
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Rethymno Waterfront",
-              "coord": [
-                35.3712928,
-                24.476365899999998
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Crete (Knossos & Heraklion)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Andronis Minois Crete",
-              "coord": [
-                37.069252,
-                25.124368999999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Palace of Knossos",
-              "coord": [
-                35.297956899999996,
-                25.1627815
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Peskesi",
-              "coord": [
-                35.3402096,
-                25.132484599999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cretaquarium",
-              "coord": [
-                35.332359,
-                25.2824566
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Crete Honey & Herbs Market",
-              "coord": [
-                35.3372355,
-                25.131751899999998
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Crete to Naxos",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Mati Boutique Hotel",
-              "coord": [
-                38.047229699999995,
-                23.9977455
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ferry Crete to Naxos",
-              "coord": [
-                37.106,
-                25.373
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Naxos Town Taverna",
-              "coord": [
-                37.1036475,
-                25.375810899999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Portara (Apollo's Gate)",
-              "coord": [
-                37.11,
-                25.368
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Axiotissa",
-              "coord": [
-                37.005437,
-                25.394973
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Naxos (Villages & Beaches)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Mati Boutique Hotel",
-              "coord": [
-                38.047229699999995,
-                23.9977455
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Mountain villages",
-              "coord": [
-                37.08,
-                25.45
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Oasis",
-              "coord": [
-                37.106,
-                25.373
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Agios Georgios Beach",
-              "coord": [
-                37.0992715,
-                25.3748659
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Naxos Old Market",
-              "coord": [
-                37.106588099999996,
-                25.3752593
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Naxos to Milos",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Milos",
-              "coord": [
-                36.7246,
-                24.4494
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ferry to Milos",
-              "coord": [
-                36.7246,
-                24.4494
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Local taverna",
-              "coord": [
-                36.7246,
-                24.4494
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Sarakiniko Beach",
-              "coord": [
-                36.742697199999995,
-                24.458423
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Milos waterfront restaurant",
-              "coord": [
-                36.7246,
-                24.4494
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Milos (Beaches & Exploration)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Milos",
-              "coord": [
-                36.7246,
-                24.4494
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kleftiko Beaches boat trip",
-              "coord": [
-                36.7246,
-                24.4494
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Fishing village taverna",
-              "coord": [
-                36.7246,
-                24.4494
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Catacombs exploration",
-              "coord": [
-                36.7246,
-                24.4494
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Milos local dinner",
-              "coord": [
-                36.7246,
-                24.4494
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Milos to Athens",
-          "items": [
-            {
-              "type": "sightseeing",
-              "name": "Ferry to Piraeus",
-              "coord": [
-                37.942,
-                23.651
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Piraeus seafood",
-              "coord": [
-                37.942,
-                23.651
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Delta",
-              "coord": [
-                38.46665970000001,
-                23.6052823
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "c": {
-      "name": "Family Comfort",
-      "color": "#D97706",
-      "days": [
-        {
-          "day": 1,
-          "title": "Athens (Arrival)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Four Seasons Astir Palace",
-              "coord": [
-                37.805205,
-                23.77115
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Resort beach",
-              "coord": [
-                37.81,
-                23.796
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest",
-              "coord": [
-                37.8087,
-                23.7944
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Resort restaurant",
-              "coord": [
-                37.8087,
-                23.7944
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Athens (Acropolis)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Four Seasons Astir Palace",
-              "coord": [
-                37.805205,
-                23.77115
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Acropolis private family tour",
-              "coord": [
-                37.9715,
-                23.7257
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Kostas Souvlaki",
-              "coord": [
-                37.977415799999996,
-                23.7279947
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Resort rest",
-              "coord": [
-                37.8087,
-                23.7944
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Spondi",
-              "coord": [
-                37.9651249,
-                23.7430485
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Athens (Kids Day)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Four Seasons Astir Palace",
-              "coord": [
-                37.805205,
-                23.77115
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Attica Zoo",
-              "coord": [
-                37.979073,
-                23.911354
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Zoo restaurant",
-              "coord": [
-                37.979073,
-                23.911354
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "National Garden playground",
-              "coord": [
-                37.973582,
-                23.737793
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Vezene",
-              "coord": [
-                37.9747035,
-                23.7510028
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Athens to Crete",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Royal Senses Resort",
-              "coord": [
-                35.4167053,
-                24.6579518
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Crete",
-              "coord": [
-                35.3387,
-                25.1314
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Resort restaurant",
-              "coord": [
-                37.029591,
-                25.24954
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest",
-              "coord": [
-                37.029591,
-                25.24954
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Resort tavern",
-              "coord": [
-                37.029591,
-                25.24954
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Crete (Water Park & Beach)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Royal Senses Resort",
-              "coord": [
-                35.4167053,
-                24.6579518
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Resort breakfast",
-              "coord": [
-                37.029591,
-                25.24954
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Water park & beach",
-              "coord": [
-                37.029591,
-                25.24954
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Poolside resort",
-              "coord": [
-                37.029591,
-                25.24954
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Spa & rest",
-              "coord": [
-                37.029591,
-                25.24954
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Avli",
-              "coord": [
-                35.120072199999996,
-                25.307742500000003
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Crete (Knossos & Aquarium)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Royal Senses Resort",
-              "coord": [
-                35.4167053,
-                24.6579518
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Palace of Knossos",
-              "coord": [
-                35.297956899999996,
-                25.1627815
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Peskesi",
-              "coord": [
-                35.3402096,
-                25.132484599999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cretaquarium",
-              "coord": [
-                35.332359,
-                25.2824566
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Resort rest",
-              "coord": [
-                37.029591,
-                25.24954
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Resort tavern",
-              "coord": [
-                37.029591,
-                25.24954
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Crete (Beach & Exploration)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Royal Senses Resort",
-              "coord": [
-                35.4167053,
-                24.6579518
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Elafonissi Beach day",
-              "coord": [
-                35.269455,
-                23.531635
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Beach taverna",
-              "coord": [
-                35.269455,
-                23.531635
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Drive scenic coast",
-              "coord": [
-                35.35,
-                23.7
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Tamam",
-              "coord": [
-                35.5165331,
-                24.0163838
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Crete (Resort Day)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Royal Senses Resort",
-              "coord": [
-                35.4167053,
-                24.6579518
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Resort breakfast",
-              "coord": [
-                37.029591,
-                25.24954
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "All-day water park",
-              "coord": [
-                37.029591,
-                25.24954
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Poolside",
-              "coord": [
-                37.029591,
-                25.24954
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kids club & activities",
-              "coord": [
-                37.029591,
-                25.24954
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Thalassino Ageri",
-              "coord": [
-                35.5198494,
-                24.0371114
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Crete to Santorini",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Canaves Oia Epitome",
-              "coord": [
-                36.4636385,
-                25.3711066
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ferry to Santorini",
-              "coord": [
-                36.4172,
-                25.4615
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Oia Sunset Taverna",
-              "coord": [
-                36.46501,
-                25.37801
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest",
-              "coord": [
-                36.4601,
-                25.3785
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Oia sunset",
-              "coord": [
-                36.4614,
-                25.371
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Ammoudi Fish Tavern",
-              "coord": [
-                36.460585699999996,
-                25.3702063
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Santorini (Catamaran & Wine)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Canaves Oia Epitome",
-              "coord": [
-                36.4636385,
-                25.3711066
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Sunset Catamaran Cruise",
-              "coord": [
-                36.4207481,
-                25.432054599999997
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Selene",
-              "coord": [
-                36.4214959,
-                25.4307765
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Siesta",
-              "coord": [
-                36.4601,
-                25.3785
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Santo Wines Winery",
-              "coord": [
-                36.387564,
-                25.436746
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Elements at Canaves",
-              "coord": [
-                36.4636405,
-                25.371104300000002
-              ]
-            }
-          ]
-        },
-        {
-          "day": 11,
-          "title": "Santorini (Beaches & Relaxation)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Canaves Oia Epitome",
-              "coord": [
-                36.4636385,
-                25.3711066
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Perissa Beach",
-              "coord": [
-                36.3537182,
-                25.4736829
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Beach taverna",
-              "coord": [
-                36.35233,
-                25.472348
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Pool & spa time",
-              "coord": [
-                36.4601,
-                25.3785
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Koukoumavlos",
-              "coord": [
-                36.431461899999995,
-                25.424419399999998
-              ]
-            }
-          ]
-        },
-        {
-          "day": 12,
-          "title": "Santorini to Athens (Departure)",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                36.4601,
-                25.3785
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Last Oia walk",
-              "coord": [
-                36.4614,
-                25.371
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Airport restaurant",
-              "coord": [
-                36.4172,
-                25.4615
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Athens",
-              "coord": [
-                37.9715,
-                23.7257
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "d": {
-      "name": "Foodie Deep-Dive",
-      "color": "#DC2626",
-      "days": [
-        {
-          "day": 1,
-          "title": "Athens Food Scene",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Grande Bretagne",
-              "coord": [
-                53.833736699999996,
-                -2.4290148
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Varvakios Central Market tour",
-              "coord": [
-                37.980373,
-                23.727624
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Diporto Agoras",
-              "coord": [
-                37.980747799999996,
-                23.7258382
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Market exploration",
-              "coord": [
-                37.9837,
-                23.73
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Spondi",
-              "coord": [
-                37.9651249,
-                23.7430485
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Athens Michelin Restaurants",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Grande Bretagne",
-              "coord": [
-                53.833736699999996,
-                -2.4290148
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                37.97655,
-                23.735402
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "CookInAthens Class",
-              "coord": [
-                37.9803704,
-                23.722988899999997
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Kostas Souvlaki",
-              "coord": [
-                37.977415799999996,
-                23.7279947
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Wine bar exploration",
-              "coord": [
-                37.9705,
-                23.71002
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Funky Gourmet",
-              "coord": [
-                37.9831192,
-                23.715986899999997
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Athens Fine Dining",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Grande Bretagne",
-              "coord": [
-                53.833736699999996,
-                -2.4290148
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                37.97655,
-                23.735402
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Hytra",
-              "coord": [
-                37.9815438,
-                23.7529091
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Taverna Nikolaides meze",
-              "coord": [
-                37.97502,
-                23.73801
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Delta",
-              "coord": [
-                38.46665970000001,
-                23.6052823
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Athens to Crete",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Pelagos Crete",
-              "coord": [
-                35.1917425,
-                25.718620299999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Chania",
-              "coord": [
-                35.518,
-                24.018
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tamam",
-              "coord": [
-                35.5165331,
-                24.0163838
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Chania market exploration",
-              "coord": [
-                35.51413,
-                24.02033
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Thalassino Ageri",
-              "coord": [
-                35.5198494,
-                24.0371114
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Crete (Wine & Food)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Pelagos Crete",
-              "coord": [
-                35.1917425,
-                25.718620299999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cretan wine region tour",
-              "coord": [
-                35.37001,
-                24.02916
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Avli",
-              "coord": [
-                35.120072199999996,
-                25.307742500000003
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Rethymnon Old Town market",
-              "coord": [
-                35.37301,
-                24.47301
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Rethymno Waterfront",
-              "coord": [
-                35.3712928,
-                24.476365899999998
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Crete (Heraklion Culinary)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Pelagos Crete",
-              "coord": [
-                35.1917425,
-                25.718620299999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Heraklion Market Street",
-              "coord": [
-                35.3384076,
-                25.1331402
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Peskesi",
-              "coord": [
-                35.3402096,
-                25.132484599999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Crete honey & herbs market",
-              "coord": [
-                35.34037,
-                25.13254
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Elounda Dining",
-              "coord": [
-                35.2625421,
-                25.7214554
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Crete (Olive Oil & Agriculture)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Pelagos Crete",
-              "coord": [
-                35.1917425,
-                25.718620299999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Olive oil farm tour",
-              "coord": [
-                35.37001,
-                24.02916
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Farm lunch",
-              "coord": [
-                35.37001,
-                24.02916
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Herb gathering walk",
-              "coord": [
-                35.35,
-                23.7
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Tamam",
-              "coord": [
-                35.5165331,
-                24.0163838
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Crete to Santorini",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Canaves Oia Epitome",
-              "coord": [
-                36.4636385,
-                25.3711066
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ferry to Santorini",
-              "coord": [
-                36.4172,
-                25.4615
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Oia Sunset Taverna",
-              "coord": [
-                36.46501,
-                25.37801
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Santo Wines Winery",
-              "coord": [
-                36.387564,
-                25.436746
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Ammoudi Fish Tavern",
-              "coord": [
-                36.460585699999996,
-                25.3702063
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Santorini (Wine & Dining)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Canaves Oia Epitome",
-              "coord": [
-                36.4636385,
-                25.3711066
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Venetsanos Winery",
-              "coord": [
-                36.3823401,
-                25.431520300000003
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Selene",
-              "coord": [
-                36.4214959,
-                25.4307765
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Santorini Wine Market",
-              "coord": [
-                36.418868599999996,
-                25.430821599999998
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Elements at Canaves",
-              "coord": [
-                36.4636405,
-                25.371104300000002
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Franco",
-              "coord": [
-                36.4172,
-                25.4315
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Santorini (Seafood Focus)",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Canaves Oia Epitome",
-              "coord": [
-                36.4636385,
-                25.3711066
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Fishing villages tour",
-              "coord": [
-                36.33799,
-                25.435048
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "To Psaraki",
-              "coord": [
-                36.3379258,
-                25.4348982
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Sunset Catamaran Cruise",
-              "coord": [
-                36.4207481,
-                25.432054599999997
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Koukoumavlos",
-              "coord": [
-                36.431461899999995,
-                25.424419399999998
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "e": {
-      "name": "Grand Tour",
-      "color": "#7C3AED",
-      "days": [
-        {
-          "day": 1,
-          "title": "Athens Arrival",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Grande Bretagne",
-              "coord": [
-                53.833736699999996,
-                -2.4290148
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Acropolis & Parthenon",
-              "coord": [
-                37.9715285,
-                23.7267166
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Kostas Souvlaki",
-              "coord": [
-                37.977415799999996,
-                23.7279947
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Spondi",
-              "coord": [
-                37.9651249,
-                23.7430485
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Athens Museums",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Grande Bretagne",
-              "coord": [
-                53.833736699999996,
-                -2.4290148
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "National Archaeological Museum",
-              "coord": [
-                37.989022899999995,
-                23.732759899999998
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Ta Karamanlidika",
-              "coord": [
-                37.9802444,
-                23.7256423
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Acropolis Museum",
-              "coord": [
-                37.968449899999996,
-                23.7285227
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Hytra",
-              "coord": [
-                37.9815438,
-                23.7529091
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Delphi & Meteora",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Meteora",
-              "coord": [
-                39.716486,
-                21.608077
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Delphi Archaeological Site",
-              "coord": [
-                38.4800928,
-                22.4995954
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Local Delphi taverna",
-              "coord": [
-                38.48202,
-                22.50105
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Meteora Monasteries",
-              "coord": [
-                39.7217044,
-                21.6305896
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Meteora village taverna",
-              "coord": [
-                39.716486,
-                21.608077
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Temple of Sounion",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Grande Bretagne",
-              "coord": [
-                53.833736699999996,
-                -2.4290148
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Temple of Poseidon Sounion",
-              "coord": [
-                37.650212,
-                24.02459
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Sounion coastal taverna",
-              "coord": [
-                37.650212,
-                24.02459
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Coastal drive",
-              "coord": [
-                37.81,
-                23.796
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Varoulko Seaside",
-              "coord": [
-                37.937288099999996,
-                23.6585093
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Athens to Crete",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Domes Zeen Chania",
-              "coord": [
-                35.5085778,
-                23.997110199999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Chania",
-              "coord": [
-                35.518,
-                24.018
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tamam",
-              "coord": [
-                35.5165331,
-                24.0163838
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Chania Old Town",
-              "coord": [
-                35.516,
-                24.02
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Thalassino Ageri",
-              "coord": [
-                35.5198494,
-                24.0371114
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Crete West Coast",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Domes Zeen Chania",
-              "coord": [
-                35.5085778,
-                23.997110199999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Balos Lagoon",
-              "coord": [
-                35.579267099999996,
-                23.588720499999997
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Beach taverna",
-              "coord": [
-                35.522025,
-                23.610849
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Elafonissi Beach",
-              "coord": [
-                35.271180099999995,
-                23.541295899999998
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Avli",
-              "coord": [
-                35.120072199999996,
-                25.307742500000003
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Crete Knossos & Heraklion",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Pelagos Crete",
-              "coord": [
-                35.1917425,
-                25.718620299999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Palace of Knossos",
-              "coord": [
-                35.297956899999996,
-                25.1627815
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Peskesi",
-              "coord": [
-                35.3402096,
-                25.132484599999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cretaquarium",
-              "coord": [
-                35.332359,
-                25.2824566
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Elounda Dining",
-              "coord": [
-                35.2625421,
-                25.7214554
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Crete Spinalonga",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Blue Palace",
-              "coord": [
-                35.2925567,
-                25.726254899999997
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Spinalonga Island boat trip",
-              "coord": [
-                35.272676,
-                25.747191
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Elounda harbor taverna",
-              "coord": [
-                35.27267,
-                25.74719
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Agios Nikolaos exploration",
-              "coord": [
-                35.272676,
-                25.747191
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Blue Palace fine dining",
-              "coord": [
-                37.05888,
-                22.390347
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Crete to Santorini",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Andronis Arcadia",
-              "coord": [
-                36.4638217,
-                25.375454899999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ferry to Santorini",
-              "coord": [
-                36.4172,
-                25.4615
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Oia Sunset Taverna",
-              "coord": [
-                36.46501,
-                25.37801
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Oia sunset walk",
-              "coord": [
-                36.4614,
-                25.371
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Ammoudi Fish Tavern",
-              "coord": [
-                36.460585699999996,
-                25.3702063
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Santorini Caldera",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Andronis Arcadia",
-              "coord": [
-                36.4638217,
-                25.375454899999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Sunset Catamaran Cruise",
-              "coord": [
-                36.4207481,
-                25.432054599999997
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Selene",
-              "coord": [
-                36.4214959,
-                25.4307765
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Santo Wines Winery",
-              "coord": [
-                36.387564,
-                25.436746
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Elements at Canaves",
-              "coord": [
-                36.4636405,
-                25.371104300000002
-              ]
-            }
-          ]
-        },
-        {
-          "day": 11,
-          "title": "Santorini Archaeology",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Andronis Arcadia",
-              "coord": [
-                36.4638217,
-                25.375454899999998
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Akrotiri Archaeological Site",
-              "coord": [
-                36.3517952,
-                25.403447
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "To Psaraki",
-              "coord": [
-                36.3379258,
-                25.4348982
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Venetsanos Winery",
-              "coord": [
-                36.3823401,
-                25.431520300000003
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Koukoumavlos",
-              "coord": [
-                36.431461899999995,
-                25.424419399999998
-              ]
-            }
-          ]
-        },
-        {
-          "day": 12,
-          "title": "Santorini to Mykonos",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Santa Marina Resort",
-              "coord": [
-                37.418268999999995,
-                25.3261947
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ferry to Mykonos",
-              "coord": [
-                37.4467,
-                25.3289
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Kiki",
-              "coord": [
-                37.9742904,
-                23.7317143
-              ]
-            },
-            {
+              "name": "Mykonos Town wander",
               "type": "sightseeing",
-              "name": "Mykonos Town",
               "coord": [
-                37.4467,
-                25.3283
+                37.444582499999996,
+                25.3259318
               ]
             },
             {
-              "type": "dinner",
               "name": "M-eating",
+              "type": "dinner",
               "coord": [
                 37.4460312,
                 25.3295285
@@ -7187,44 +5942,966 @@
           ]
         },
         {
-          "day": 13,
-          "title": "Mykonos Delos",
+          "label": "Day 6 — Travel to Central Cyclades",
           "items": [
             {
+              "name": "Sunshine Villas Paros",
               "type": "hotel",
-              "name": "Santa Marina Resort",
               "coord": [
-                37.418268999999995,
-                25.3261947
+                37.004924800000005,
+                25.2287292
               ]
             },
             {
+              "name": "Ferry Mykonos → Paros/Naxos (1hr)",
+              "type": "info",
+              "coord": [
+                37.004924800000005,
+                25.2287292
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.420929799999996,
+                25.313668399999997
+              ]
+            },
+            {
+              "name": "Axiotissa",
+              "type": "dinner",
+              "coord": [
+                37.005437,
+                25.394973
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Greatest Hits — Paros & Naxos",
+          "items": [
+            {
+              "name": "Sunshine Villas Paros",
+              "type": "hotel",
+              "coord": [
+                37.004924800000005,
+                25.2287292
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.004924800000005,
+                25.2287292
+              ]
+            },
+            {
+              "name": "Paros Marble Quarries",
               "type": "sightseeing",
-              "name": "Delos Island UNESCO",
               "coord": [
-                37.39089,
-                25.271739
+                37.0825575,
+                25.2003402
               ]
             },
             {
+              "name": "Petros Taverna Paros",
               "type": "lunch",
+              "coord": [
+                37.0855799,
+                25.14817
+              ]
+            },
+            {
+              "name": "Agios Georgios Beach",
+              "type": "sightseeing",
+              "coord": [
+                37.0992715,
+                25.3748659
+              ]
+            },
+            {
+              "name": "Naxos Town Taverna",
+              "type": "dinner",
+              "coord": [
+                37.1036475,
+                25.375810899999998
+              ]
+            },
+            {
+              "name": "Naxos Old Market",
+              "type": "optional",
+              "coord": [
+                37.106588099999996,
+                25.3752593
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Foodie Adventure — Naxos",
+          "items": [
+            {
+              "name": "Sunshine Villas Paros",
+              "type": "hotel",
+              "coord": [
+                37.004924800000005,
+                25.2287292
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.004924800000005,
+                25.2287292
+              ]
+            },
+            {
+              "name": "Island Foraging Tour",
+              "type": "sightseeing",
+              "coord": [
+                37.008,
+                25.354
+              ]
+            },
+            {
+              "name": "Axiotissa",
+              "type": "lunch",
+              "coord": [
+                37.005437,
+                25.394973
+              ]
+            },
+            {
+              "name": "Naxos Old Market",
+              "type": "shopping",
+              "coord": [
+                37.106588099999996,
+                25.3752593
+              ]
+            },
+            {
+              "name": "Naxos Town Taverna",
+              "type": "dinner",
+              "coord": [
+                37.1036475,
+                25.375810899999998
+              ]
+            },
+            {
+              "name": "Local wine tasting",
+              "type": "optional",
+              "coord": [
+                37.1036475,
+                25.375810899999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Travel to Central Crete",
+          "items": [
+            {
+              "name": "Royal Senses Resort",
+              "type": "hotel",
+              "coord": [
+                35.4167053,
+                24.6579518
+              ]
+            },
+            {
+              "name": "Ferry Naxos → Heraklion (3hr)",
+              "type": "info",
+              "coord": [
+                35.4167053,
+                24.6579518
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.004924800000005,
+                25.2287292
+              ]
+            },
+            {
+              "name": "Peskesi",
+              "type": "dinner",
+              "coord": [
+                35.3402096,
+                25.132484599999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Central Crete Highlights — Heraklion & Elounda",
+          "items": [
+            {
+              "name": "Blue Palace",
+              "type": "hotel",
+              "coord": [
+                35.2925567,
+                25.726254899999997
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.2925567,
+                25.726254899999997
+              ]
+            },
+            {
+              "name": "Palace of Knossos",
+              "type": "sightseeing",
+              "coord": [
+                35.297956899999996,
+                25.1627815
+              ]
+            },
+            {
+              "name": "Heraklion Market Street",
+              "type": "shopping",
+              "coord": [
+                35.3384076,
+                25.1331402
+              ]
+            },
+            {
+              "name": "Peskesi",
+              "type": "lunch",
+              "coord": [
+                35.3402096,
+                25.132484599999998
+              ]
+            },
+            {
+              "name": "Spinalonga Island",
+              "type": "sightseeing",
+              "coord": [
+                35.2972222,
+                25.738333299999997
+              ]
+            },
+            {
+              "name": "Elounda Dining",
+              "type": "dinner",
+              "coord": [
+                35.2625421,
+                25.7214554
+              ]
+            },
+            {
+              "name": "Evening walk in Elounda harbor",
+              "type": "optional",
+              "coord": [
+                35.2625421,
+                25.7214554
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 11 — Culinary Journey — Heraklion to Elounda",
+          "items": [
+            {
+              "name": "Daios Cove",
+              "type": "hotel",
+              "coord": [
+                35.1466,
+                25.720067
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.1466,
+                25.720067
+              ]
+            },
+            {
+              "name": "Heraklion Market Street",
+              "type": "shopping",
+              "coord": [
+                35.3384076,
+                25.1331402
+              ]
+            },
+            {
+              "name": "Crete Honey & Herbs Market",
+              "type": "shopping",
+              "coord": [
+                35.3372355,
+                25.131751899999998
+              ]
+            },
+            {
+              "name": "Peskesi",
+              "type": "lunch",
+              "coord": [
+                35.3402096,
+                25.132484599999998
+              ]
+            },
+            {
+              "name": "Free afternoon at hotel beach",
+              "type": "sightseeing",
+              "coord": [
+                35.1466,
+                25.720067
+              ]
+            },
+            {
+              "name": "Elounda Dining",
+              "type": "dinner",
+              "coord": [
+                35.2625421,
+                25.7214554
+              ]
+            },
+            {
+              "name": "Digestif at hotel bar",
+              "type": "optional",
+              "coord": [
+                35.1466,
+                25.720067
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 12 — Travel to Western Crete",
+          "items": [
+            {
+              "name": "Domes Zeen Chania",
+              "type": "hotel",
+              "coord": [
+                35.5085778,
+                23.997110199999998
+              ]
+            },
+            {
+              "name": "Morning drive Heraklion → Chania (1hr)",
+              "type": "info",
+              "coord": [
+                35.5085778,
+                23.997110199999998
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.1466,
+                25.720067
+              ]
+            },
+            {
+              "name": "Thalassino Ageri",
+              "type": "dinner",
+              "coord": [
+                35.5198494,
+                24.0371114
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 13 — Greatest Hits — Chania",
+          "items": [
+            {
+              "name": "Ammos Hotel",
+              "type": "hotel",
+              "coord": [
+                35.5112507,
+                23.9751379
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.5112507,
+                23.9751379
+              ]
+            },
+            {
+              "name": "Balos Lagoon",
+              "type": "sightseeing",
+              "coord": [
+                35.579267099999996,
+                23.588720499999997
+              ]
+            },
+            {
+              "name": "Tamam",
+              "type": "lunch",
+              "coord": [
+                35.5165331,
+                24.0163838
+              ]
+            },
+            {
+              "name": "Chania Central Market",
+              "type": "shopping",
+              "coord": [
+                35.514110099999996,
+                24.0203575
+              ]
+            },
+            {
+              "name": "Thalassino Ageri",
+              "type": "dinner",
+              "coord": [
+                35.5198494,
+                24.0371114
+              ]
+            },
+            {
+              "name": "Chania Old Harbor stroll",
+              "type": "optional",
+              "coord": [
+                35.5165331,
+                24.0163838
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 14 — Foodie Tour — Chania & Rethymnon",
+          "items": [
+            {
+              "name": "Domes Zeen Chania",
+              "type": "hotel",
+              "coord": [
+                35.5085778,
+                23.997110199999998
+              ]
+            },
+            {
+              "name": "Chania Central Market",
+              "type": "breakfast",
+              "coord": [
+                35.514110099999996,
+                24.0203575
+              ]
+            },
+            {
+              "name": "Market tasting and shopping",
+              "type": "sightseeing",
+              "coord": [
+                35.514110099999996,
+                24.0203575
+              ]
+            },
+            {
+              "name": "Tamam",
+              "type": "lunch",
+              "coord": [
+                35.5165331,
+                24.0163838
+              ]
+            },
+            {
+              "name": "Rethymnon Food Market",
+              "type": "sightseeing",
+              "coord": [
+                35.365840899999995,
+                24.474227900000002
+              ]
+            },
+            {
+              "name": "Rethymno Waterfront",
+              "type": "dinner",
+              "coord": [
+                35.3712928,
+                24.476365899999998
+              ]
+            },
+            {
+              "name": "Rethymnon Old Town evening walk",
+              "type": "optional",
+              "coord": [
+                35.3695613,
+                24.472755000000003
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 15 — Travel to Rhodes",
+          "items": [
+            {
+              "name": "Limenaria Hotel Rhodes",
+              "type": "hotel",
+              "coord": [
+                36.439378,
+                28.2319371
+              ]
+            },
+            {
+              "name": "Flight Chania → Rhodes (1hr)",
+              "type": "info",
+              "coord": [
+                36.439378,
+                28.2319371
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.5085778,
+                23.997110199999998
+              ]
+            },
+            {
               "name": "NiKolas Taverna",
+              "type": "dinner",
+              "coord": [
+                36.0724717,
+                27.9305316
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 16 — Rhodes Greatest Hits — Old Town",
+          "items": [
+            {
+              "name": "Limenaria Hotel Rhodes",
+              "type": "hotel",
+              "coord": [
+                36.439378,
+                28.2319371
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                36.439378,
+                28.2319371
+              ]
+            },
+            {
+              "name": "Medieval Old Town Rhodes",
+              "type": "sightseeing",
+              "coord": [
+                36.4447001,
+                28.2275142
+              ]
+            },
+            {
+              "name": "Rhodes Old Town Market",
+              "type": "shopping",
+              "coord": [
+                36.4291164,
+                28.230316
+              ]
+            },
+            {
+              "name": "Old Town lunch",
+              "type": "lunch",
+              "coord": [
+                36.4447001,
+                28.2275142
+              ]
+            },
+            {
+              "name": "St. Paul Beach",
+              "type": "sightseeing",
+              "coord": [
+                36.0871048,
+                28.088309
+              ]
+            },
+            {
+              "name": "NiKolas Taverna",
+              "type": "dinner",
               "coord": [
                 36.0724717,
                 27.9305316
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Windmills of Mykonos",
+              "name": "Evening stroll in Old Town",
+              "type": "optional",
               "coord": [
-                37.444582499999996,
-                25.3259318
+                36.4447001,
+                28.2275142
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "d": {
+      "name": "Luxury Romance (8 Days)",
+      "description": "Indulgent couples escape through Athens, Santorini, and Mykonos with spa treatments, infinity pools, and sunset champagne.",
+      "days": [
+        {
+          "label": "Day 1 — Luxury Day — Five-Star Athens",
+          "items": [
+            {
+              "name": "King George Palace",
+              "type": "hotel",
+              "coord": [
+                37.976384,
+                23.734949399999998
               ]
             },
             {
+              "name": "Hotel breakfast with Acropolis views",
+              "type": "breakfast",
+              "coord": [
+                37.976384,
+                23.734949399999998
+              ]
+            },
+            {
+              "name": "Spa morning",
+              "type": "sightseeing",
+              "coord": [
+                37.976384,
+                23.734949399999998
+              ]
+            },
+            {
+              "name": "Milos",
+              "type": "lunch",
+              "coord": [
+                37.9772537,
+                23.7331247
+              ]
+            },
+            {
+              "name": "Monastiraki Flea Market",
+              "type": "shopping",
+              "coord": [
+                37.9762516,
+                23.7256143
+              ]
+            },
+            {
+              "name": "Delta",
               "type": "dinner",
+              "coord": [
+                38.46665970000001,
+                23.6052823
+              ]
+            },
+            {
+              "name": "Line Athens",
+              "type": "optional",
+              "coord": [
+                37.968616499999996,
+                23.7033509
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Coastal Day — Vouliagmeni to Sounion",
+          "items": [
+            {
+              "name": "Astir Palace Vouliagmeni",
+              "type": "hotel",
+              "coord": [
+                37.805205,
+                23.77115
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.805205,
+                23.77115
+              ]
+            },
+            {
+              "name": "Beach time",
+              "type": "sightseeing",
+              "coord": [
+                37.805205,
+                23.77115
+              ]
+            },
+            {
+              "name": "Varoulko Seaside",
+              "type": "lunch",
+              "coord": [
+                37.937288099999996,
+                23.6585093
+              ]
+            },
+            {
+              "name": "Temple of Poseidon, Sounion",
+              "type": "sightseeing",
+              "coord": [
+                37.6502055,
+                24.024586700000004
+              ]
+            },
+            {
+              "name": "Hytra",
+              "type": "dinner",
+              "coord": [
+                37.9815438,
+                23.7529091
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Santorini",
+          "items": [
+            {
+              "name": "Andronis Arcadia",
+              "type": "hotel",
+              "coord": [
+                36.4638217,
+                25.375454899999998
+              ]
+            },
+            {
+              "name": "Morning flight Athens → Santorini (45min)",
+              "type": "info",
+              "coord": [
+                36.4638217,
+                25.375454899999998
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.805205,
+                23.77115
+              ]
+            },
+            {
+              "name": "Selene",
+              "type": "dinner",
+              "coord": [
+                36.4214959,
+                25.4307765
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Luxury Santorini — Oia",
+          "items": [
+            {
+              "name": "Katikies Hotel",
+              "type": "hotel",
+              "coord": [
+                36.4617363,
+                25.3824513
+              ]
+            },
+            {
+              "name": "Hotel breakfast on private terrace",
+              "type": "breakfast",
+              "coord": [
+                36.4617363,
+                25.3824513
+              ]
+            },
+            {
+              "name": "Spa morning at hotel",
+              "type": "sightseeing",
+              "coord": [
+                36.4617363,
+                25.3824513
+              ]
+            },
+            {
+              "name": "Elements at Canaves",
+              "type": "lunch",
+              "coord": [
+                36.4636405,
+                25.371104300000002
+              ]
+            },
+            {
+              "name": "Sunset Catamaran Cruise",
+              "type": "sightseeing",
+              "coord": [
+                36.4207481,
+                25.432054599999997
+              ]
+            },
+            {
+              "name": "Dinner in the Sky Santorini",
+              "type": "dinner",
+              "coord": [
+                36.394942300000004,
+                25.4389324
+              ]
+            },
+            {
+              "name": "Franco",
+              "type": "optional",
+              "coord": [
+                36.4172,
+                25.4315
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Romance in Santorini",
+          "items": [
+            {
+              "name": "Canaves Oia Epitome",
+              "type": "hotel",
+              "coord": [
+                36.4636385,
+                25.3711066
+              ]
+            },
+            {
+              "name": "Private breakfast at hotel",
+              "type": "breakfast",
+              "coord": [
+                36.4636385,
+                25.3711066
+              ]
+            },
+            {
+              "name": "Couples spa treatment",
+              "type": "sightseeing",
+              "coord": [
+                36.4636385,
+                25.3711066
+              ]
+            },
+            {
+              "name": "Elements at Canaves",
+              "type": "lunch",
+              "coord": [
+                36.4636405,
+                25.371104300000002
+              ]
+            },
+            {
+              "name": "Sunset Catamaran Cruise",
+              "type": "sightseeing",
+              "coord": [
+                36.4207481,
+                25.432054599999997
+              ]
+            },
+            {
+              "name": "Ammoudi Fish Tavern",
+              "type": "dinner",
+              "coord": [
+                36.460585699999996,
+                25.3702063
+              ]
+            },
+            {
+              "name": "Franco",
+              "type": "optional",
+              "coord": [
+                36.4172,
+                25.4315
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Private Villa Day with Caldera Views",
+          "items": [
+            {
+              "name": "Canaves Oia Epitome",
+              "type": "hotel",
+              "coord": [
+                36.4636385,
+                25.3711066
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                36.4636385,
+                25.3711066
+              ]
+            },
+            {
+              "name": "Free morning to explore Santorini",
+              "type": "sightseeing",
+              "coord": [
+                36.4636385,
+                25.3711066
+              ]
+            },
+            {
+              "name": "Selene",
+              "type": "lunch",
+              "coord": [
+                36.4214959,
+                25.4307765
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                36.4636385,
+                25.3711066
+              ]
+            },
+            {
+              "name": "Elements at Canaves",
+              "type": "dinner",
+              "coord": [
+                36.4636405,
+                25.371104300000002
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Travel to Mykonos",
+          "items": [
+            {
+              "name": "Santa Marina Resort",
+              "type": "hotel",
+              "coord": [
+                37.418268999999995,
+                25.3261947
+              ]
+            },
+            {
+              "name": "Ferry Santorini → Mykonos (2.5hr)",
+              "type": "info",
+              "coord": [
+                37.418268999999995,
+                25.3261947
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                36.4636385,
+                25.3711066
+              ]
+            },
+            {
               "name": "Matsuhisa Mykonos",
+              "type": "dinner",
               "coord": [
                 37.443286799999996,
                 25.330097400000003
@@ -7233,47 +6910,744 @@
           ]
         },
         {
-          "day": 14,
-          "title": "Mykonos to Athens Departure",
+          "label": "Day 8 — Luxury Indulgence — Mykonos",
           "items": [
             {
+              "name": "Secrets Alystra Mykonos",
+              "type": "hotel",
+              "coord": [
+                37.4476053,
+                25.3385829
+              ]
+            },
+            {
+              "name": "Private breakfast service",
               "type": "breakfast",
-              "name": "Resort breakfast",
               "coord": [
-                35.336833,
-                25.072803
+                37.4476053,
+                25.3385829
               ]
             },
             {
+              "name": "Morning spa treatment",
               "type": "sightseeing",
-              "name": "Elia Beach",
               "coord": [
-                37.42052,
-                25.39371
+                37.4476053,
+                25.3385829
               ]
             },
             {
+              "name": "Matsuhisa Mykonos",
               "type": "lunch",
-              "name": "Beach lunch",
               "coord": [
-                37.42052,
-                25.39371
+                37.443286799999996,
+                25.330097400000003
               ]
             },
             {
+              "name": "Infinity pool relaxation",
               "type": "sightseeing",
-              "name": "Ferry/Flight to Athens",
               "coord": [
-                37.9715,
-                23.7257
+                37.4476053,
+                25.3385829
               ]
             },
             {
+              "name": "Scorpios",
               "type": "dinner",
+              "coord": [
+                37.4069079,
+                25.347629599999998
+              ]
+            },
+            {
+              "name": "180° Sunset Bar",
+              "type": "optional",
+              "coord": [
+                37.4493483,
+                25.3323987
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Romantic Escape — Mykonos",
+          "items": [
+            {
+              "name": "Cavo Tagoo",
+              "type": "hotel",
+              "coord": [
+                37.456664599999996,
+                25.328948600000004
+              ]
+            },
+            {
+              "name": "Champagne breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.456664599999996,
+                25.328948600000004
+              ]
+            },
+            {
+              "name": "Infinity pool relaxation",
+              "type": "sightseeing",
+              "coord": [
+                37.456664599999996,
+                25.328948600000004
+              ]
+            },
+            {
+              "name": "Matsuhisa Mykonos",
+              "type": "lunch",
+              "coord": [
+                37.443286799999996,
+                25.330097400000003
+              ]
+            },
+            {
+              "name": "Windmills of Mykonos",
+              "type": "sightseeing",
+              "coord": [
+                37.444582499999996,
+                25.3259318
+              ]
+            },
+            {
+              "name": "Scorpios",
+              "type": "dinner",
+              "coord": [
+                37.4069079,
+                25.347629599999998
+              ]
+            },
+            {
+              "name": "180° Sunset Bar",
+              "type": "optional",
+              "coord": [
+                37.4493483,
+                25.3323987
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "e": {
+      "name": "Culinary Odyssey (10 Days)",
+      "description": "Food-lover's journey from Athens markets through Cretan vineyards to island tavernas, tracing Greece's culinary soul.",
+      "days": [
+        {
+          "label": "Day 1 — Gastronomic Athens — Central Markets to Fine Dining",
+          "items": [
+            {
+              "name": "Hotel Grande Bretagne Athens",
+              "type": "hotel",
+              "coord": [
+                37.976178,
+                23.7353123
+              ]
+            },
+            {
+              "name": "Athens Food Tour",
+              "type": "breakfast",
+              "coord": [
+                37.9794102,
+                23.7267002
+              ]
+            },
+            {
+              "name": "Varvakios Central Market",
+              "type": "sightseeing",
+              "coord": [
+                37.980428599999996,
+                23.7276638
+              ]
+            },
+            {
+              "name": "Diporto Agoras",
+              "type": "lunch",
+              "coord": [
+                37.980747799999996,
+                23.7258382
+              ]
+            },
+            {
+              "name": "CookInAthens Class",
+              "type": "sightseeing",
+              "coord": [
+                37.9803704,
+                23.722988899999997
+              ]
+            },
+            {
               "name": "Funky Gourmet",
+              "type": "dinner",
               "coord": [
                 37.9831192,
                 23.715986899999997
+              ]
+            },
+            {
+              "name": "Baba Au Rum",
+              "type": "optional",
+              "coord": [
+                37.9773968,
+                23.729854200000002
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Local Life — Psyrri, Gazi & Markets",
+          "items": [
+            {
+              "name": "Kenshington Hotel",
+              "type": "hotel",
+              "coord": [
+                37.98244,
+                23.73689
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.98244,
+                23.73689
+              ]
+            },
+            {
+              "name": "Psyrri Antique Market",
+              "type": "shopping",
+              "coord": [
+                37.9767959,
+                23.723744300000003
+              ]
+            },
+            {
+              "name": "To Theyma tou Psyrri",
+              "type": "lunch",
+              "coord": [
+                37.979089900000005,
+                23.7253963
+              ]
+            },
+            {
+              "name": "Athens Olive Oil Market",
+              "type": "sightseeing",
+              "coord": [
+                37.9788794,
+                23.742796199999997
+              ]
+            },
+            {
+              "name": "O Glentis",
+              "type": "dinner",
+              "coord": [
+                37.9523189,
+                23.694910999999998
+              ]
+            },
+            {
+              "name": "Aleria",
+              "type": "optional",
+              "coord": [
+                37.9830778,
+                23.7177722
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Central Cyclades",
+          "items": [
+            {
+              "name": "Sunshine Villas Paros",
+              "type": "hotel",
+              "coord": [
+                37.004924800000005,
+                25.2287292
+              ]
+            },
+            {
+              "name": "Morning ferry Athens → Naxos (4hr) or flight (40min)",
+              "type": "info",
+              "coord": [
+                37.004924800000005,
+                25.2287292
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.98244,
+                23.73689
+              ]
+            },
+            {
+              "name": "Axiotissa",
+              "type": "dinner",
+              "coord": [
+                37.005437,
+                25.394973
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Foodie Adventure — Naxos",
+          "items": [
+            {
+              "name": "Sunshine Villas Paros",
+              "type": "hotel",
+              "coord": [
+                37.004924800000005,
+                25.2287292
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.004924800000005,
+                25.2287292
+              ]
+            },
+            {
+              "name": "Island Foraging Tour",
+              "type": "sightseeing",
+              "coord": [
+                37.008,
+                25.354
+              ]
+            },
+            {
+              "name": "Axiotissa",
+              "type": "lunch",
+              "coord": [
+                37.005437,
+                25.394973
+              ]
+            },
+            {
+              "name": "Naxos Old Market",
+              "type": "shopping",
+              "coord": [
+                37.106588099999996,
+                25.3752593
+              ]
+            },
+            {
+              "name": "Naxos Town Taverna",
+              "type": "dinner",
+              "coord": [
+                37.1036475,
+                25.375810899999998
+              ]
+            },
+            {
+              "name": "Local wine tasting",
+              "type": "optional",
+              "coord": [
+                37.1036475,
+                25.375810899999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Artisan Discovery — Paros & Naxos",
+          "items": [
+            {
+              "name": "Sunshine Villas Paros",
+              "type": "hotel",
+              "coord": [
+                37.004924800000005,
+                25.2287292
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.004924800000005,
+                25.2287292
+              ]
+            },
+            {
+              "name": "Paros Artisan Market",
+              "type": "shopping",
+              "coord": [
+                37.084733,
+                25.150106599999997
+              ]
+            },
+            {
+              "name": "Petros Taverna Paros",
+              "type": "lunch",
+              "coord": [
+                37.0855799,
+                25.14817
+              ]
+            },
+            {
+              "name": "Paros Marble Quarries",
+              "type": "sightseeing",
+              "coord": [
+                37.0825575,
+                25.2003402
+              ]
+            },
+            {
+              "name": "Naxos Old Market",
+              "type": "shopping",
+              "coord": [
+                37.106588099999996,
+                25.3752593
+              ]
+            },
+            {
+              "name": "Axiotissa",
+              "type": "dinner",
+              "coord": [
+                37.005437,
+                25.394973
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Travel to Central Crete",
+          "items": [
+            {
+              "name": "Royal Senses Resort",
+              "type": "hotel",
+              "coord": [
+                35.4167053,
+                24.6579518
+              ]
+            },
+            {
+              "name": "Ferry Naxos → Heraklion (3hr)",
+              "type": "info",
+              "coord": [
+                35.4167053,
+                24.6579518
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                37.004924800000005,
+                25.2287292
+              ]
+            },
+            {
+              "name": "Peskesi",
+              "type": "dinner",
+              "coord": [
+                35.3402096,
+                25.132484599999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Culinary Journey — Heraklion to Elounda",
+          "items": [
+            {
+              "name": "Daios Cove",
+              "type": "hotel",
+              "coord": [
+                35.1466,
+                25.720067
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.1466,
+                25.720067
+              ]
+            },
+            {
+              "name": "Heraklion Market Street",
+              "type": "shopping",
+              "coord": [
+                35.3384076,
+                25.1331402
+              ]
+            },
+            {
+              "name": "Crete Honey & Herbs Market",
+              "type": "shopping",
+              "coord": [
+                35.3372355,
+                25.131751899999998
+              ]
+            },
+            {
+              "name": "Peskesi",
+              "type": "lunch",
+              "coord": [
+                35.3402096,
+                25.132484599999998
+              ]
+            },
+            {
+              "name": "Free afternoon at hotel beach",
+              "type": "sightseeing",
+              "coord": [
+                35.1466,
+                25.720067
+              ]
+            },
+            {
+              "name": "Elounda Dining",
+              "type": "dinner",
+              "coord": [
+                35.2625421,
+                25.7214554
+              ]
+            },
+            {
+              "name": "Digestif at hotel bar",
+              "type": "optional",
+              "coord": [
+                35.1466,
+                25.720067
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Market & History — Heraklion",
+          "items": [
+            {
+              "name": "Pelagos Crete",
+              "type": "hotel",
+              "coord": [
+                35.1917425,
+                25.718620299999998
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.1917425,
+                25.718620299999998
+              ]
+            },
+            {
+              "name": "Heraklion Market Street",
+              "type": "shopping",
+              "coord": [
+                35.3384076,
+                25.1331402
+              ]
+            },
+            {
+              "name": "Crete Honey & Herbs Market",
+              "type": "shopping",
+              "coord": [
+                35.3372355,
+                25.131751899999998
+              ]
+            },
+            {
+              "name": "Peskesi",
+              "type": "lunch",
+              "coord": [
+                35.3402096,
+                25.132484599999998
+              ]
+            },
+            {
+              "name": "Palace of Knossos",
+              "type": "sightseeing",
+              "coord": [
+                35.297956899999996,
+                25.1627815
+              ]
+            },
+            {
+              "name": "Elounda Dining",
+              "type": "dinner",
+              "coord": [
+                35.2625421,
+                25.7214554
+              ]
+            },
+            {
+              "name": "Evening stroll with purchases",
+              "type": "optional",
+              "coord": [
+                35.1917425,
+                25.718620299999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Travel to Western Crete",
+          "items": [
+            {
+              "name": "Domes Zeen Chania",
+              "type": "hotel",
+              "coord": [
+                35.5085778,
+                23.997110199999998
+              ]
+            },
+            {
+              "name": "Morning drive Heraklion → Chania (1hr)",
+              "type": "info",
+              "coord": [
+                35.5085778,
+                23.997110199999998
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.1917425,
+                25.718620299999998
+              ]
+            },
+            {
+              "name": "Thalassino Ageri",
+              "type": "dinner",
+              "coord": [
+                35.5198494,
+                24.0371114
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Foodie Tour — Chania & Rethymnon",
+          "items": [
+            {
+              "name": "Domes Zeen Chania",
+              "type": "hotel",
+              "coord": [
+                35.5085778,
+                23.997110199999998
+              ]
+            },
+            {
+              "name": "Chania Central Market",
+              "type": "breakfast",
+              "coord": [
+                35.514110099999996,
+                24.0203575
+              ]
+            },
+            {
+              "name": "Market tasting and shopping",
+              "type": "sightseeing",
+              "coord": [
+                35.514110099999996,
+                24.0203575
+              ]
+            },
+            {
+              "name": "Tamam",
+              "type": "lunch",
+              "coord": [
+                35.5165331,
+                24.0163838
+              ]
+            },
+            {
+              "name": "Rethymnon Food Market",
+              "type": "sightseeing",
+              "coord": [
+                35.365840899999995,
+                24.474227900000002
+              ]
+            },
+            {
+              "name": "Rethymno Waterfront",
+              "type": "dinner",
+              "coord": [
+                35.3712928,
+                24.476365899999998
+              ]
+            },
+            {
+              "name": "Rethymnon Old Town evening walk",
+              "type": "optional",
+              "coord": [
+                35.3695613,
+                24.472755000000003
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 11 — Market Circuit — Chania to Rethymnon",
+          "items": [
+            {
+              "name": "Ammos Hotel",
+              "type": "hotel",
+              "coord": [
+                35.5112507,
+                23.9751379
+              ]
+            },
+            {
+              "name": "Light hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.5112507,
+                23.9751379
+              ]
+            },
+            {
+              "name": "Chania Central Market",
+              "type": "shopping",
+              "coord": [
+                35.514110099999996,
+                24.0203575
+              ]
+            },
+            {
+              "name": "Market tastings and lunch",
+              "type": "lunch",
+              "coord": [
+                35.514110099999996,
+                24.0203575
+              ]
+            },
+            {
+              "name": "Rethymnon Food Market",
+              "type": "shopping",
+              "coord": [
+                35.365840899999995,
+                24.474227900000002
+              ]
+            },
+            {
+              "name": "Rethymnon Old Town",
+              "type": "sightseeing",
+              "coord": [
+                35.3695613,
+                24.472755000000003
+              ]
+            },
+            {
+              "name": "Rethymno Waterfront",
+              "type": "dinner",
+              "coord": [
+                35.3712928,
+                24.476365899999998
               ]
             }
           ]

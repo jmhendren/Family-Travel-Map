@@ -6174,438 +6174,350 @@
   "itineraryData": {
     "a": {
       "name": "Greatest Hits (7 Days)",
-      "color": "#2563EB",
       "days": [
         {
-          "day": 1,
-          "title": "Tokyo Arrival",
+          "label": "Day 1 — Tokyo Arrival & Icons",
           "items": [
             {
+              "name": "Park Hyatt Tokyo",
               "type": "hotel",
-              "name": "Hoshinoya Tokyo",
               "coord": [
-                35.6878409,
-                139.7651065
+                35.6861125,
+                139.6904007
               ]
             },
             {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "In-flight meal",
               "coord": [
-                35.6877,
-                139.765
+                35.6861125,
+                139.6904007
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Meiji Jingu",
-              "coord": [
-                35.6763976,
-                139.6993259
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Afuri",
-              "coord": [
-                35.648302199999996,
-                139.710881
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "teamLab Borderless",
-              "coord": [
-                35.662103099999996,
-                139.7432609
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "SÉZANNE",
-              "coord": [
-                35.6780884,
-                139.7668704
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Kiddyland Harajuku",
-              "coord": [
-                35.667733,
-                139.7065474
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Tokyo — Markets & Culture",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hoshinoya Tokyo",
-              "coord": [
-                35.6878409,
-                139.7651065
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Tsukiji Outer Market",
-              "coord": [
-                35.6647703,
-                139.7702515
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Senso-ji Temple",
+              "type": "sightseeing",
               "coord": [
                 35.7147651,
                 139.7966553
               ]
             },
             {
+              "name": "Lunch in Asakusa",
               "type": "lunch",
-              "name": "Fuunji",
               "coord": [
-                35.6868343,
-                139.6966393
+                35.7147651,
+                139.7966553
               ]
             },
             {
+              "name": "Meiji Shrine & Harajuku",
               "type": "sightseeing",
-              "name": "Shinjuku Gyoen",
               "coord": [
-                35.685176299999995,
-                139.7100517
+                35.6763976,
+                139.6993259
               ]
             },
             {
+              "name": "Sukiyabashi Jiro Honten",
               "type": "dinner",
-              "name": "Den",
               "coord": [
-                35.6731762,
-                139.71272159999998
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "ASOBONO indoor play",
-              "coord": [
-                35.708,
-                139.754
+                35.672740399999995,
+                139.7639378
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Tokyo — Food & Design",
+          "label": "Day 2 — Tokyo Art & Culture",
           "items": [
             {
-              "type": "hotel",
-              "name": "Hoshinoya Tokyo",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                35.6878409,
-                139.7651065
+                35.6861125,
+                139.6904007
               ]
             },
             {
-              "type": "breakfast",
-              "name": "Onibus Coffee",
+              "name": "teamLab Borderless",
+              "type": "sightseeing",
+              "coord": [
+                35.662103099999996,
+                139.7432609
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
               "coord": [
                 35.6431767,
                 139.6980318
               ]
             },
             {
+              "name": "Tsukij i Outer Market",
               "type": "sightseeing",
-              "name": "Shimokitazawa Vintage",
               "coord": [
-                35.6604233,
-                139.6681317
+                35.6647703,
+                139.7702515
               ]
             },
             {
-              "type": "lunch",
-              "name": "Butagumi",
-              "coord": [
-                35.6609663,
-                139.7221289
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kappabashi Street",
-              "coord": [
-                35.7105797,
-                139.7879645
-              ]
-            },
-            {
+              "name": "Narisawa",
               "type": "dinner",
-              "name": "Tempura Kondo",
               "coord": [
-                35.6711696,
-                139.7631786
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Bar Benfiddich",
-              "coord": [
-                35.6894823,
-                139.6966117
+                35.6715648,
+                139.7218885
               ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Hakone",
+          "label": "Day 3 — Tokyo to Hakone",
           "items": [
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.6861125,
+                139.6904007
+              ]
+            },
+            {
+              "name": "Train Tokyo → Hakone (90 min)",
+              "type": "info",
+              "coord": [
+                35.68,
+                139.77
+              ]
+            },
+            {
+              "name": "Gora Kadan (Hakone)",
               "type": "hotel",
-              "name": "Gora Kadan",
               "coord": [
                 35.247364399999995,
                 139.04856139999998
               ]
             },
             {
-              "type": "breakfast",
-              "name": "Hoshinoya checkout breakfast",
-              "coord": [
-                35.6877,
-                139.765
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Romance Car to Hakone",
-              "coord": [
-                35.2483,
-                139.0673
-              ]
-            },
-            {
+              "name": "Lunch at hotel",
               "type": "lunch",
-              "name": "Hakone Open Air Museum café",
               "coord": [
-                35.244,
-                139.052
+                35.247364399999995,
+                139.04856139999998
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Hakone Open Air Museum",
+              "type": "sightseeing",
               "coord": [
                 35.2451601,
                 139.0507271
               ]
             },
             {
+              "name": "Onsen at hotel",
               "type": "dinner",
-              "name": "Kaiseki at Gora Kadan",
               "coord": [
-                35.2483,
-                139.0673
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Hakone Yuryo private onsen",
-              "coord": [
-                35.234,
-                139.096
+                35.247364399999995,
+                139.04856139999998
               ]
             }
           ]
         },
         {
-          "day": 5,
-          "title": "Kyoto — Temples & Gion",
+          "label": "Day 4 — Hakone Relaxation",
           "items": [
             {
-              "type": "hotel",
-              "name": "Four Seasons Kyoto",
-              "coord": [
-                34.9906846,
-                135.77612299999998
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Gora Kadan checkout",
               "coord": [
-                35.2483,
-                139.0673
+                35.247364399999995,
+                139.04856139999998
               ]
             },
             {
+              "name": "Hakone Kowakien Yunessun",
               "type": "sightseeing",
-              "name": "Shinkansen to Kyoto, Fushimi Inari early",
               "coord": [
-                34.967,
-                135.773
+                35.239422399999995,
+                139.0453369
               ]
             },
             {
+              "name": "Lunch",
               "type": "lunch",
-              "name": "Nishiki Market grazing",
               "coord": [
-                35.005,
-                135.766
+                35.247364399999995,
+                139.04856139999998
               ]
             },
             {
-              "type": "sightseeing",
+              "name": "Onsen time",
+              "type": "nap",
+              "coord": [
+                35.247364399999995,
+                139.04856139999998
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                35.247364399999995,
+                139.04856139999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Hakone to Kyoto",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.247364399999995,
+                139.04856139999998
+              ]
+            },
+            {
+              "name": "Train Hakone → Kyoto (4h 30min)",
+              "type": "info",
+              "coord": [
+                35.0,
+                138.5
+              ]
+            },
+            {
+              "name": "Six Senses Kyoto",
+              "type": "hotel",
+              "coord": [
+                34.9909956,
+                135.7743567
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                34.9909956,
+                135.7743567
+              ]
+            },
+            {
               "name": "Kinkaku-ji Golden Pavilion",
+              "type": "sightseeing",
               "coord": [
                 35.03937,
                 135.7292431
               ]
             },
             {
+              "name": "Kitcho Arashiyama",
               "type": "dinner",
-              "name": "Kikunoi",
               "coord": [
-                35.0014754,
-                135.7820562
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Gion evening walk",
-              "coord": [
-                35.004,
-                135.776
+                35.0136211,
+                135.6746552
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Kyoto & Nara",
+          "label": "Day 6 — Kyoto to Osaka",
           "items": [
             {
-              "type": "hotel",
-              "name": "Four Seasons Kyoto",
-              "coord": [
-                34.9906846,
-                135.77612299999998
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Hotel garden breakfast",
               "coord": [
-                34.991,
-                135.776
+                34.9909956,
+                135.7743567
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Arashiyama Bamboo Grove",
+              "type": "sightseeing",
               "coord": [
                 35.0168187,
                 135.67130129999998
               ]
             },
             {
+              "name": "Train Kyoto → Osaka (30 min)",
+              "type": "info",
+              "coord": [
+                34.77,
+                135.65
+              ]
+            },
+            {
+              "name": "Waldorf Astoria Osaka",
+              "type": "hotel",
+              "coord": [
+                34.702998199999996,
+                135.4915467
+              ]
+            },
+            {
+              "name": "Lunch",
               "type": "lunch",
-              "name": "Honke Owariya",
               "coord": [
-                35.013,
-                135.76
+                34.702998199999996,
+                135.4915467
               ]
             },
             {
+              "name": "Dotonbori Food Stalls",
               "type": "sightseeing",
-              "name": "Nara Park deer",
               "coord": [
-                34.683,
-                135.855
+                34.668865499999995,
+                135.50467469999998
               ]
             },
             {
+              "name": "Hajime",
               "type": "dinner",
-              "name": "Kitcho Arashiyama",
               "coord": [
-                35.0136211,
-                135.6746552
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Pokemon Center Kyoto",
-              "coord": [
-                35.003416699999995,
-                135.75838389999998
+                34.688713199999995,
+                135.49605739999998
               ]
             }
           ]
         },
         {
-          "day": 7,
-          "title": "Osaka & Departure",
+          "label": "Day 7 — Osaka Departure",
           "items": [
             {
-              "type": "hotel",
-              "name": "Departure",
-              "coord": [
-                34.703,
-                135.491
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Four Seasons checkout",
               "coord": [
-                34.991,
-                135.776
+                34.702998199999996,
+                135.4915467
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Shinkansen to Osaka, Dotonbori",
-              "coord": [
-                34.669,
-                135.502
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Ajinoya okonomiyaki",
-              "coord": [
-                34.668,
-                135.501
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Kuromon Market",
+              "type": "sightseeing",
               "coord": [
                 34.6653529,
                 135.5062406
               ]
             },
             {
-              "type": "dinner",
-              "name": "Kashiwaya",
+              "name": "Lunch",
+              "type": "lunch",
               "coord": [
-                34.696899,
-                135.5005309
+                34.6653529,
+                135.5062406
               ]
             },
             {
-              "type": "optional",
-              "name": "Kids Plaza Osaka",
+              "name": "Departure",
+              "type": "info",
               "coord": [
-                34.7045728,
-                135.5104418
+                34.702998199999996,
+                135.4915467
               ]
             }
           ]
@@ -6613,415 +6525,518 @@
       ]
     },
     "b": {
-      "name": "Hidden Gems (7 Days)",
-      "color": "#059669",
+      "name": "Family Comfort (10 Days)",
       "days": [
         {
-          "day": 1,
-          "title": "Tokyo Arrival — Neighborhood Deep Dive",
+          "label": "Day 1 — Tokyo Arrival",
           "items": [
             {
+              "name": "Hotel Okura Tokyo",
               "type": "hotel",
-              "name": "K5 Tokyo",
               "coord": [
-                35.6828966,
-                139.7781422
+                35.6671751,
+                139.7438601
               ]
             },
             {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "In-flight meal",
               "coord": [
-                35.677,
-                139.764
+                35.6671751,
+                139.7438601
               ]
             },
             {
+              "name": "Shinjuku Gyoen",
               "type": "sightseeing",
-              "name": "Yanaka Ginza retro shotengai",
               "coord": [
-                35.728,
-                139.765
+                35.685176299999995,
+                139.7100517
               ]
             },
             {
+              "name": "Lunch",
               "type": "lunch",
-              "name": "Tsukiji Toritoh",
               "coord": [
-                35.666054700000004,
-                139.77041119999998
+                35.685176299999995,
+                139.7100517
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Nakano Broadway",
+              "name": "Free afternoon",
+              "type": "nap",
               "coord": [
-                35.7092475,
-                139.66565240000003
+                35.6671751,
+                139.7438601
               ]
             },
             {
+              "name": "Tsurutontan Udon",
               "type": "dinner",
-              "name": "Narukiyo",
               "coord": [
-                35.6604946,
-                139.7078329
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Gen Yamamoto cocktail omakase",
-              "coord": [
-                35.656,
-                139.734
+                35.6953842,
+                139.703149
               ]
             }
           ]
         },
         {
-          "day": 2,
-          "title": "Tokyo — Art & Underground",
+          "label": "Day 2 — Tokyo Family",
           "items": [
             {
-              "type": "hotel",
-              "name": "K5 Tokyo",
-              "coord": [
-                35.6828966,
-                139.7781422
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Fugulen Coffee",
               "coord": [
-                35.663,
-                139.696
+                35.6671751,
+                139.7438601
               ]
             },
             {
+              "name": "Ghibli Museum",
               "type": "sightseeing",
-              "name": "teamLab Planets",
               "coord": [
-                35.6491207,
-                139.7897739
+                35.696238,
+                139.5704317
               ]
             },
             {
+              "name": "Lunch",
               "type": "lunch",
-              "name": "Ichiran Shibuya",
               "coord": [
-                35.6611185,
-                139.7009846
+                35.696238,
+                139.5704317
               ]
             },
             {
+              "name": "Nap time",
+              "type": "nap",
+              "coord": [
+                35.6671751,
+                139.7438601
+              ]
+            },
+            {
+              "name": "Ueno Zoo",
               "type": "sightseeing",
-              "name": "Shimokitazawa vintage & Disk Union",
               "coord": [
-                35.662,
-                139.667
+                35.716015299999995,
+                139.77288199999998
               ]
             },
             {
+              "name": "Casual dinner",
               "type": "dinner",
-              "name": "Torishiki",
               "coord": [
-                35.6342782,
-                139.7168892
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "The Bellwood cocktails",
-              "coord": [
-                35.663,
-                139.695
+                35.716015299999995,
+                139.77288199999998
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Kanazawa — Samurai & Seafood",
+          "label": "Day 3 — Tokyo to Hakone",
           "items": [
             {
-              "type": "hotel",
-              "name": "Hyatt Centric Kanazawa",
-              "coord": [
-                36.5800473,
-                136.6478362
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "K5 checkout, Shinkansen",
               "coord": [
-                35.681,
-                139.766
+                35.6671751,
+                139.7438601
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Kenrokuen Garden",
+              "name": "Train Tokyo → Hakone (90 min)",
+              "type": "info",
               "coord": [
-                36.5621278,
-                136.66265149999998
+                35.68,
+                139.77
               ]
             },
             {
+              "name": "Hotel Mitsui Hakone",
+              "type": "hotel",
+              "coord": [
+                35.2394536,
+                139.0533051
+              ]
+            },
+            {
+              "name": "Lunch at hotel",
               "type": "lunch",
-              "name": "Omicho Market seafood",
               "coord": [
-                36.571,
-                136.657
+                35.2394536,
+                139.0533051
               ]
             },
             {
+              "name": "Thomas Land",
               "type": "sightseeing",
-              "name": "21st Century Museum of Art",
               "coord": [
-                36.560871299999995,
-                136.6585251
+                35.4861991,
+                138.7814677
               ]
             },
             {
+              "name": "Dinner at hotel",
               "type": "dinner",
-              "name": "Otome Sushi",
               "coord": [
-                36.561437,
-                136.65169330000003
+                35.2394536,
+                139.0533051
               ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Kanazawa — Geisha & Gold Leaf",
+          "label": "Day 4 — Hakone Relax",
           "items": [
             {
-              "type": "hotel",
-              "name": "Hyatt Centric Kanazawa",
-              "coord": [
-                36.5800473,
-                136.6478362
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Omicho Market breakfast",
               "coord": [
-                36.571,
-                136.657
+                35.2394536,
+                139.0533051
               ]
             },
             {
+              "name": "Hakone Kowakien Yunessun",
               "type": "sightseeing",
-              "name": "Higashi Chaya geisha district",
               "coord": [
-                36.572,
-                136.665
+                35.239422399999995,
+                139.0453369
               ]
             },
             {
+              "name": "Lunch",
               "type": "lunch",
-              "name": "Tsubajin",
               "coord": [
-                36.555233099999995,
-                136.6513816
+                35.2394536,
+                139.0533051
               ]
             },
             {
+              "name": "Nap time",
+              "type": "nap",
+              "coord": [
+                35.2394536,
+                139.0533051
+              ]
+            },
+            {
+              "name": "Free afternoon",
               "type": "sightseeing",
-              "name": "Nagamachi samurai district",
               "coord": [
-                36.563,
-                136.651
+                35.2394536,
+                139.0533051
               ]
             },
             {
+              "name": "Dinner at hotel",
               "type": "dinner",
-              "name": "Zeniya",
               "coord": [
-                36.5607226,
-                136.6499747
+                35.2394536,
+                139.0533051
               ]
             }
           ]
         },
         {
-          "day": 5,
-          "title": "Narai-juku — Nakasendo Trail",
+          "label": "Day 5 — Hakone to Kyoto",
           "items": [
             {
-              "type": "hotel",
-              "name": "Byaku Narai",
-              "coord": [
-                35.966197799999996,
-                137.8121098
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Hotel breakfast, train through Alps",
               "coord": [
-                36.569,
-                136.66
+                35.2394536,
+                139.0533051
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Walk historic Nakasendo post town",
+              "name": "Train Hakone → Kyoto (4h 30min)",
+              "type": "info",
               "coord": [
-                35.96,
-                137.811
+                35.0,
+                138.5
               ]
             },
             {
+              "name": "Four Seasons Kyoto",
+              "type": "hotel",
+              "coord": [
+                34.9906846,
+                135.77612299999998
+              ]
+            },
+            {
+              "name": "Lunch",
               "type": "lunch",
-              "name": "Narai-juku soba shop",
               "coord": [
-                35.96,
-                137.811
+                34.9906846,
+                135.77612299999998
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Edo-era merchants' houses",
+              "name": "Nap time",
+              "type": "nap",
               "coord": [
-                35.96,
-                137.811
+                34.9906846,
+                135.77612299999998
               ]
             },
             {
+              "name": "Dinner at hotel",
               "type": "dinner",
-              "name": "Byaku Narai kaiseki",
               "coord": [
-                35.96,
-                137.811
+                34.9906846,
+                135.77612299999998
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Kyoto — Hidden Temples",
+          "label": "Day 6 — Kyoto Temples",
           "items": [
             {
-              "type": "hotel",
-              "name": "Ace Hotel Kyoto",
-              "coord": [
-                35.009774,
-                135.7599798
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Byaku Narai checkout, train to Kyoto",
               "coord": [
-                35.96,
-                137.811
+                34.9906846,
+                135.77612299999998
               ]
             },
             {
+              "name": "Nara Park & temples",
               "type": "sightseeing",
-              "name": "Honen-in Temple & Philosopher's Path",
               "coord": [
-                35.024,
-                135.797
+                34.685047,
+                135.843012
               ]
             },
             {
+              "name": "Lunch",
               "type": "lunch",
-              "name": "Guilo Guilo Hitoshina",
               "coord": [
-                34.9981025,
-                135.7677506
+                34.685047,
+                135.843012
               ]
             },
             {
+              "name": "Nap time",
+              "type": "nap",
+              "coord": [
+                34.9906846,
+                135.77612299999998
+              ]
+            },
+            {
+              "name": "Arashiyama Bamboo Grove",
               "type": "sightseeing",
-              "name": "Gio-ji Temple moss garden",
               "coord": [
-                35.024,
-                135.667
+                35.0168187,
+                135.67130129999998
               ]
             },
             {
+              "name": "Dinner at hotel",
               "type": "dinner",
-              "name": "Gion Owatari",
               "coord": [
-                35.001409599999995,
-                135.7770643
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "L'Escamoteur steampunk bar",
-              "coord": [
-                35.002,
-                135.77
+                34.9906846,
+                135.77612299999998
               ]
             }
           ]
         },
         {
-          "day": 7,
-          "title": "Kyoto — Sake & Moss",
+          "label": "Day 7 — Kyoto Relax",
           "items": [
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.9906846,
+                135.77612299999998
+              ]
+            },
+            {
+              "name": "Free morning",
+              "type": "sightseeing",
+              "coord": [
+                34.9906846,
+                135.77612299999998
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                34.9906846,
+                135.77612299999998
+              ]
+            },
+            {
+              "name": "Nap time",
+              "type": "nap",
+              "coord": [
+                34.9906846,
+                135.77612299999998
+              ]
+            },
+            {
+              "name": "Kinkaku-ji Golden Pavilion",
+              "type": "sightseeing",
+              "coord": [
+                35.03937,
+                135.7292431
+              ]
+            },
+            {
+              "name": "Dinner",
+              "type": "dinner",
+              "coord": [
+                34.9906846,
+                135.77612299999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Kyoto to Osaka",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.9906846,
+                135.77612299999998
+              ]
+            },
+            {
+              "name": "Train Kyoto → Osaka (30 min)",
+              "type": "info",
+              "coord": [
+                34.77,
+                135.65
+              ]
+            },
+            {
+              "name": "Patina Osaka",
               "type": "hotel",
+              "coord": [
+                34.681912499999996,
+                135.5247714
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                34.681912499999996,
+                135.5247714
+              ]
+            },
+            {
+              "name": "Kids Plaza Osaka",
+              "type": "sightseeing",
+              "coord": [
+                34.7045728,
+                135.5104418
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                34.681912499999996,
+                135.5247714
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Osaka Family Fun",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.681912499999996,
+                135.5247714
+              ]
+            },
+            {
+              "name": "Solaniwa Onsen",
+              "type": "sightseeing",
+              "coord": [
+                34.6703579,
+                135.4595476
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                34.681912499999996,
+                135.5247714
+              ]
+            },
+            {
+              "name": "Nap time",
+              "type": "nap",
+              "coord": [
+                34.681912499999996,
+                135.5247714
+              ]
+            },
+            {
+              "name": "Osaka Aquarium Kaiyukan",
+              "type": "sightseeing",
+              "coord": [
+                34.6545182,
+                135.4289645
+              ]
+            },
+            {
+              "name": "Casual dinner",
+              "type": "dinner",
+              "coord": [
+                34.681912499999996,
+                135.5247714
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Osaka Departure",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.681912499999996,
+                135.5247714
+              ]
+            },
+            {
+              "name": "Kuromon Market",
+              "type": "sightseeing",
+              "coord": [
+                34.6653529,
+                135.5062406
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                34.6653529,
+                135.5062406
+              ]
+            },
+            {
               "name": "Departure",
+              "type": "info",
               "coord": [
-                35.011,
-                135.762
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Ace Hotel rooftop",
-              "coord": [
-                35.011,
-                135.762
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Saihoji Moss Temple",
-              "coord": [
-                34.9921777,
-                135.6837103
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Fushimi Sake District tasting",
-              "coord": [
-                34.933,
-                135.76
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Nijo Castle nightingale floors",
-              "coord": [
-                35.014,
-                135.748
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Roan Kikunoi",
-              "coord": [
-                35.00345130000001,
-                135.7706684
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Bee's Knees Gion",
-              "coord": [
-                35.004,
-                135.776
+                34.681912499999996,
+                135.5247714
               ]
             }
           ]
@@ -7029,1516 +7044,295 @@
       ]
     },
     "c": {
-      "name": "Family Comfort (10 Days)",
-      "color": "#D97706",
+      "name": "Grand Tour (14 Days)",
       "days": [
         {
-          "day": 1,
-          "title": "Tokyo Arrival",
+          "label": "Day 1 — Tokyo Arrival & Icons",
           "items": [
             {
-              "type": "hotel",
               "name": "Park Hyatt Tokyo",
+              "type": "hotel",
               "coord": [
                 35.6861125,
                 139.6904007
               ]
             },
             {
-              "type": "breakfast",
-              "name": "In-flight meal",
-              "coord": [
-                35.6873,
-                139.711
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Shinjuku Gyoen gardens",
-              "coord": [
-                35.685,
-                139.71
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tsurutontan Udon",
-              "coord": [
-                35.6953842,
-                139.703149
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "New York Grill at Park Hyatt",
-              "coord": [
-                35.6873,
-                139.711
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Tokyo — Kid Adventures",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Park Hyatt Tokyo",
-              "coord": [
-                35.6861125,
-                139.6904007
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Tsukiji Outer Market",
-              "coord": [
-                35.6647703,
-                139.7702515
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "teamLab Borderless",
-              "coord": [
-                35.662103099999996,
-                139.7432609
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Afuri",
-              "coord": [
-                35.648302199999996,
-                139.710881
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Hotel rest (1-3pm)",
-              "coord": [
-                35.6873,
-                139.711
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Meiji Jingu & Harajuku",
-              "coord": [
-                35.676,
-                139.699
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Den",
-              "coord": [
-                35.6731762,
-                139.71272159999998
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Kiddyland Harajuku",
-              "coord": [
-                35.667733,
-                139.7065474
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Tokyo — Markets & Play",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Park Hyatt Tokyo",
-              "coord": [
-                35.6861125,
-                139.6904007
-              ]
-            },
-            {
-              "type": "breakfast",
               "name": "Hotel breakfast",
-              "coord": [
-                35.6873,
-                139.711
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Senso-ji & Kappabashi",
-              "coord": [
-                35.715,
-                139.797
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Fuunji",
-              "coord": [
-                35.6868343,
-                139.6966393
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Hotel rest (1-3pm)",
-              "coord": [
-                35.6873,
-                139.711
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "ASOBONO indoor play",
-              "coord": [
-                35.708,
-                139.754
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "USHIGORO S. GINZA",
-              "coord": [
-                35.6693111,
-                139.76202229999998
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Tokyo Toy Museum",
-              "coord": [
-                35.6896845,
-                139.71801539999998
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Hakone — Onsen & Art",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Mitsui Hakone",
-              "coord": [
-                35.2394536,
-                139.0533051
-              ]
-            },
-            {
               "type": "breakfast",
-              "name": "Park Hyatt checkout",
               "coord": [
-                35.6873,
-                139.711
+                35.6861125,
+                139.6904007
               ]
             },
             {
+              "name": "Senso-ji Temple",
               "type": "sightseeing",
-              "name": "Romance Car to Hakone",
               "coord": [
-                35.1895,
-                139.027
+                35.7147651,
+                139.7966553
               ]
             },
             {
+              "name": "Lunch",
               "type": "lunch",
-              "name": "Hakone Open Air Museum café",
               "coord": [
-                35.244,
-                139.052
+                35.7147651,
+                139.7966553
               ]
             },
             {
+              "name": "Meiji Shrine",
               "type": "sightseeing",
-              "name": "Hakone Open Air Museum",
               "coord": [
-                35.2451601,
-                139.0507271
+                35.6763976,
+                139.6993259
               ]
             },
             {
-              "type": "dinner",
-              "name": "Hotel kaiseki dinner",
-              "coord": [
-                35.1895,
-                139.027
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Hakone — Family Onsen Day",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Mitsui Hakone",
-              "coord": [
-                35.2394536,
-                139.0533051
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Ryokan breakfast",
-              "coord": [
-                35.1895,
-                139.027
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Hakone Yunessun fun baths",
-              "coord": [
-                35.239,
-                139.045
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Gora area café",
-              "coord": [
-                35.244,
-                139.052
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Ryokan rest (1-3pm)",
-              "coord": [
-                35.1895,
-                139.027
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Lake Ashi cruise",
-              "coord": [
-                35.2,
-                139.027
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Hotel kaiseki farewell",
-              "coord": [
-                35.1895,
-                139.027
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Kyoto — Temples & Tea",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Four Seasons Kyoto",
-              "coord": [
-                34.9906846,
-                135.77612299999998
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Mitsui checkout, Shinkansen",
-              "coord": [
-                35.1895,
-                139.027
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Fushimi Inari torii gates",
-              "coord": [
-                34.967,
-                135.773
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Nishiki Market grazing",
-              "coord": [
-                35.005,
-                135.766
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Hotel rest (1-3pm)",
-              "coord": [
-                34.991,
-                135.776
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kinkaku-ji Golden Pavilion",
-              "coord": [
-                35.03937,
-                135.7292431
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Kikunoi",
-              "coord": [
-                35.0014754,
-                135.7820562
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Kyoto — Bamboo & Nara",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Four Seasons Kyoto",
-              "coord": [
-                34.9906846,
-                135.77612299999998
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Hotel garden breakfast",
-              "coord": [
-                34.991,
-                135.776
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Arashiyama Bamboo Grove",
-              "coord": [
-                35.0168187,
-                135.67130129999998
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Honke Owariya soba",
-              "coord": [
-                35.013,
-                135.76
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Hotel rest (1-3pm)",
-              "coord": [
-                34.991,
-                135.776
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Nara Park deer",
-              "coord": [
-                34.683,
-                135.855
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Kitcho Arashiyama",
-              "coord": [
-                35.0136211,
-                135.6746552
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Maikoya Tea Ceremony",
-              "coord": [
-                35.0076598,
-                135.76637119999998
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Kyoto — Hidden Gems",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Four Seasons Kyoto",
-              "coord": [
-                34.9906846,
-                135.77612299999998
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                34.991,
-                135.776
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Philosopher's Path",
-              "coord": [
-                35.0266194,
-                135.795457
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Guilo Guilo Hitoshina",
-              "coord": [
-                34.9981025,
-                135.7677506
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Hotel rest (1-3pm)",
-              "coord": [
-                34.991,
-                135.776
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kiyomizu Pottery Street",
-              "coord": [
-                34.995142,
-                135.7781578
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Roan Kikunoi",
-              "coord": [
-                35.00345130000001,
-                135.7706684
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Pokemon Center Kyoto",
-              "coord": [
-                35.003416699999995,
-                135.75838389999998
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Osaka — Street Food & Play",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Waldorf Astoria Osaka",
-              "coord": [
-                34.702998199999996,
-                135.4915467
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Four Seasons checkout",
-              "coord": [
-                34.991,
-                135.776
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kuromon Market",
-              "coord": [
-                34.6653529,
-                135.5062406
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Ajinoya okonomiyaki",
-              "coord": [
-                34.668,
-                135.501
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Hotel rest (1-3pm)",
-              "coord": [
-                34.703,
-                135.491
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kids Plaza Osaka",
-              "coord": [
-                34.7045728,
-                135.5104418
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Kashiwaya",
-              "coord": [
-                34.696899,
-                135.5005309
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Osaka & Departure",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Departure",
-              "coord": [
-                34.703,
-                135.491
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Waldorf breakfast",
-              "coord": [
-                34.703,
-                135.491
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Osaka Aquarium Kaiyukan",
-              "coord": [
-                34.6545182,
-                135.4289645
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Dotonbori food stalls",
-              "coord": [
-                34.669,
-                135.502
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Last shopping",
-              "coord": [
-                34.669,
-                135.502
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Hajime farewell",
-              "coord": [
-                34.68,
-                135.495
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "d": {
-      "name": "Foodie Deep-Dive (10 Days)",
-      "color": "#DC2626",
-      "days": [
-        {
-          "day": 1,
-          "title": "Tokyo — Sushi Capital",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hoshinoya Tokyo",
-              "coord": [
-                35.6878409,
-                139.7651065
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "In-flight meal",
-              "coord": [
-                35.6877,
-                139.765
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Tsukiji Outer Market tasting walk",
-              "coord": [
-                35.665,
-                139.769
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Sukiyabashi Jiro Honten",
-              "coord": [
-                35.672740399999995,
-                139.7639378
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Isetan Shinjuku depachika",
-              "coord": [
-                35.692,
-                139.704
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "SÉZANNE",
-              "coord": [
-                35.6780884,
-                139.7668704
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Mori Bar",
-              "coord": [
-                35.6700776,
-                139.7616938
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Tokyo — Tempura, Tonkatsu & Cocktails",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hoshinoya Tokyo",
-              "coord": [
-                35.6878409,
-                139.7651065
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Onibus Coffee",
-              "coord": [
-                35.6431767,
-                139.6980318
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kappabashi knife shopping",
-              "coord": [
-                35.714,
-                139.789
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tempura Kondo",
-              "coord": [
-                35.6711696,
-                139.7631786
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Disk Union records & Shimokitazawa",
-              "coord": [
-                35.691,
-                139.703
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Butagumi",
-              "coord": [
-                35.6609663,
-                139.7221289
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Bar Benfiddich",
-              "coord": [
-                35.6894823,
-                139.6966117
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Tokyo — Innovation & Tradition",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hoshinoya Tokyo",
-              "coord": [
-                35.6878409,
-                139.7651065
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Fugulen Coffee",
-              "coord": [
-                35.663,
-                139.696
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Omiya Bonsai Village",
-              "coord": [
-                35.92591110000001,
-                139.6313549
-              ]
-            },
-            {
-              "type": "lunch",
               "name": "Narisawa",
+              "type": "dinner",
               "coord": [
                 35.6715648,
                 139.7218885
               ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Yanaka Ginza old town",
-              "coord": [
-                35.728,
-                139.765
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Torishiki",
-              "coord": [
-                35.6342782,
-                139.7168892
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Gen Yamamoto 8-seat cocktail omakase",
-              "coord": [
-                35.656,
-                139.734
-              ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Kanazawa — Market & Kaiseki",
+          "label": "Day 2 — Tokyo Art & Culture",
           "items": [
             {
-              "type": "hotel",
-              "name": "Hyatt Centric Kanazawa",
-              "coord": [
-                36.5800473,
-                136.6478362
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Hoshinoya checkout, Shinkansen",
               "coord": [
-                35.6877,
-                139.765
+                35.6861125,
+                139.6904007
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Omicho Market crab & seafood",
-              "coord": [
-                36.571,
-                136.657
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Omicho Market fresh sushi",
-              "coord": [
-                36.571,
-                136.657
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kenrokuen Garden",
-              "coord": [
-                36.5621278,
-                136.66265149999998
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Otome Sushi",
-              "coord": [
-                36.561437,
-                136.65169330000003
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Kanazawa — Ryotei & Arts",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hyatt Centric Kanazawa",
-              "coord": [
-                36.5800473,
-                136.6478362
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                36.569,
-                136.66
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Higashi Chaya geisha quarter",
-              "coord": [
-                36.572,
-                136.665
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tsubajin 400-year ryotei",
-              "coord": [
-                36.555,
-                136.651
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "21st Century Museum of Art",
-              "coord": [
-                36.560871299999995,
-                136.6585251
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Zeniya",
-              "coord": [
-                36.5607226,
-                136.6499747
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Kyoto — Kaiseki Heritage",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Six Senses Kyoto",
-              "coord": [
-                34.9909956,
-                135.7743567
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Hotel checkout, train to Kyoto",
-              "coord": [
-                36.569,
-                136.66
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Fushimi Sake District tastings",
-              "coord": [
-                34.933,
-                135.76
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Honke Owariya 1465 soba",
-              "coord": [
-                35.013,
-                135.76
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Nishiki Market",
-              "coord": [
-                35.0050258,
-                135.764723
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Kikunoi",
-              "coord": [
-                35.0014754,
-                135.7820562
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "L'Escamoteur cocktails",
-              "coord": [
-                35.002,
-                135.77
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Kyoto — Tea, Pottery & Gion",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Six Senses Kyoto",
-              "coord": [
-                34.9909956,
-                135.7743567
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Six Senses spa breakfast",
-              "coord": [
-                34.991,
-                135.774
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Maikoya Tea Ceremony",
-              "coord": [
-                35.0076598,
-                135.76637119999998
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Guilo Guilo Hitoshina",
-              "coord": [
-                34.9981025,
-                135.7677506
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kiyomizu Pottery Street",
-              "coord": [
-                34.995142,
-                135.7781578
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Gion Owatari",
-              "coord": [
-                35.001409599999995,
-                135.7770643
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Bee's Knees cocktails",
-              "coord": [
-                35.004,
-                135.776
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Kyoto — Temple Day & Farewell Kaiseki",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Six Senses Kyoto",
-              "coord": [
-                34.9909956,
-                135.7743567
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                34.991,
-                135.774
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Saihoji Moss Temple",
-              "coord": [
-                34.9921777,
-                135.6837103
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Arashiyama area lunch",
-              "coord": [
-                35.017,
-                135.671
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Arashiyama Bamboo Grove",
-              "coord": [
-                35.0168187,
-                135.67130129999998
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Kitcho Arashiyama",
-              "coord": [
-                35.0136211,
-                135.6746552
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Osaka — Street Food Paradise",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Patina Osaka",
-              "coord": [
-                34.681912499999996,
-                135.5247714
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Six Senses checkout, train to Osaka",
-              "coord": [
-                34.991,
-                135.774
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kuromon Market",
-              "coord": [
-                34.6653529,
-                135.5062406
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Mizuno okonomiyaki",
-              "coord": [
-                34.669,
-                135.502
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Dotonbori food stalls",
-              "coord": [
-                34.669,
-                135.502
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Hajime",
-              "coord": [
-                34.688713199999995,
-                135.49605739999998
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Osaka & Departure",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Departure",
-              "coord": [
-                34.682,
-                135.525
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Patina breakfast",
-              "coord": [
-                34.682,
-                135.525
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Solaniwa Onsen family bath",
-              "coord": [
-                34.693,
-                135.49
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Sushi Harasho farewell",
-              "coord": [
-                34.69,
-                135.5
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Kashiwaya",
-              "coord": [
-                34.696899,
-                135.5005309
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "e": {
-      "name": "Grand Tour (14 Days)",
-      "color": "#7C3AED",
-      "days": [
-        {
-          "day": 1,
-          "title": "Tokyo Arrival",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hoshinoya Tokyo",
-              "coord": [
-                35.6878409,
-                139.7651065
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "In-flight meal",
-              "coord": [
-                35.6877,
-                139.765
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Meiji Jingu & Harajuku",
-              "coord": [
-                35.676,
-                139.699
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Afuri",
-              "coord": [
-                35.648302199999996,
-                139.710881
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Shinjuku Gyoen",
-              "coord": [
-                35.685176299999995,
-                139.7100517
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "SÉZANNE",
-              "coord": [
-                35.6780884,
-                139.7668704
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Tokyo — Art & Markets",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hoshinoya Tokyo",
-              "coord": [
-                35.6878409,
-                139.7651065
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Tsukiji Outer Market",
-              "coord": [
-                35.6647703,
-                139.7702515
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "teamLab Borderless",
+              "type": "sightseeing",
               "coord": [
                 35.662103099999996,
                 139.7432609
               ]
             },
             {
+              "name": "Lunch",
               "type": "lunch",
-              "name": "Fuunji",
-              "coord": [
-                35.6868343,
-                139.6966393
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Hotel rest (1-3pm)",
-              "coord": [
-                35.6877,
-                139.765
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Senso-ji & Kappabashi",
-              "coord": [
-                35.715,
-                139.797
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Den",
-              "coord": [
-                35.6731762,
-                139.71272159999998
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "ASOBONO indoor play",
-              "coord": [
-                35.708,
-                139.754
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Tokyo — Neighborhoods",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hoshinoya Tokyo",
-              "coord": [
-                35.6878409,
-                139.7651065
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Onibus Coffee",
               "coord": [
                 35.6431767,
                 139.6980318
               ]
             },
             {
+              "name": "Tsukiji Market & sushi",
               "type": "sightseeing",
-              "name": "Shimokitazawa vintage",
               "coord": [
-                35.662,
-                139.667
+                35.6647703,
+                139.7702515
               ]
             },
             {
-              "type": "lunch",
-              "name": "Butagumi",
-              "coord": [
-                35.6609663,
-                139.7221289
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Hotel rest (1-3pm)",
-              "coord": [
-                35.6877,
-                139.765
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Yanaka Ginza",
-              "coord": [
-                35.7276934,
-                139.7657232
-              ]
-            },
-            {
+              "name": "Saito",
               "type": "dinner",
-              "name": "Tempura Kondo",
               "coord": [
-                35.6711696,
-                139.7631786
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Bar High Five",
-              "coord": [
-                35.671641,
-                139.762943
+                35.6653768,
+                139.7395884
               ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Hakone Onsen",
+          "label": "Day 3 — Tokyo to Hakone",
           "items": [
             {
-              "type": "hotel",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.6861125,
+                139.6904007
+              ]
+            },
+            {
+              "name": "Train Tokyo → Hakone (90 min)",
+              "type": "info",
+              "coord": [
+                35.68,
+                139.77
+              ]
+            },
+            {
               "name": "Gora Kadan",
+              "type": "hotel",
               "coord": [
                 35.247364399999995,
                 139.04856139999998
               ]
             },
             {
-              "type": "breakfast",
-              "name": "Hoshinoya checkout",
-              "coord": [
-                35.6877,
-                139.765
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Romance Car, Hakone Open Air Museum",
-              "coord": [
-                35.244,
-                139.052
-              ]
-            },
-            {
+              "name": "Lunch at hotel",
               "type": "lunch",
-              "name": "Museum café",
               "coord": [
-                35.244,
-                139.052
+                35.247364399999995,
+                139.04856139999998
               ]
             },
             {
+              "name": "Hakone Open Air Museum",
               "type": "sightseeing",
-              "name": "Hakone Yuryo private onsen",
               "coord": [
-                35.234,
-                139.096
+                35.2451601,
+                139.0507271
               ]
             },
             {
+              "name": "Onsen at hotel",
               "type": "dinner",
-              "name": "Kaiseki at Gora Kadan",
               "coord": [
-                35.2483,
-                139.0673
+                35.247364399999995,
+                139.04856139999998
               ]
             }
           ]
         },
         {
-          "day": 5,
-          "title": "Kyoto — Fushimi & Gion",
+          "label": "Day 4 — Hakone Relaxation",
           "items": [
             {
-              "type": "hotel",
-              "name": "Four Seasons Kyoto",
-              "coord": [
-                34.9906846,
-                135.77612299999998
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Gora Kadan checkout, Shinkansen",
               "coord": [
-                35.2483,
-                139.0673
+                35.247364399999995,
+                139.04856139999998
               ]
             },
             {
+              "name": "Hakone Kowakien Yunessun",
               "type": "sightseeing",
-              "name": "Fushimi Inari early",
               "coord": [
-                34.967,
-                135.773
+                35.239422399999995,
+                139.0453369
               ]
             },
             {
+              "name": "Lunch",
               "type": "lunch",
-              "name": "Nishiki Market",
               "coord": [
-                35.0050258,
-                135.764723
+                35.247364399999995,
+                139.04856139999998
               ]
             },
             {
+              "name": "Onsen time",
               "type": "nap",
-              "name": "Hotel rest (1-3pm)",
               "coord": [
-                34.991,
-                135.776
+                35.247364399999995,
+                139.04856139999998
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Gion evening walk",
-              "coord": [
-                35.004,
-                135.776
-              ]
-            },
-            {
+              "name": "Dinner at hotel",
               "type": "dinner",
+              "coord": [
+                35.247364399999995,
+                139.04856139999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Hakone to Kyoto",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.247364399999995,
+                139.04856139999998
+              ]
+            },
+            {
+              "name": "Train Hakone → Kyoto (4h 30min)",
+              "type": "info",
+              "coord": [
+                35.0,
+                138.5
+              ]
+            },
+            {
+              "name": "Six Senses Kyoto",
+              "type": "hotel",
+              "coord": [
+                34.9909956,
+                135.7743567
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                34.9909956,
+                135.7743567
+              ]
+            },
+            {
+              "name": "Kinkaku-ji",
+              "type": "sightseeing",
+              "coord": [
+                35.03937,
+                135.7292431
+              ]
+            },
+            {
+              "name": "Kitcho Arashiyama",
+              "type": "dinner",
+              "coord": [
+                35.0136211,
+                135.6746552
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Kyoto Temples & Tea",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.9909956,
+                135.7743567
+              ]
+            },
+            {
+              "name": "Maikoya Tea Ceremony",
+              "type": "sightseeing",
+              "coord": [
+                35.0076598,
+                135.76637119999998
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                34.9909956,
+                135.7743567
+              ]
+            },
+            {
+              "name": "Philosopher's Path",
+              "type": "sightseeing",
+              "coord": [
+                35.0266194,
+                135.795457
+              ]
+            },
+            {
               "name": "Kikunoi",
+              "type": "dinner",
               "coord": [
                 35.0014754,
                 135.7820562
@@ -8547,370 +7341,149 @@
           ]
         },
         {
-          "day": 6,
-          "title": "Kyoto — Bamboo, Tea & Nara",
+          "label": "Day 7 — Kyoto Nature & Culture",
           "items": [
             {
-              "type": "hotel",
-              "name": "Four Seasons Kyoto",
-              "coord": [
-                34.9906846,
-                135.77612299999998
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Hotel garden",
               "coord": [
-                34.991,
-                135.776
+                34.9909956,
+                135.7743567
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Arashiyama Bamboo Grove",
+              "type": "sightseeing",
               "coord": [
                 35.0168187,
                 135.67130129999998
               ]
             },
             {
+              "name": "Lunch",
               "type": "lunch",
-              "name": "Honke Owariya",
               "coord": [
-                35.013,
-                135.76
+                34.9909956,
+                135.7743567
               ]
             },
             {
+              "name": "Nishiki Market",
               "type": "sightseeing",
-              "name": "Nara Park deer & Todai-ji",
               "coord": [
-                34.683,
-                135.855
+                35.0050258,
+                135.764723
               ]
             },
             {
+              "name": "Yasaka",
               "type": "dinner",
-              "name": "Roan Kikunoi",
               "coord": [
-                35.00345130000001,
-                135.7706684
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Maikoya Tea Ceremony",
-              "coord": [
-                35.0076598,
-                135.76637119999998
+                35.0036559,
+                135.7785534
               ]
             }
           ]
         },
         {
-          "day": 7,
-          "title": "Kyoto — Hidden Temples",
+          "label": "Day 8 — Kyoto to Osaka",
           "items": [
             {
-              "type": "hotel",
-              "name": "Four Seasons Kyoto",
-              "coord": [
-                34.9906846,
-                135.77612299999998
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Hotel",
               "coord": [
-                34.991,
-                135.776
+                34.9909956,
+                135.7743567
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Saihoji Moss Temple",
+              "name": "Train Kyoto → Osaka (30 min)",
+              "type": "info",
               "coord": [
-                34.9921777,
-                135.6837103
+                34.77,
+                135.65
               ]
             },
             {
-              "type": "lunch",
-              "name": "Guilo Guilo Hitoshina",
-              "coord": [
-                34.9981025,
-                135.7677506
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Hotel rest (1-3pm)",
-              "coord": [
-                34.991,
-                135.776
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kiyomizu Pottery Street & Kiyomizu-dera",
-              "coord": [
-                34.997,
-                135.779
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Kitcho Arashiyama",
-              "coord": [
-                35.0136211,
-                135.6746552
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "L'Escamoteur steampunk bar",
-              "coord": [
-                35.002,
-                135.77
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Osaka — Street Food",
-          "items": [
-            {
+              "name": "Waldorf Astoria Osaka",
               "type": "hotel",
-              "name": "Patina Osaka",
               "coord": [
-                34.681912499999996,
-                135.5247714
+                34.702998199999996,
+                135.4915467
               ]
             },
             {
-              "type": "breakfast",
-              "name": "Four Seasons checkout, train to Osaka",
-              "coord": [
-                34.991,
-                135.776
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kuromon Market",
-              "coord": [
-                34.6653529,
-                135.5062406
-              ]
-            },
-            {
+              "name": "Lunch",
               "type": "lunch",
-              "name": "Ajinoya okonomiyaki",
               "coord": [
-                34.668,
-                135.501
+                34.702998199999996,
+                135.4915467
               ]
             },
             {
-              "type": "nap",
-              "name": "Hotel rest (1-3pm)",
-              "coord": [
-                34.682,
-                135.525
-              ]
-            },
-            {
+              "name": "Dotonbori",
               "type": "sightseeing",
-              "name": "Dotonbori food stalls",
               "coord": [
-                34.669,
-                135.502
+                34.668865499999995,
+                135.50467469999998
               ]
             },
             {
-              "type": "dinner",
-              "name": "Kashiwaya",
-              "coord": [
-                34.696899,
-                135.5005309
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Osaka — Aquarium & Fine Dining",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Patina Osaka",
-              "coord": [
-                34.681912499999996,
-                135.5247714
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                34.682,
-                135.525
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Osaka Aquarium Kaiyukan",
-              "coord": [
-                34.6545182,
-                135.4289645
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Mizuno okonomiyaki",
-              "coord": [
-                34.669,
-                135.502
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Hotel rest (1-3pm)",
-              "coord": [
-                34.682,
-                135.525
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Solaniwa Onsen family bath",
-              "coord": [
-                34.693,
-                135.49
-              ]
-            },
-            {
-              "type": "dinner",
               "name": "Hajime",
+              "type": "dinner",
               "coord": [
                 34.688713199999995,
                 135.49605739999998
               ]
-            },
-            {
-              "type": "optional",
-              "name": "Kids Plaza Osaka",
-              "coord": [
-                34.7045728,
-                135.5104418
-              ]
             }
           ]
         },
         {
-          "day": 10,
-          "title": "Kanazawa — Gardens & Sushi",
+          "label": "Day 9 — Osaka to Kanazawa",
           "items": [
             {
-              "type": "hotel",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                34.702998199999996,
+                135.4915467
+              ]
+            },
+            {
+              "name": "Train Osaka → Kanazawa (2h 30min)",
+              "type": "info",
+              "coord": [
+                35.4,
+                136.3
+              ]
+            },
+            {
               "name": "Hyatt Centric Kanazawa",
+              "type": "hotel",
               "coord": [
                 36.5800473,
                 136.6478362
               ]
             },
             {
-              "type": "breakfast",
-              "name": "Patina checkout, Shinkansen",
+              "name": "Lunch",
+              "type": "lunch",
               "coord": [
-                34.682,
-                135.525
+                36.5800473,
+                136.6478362
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Kenrokuen Garden",
+              "type": "sightseeing",
               "coord": [
                 36.5621278,
                 136.66265149999998
               ]
             },
             {
-              "type": "lunch",
-              "name": "Omicho Market",
-              "coord": [
-                36.5717335,
-                136.6558651
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "21st Century Museum of Art",
-              "coord": [
-                36.560871299999995,
-                136.6585251
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Otome Sushi",
-              "coord": [
-                36.561437,
-                136.65169330000003
-              ]
-            }
-          ]
-        },
-        {
-          "day": 11,
-          "title": "Kanazawa — Geisha & Samurai",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hyatt Centric Kanazawa",
-              "coord": [
-                36.5800473,
-                136.6478362
-              ]
-            },
-            {
-              "type": "breakfast",
-              "name": "Omicho Market breakfast",
-              "coord": [
-                36.571,
-                136.657
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Higashi Chaya geisha quarter",
-              "coord": [
-                36.572,
-                136.665
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tsubajin",
-              "coord": [
-                36.555233099999995,
-                136.6513816
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Nagamachi samurai district",
-              "coord": [
-                36.563,
-                136.651
-              ]
-            },
-            {
-              "type": "dinner",
               "name": "Zeniya",
+              "type": "dinner",
               "coord": [
                 36.5607226,
                 136.6499747
@@ -8919,52 +7492,96 @@
           ]
         },
         {
-          "day": 12,
-          "title": "Sapporo — Hokkaido Arrival",
+          "label": "Day 10 — Kanazawa Art & Crafts",
           "items": [
             {
-              "type": "hotel",
-              "name": "JR Tower Hotel Nikko Sapporo",
-              "coord": [
-                43.069,
-                141.351
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Hotel checkout, flight to Sapporo",
               "coord": [
-                36.569,
-                136.66
+                36.5800473,
+                136.6478362
               ]
             },
             {
+              "name": "21st Century Museum of Art",
               "type": "sightseeing",
+              "coord": [
+                36.560871299999995,
+                136.6585251
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                36.5800473,
+                136.6478362
+              ]
+            },
+            {
+              "name": "Omicho Market",
+              "type": "shopping",
+              "coord": [
+                36.5717335,
+                136.6558651
+              ]
+            },
+            {
+              "name": "Otome Sushi",
+              "type": "dinner",
+              "coord": [
+                36.561437,
+                136.65169330000003
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 11 — Kanazawa to Sapporo",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                36.5800473,
+                136.6478362
+              ]
+            },
+            {
+              "name": "Flight Kanazawa → Sapporo (1h 50min)",
+              "type": "info",
+              "coord": [
+                36.46,
+                137.66
+              ]
+            },
+            {
+              "name": "Park Hyatt Sapporo",
+              "type": "hotel",
+              "coord": [
+                43.07,
+                141.35
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                43.07,
+                141.35
+              ]
+            },
+            {
               "name": "Nijo Market",
+              "type": "sightseeing",
               "coord": [
                 43.058299,
                 141.358446
               ]
             },
             {
-              "type": "lunch",
-              "name": "Keyaki miso ramen",
-              "coord": [
-                43.057,
-                141.345
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Sapporo Maruyama Zoo",
-              "coord": [
-                43.0515126,
-                141.3078572
-              ]
-            },
-            {
-              "type": "dinner",
               "name": "Sushi Miyakawa",
+              "type": "dinner",
               "coord": [
                 43.0621249,
                 141.3176119
@@ -8973,109 +7590,975 @@
           ]
         },
         {
-          "day": 13,
-          "title": "Hokkaido — Otaru & Whisky",
+          "label": "Day 12 — Sapporo & Otaru",
           "items": [
             {
-              "type": "hotel",
-              "name": "JR Tower Hotel Nikko Sapporo",
-              "coord": [
-                43.069,
-                141.351
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Hotel",
               "coord": [
-                43.069,
-                141.351
+                43.07,
+                141.35
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Otaru Canal & stained glass",
-              "coord": [
-                43.202,
-                141.001
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Otaru Sushi Takumi",
-              "coord": [
-                43.196755499999995,
-                140.99470589999999
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Nikka Whisky Yoichi",
+              "type": "sightseeing",
               "coord": [
                 43.1868327,
                 140.7912896
               ]
             },
             {
-              "type": "dinner",
-              "name": "Tempura Araki",
+              "name": "Lunch",
+              "type": "lunch",
               "coord": [
-                43.0525053,
-                141.3535794
+                43.1868327,
+                140.7912896
               ]
             },
             {
-              "type": "optional",
-              "name": "Bar Yamazaki",
+              "name": "Otaru Canal",
+              "type": "sightseeing",
               "coord": [
-                43.0562974,
-                141.35369559999998
+                43.199041,
+                141.0021176
+              ]
+            },
+            {
+              "name": "Otaru Sushi Takumi",
+              "type": "dinner",
+              "coord": [
+                43.196755499999995,
+                140.99470589999999
               ]
             }
           ]
         },
         {
-          "day": 14,
-          "title": "Hokkaido & Departure",
+          "label": "Day 13 — Sapporo Relaxation",
           "items": [
             {
-              "type": "hotel",
-              "name": "Departure",
-              "coord": [
-                43.069,
-                141.351
-              ]
-            },
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Ebisoba Ichigen shrimp ramen",
               "coord": [
-                43.051,
-                141.346
+                43.07,
+                141.35
               ]
             },
             {
+              "name": "Asahiyama Zoo",
               "type": "sightseeing",
-              "name": "Asahiyama Zoo (if time)",
               "coord": [
-                43.769,
-                142.479
+                43.7689713,
+                142.4791319
               ]
             },
             {
+              "name": "Lunch",
               "type": "lunch",
-              "name": "Nijo Market farewell",
               "coord": [
-                43.058,
-                141.359
+                43.7689713,
+                142.4791319
               ]
             },
             {
-              "type": "dinner",
-              "name": "Flight home",
+              "name": "Free afternoon",
+              "type": "nap",
               "coord": [
-                43.069,
-                141.351
+                43.07,
+                141.35
+              ]
+            },
+            {
+              "name": "Tempura Araki",
+              "type": "dinner",
+              "coord": [
+                43.0525053,
+                141.3535794
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 14 — Sapporo Departure",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                43.07,
+                141.35
+              ]
+            },
+            {
+              "name": "Market shopping",
+              "type": "shopping",
+              "coord": [
+                43.058299,
+                141.358446
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                43.07,
+                141.35
+              ]
+            },
+            {
+              "name": "Departure",
+              "type": "info",
+              "coord": [
+                43.07,
+                141.35
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "d": {
+      "name": "Special: Tohoku Sacred Mountains & Onsen (9 Days)",
+      "days": [
+        {
+          "label": "Day 1 — Tokyo to Sendai",
+          "items": [
+            {
+              "name": "Park Hyatt Tokyo",
+              "type": "hotel",
+              "coord": [
+                35.6861125,
+                139.6904007
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.6861125,
+                139.6904007
+              ]
+            },
+            {
+              "name": "Shinkansen Tokyo → Sendai (2h)",
+              "type": "info",
+              "coord": [
+                35.68,
+                139.77
+              ]
+            },
+            {
+              "name": "The Westin Sendai",
+              "type": "hotel",
+              "coord": [
+                38.2564637,
+                140.8762422
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                38.2564637,
+                140.8762422
+              ]
+            },
+            {
+              "name": "Matsushima Bay Cruise",
+              "type": "sightseeing",
+              "coord": [
+                38.3696558,
+                141.0628391
+              ]
+            },
+            {
+              "name": "Rikyu Gyutan",
+              "type": "dinner",
+              "coord": [
+                38.2610177,
+                140.87631489999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Sendai & Matsushima",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.2564637,
+                140.8762422
+              ]
+            },
+            {
+              "name": "Matsushima Taikanso",
+              "type": "hotel",
+              "coord": [
+                38.3641266,
+                141.056538
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                38.3641266,
+                141.056538
+              ]
+            },
+            {
+              "name": "Bay exploration",
+              "type": "sightseeing",
+              "coord": [
+                38.3696558,
+                141.0628391
+              ]
+            },
+            {
+              "name": "Onsen at hotel",
+              "type": "dinner",
+              "coord": [
+                38.3641266,
+                141.056538
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Matsushima to Yamagata",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.3641266,
+                141.056538
+              ]
+            },
+            {
+              "name": "Train to Yamagata (2h)",
+              "type": "info",
+              "coord": [
+                38.5,
+                140.5
+              ]
+            },
+            {
+              "name": "Fujiya Hotel Ginzan Onsen",
+              "type": "hotel",
+              "coord": [
+                38.569499,
+                140.5311485
+              ]
+            },
+            {
+              "name": "Lunch at hotel",
+              "type": "lunch",
+              "coord": [
+                38.569499,
+                140.5311485
+              ]
+            },
+            {
+              "name": "Ginzan Onsen Village",
+              "type": "sightseeing",
+              "coord": [
+                38.571984,
+                140.528755
+              ]
+            },
+            {
+              "name": "Onsen at hotel",
+              "type": "dinner",
+              "coord": [
+                38.569499,
+                140.5311485
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Ginzan & Dewa Sanzan",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.569499,
+                140.5311485
+              ]
+            },
+            {
+              "name": "Dewa Sanzan (Sacred Mountains)",
+              "type": "sightseeing",
+              "coord": [
+                38.7023491,
+                139.98135299999998
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                38.569499,
+                140.5311485
+              ]
+            },
+            {
+              "name": "Onsen time",
+              "type": "nap",
+              "coord": [
+                38.569499,
+                140.5311485
+              ]
+            },
+            {
+              "name": "Al-ché-cciano",
+              "type": "dinner",
+              "coord": [
+                38.706958799999995,
+                139.84145030000002
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Yamagata to Akita",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                38.569499,
+                140.5311485
+              ]
+            },
+            {
+              "name": "Train Yamagata → Kakunodate (2h 30min)",
+              "type": "info",
+              "coord": [
+                39.0,
+                140.4
+              ]
+            },
+            {
+              "name": "Tsuru no Yu",
+              "type": "hotel",
+              "coord": [
+                39.805188799999996,
+                140.7798893
+              ]
+            },
+            {
+              "name": "Lunch at hotel",
+              "type": "lunch",
+              "coord": [
+                39.805188799999996,
+                140.7798893
+              ]
+            },
+            {
+              "name": "Kakunodate Samurai District",
+              "type": "sightseeing",
+              "coord": [
+                39.59926180000001,
+                140.5617163
+              ]
+            },
+            {
+              "name": "Onsen at hotel",
+              "type": "dinner",
+              "coord": [
+                39.805188799999996,
+                140.7798893
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Akita Onsen Village",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.805188799999996,
+                140.7798893
+              ]
+            },
+            {
+              "name": "Nyuto Onsen Village",
+              "type": "sightseeing",
+              "coord": [
+                39.800895499999996,
+                140.7947045
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                39.805188799999996,
+                140.7798893
+              ]
+            },
+            {
+              "name": "Onsen time",
+              "type": "nap",
+              "coord": [
+                39.805188799999996,
+                140.7798893
+              ]
+            },
+            {
+              "name": "Sakura no Sato",
+              "type": "dinner",
+              "coord": [
+                39.5973882,
+                140.5623434
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Akita Culture",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.805188799999996,
+                140.7798893
+              ]
+            },
+            {
+              "name": "Kakunodate Walking Tour",
+              "type": "sightseeing",
+              "coord": [
+                39.59926180000001,
+                140.5617163
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                39.805188799999996,
+                140.7798893
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "nap",
+              "coord": [
+                39.805188799999996,
+                140.7798893
+              ]
+            },
+            {
+              "name": "Pairon",
+              "type": "dinner",
+              "coord": [
+                39.7022579,
+                141.1521889
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Akita to North Tohoku",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                39.805188799999996,
+                140.7798893
+              ]
+            },
+            {
+              "name": "Train Kakunodate → Aomori (2h)",
+              "type": "info",
+              "coord": [
+                40.3,
+                140.7
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "hotel",
+              "coord": [
+                40.65,
+                140.91
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                40.65,
+                140.91
+              ]
+            },
+            {
+              "name": "Oirase Gorge",
+              "type": "sightseeing",
+              "coord": [
+                40.489961799999996,
+                140.9525486
+              ]
+            },
+            {
+              "name": "Restaurant Yamazaki",
+              "type": "dinner",
+              "coord": [
+                40.6023879,
+                140.4702922
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — North Tohoku Departure",
+          "items": [
+            {
+              "name": "Free breakfast",
+              "type": "breakfast",
+              "coord": [
+                40.65,
+                140.91
+              ]
+            },
+            {
+              "name": "Tatehana Wharf Morning Market",
+              "type": "sightseeing",
+              "coord": [
+                40.5278596,
+                141.5294053
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                40.65,
+                140.91
+              ]
+            },
+            {
+              "name": "Departure",
+              "type": "info",
+              "coord": [
+                40.65,
+                140.91
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "e": {
+      "name": "Special: Hokkaido Nature & Powder (8 Days)",
+      "days": [
+        {
+          "label": "Day 1 — Tokyo to Sapporo",
+          "items": [
+            {
+              "name": "Park Hyatt Tokyo",
+              "type": "hotel",
+              "coord": [
+                35.6861125,
+                139.6904007
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                35.6861125,
+                139.6904007
+              ]
+            },
+            {
+              "name": "Flight Tokyo → Sapporo (2h)",
+              "type": "info",
+              "coord": [
+                35.68,
+                139.77
+              ]
+            },
+            {
+              "name": "Park Hyatt Sapporo",
+              "type": "hotel",
+              "coord": [
+                43.07,
+                141.35
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                43.07,
+                141.35
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                43.07,
+                141.35
+              ]
+            },
+            {
+              "name": "Sushi Miyakawa",
+              "type": "dinner",
+              "coord": [
+                43.0621249,
+                141.3176119
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Sapporo to Niseko",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                43.07,
+                141.35
+              ]
+            },
+            {
+              "name": "Train Sapporo → Niseko (2h)",
+              "type": "info",
+              "coord": [
+                43.07,
+                141.35
+              ]
+            },
+            {
+              "name": "Park Hyatt Niseko",
+              "type": "hotel",
+              "coord": [
+                42.8940091,
+                140.698515
+              ]
+            },
+            {
+              "name": "Lunch at hotel",
+              "type": "lunch",
+              "coord": [
+                42.8940091,
+                140.698515
+              ]
+            },
+            {
+              "name": "Mountain exploration",
+              "type": "sightseeing",
+              "coord": [
+                42.8940091,
+                140.698515
+              ]
+            },
+            {
+              "name": "Onsen at hotel",
+              "type": "dinner",
+              "coord": [
+                42.8940091,
+                140.698515
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Niseko Powder",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                42.8940091,
+                140.698515
+              ]
+            },
+            {
+              "name": "Mountain activities",
+              "type": "sightseeing",
+              "coord": [
+                42.8940091,
+                140.698515
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                42.8940091,
+                140.698515
+              ]
+            },
+            {
+              "name": "Onsen time",
+              "type": "nap",
+              "coord": [
+                42.8940091,
+                140.698515
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                42.8940091,
+                140.698515
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Niseko to Lake Toya",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                42.8940091,
+                140.698515
+              ]
+            },
+            {
+              "name": "Drive Niseko → Lake Toya (1h 30min)",
+              "type": "info",
+              "coord": [
+                42.5,
+                140.85
+              ]
+            },
+            {
+              "name": "The Windsor Hotel Toya",
+              "type": "hotel",
+              "coord": [
+                42.5923112,
+                140.75953819999998
+              ]
+            },
+            {
+              "name": "Lunch at hotel",
+              "type": "lunch",
+              "coord": [
+                42.5923112,
+                140.75953819999998
+              ]
+            },
+            {
+              "name": "Lake exploration",
+              "type": "sightseeing",
+              "coord": [
+                42.5923112,
+                140.75953819999998
+              ]
+            },
+            {
+              "name": "Onsen at hotel",
+              "type": "dinner",
+              "coord": [
+                42.5923112,
+                140.75953819999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Lake Toya Relaxation",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                42.5923112,
+                140.75953819999998
+              ]
+            },
+            {
+              "name": "Lake activities",
+              "type": "sightseeing",
+              "coord": [
+                42.5923112,
+                140.75953819999998
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                42.5923112,
+                140.75953819999998
+              ]
+            },
+            {
+              "name": "Onsen time",
+              "type": "nap",
+              "coord": [
+                42.5923112,
+                140.75953819999998
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                42.5923112,
+                140.75953819999998
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Lake Toya to Furano",
+          "items": [
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                42.5923112,
+                140.75953819999998
+              ]
+            },
+            {
+              "name": "Drive Lake Toya → Furano (2h 30min)",
+              "type": "info",
+              "coord": [
+                43.2,
+                141.5
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "hotel",
+              "coord": [
+                43.4182493,
+                142.4280407
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                43.4182493,
+                142.4280407
+              ]
+            },
+            {
+              "name": "Farm Tomita",
+              "type": "sightseeing",
+              "coord": [
+                43.4182493,
+                142.4280407
+              ]
+            },
+            {
+              "name": "Furano Cheese Factory",
+              "type": "dinner",
+              "coord": [
+                43.3206967,
+                142.3774354
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Furano & Biei Patchwork",
+          "items": [
+            {
+              "name": "Free breakfast",
+              "type": "breakfast",
+              "coord": [
+                43.4182493,
+                142.4280407
+              ]
+            },
+            {
+              "name": "Patchwork Road",
+              "type": "sightseeing",
+              "coord": [
+                43.6306405,
+                142.42831719999998
+              ]
+            },
+            {
+              "name": "Lunch",
+              "type": "lunch",
+              "coord": [
+                43.6306405,
+                142.42831719999998
+              ]
+            },
+            {
+              "name": "Shirogane Blue Pond",
+              "type": "sightseeing",
+              "coord": [
+                43.4934738,
+                142.61421439999998
+              ]
+            },
+            {
+              "name": "Furano Wine Factory",
+              "type": "dinner",
+              "coord": [
+                43.3585597,
+                142.3736882
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Furano to Hakodate Departure",
+          "items": [
+            {
+              "name": "Free breakfast",
+              "type": "breakfast",
+              "coord": [
+                43.4182493,
+                142.4280407
+              ]
+            },
+            {
+              "name": "Drive Furano → Hakodate (3h)",
+              "type": "info",
+              "coord": [
+                43.3,
+                142.0
+              ]
+            },
+            {
+              "name": "Free lunch",
+              "type": "lunch",
+              "coord": [
+                41.77,
+                140.73
+              ]
+            },
+            {
+              "name": "Mt. Hakodate Night View",
+              "type": "sightseeing",
+              "coord": [
+                41.7594596,
+                140.7046519
+              ]
+            },
+            {
+              "name": "Departure",
+              "type": "info",
+              "coord": [
+                41.77,
+                140.73
               ]
             }
           ]

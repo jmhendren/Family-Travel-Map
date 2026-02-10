@@ -7592,327 +7592,294 @@
   },
   "itineraryData": {
     "a": {
-      "name": "Greatest Hits (7 days)",
-      "color": "#2563EB",
+      "name": "Greatest Hits (7 Days)",
+      "description": "First-timer's journey from Hanoi's ancient streets through Ha Long's limestone seascapes to Hoi An's lantern-lit charm.",
       "days": [
         {
-          "day": 1,
-          "title": "Hanoi Arrival & Old Quarter Exploration",
+          "label": "Day 1 —  Classic Hanoi — Old Quarter & Hoàn Kiếm",
           "items": [
             {
+              "name": "Hotel de l'Opera Hanoi - MGallery",
               "type": "hotel",
-              "name": "Capella Hanoi",
               "coord": [
-                21.0257164,
-                105.8566886
+                21.024400699999997,
+                105.85559130000001
               ]
             },
             {
+              "name": "Cafe Giảng",
               "type": "breakfast",
-              "name": "Local pho stall near Hoan Kiem Lake",
               "coord": [
-                21.0285,
-                105.8545
+                21.0334664,
+                105.854518
               ]
             },
             {
+              "name": "Old Quarter walking loop + Hoàn Kiếm Lake",
               "type": "sightseeing",
-              "name": "Hoan Kiem Lake & surrounding temples",
               "coord": [
-                21.0285,
-                105.8545
+                21.0315956,
+                105.8530717
               ]
             },
             {
+              "name": "Phở Gia Truyền (Hoan Kiem)",
               "type": "lunch",
-              "name": "Bun Cha Ta (traditional bun cha)",
               "coord": [
-                21.035,
-                105.86
+                21.0336237,
+                105.8465147
               ]
             },
             {
-              "type": "dinner",
-              "name": "Hibana by Koki",
+              "name": "Temple of Literature (Văn Miếu)",
+              "type": "sightseeing",
               "coord": [
-                21.025798599999998,
-                105.85675889999999
+                21.0281175,
+                105.8356692
+              ]
+            },
+            {
+              "name": "Tầm Vị",
+              "type": "dinner",
+              "coord": [
+                21.0290273,
+                105.83945560000001
+              ]
+            },
+            {
+              "name": "Thăng Long Water Puppet Show",
+              "type": "optional",
+              "coord": [
+                21.0316826,
+                105.8533466
               ]
             }
           ]
         },
         {
-          "day": 2,
-          "title": "Hanoi Culture & Museums",
+          "label": "Day 2 —  Ninh Binh Highlights — Tràng An & Mua Cave",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Coffee at Hanoi Old Quarter",
+              "name": "Jiva Hoa Lu Retreat",
+              "type": "hotel",
               "coord": [
-                21.0301,
-                105.8529
+                20.223748099999998,
+                105.9282892
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Vietnam Museum of Ethnology",
-              "coord": [
-                21.040342199999998,
-                105.7987354
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tầm Vị (classic Vietnamese)",
-              "coord": [
-                21.01397,
-                105.32996
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Hanoi French Quarter walk",
-              "coord": [
-                21.027,
-                105.845
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Street food crawl in Old Quarter",
-              "coord": [
-                21.0315,
-                105.8555
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Ha Long Bay Cruise",
-          "items": [
-            {
-              "type": "breakfast",
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                21.025715,
-                105.85681
+                20.223748099999998,
+                105.9282892
               ]
             },
             {
+              "name": "Tràng An scenic boat ride",
               "type": "sightseeing",
-              "name": "Drive to Ha Long Bay",
               "coord": [
-                20.96,
-                107.04
+                20.2531292,
+                105.91886099999999
               ]
             },
             {
-              "type": "hotel",
-              "name": "InterContinental Halong Bay Resort",
+              "name": "Local lunch near Tràng An",
+              "type": "lunch",
               "coord": [
-                20.9538401,
-                107.0031851
+                20.2531292,
+                105.91886099999999
               ]
             },
             {
+              "name": "Hang Múa viewpoint climb",
               "type": "sightseeing",
-              "name": "Ha Long Bay Cruise & Sung Sot Cave",
               "coord": [
-                20.85,
-                107.15
+                20.228594299999997,
+                105.9244167
               ]
             },
             {
+              "name": "Bãi Đính Pagoda complex",
+              "type": "sightseeing",
+              "coord": [
+                20.2678384,
+                105.8555068
+              ]
+            },
+            {
+              "name": "Dinner at retreat",
               "type": "dinner",
-              "name": "Dinner on cruise boat",
               "coord": [
-                20.9,
-                107.05
+                20.223748099999998,
+                105.9282892
               ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Ha Long Bay Morning & Fly to Hoi An",
+          "label": "Day 3 —  Travel to Da Nang & Hoi An Coast",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Sunrise on Ha Long Bay",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kayaking & swimming",
-              "coord": [
-                20.88,
-                107.08
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Lunch on boat",
-              "coord": [
-                20.9,
-                107.05
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Da Nang",
-              "coord": [
-                16.0544,
-                108.2022
-              ]
-            },
-            {
+              "name": "InterContinental Danang Sun Peninsula Resort",
               "type": "hotel",
-              "name": "Four Seasons Resort The Nam Hai",
               "coord": [
-                15.929197299999997,
-                108.3173707
+                16.1208274,
+                108.3062154
+              ]
+            },
+            {
+              "name": "Morning train Ninh Binh → Da Nang (9hr scenic journey) or 1.5hr flight via Hanoi",
+              "type": "info",
+              "coord": [
+                16.1208274,
+                108.3062154
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                20.223748099999998,
+                105.9282892
+              ]
+            },
+            {
+              "name": "La Maison 1888",
+              "type": "dinner",
+              "coord": [
+                16.122005599999998,
+                108.3061278
               ]
             }
           ]
         },
         {
-          "day": 5,
-          "title": "Hoi An Ancient Town & Beaches",
+          "label": "Day 4 —  Greatest Hits — Hoi An",
           "items": [
             {
-              "type": "breakfast",
+              "name": "Anantara Hoi An Resort",
+              "type": "hotel",
+              "coord": [
+                15.8772103,
+                108.3361561
+              ]
+            },
+            {
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                15.876,
-                108.315
+                15.8772103,
+                108.3361561
               ]
             },
             {
+              "name": "Hoi An Ancient Town at dusk",
               "type": "sightseeing",
-              "name": "Hoi An Ancient Town walk",
               "coord": [
-                15.8761,
-                108.3368
+                15.876587200000001,
+                108.3265009
               ]
             },
             {
+              "name": "Hội An Central Market",
               "type": "lunch",
-              "name": "Cafe Faifo (local Hoi An cuisine)",
               "coord": [
-                15.875,
-                108.336
+                15.875027000000001,
+                108.32617200000001
               ]
             },
             {
-              "type": "sightseeing",
               "name": "Lantern-making workshop",
+              "type": "sightseeing",
               "coord": [
                 15.877762700000002,
                 108.32566609999999
               ]
             },
             {
-              "type": "dinner",
-              "name": "Gia restaurant (1* Michelin)",
+              "name": "Tailor-made clothing fitting",
+              "type": "shopping",
               "coord": [
-                10.01071,
-                105.083262
+                15.8771714,
+                108.32874989999999
+              ]
+            },
+            {
+              "name": "Hoi An Street Food with a Local Expert",
+              "type": "dinner",
+              "coord": [
+                15.878711699999998,
+                108.3228439
+              ]
+            },
+            {
+              "name": "Hội An Night Market (Nguyễn Hoàng)",
+              "type": "optional",
+              "coord": [
+                15.875969300000001,
+                108.3260184
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Beach Day & Drive to Ho Chi Minh City",
+          "label": "Day 5 —  Nature & Views — Da Nang Coast",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                15.876,
-                108.315
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "An Bang Beach swimming & sunset",
-              "coord": [
-                15.915667,
-                108.336874
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Beachside lunch",
-              "coord": [
-                15.916,
-                108.3365
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Fly to Ho Chi Minh City",
-              "coord": [
-                10.7769,
-                106.6995
-              ]
-            },
-            {
+              "name": "InterContinental Danang Sun Peninsula Resort",
               "type": "hotel",
-              "name": "The Reverie Saigon",
               "coord": [
-                10.7737397,
-                106.704549
+                16.1208274,
+                108.3062154
               ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Ho Chi Minh City & Departure",
-          "items": [
+            },
             {
-              "type": "breakfast",
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                10.773873,
-                106.704865
+                16.1208274,
+                108.3062154
               ]
             },
             {
+              "name": "Son Tra Peninsula (Lady Buddha)",
               "type": "sightseeing",
-              "name": "War Remnants Museum",
               "coord": [
-                10.7795106,
-                106.6920916
+                16.0996678,
+                108.2769531
               ]
             },
             {
+              "name": "Marble Mountains",
               "type": "lunch",
-              "name": "Ănăn Saigon (1* Michelin)",
               "coord": [
-                10.771803,
-                106.702975
+                16.0037104,
+                108.2631605
               ]
             },
             {
+              "name": "Bà Nà Hills + Golden Bridge",
               "type": "sightseeing",
-              "name": "Ben Thanh Market",
               "coord": [
-                10.7723,
-                106.6989
+                15.994937499999999,
+                107.9965625
               ]
             },
             {
-              "type": "dinner",
-              "name": "Saigon river sunset cruise",
+              "name": "An Bang Beach day",
+              "type": "sightseeing",
               "coord": [
-                10.775381,
-                106.704711
+                15.9136072,
+                108.34064889999999
+              ]
+            },
+            {
+              "name": "La Maison 1888",
+              "type": "dinner",
+              "coord": [
+                16.122005599999998,
+                108.3061278
               ]
             }
           ]
@@ -7920,327 +7887,514 @@
       ]
     },
     "b": {
-      "name": "Hidden Gems (7 days)",
-      "color": "#059669",
+      "name": "Family Comfort (10 Days)",
+      "description": "Multi-generational adventure balancing culture, nature, and beach time with family-friendly bases in Hanoi, Hoi An, and Nha Trang.",
       "days": [
         {
-          "day": 1,
-          "title": "Hanoi Old Quarter Deep Dive",
+          "label": "Day 1 —  Family Hanoi — Easy Pace & Play",
           "items": [
             {
+              "name": "Pan Pacific Hanoi",
               "type": "hotel",
-              "name": "Sofitel Legend Metropole Hanoi",
               "coord": [
-                21.025412499999998,
-                105.856375
+                21.0499731,
+                105.83961099999999
               ]
             },
             {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Local egg coffee in Old Quarter",
               "coord": [
-                21.0301,
-                105.8529
+                21.0499731,
+                105.83961099999999
               ]
             },
             {
+              "name": "Vietnam Museum of Ethnology",
               "type": "sightseeing",
-              "name": "Hidden alleyway exploration",
               "coord": [
-                21.033,
-                105.855
+                21.040342199999998,
+                105.7987354
               ]
             },
             {
+              "name": "Phở Phượng",
               "type": "lunch",
-              "name": "Bun Cha Traditional",
               "coord": [
-                21.035,
-                105.86
+                21.0058968,
+                105.8196244
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Night market at Dong Xuan",
+              "name": "Rest time",
+              "type": "nap",
               "coord": [
-                21.039,
-                105.858
+                21.0499731,
+                105.83961099999999
+              ]
+            },
+            {
+              "name": "West Lake stroll + playground stop",
+              "type": "sightseeing",
+              "coord": [
+                21.0887,
+                105.8239
+              ]
+            },
+            {
+              "name": "Bún Bò Nam Bộ Bách Phương",
+              "type": "dinner",
+              "coord": [
+                21.032158499999998,
+                105.84691120000001
+              ]
+            },
+            {
+              "name": "Thăng Long Water Puppet Show",
+              "type": "optional",
+              "coord": [
+                21.0316826,
+                105.8533466
               ]
             }
           ]
         },
         {
-          "day": 2,
-          "title": "Ninh Binh Karst Landscape",
+          "label": "Day 2 —  Family Day in Ninh Binh — Tam Cốc & Villages",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                21.025488,
-                105.855978
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Drive to Ninh Binh",
-              "coord": [
-                20.2341,
-                105.438
-              ]
-            },
-            {
-              "type": "hotel",
               "name": "Jiva Hoa Lu Retreat",
+              "type": "hotel",
               "coord": [
                 20.223748099999998,
                 105.9282892
               ]
             },
             {
-              "type": "lunch",
-              "name": "Local village restaurant",
-              "coord": [
-                20.235,
-                105.44
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Trang An Grotto & kayaking",
-              "coord": [
-                20.22,
-                105.42
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Sapa Mountains & Rice Terraces",
-          "items": [
-            {
-              "type": "breakfast",
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                20.241,
-                105.438
+                20.223748099999998,
+                105.9282892
               ]
             },
             {
+              "name": "Tam Cốc sampan ride",
               "type": "sightseeing",
-              "name": "Flight to Sapa",
               "coord": [
-                22.3362,
-                103.8436
+                20.2163598,
+                105.93740799999999
               ]
             },
             {
-              "type": "hotel",
-              "name": "Boutique hotel in Sapa (TBD)",
+              "name": "Riverside lunch near Tam Cốc",
+              "type": "lunch",
               "coord": [
-                22.3362,
-                103.8436
+                20.2163598,
+                105.93740799999999
               ]
             },
             {
+              "name": "Pool and quiet time",
+              "type": "nap",
+              "coord": [
+                20.223748099999998,
+                105.9282892
+              ]
+            },
+            {
+              "name": "Countryside cycling between karsts",
               "type": "sightseeing",
-              "name": "Morning mist & rice terraces",
               "coord": [
-                22.32,
-                103.83
+                20.223748099999998,
+                105.9282892
               ]
             },
             {
+              "name": "Early dinner at hotel",
               "type": "dinner",
-              "name": "Local Hmong cuisine",
               "coord": [
-                22.3362,
-                103.8436
+                20.223748099999998,
+                105.9282892
               ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Sapa Trekking & Villages",
+          "label": "Day 3 —  Family Ha Long Bay Cruise — Islands & Lagoons",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                22.3362,
-                103.8436
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cat Cat Village trek",
-              "coord": [
-                22.33,
-                103.85
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Picnic lunch on trek",
-              "coord": [
-                22.325,
-                103.845
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Silver waterfall visit",
-              "coord": [
-                22.41,
-                103.82
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Sapa town restaurant",
-              "coord": [
-                22.3362,
-                103.8436
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Hue Imperial City",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                22.3362,
-                103.8436
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Hue",
-              "coord": [
-                16.4619,
-                107.5955
-              ]
-            },
-            {
+              "name": "Heritage Line – Ginger (Lan Ha Bay cruise)",
               "type": "hotel",
-              "name": "Azerai La Residence, Hue",
               "coord": [
-                16.4591051,
-                107.580182
+                20.9195499,
+                106.9854507
               ]
             },
             {
-              "type": "lunch",
-              "name": "Hue royal cuisine",
-              "coord": [
-                16.46,
-                107.59
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Forbidden Purple City",
-              "coord": [
-                16.4689,
-                107.5923
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Hue Perfume River & Tombs",
-          "items": [
-            {
+              "name": "Breakfast onboard",
               "type": "breakfast",
-              "name": "Hotel breakfast",
               "coord": [
-                16.4591,
-                107.580153
+                20.9195499,
+                106.9854507
               ]
             },
             {
+              "name": "Kayak among karsts and lagoons",
               "type": "sightseeing",
-              "name": "Perfume River cruise",
               "coord": [
-                16.46,
-                107.595
+                20.7319769,
+                107.0581862
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Emperors tombs (Minh Mang)",
-              "coord": [
-                16.42,
-                107.61
-              ]
-            },
-            {
+              "name": "Family lunch on deck",
               "type": "lunch",
-              "name": "Riverside lunch",
               "coord": [
-                16.46,
-                107.595
+                20.9195499,
+                106.9854507
               ]
             },
             {
+              "name": "Quiet time in cabins",
+              "type": "nap",
+              "coord": [
+                20.9195499,
+                106.9854507
+              ]
+            },
+            {
+              "name": "Swimming and beach time",
               "type": "sightseeing",
-              "name": "Thien Mu Pagoda",
               "coord": [
-                16.4531778,
-                107.54483309999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Hue to Ho Chi Minh City",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                16.4591,
-                107.580153
+                20.7321091,
+                107.0586811
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Fly to Ho Chi Minh City",
-              "coord": [
-                10.7769,
-                106.6995
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Park Hyatt Saigon",
-              "coord": [
-                10.7777514,
-                106.70338020000001
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Casual lunch in District 1",
-              "coord": [
-                10.775,
-                106.7
-              ]
-            },
-            {
+              "name": "Family dinner onboard",
               "type": "dinner",
-              "name": "Rooftop bar experience",
               "coord": [
-                10.7769,
-                106.6995
+                20.9195499,
+                106.9854507
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 —  Travel to Da Nang & Hoi An Coast",
+          "items": [
+            {
+              "name": "InterContinental Danang Sun Peninsula Resort",
+              "type": "hotel",
+              "coord": [
+                16.1208274,
+                108.3062154
+              ]
+            },
+            {
+              "name": "Morning flight Hanoi → Da Nang (1.5hr)",
+              "type": "info",
+              "coord": [
+                16.1208274,
+                108.3062154
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                20.9195499,
+                106.9854507
+              ]
+            },
+            {
+              "name": "La Maison 1888",
+              "type": "dinner",
+              "coord": [
+                16.122005599999998,
+                108.3061278
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 —  Family Fun — Hoi An",
+          "items": [
+            {
+              "name": "Four Seasons Resort The Nam Hai",
+              "type": "hotel",
+              "coord": [
+                15.929197299999997,
+                108.3173707
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                15.929197299999997,
+                108.3173707
+              ]
+            },
+            {
+              "name": "Cam Thanh coconut forest basket boat ride",
+              "type": "sightseeing",
+              "coord": [
+                15.898858399999998,
+                108.34937910000001
+              ]
+            },
+            {
+              "name": "Tra Que Vegetable Village by bike",
+              "type": "lunch",
+              "coord": [
+                15.9007548,
+                108.3382496
+              ]
+            },
+            {
+              "name": "Afternoon rest time",
+              "type": "nap",
+              "coord": [
+                15.929197299999997,
+                108.3173707
+              ]
+            },
+            {
+              "name": "An Bang Beach day",
+              "type": "sightseeing",
+              "coord": [
+                15.9136072,
+                108.34064889999999
+              ]
+            },
+            {
+              "name": "Hoi An lantern-making workshop",
+              "type": "sightseeing",
+              "coord": [
+                15.877762700000002,
+                108.32566609999999
+              ]
+            },
+            {
+              "name": "Hoi An Ancient Town early evening stroll",
+              "type": "dinner",
+              "coord": [
+                15.876587200000001,
+                108.3265009
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 —  Travel to Nha Trang & South Central Coast",
+          "items": [
+            {
+              "name": "Anantara Quy Nhon Villas",
+              "type": "hotel",
+              "coord": [
+                13.6803107,
+                109.2328347
+              ]
+            },
+            {
+              "name": "Morning flight Da Nang → Nha Trang (1hr)",
+              "type": "info",
+              "coord": [
+                13.6803107,
+                109.2328347
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                15.929197299999997,
+                108.3173707
+              ]
+            },
+            {
+              "name": "Phở Bò Lâm",
+              "type": "dinner",
+              "coord": [
+                11.951629200000001,
+                108.43022119999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 —  Family Beach Day — Nha Trang",
+          "items": [
+            {
+              "name": "The Anam Cam Ranh",
+              "type": "hotel",
+              "coord": [
+                12.100622399999999,
+                109.1921175
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                12.100622399999999,
+                109.1921175
+              ]
+            },
+            {
+              "name": "Morning beach play and pool",
+              "type": "sightseeing",
+              "coord": [
+                12.100622399999999,
+                109.1921175
+              ]
+            },
+            {
+              "name": "Casual lunch at resort",
+              "type": "lunch",
+              "coord": [
+                12.100622399999999,
+                109.1921175
+              ]
+            },
+            {
+              "name": "Afternoon rest time",
+              "type": "nap",
+              "coord": [
+                12.100622399999999,
+                109.1921175
+              ]
+            },
+            {
+              "name": "Beach walk or kids' activities",
+              "type": "sightseeing",
+              "coord": [
+                12.100622399999999,
+                109.1921175
+              ]
+            },
+            {
+              "name": "Early family dinner",
+              "type": "dinner",
+              "coord": [
+                12.100622399999999,
+                109.1921175
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 —  Family Quy Nhon — Quy Nhon",
+          "items": [
+            {
+              "name": "Zannier Hotels Bãi San Hô",
+              "type": "hotel",
+              "coord": [
+                13.551731799999999,
+                109.27594189999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                13.551731799999999,
+                109.27594189999999
+              ]
+            },
+            {
+              "name": "Beach and pool time",
+              "type": "sightseeing",
+              "coord": [
+                13.551731799999999,
+                109.27594189999999
+              ]
+            },
+            {
+              "name": "Bánh Xèo Tôm Nhảy Cô Ba",
+              "type": "lunch",
+              "coord": [
+                13.784204599999999,
+                109.22367729999999
+              ]
+            },
+            {
+              "name": "Return for nap time",
+              "type": "nap",
+              "coord": [
+                13.551731799999999,
+                109.27594189999999
+              ]
+            },
+            {
+              "name": "Estate exploration or kids' club",
+              "type": "sightseeing",
+              "coord": [
+                13.551731799999999,
+                109.27594189999999
+              ]
+            },
+            {
+              "name": "Family dinner at resort",
+              "type": "dinner",
+              "coord": [
+                13.551731799999999,
+                109.27594189999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 —  Resort Relaxation & Pool Time",
+          "items": [
+            {
+              "name": "Zannier Hotels Bãi San Hô",
+              "type": "hotel",
+              "coord": [
+                13.551731799999999,
+                109.27594189999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                13.551731799999999,
+                109.27594189999999
+              ]
+            },
+            {
+              "name": "Free morning to explore Nha Trang & South Central Coast",
+              "type": "sightseeing",
+              "coord": [
+                13.551731799999999,
+                109.27594189999999
+              ]
+            },
+            {
+              "name": "Phở Bò Lâm",
+              "type": "lunch",
+              "coord": [
+                11.951629200000001,
+                108.43022119999999
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                13.551731799999999,
+                109.27594189999999
+              ]
+            },
+            {
+              "name": "Bánh Xèo Tôm Nhảy Cô Ba",
+              "type": "dinner",
+              "coord": [
+                13.784204599999999,
+                109.22367729999999
               ]
             }
           ]
@@ -8248,465 +8402,445 @@
       ]
     },
     "c": {
-      "name": "Family Comfort (10 days)",
-      "color": "#D97706",
+      "name": "Grand Tour (14 Days)",
+      "description": "Epic north-to-south traverse covering highland villages, imperial cities, ancient towns, coastal beauty, and Mekong waterways.",
       "days": [
         {
-          "day": 1,
-          "title": "Hanoi Arrival",
+          "label": "Day 1 —     Deep Dive — Hanoi's Historical Soul",
           "items": [
             {
+              "name": "Sofitel Legend Metropole Hanoi",
               "type": "hotel",
-              "name": "Lotte Hotel Hanoi",
               "coord": [
-                21.031876099999998,
-                105.81230319999999
+                21.025412499999998,
+                105.856375
               ]
             },
             {
-              "type": "breakfast",
               "name": "Hotel breakfast",
-              "coord": [
-                21.032168,
-                105.812493
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Pho restaurant near hotel",
-              "coord": [
-                21.032,
-                105.813
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest at hotel",
-              "coord": [
-                21.032168,
-                105.812493
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Gentle Old Quarter walk",
-              "coord": [
-                21.0301,
-                105.8529
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Hanoi Kid Activities",
-          "items": [
-            {
               "type": "breakfast",
-              "name": "Hotel breakfast",
               "coord": [
-                21.032168,
-                105.812493
+                21.025412499999998,
+                105.856375
               ]
             },
             {
+              "name": "Ho Chi Minh Mausoleum complex",
               "type": "sightseeing",
-              "name": "Thăng Long Water Puppet Show",
               "coord": [
-                21.0316826,
-                105.8533466
+                21.0368973,
+                105.83466670000001
               ]
             },
             {
+              "name": "Phở 10 Lý Quốc Sư (Hoan Kiem)",
               "type": "lunch",
-              "name": "Family-friendly restaurant",
               "coord": [
-                21.035,
-                105.85
+                21.030496199999998,
+                105.8487892
               ]
             },
             {
-              "type": "nap",
-              "name": "Afternoon rest",
-              "coord": [
-                21.032168,
-                105.812493
-              ]
-            },
-            {
+              "name": "Hỏa Lò Prison (\"Hanoi Hilton\")",
               "type": "sightseeing",
-              "name": "Hoan Kiem Lake & ice cream",
               "coord": [
-                21.0285,
-                105.8545
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Day trip to Trang An",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Early hotel breakfast",
-              "coord": [
-                21.032168,
-                105.812493
+                21.0253297,
+                105.8464781
               ]
             },
             {
+              "name": "Hanoi Fine Arts Museum",
               "type": "sightseeing",
-              "name": "Drive to Trang An (2 hrs)",
               "coord": [
-                20.2341,
-                105.438
+                21.030784399999998,
+                105.83708399999999
               ]
             },
             {
-              "type": "lunch",
-              "name": "Local restaurant in Ninh Binh",
-              "coord": [
-                20.235,
-                105.44
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Trang An kayaking (family-paced)",
-              "coord": [
-                20.22,
-                105.42
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Return to Hanoi",
-              "coord": [
-                21.032168,
-                105.812493
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Relax day in Hanoi",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                21.032168,
-                105.812493
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kids zone at Vietnam Museum of Ethnology",
-              "coord": [
-                21.040077,
-                105.79884
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Relaxed lunch",
-              "coord": [
-                21.035,
-                105.85
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon nap",
-              "coord": [
-                21.032168,
-                105.812493
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Pool time or stroll",
-              "coord": [
-                21.032168,
-                105.812493
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Flight to Ha Long Bay",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast & checkout",
-              "coord": [
-                21.032168,
-                105.812493
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Ha Long",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "InterContinental Halong Bay Resort",
-              "coord": [
-                20.9538401,
-                107.0031851
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Hotel lunch",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest before evening",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            },
-            {
+              "name": "Ưu Đàm",
               "type": "dinner",
-              "name": "Dinner at hotel",
               "coord": [
-                20.96,
-                107.04
+                21.0187037,
+                105.8481346
+              ]
+            },
+            {
+              "name": "French Quarter architecture wander",
+              "type": "optional",
+              "coord": [
+                11.936396,
+                108.448316
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Ha Long Bay Family Cruise",
+          "label": "Day 2 —     Travel to Hue Imperial City",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cruise & cave exploration",
-              "coord": [
-                20.85,
-                107.15
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Lunch on boat",
-              "coord": [
-                20.9,
-                107.05
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Quiet time on boat",
-              "coord": [
-                20.9,
-                107.05
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Swimming & sunset",
-              "coord": [
-                20.88,
-                107.08
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Ha Long Bay Morning & Travel to Hoi An",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Easy morning activity",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Hotel lunch",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Da Nang/Hoi An",
-              "coord": [
-                15.8761,
-                108.3368
-              ]
-            },
-            {
+              "name": "Banyan Tree Lang Co",
               "type": "hotel",
-              "name": "Anantara Hoi An Resort",
               "coord": [
-                15.8772103,
-                108.3361561
+                16.338779799999998,
+                107.9537885
+              ]
+            },
+            {
+              "name": "Morning flight Hanoi → Hue (1.5hr)",
+              "type": "info",
+              "coord": [
+                16.338779799999998,
+                107.9537885
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                21.0257164,
+                105.8566886
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                16.338779799999998,
+                107.9537885
               ]
             }
           ]
         },
         {
-          "day": 8,
-          "title": "Hoi An Ancient Town Kids Day",
+          "label": "Day 3 —     Imperial Heritage — Hue",
           "items": [
             {
-              "type": "breakfast",
+              "name": "Azerai La Residence, Hue",
+              "type": "hotel",
+              "coord": [
+                16.4591051,
+                107.580182
+              ]
+            },
+            {
               "name": "Hotel breakfast",
-              "coord": [
-                15.87706,
-                108.33699
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Lantern-making workshop (kids)",
-              "coord": [
-                15.878,
-                108.337
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Local Hoi An cuisine",
-              "coord": [
-                15.875,
-                108.336
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest",
-              "coord": [
-                15.87706,
-                108.33699
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ancient town night stroll & lights",
-              "coord": [
-                15.8761,
-                108.3368
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Beach day in Hoi An",
-          "items": [
-            {
               "type": "breakfast",
-              "name": "Hotel breakfast",
               "coord": [
-                15.87706,
-                108.33699
+                16.4591051,
+                107.580182
               ]
             },
             {
+              "name": "Imperial City (Citadel)",
               "type": "sightseeing",
-              "name": "An Bang Beach swimming",
               "coord": [
-                15.915667,
-                108.336874
+                16.47694,
+                107.57395869999999
               ]
             },
             {
+              "name": "Lunch near Citadel",
               "type": "lunch",
-              "name": "Beachside lunch",
               "coord": [
-                15.916,
-                108.3365
+                16.4705504,
+                107.59601219999999
               ]
             },
             {
-              "type": "nap",
-              "name": "Quiet beach time",
+              "name": "Royal tombs by private car/boat",
+              "type": "sightseeing",
               "coord": [
-                15.916,
-                108.3365
+                16.398953499999998,
+                107.5902955
               ]
             },
             {
+              "name": "Hue royal cuisine tasting",
+              "type": "dinner",
+              "coord": [
+                16.4705504,
+                107.59601219999999
+              ]
+            },
+            {
+              "name": "Evening stroll along Perfume River",
               "type": "optional",
-              "name": "Sunset walk on beach",
               "coord": [
-                15.915667,
-                108.336874
+                16.4591051,
+                107.580182
               ]
             }
           ]
         },
         {
-          "day": 10,
-          "title": "Hoi An & Departure",
+          "label": "Day 4 —     Travel to Da Nang & Hoi An Coast",
           "items": [
             {
-              "type": "breakfast",
+              "name": "InterContinental Danang Sun Peninsula Resort",
+              "type": "hotel",
+              "coord": [
+                16.1208274,
+                108.3062154
+              ]
+            },
+            {
+              "name": "Private car Hue → Hoi An via Hai Van Pass (2hr scenic drive)",
+              "type": "info",
+              "coord": [
+                16.1208274,
+                108.3062154
+              ]
+            },
+            {
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                15.87706,
-                108.33699
+                16.4591051,
+                107.580182
               ]
             },
             {
-              "type": "optional",
-              "name": "Last-minute stroll or shopping",
+              "name": "La Maison 1888",
+              "type": "dinner",
               "coord": [
-                15.8761,
-                108.3368
+                16.122005599999998,
+                108.3061278
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 —     Travel to Ho Chi Minh City (Saigon)",
+          "items": [
+            {
+              "name": "The Reverie Saigon",
+              "type": "hotel",
+              "coord": [
+                10.7737397,
+                106.704549
               ]
             },
             {
-              "type": "lunch",
-              "name": "Farewell lunch",
+              "name": "Morning flight Da Nang → Ho Chi Minh City (1.5hr)",
+              "type": "info",
               "coord": [
-                15.875,
-                108.336
+                10.7737397,
+                106.704549
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                15.9030418,
+                108.35387419999999
+              ]
+            },
+            {
+              "name": "Ănăn Saigon",
+              "type": "dinner",
+              "coord": [
+                10.771728999999999,
+                106.70289299999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 —     District 1 Highlights — Central Saigon",
+          "items": [
+            {
+              "name": "Park Hyatt Saigon",
+              "type": "hotel",
+              "coord": [
+                10.7777514,
+                106.70338020000001
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                10.7777514,
+                106.70338020000001
+              ]
+            },
+            {
+              "name": "Central Post Office + colonial landmarks",
               "type": "sightseeing",
-              "name": "Depart for airport",
               "coord": [
-                15.8761,
-                108.3368
+                10.7799129,
+                106.699902
+              ]
+            },
+            {
+              "name": "Reunification Palace",
+              "type": "sightseeing",
+              "coord": [
+                10.776994199999999,
+                106.69530209999999
+              ]
+            },
+            {
+              "name": "Phở Minh",
+              "type": "lunch",
+              "coord": [
+                10.774811,
+                106.700278
+              ]
+            },
+            {
+              "name": "War Remnants Museum",
+              "type": "sightseeing",
+              "coord": [
+                10.7795106,
+                106.6920916
+              ]
+            },
+            {
+              "name": "Ănăn Saigon",
+              "type": "dinner",
+              "coord": [
+                10.771728999999999,
+                106.70289299999999
+              ]
+            },
+            {
+              "name": "Nguyễn Huệ walking street at night",
+              "type": "optional",
+              "coord": [
+                10.7733531,
+                106.7038615
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 —     Mekong Essentials — Can Tho",
+          "items": [
+            {
+              "name": "Azerai Can Tho",
+              "type": "hotel",
+              "coord": [
+                10.0367844,
+                105.8027925
+              ]
+            },
+            {
+              "name": "Cái Răng floating market at sunrise",
+              "type": "sightseeing",
+              "coord": [
+                10.005036299999999,
+                105.7459816
+              ]
+            },
+            {
+              "name": "Breakfast on boat at floating market",
+              "type": "breakfast",
+              "coord": [
+                10.005036299999999,
+                105.7459816
+              ]
+            },
+            {
+              "name": "Sampan through narrow canals",
+              "type": "sightseeing",
+              "coord": [
+                16.0,
+                107.0
+              ]
+            },
+            {
+              "name": "Lunch at riverside local restaurant",
+              "type": "lunch",
+              "coord": [
+                10.0367844,
+                105.8027925
+              ]
+            },
+            {
+              "name": "Fruit orchards + tasting",
+              "type": "sightseeing",
+              "coord": [
+                20.991232,
+                106.057552
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                10.0367844,
+                105.8027925
+              ]
+            },
+            {
+              "name": "Evening river walk",
+              "type": "optional",
+              "coord": [
+                10.0367844,
+                105.8027925
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 —     Cultural Deep Dive — Cái Bè Region",
+          "items": [
+            {
+              "name": "Azerai Can Tho",
+              "type": "hotel",
+              "coord": [
+                10.0367844,
+                105.8027925
+              ]
+            },
+            {
+              "name": "Early breakfast at hotel",
+              "type": "breakfast",
+              "coord": [
+                10.0367844,
+                105.8027925
+              ]
+            },
+            {
+              "name": "A Day in Cái Bè (Mekong Delta)",
+              "type": "sightseeing",
+              "coord": [
+                10.323765700000001,
+                106.04572300000001
+              ]
+            },
+            {
+              "name": "Traditional house lunch in Cái Bè",
+              "type": "lunch",
+              "coord": [
+                10.323765700000001,
+                106.04572300000001
+              ]
+            },
+            {
+              "name": "Cái Bè Market Area",
+              "type": "shopping",
+              "coord": [
+                10.3366344,
+                106.0323076
+              ]
+            },
+            {
+              "name": "Sampan through narrow canals",
+              "type": "sightseeing",
+              "coord": [
+                16.0,
+                107.0
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                10.0367844,
+                105.8027925
               ]
             }
           ]
@@ -8714,465 +8848,551 @@
       ]
     },
     "d": {
-      "name": "Foodie Deep-Dive (10 days)",
-      "color": "#DC2626",
+      "name": "Culinary Vietnam (10 Days)",
+      "description": "Food-obsessed journey from Hanoi's street legends through Hue's royal cuisine to Saigon's Michelin markets and Mekong's farm-to-table treasures.",
       "days": [
         {
-          "day": 1,
-          "title": "Hanoi Street Food Immersion",
+          "label": "Day 1 — Hanoi Food Odyssey — Old Quarter to West Lake",
           "items": [
             {
-              "type": "hotel",
               "name": "Capella Hanoi",
+              "type": "hotel",
               "coord": [
                 21.0257164,
                 105.8566886
               ]
             },
             {
+              "name": "Miến Lươn Đông Thịnh",
               "type": "breakfast",
-              "name": "Egg coffee & banh mi crawl",
               "coord": [
-                21.0301,
-                105.8529
+                21.031864199999998,
+                105.8468695
               ]
             },
             {
-              "type": "lunch",
-              "name": "Bun Cha Ta",
-              "coord": [
-                21.035,
-                105.86
-              ]
-            },
-            {
+              "name": "Cooking class in Hanoi (market-to-table)",
               "type": "sightseeing",
-              "name": "Hanoi street food walking tour",
               "coord": [
-                21.0315,
-                105.8555
+                21.0362239,
+                105.8527792
               ]
             },
             {
-              "type": "dinner",
-              "name": "Hibana by Koki (Michelin)",
+              "name": "Bún chả Hương Liên",
+              "type": "lunch",
               "coord": [
-                21.0305,
-                105.8582
+                21.0181373,
+                105.8538926
+              ]
+            },
+            {
+              "name": "Egg coffee + café crawl",
+              "type": "sightseeing",
+              "coord": [
+                12.2391592,
+                109.1905319
+              ]
+            },
+            {
+              "name": "Hibana by Koki",
+              "type": "dinner",
+              "coord": [
+                21.025798599999998,
+                105.85675889999999
+              ]
+            },
+            {
+              "name": "Hanoi Street Eats After Dark (guided)",
+              "type": "optional",
+              "coord": [
+                21.0376372,
+                105.85254379999999
               ]
             }
           ]
         },
         {
-          "day": 2,
-          "title": "Hanoi High Cuisine",
+          "label": "Day 2 — Market Day — From Wholesale to Street",
           "items": [
             {
+              "name": "Meritel Hanoi",
+              "type": "hotel",
+              "coord": [
+                21.0293134,
+                105.8454768
+              ]
+            },
+            {
+              "name": "Long Biên Market",
               "type": "breakfast",
-              "name": "Local cafe breakfast",
               "coord": [
-                21.0301,
-                105.8529
+                21.041267899999998,
+                105.8504815
               ]
             },
             {
+              "name": "Phở Khôi Hói",
               "type": "sightseeing",
-              "name": "Market visit (Dong Xuan)",
               "coord": [
-                21.039,
-                105.858
+                21.0357335,
+                105.84618309999999
               ]
             },
             {
+              "name": "1946 Cua Bac",
               "type": "lunch",
-              "name": "Tầm Vị (Michelin)",
               "coord": [
-                21.01397,
-                105.32996
+                21.042942,
+                105.8428883
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Cooking class in home setting",
+              "name": "Đồng Xuân Market",
+              "type": "shopping",
               "coord": [
-                21.0301,
-                105.8529
+                21.0381434,
+                105.8500387
               ]
             },
             {
+              "name": "Bun Cha Ta (Nguyen Huu Huan St.)",
               "type": "dinner",
-              "name": "Refined Hanoi dinner",
               "coord": [
-                21.03,
-                105.858
+                21.0343417,
+                105.854475
+              ]
+            },
+            {
+              "name": "Hanoi Old Quarter Weekend Night Market",
+              "type": "optional",
+              "coord": [
+                21.032349999999997,
+                105.8514391
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Ha Long Bay Gourmet",
+          "label": "Day 3 — Travel to Hue Imperial City",
           "items": [
             {
-              "type": "breakfast",
+              "name": "Banyan Tree Lang Co",
+              "type": "hotel",
+              "coord": [
+                16.338779799999998,
+                107.9537885
+              ]
+            },
+            {
+              "name": "Morning flight Hanoi → Hue (1.5hr)",
+              "type": "info",
+              "coord": [
+                16.338779799999998,
+                107.9537885
+              ]
+            },
+            {
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                21.025715,
-                105.85681
+                21.0293134,
+                105.8454768
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Drive to Ha Long Bay",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "InterContinental Halong Bay Resort",
-              "coord": [
-                20.9538401,
-                107.0031851
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Fresh seafood lunch",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            },
-            {
+              "name": "Dinner at hotel",
               "type": "dinner",
-              "name": "Premium seafood dinner",
               "coord": [
-                20.96,
-                107.04
+                16.338779799999998,
+                107.9537885
               ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Ha Long Bay & Fishing Village",
+          "label": "Day 4 — Royal Cuisine Trail — Hue",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Cruise breakfast",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ha Long Bay cruise & kayak",
-              "coord": [
-                20.85,
-                107.15
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Local fishing village meal",
-              "coord": [
-                20.9,
-                107.05
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Floating market exploration",
-              "coord": [
-                20.92,
-                107.02
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Fresh catch dinner",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Hue Imperial Court Cuisine",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Early breakfast & depart",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Hue",
-              "coord": [
-                16.4619,
-                107.5955
-              ]
-            },
-            {
-              "type": "hotel",
               "name": "Azerai La Residence, Hue",
+              "type": "hotel",
               "coord": [
                 16.4591051,
                 107.580182
               ]
             },
             {
-              "type": "lunch",
-              "name": "Imperial Hue cuisine tasting",
+              "name": "Market breakfast tour",
+              "type": "breakfast",
               "coord": [
-                16.46,
-                107.59
+                16.4705504,
+                107.59601219999999
               ]
             },
             {
-              "type": "dinner",
-              "name": "Royal banquet-style meal",
+              "name": "Perfume River dragon-boat cruise (short)",
+              "type": "sightseeing",
               "coord": [
-                16.4591,
-                107.580153
+                16.4700478,
+                107.5924522
+              ]
+            },
+            {
+              "name": "Traditional bún bò Huế lunch",
+              "type": "lunch",
+              "coord": [
+                16.4705504,
+                107.59601219999999
+              ]
+            },
+            {
+              "name": "Imperial City (Citadel)",
+              "type": "sightseeing",
+              "coord": [
+                16.47694,
+                107.57395869999999
+              ]
+            },
+            {
+              "name": "Hue royal cuisine tasting",
+              "type": "dinner",
+              "coord": [
+                16.4705504,
+                107.59601219999999
+              ]
+            },
+            {
+              "name": "Dessert café on Le Loi Street",
+              "type": "optional",
+              "coord": [
+                16.4591051,
+                107.580182
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Hue Food Culture Deep Dive",
+          "label": "Day 5 — Travel to Da Nang & Hoi An Coast",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                16.4591,
-                107.580153
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Local cooking class",
-              "coord": [
-                16.46,
-                107.59
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Market-to-table meal",
-              "coord": [
-                16.462,
-                107.592
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Food market exploration",
-              "coord": [
-                16.465,
-                107.588
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Chefs special menu",
-              "coord": [
-                16.4591,
-                107.580153
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Hoi An Culinary Arts",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                16.4591,
-                107.580153
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Hoi An",
-              "coord": [
-                15.8761,
-                108.3368
-              ]
-            },
-            {
+              "name": "InterContinental Danang Sun Peninsula Resort",
               "type": "hotel",
-              "name": "Four Seasons Resort The Nam Hai",
               "coord": [
-                15.929197299999997,
-                108.3173707
+                16.1208274,
+                108.3062154
               ]
             },
             {
-              "type": "lunch",
-              "name": "Local Hoi An specialty lunch",
+              "name": "Private transfer Hue → Da Nang (2hr)",
+              "type": "info",
               "coord": [
-                15.875,
-                108.336
+                16.1208274,
+                108.3062154
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Hoi An culinary walking tour",
-              "coord": [
-                15.8761,
-                108.3368
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Hoi An Market & Cooking",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Early market visit & breakfast",
-              "coord": [
-                15.8765,
-                108.3375
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Cooking class with local chef",
-              "coord": [
-                15.875,
-                108.336
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Cook & eat your meal",
-              "coord": [
-                15.875,
-                108.336
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Town walk & coffee",
-              "coord": [
-                15.8761,
-                108.3368
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Gia (Michelin restaurant)",
-              "coord": [
-                10.01071,
-                105.083262
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Ho Chi Minh City Dining Experience",
-          "items": [
-            {
-              "type": "breakfast",
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                15.876,
-                108.315
+                16.4591051,
+                107.580182
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Flight to Ho Chi Minh City",
+              "name": "La Maison 1888",
+              "type": "dinner",
               "coord": [
-                10.7769,
-                106.6995
+                16.122005599999998,
+                108.3061278
               ]
-            },
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Hoi An Market Morning & Cooking Class",
+          "items": [
             {
+              "name": "InterContinental Danang Sun Peninsula Resort",
               "type": "hotel",
+              "coord": [
+                16.1208274,
+                108.3062154
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                16.1208274,
+                108.3062154
+              ]
+            },
+            {
+              "name": "Free morning to explore Da Nang & Hoi An Coast",
+              "type": "sightseeing",
+              "coord": [
+                16.1208274,
+                108.3062154
+              ]
+            },
+            {
+              "name": "La Maison 1888",
+              "type": "lunch",
+              "coord": [
+                16.122005599999998,
+                108.3061278
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                16.1208274,
+                108.3062154
+              ]
+            },
+            {
+              "name": "Nén Danang",
+              "type": "dinner",
+              "coord": [
+                16.0346026,
+                108.2395581
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Travel to Ho Chi Minh City (Saigon)",
+          "items": [
+            {
               "name": "The Reverie Saigon",
+              "type": "hotel",
               "coord": [
                 10.7737397,
                 106.704549
               ]
             },
             {
-              "type": "lunch",
-              "name": "Ănăn Saigon (Michelin)",
+              "name": "Afternoon flight Da Nang → Ho Chi Minh City (1.5hr)",
+              "type": "info",
               "coord": [
-                10.771803,
-                106.702975
+                10.7737397,
+                106.704549
               ]
             },
             {
-              "type": "dinner",
-              "name": "Multi-course tasting menu",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                10.773873,
-                106.704865
+                16.1208274,
+                108.3062154
+              ]
+            },
+            {
+              "name": "Ănăn Saigon",
+              "type": "dinner",
+              "coord": [
+                10.771728999999999,
+                106.70289299999999
               ]
             }
           ]
         },
         {
-          "day": 10,
-          "title": "HCMC Final Food Experiences",
+          "label": "Day 8 — Saigon Food Crawl — Districts 1, 3 & 5",
           "items": [
             {
+              "name": "Hôtel des Arts Saigon – MGallery Collection",
+              "type": "hotel",
+              "coord": [
+                10.782461099999999,
+                106.6972784
+              ]
+            },
+            {
+              "name": "Phở Hương Bình",
               "type": "breakfast",
-              "name": "Hotel breakfast",
               "coord": [
-                10.773873,
-                106.704865
+                10.787106200000002,
+                106.69103600000001
               ]
             },
             {
+              "name": "Bến Thành Market",
               "type": "sightseeing",
-              "name": "Ben Thanh Market food tour",
               "coord": [
-                10.7723,
-                106.6989
+                10.772516800000002,
+                106.6980208
               ]
             },
             {
+              "name": "Coffee workshop / tasting flight",
+              "type": "sightseeing",
+              "coord": [
+                10.7734764,
+                106.7056037
+              ]
+            },
+            {
+              "name": "Phở Lệ (District 5)",
               "type": "lunch",
-              "name": "Street food crawl in District 1",
               "coord": [
-                10.775,
-                106.7
+                10.755295900000002,
+                106.67351959999999
               ]
             },
             {
-              "type": "optional",
-              "name": "Cafe & dessert before departure",
+              "name": "Hồ Thị Kỷ Flower Market",
+              "type": "sightseeing",
               "coord": [
-                10.7769,
-                106.6995
+                10.7653897,
+                106.67700509999999
               ]
             },
             {
+              "name": "Coco Dining",
               "type": "dinner",
-              "name": "Farewell dinner at rooftop",
               "coord": [
-                10.773873,
-                106.704865
+                10.78068,
+                106.6932882
+              ]
+            },
+            {
+              "name": "Saigon Street Food Tour by Vespa",
+              "type": "optional",
+              "coord": [
+                10.7669412,
+                106.6941992
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Culinary Mekong — Can Tho to Long Xuyen",
+          "items": [
+            {
+              "name": "Azerai Can Tho",
+              "type": "hotel",
+              "coord": [
+                10.0367844,
+                105.8027925
+              ]
+            },
+            {
+              "name": "Breakfast boats at Cái Răng",
+              "type": "breakfast",
+              "coord": [
+                10.005036299999999,
+                105.7459816
+              ]
+            },
+            {
+              "name": "Cái Răng Floating Market",
+              "type": "shopping",
+              "coord": [
+                10.005036299999999,
+                105.7459816
+              ]
+            },
+            {
+              "name": "Fruit orchards + tasting",
+              "type": "sightseeing",
+              "coord": [
+                20.991232,
+                106.057552
+              ]
+            },
+            {
+              "name": "Lunch at local family home",
+              "type": "lunch",
+              "coord": [
+                10.0367844,
+                105.8027925
+              ]
+            },
+            {
+              "name": "Afternoon rest at hotel",
+              "type": "optional",
+              "coord": [
+                10.0367844,
+                105.8027925
+              ]
+            },
+            {
+              "name": "Gia",
+              "type": "dinner",
+              "coord": [
+                10.0044762,
+                105.0821897
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Market Circuit — Can Tho to Cái Bè",
+          "items": [
+            {
+              "name": "Azerai Can Tho",
+              "type": "hotel",
+              "coord": [
+                10.0367844,
+                105.8027925
+              ]
+            },
+            {
+              "name": "Pre-dawn departure",
+              "type": "breakfast",
+              "coord": [
+                10.0367844,
+                105.8027925
+              ]
+            },
+            {
+              "name": "Cái Răng Floating Market",
+              "type": "sightseeing",
+              "coord": [
+                10.005036299999999,
+                105.7459816
+              ]
+            },
+            {
+              "name": "Breakfast at floating market",
+              "type": "breakfast",
+              "coord": [
+                10.005036299999999,
+                105.7459816
+              ]
+            },
+            {
+              "name": "Cái Bè Market Area",
+              "type": "shopping",
+              "coord": [
+                10.3366344,
+                106.0323076
+              ]
+            },
+            {
+              "name": "Lunch at Cái Bè market stalls",
+              "type": "lunch",
+              "coord": [
+                10.3366344,
+                106.0323076
+              ]
+            },
+            {
+              "name": "Sampan through narrow canals",
+              "type": "sightseeing",
+              "coord": [
+                16.0,
+                107.0
+              ]
+            },
+            {
+              "name": "Return to hotel for dinner",
+              "type": "dinner",
+              "coord": [
+                10.0367844,
+                105.8027925
               ]
             }
           ]
@@ -9180,665 +9400,421 @@
       ]
     },
     "e": {
-      "name": "Grand Tour (14 days)",
-      "color": "#7C3AED",
+      "name": "Luxury Wellness Escape (8 Days)",
+      "description": "Indulgent retreat pairing Hanoi's refined elegance with Hoi An's Michelin dining, Nha Trang's spa sanctuaries, and Phu Quoc's secluded beaches.",
       "days": [
         {
-          "day": 1,
-          "title": "Hanoi Arrival & Exploration",
+          "label": "Day 1 — Luxury Hanoi — Design, Dining & Pampering",
           "items": [
             {
-              "type": "hotel",
               "name": "Capella Hanoi",
+              "type": "hotel",
               "coord": [
                 21.0257164,
                 105.8566886
               ]
             },
             {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Local breakfast",
               "coord": [
-                21.0301,
-                105.8529
+                21.0257164,
+                105.8566886
               ]
             },
             {
+              "name": "In-room spa treatment",
               "type": "sightseeing",
-              "name": "Hoan Kiem Lake & Old Quarter",
               "coord": [
-                21.0285,
-                105.8545
+                21.0257164,
+                105.8566886
               ]
             },
             {
+              "name": "Hà Thành Mansion",
               "type": "lunch",
-              "name": "Traditional pho",
               "coord": [
-                21.032,
-                105.855
+                21.0208965,
+                105.8490654
               ]
             },
             {
+              "name": "Street photography session (private)",
+              "type": "sightseeing",
+              "coord": [
+                21.018164,
+                105.8247954
+              ]
+            },
+            {
+              "name": "CieL",
               "type": "dinner",
-              "name": "Hibana by Koki (Michelin)",
               "coord": [
-                21.0305,
-                105.8582
+                21.0306598,
+                105.84964989999999
+              ]
+            },
+            {
+              "name": "Rooftop cocktails at Peridot Grand",
+              "type": "optional",
+              "coord": [
+                21.0329875,
+                105.8463034
               ]
             }
           ]
         },
         {
-          "day": 2,
-          "title": "Hanoi Culture & History",
+          "label": "Day 2 — Travel to Da Nang & Hoi An Coast",
           "items": [
             {
-              "type": "breakfast",
+              "name": "InterContinental Danang Sun Peninsula Resort",
+              "type": "hotel",
+              "coord": [
+                16.1208274,
+                108.3062154
+              ]
+            },
+            {
+              "name": "Morning flight Hanoi → Da Nang (1.5hr)",
+              "type": "info",
+              "coord": [
+                16.1208274,
+                108.3062154
+              ]
+            },
+            {
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                21.025715,
-                105.85681
+                21.0257164,
+                105.8566886
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Vietnam Museum of Ethnology",
-              "coord": [
-                21.040342199999998,
-                105.7987354
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Tầm Vị (Michelin)",
-              "coord": [
-                21.01397,
-                105.32996
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "French Quarter architecture walk",
-              "coord": [
-                21.027,
-                105.845
-              ]
-            },
-            {
+              "name": "La Maison 1888",
               "type": "dinner",
-              "name": "Street food experience",
               "coord": [
-                21.0315,
-                105.8555
+                16.122005599999998,
+                108.3061278
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Sapa Mountain & Rice Terraces",
+          "label": "Day 3 — Luxury Escape — Peninsula & Nam Hai",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Early departure",
-              "coord": [
-                21.025715,
-                105.85681
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Sapa",
-              "coord": [
-                22.3362,
-                103.8436
-              ]
-            },
-            {
+              "name": "TIA Wellness Resort",
               "type": "hotel",
-              "name": "Mountain retreat (TBD)",
               "coord": [
-                22.3362,
-                103.8436
+                16.031278099999998,
+                108.25436429999999
               ]
             },
             {
-              "type": "lunch",
-              "name": "Local Sapa cuisine",
-              "coord": [
-                22.3362,
-                103.8436
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Rice terrace sunset",
-              "coord": [
-                22.32,
-                103.83
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Sapa Trekking & Villages",
-          "items": [
-            {
-              "type": "breakfast",
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                22.3362,
-                103.8436
+                16.031278099999998,
+                108.25436429999999
               ]
             },
             {
+              "name": "Wellness retreat programming (TIA / Amanoi / Nam Hai)",
               "type": "sightseeing",
-              "name": "Cat Cat Village trek",
               "coord": [
-                22.33,
-                103.85
+                11.7094081,
+                109.1976347
               ]
             },
             {
+              "name": "Nén Danang",
               "type": "lunch",
-              "name": "Picnic lunch",
               "coord": [
-                22.325,
-                103.845
+                16.0346026,
+                108.2395581
               ]
             },
             {
+              "name": "Spa treatment at resort",
               "type": "sightseeing",
-              "name": "Silver Waterfall",
               "coord": [
-                22.41,
-                103.82
+                16.031278099999998,
+                108.25436429999999
               ]
             },
             {
+              "name": "La Maison 1888",
               "type": "dinner",
-              "name": "Mountain town dinner",
               "coord": [
-                22.3362,
-                103.8436
+                16.122005599999998,
+                108.3061278
+              ]
+            },
+            {
+              "name": "Evening drinks at InterContinental",
+              "type": "optional",
+              "coord": [
+                16.1208274,
+                108.3062154
               ]
             }
           ]
         },
         {
-          "day": 5,
-          "title": "Ninh Binh Karst Landscape",
+          "label": "Day 4 — Scenic Train — Da Nang to Quy Nhon",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                22.3362,
-                103.8436
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight back to Hanoi",
-              "coord": [
-                21.0285,
-                105.8545
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Drive to Ninh Binh",
-              "coord": [
-                20.2341,
-                105.438
-              ]
-            },
-            {
+              "name": "InterContinental Danang Sun Peninsula Resort",
               "type": "hotel",
-              "name": "Jiva Hoa Lu Retreat",
               "coord": [
-                20.223748099999998,
-                105.9282892
+                16.1208274,
+                108.3062154
               ]
             },
             {
-              "type": "lunch",
-              "name": "Local restaurant",
-              "coord": [
-                20.235,
-                105.44
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Trang An kayaking sunset",
-              "coord": [
-                20.22,
-                105.42
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Ninh Binh Exploration & Ha Long",
-          "items": [
-            {
-              "type": "breakfast",
               "name": "Hotel breakfast",
-              "coord": [
-                20.241,
-                105.438
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Bai Dinh Pagoda",
-              "coord": [
-                20.265,
-                105.41
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Local lunch",
-              "coord": [
-                20.235,
-                105.44
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Drive to Ha Long Bay",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "InterContinental Halong Bay Resort",
-              "coord": [
-                20.9538401,
-                107.0031851
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Ha Long Bay Cruise & Caves",
-          "items": [
-            {
               "type": "breakfast",
-              "name": "Hotel breakfast",
               "coord": [
-                20.96,
-                107.04
+                16.1208274,
+                108.3062154
               ]
             },
             {
+              "name": "Vietage Scenic Train (Da Nang ↔ Quy Nhon)",
               "type": "sightseeing",
-              "name": "Ha Long Bay cruise",
               "coord": [
-                20.85,
-                107.15
+                16.0716108,
+                108.2092424
               ]
             },
             {
+              "name": "Onboard dining",
               "type": "lunch",
-              "name": "Seafood lunch on boat",
               "coord": [
-                20.9,
-                107.05
+                16.0716108,
+                108.2092424
               ]
             },
             {
+              "name": "Coastal scenery viewing",
               "type": "sightseeing",
-              "name": "Sung Sot Cave & swimming",
               "coord": [
-                20.88,
-                107.08
+                16.0716108,
+                108.2092424
               ]
             },
             {
+              "name": "Return to Da Nang",
+              "type": "sightseeing",
+              "coord": [
+                16.0716108,
+                108.2092424
+              ]
+            },
+            {
+              "name": "Nén Danang",
               "type": "dinner",
-              "name": "Floating village dinner",
               "coord": [
-                20.96,
-                107.04
+                16.0346026,
+                108.2395581
               ]
             }
           ]
         },
         {
-          "day": 8,
-          "title": "Ha Long to Hoi An",
+          "label": "Day 5 — Travel to Nha Trang & South Central Coast",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Early breakfast",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Morning bay activity",
-              "coord": [
-                20.88,
-                107.08
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Lunch before departure",
-              "coord": [
-                20.96,
-                107.04
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Da Nang",
-              "coord": [
-                16.0544,
-                108.2022
-              ]
-            },
-            {
+              "name": "Anantara Quy Nhon Villas",
               "type": "hotel",
-              "name": "Four Seasons Resort The Nam Hai",
               "coord": [
-                15.929197299999997,
-                108.3173707
+                13.6803107,
+                109.2328347
               ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Hoi An Ancient Town & Beaches",
-          "items": [
+            },
             {
-              "type": "breakfast",
+              "name": "Morning flight Da Nang → Nha Trang (1hr)",
+              "type": "info",
+              "coord": [
+                13.6803107,
+                109.2328347
+              ]
+            },
+            {
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                15.876,
-                108.315
+                16.1208274,
+                108.3062154
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Hoi An Old Town walking tour",
-              "coord": [
-                15.8761,
-                108.3368
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Local Hoi An cuisine",
-              "coord": [
-                15.875,
-                108.336
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Lantern-making workshop",
-              "coord": [
-                15.877762700000002,
-                108.32566609999999
-              ]
-            },
-            {
+              "name": "Phở Bò Lâm",
               "type": "dinner",
-              "name": "Riverside dinner",
               "coord": [
-                15.875,
-                108.336
+                11.951629200000001,
+                108.43022119999999
               ]
             }
           ]
         },
         {
-          "day": 10,
-          "title": "Hue Imperial City",
+          "label": "Day 6 — Amanoi Sanctuary — Nui Chua",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                15.876,
-                108.315
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Drive to Hue (scenic route)",
-              "coord": [
-                16.4619,
-                107.5955
-              ]
-            },
-            {
+              "name": "Amanoi",
               "type": "hotel",
-              "name": "Azerai La Residence, Hue",
               "coord": [
-                16.4591051,
-                107.580182
+                11.7094081,
+                109.1976347
               ]
             },
             {
-              "type": "lunch",
-              "name": "Imperial Hue cuisine",
-              "coord": [
-                16.46,
-                107.59
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Forbidden City exploration",
-              "coord": [
-                16.4689,
-                107.5923
-              ]
-            }
-          ]
-        },
-        {
-          "day": 11,
-          "title": "Hue Culture & Traditions",
-          "items": [
-            {
+              "name": "Hotel breakfast with views",
               "type": "breakfast",
-              "name": "Hotel breakfast",
               "coord": [
-                16.4591,
-                107.580153
+                11.7094081,
+                109.1976347
               ]
             },
             {
+              "name": "Amanoi water sports (kayak/catamaran/snorkel)",
               "type": "sightseeing",
-              "name": "Perfume River cruise",
               "coord": [
-                16.46,
-                107.595
+                11.7094081,
+                109.1976347
               ]
             },
             {
+              "name": "Pavilion lunch",
               "type": "lunch",
-              "name": "Lunch cruise",
               "coord": [
-                16.46,
-                107.595
+                11.7094081,
+                109.1976347
               ]
             },
             {
+              "name": "Wellness spa session",
               "type": "sightseeing",
-              "name": "Minh Mang Tomb visit",
               "coord": [
-                16.42,
-                107.61
+                11.7094081,
+                109.1976347
               ]
             },
             {
+              "name": "Sunset cocktails and dinner",
               "type": "dinner",
-              "name": "Traditional Hue dinner",
               "coord": [
-                16.4591,
-                107.580153
+                11.7094081,
+                109.1976347
+              ]
+            },
+            {
+              "name": "Private villa relaxation",
+              "type": "optional",
+              "coord": [
+                11.7094081,
+                109.1976347
               ]
             }
           ]
         },
         {
-          "day": 12,
-          "title": "Nha Trang Beaches & Islands",
+          "label": "Day 7 — Travel to Phu Quoc Island",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                16.4591,
-                107.580153
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Nha Trang",
-              "coord": [
-                12.2588,
-                109.1967
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Mia Resort Nha Trang",
-              "coord": [
-                12.1352578,
-                109.2123833
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Beach lunch",
-              "coord": [
-                12.258,
-                109.195
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Nha Trang beach & island tour",
-              "coord": [
-                12.24,
-                109.18
-              ]
-            }
-          ]
-        },
-        {
-          "day": 13,
-          "title": "Phu Quoc Island Paradise",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                12.234877,
-                109.194144
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Phu Quoc",
-              "coord": [
-                10.1875,
-                104.0008
-              ]
-            },
-            {
-              "type": "hotel",
               "name": "JW Marriott Phu Quoc Emerald Bay Resort & Spa",
+              "type": "hotel",
               "coord": [
                 10.033530899999999,
                 104.0284296
               ]
             },
             {
-              "type": "lunch",
-              "name": "Beach lunch",
+              "name": "Flight Nha Trang → Phu Quoc (1.5hr)",
+              "type": "info",
               "coord": [
-                10.035,
-                104.028
+                10.033530899999999,
+                104.0284296
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Island exploration & sunset",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                10.1875,
-                104.0008
+                11.7094081,
+                109.1976347
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                10.033530899999999,
+                104.0284296
               ]
             }
           ]
         },
         {
-          "day": 14,
-          "title": "Ho Chi Minh City & Departure",
+          "label": "Day 8 — Splurge Day — Phu Quoc",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                10.033482,
-                104.02817
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Flight to Ho Chi Minh City",
-              "coord": [
-                10.7769,
-                106.6995
-              ]
-            },
-            {
+              "name": "Regent Phu Quoc",
               "type": "hotel",
-              "name": "The Reverie Saigon",
               "coord": [
-                10.7737397,
-                106.704549
+                10.1106652,
+                103.9856963
               ]
             },
             {
+              "name": "In-villa breakfast",
+              "type": "breakfast",
+              "coord": [
+                10.1106652,
+                103.9856963
+              ]
+            },
+            {
+              "name": "Island-hopping snorkel day (private boat)",
+              "type": "sightseeing",
+              "coord": [
+                10.2006882,
+                103.9654956
+              ]
+            },
+            {
+              "name": "Beachside lunch on boat or island",
               "type": "lunch",
-              "name": "Final lunch in Saigon",
               "coord": [
-                10.771803,
-                106.702975
+                10.2006882,
+                103.9654956
               ]
             },
             {
+              "name": "Spa treatment at resort",
+              "type": "sightseeing",
+              "coord": [
+                10.1106652,
+                103.9856963
+              ]
+            },
+            {
+              "name": "Sunset cocktails at resort bar",
               "type": "optional",
-              "name": "Last-minute shopping or sightseeing",
               "coord": [
-                10.7769,
-                106.6995
+                10.1106652,
+                103.9856963
               ]
             },
             {
+              "name": "Fine dining at resort restaurant",
               "type": "dinner",
-              "name": "Farewell dinner",
               "coord": [
-                10.773873,
-                106.704865
+                10.1106652,
+                103.9856963
               ]
             }
           ]

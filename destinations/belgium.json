@@ -6008,367 +6008,273 @@
   },
   "itineraryData": {
     "a": {
-      "name": "Greatest Hits (7 days)",
-      "color": "#2563EB",
+      "name": "Greatest Hits (7 Days)",
+      "description": "First-timer's perfect week hitting Brussels, Bruges, Ghent, and Antwerp's iconic attractions.",
       "days": [
         {
-          "day": 1,
-          "title": "Brussels Arrival & Grand Place",
+          "label": "Day 1 —  Brussels Greatest Hits — Brussels City Center",
           "items": [
             {
+              "name": "Room Mate Simone Brussels",
               "type": "hotel",
-              "name": "Steigenberger Wiltcher's Brussels",
               "coord": [
-                50.8324587,
-                4.357470900000001
+                50.8486877,
+                4.3631310999999995
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Brussels Grand Place",
-              "coord": [
-                50.8467887,
-                4.3524356
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Chez Léon Brussels",
-              "coord": [
-                50.848204599999995,
-                4.3540661
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Brussels Royal Palace",
-              "coord": [
-                50.8420026,
-                4.3623406
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Comme Chez Soi Brussels",
-              "coord": [
-                50.8423616,
-                4.345815
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Brussels Icons & Museums",
-          "items": [
-            {
-              "type": "breakfast",
               "name": "Café Kitsuné Brussels",
+              "type": "breakfast",
               "coord": [
                 50.8478596,
                 4.3537778000000005
               ]
             },
             {
+              "name": "Brussels Grand Place",
               "type": "sightseeing",
+              "coord": [
+                50.8467887,
+                4.3524356
+              ]
+            },
+            {
+              "name": "Chez Léon Brussels",
+              "type": "lunch",
+              "coord": [
+                50.848204599999995,
+                4.3540661
+              ]
+            },
+            {
               "name": "Atomium Brussels",
+              "type": "sightseeing",
               "coord": [
                 50.8948787,
                 4.3415547
               ]
             },
             {
-              "type": "lunch",
               "name": "Restobieres Brussels",
+              "type": "dinner",
               "coord": [
                 50.8369827,
                 4.3476405
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Magritte Museum Brussels",
-              "coord": [
-                50.8424057,
-                4.3586407
-              ]
-            },
-            {
+              "name": "Belgium Belgian Beer Museum Brussels",
               "type": "optional",
-              "name": "Brussels Sablon District",
               "coord": [
-                50.8395691,
-                4.3565987999999995
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Chambre Séparée Brussels",
-              "coord": [
-                50.821205899999995,
-                4.3773422
+                50.847850199999996,
+                4.3507608
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Bruges Medieval Enchantment",
+          "label": "Day 2 —  Medieval Masterpiece — Bruges",
           "items": [
             {
+              "name": "Hotel Dukes' Palace Bruges",
               "type": "hotel",
-              "name": "De Orangerie Bruges",
               "coord": [
-                51.207065199999995,
-                3.2262850999999997
+                51.20854800000001,
+                3.2201049999999998
               ]
             },
             {
-              "type": "sightseeing",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                51.20854800000001,
+                3.2201049999999998
+              ]
+            },
+            {
               "name": "Bruges Medieval Center",
+              "type": "sightseeing",
               "coord": [
                 51.2088142,
                 3.2243722999999997
               ]
             },
             {
-              "type": "lunch",
               "name": "Breydel De Coninc Bruges",
+              "type": "lunch",
               "coord": [
                 51.208495799999994,
                 3.2261354
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Belfort Tower Bruges",
-              "coord": [
-                51.2081466,
-                3.2248010999999996
-              ]
-            },
-            {
-              "type": "optional",
               "name": "Bruges Canal Boat Tour",
+              "type": "sightseeing",
               "coord": [
                 51.2056811,
                 3.2247692999999997
               ]
             },
             {
+              "name": "Belfort Tower Bruges",
+              "type": "sightseeing",
+              "coord": [
+                51.2081466,
+                3.2248010999999996
+              ]
+            },
+            {
+              "name": "Sans Cravate Bruges",
               "type": "dinner",
-              "name": "De Karmeliet Bruges",
               "coord": [
-                51.2097717,
-                3.2324059999999997
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Bruges Chocolate & Waffles",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Chez Albert Waffles Bruges",
-              "coord": [
-                51.2085112,
-                3.2258367999999997
+                51.2124026,
+                3.2381725
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "The Chocolate Line Bruges",
-              "coord": [
-                51.2065926,
-                3.2224214
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "'t Huidevettershuis Bruges",
-              "coord": [
-                51.207499999999996,
-                3.2277777999999997
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Minnewater Park Bruges",
+              "type": "optional",
               "coord": [
                 51.1995291,
                 3.225273
               ]
-            },
-            {
-              "type": "optional",
-              "name": "Bruges Lace Market",
-              "coord": [
-                51.2095148,
-                3.2255928
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Hertog Jan Bruges",
-              "coord": [
-                51.2136339,
-                4.4057045
-              ]
             }
           ]
         },
         {
-          "day": 5,
-          "title": "Ghent Bohemian Vibes",
+          "label": "Day 3 —  Ghent Highlights — Historic Center",
           "items": [
             {
-              "type": "hotel",
               "name": "The Pulcinella Ghent",
+              "type": "hotel",
               "coord": [
                 51.0405643,
                 3.7433389
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Ghent Medieval Center",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                51.0524481,
-                3.7210903
+                51.0405643,
+                3.7433389
               ]
             },
             {
-              "type": "lunch",
-              "name": "Dit Hem Ghent",
-              "coord": [
-                51.0503309,
-                3.7284634000000003
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Gravensteen Ghent",
-              "coord": [
-                51.057176899999995,
-                3.7207225
-              ]
-            },
-            {
-              "type": "optional",
               "name": "Sint-Baafskathedraal Ghent",
+              "type": "sightseeing",
               "coord": [
                 51.0532335,
                 3.7265059999999997
               ]
             },
             {
-              "type": "dinner",
               "name": "Groenten Grill Ghent",
+              "type": "lunch",
               "coord": [
                 51.0559121,
                 3.7277596
+              ]
+            },
+            {
+              "name": "Gravensteen Ghent",
+              "type": "sightseeing",
+              "coord": [
+                51.057176899999995,
+                3.7207225
+              ]
+            },
+            {
+              "name": "Ghent Medieval Center",
+              "type": "sightseeing",
+              "coord": [
+                51.0524481,
+                3.7210903
+              ]
+            },
+            {
+              "name": "Dit Hem Ghent",
+              "type": "dinner",
+              "coord": [
+                51.0503309,
+                3.7284634000000003
+              ]
+            },
+            {
+              "name": "Evening stroll on Saint Bavo's Square",
+              "type": "optional",
+              "coord": [
+                51.0532335,
+                3.7265059999999997
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Antwerp Art & Fashion",
+          "label": "Day 4 —  Antwerp Greatest Hits — Antwerp",
           "items": [
             {
-              "type": "hotel",
               "name": "Hotel Julien Antwerp",
+              "type": "hotel",
               "coord": [
                 51.2202938,
                 4.4037733999999995
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Antwerp Historic Quarter",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                51.2227238,
-                4.3973637
+                51.2202938,
+                4.4037733999999995
               ]
             },
             {
-              "type": "lunch",
+              "name": "Cathedral of Our Lady Antwerp",
+              "type": "sightseeing",
+              "coord": [
+                51.2203702,
+                4.4015341999999995
+              ]
+            },
+            {
               "name": "Grand Café De Rooden Hoed Antwerp",
+              "type": "lunch",
               "coord": [
                 51.2201131,
                 4.4001535
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Antwerp Fashion Museum",
-              "coord": [
-                51.217380899999995,
-                4.3998644
-              ]
-            },
-            {
-              "type": "optional",
               "name": "Rubens House Antwerp",
+              "type": "sightseeing",
               "coord": [
                 51.2168723,
                 4.4099882
               ]
             },
             {
-              "type": "dinner",
-              "name": "'t Fornuis Antwerp",
-              "coord": [
-                51.219017,
-                4.399416899999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Antwerp Diamond & Departure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel Julien Antwerp",
-              "coord": [
-                51.2202938,
-                4.4037733999999995
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Antwerp Diamond Quarter",
+              "type": "sightseeing",
               "coord": [
                 51.2144888,
                 4.4190257
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Museum aan de Strom Antwerp",
+              "name": "'t Fornuis Antwerp",
+              "type": "dinner",
               "coord": [
-                51.2289612,
-                4.4047104
+                51.219017,
+                4.399416899999999
               ]
             },
             {
-              "type": "lunch",
-              "name": "Het Nieuwe Palinghuis Antwerp",
-              "coord": [
-                51.2183393,
-                4.3965146
-              ]
-            },
-            {
+              "name": "Antwerp Historic Quarter",
               "type": "optional",
-              "name": "Cathedral of Our Lady Antwerp",
               "coord": [
-                51.2203702,
-                4.4015341999999995
+                51.2227238,
+                4.3973637
               ]
             }
           ]
@@ -6376,48 +6282,124 @@
       ]
     },
     "b": {
-      "name": "Hidden Gems (7 days)",
-      "color": "#059669",
+      "name": "Family Comfort (10 Days)",
+      "description": "Kid-friendly Belgium adventure with chocolate workshops, theme parks, castles, and beach time.",
       "days": [
         {
-          "day": 1,
-          "title": "Leuven University Town",
+          "label": "Day 1 —  Family Day — Brussels",
           "items": [
             {
+              "name": "Steigenberger Wiltcher's Brussels",
               "type": "hotel",
+              "coord": [
+                50.8324587,
+                4.357470900000001
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                50.8324587,
+                4.357470900000001
+              ]
+            },
+            {
+              "name": "Belgian Chocolate Workshop for Kids",
+              "type": "sightseeing",
+              "coord": [
+                50.8428784,
+                4.3417902
+              ]
+            },
+            {
+              "name": "Chez Léon Brussels",
+              "type": "lunch",
+              "coord": [
+                50.848204599999995,
+                4.3540661
+              ]
+            },
+            {
+              "name": "Afternoon rest time",
+              "type": "nap",
+              "coord": [
+                50.8324587,
+                4.357470900000001
+              ]
+            },
+            {
+              "name": "Mini-Europe Brussels",
+              "type": "sightseeing",
+              "coord": [
+                50.8940497,
+                4.3389622
+              ]
+            },
+            {
+              "name": "Restobieres Brussels",
+              "type": "dinner",
+              "coord": [
+                50.8369827,
+                4.3476405
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 —  Family Day — Leuven",
+          "items": [
+            {
               "name": "Hotel Promenade Leuven",
+              "type": "hotel",
               "coord": [
                 50.8710038,
                 4.6954699
               ]
             },
             {
-              "type": "sightseeing",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                50.8710038,
+                4.6954699
+              ]
+            },
+            {
               "name": "Leuven University Library",
+              "type": "sightseeing",
               "coord": [
                 50.8781506,
                 4.707263
               ]
             },
             {
-              "type": "lunch",
               "name": "Resto Bar Rosewood Leuven",
+              "type": "lunch",
               "coord": [
                 50.878208799999996,
                 4.7002001
               ]
             },
             {
-              "type": "optional",
-              "name": "Medieval Leuven center",
+              "name": "Afternoon rest time",
+              "type": "nap",
               "coord": [
-                50.8795,
-                4.7022
+                50.8710038,
+                4.6954699
               ]
             },
             {
-              "type": "dinner",
+              "name": "Town center exploration",
+              "type": "sightseeing",
+              "coord": [
+                50.8710038,
+                4.6954699
+              ]
+            },
+            {
               "name": "Resto Bar Rosewood Leuven",
+              "type": "dinner",
               "coord": [
                 50.878208799999996,
                 4.7002001
@@ -6426,309 +6408,208 @@
           ]
         },
         {
-          "day": 2,
-          "title": "Mechelen Carillon & History",
+          "label": "Day 3 —  Family Day — Bruges & Parks",
           "items": [
             {
+              "name": "De Wevershof Bruges",
               "type": "hotel",
-              "name": "Les Suites de la Cathédrale Mechelen",
               "coord": [
-                45.415597,
-                6.631778
+                51.2022256,
+                3.2219259
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                51.2022256,
+                3.2219259
+              ]
+            },
+            {
+              "name": "Bicycle Rentals Bruges",
               "type": "sightseeing",
-              "name": "St. Rumbold's Cathedral Mechelen",
               "coord": [
-                51.028858,
-                4.4792214
+                51.2100594,
+                3.2242066
               ]
             },
             {
+              "name": "That's Toast Bruges",
               "type": "lunch",
-              "name": "Jette Aardappel Mechelen",
               "coord": [
-                51.0267423,
-                4.4842727
+                51.2063875,
+                3.2192167
               ]
             },
             {
+              "name": "Afternoon rest time",
+              "type": "nap",
+              "coord": [
+                51.2022256,
+                3.2219259
+              ]
+            },
+            {
+              "name": "Minnewater Park Bruges",
               "type": "sightseeing",
-              "name": "Mechelen Carillon School",
               "coord": [
-                51.0260575,
-                4.4811764
+                51.1995291,
+                3.225273
               ]
             },
             {
-              "type": "optional",
-              "name": "Toys Museum Mechelen",
-              "coord": [
-                51.0170825,
-                4.4840053
-              ]
-            },
-            {
+              "name": "Brasserie Forestière Bruges",
               "type": "dinner",
-              "name": "Jette Aardappel Mechelen",
               "coord": [
-                51.0267423,
-                4.4842727
+                51.2115186,
+                3.2263303
+              ]
+            },
+            {
+              "name": "Belgian Waffle Tasting Tour",
+              "type": "optional",
+              "coord": [
+                51.2093327,
+                3.2287377999999998
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Dinant Meuse Valley Scenic",
+          "label": "Day 4 —  Family Fun — Ghent with Kids",
           "items": [
             {
+              "name": "Citadelhotel Ghent",
               "type": "hotel",
-              "name": "Dinant River Hotel",
               "coord": [
-                50.2368825,
-                4.905768999999999
+                51.0505262,
+                3.7284808999999997
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                51.0505262,
+                3.7284808999999997
+              ]
+            },
+            {
+              "name": "Ghent Children's Museum",
               "type": "sightseeing",
-              "name": "Dinant Citadel",
               "coord": [
-                50.261727099999995,
-                4.9131095
+                51.041580200000006,
+                3.726542
               ]
             },
             {
+              "name": "Groenten Grill Ghent",
               "type": "lunch",
-              "name": "Ristorante La Roccia Dinant",
               "coord": [
-                50.258532599999995,
-                4.9138826
+                51.0559121,
+                3.7277596
               ]
             },
             {
+              "name": "Afternoon rest time",
+              "type": "nap",
+              "coord": [
+                51.0505262,
+                3.7284808999999997
+              ]
+            },
+            {
+              "name": "Ghent Boat Rental for Families",
               "type": "sightseeing",
-              "name": "Adolphe Sax Statue Dinant",
               "coord": [
-                50.262021399999995,
-                4.9109888999999995
+                51.046931900000004,
+                3.7198449
               ]
             },
             {
-              "type": "optional",
-              "name": "Dinant Saxophone Museum",
-              "coord": [
-                50.261772099999995,
-                4.911133599999999
-              ]
-            },
-            {
+              "name": "Dit Hem Ghent",
               "type": "dinner",
-              "name": "Ristorante La Roccia Dinant",
               "coord": [
-                50.258532599999995,
-                4.9138826
+                51.0503309,
+                3.7284634000000003
+              ]
+            },
+            {
+              "name": "Evening walk at Saint Bavo's Square",
+              "type": "optional",
+              "coord": [
+                51.0532335,
+                3.7265059999999997
               ]
             }
           ]
         },
         {
-          "day": 4,
-          "title": "Ardennes Nature & Castles",
+          "label": "Day 5 —  Family Day — Antwerp",
           "items": [
             {
+              "name": "Hotel Pilar Antwerp",
               "type": "hotel",
-              "name": "Château de Spontin Wallonia",
               "coord": [
-                50.322975799999995,
-                5.0093479
+                51.208575599999996,
+                4.3922755
               ]
             },
             {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                51.208575599999996,
+                4.3922755
+              ]
+            },
+            {
+              "name": "Antwerp Zoo",
               "type": "sightseeing",
-              "name": "Ardennes Forest Hiking",
               "coord": [
-                49.8522852,
-                4.6212927
+                51.2163428,
+                4.4235413999999995
               ]
             },
             {
+              "name": "Balls & Glory Antwerp",
               "type": "lunch",
-              "name": "Restaurant Château Spontin Wallonia",
               "coord": [
-                50.3225127,
-                5.0057836
+                51.2154847,
+                4.4094627
               ]
             },
             {
+              "name": "Afternoon rest time",
+              "type": "nap",
+              "coord": [
+                51.208575599999996,
+                4.3922755
+              ]
+            },
+            {
+              "name": "Sue's Corner Antwerp",
               "type": "sightseeing",
-              "name": "Meuse River Kayaking",
               "coord": [
-                50.237092999999994,
-                4.905982
+                51.231188599999996,
+                4.4109205
               ]
             },
             {
-              "type": "optional",
-              "name": "Local Wallonian villages",
-              "coord": [
-                50.38,
-                4.95
-              ]
-            },
-            {
+              "name": "Ciro's Antwerp",
               "type": "dinner",
-              "name": "Auberge du Pont Anhée",
               "coord": [
-                50.109202,
-                4.962371
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Tournai UNESCO Cathedral",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Saint-Luc Tournai",
-              "coord": [
-                50.632894199999996,
-                3.3557601
+                51.209117,
+                4.402136
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Tournai Cathedral",
-              "coord": [
-                50.6064691,
-                3.3892417
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Royal Museum of Tournai nearby",
-              "coord": [
-                50.6063,
-                4.441
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Royal Museum of Tournai",
-              "coord": [
-                50.6034192,
-                3.3871911
-              ]
-            },
-            {
+              "name": "Antwerp Parks System",
               "type": "optional",
-              "name": "Medieval Tournai squares",
               "coord": [
-                50.6052,
-                4.4403
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Local Tournai restaurant",
-              "coord": [
-                50.6052,
-                4.4403
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Waterloo Battlefield History",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "La Villa Beaumont Waterloo",
-              "coord": [
-                50.329544600000006,
-                4.3481499999999995
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Waterloo Battlefield",
-              "coord": [
-                50.6794052,
-                4.4047214
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Waterloo local restaurant",
-              "coord": [
-                50.3819,
-                4.3831
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Waterloo Lion Monument",
-              "coord": [
-                50.678471699999996,
-                4.404838
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Waterloo museums",
-              "coord": [
-                50.3819,
-                4.3831
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Local Waterloo dining",
-              "coord": [
-                50.3819,
-                4.3831
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Namur Citadel & Departure",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Citadelhotel Namur",
-              "coord": [
-                50.4595488,
-                4.8655789
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Namur Citadel",
-              "coord": [
-                50.4597979,
-                4.861122
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Local Namur restaurant",
-              "coord": [
-                50.4639,
-                4.8693
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Meuse Valley views",
-              "coord": [
-                50.4639,
-                4.8693
+                51.2121583,
+                4.414947199999999
               ]
             }
           ]
@@ -6736,585 +6617,403 @@
       ]
     },
     "c": {
-      "name": "Family Comfort (10 days)",
-      "color": "#D97706",
+      "name": "Grand Tour (14 Days)",
+      "description": "Complete Belgium sweep from Brussels through Flanders to Wallonia and the Ardennes forests.",
       "days": [
         {
-          "day": 1,
-          "title": "Brussels Family Welcome",
+          "label": "Day 1 —    Brussels Greatest Hits — Brussels City Center",
           "items": [
             {
-              "type": "hotel",
               "name": "Room Mate Simone Brussels",
+              "type": "hotel",
               "coord": [
                 50.8486877,
                 4.3631310999999995
               ]
             },
             {
-              "type": "sightseeing",
+              "name": "Café Kitsuné Brussels",
+              "type": "breakfast",
+              "coord": [
+                50.8478596,
+                4.3537778000000005
+              ]
+            },
+            {
               "name": "Brussels Grand Place",
+              "type": "sightseeing",
               "coord": [
                 50.8467887,
                 4.3524356
               ]
             },
             {
-              "type": "lunch",
               "name": "Chez Léon Brussels",
+              "type": "lunch",
               "coord": [
                 50.848204599999995,
                 4.3540661
               ]
             },
             {
-              "type": "optional",
-              "name": "Brussels Comic Strip Museum",
-              "coord": [
-                50.851006299999995,
-                4.3601312
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Restobieres Brussels",
-              "coord": [
-                50.8369827,
-                4.3476405
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Brussels Kids Activities",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                50.8457,
-                4.3638
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Mini-Europe Brussels",
-              "coord": [
-                50.8940497,
-                4.3389622
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Family-friendly restaurant",
-              "coord": [
-                50.8929,
-                4.3342
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Atomium Brussels",
+              "type": "sightseeing",
               "coord": [
                 50.8948787,
                 4.3415547
               ]
             },
             {
-              "type": "optional",
-              "name": "Museum of Natural Sciences Brussels",
-              "coord": [
-                50.836659499999996,
-                4.376632
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest time at hotel",
-              "coord": [
-                50.8457,
-                4.3638
-              ]
-            },
-            {
+              "name": "Restobieres Brussels",
               "type": "dinner",
-              "name": "Belgian Beer Museum area",
               "coord": [
-                50.8505,
-                4.3522
+                50.8369827,
+                4.3476405
+              ]
+            },
+            {
+              "name": "Belgium Belgian Beer Museum Brussels",
+              "type": "optional",
+              "coord": [
+                50.847850199999996,
+                4.3507608
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Bruges Medieval & Parks",
+          "label": "Day 2 —    Antwerp Greatest Hits — Antwerp",
           "items": [
             {
+              "name": "Hotel Julien Antwerp",
               "type": "hotel",
-              "name": "Hotel Dukes' Palace Bruges",
               "coord": [
-                51.20854800000001,
-                3.2201049999999998
+                51.2202938,
+                4.4037733999999995
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Bruges Medieval Center",
-              "coord": [
-                51.2088142,
-                3.2243722999999997
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "That's Toast Bruges",
-              "coord": [
-                51.2063875,
-                3.2192167
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Sebrechtspark Bruges",
-              "coord": [
-                51.209374999999994,
-                3.2181032
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Minnewater Park Bruges",
-              "coord": [
-                51.1995291,
-                3.225273
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest at hotel",
-              "coord": [
-                51.2082,
-                3.2218
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "De Stove Bruges",
-              "coord": [
-                51.2082547,
-                3.2226717
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Bruges Chocolate & Waffles",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Chez Albert Waffles Bruges",
-              "coord": [
-                51.2085112,
-                3.2258367999999997
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "The Chocolate Line Bruges",
-              "coord": [
-                51.2065926,
-                3.2224214
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Breydel De Coninc Bruges",
-              "coord": [
-                51.208495799999994,
-                3.2261354
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Koningin Astridpark Bruges",
-              "coord": [
-                51.206179999999996,
-                3.231236
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Belgian Chocolate Workshop for Kids",
-              "coord": [
-                50.8428784,
-                4.3417902
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest at hotel",
-              "coord": [
-                51.2082,
-                3.2218
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Books and Brunch Bruges",
-              "coord": [
-                51.204391699999995,
-                3.2295
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Bruges Boat Tours & Lace",
-          "items": [
-            {
-              "type": "breakfast",
               "name": "Hotel breakfast",
-              "coord": [
-                51.2082,
-                3.2218
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Bruges Canal Boat Tour",
-              "coord": [
-                51.2056811,
-                3.2247692999999997
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "'t Huidevettershuis Bruges",
-              "coord": [
-                51.207499999999996,
-                3.2277777999999997
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Bruges Lace Market",
-              "coord": [
-                51.2095148,
-                3.2255928
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Boudewijn Seapark Bruges",
-              "coord": [
-                51.183071999999996,
-                3.2110759
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest at hotel",
-              "coord": [
-                51.2082,
-                3.2218
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Bhavani Bruges",
-              "coord": [
-                51.2064996,
-                3.2231867
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Coast Beach Day",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel De Thalassa Knokke",
-              "coord": [
-                51.302810099999995,
-                3.2989995000000003
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Knokke Beach Resort",
-              "coord": [
-                51.340966599999994,
-                3.2594127
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Seaside restaurant",
-              "coord": [
-                51.3606,
-                3.3122
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Beach activities & swimming",
-              "coord": [
-                51.3606,
-                3.3122
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Zeebrugge Harbor",
-              "coord": [
-                51.3345704,
-                3.2184708
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon beach rest",
-              "coord": [
-                51.3606,
-                3.3122
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Beachfront restaurant",
-              "coord": [
-                51.3606,
-                3.3122
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Coast Exploration",
-          "items": [
-            {
               "type": "breakfast",
-              "name": "Hotel breakfast",
               "coord": [
-                51.3606,
-                3.3122
+                51.2202938,
+                4.4037733999999995
               ]
             },
             {
+              "name": "Cathedral of Our Lady Antwerp",
               "type": "sightseeing",
-              "name": "De Panne Beach",
               "coord": [
-                51.0877,
-                2.6159
+                51.2203702,
+                4.4015341999999995
               ]
             },
             {
-              "type": "lunch",
-              "name": "Beach town restaurant",
-              "coord": [
-                51.0877,
-                2.6159
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Plopsaland De Panne",
-              "coord": [
-                51.080738399999994,
-                2.5985541
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Ostend Promenade",
-              "coord": [
-                51.235305399999994,
-                2.9161003
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest",
-              "coord": [
-                51.3606,
-                3.3122
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Coastal dining",
-              "coord": [
-                51.2283,
-                2.9314
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Antwerp Zoo Day",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Pilar Antwerp",
-              "coord": [
-                51.208575599999996,
-                4.3922755
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Antwerp Zoo",
-              "coord": [
-                51.2163428,
-                4.4235413999999995
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Balls & Glory Antwerp",
-              "coord": [
-                51.2154847,
-                4.4094627
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Antwerp Historic Quarter",
-              "coord": [
-                51.2227238,
-                4.3973637
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Sue's Corner Antwerp",
-              "coord": [
-                51.231188599999996,
-                4.4109205
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest at hotel",
-              "coord": [
-                51.2195,
-                4.3988
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "De Bomma Antwerp",
-              "coord": [
-                51.2219489,
-                4.3979459
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Antwerp Family Activities",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                51.2195,
-                4.3988
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Antwerp Parks System",
-              "coord": [
-                51.2121583,
-                4.414947199999999
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Ciro's Antwerp",
-              "coord": [
-                51.209117,
-                4.402136
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Museum aan de Strom Antwerp",
-              "coord": [
-                51.2289612,
-                4.4047104
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Chocolate workshop",
-              "coord": [
-                51.2194,
-                4.4025
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Afternoon rest at hotel",
-              "coord": [
-                51.2195,
-                4.3988
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Moules et Frites Antwerp",
-              "coord": [
-                51.220763,
-                4.401475
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Antwerp Diamonds & Departure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                51.2195,
-                4.3988
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Antwerp Diamond Quarter",
-              "coord": [
-                51.2144888,
-                4.4190257
-              ]
-            },
-            {
-              "type": "lunch",
               "name": "Grand Café De Rooden Hoed Antwerp",
+              "type": "lunch",
               "coord": [
                 51.2201131,
                 4.4001535
               ]
             },
             {
-              "type": "optional",
-              "name": "Last-minute shopping or museums",
+              "name": "Rubens House Antwerp",
+              "type": "sightseeing",
               "coord": [
-                51.2194,
-                4.4025
+                51.2168723,
+                4.4099882
+              ]
+            },
+            {
+              "name": "Antwerp Diamond Quarter",
+              "type": "sightseeing",
+              "coord": [
+                51.2144888,
+                4.4190257
+              ]
+            },
+            {
+              "name": "'t Fornuis Antwerp",
+              "type": "dinner",
+              "coord": [
+                51.219017,
+                4.399416899999999
+              ]
+            },
+            {
+              "name": "Antwerp Historic Quarter",
+              "type": "optional",
+              "coord": [
+                51.2227238,
+                4.3973637
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 —    Ghent Highlights — Historic Center",
+          "items": [
+            {
+              "name": "The Pulcinella Ghent",
+              "type": "hotel",
+              "coord": [
+                51.0405643,
+                3.7433389
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                51.0405643,
+                3.7433389
+              ]
+            },
+            {
+              "name": "Sint-Baafskathedraal Ghent",
+              "type": "sightseeing",
+              "coord": [
+                51.0532335,
+                3.7265059999999997
+              ]
+            },
+            {
+              "name": "Groenten Grill Ghent",
+              "type": "lunch",
+              "coord": [
+                51.0559121,
+                3.7277596
+              ]
+            },
+            {
+              "name": "Gravensteen Ghent",
+              "type": "sightseeing",
+              "coord": [
+                51.057176899999995,
+                3.7207225
+              ]
+            },
+            {
+              "name": "Ghent Medieval Center",
+              "type": "sightseeing",
+              "coord": [
+                51.0524481,
+                3.7210903
+              ]
+            },
+            {
+              "name": "Dit Hem Ghent",
+              "type": "dinner",
+              "coord": [
+                51.0503309,
+                3.7284634000000003
+              ]
+            },
+            {
+              "name": "Evening stroll on Saint Bavo's Square",
+              "type": "optional",
+              "coord": [
+                51.0532335,
+                3.7265059999999997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 —    Medieval Masterpiece — Bruges",
+          "items": [
+            {
+              "name": "Hotel Dukes' Palace Bruges",
+              "type": "hotel",
+              "coord": [
+                51.20854800000001,
+                3.2201049999999998
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                51.20854800000001,
+                3.2201049999999998
+              ]
+            },
+            {
+              "name": "Bruges Medieval Center",
+              "type": "sightseeing",
+              "coord": [
+                51.2088142,
+                3.2243722999999997
+              ]
+            },
+            {
+              "name": "Breydel De Coninc Bruges",
+              "type": "lunch",
+              "coord": [
+                51.208495799999994,
+                3.2261354
+              ]
+            },
+            {
+              "name": "Bruges Canal Boat Tour",
+              "type": "sightseeing",
+              "coord": [
+                51.2056811,
+                3.2247692999999997
+              ]
+            },
+            {
+              "name": "Belfort Tower Bruges",
+              "type": "sightseeing",
+              "coord": [
+                51.2081466,
+                3.2248010999999996
+              ]
+            },
+            {
+              "name": "Sans Cravate Bruges",
+              "type": "dinner",
+              "coord": [
+                51.2124026,
+                3.2381725
+              ]
+            },
+            {
+              "name": "Minnewater Park Bruges",
+              "type": "optional",
+              "coord": [
+                51.1995291,
+                3.225273
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 —    Meuse Valley Icons — Dinant & Namur",
+          "items": [
+            {
+              "name": "Dinant River Hotel",
+              "type": "hotel",
+              "coord": [
+                50.2368825,
+                4.905768999999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                50.2368825,
+                4.905768999999999
+              ]
+            },
+            {
+              "name": "Dinant Citadel",
+              "type": "sightseeing",
+              "coord": [
+                50.261727099999995,
+                4.9131095
+              ]
+            },
+            {
+              "name": "Adolphe Sax Statue Dinant",
+              "type": "sightseeing",
+              "coord": [
+                50.262021399999995,
+                4.9109888999999995
+              ]
+            },
+            {
+              "name": "Ristorante La Roccia Dinant",
+              "type": "lunch",
+              "coord": [
+                50.258532599999995,
+                4.9138826
+              ]
+            },
+            {
+              "name": "Namur Citadel",
+              "type": "sightseeing",
+              "coord": [
+                50.4597979,
+                4.861122
+              ]
+            },
+            {
+              "name": "Auberge du Pont Anhée",
+              "type": "dinner",
+              "coord": [
+                50.109202,
+                4.962371
+              ]
+            },
+            {
+              "name": "Evening stroll along Meuse",
+              "type": "optional",
+              "coord": [
+                50.2368825,
+                4.905768999999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 —    Bastogne History & Nature — Central Ardennes",
+          "items": [
+            {
+              "name": "Domaine de la Roche Ardennes",
+              "type": "hotel",
+              "coord": [
+                50.182106499999996,
+                5.5764439999999995
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                50.182106499999996,
+                5.5764439999999995
+              ]
+            },
+            {
+              "name": "War Museum Bastogne",
+              "type": "sightseeing",
+              "coord": [
+                50.010694,
+                5.739088
+              ]
+            },
+            {
+              "name": "Lunch in Bastogne",
+              "type": "lunch",
+              "coord": [
+                50.010694,
+                5.739088
+              ]
+            },
+            {
+              "name": "Mardasson Memorial Bastogne",
+              "type": "sightseeing",
+              "coord": [
+                50.009444699999996,
+                5.7390327999999995
+              ]
+            },
+            {
+              "name": "Ardennes Forest Hiking",
+              "type": "sightseeing",
+              "coord": [
+                49.8522852,
+                4.6212927
+              ]
+            },
+            {
+              "name": "Dinner at hotel",
+              "type": "dinner",
+              "coord": [
+                50.182106499999996,
+                5.5764439999999995
               ]
             }
           ]
@@ -7322,537 +7021,395 @@
       ]
     },
     "d": {
-      "name": "Beer, Chocolate & Foodie Tour (10 days)",
-      "color": "#DC2626",
+      "name": "Foodie Grand Tour (10 Days)",
+      "description": "Belgium's ultimate culinary journey from Michelin stars to market stalls, chocolate to beer.",
       "days": [
         {
-          "day": 1,
-          "title": "Brussels Beer Culture",
+          "label": "Day 1 —  Foodie Paradise — Brussels",
           "items": [
             {
-              "type": "hotel",
               "name": "Hotel Amigo Brussels",
+              "type": "hotel",
               "coord": [
                 50.84614140000001,
                 4.3513953999999995
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Brussels Grand Place",
-              "coord": [
-                50.8467887,
-                4.3524356
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Chez Léon Brussels",
-              "coord": [
-                50.848204599999995,
-                4.3540661
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Belgium Belgian Beer Museum Brussels",
-              "coord": [
-                50.847850199999996,
-                4.3507608
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Antwerp Beer Shop",
-              "coord": [
-                51.2204666,
-                4.3998476
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Métropole Restaurant Brussels",
-              "coord": [
-                50.851328099999996,
-                4.3532459999999995
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Brussels Chocolate Mastery",
-          "items": [
-            {
-              "type": "breakfast",
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                50.8509,
-                4.3532
+                50.84614140000001,
+                4.3513953999999995
               ]
             },
             {
+              "name": "Belgian Chocolate Making Workshop",
               "type": "sightseeing",
-              "name": "Laurent Gerbaud Chocolatier Brussels",
-              "coord": [
-                50.8439962,
-                4.358679899999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Belgian Chocolate Workshop for Kids",
               "coord": [
                 50.8428784,
                 4.3417902
               ]
             },
             {
+              "name": "Marcolini Brussels",
               "type": "lunch",
-              "name": "Bocconi Brussels",
               "coord": [
-                50.8461458,
-                4.351221400000001
+                50.8413367,
+                4.3536546
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Brussels Sablon District",
+              "name": "Laurent Gerbaud Chocolatier Brussels",
+              "type": "shopping",
               "coord": [
-                50.8395691,
-                4.3565987999999995
+                50.8439962,
+                4.358679899999999
               ]
             },
             {
-              "type": "optional",
-              "name": "Godiva Brussels",
-              "coord": [
-                50.8466331,
-                4.3532526
-              ]
-            },
-            {
+              "name": "Comme Chez Soi Brussels",
               "type": "dinner",
-              "name": "Chambre Séparée Brussels",
               "coord": [
-                50.821205899999995,
-                4.3773422
+                50.8423616,
+                4.345815
+              ]
+            },
+            {
+              "name": "Maison Antoine Frites Brussels",
+              "type": "optional",
+              "coord": [
+                50.8368324,
+                4.3814747999999994
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Bruges Michelin Fine Dining",
+          "label": "Day 2 —  Beer & Brewery Day — Leuven",
           "items": [
             {
+              "name": "Hotel Promenade Leuven",
               "type": "hotel",
-              "name": "Relais Bourgondisch Cruyce Bruges",
               "coord": [
-                51.2074335,
-                3.2267932999999998
+                50.8710038,
+                4.6954699
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Bruges Medieval Center",
-              "coord": [
-                51.2088142,
-                3.2243722999999997
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Rock Fort Bruges",
-              "coord": [
-                51.209731299999994,
-                3.2322495
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "The Chocolate Line Bruges",
-              "coord": [
-                51.2065926,
-                3.2224214
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Bruges Lace Market",
-              "coord": [
-                51.2095148,
-                3.2255928
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "De Karmeliet Bruges",
-              "coord": [
-                51.2097717,
-                3.2324059999999997
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Bruges Belgian Cuisine",
-          "items": [
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Chez Albert Waffles Bruges",
               "coord": [
-                51.2085112,
-                3.2258367999999997
+                50.8710038,
+                4.6954699
               ]
             },
             {
+              "name": "Brewery district walking tour",
               "type": "sightseeing",
-              "name": "Bruges Medieval squares",
               "coord": [
-                51.2093,
-                3.2247
+                50.8710038,
+                4.6954699
               ]
             },
             {
+              "name": "Resto Bar Rosewood Leuven",
               "type": "lunch",
-              "name": "Breydel De Coninc Bruges",
               "coord": [
-                51.208495799999994,
-                3.2261354
+                50.878208799999996,
+                4.7002001
               ]
             },
             {
+              "name": "Leuven University Library",
               "type": "sightseeing",
-              "name": "'t Brugs Beertje Bruges",
               "coord": [
-                51.2068237,
-                3.2217179
+                50.8781506,
+                4.707263
               ]
             },
             {
-              "type": "optional",
-              "name": "Café Vlissinghe Bruges",
-              "coord": [
-                51.212993,
-                3.2301487
-              ]
-            },
-            {
+              "name": "Resto Bar Rosewood Leuven",
               "type": "dinner",
-              "name": "Hertog Jan Bruges",
               "coord": [
-                51.2136339,
-                4.4057045
+                50.878208799999996,
+                4.7002001
+              ]
+            },
+            {
+              "name": "Beer tasting in Oude Markt",
+              "type": "optional",
+              "coord": [
+                50.8710038,
+                4.6954699
               ]
             }
           ]
         },
         {
-          "day": 5,
-          "title": "Ghent Contemporary Dining",
+          "label": "Day 3 —  Foodie Heaven — Antwerp",
           "items": [
             {
+              "name": "Botanic Sanctuary Antwerp",
               "type": "hotel",
-              "name": "The Pulcinella Ghent",
               "coord": [
-                51.0405643,
-                3.7433389
+                51.213795000000005,
+                4.4071356999999995
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Ghent Medieval Center",
+              "name": "Brasserie Appelmans Antwerp",
+              "type": "breakfast",
               "coord": [
-                51.0524481,
-                3.7210903
+                51.21977,
+                4.4006527
               ]
             },
             {
-              "type": "lunch",
-              "name": "Dit Hem Ghent",
-              "coord": [
-                51.0503309,
-                3.7284634000000003
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ghent Food Market",
-              "coord": [
-                51.05011340000001,
-                3.7378080999999996
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Groenten Grill Ghent",
-              "coord": [
-                51.0559121,
-                3.7277596
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Brasserie Citadelhotel Ghent",
-              "coord": [
-                51.0534724,
-                3.7262169999999997
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Antwerp Fine Dining & Markets",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Julien Antwerp",
-              "coord": [
-                51.2202938,
-                4.4037733999999995
-              ]
-            },
-            {
-              "type": "sightseeing",
               "name": "Antwerp Food Markets District",
+              "type": "sightseeing",
               "coord": [
                 51.2147915,
                 4.4100155999999995
               ]
             },
             {
-              "type": "lunch",
-              "name": "Grand Café De Rooden Hoed Antwerp",
-              "coord": [
-                51.2201131,
-                4.4001535
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Antwerp Chocolate specialty shops",
-              "coord": [
-                51.2194,
-                4.4025
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Leonidas Antwerp",
-              "coord": [
-                51.2175078,
-                4.4172534
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "'t Fornuis Antwerp",
-              "coord": [
-                51.219017,
-                4.399416899999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Antwerp Seafood & Culture",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                51.2202,
-                4.402
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Antwerp Historic Quarter",
-              "coord": [
-                51.2227238,
-                4.3973637
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Fiskebar Antwerp",
-              "coord": [
-                51.2100274,
-                4.3972773
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Museum aan de Strom Antwerp",
-              "coord": [
-                51.2289612,
-                4.4047104
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Rubens House Antwerp",
-              "coord": [
-                51.2168723,
-                4.4099882
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Kommilfoo Antwerp",
-              "coord": [
-                51.2110834,
-                4.392601099999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Trappist Breweries Excursion",
-          "items": [
-            {
-              "type": "sightseeing",
-              "name": "Belgian brewery region",
-              "coord": [
-                50.8,
-                4.7
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Brewery region restaurant",
-              "coord": [
-                50.8,
-                4.7
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Trappist brewery tour",
-              "coord": [
-                50.8,
-                4.7
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Multiple breweries",
-              "coord": [
-                50.8,
-                4.7
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Local regional dining",
-              "coord": [
-                51.2202,
-                4.402
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Hotel Julien Antwerp",
-              "coord": [
-                51.2202938,
-                4.4037733999999995
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Antwerp Michelin Restaurants",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                51.2202,
-                4.402
-              ]
-            },
-            {
-              "type": "lunch",
               "name": "The Jane Antwerp",
+              "type": "lunch",
               "coord": [
                 51.2343232,
                 4.4047947999999995
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Antwerp Diamond Quarter",
+              "name": "Leonidas Antwerp",
+              "type": "shopping",
               "coord": [
-                51.2144888,
-                4.4190257
+                51.2175078,
+                4.4172534
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Royal Museum of Fine Arts Antwerp",
+              "name": "Antwerp Chocolaterie Vandermeulen",
+              "type": "shopping",
               "coord": [
-                51.2088148,
-                4.3948089
+                51.217929899999994,
+                4.4084559
               ]
             },
             {
-              "type": "optional",
-              "name": "Fashion Museum Antwerp",
-              "coord": [
-                51.2151,
-                4.4151
-              ]
-            },
-            {
-              "type": "dinner",
               "name": "'t Zilte Antwerp",
+              "type": "dinner",
               "coord": [
                 51.22904,
                 4.4048229999999995
+              ]
+            },
+            {
+              "name": "Elfde Gebod Antwerp",
+              "type": "optional",
+              "coord": [
+                51.220763,
+                4.401475
               ]
             }
           ]
         },
         {
-          "day": 10,
-          "title": "Antwerp Final Experiences",
+          "label": "Day 4 —  Ghent Gastronomy — Food & Markets",
           "items": [
             {
-              "type": "breakfast",
+              "name": "Citadelhotel Ghent",
+              "type": "hotel",
+              "coord": [
+                51.0505262,
+                3.7284808999999997
+              ]
+            },
+            {
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                51.2202,
-                4.402
+                51.0505262,
+                3.7284808999999997
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Antwerp final shopping/museums",
+              "name": "Ghent Food Market",
+              "type": "shopping",
               "coord": [
-                51.2194,
-                4.4025
+                51.05011340000001,
+                3.7378080999999996
               ]
             },
             {
+              "name": "Groenten Grill Ghent",
               "type": "lunch",
-              "name": "Moules et Frites Antwerp",
               "coord": [
-                51.220763,
-                4.401475
+                51.0559121,
+                3.7277596
               ]
             },
             {
-              "type": "optional",
-              "name": "Cathedral of Our Lady Antwerp",
+              "name": "Neuzekes Bruges",
+              "type": "shopping",
               "coord": [
-                51.2203702,
-                4.4015341999999995
+                51.0556591,
+                3.7224649999999997
+              ]
+            },
+            {
+              "name": "Stroll through Medieval Center",
+              "type": "sightseeing",
+              "coord": [
+                51.0524481,
+                3.7210903
+              ]
+            },
+            {
+              "name": "Brasserie Citadelhotel Ghent",
+              "type": "dinner",
+              "coord": [
+                51.0534724,
+                3.7262169999999997
+              ]
+            },
+            {
+              "name": "Sweet treat tasting",
+              "type": "optional",
+              "coord": [
+                51.0556591,
+                3.7224649999999997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 —  Gastronomic Bruges — Foodie Heaven",
+          "items": [
+            {
+              "name": "Relais Bourgondisch Cruyce Bruges",
+              "type": "hotel",
+              "coord": [
+                51.2074335,
+                3.2267932999999998
+              ]
+            },
+            {
+              "name": "Books and Brunch Bruges",
+              "type": "breakfast",
+              "coord": [
+                51.204391699999995,
+                3.2295
+              ]
+            },
+            {
+              "name": "The Chocolate Line Bruges",
+              "type": "sightseeing",
+              "coord": [
+                51.2065926,
+                3.2224214
+              ]
+            },
+            {
+              "name": "Bruges Lace Market",
+              "type": "sightseeing",
+              "coord": [
+                51.2095148,
+                3.2255928
+              ]
+            },
+            {
+              "name": "Rock Fort Bruges",
+              "type": "lunch",
+              "coord": [
+                51.209731299999994,
+                3.2322495
+              ]
+            },
+            {
+              "name": "'t Brugs Beertje Bruges",
+              "type": "sightseeing",
+              "coord": [
+                51.2068237,
+                3.2217179
+              ]
+            },
+            {
+              "name": "De Karmeliet Bruges",
+              "type": "dinner",
+              "coord": [
+                51.2097717,
+                3.2324059999999997
+              ]
+            },
+            {
+              "name": "Chez Albert Waffles Bruges",
+              "type": "optional",
+              "coord": [
+                51.2085112,
+                3.2258367999999997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 —  Culinary Journey — Spontin & Meuse Valley",
+          "items": [
+            {
+              "name": "Château de Spontin Wallonia",
+              "type": "hotel",
+              "coord": [
+                50.322975799999995,
+                5.0093479
+              ]
+            },
+            {
+              "name": "Château breakfast",
+              "type": "breakfast",
+              "coord": [
+                50.322975799999995,
+                5.0093479
+              ]
+            },
+            {
+              "name": "Morning walk in Ardennes forests",
+              "type": "sightseeing",
+              "coord": [
+                50.322975799999995,
+                5.0093479
+              ]
+            },
+            {
+              "name": "Restaurant Château Spontin Wallonia",
+              "type": "lunch",
+              "coord": [
+                50.3225127,
+                5.0057836
+              ]
+            },
+            {
+              "name": "Drive to Dinant via scenic valley roads",
+              "type": "info",
+              "coord": [
+                50.2368825,
+                4.905768999999999
+              ]
+            },
+            {
+              "name": "Dinant Saxophone Museum",
+              "type": "sightseeing",
+              "coord": [
+                50.261772099999995,
+                4.911133599999999
+              ]
+            },
+            {
+              "name": "Auberge du Pont Anhée",
+              "type": "dinner",
+              "coord": [
+                50.109202,
+                4.962371
               ]
             }
           ]
@@ -7860,86 +7417,63 @@
       ]
     },
     "e": {
-      "name": "Grand Tour (14 days)",
-      "color": "#7C3AED",
+      "name": "Romantic Luxury Escape (8 Days)",
+      "description": "Couples' indulgent journey through Belgium's most romantic cities with spa retreats and Michelin dining.",
       "days": [
         {
-          "day": 1,
-          "title": "Brussels Arrival",
+          "label": "Day 1 —  Luxury Experience — Brussels",
           "items": [
             {
-              "type": "hotel",
               "name": "Hotel Amigo Brussels",
+              "type": "hotel",
               "coord": [
                 50.84614140000001,
                 4.3513953999999995
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Brussels Grand Place",
-              "coord": [
-                50.8467887,
-                4.3524356
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Chez Léon Brussels",
-              "coord": [
-                50.848204599999995,
-                4.3540661
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Comme Chez Soi Brussels",
-              "coord": [
-                50.8423616,
-                4.345815
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Brussels Icons",
-          "items": [
-            {
-              "type": "breakfast",
               "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                50.8509,
-                4.3532
+                50.84614140000001,
+                4.3513953999999995
               ]
             },
             {
+              "name": "Brussels Royal Palace",
               "type": "sightseeing",
-              "name": "Atomium Brussels",
               "coord": [
-                50.8948787,
-                4.3415547
+                50.8420026,
+                4.3623406
               ]
             },
             {
+              "name": "Royal Museum of Art & History Brussels",
+              "type": "sightseeing",
+              "coord": [
+                50.8393483,
+                4.391503
+              ]
+            },
+            {
+              "name": "Marcolini Brussels",
               "type": "lunch",
-              "name": "Restobieres Brussels",
               "coord": [
-                50.8369827,
-                4.3476405
+                50.8413367,
+                4.3536546
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Magritte Museum Brussels",
+              "name": "Godiva Brussels",
+              "type": "shopping",
               "coord": [
-                50.8424057,
-                4.3586407
+                50.8466331,
+                4.3532526
               ]
             },
             {
-              "type": "dinner",
               "name": "Chambre Séparée Brussels",
+              "type": "dinner",
               "coord": [
                 50.821205899999995,
                 4.3773422
@@ -7948,545 +7482,407 @@
           ]
         },
         {
-          "day": 3,
-          "title": "Bruges Medieval",
+          "label": "Day 2 —  Romantic Day — Historic Leuven",
           "items": [
             {
-              "type": "hotel",
-              "name": "De Orangerie Bruges",
-              "coord": [
-                51.207065199999995,
-                3.2262850999999997
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Bruges Medieval Center",
-              "coord": [
-                51.2088142,
-                3.2243722999999997
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Breydel De Coninc Bruges",
-              "coord": [
-                51.208495799999994,
-                3.2261354
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Belfort Tower Bruges",
-              "coord": [
-                51.2081466,
-                3.2248010999999996
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "De Karmeliet Bruges",
-              "coord": [
-                51.2097717,
-                3.2324059999999997
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Bruges Chocolate & Canals",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Chez Albert Waffles Bruges",
-              "coord": [
-                51.2085112,
-                3.2258367999999997
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "The Chocolate Line Bruges",
-              "coord": [
-                51.2065926,
-                3.2224214
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "'t Huidevettershuis Bruges",
-              "coord": [
-                51.207499999999996,
-                3.2277777999999997
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Bruges Canal Boat Tour",
-              "coord": [
-                51.2056811,
-                3.2247692999999997
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Hertog Jan Bruges",
-              "coord": [
-                51.2136339,
-                4.4057045
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Ghent Bohemian",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "The Pulcinella Ghent",
-              "coord": [
-                51.0405643,
-                3.7433389
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ghent Medieval Center",
-              "coord": [
-                51.0524481,
-                3.7210903
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Dit Hem Ghent",
-              "coord": [
-                51.0503309,
-                3.7284634000000003
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Gravensteen Ghent",
-              "coord": [
-                51.057176899999995,
-                3.7207225
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Groenten Grill Ghent",
-              "coord": [
-                51.0559121,
-                3.7277596
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Antwerp Fashion & Art",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Julien Antwerp",
-              "coord": [
-                51.2202938,
-                4.4037733999999995
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Antwerp Historic Quarter",
-              "coord": [
-                51.2227238,
-                4.3973637
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Grand Café De Rooden Hoed Antwerp",
-              "coord": [
-                51.2201131,
-                4.4001535
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Antwerp Fashion Museum",
-              "coord": [
-                51.217380899999995,
-                4.3998644
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "'t Fornuis Antwerp",
-              "coord": [
-                51.219017,
-                4.399416899999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Antwerp Diamonds & Museums",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel breakfast",
-              "coord": [
-                51.2202,
-                4.402
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Antwerp Diamond Quarter",
-              "coord": [
-                51.2144888,
-                4.4190257
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Fiskebar Antwerp",
-              "coord": [
-                51.2100274,
-                4.3972773
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Royal Museum of Fine Arts Antwerp",
-              "coord": [
-                51.2088148,
-                4.3948089
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Kommilfoo Antwerp",
-              "coord": [
-                51.2110834,
-                4.392601099999999
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Waterloo History",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "La Villa Beaumont Waterloo",
-              "coord": [
-                50.329544600000006,
-                4.3481499999999995
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Waterloo Battlefield",
-              "coord": [
-                50.6794052,
-                4.4047214
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Local Waterloo restaurant",
-              "coord": [
-                50.3819,
-                4.3831
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Waterloo Lion Monument",
-              "coord": [
-                50.678471699999996,
-                4.404838
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Local dining",
-              "coord": [
-                50.3819,
-                4.3831
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Dinant Meuse Valley",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Dinant River Hotel",
-              "coord": [
-                50.2368825,
-                4.905768999999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Dinant Citadel",
-              "coord": [
-                50.261727099999995,
-                4.9131095
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Ristorante La Roccia Dinant",
-              "coord": [
-                50.258532599999995,
-                4.9138826
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Meuse River Kayaking",
-              "coord": [
-                50.237092999999994,
-                4.905982
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Local dining",
-              "coord": [
-                50.2625,
-                4.9139
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Ardennes Forest & Castle",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Château de Spontin Wallonia",
-              "coord": [
-                50.322975799999995,
-                5.0093479
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Ardennes Forest Hiking",
-              "coord": [
-                49.8522852,
-                4.6212927
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Restaurant Château Spontin Wallonia",
-              "coord": [
-                50.3225127,
-                5.0057836
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Local Wallonian villages",
-              "coord": [
-                50.38,
-                4.95
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Auberge du Pont Anhée",
-              "coord": [
-                50.109202,
-                4.962371
-              ]
-            }
-          ]
-        },
-        {
-          "day": 11,
-          "title": "Tournai UNESCO",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Hotel Saint-Luc Tournai",
-              "coord": [
-                50.632894199999996,
-                3.3557601
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Tournai Cathedral",
-              "coord": [
-                50.6064691,
-                3.3892417
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Local Tournai restaurant",
-              "coord": [
-                50.6063,
-                4.441
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Royal Museum of Tournai",
-              "coord": [
-                50.6034192,
-                3.3871911
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Local dining",
-              "coord": [
-                50.6052,
-                4.4403
-              ]
-            }
-          ]
-        },
-        {
-          "day": 12,
-          "title": "Mechelen Carillon",
-          "items": [
-            {
-              "type": "hotel",
-              "name": "Les Suites de la Cathédrale Mechelen",
-              "coord": [
-                45.415597,
-                6.631778
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "St. Rumbold's Cathedral Mechelen",
-              "coord": [
-                51.028858,
-                4.4792214
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Jette Aardappel Mechelen",
-              "coord": [
-                51.0267423,
-                4.4842727
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Mechelen Carillon School",
-              "coord": [
-                51.0260575,
-                4.4811764
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Local Mechelen dining",
-              "coord": [
-                51.4183,
-                4.4736
-              ]
-            }
-          ]
-        },
-        {
-          "day": 13,
-          "title": "Leuven University Town",
-          "items": [
-            {
-              "type": "hotel",
               "name": "Hotel Promenade Leuven",
+              "type": "hotel",
               "coord": [
                 50.8710038,
                 4.6954699
               ]
             },
             {
-              "type": "sightseeing",
+              "name": "Leisurely hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                50.8710038,
+                4.6954699
+              ]
+            },
+            {
               "name": "Leuven University Library",
+              "type": "sightseeing",
               "coord": [
                 50.8781506,
                 4.707263
               ]
             },
             {
-              "type": "lunch",
               "name": "Resto Bar Rosewood Leuven",
+              "type": "lunch",
               "coord": [
                 50.878208799999996,
                 4.7002001
               ]
             },
             {
+              "name": "Romantic town center stroll",
               "type": "sightseeing",
-              "name": "Medieval Leuven",
               "coord": [
-                50.8795,
-                4.7022
+                50.8710038,
+                4.6954699
               ]
             },
             {
+              "name": "Resto Bar Rosewood Leuven",
               "type": "dinner",
-              "name": "Local Leuven dining",
               "coord": [
-                50.8795,
-                4.7022
+                50.878208799999996,
+                4.7002001
+              ]
+            },
+            {
+              "name": "Evening cocktails",
+              "type": "optional",
+              "coord": [
+                50.878208799999996,
+                4.7002001
               ]
             }
           ]
         },
         {
-          "day": 14,
-          "title": "Return to Antwerp/Departure",
+          "label": "Day 3 —  Romance in Antwerp — Antwerp",
           "items": [
             {
+              "name": "Les Suites de la Cathédrale Mechelen",
               "type": "hotel",
-              "name": "Hotel Julien Antwerp",
               "coord": [
-                51.2202938,
-                4.4037733999999995
+                51.4256,
+                4.4841
               ]
             },
             {
+              "name": "De Bomma Antwerp",
+              "type": "breakfast",
+              "coord": [
+                51.2219489,
+                4.3979459
+              ]
+            },
+            {
+              "name": "Cathedral of Our Lady Antwerp",
               "type": "sightseeing",
-              "name": "Final shopping or museums",
               "coord": [
-                51.2194,
-                4.4025
+                51.2203702,
+                4.4015341999999995
               ]
             },
             {
+              "name": "Antwerp Historic Quarter",
+              "type": "sightseeing",
+              "coord": [
+                51.2227238,
+                4.3973637
+              ]
+            },
+            {
+              "name": "Nebo Antwerp",
               "type": "lunch",
-              "name": "Moules et Frites Antwerp",
               "coord": [
-                51.220763,
-                4.401475
+                51.205206499999996,
+                4.3825867
               ]
             },
             {
-              "type": "optional",
-              "name": "Last-minute experiences",
+              "name": "Antwerp Diamond Quarter",
+              "type": "shopping",
               "coord": [
-                51.2194,
-                4.4025
+                51.2144888,
+                4.4190257
+              ]
+            },
+            {
+              "name": "DIM Dining Antwerp",
+              "type": "dinner",
+              "coord": [
+                51.218444999999996,
+                4.3991608
+              ]
+            },
+            {
+              "name": "Evening stroll through illuminated streets",
+              "type": "optional",
+              "coord": [
+                51.2227238,
+                4.3973637
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 —  Romantic Ghent — Couples Retreat",
+          "items": [
+            {
+              "name": "The Pulcinella Ghent",
+              "type": "hotel",
+              "coord": [
+                51.0405643,
+                3.7433389
+              ]
+            },
+            {
+              "name": "Leisurely hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                51.0405643,
+                3.7433389
+              ]
+            },
+            {
+              "name": "Ghent Medieval Center",
+              "type": "sightseeing",
+              "coord": [
+                51.0524481,
+                3.7210903
+              ]
+            },
+            {
+              "name": "Dit Hem Ghent",
+              "type": "lunch",
+              "coord": [
+                51.0503309,
+                3.7284634000000003
+              ]
+            },
+            {
+              "name": "Gravensteen Ghent",
+              "type": "sightseeing",
+              "coord": [
+                51.057176899999995,
+                3.7207225
+              ]
+            },
+            {
+              "name": "Canal-side walk",
+              "type": "sightseeing",
+              "coord": [
+                51.0524481,
+                3.7210903
+              ]
+            },
+            {
+              "name": "Brasserie Citadelhotel Ghent",
+              "type": "dinner",
+              "coord": [
+                51.0534724,
+                3.7262169999999997
+              ]
+            },
+            {
+              "name": "Romantic evening at Saint Bavo's Square",
+              "type": "optional",
+              "coord": [
+                51.0532335,
+                3.7265059999999997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 —  Luxury Romance — Bruges",
+          "items": [
+            {
+              "name": "Hotel Dukes' Palace Bruges",
+              "type": "hotel",
+              "coord": [
+                51.20854800000001,
+                3.2201049999999998
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                51.20854800000001,
+                3.2201049999999998
+              ]
+            },
+            {
+              "name": "The Chocolate Line Bruges",
+              "type": "shopping",
+              "coord": [
+                51.2065926,
+                3.2224214
+              ]
+            },
+            {
+              "name": "Bruges Canal Boat Tour",
+              "type": "sightseeing",
+              "coord": [
+                51.2056811,
+                3.2247692999999997
+              ]
+            },
+            {
+              "name": "Den Gouden Harynck Bruges",
+              "type": "lunch",
+              "coord": [
+                51.2049047,
+                3.2257808999999997
+              ]
+            },
+            {
+              "name": "Minnewater Park Bruges",
+              "type": "sightseeing",
+              "coord": [
+                51.1995291,
+                3.225273
+              ]
+            },
+            {
+              "name": "De Jonkman Bruges",
+              "type": "dinner",
+              "coord": [
+                51.2075879,
+                3.2782901
+              ]
+            },
+            {
+              "name": "Evening stroll through medieval center",
+              "type": "optional",
+              "coord": [
+                51.2088142,
+                3.2243722999999997
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 —  Romance — Château & River",
+          "items": [
+            {
+              "name": "Château de Spontin Wallonia",
+              "type": "hotel",
+              "coord": [
+                50.322975799999995,
+                5.0093479
+              ]
+            },
+            {
+              "name": "Romantic château breakfast",
+              "type": "breakfast",
+              "coord": [
+                50.322975799999995,
+                5.0093479
+              ]
+            },
+            {
+              "name": "Château grounds stroll",
+              "type": "sightseeing",
+              "coord": [
+                50.322975799999995,
+                5.0093479
+              ]
+            },
+            {
+              "name": "Restaurant Château Spontin Wallonia",
+              "type": "lunch",
+              "coord": [
+                50.3225127,
+                5.0057836
+              ]
+            },
+            {
+              "name": "Scenic drive to Dinant",
+              "type": "info",
+              "coord": [
+                50.2368825,
+                4.905768999999999
+              ]
+            },
+            {
+              "name": "Adolphe Sax Statue Dinant",
+              "type": "sightseeing",
+              "coord": [
+                50.262021399999995,
+                4.9109888999999995
+              ]
+            },
+            {
+              "name": "Ristorante La Roccia Dinant",
+              "type": "dinner",
+              "coord": [
+                50.258532599999995,
+                4.9138826
+              ]
+            },
+            {
+              "name": "Moonlit river walk",
+              "type": "optional",
+              "coord": [
+                50.2368825,
+                4.905768999999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 —  Abbey Romance — Wellness & History",
+          "items": [
+            {
+              "name": "Abbaye de Floirécourt Ardennes",
+              "type": "hotel",
+              "coord": [
+                50.1301135,
+                4.8662579
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                50.1301135,
+                4.8662579
+              ]
+            },
+            {
+              "name": "Abbey grounds exploration",
+              "type": "sightseeing",
+              "coord": [
+                50.1301135,
+                4.8662579
+              ]
+            },
+            {
+              "name": "Lunch at abbey restaurant",
+              "type": "lunch",
+              "coord": [
+                50.1301135,
+                4.8662579
+              ]
+            },
+            {
+              "name": "Couples spa treatment",
+              "type": "sightseeing",
+              "coord": [
+                50.1301135,
+                4.8662579
+              ]
+            },
+            {
+              "name": "Ardennes Forest Hiking",
+              "type": "sightseeing",
+              "coord": [
+                49.8522852,
+                4.6212927
+              ]
+            },
+            {
+              "name": "Romantic dinner at abbey",
+              "type": "dinner",
+              "coord": [
+                50.1301135,
+                4.8662579
+              ]
+            },
+            {
+              "name": "Evening stroll in abbey gardens",
+              "type": "optional",
+              "coord": [
+                50.1301135,
+                4.8662579
               ]
             }
           ]

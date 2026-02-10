@@ -4619,116 +4619,161 @@
   },
   "itineraryData": {
     "a": {
-      "color": "#2563EB",
-      "name": "Dolomites & Italian Alps",
+      "name": "Greatest Hits (7 Days)",
+      "description": "First-timer's alpine journey through Austria's Ötztal Alps and Italy's Dolomites, showcasing world-class skiing, mountain gastronomy, and iconic scenery.",
       "days": [
         {
-          "day": 1,
-          "title": "Arrival in San Cassiano",
+          "label": "Day 1 — High-Altitude Highlights — Obergurgl",
           "items": [
             {
+              "name": "The Crystal VAYA Unique",
               "type": "hotel",
+              "coord": [
+                46.875184399999995,
+                11.032143
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.875184399999995,
+                11.032143
+              ]
+            },
+            {
+              "name": "High-altitude 'snow-sure' week",
+              "type": "sightseeing",
+              "coord": [
+                46.8695,
+                11.0258
+              ]
+            },
+            {
+              "name": "Edelweiss & Gurgl (Falstaff)",
+              "type": "lunch",
+              "coord": [
+                46.869865999999995,
+                11.026142
+              ]
+            },
+            {
+              "name": "Resort snapshot: Gurgl (Obergurgl/Hochgurgl)",
+              "type": "sightseeing",
+              "coord": [
+                46.8745419,
+                11.030115
+              ]
+            },
+            {
+              "name": "Austria Stuben (Falstaff)",
+              "type": "dinner",
+              "coord": [
+                46.8710658,
+                11.0286111
+              ]
+            },
+            {
+              "name": "Top Mountain Star (après / views)",
+              "type": "optional",
+              "coord": [
+                46.880192099999995,
+                11.082933599999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Gourmet Alpine Trail — Obergurgl",
+          "items": [
+            {
+              "name": "Hotel Bellevue Obergurgl",
+              "type": "hotel",
+              "coord": [
+                46.8705442,
+                11.028063399999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.8705442,
+                11.028063399999999
+              ]
+            },
+            {
+              "name": "Austria Gourmet & Wine Hotel – wine-forward dining",
+              "type": "sightseeing",
+              "coord": [
+                46.8709841,
+                11.028664299999999
+              ]
+            },
+            {
+              "name": "Gourmet Restaurant Grünerhof (Falstaff)",
+              "type": "lunch",
+              "coord": [
+                46.8685178,
+                11.0256509
+              ]
+            },
+            {
+              "name": "Edelweiss & Gurgl – fondue rooms",
+              "type": "sightseeing",
+              "coord": [
+                46.869865999999995,
+                11.026142
+              ]
+            },
+            {
+              "name": "Falstaff-rated gourmet dinner (Austria Stuben)",
+              "type": "dinner",
+              "coord": [
+                46.8710658,
+                11.0286111
+              ]
+            },
+            {
+              "name": "Top Mountain Star (après / views)",
+              "type": "optional",
+              "coord": [
+                46.880192099999995,
+                11.082933599999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Alta Badia & Dolomites",
+          "items": [
+            {
               "name": "Aman Rosa Alpina",
+              "type": "hotel",
               "coord": [
                 46.571428,
                 11.931175999999999
               ]
             },
             {
-              "type": "dinner",
-              "name": "Settle in & rest",
-              "coord": [
-                46.572,
-                11.856
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Alta Badia Exploration",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Aman Rosa Alpina",
+              "name": "Scenic 2hr drive through Brenner Pass to Alta Badia (95km)",
+              "type": "info",
               "coord": [
                 46.571428,
                 11.931175999999999
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Skiing - Sella Ronda intro",
-              "coord": [
-                46.56,
-                11.865
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Rifugio Bioch",
-              "coord": [
-                46.5471,
-                11.909678399999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Afternoon skiing",
-              "coord": [
-                46.56,
-                11.865
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "La Stüa de Michil",
-              "coord": [
-                46.5501,
-                11.8736
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Sommelier Ski Safari",
-          "items": [
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Hotel",
               "coord": [
-                46.572,
-                11.856
+                46.8705442,
+                11.028063399999999
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Skiing with wine stops",
-              "coord": [
-                46.56,
-                11.865
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Rifugio Sponata",
-              "coord": [
-                46.5891887,
-                11.8901793
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Continue skiing",
-              "coord": [
-                46.56,
-                11.865
-              ]
-            },
-            {
-              "type": "dinner",
               "name": "Porcino (1★ MICHELIN)",
+              "type": "dinner",
               "coord": [
                 46.6066232,
                 11.894835299999999
@@ -4737,169 +4782,184 @@
           ]
         },
         {
-          "day": 4,
-          "title": "Wellness Recovery",
+          "label": "Day 4 — Alta Badia Greatest Hits",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.572,
-                11.856
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Light skiing or spa",
-              "coord": [
-                46.572,
-                11.856
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Aman Rosa Alpina spa afternoon",
+              "name": "Aman Rosa Alpina",
+              "type": "hotel",
               "coord": [
                 46.571428,
                 11.931175999999999
               ]
             },
             {
-              "type": "nap",
-              "name": "Rest time",
+              "name": "Hotel breakfast",
+              "type": "breakfast",
               "coord": [
-                46.572,
-                11.856
+                46.571428,
+                11.931175999999999
               ]
             },
             {
-              "type": "dinner",
-              "name": "Bistrot La Perla",
+              "name": "Sellaronda day circuit",
+              "type": "sightseeing",
               "coord": [
-                46.546811999999996,
-                11.876638999999999
+                46.5540391,
+                11.7601122
+              ]
+            },
+            {
+              "name": "Rifugio Sponata",
+              "type": "lunch",
+              "coord": [
+                46.5891887,
+                11.8901793
+              ]
+            },
+            {
+              "name": "Gourmet Ski Safari / 'sommelier on the slopes' vibe",
+              "type": "sightseeing",
+              "coord": [
+                46.5650926,
+                11.9065005
+              ]
+            },
+            {
+              "name": "La Stüa de Michil (MICHELIN)",
+              "type": "dinner",
+              "coord": [
+                46.5471425,
+                11.8768416
+              ]
+            },
+            {
+              "name": "Après spritz + sunny patio lunches",
+              "type": "optional",
+              "coord": [
+                46.553773899999996,
+                11.852945499999999
               ]
             }
           ]
         },
         {
-          "day": 5,
-          "title": "Hotel La Perla Cellar & Skiing",
+          "label": "Day 5 — Sellaronda Circuit — Alta Badia",
           "items": [
             {
+              "name": "Hotel ChristiAnia",
+              "type": "hotel",
+              "coord": [
+                46.5821724,
+                11.9036979
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Transfer to Corvara",
               "coord": [
-                46.5501,
-                11.8736
+                46.5821724,
+                11.9036979
               ]
             },
             {
+              "name": "Sellaronda day circuit",
               "type": "sightseeing",
-              "name": "Hotel La Perla cellar tour",
               "coord": [
-                46.5501,
-                11.8736
+                46.5540391,
+                11.7601122
               ]
             },
             {
+              "name": "Rifugio Bioch",
               "type": "lunch",
-              "name": "Berghaus Ladinia",
               "coord": [
-                46.547070299999994,
-                11.8778946
+                46.5471,
+                11.909678399999999
               ]
             },
             {
+              "name": "Sellaronda day circuit",
               "type": "sightseeing",
-              "name": "Afternoon skiing",
               "coord": [
-                46.56,
-                11.865
+                46.5540391,
+                11.7601122
               ]
             },
             {
+              "name": "L'Ostì (MICHELIN selection)",
               "type": "dinner",
-              "name": "La Stüa de Michil",
               "coord": [
-                46.5501,
-                11.8736
+                46.5523418,
+                11.873521199999999
+              ]
+            },
+            {
+              "name": "Après spritz + sunny patio lunches",
+              "type": "optional",
+              "coord": [
+                46.553773899999996,
+                11.852945499999999
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Classic Alpine Day",
+          "label": "Day 6 — Rifugio Wine Route — Alta Badia",
           "items": [
             {
+              "name": "Ciasa Salares",
+              "type": "hotel",
+              "coord": [
+                46.561301,
+                11.955908899999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Hotel",
               "coord": [
-                46.5501,
-                11.8736
+                46.561301,
+                11.955908899999999
               ]
             },
             {
+              "name": "Gourmet Ski Safari / 'sommelier on the slopes' vibe",
               "type": "sightseeing",
-              "name": "Sella Ronda circuit",
               "coord": [
-                46.56,
-                11.865
+                46.5650926,
+                11.9065005
               ]
             },
             {
+              "name": "Rifugio-hopping lunch day (Bioch → Sponata → Scotoni)",
               "type": "lunch",
+              "coord": [
+                46.5891887,
+                11.8901793
+              ]
+            },
+            {
               "name": "Rifugio Scotoni",
+              "type": "sightseeing",
               "coord": [
                 46.5530125,
                 11.9984591
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Continue skiing",
-              "coord": [
-                46.56,
-                11.865
-              ]
-            },
-            {
+              "name": "La Stüa de Michil dinner (Ladin stube setting)",
               "type": "dinner",
-              "name": "Maso Runch-Hof (MICHELIN)",
               "coord": [
-                46.6113059,
-                11.888451
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Departure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Final meal",
-              "coord": [
-                46.5501,
-                11.8736
+                46.5471425,
+                11.8768416
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Final morning ski",
+              "name": "Rifugio Bioch (Champagne list)",
+              "type": "optional",
               "coord": [
-                46.56,
-                11.865
-              ]
-            },
-            {
-              "type": "hotel",
-              "name": "Depart",
-              "coord": [
-                46.56,
-                11.865
+                46.5471,
+                11.909678399999999
               ]
             }
           ]
@@ -4907,327 +4967,400 @@
       ]
     },
     "b": {
-      "color": "#059669",
-      "name": "French Alps Family Ski",
+      "name": "Family Comfort (10 Days)",
+      "description": "Family-focused alpine adventure spanning French Alps and Austrian Ötztal, with dedicated kids' clubs, easy slopes, and wellness for parents.",
       "days": [
         {
-          "day": 1,
-          "title": "Arrival in Les Gets",
+          "label": "Day 1 — Family Fun — Les Gets",
           "items": [
             {
+              "name": "Alpina",
               "type": "hotel",
-              "name": "Alpina Hotel",
               "coord": [
-                46.1566,
-                6.6686
+                46.1549339,
+                6.667322599999999
               ]
             },
             {
-              "type": "dinner",
-              "name": "Settle in",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Village & Slopes Familiarization",
-          "items": [
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Hotel",
               "coord": [
-                46.1566,
-                6.6686
+                46.1549339,
+                6.667322599999999
               ]
             },
             {
+              "name": "Traditional village strolls + easy access lifts",
               "type": "sightseeing",
-              "name": "Local Les Gets slopes",
               "coord": [
-                46.1566,
-                6.6686
+                46.1369359,
+                6.6835016
               ]
             },
             {
-              "type": "lunch",
               "name": "La Paika",
+              "type": "lunch",
               "coord": [
                 46.1432605,
                 6.6701216
               ]
             },
             {
+              "name": "Nap & quiet time",
+              "type": "nap",
+              "coord": [
+                46.1549339,
+                6.667322599999999
+              ]
+            },
+            {
+              "name": "Alpina hotel playroom + indoor pool",
               "type": "sightseeing",
-              "name": "Afternoon skiing",
               "coord": [
-                46.1566,
-                6.6686
+                46.1549339,
+                6.667322599999999
               ]
             },
             {
-              "type": "optional",
-              "name": "Village stroll",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
+              "name": "Fondue early seating",
               "type": "dinner",
+              "coord": [
+                46.2109345,
+                6.1491337
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Chalet Recovery Day — Les Gets",
+          "items": [
+            {
+              "name": "Plum Guide – 'Be Together' (chalet)",
+              "type": "hotel",
+              "coord": [
+                46.160599999999995,
+                6.6646
+              ]
+            },
+            {
+              "name": "Chalet breakfast at leisure",
+              "type": "breakfast",
+              "coord": [
+                46.160599999999995,
+                6.6646
+              ]
+            },
+            {
+              "name": "Traditional village vibe (easy stroller evenings)",
+              "type": "sightseeing",
+              "coord": [
+                46.1556,
+                6.6706
+              ]
+            },
+            {
               "name": "La Biskatcha",
+              "type": "lunch",
               "coord": [
                 46.1567362,
                 6.6673792999999995
               ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Portes du Soleil Domain Day",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
             },
             {
-              "type": "sightseeing",
-              "name": "Portes du Soleil circuit",
-              "coord": [
-                46.15,
-                6.66
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Mountain hut lunch",
-              "coord": [
-                46.16,
-                6.67
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Continue domain exploration",
-              "coord": [
-                46.15,
-                6.66
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "La Pivotte",
-              "coord": [
-                46.1566827,
-                6.6676594
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Avoriaz Day Trip",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Drive to Avoriaz",
-              "coord": [
-                46.18,
-                6.685
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Car-free Avoriaz exploration",
-              "coord": [
-                46.18,
-                6.685
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Le Festival (MIL8)",
-              "coord": [
-                46.1925372,
-                6.7727395
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Afternoon skiing",
-              "coord": [
-                46.18,
-                6.685
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Return to Les Gets",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Storm Day Indoor Activities",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Hotel playroom",
-              "coord": [
-                46.1586,
-                6.6686
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "La Paika",
-              "coord": [
-                46.1432605,
-                6.6701216
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Pool & sauna time",
-              "coord": [
-                46.1586,
-                6.6686
-              ]
-            },
-            {
+              "name": "Nap & quiet time",
               "type": "nap",
-              "name": "Rest & recovery",
               "coord": [
-                46.1566,
-                6.6686
+                46.160599999999995,
+                6.6646
               ]
             },
             {
-              "type": "dinner",
-              "name": "La R'mize",
+              "name": "Catered-chalet rhythm (lunch out, dinner in)",
+              "type": "sightseeing",
               "coord": [
-                46.1566,
-                6.6706
+                46.15997,
+                6.670672799999999
+              ]
+            },
+            {
+              "name": "Catered chalet routine",
+              "type": "dinner",
+              "coord": [
+                46.1810712,
+                6.7122722
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Morzine & Local Culture",
+          "label": "Day 3 — Car-Free Villages — Swiss Alps",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Drive to Morzine",
-              "coord": [
-                46.14,
-                6.64
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Local skiing",
-              "coord": [
-                46.14,
-                6.64
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Traditional café",
-              "coord": [
-                46.14,
-                6.64
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Village exploration",
-              "coord": [
-                46.14,
-                6.64
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Return to Les Gets",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Final Ski & Departure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Final morning slopes",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Semba Bar tapas",
-              "coord": [
-                46.1586,
-                6.6726
-              ]
-            },
-            {
+              "name": "Bettmeralp",
               "type": "hotel",
-              "name": "Depart",
               "coord": [
-                46.1566,
-                6.6686
+                46.3904991,
+                8.0618799
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.3904991,
+                8.0618799
+              ]
+            },
+            {
+              "name": "Schilthorn",
+              "type": "sightseeing",
+              "coord": [
+                46.557480899999995,
+                7.835279300000001
+              ]
+            },
+            {
+              "name": "Mountain picnic lunch",
+              "type": "lunch",
+              "coord": [
+                46.557480899999995,
+                7.835279300000001
+              ]
+            },
+            {
+              "name": "Afternoon rest",
+              "type": "nap",
+              "coord": [
+                46.3904991,
+                8.0618799
+              ]
+            },
+            {
+              "name": "Direct flights + private transfers when possible",
+              "type": "sightseeing",
+              "coord": [
+                46.48,
+                10.55
+              ]
+            },
+            {
+              "name": "Bettmeralp",
+              "type": "dinner",
+              "coord": [
+                46.3904991,
+                8.0618799
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Travel to Ötztal Alps (Obergurgl-Hochgurgl)",
+          "items": [
+            {
+              "name": "The Crystal VAYA Unique",
+              "type": "hotel",
+              "coord": [
+                46.875184399999995,
+                11.032143
+              ]
+            },
+            {
+              "name": "6hr drive via Innsbruck or train connection through Zurich",
+              "type": "info",
+              "coord": [
+                46.875184399999995,
+                11.032143
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.3904991,
+                8.0618799
+              ]
+            },
+            {
+              "name": "Austria Stuben (Falstaff)",
+              "type": "dinner",
+              "coord": [
+                46.8710658,
+                11.0286111
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Toddler-Friendly Snow Day — Obergurgl",
+          "items": [
+            {
+              "name": "all inclusive Hotel Lohmann",
+              "type": "hotel",
+              "coord": [
+                46.872499999999995,
+                11.0288889
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.872499999999995,
+                11.0288889
+              ]
+            },
+            {
+              "name": "BOBO Ski Club / Kinderland-style progression",
+              "type": "sightseeing",
+              "coord": [
+                47.4389463,
+                11.696589999999999
+              ]
+            },
+            {
+              "name": "Edelweiss & Gurgl (Falstaff)",
+              "type": "lunch",
+              "coord": [
+                46.869865999999995,
+                11.026142
+              ]
+            },
+            {
+              "name": "Nap time at hotel",
+              "type": "nap",
+              "coord": [
+                46.872499999999995,
+                11.0288889
+              ]
+            },
+            {
+              "name": "Sledding / snow-play breaks",
+              "type": "sightseeing",
+              "coord": [
+                46.8598164,
+                10.7152017
+              ]
+            },
+            {
+              "name": "Hotel dinner",
+              "type": "dinner",
+              "coord": [
+                46.872499999999995,
+                11.0288889
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Effortless Family Day — Obergurgl",
+          "items": [
+            {
+              "name": "Hotel Gurglhof",
+              "type": "hotel",
+              "coord": [
+                46.868508299999995,
+                11.0249583
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.868508299999995,
+                11.0249583
+              ]
+            },
+            {
+              "name": "All-inclusive 'pickup & drop-off' service",
+              "type": "sightseeing",
+              "coord": [
+                46.8775,
+                11.0218
+              ]
+            },
+            {
+              "name": "Hotel lunch",
+              "type": "lunch",
+              "coord": [
+                46.868508299999995,
+                11.0249583
+              ]
+            },
+            {
+              "name": "Nap time at hotel",
+              "type": "nap",
+              "coord": [
+                46.868508299999995,
+                11.0249583
+              ]
+            },
+            {
+              "name": "Hotel-led child-minding logistics",
+              "type": "sightseeing",
+              "coord": [
+                46.870451499999994,
+                11.0285192
+              ]
+            },
+            {
+              "name": "Edelweiss & Gurgl (Falstaff)",
+              "type": "dinner",
+              "coord": [
+                46.869865999999995,
+                11.026142
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Free Family Day - BOBO Club & Pool Time",
+          "items": [
+            {
+              "name": "Hotel Gurglhof",
+              "type": "hotel",
+              "coord": [
+                46.868508299999995,
+                11.0249583
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.868508299999995,
+                11.0249583
+              ]
+            },
+            {
+              "name": "Free morning to explore Ötztal Alps (Obergurgl-Hochgurgl)",
+              "type": "sightseeing",
+              "coord": [
+                46.868508299999995,
+                11.0249583
+              ]
+            },
+            {
+              "name": "Austria Stuben (Falstaff)",
+              "type": "lunch",
+              "coord": [
+                46.8710658,
+                11.0286111
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                46.868508299999995,
+                11.0249583
+              ]
+            },
+            {
+              "name": "Gourmet Restaurant Grünerhof (Falstaff)",
+              "type": "dinner",
+              "coord": [
+                46.8685178,
+                11.0256509
               ]
             }
           ]
@@ -5235,473 +5368,665 @@
       ]
     },
     "c": {
-      "color": "#D97706",
-      "name": "Austrian & Swiss Alpine",
+      "name": "Grand Tour (14 Days)",
+      "description": "Epic cross-European ski safari from Pyrenees to Dolomites, covering five distinct alpine regions with culinary, cultural, and adventure highlights.",
       "days": [
         {
-          "day": 1,
-          "title": "Arrival in Obergurgl",
+          "label": "Day 1 — Greatest Hits — Baqueira Beret",
           "items": [
             {
+              "name": "Hotel Val de Neu",
               "type": "hotel",
+              "coord": [
+                45.8,
+                6.707
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                45.8,
+                6.707
+              ]
+            },
+            {
+              "name": "Baqueira big-mountain days (less queue pain)",
+              "type": "sightseeing",
+              "coord": [
+                45.82,
+                6.73
+              ]
+            },
+            {
+              "name": "Moët Champagne Bar & Lounge",
+              "type": "lunch",
+              "coord": [
+                45.802,
+                6.708
+              ]
+            },
+            {
+              "name": "Après at Moët Champagne Bar & Lounge",
+              "type": "sightseeing",
+              "coord": [
+                45.802,
+                6.708
+              ]
+            },
+            {
+              "name": "Tapas crawl in Vielha",
+              "type": "dinner",
+              "coord": [
+                45.81,
+                6.72
+              ]
+            },
+            {
+              "name": "Era Coquèla",
+              "type": "optional",
+              "coord": [
+                45.8,
+                6.707
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 2 — Foodie Trail — Vielha & Baqueira",
+          "items": [
+            {
+              "name": "Val de Ruda Hotel Chalet",
+              "type": "hotel",
+              "coord": [
+                45.81,
+                6.715
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                45.81,
+                6.715
+              ]
+            },
+            {
+              "name": "Val d'Aran local specialties",
+              "type": "shopping",
+              "coord": [
+                44.470679,
+                7.347344
+              ]
+            },
+            {
+              "name": "Era Coquèla",
+              "type": "lunch",
+              "coord": [
+                45.8,
+                6.707
+              ]
+            },
+            {
+              "name": "Vielha evening for local food",
+              "type": "sightseeing",
+              "coord": [
+                45.81,
+                6.72
+              ]
+            },
+            {
+              "name": "Tapas crawl in Vielha",
+              "type": "dinner",
+              "coord": [
+                45.81,
+                6.72
+              ]
+            },
+            {
+              "name": "Hotel Val de Neu – fireside hot chocolate",
+              "type": "optional",
+              "coord": [
+                45.8,
+                6.707
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Portes du Soleil",
+          "items": [
+            {
+              "name": "Alpina",
+              "type": "hotel",
+              "coord": [
+                46.1549339,
+                6.667322599999999
+              ]
+            },
+            {
+              "name": "7hr drive via Lyon or train connection through France",
+              "type": "info",
+              "coord": [
+                46.1549339,
+                6.667322599999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                45.81,
+                6.715
+              ]
+            },
+            {
+              "name": "La R'mize (MICHELIN selection)",
+              "type": "dinner",
+              "coord": [
+                46.1599031,
+                6.6719788
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Portes du Soleil Highlights — Les Gets & Avoriaz",
+          "items": [
+            {
+              "name": "Chalet-Hotel La Marmotte (Les Gets)",
+              "type": "hotel",
+              "coord": [
+                46.1566763,
+                6.667534300000001
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.1566763,
+                6.667534300000001
+              ]
+            },
+            {
+              "name": "Portes du Soleil 'domain day' (France ↔ Switzerland)",
+              "type": "sightseeing",
+              "coord": [
+                46.2552382,
+                6.8417296
+              ]
+            },
+            {
+              "name": "La Paika",
+              "type": "lunch",
+              "coord": [
+                46.1432605,
+                6.6701216
+              ]
+            },
+            {
+              "name": "Car-free Avoriaz day",
+              "type": "sightseeing",
+              "coord": [
+                46.1931052,
+                6.7733778
+              ]
+            },
+            {
+              "name": "La Pivotte",
+              "type": "dinner",
+              "coord": [
+                46.1566827,
+                6.6676594
+              ]
+            },
+            {
+              "name": "Semba Bar",
+              "type": "optional",
+              "coord": [
+                46.1566644,
+                6.6673293
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Cross-Border Alpine Adventure — Portes du Soleil",
+          "items": [
+            {
+              "name": "MIL8",
+              "type": "hotel",
+              "coord": [
+                46.1925372,
+                6.7727395
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.1925372,
+                6.7727395
+              ]
+            },
+            {
+              "name": "Portes du Soleil 'domain day' (France ↔ Switzerland)",
+              "type": "sightseeing",
+              "coord": [
+                46.2552382,
+                6.8417296
+              ]
+            },
+            {
+              "name": "Le Festival (MIL8)",
+              "type": "lunch",
+              "coord": [
+                46.1925372,
+                6.7727395
+              ]
+            },
+            {
+              "name": "Resort snapshot: Les Gets (Portes du Soleil)",
+              "type": "sightseeing",
+              "coord": [
+                46.2552382,
+                6.8417296
+              ]
+            },
+            {
+              "name": "Les Enfants Terribles (Les Dromonts)",
+              "type": "dinner",
+              "coord": [
+                46.1894121,
+                6.7764524999999995
+              ]
+            },
+            {
+              "name": "Avoriaz 'streets-as-pistes' après at MIL8",
+              "type": "optional",
+              "coord": [
+                46.1925372,
+                6.7727395
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Travel to Ötztal Alps (Obergurgl-Hochgurgl)",
+          "items": [
+            {
               "name": "The Crystal VAYA Unique",
+              "type": "hotel",
               "coord": [
                 46.875184399999995,
                 11.032143
               ]
             },
             {
-              "type": "dinner",
-              "name": "Settle in & orientation",
+              "name": "6hr drive via Innsbruck through Swiss-Austrian Alps",
+              "type": "info",
               "coord": [
-                46.8695,
-                11.0258
+                46.875184399999995,
+                11.032143
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.1925372,
+                6.7727395
+              ]
+            },
+            {
+              "name": "Austria Stuben (Falstaff)",
+              "type": "dinner",
+              "coord": [
+                46.8710658,
+                11.0286111
               ]
             }
           ]
         },
         {
-          "day": 2,
-          "title": "High-Altitude Snow-Sure Skiing",
+          "label": "Day 7 — High-Altitude Adventure — Hochgurgl",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Obergurgl/Hochgurgl circuit",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Mountain hut",
-              "coord": [
-                46.875,
-                11.03
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Afternoon slopes",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Austria Stuben",
-              "coord": [
-                46.8695,
-                11.0278
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Wellness & Recovery Day",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Light morning ski",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Hochfirst spa circuit",
-              "coord": [
-                46.8755,
-                11.0278
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Thermal pools & saunas",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Gourmet Restaurant Grünerhof",
-              "coord": [
-                46.8715,
-                11.0258
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Falstaff Tasting Menu Evening",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Full day skiing",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "On-piste refuge",
-              "coord": [
-                46.875,
-                11.03
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Afternoon skiing",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Après drinks",
-              "coord": [
-                46.889,
-                11.031
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Austria Stuben Tasting Menu",
-              "coord": [
-                46.8695,
-                11.0278
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Fondue & Family Evening",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Kid-friendly terrain",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Lunch break",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Ski school/lessons",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest time",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Edelweiss & Gurgl (Fondue)",
-              "coord": [
-                46.8695,
-                11.0238
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Hochgurgl Summit & Après",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Skiing toward Hochgurgl",
-              "coord": [
-                46.889,
-                11.031
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Mountain hut",
-              "coord": [
-                46.889,
-                11.031
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Afternoon runs",
-              "coord": [
-                46.889,
-                11.031
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Top Mountain Star après",
-              "coord": [
-                46.889,
-                11.031
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Return to Obergurgl dining",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Transfer to Lech (Austrian Alpine)",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.8695,
-                11.0258
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Scenic drive to Lech",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "En route alpine café",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Afternoon Lech slopes",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Mountain restaurant",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Lech World-Class Terrain",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Advanced ski terrain",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Gourmet hut",
-              "coord": [
-                47.61,
-                10.17
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Afternoon runs",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Lech après bar",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Fine dining",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Lech & St. Anton Circuit",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Exploration day",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Mountain hut",
-              "coord": [
-                47.61,
-                10.17
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Varied terrain",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Evening rest",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Local restaurant",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Final Skiing & Departure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Final runs",
-              "coord": [
-                47.607,
-                10.17
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Last mountain meal",
-              "coord": [
-                47.61,
-                10.17
-              ]
-            },
-            {
+              "name": "Alpen-Wellness Resort Hochfirst",
               "type": "hotel",
-              "name": "Depart Austrian Alps",
               "coord": [
-                47.607,
-                10.17
+                46.8736366,
+                11.030838600000001
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.8736366,
+                11.030838600000001
+              ]
+            },
+            {
+              "name": "High-altitude 'snow-sure' week",
+              "type": "sightseeing",
+              "coord": [
+                46.8695,
+                11.0258
+              ]
+            },
+            {
+              "name": "Top Mountain Star (après / views)",
+              "type": "lunch",
+              "coord": [
+                46.880192099999995,
+                11.082933599999999
+              ]
+            },
+            {
+              "name": "Resort snapshot: Gurgl (Obergurgl/Hochgurgl)",
+              "type": "sightseeing",
+              "coord": [
+                46.8745419,
+                11.030115
+              ]
+            },
+            {
+              "name": "Austria Stuben (Falstaff)",
+              "type": "dinner",
+              "coord": [
+                46.8710658,
+                11.0286111
+              ]
+            },
+            {
+              "name": "Hochfirst Alpen Spa circuit",
+              "type": "optional",
+              "coord": [
+                46.8736366,
+                11.030838600000001
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 8 — Couples' Alpine Romance — Obergurgl",
+          "items": [
+            {
+              "name": "Hotel Bellevue Obergurgl",
+              "type": "hotel",
+              "coord": [
+                46.8705442,
+                11.028063399999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.8705442,
+                11.028063399999999
+              ]
+            },
+            {
+              "name": "Resort snapshot: Gurgl (Obergurgl/Hochgurgl)",
+              "type": "sightseeing",
+              "coord": [
+                46.8745419,
+                11.030115
+              ]
+            },
+            {
+              "name": "Austria Gourmet & Wine Hotel – wine-forward dining",
+              "type": "lunch",
+              "coord": [
+                46.8709841,
+                11.028664299999999
+              ]
+            },
+            {
+              "name": "Top Mountain Star (après / views)",
+              "type": "sightseeing",
+              "coord": [
+                46.880192099999995,
+                11.082933599999999
+              ]
+            },
+            {
+              "name": "Edelweiss & Gurgl – fondue rooms",
+              "type": "dinner",
+              "coord": [
+                46.869865999999995,
+                11.026142
+              ]
+            },
+            {
+              "name": "Evening stroll in village",
+              "type": "optional",
+              "coord": [
+                46.8705442,
+                11.028063399999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 9 — Travel to Alta Badia & Dolomites",
+          "items": [
+            {
+              "name": "Aman Rosa Alpina",
+              "type": "hotel",
+              "coord": [
+                46.571428,
+                11.931175999999999
+              ]
+            },
+            {
+              "name": "Scenic 2hr drive through Brenner Pass (95km)",
+              "type": "info",
+              "coord": [
+                46.571428,
+                11.931175999999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.8705442,
+                11.028063399999999
+              ]
+            },
+            {
+              "name": "Porcino (1★ MICHELIN)",
+              "type": "dinner",
+              "coord": [
+                46.6066232,
+                11.894835299999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 10 — Foodie Deep Dive — Alta Badia",
+          "items": [
+            {
+              "name": "Ciasa Salares",
+              "type": "hotel",
+              "coord": [
+                46.561301,
+                11.955908899999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.561301,
+                11.955908899999999
+              ]
+            },
+            {
+              "name": "Cookbook-led food map day (Meredith Erickson's picks)",
+              "type": "sightseeing",
+              "coord": [
+                46.561,
+                11.872
+              ]
+            },
+            {
+              "name": "Rifugio-hopping lunch day (Bioch → Sponata → Scotoni)",
+              "type": "lunch",
+              "coord": [
+                46.5891887,
+                11.8901793
+              ]
+            },
+            {
+              "name": "Aman Rosa Alpina – wine library & dining",
+              "type": "sightseeing",
+              "coord": [
+                46.571428,
+                11.931175999999999
+              ]
+            },
+            {
+              "name": "Porcino (1★ MICHELIN)",
+              "type": "dinner",
+              "coord": [
+                46.6066232,
+                11.894835299999999
+              ]
+            },
+            {
+              "name": "Badia Hill – cocktail lounge + Bistro",
+              "type": "optional",
+              "coord": [
+                46.6066498,
+                11.8948187
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 11 — Ladin Culture — Badia Valley",
+          "items": [
+            {
+              "name": "Hotel ChristiAnia",
+              "type": "hotel",
+              "coord": [
+                46.5821724,
+                11.9036979
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.5821724,
+                11.9036979
+              ]
+            },
+            {
+              "name": "Resort snapshot: Alta Badia",
+              "type": "sightseeing",
+              "coord": [
+                46.550511199999995,
+                11.8406697
+              ]
+            },
+            {
+              "name": "Berghaus Ladinia",
+              "type": "lunch",
+              "coord": [
+                46.547070299999994,
+                11.8778946
+              ]
+            },
+            {
+              "name": "Cookbook-led food map day (Meredith Erickson's picks)",
+              "type": "sightseeing",
+              "coord": [
+                46.561,
+                11.872
+              ]
+            },
+            {
+              "name": "Maso Runch-Hof (MICHELIN)",
+              "type": "dinner",
+              "coord": [
+                46.6113059,
+                11.888451
+              ]
+            },
+            {
+              "name": "Hotel La Perla – cellar focus",
+              "type": "optional",
+              "coord": [
+                47.6928112,
+                9.2704322
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 12 — Luxury Day — Alta Badia",
+          "items": [
+            {
+              "name": "Aman Rosa Alpina",
+              "type": "hotel",
+              "coord": [
+                46.571428,
+                11.931175999999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.571428,
+                11.931175999999999
+              ]
+            },
+            {
+              "name": "Aman Rosa Alpina spa afternoon",
+              "type": "sightseeing",
+              "coord": [
+                46.571428,
+                11.931175999999999
+              ]
+            },
+            {
+              "name": "Rifugio Col Alt (MICHELIN selection)",
+              "type": "lunch",
+              "coord": [
+                46.5526439,
+                11.8862062
+              ]
+            },
+            {
+              "name": "Badia Hill rooftop pool / spa session",
+              "type": "sightseeing",
+              "coord": [
+                46.5686229,
+                11.565190099999999
+              ]
+            },
+            {
+              "name": "Porcino tasting night",
+              "type": "dinner",
+              "coord": [
+                46.6066232,
+                11.894835299999999
+              ]
+            },
+            {
+              "name": "Taste for Skiing (gourmet ski safari)",
+              "type": "optional",
+              "coord": [
+                46.5717384,
+                11.9318148
               ]
             }
           ]
@@ -5709,433 +6034,400 @@
       ]
     },
     "d": {
-      "color": "#DC2626",
-      "name": "Swiss Luxury & Powder",
+      "name": "Gourmet Alpine Odyssey (9 Days)",
+      "description": "A foodie's dream journey through Europe's finest mountain gastronomy, from Michelin-starred rifugios to traditional Savoyard cellars.",
       "days": [
         {
-          "day": 1,
-          "title": "Arrival in Zermatt",
+          "label": "Day 1 — Gourmet Mountain Day — Les Gets",
           "items": [
             {
+              "name": "Hôtel & Spa Crychar",
               "type": "hotel",
-              "name": "Hotel Mürren Palace",
               "coord": [
-                46.5625965,
-                7.896655099999999
+                46.155273099999995,
+                6.6682014999999994
               ]
             },
             {
-              "type": "dinner",
-              "name": "Settle in and orientation",
-              "coord": [
-                46.559,
-                7.893
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Matterhorn & Glacier Skiing",
-          "items": [
-            {
+              "name": "Hotel breakfast with home-style cooking",
               "type": "breakfast",
-              "name": "Hotel",
               "coord": [
-                46.559,
-                7.893
+                46.155273099999995,
+                6.6682014999999994
               ]
             },
             {
+              "name": "Traditional village strolls + easy access lifts",
               "type": "sightseeing",
-              "name": "Glacier ski terrain",
               "coord": [
-                46.559,
-                7.893
+                46.1369359,
+                6.6835016
               ]
             },
             {
+              "name": "La Paika",
               "type": "lunch",
-              "name": "Mountain hut",
               "coord": [
-                46.56,
-                7.9
+                46.1432605,
+                6.6701216
               ]
             },
             {
+              "name": "Savoyard village feel (Morzine/Les Gets)",
               "type": "sightseeing",
-              "name": "Afternoon runs",
               "coord": [
-                46.559,
-                7.893
+                46.159358,
+                6.6825648
               ]
             },
             {
+              "name": "La R'mize (MICHELIN selection)",
               "type": "dinner",
-              "name": "In-town dining",
               "coord": [
-                46.559,
-                7.893
-              ]
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "title": "Transfer to Verbier",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.559,
-                7.893
+                46.1599031,
+                6.6719788
               ]
             },
             {
-              "type": "sightseeing",
-              "name": "Transfer via scenic route",
-              "coord": [
-                46.35,
-                7.5
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Verbier slopes afternoon",
-              "coord": [
-                46.09,
-                7.23
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Mountain bistro",
-              "coord": [
-                46.09,
-                7.23
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Verbier Off-Piste & 4 Valleys",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.09,
-                7.23
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "4 Valleys terrain exploration",
-              "coord": [
-                46.09,
-                7.23
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Gourmet hut lunch",
-              "coord": [
-                46.1,
-                7.24
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Advanced terrain runs",
-              "coord": [
-                46.09,
-                7.23
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Fine dining",
-              "coord": [
-                46.09,
-                7.23
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Wellness & Recovery",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.09,
-                7.23
-              ]
-            },
-            {
+              "name": "Hotel La Marmotte – multiple dining options",
               "type": "optional",
-              "name": "Light skiing",
               "coord": [
-                46.09,
-                7.23
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Spa afternoon",
-              "coord": [
-                46.09,
-                7.23
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Thermal pools",
-              "coord": [
-                46.09,
-                7.23
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Hotel dining",
-              "coord": [
-                46.09,
-                7.23
+                46.156705599999995,
+                6.6673507
               ]
             }
           ]
         },
         {
-          "day": 6,
-          "title": "Transfer to St. Moritz",
+          "label": "Day 2 — Traditional Savoy — Morzine & Les Gets",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.09,
-                7.23
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Scenic transfer",
-              "coord": [
-                46.5,
-                10.2
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "St. Moritz slopes",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Mountain café",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Luxury resort dining",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "St. Moritz Luxury Skiing",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Corvatsch terrain",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Gourmet mountain lunch",
-              "coord": [
-                46.5,
-                10.3
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Afternoon runs",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Après at fine bar",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Michelin-level cuisine",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Lake & Village Culture",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "St. Moritz lake walks",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Lakeside restaurant",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Shopping/culture",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Light afternoon skiing",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Fine dining",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Final Alpine Day",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Favorite terrain revisit",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Final mountain hut",
-              "coord": [
-                46.5,
-                10.3
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Afternoon skiing",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest & packing",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Celebratory dinner",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Departure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Final morning",
-              "coord": [
-                46.496,
-                10.298
-              ]
-            },
-            {
+              "name": "Chalet-Hotel La Marmotte (Les Gets)",
               "type": "hotel",
-              "name": "Depart",
               "coord": [
-                46.496,
-                10.298
+                46.1566763,
+                6.667534300000001
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.1566763,
+                6.667534300000001
+              ]
+            },
+            {
+              "name": "Base in traditional Savoyard villages (vs. modernist blocks)",
+              "type": "sightseeing",
+              "coord": [
+                46.15,
+                6.66
+              ]
+            },
+            {
+              "name": "La Pivotte",
+              "type": "lunch",
+              "coord": [
+                46.1566827,
+                6.6676594
+              ]
+            },
+            {
+              "name": "Savoyard village feel (Morzine/Les Gets)",
+              "type": "sightseeing",
+              "coord": [
+                46.159358,
+                6.6825648
+              ]
+            },
+            {
+              "name": "Fondue night",
+              "type": "dinner",
+              "coord": [
+                46.2109345,
+                6.1491337
+              ]
+            },
+            {
+              "name": "Traditional village vibe (easy stroller evenings)",
+              "type": "optional",
+              "coord": [
+                46.1556,
+                6.6706
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Travel to Alta Badia & Dolomites",
+          "items": [
+            {
+              "name": "Aman Rosa Alpina",
+              "type": "hotel",
+              "coord": [
+                46.571428,
+                11.931175999999999
+              ]
+            },
+            {
+              "name": "6hr train via Milan or scenic drive through Alps",
+              "type": "info",
+              "coord": [
+                46.571428,
+                11.931175999999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.1566763,
+                6.667534300000001
+              ]
+            },
+            {
+              "name": "Porcino (1★ MICHELIN)",
+              "type": "dinner",
+              "coord": [
+                46.6066232,
+                11.894835299999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Foodie Deep Dive — Alta Badia",
+          "items": [
+            {
+              "name": "Ciasa Salares",
+              "type": "hotel",
+              "coord": [
+                46.561301,
+                11.955908899999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.561301,
+                11.955908899999999
+              ]
+            },
+            {
+              "name": "Cookbook-led food map day (Meredith Erickson's picks)",
+              "type": "sightseeing",
+              "coord": [
+                46.561,
+                11.872
+              ]
+            },
+            {
+              "name": "Rifugio-hopping lunch day (Bioch → Sponata → Scotoni)",
+              "type": "lunch",
+              "coord": [
+                46.5891887,
+                11.8901793
+              ]
+            },
+            {
+              "name": "Aman Rosa Alpina – wine library & dining",
+              "type": "sightseeing",
+              "coord": [
+                46.571428,
+                11.931175999999999
+              ]
+            },
+            {
+              "name": "Porcino (1★ MICHELIN)",
+              "type": "dinner",
+              "coord": [
+                46.6066232,
+                11.894835299999999
+              ]
+            },
+            {
+              "name": "Badia Hill – cocktail lounge + Bistro",
+              "type": "optional",
+              "coord": [
+                46.6066498,
+                11.8948187
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Rifugio Wine Route — Alta Badia",
+          "items": [
+            {
+              "name": "Ciasa Salares",
+              "type": "hotel",
+              "coord": [
+                46.561301,
+                11.955908899999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.561301,
+                11.955908899999999
+              ]
+            },
+            {
+              "name": "Gourmet Ski Safari / 'sommelier on the slopes' vibe",
+              "type": "sightseeing",
+              "coord": [
+                46.5650926,
+                11.9065005
+              ]
+            },
+            {
+              "name": "Rifugio-hopping lunch day (Bioch → Sponata → Scotoni)",
+              "type": "lunch",
+              "coord": [
+                46.5891887,
+                11.8901793
+              ]
+            },
+            {
+              "name": "Rifugio Scotoni",
+              "type": "sightseeing",
+              "coord": [
+                46.5530125,
+                11.9984591
+              ]
+            },
+            {
+              "name": "La Stüa de Michil dinner (Ladin stube setting)",
+              "type": "dinner",
+              "coord": [
+                46.5471425,
+                11.8768416
+              ]
+            },
+            {
+              "name": "Rifugio Bioch (Champagne list)",
+              "type": "optional",
+              "coord": [
+                46.5471,
+                11.909678399999999
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Wine Tasting & Cheese Cave Visits",
+          "items": [
+            {
+              "name": "Ciasa Salares",
+              "type": "hotel",
+              "coord": [
+                46.561301,
+                11.955908899999999
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                46.561301,
+                11.955908899999999
+              ]
+            },
+            {
+              "name": "Free morning to explore Alta Badia & Dolomites",
+              "type": "sightseeing",
+              "coord": [
+                46.561301,
+                11.955908899999999
+              ]
+            },
+            {
+              "name": "Porcino (1★ MICHELIN)",
+              "type": "lunch",
+              "coord": [
+                46.6066232,
+                11.894835299999999
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                46.561301,
+                11.955908899999999
+              ]
+            },
+            {
+              "name": "La Stüa de Michil (MICHELIN)",
+              "type": "dinner",
+              "coord": [
+                46.5471425,
+                11.8768416
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 7 — Gourmet Day — Lech",
+          "items": [
+            {
+              "name": "Aurelio Hotel & Chalet Lech",
+              "type": "hotel",
+              "coord": [
+                47.2095385,
+                10.138880499999999
+              ]
+            },
+            {
+              "name": "Aurelio Hotel & Chalet Lech",
+              "type": "breakfast",
+              "coord": [
+                47.2095385,
+                10.138880499999999
+              ]
+            },
+            {
+              "name": "Morning skiing",
+              "type": "sightseeing",
+              "coord": [
+                47.2095385,
+                10.138880499999999
+              ]
+            },
+            {
+              "name": "Aurelio Hotel & Chalet Lech",
+              "type": "lunch",
+              "coord": [
+                47.2095385,
+                10.138880499999999
+              ]
+            },
+            {
+              "name": "Watch European school holiday calendars",
+              "type": "info",
+              "coord": [
+                46.46,
+                10.52
+              ]
+            },
+            {
+              "name": "Aurelio Hotel & Chalet Lech",
+              "type": "dinner",
+              "coord": [
+                47.2095385,
+                10.138880499999999
+              ]
+            },
+            {
+              "name": "Wine cellar tasting",
+              "type": "optional",
+              "coord": [
+                47.2095385,
+                10.138880499999999
               ]
             }
           ]
@@ -6143,633 +6435,363 @@
       ]
     },
     "e": {
-      "color": "#7C3AED",
-      "name": "Grand European Ski Tour",
+      "name": "Nordic Design & Wellness Escape (8 Days)",
+      "description": "Scandinavian ski experience blending Swedish alpine adventure with cutting-edge design hotels, Arctic nature, and transformative spa culture.",
       "days": [
         {
-          "day": 1,
-          "title": "Arrival in Austrian Alps (Ötztal)",
+          "label": "Day 1 — Greatest Hits — Åre",
           "items": [
             {
+              "name": "Hotel Åregården",
               "type": "hotel",
-              "name": "The Crystal VAYA Unique",
               "coord": [
-                46.875184399999995,
-                11.032143
+                63.399435,
+                13.079068
               ]
             },
             {
-              "type": "dinner",
-              "name": "Settle in",
-              "coord": [
-                46.8715,
-                11.0298
-              ]
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "title": "Ötztal Snow-Sure Skiing",
-          "items": [
-            {
+              "name": "Hotel breakfast",
               "type": "breakfast",
-              "name": "Hotel",
               "coord": [
-                46.8715,
-                11.0298
+                63.399435,
+                13.079068
               ]
             },
             {
+              "name": "Resort snapshot: Åre",
               "type": "sightseeing",
-              "name": "High-altitude terrain",
               "coord": [
-                46.8715,
-                11.0298
+                63.399,
+                13.0815
               ]
             },
             {
+              "name": "Vinbaren Åre (White Guide)",
               "type": "lunch",
-              "name": "Mountain hut",
               "coord": [
-                46.875,
-                11.03
+                63.399536,
+                13.078816
               ]
             },
             {
+              "name": "Tree runs + family-friendly terrain",
               "type": "sightseeing",
-              "name": "Afternoon skiing",
               "coord": [
-                46.8715,
-                11.0298
+                63.405,
+                13.0785
               ]
             },
             {
-              "type": "dinner",
-              "name": "Austria Stuben",
+              "name": "Après + small plates at Vinbaren (White Guide)",
+              "type": "sightseeing",
               "coord": [
-                46.8695,
-                11.0278
+                63.401,
+                13.0785
+              ]
+            },
+            {
+              "name": "Granen (White Guide)",
+              "type": "dinner",
+              "coord": [
+                60.493199,
+                14.804693
               ]
             }
           ]
         },
         {
-          "day": 3,
-          "title": "Transfer to Italian Dolomites (Alta Badia)",
+          "label": "Day 2 — Foodie Tour — Åre",
           "items": [
             {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.8715,
-                11.0298
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Drive to Alta Badia",
-              "coord": [
-                46.56,
-                11.87
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Afternoon Sella Ronda",
-              "coord": [
-                46.56,
-                11.87
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Mountain bistro",
-              "coord": [
-                46.56,
-                11.87
-              ]
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "title": "Gourmet Ski Safari (Alta Badia)",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.572,
-                11.856
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Wine-focused hut hopping",
-              "coord": [
-                46.56,
-                11.87
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Rifugio Bioch champagne",
-              "coord": [
-                46.57,
-                11.86
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Continue skiing",
-              "coord": [
-                46.56,
-                11.87
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Porcino (Michelin)",
-              "coord": [
-                46.561,
-                11.872
-              ]
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "title": "Wellness & Culinary Day (Alta Badia)",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.572,
-                11.856
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Light skiing",
-              "coord": [
-                46.56,
-                11.87
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Aman Rosa Alpina spa",
-              "coord": [
-                46.572,
-                11.856
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Rest & recovery",
-              "coord": [
-                46.572,
-                11.856
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "La Stüa de Michil (Michelin)",
-              "coord": [
-                46.5501,
-                11.8736
-              ]
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "title": "Transfer to French Alps (Les Gets)",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.572,
-                11.856
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Drive to Les Gets",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Afternoon slopes",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "En route",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Village restaurant",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            }
-          ]
-        },
-        {
-          "day": 7,
-          "title": "Portes du Soleil Domain Day",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel Alpina",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Multi-resort circuit",
-              "coord": [
-                46.15,
-                6.66
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Mountain hut",
-              "coord": [
-                46.16,
-                6.67
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Continue 11-resort loop",
-              "coord": [
-                46.15,
-                6.66
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "La Pivotte",
-              "coord": [
-                46.1566827,
-                6.6676594
-              ]
-            }
-          ]
-        },
-        {
-          "day": 8,
-          "title": "Avoriaz Car-Free Experience",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Drive to Avoriaz",
-              "coord": [
-                46.18,
-                6.685
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Unique streets-as-pistes",
-              "coord": [
-                46.18,
-                6.685
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Le Festival (MIL8)",
-              "coord": [
-                46.1925372,
-                6.7727395
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Afternoon terrain",
-              "coord": [
-                46.18,
-                6.685
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Les Enfants Terribles",
-              "coord": [
-                46.189,
-                6.777
-              ]
-            }
-          ]
-        },
-        {
-          "day": 9,
-          "title": "Les Gets Culture & Recovery",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Light skiing or rest",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Village exploration",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Savoyard café",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Pool & playroom",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "La R'mize",
-              "coord": [
-                46.1566,
-                6.6706
-              ]
-            }
-          ]
-        },
-        {
-          "day": 10,
-          "title": "Transfer to Spanish Pyrenees (Baqueira)",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                46.1566,
-                6.6686
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Drive to Spain",
-              "coord": [
-                45.8,
-                6.707
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Lunch en route",
-              "coord": [
-                45.8,
-                6.707
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Afternoon Baqueira slopes",
-              "coord": [
-                45.8,
-                6.707
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Era Coquèla (Aranese)",
-              "coord": [
-                45.81,
-                6.72
-              ]
-            }
-          ]
-        },
-        {
-          "day": 11,
-          "title": "Spacious Baqueira Terrain",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel Val de Neu",
-              "coord": [
-                42.695513999999996,
-                0.9361999999999999
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Full-day big mountain",
-              "coord": [
-                45.82,
-                6.73
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Slope-side service",
-              "coord": [
-                45.8,
-                6.707
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Afternoon runs",
-              "coord": [
-                45.82,
-                6.73
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Après spritz",
-              "coord": [
-                45.802,
-                6.708
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Fireside dining",
-              "coord": [
-                45.8,
-                6.707
-              ]
-            }
-          ]
-        },
-        {
-          "day": 12,
-          "title": "Wellness & Local Food",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                45.8,
-                6.707
-              ]
-            },
-            {
-              "type": "optional",
-              "name": "Light skiing",
-              "coord": [
-                45.8,
-                6.707
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Sisley spa circuit",
-              "coord": [
-                45.8,
-                6.707
-              ]
-            },
-            {
-              "type": "nap",
-              "name": "Thermal pools",
-              "coord": [
-                45.8,
-                6.707
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Vielha tapas crawl",
-              "coord": [
-                45.81,
-                6.72
-              ]
-            }
-          ]
-        },
-        {
-          "day": 13,
-          "title": "Cultural Non-Ski Day",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                45.8,
-                6.707
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Aigüestortes National Park",
-              "coord": [
-                45.9,
-                6.65
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Mountain lodge",
-              "coord": [
-                45.9,
-                6.65
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Romanesque churches UNESCO",
-              "coord": [
-                45.9,
-                6.65
-              ]
-            },
-            {
-              "type": "dinner",
-              "name": "Local Aranese restaurant",
-              "coord": [
-                45.81,
-                6.72
-              ]
-            }
-          ]
-        },
-        {
-          "day": 14,
-          "title": "Final Skiing & Departure",
-          "items": [
-            {
-              "type": "breakfast",
-              "name": "Hotel",
-              "coord": [
-                45.8,
-                6.707
-              ]
-            },
-            {
-              "type": "sightseeing",
-              "name": "Final morning runs",
-              "coord": [
-                45.8,
-                6.707
-              ]
-            },
-            {
-              "type": "lunch",
-              "name": "Farewell meal",
-              "coord": [
-                45.81,
-                6.72
-              ]
-            },
-            {
+              "name": "Granen Hotel & Restaurant",
               "type": "hotel",
-              "name": "Depart for airport",
               "coord": [
-                45.8,
-                6.707
+                63.3975,
+                13.08
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                63.3975,
+                13.08
+              ]
+            },
+            {
+              "name": "Granen – wine focus",
+              "type": "shopping",
+              "coord": [
+                60.49313,
+                14.80447
+              ]
+            },
+            {
+              "name": "Vinbaren Åre (White Guide)",
+              "type": "lunch",
+              "coord": [
+                63.399536,
+                13.078816
+              ]
+            },
+            {
+              "name": "Free afternoon in town",
+              "type": "sightseeing",
+              "coord": [
+                63.3975,
+                13.08
+              ]
+            },
+            {
+              "name": "Hotel Åregården – bars & restaurants",
+              "type": "sightseeing",
+              "coord": [
+                63.393,
+                13.0785
+              ]
+            },
+            {
+              "name": "Dinner at Granen (White Guide)",
+              "type": "dinner",
+              "coord": [
+                63.403,
+                13.0815
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 3 — Balance Day — Åre",
+          "items": [
+            {
+              "name": "Granen Hotel & Restaurant",
+              "type": "hotel",
+              "coord": [
+                63.3975,
+                13.08
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                63.3975,
+                13.08
+              ]
+            },
+            {
+              "name": "Use Åre as a 'yin/yang' slopes-to-spas base",
+              "type": "sightseeing",
+              "coord": [
+                63.395,
+                13.0755
+              ]
+            },
+            {
+              "name": "Vinbaren Åre (White Guide)",
+              "type": "lunch",
+              "coord": [
+                63.399536,
+                13.078816
+              ]
+            },
+            {
+              "name": "Copperhill 'Design hotel' stay + spa day",
+              "type": "sightseeing",
+              "coord": [
+                63.399,
+                13.0755
+              ]
+            },
+            {
+              "name": "Dinner at Granen (White Guide)",
+              "type": "dinner",
+              "coord": [
+                63.403,
+                13.0815
+              ]
+            },
+            {
+              "name": "Wine tasting by the fire",
+              "type": "optional",
+              "coord": [
+                63.3975,
+                13.08
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 4 — Luxury Day — Åre",
+          "items": [
+            {
+              "name": "Copperhill Mountain Lodge",
+              "type": "hotel",
+              "coord": [
+                63.383234,
+                13.17775
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                63.383234,
+                13.17775
+              ]
+            },
+            {
+              "name": "Copperhill 'Design hotel' stay + spa day",
+              "type": "sightseeing",
+              "coord": [
+                63.399,
+                13.0755
+              ]
+            },
+            {
+              "name": "Copperhill – Niesti (hotel dining)",
+              "type": "lunch",
+              "coord": [
+                63.381174,
+                13.171505
+              ]
+            },
+            {
+              "name": "Nordic spa + design-hotel downtime",
+              "type": "sightseeing",
+              "coord": [
+                63.405,
+                13.0845
+              ]
+            },
+            {
+              "name": "Dinner at Granen (White Guide)",
+              "type": "dinner",
+              "coord": [
+                63.403,
+                13.0815
+              ]
+            },
+            {
+              "name": "Nightcap at hotel",
+              "type": "optional",
+              "coord": [
+                63.383234,
+                13.17775
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 5 — Nature Day — Åre",
+          "items": [
+            {
+              "name": "Copperhill Mountain Lodge",
+              "type": "hotel",
+              "coord": [
+                63.383234,
+                13.17775
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                63.383234,
+                13.17775
+              ]
+            },
+            {
+              "name": "'Don't even need to ski' resort-day (hike + design)",
+              "type": "sightseeing",
+              "coord": [
+                63.393,
+                13.0875
+              ]
+            },
+            {
+              "name": "Copperhill – Niesti (hotel dining)",
+              "type": "lunch",
+              "coord": [
+                63.381174,
+                13.171505
+              ]
+            },
+            {
+              "name": "Nordic spa + design-hotel downtime",
+              "type": "sightseeing",
+              "coord": [
+                63.405,
+                13.0845
+              ]
+            },
+            {
+              "name": "Granen (White Guide)",
+              "type": "dinner",
+              "coord": [
+                60.493199,
+                14.804693
+              ]
+            },
+            {
+              "name": "Evening design-hotel lounge",
+              "type": "optional",
+              "coord": [
+                63.383234,
+                13.17775
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Day 6 — Free Day - Sauna Rituals & Village Exploration",
+          "items": [
+            {
+              "name": "Copperhill Mountain Lodge",
+              "type": "hotel",
+              "coord": [
+                63.383234,
+                13.17775
+              ]
+            },
+            {
+              "name": "Hotel breakfast",
+              "type": "breakfast",
+              "coord": [
+                63.383234,
+                13.17775
+              ]
+            },
+            {
+              "name": "Free morning to explore Åre, Sweden",
+              "type": "sightseeing",
+              "coord": [
+                63.383234,
+                13.17775
+              ]
+            },
+            {
+              "name": "Granen (White Guide)",
+              "type": "lunch",
+              "coord": [
+                60.493199,
+                14.804693
+              ]
+            },
+            {
+              "name": "Free afternoon",
+              "type": "sightseeing",
+              "coord": [
+                63.383234,
+                13.17775
+              ]
+            },
+            {
+              "name": "Vinbaren Åre (White Guide)",
+              "type": "dinner",
+              "coord": [
+                63.399536,
+                13.078816
               ]
             }
           ]
