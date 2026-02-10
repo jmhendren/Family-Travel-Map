@@ -5131,7 +5131,7 @@
                         const m = itineraryMarkers.find(m => Math.abs(m.marker.getLatLng().lat - lat) < 0.0001 && Math.abs(m.marker.getLatLng().lng - lng) < 0.0001);
                         if (m) {
                             const poiInfo = lookupPoi(m.name);
-                            showMobilePOIDetail({ name: m.name, coord: [lat, lng], desc: poiInfo.desc, longDesc: poiInfo.longDesc, gmapsUrl: poiInfo.gmapsUrl, rating: poiInfo.rating, ratingCount: poiInfo.ratingCount, priceLevel: poiInfo.priceLevel, website: poiInfo.website, hours: poiInfo.hours, tags: poiInfo.tags }, formatType(m.type));
+                            showMobilePOIDetail({ name: m.name, coord: [lat, lng], desc: poiInfo.desc, longDesc: poiInfo.longDesc, gmapsUrl: poiInfo.gmapsUrl, rating: poiInfo.rating, ratingCount: poiInfo.ratingCount, priceLevel: poiInfo.priceLevel, website: poiInfo.website, hours: poiInfo.hours, photoRef: poiInfo.photoRef, photoAttribution: poiInfo.photoAttribution, tags: poiInfo.tags }, formatType(m.type));
                         } else if (name) {
                             // Try to find by name in POI arrays
                             mobileItinItemTap(name);
@@ -8089,8 +8089,10 @@
                 for (const day of (itin.days || [])) {
                     for (const item of (day.items || [])) {
                         if (item.name === poiName && item.coord) {
-                            foundPoi = item;
-                            foundLabel = item.type || 'Place';
+                            // Enrich itinerary item with full POI data from lookup
+                            const poiInfo = lookupPoi(item.name);
+                            foundPoi = { name: item.name, coord: item.coord, desc: poiInfo.desc, longDesc: poiInfo.longDesc, gmapsUrl: poiInfo.gmapsUrl, rating: poiInfo.rating, ratingCount: poiInfo.ratingCount, priceLevel: poiInfo.priceLevel, website: poiInfo.website, hours: poiInfo.hours, photoRef: poiInfo.photoRef, photoAttribution: poiInfo.photoAttribution, tags: poiInfo.tags };
+                            foundLabel = formatType(item.type) || 'Place';
                             break;
                         }
                     }
