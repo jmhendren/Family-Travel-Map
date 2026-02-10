@@ -3479,6 +3479,11 @@
             currentItinerary = null;
             currentDay = null;
 
+            // Reset chat conversation state for new destination
+            chatConversation = [];
+            chatGeneratedItinerary = null;
+            chatHistory = [];
+
             // Load annotations (personal.json + browser localStorage)
             await loadPersonalAnnotations(key);
             loadBrowserAnnotations(key);
@@ -3923,6 +3928,32 @@
             categoryGroups.kidFriendly = L.featureGroup();
             categoryGroups.markets = L.featureGroup();
 
+            // Zoom-responsive marker scaling — adjusts marker size with zoom level
+            map.on('zoomend', function() {
+                const zoom = map.getZoom();
+                // Scale: 0.7x at zoom 4, 1.0x at zoom 10, 1.4x at zoom 16+
+                const scale = Math.max(0.7, Math.min(1.4, 0.7 + (zoom - 4) * 0.058));
+                // Scale category markers
+                Object.values(categoryGroups).forEach(function(group) {
+                    group.eachLayer(function(layer) {
+                        if (layer._baseRadius !== undefined) {
+                            layer.setRadius(Math.round(layer._baseRadius * scale));
+                        } else if (layer._baseHitRadius !== undefined) {
+                            layer.setRadius(Math.round(layer._baseHitRadius * scale));
+                        }
+                    });
+                });
+                // Scale itinerary markers
+                itineraryMarkers.forEach(function(m) {
+                    if (m.marker._baseRadius !== undefined) {
+                        m.marker.setRadius(Math.round(m.marker._baseRadius * scale));
+                    }
+                    if (m.hitMarker && m.hitMarker._baseHitRadius !== undefined) {
+                        m.hitMarker.setRadius(Math.round(m.hitMarker._baseHitRadius * scale));
+                    }
+                });
+            });
+
             // Build static UI elements
             buildCategoriesUI();
 
@@ -4172,23 +4203,47 @@
             function addCategoryMarker(poi, categoryKey, categoryLabel, radius) {
                 if (!poi.coord) return;
                 const hasAnnotation = getAnnotationsForPoi(destKey, poi.name).length > 0;
+
+                // Invisible hit-area marker (large, transparent) for easier clicking/tapping
+                const hitRadius = isMobile() ? 16 : 12;
+                const hitMarker = L.circleMarker(poi.coord, {
+                    radius: hitRadius,
+                    fillColor: 'transparent',
+                    color: 'transparent',
+                    weight: 0,
+                    fillOpacity: 0,
+                    interactive: true
+                });
+                hitMarker.bindPopup(buildPoiPopupHtml(poi, categoryLabel));
+                if (isMobile()) {
+                    hitMarker.off('click');
+                    hitMarker.on('click', function() {
+                        showMobilePOIDetail(poi, categoryLabel);
+                    });
+                }
+                categoryGroups[categoryKey].addLayer(hitMarker);
+
+                // Visible marker (small, styled) — clicks pass through to hitMarker
                 const marker = L.circleMarker(poi.coord, {
                     radius: radius,
                     fillColor: categoryColors[categoryKey],
                     color: hasAnnotation ? '#f59e0b' : '#fff',
                     weight: hasAnnotation ? 3 : 2,
                     opacity: 1,
-                    fillOpacity: 0.8
+                    fillOpacity: 0.8,
+                    interactive: false
                 });
-                marker.bindPopup(buildPoiPopupHtml(poi, categoryLabel));
-                // On mobile, intercept popup and show detail sheet instead
-                if (isMobile()) {
-                    marker.off('click');
-                    marker.on('click', function() {
-                        showMobilePOIDetail(poi, categoryLabel);
-                    });
-                }
                 categoryGroups[categoryKey].addLayer(marker);
+
+                // Desktop hover effect — grow marker on hover
+                if (!isMobile()) {
+                    hitMarker.on('mouseover', function() { marker.setRadius(radius + 2); });
+                    hitMarker.on('mouseout', function() { marker.setRadius(radius); });
+                }
+
+                // Store base radii for zoom-responsive scaling
+                marker._baseRadius = radius;
+                hitMarker._baseHitRadius = hitRadius;
             }
 
             // Hotels
@@ -4412,15 +4467,9 @@
             itin.days.forEach(dayData => {
                 dayData.items.forEach(item => {
                     if (item.coord) {
-                        const marker = L.circleMarker(item.coord, {
-                            radius: 7,
-                            fillColor: typeColors[item.type] || '#666',
-                            color: '#fff',
-                            weight: 2,
-                            opacity: 1,
-                            fillOpacity: 0.85
-                        });
-                        
+                        const itinBaseRadius = 7;
+                        const itinHitRadius = isMobile() ? 18 : 14;
+
                         const itemIdx = dayData.items.indexOf(item);
                         const swapBtn = (item.type !== 'nap') ? '<button class="popup-swap-btn" onclick="openSwapPanel(\x27' + key + '\x27,' + dayData.day + ',' + itemIdx + ')">&#x1f504; Swap</button>' : '';
                         const destKey = activeDestination || 'default';
@@ -4446,17 +4495,47 @@
                         popupContent += '<textarea id="' + itinNoteId + '" style="width:100%;min-height:50px;border:1px solid #d1d5db;border-radius:4px;padding:4px;font-size:12px;resize:vertical;font-family:inherit" placeholder="Add a note...">' + escapeHtml(itinExistingNote) + '</textarea>';
                         popupContent += '<button onclick="setNote(\'' + destKey + '\',\'' + safeName + '\',document.getElementById(\'' + itinNoteId + '\').value);this.textContent=\'Saved ✓\';setTimeout(()=>this.textContent=\'Save Note\',1500)" style="margin-top:4px;padding:2px 8px;font-size:11px;background:#2563EB;color:white;border:none;border-radius:3px;cursor:pointer;width:100%">Save Note</button>';
                         popupContent += '</div>';
-                        marker.bindPopup(popupContent);
-                        // On mobile, intercept popup and show detail sheet instead
+
+                        // Invisible hit-area marker (large, transparent) for easier clicking
+                        const hitMarker = L.circleMarker(item.coord, {
+                            radius: itinHitRadius,
+                            fillColor: 'transparent',
+                            color: 'transparent',
+                            weight: 0,
+                            fillOpacity: 0,
+                            interactive: true
+                        });
+                        hitMarker._baseHitRadius = itinHitRadius;
+                        hitMarker.bindPopup(popupContent);
                         if (isMobile()) {
-                            marker.off('click');
-                            marker.on('click', function() {
+                            hitMarker.off('click');
+                            hitMarker.on('click', function() {
                                 const mobilePoi = { name: item.name, coord: item.coord, desc: poiInfo.desc, longDesc: poiInfo.longDesc, gmapsUrl: poiInfo.gmapsUrl, rating: poiInfo.rating, ratingCount: poiInfo.ratingCount, priceLevel: poiInfo.priceLevel, website: poiInfo.website, hours: poiInfo.hours, photoRef: poiInfo.photoRef, photoAttribution: poiInfo.photoAttribution, tags: poiInfo.tags };
                                 showMobilePOIDetail(mobilePoi, formatType(item.type));
                             });
                         }
+                        hitMarker.addTo(map);
+
+                        // Visible marker (small, styled) — non-interactive, clicks pass through
+                        const marker = L.circleMarker(item.coord, {
+                            radius: itinBaseRadius,
+                            fillColor: typeColors[item.type] || '#666',
+                            color: '#fff',
+                            weight: 2,
+                            opacity: 1,
+                            fillOpacity: 0.85,
+                            interactive: false
+                        });
+                        marker._baseRadius = itinBaseRadius;
                         marker.addTo(map);
-                        itineraryMarkers.push({marker: marker, coord: item.coord, day: dayData.day, type: item.type, name: item.name});
+
+                        // Desktop hover effect
+                        if (!isMobile()) {
+                            hitMarker.on('mouseover', function() { marker.setRadius(itinBaseRadius + 2); });
+                            hitMarker.on('mouseout', function() { marker.setRadius(itinBaseRadius); });
+                        }
+
+                        itineraryMarkers.push({marker: marker, hitMarker: hitMarker, coord: item.coord, day: dayData.day, type: item.type, name: item.name});
                         markers.push({lat: item.coord[0], lng: item.coord[1]});
                     }
                 });
@@ -4511,8 +4590,10 @@
             itineraryMarkers.forEach(m => {
                 if (m.day === dayNum) {
                     m.marker.setStyle({opacity: 1, fillOpacity: 0.85});
+                    if (m.hitMarker) m.hitMarker.setStyle({fillOpacity: 0, interactive: true});
                 } else {
                     m.marker.setStyle({opacity: 0.2, fillOpacity: 0.2});
+                    if (m.hitMarker) m.hitMarker.setStyle({fillOpacity: 0, interactive: false});
                 }
             });
 
@@ -4554,6 +4635,7 @@
             // Show all markers
             itineraryMarkers.forEach(m => {
                 m.marker.setStyle({opacity: 1, fillOpacity: 0.85});
+                if (m.hitMarker) m.hitMarker.setStyle({fillOpacity: 0, interactive: true});
             });
 
             // Show all polylines
@@ -4582,6 +4664,7 @@
         function clearItineraryMarkers() {
             itineraryMarkers.forEach(m => {
                 map.removeLayer(m.marker);
+                if (m.hitMarker) map.removeLayer(m.hitMarker);
             });
             itineraryMarkers = [];
 
@@ -5796,6 +5879,7 @@
                 if (allDaysActive || !currentDay) {
                     itineraryMarkers.forEach(m => {
                         m.marker.setStyle({opacity: 1, fillOpacity: 0.85});
+                        if (m.hitMarker) m.hitMarker.setStyle({fillOpacity: 0, interactive: true});
                     });
                     itineraryPolylines.forEach(p => {
                         p.polyline.setStyle({opacity: 0.5});
@@ -5804,8 +5888,10 @@
                     itineraryMarkers.forEach(m => {
                         if (m.day === currentDay) {
                             m.marker.setStyle({opacity: 1, fillOpacity: 0.85});
+                            if (m.hitMarker) m.hitMarker.setStyle({fillOpacity: 0, interactive: true});
                         } else {
                             m.marker.setStyle({opacity: 0.2, fillOpacity: 0.2});
+                            if (m.hitMarker) m.hitMarker.setStyle({fillOpacity: 0, interactive: false});
                         }
                     });
                     itineraryPolylines.forEach(p => {
@@ -5829,13 +5915,16 @@
                 if (matches && dayVisible) {
                     m.marker.setStyle({opacity: 1, fillOpacity: 0.95, weight: 3});
                     m.marker.setRadius(9);
+                    if (m.hitMarker) m.hitMarker.setStyle({fillOpacity: 0, interactive: true});
                     matchCount++;
                 } else if (dayVisible) {
                     m.marker.setStyle({opacity: 0.15, fillOpacity: 0.15, weight: 2});
                     m.marker.setRadius(7);
+                    if (m.hitMarker) m.hitMarker.setStyle({fillOpacity: 0, interactive: true});
                 } else {
                     m.marker.setStyle({opacity: 0.08, fillOpacity: 0.08, weight: 2});
                     m.marker.setRadius(7);
+                    if (m.hitMarker) m.hitMarker.setStyle({fillOpacity: 0, interactive: false});
                 }
             });
 
@@ -6318,7 +6407,9 @@
             document.getElementById('chatInputArea').style.display = 'flex';
             document.getElementById('chatSettings').style.display = 'flex';
             if (chatHistory.length === 0) {
-                addChatMessage('assistant', "Hi! I'm your AI day planner. Select an itinerary and expand a day in the sidebar, then tell me what you'd like to do today.\n\nI'll rearrange the schedule using your curated research database of 180+ spots across Japan.");
+                const poiCount = hotels.length + restaurants.length + experiences.length + kidFriendly.length + markets.length;
+                const destName = destinations[activeDestination] ? destinations[activeDestination].name : 'your destination';
+                addChatMessage('assistant', "Hi! I'm your AI travel planner for " + destName + ", with access to " + poiCount + " curated places.\n\nI can:\n\u2022 Build a full itinerary from scratch \u2014 just tell me how long, who's going, and what you love\n\u2022 Modify a specific day \u2014 select a day in the sidebar first\n\u2022 Answer questions about places, logistics, and tips\n\nTry: \"Plan me a 7-day foodie trip for two\" or \"What's the best ramen in Tokyo?\"");
             }
         }
 
@@ -6336,6 +6427,7 @@
 
         function updateChatContext() {
             const ctx = document.getElementById('chatContext');
+            const destName = destinations[activeDestination] ? destinations[activeDestination].name : '';
             if (currentItinerary && currentDay) {
                 const itin = itineraryData[currentItinerary];
                 const dayData = itin.days.find(d => d.day === currentDay);
@@ -6345,9 +6437,11 @@
                 }
             }
             if (currentItinerary) {
-                ctx.textContent = itineraryData[currentItinerary].name + ' \u2014 select a day';
+                ctx.textContent = itineraryData[currentItinerary].name + ' \u2014 select a day to modify, or ask me to plan a new trip';
+            } else if (destName) {
+                ctx.textContent = destName + ' \u2014 ask me to plan a trip or answer questions';
             } else {
-                ctx.textContent = 'Select an itinerary & day first';
+                ctx.textContent = 'Load a destination to get started';
             }
         }
 
@@ -6386,69 +6480,162 @@
             }
         }
 
+        // Conversation history for multi-turn chat itinerary building
+        let chatConversation = [];
+        let chatGeneratedItinerary = null; // Holds itinerary generated via chat before save
+
+        // Builds full-destination POI context grouped by city (for from-scratch itinerary generation)
+        function buildFullDestinationContext() {
+            const cityPois = {};
+            const allPois = [
+                ...hotels.map(h => ({...h, cat: 'hotel'})),
+                ...restaurants.map(r => ({...r, cat: 'restaurant'})),
+                ...experiences.map(e => ({...e, cat: 'experience'})),
+                ...kidFriendly.map(k => ({...k, cat: 'kid-friendly'})),
+                ...markets.map(m => ({...m, cat: 'market'}))
+            ];
+
+            // Group POIs by nearest city center
+            Object.entries(cityCenters).forEach(([city, coords]) => {
+                cityPois[city] = { hotels: [], restaurants: [], experiences: [], kidFriendly: [], markets: [] };
+                const r = coords[2] || 0.15;
+                allPois.forEach(poi => {
+                    if (!poi.coord) return;
+                    if (Math.abs(poi.coord[0] - coords[0]) < r && Math.abs(poi.coord[1] - coords[1]) < r) {
+                        const catKey = poi.cat === 'hotel' ? 'hotels' : poi.cat === 'restaurant' ? 'restaurants' : poi.cat === 'experience' ? 'experiences' : poi.cat === 'kid-friendly' ? 'kidFriendly' : 'markets';
+                        const tagStr = (poi.tags && poi.tags.length) ? ' [' + poi.tags.join(', ') + ']' : '';
+                        const entry = poi.name + (poi.desc ? ' (' + poi.desc + ')' : '') + tagStr;
+                        if (cityPois[city][catKey].length < 15) {
+                            cityPois[city][catKey].push(entry);
+                        }
+                    }
+                });
+            });
+
+            let poiSection = '';
+            Object.entries(cityPois).forEach(([city, cats]) => {
+                const total = cats.hotels.length + cats.restaurants.length + cats.experiences.length + cats.kidFriendly.length + cats.markets.length;
+                if (total === 0) return;
+                poiSection += '\n## ' + city + '\n';
+                if (cats.hotels.length) poiSection += 'Hotels: ' + cats.hotels.join(' | ') + '\n';
+                if (cats.restaurants.length) poiSection += 'Restaurants: ' + cats.restaurants.join(' | ') + '\n';
+                if (cats.experiences.length) poiSection += 'Experiences: ' + cats.experiences.join(' | ') + '\n';
+                if (cats.kidFriendly.length) poiSection += 'Kid-Friendly: ' + cats.kidFriendly.join(' | ') + '\n';
+                if (cats.markets.length) poiSection += 'Markets: ' + cats.markets.join(' | ') + '\n';
+            });
+
+            const cityCentersList = Object.entries(cityCenters).map(([city, coords]) => city + ': [' + coords[0] + ', ' + coords[1] + ']').join(', ');
+
+            return { poiSection: poiSection, cityCentersList: cityCentersList };
+        }
+
         function buildSystemPrompt() {
-            if (!currentItinerary || !currentDay) {
-                return null;
-            }
-            const itin = itineraryData[currentItinerary];
-            const dayData = itin.days.find(d => d.day === currentDay);
-            if (!dayData) return null;
-
-            const cityName = extractCity(dayData.title);
-            const center = findCityCenter(dayData.title);
-
-            // Gather all available activities in this city
-            let cityActivities = { hotels: [], restaurants: [], experiences: [], kidFriendly: [], markets: [] };
-            if (center) {
-                const r = center.radius;
-                hotels.forEach(h => {
-                    if (h.coord && Math.abs(h.coord[0] - center.lat) < r && Math.abs(h.coord[1] - center.lng) < r)
-                        cityActivities.hotels.push(h.name + (h.desc ? ' (' + h.desc + ')' : ''));
-                });
-                restaurants.forEach(h => {
-                    if (h.coord && Math.abs(h.coord[0] - center.lat) < r && Math.abs(h.coord[1] - center.lng) < r)
-                        cityActivities.restaurants.push(h.name + (h.desc ? ' (' + h.desc + ')' : ''));
-                });
-                experiences.forEach(h => {
-                    if (h.coord && Math.abs(h.coord[0] - center.lat) < r && Math.abs(h.coord[1] - center.lng) < r)
-                        cityActivities.experiences.push(h.name + (h.desc ? ' (' + h.desc + ')' : ''));
-                });
-                kidFriendly.forEach(h => {
-                    if (h.coord && Math.abs(h.coord[0] - center.lat) < r && Math.abs(h.coord[1] - center.lng) < r)
-                        cityActivities.kidFriendly.push(h.name + (h.desc ? ' (' + h.desc + ')' : ''));
-                });
-                markets.forEach(h => {
-                    if (h.coord && Math.abs(h.coord[0] - center.lat) < r && Math.abs(h.coord[1] - center.lng) < r)
-                        cityActivities.markets.push(h.name + (h.desc ? ' (' + h.desc + ')' : ''));
-                });
-            }
-
-            const currentItems = dayData.items.map(item =>
-                item.type.toUpperCase() + ': ' + item.name
-            ).join('\n');
-
             const destName = destinations[activeDestination] ? destinations[activeDestination].name : 'travel';
-            return 'You are a ' + destName + ' travel day planner.\n\n' +
-                'CURRENT DAY: ' + itin.name + ', Day ' + dayData.day + ' - ' + dayData.title + '\n\n' +
-                'CURRENT SCHEDULE:\n' + currentItems + '\n\n' +
-                'AVAILABLE IN ' + cityName.toUpperCase() + ':\n' +
-                'Hotels: ' + (cityActivities.hotels.join(', ') || 'none listed') + '\n' +
-                'Restaurants: ' + (cityActivities.restaurants.join(', ') || 'none listed') + '\n' +
-                'Experiences: ' + (cityActivities.experiences.join(', ') || 'none listed') + '\n' +
-                'Kid-Friendly: ' + (cityActivities.kidFriendly.join(', ') || 'none listed') + '\n' +
-                'Markets: ' + (cityActivities.markets.join(', ') || 'none listed') + '\n\n' +
-                'HARD CONSTRAINTS:\n' +
-                '- Must include: hotel, breakfast, lunch, dinner\n' +
-                '- Keep the same hotel unless user asks to change it\n' +
-                '- Optional items are welcome but mark type as "optional"\n\n' +
-                'RESPONSE MODES:\n' +
-                '1) SCHEDULE CHANGE — If the user asks to change, rearrange, replace, or create a new schedule, respond with ONLY a JSON array of day items. No markdown, no explanation, just the JSON.\n' +
-                '   Each item: {"type": "hotel|breakfast|lunch|dinner|sightseeing|nap|optional", "name": "Place Name", "coord": [lat, lng] or null}\n' +
-                '   Use coordinates from the AVAILABLE lists above when possible. Use null for coord if unknown.\n' +
-                '   Order: hotel first, then chronological (breakfast, sightseeing, lunch, nap, afternoon activities, dinner, optional).\n' +
-                '2) INFORMATION REQUEST — If the user asks about a specific place (hours, reviews, prices, tips, directions, booking info, seasonal details), respond with helpful text. Use web search when available to find current, accurate information. Include specific details like opening hours, current prices, reservation requirements, and practical tips.\n' +
-                '3) GENERAL QUESTION — If the user asks a general travel question or comparison, respond with helpful text.\n\n' +
-                'IMPORTANT: Only use mode 1 (JSON array) when the user clearly wants to modify the schedule. For all other queries, use natural text.';
+            const totalPois = hotels.length + restaurants.length + experiences.length + kidFriendly.length + markets.length;
+
+            // If we have an active itinerary day, include day-planner context
+            let dayContext = '';
+            if (currentItinerary && currentDay) {
+                const itin = itineraryData[currentItinerary];
+                const dayData = itin ? itin.days.find(d => d.day === currentDay) : null;
+                if (dayData) {
+                    const cityName = extractCity(dayData.title);
+                    const center = findCityCenter(dayData.title);
+
+                    let cityActivities = { hotels: [], restaurants: [], experiences: [], kidFriendly: [], markets: [] };
+                    if (center) {
+                        const r = center.radius;
+                        hotels.forEach(h => {
+                            if (h.coord && Math.abs(h.coord[0] - center.lat) < r && Math.abs(h.coord[1] - center.lng) < r)
+                                cityActivities.hotels.push(h.name + (h.desc ? ' (' + h.desc + ')' : ''));
+                        });
+                        restaurants.forEach(h => {
+                            if (h.coord && Math.abs(h.coord[0] - center.lat) < r && Math.abs(h.coord[1] - center.lng) < r)
+                                cityActivities.restaurants.push(h.name + (h.desc ? ' (' + h.desc + ')' : ''));
+                        });
+                        experiences.forEach(h => {
+                            if (h.coord && Math.abs(h.coord[0] - center.lat) < r && Math.abs(h.coord[1] - center.lng) < r)
+                                cityActivities.experiences.push(h.name + (h.desc ? ' (' + h.desc + ')' : ''));
+                        });
+                        kidFriendly.forEach(h => {
+                            if (h.coord && Math.abs(h.coord[0] - center.lat) < r && Math.abs(h.coord[1] - center.lng) < r)
+                                cityActivities.kidFriendly.push(h.name + (h.desc ? ' (' + h.desc + ')' : ''));
+                        });
+                        markets.forEach(h => {
+                            if (h.coord && Math.abs(h.coord[0] - center.lat) < r && Math.abs(h.coord[1] - center.lng) < r)
+                                cityActivities.markets.push(h.name + (h.desc ? ' (' + h.desc + ')' : ''));
+                        });
+                    }
+
+                    const currentItems = dayData.items.map(item =>
+                        item.type.toUpperCase() + ': ' + item.name
+                    ).join('\n');
+
+                    dayContext = '\nCURRENT DAY CONTEXT: ' + itin.name + ', Day ' + dayData.day + ' - ' + dayData.title + '\n' +
+                        'CURRENT SCHEDULE:\n' + currentItems + '\n\n' +
+                        'AVAILABLE IN ' + cityName.toUpperCase() + ':\n' +
+                        'Hotels: ' + (cityActivities.hotels.join(', ') || 'none listed') + '\n' +
+                        'Restaurants: ' + (cityActivities.restaurants.join(', ') || 'none listed') + '\n' +
+                        'Experiences: ' + (cityActivities.experiences.join(', ') || 'none listed') + '\n' +
+                        'Kid-Friendly: ' + (cityActivities.kidFriendly.join(', ') || 'none listed') + '\n' +
+                        'Markets: ' + (cityActivities.markets.join(', ') || 'none listed') + '\n';
+                }
+            }
+
+            // Build full destination context for itinerary generation
+            const fullCtx = buildFullDestinationContext();
+
+            // If a chat-generated itinerary exists (in refinement mode), include it
+            let refinementContext = '';
+            if (chatGeneratedItinerary) {
+                refinementContext = '\nCURRENT CHAT-GENERATED ITINERARY (user may ask to refine this):\n' +
+                    JSON.stringify(chatGeneratedItinerary, null, 0) + '\n';
+            }
+
+            let prompt = 'You are a ' + destName + ' travel planning assistant with access to a curated database of ' + totalPois + ' personally researched places.\n\n';
+
+            prompt += 'DESTINATION: ' + destName + '\n';
+            prompt += 'AVAILABLE PLACES (grouped by city, with tags for matching interests):\n' + fullCtx.poiSection + '\n';
+            prompt += 'CITY CENTERS: ' + fullCtx.cityCentersList + '\n';
+
+            if (dayContext) {
+                prompt += dayContext;
+            }
+
+            if (refinementContext) {
+                prompt += refinementContext;
+            }
+
+            prompt += '\nRESPONSE MODES:\n';
+            prompt += '1) DAY SCHEDULE CHANGE — If the user has a day selected (see CURRENT DAY CONTEXT above) and asks to modify that day, respond with ONLY a JSON array of day items. No markdown, no explanation.\n';
+            prompt += '   Each item: {"type": "hotel|breakfast|lunch|dinner|sightseeing|nap|optional", "name": "Place Name", "coord": [lat, lng] or null}\n';
+            prompt += '   Order: hotel first, then chronological. Keep the same hotel unless asked to change it.\n\n';
+
+            prompt += '2) NEW ITINERARY — If the user asks to build, create, or plan a full trip/itinerary from scratch (e.g., "plan me a 7-day trip", "build a foodie itinerary", "create a family vacation"), respond with a complete itinerary as a JSON object.\n';
+            prompt += '   If the user hasn\'t specified enough details (duration, travel party, interests, pace), ask 2-3 brief clarifying questions in natural text first. Once you have enough info, generate the itinerary.\n';
+            prompt += '   Use places from the AVAILABLE PLACES list as your primary source — they are personally curated. You may add well-known places not in the list if needed to fill gaps.\n';
+            prompt += '   Match POI tags to user preferences: "romantic" → Romantic, Fine Dining, Cocktails & Bars; "family" → Family Friendly, Toddler Friendly; "foodie" → Local Delicacies, Fine Dining, Casual Eats, Sweet Treats; "budget" → Budget Friendly, Casual Eats; "adventure" → Adventure & Active, Outdoor & Nature; etc.\n';
+            prompt += '   JSON format (raw JSON only, no markdown, no code fences):\n';
+            prompt += '   {"name": "Short Descriptive Name", "days": [{"day": 1, "title": "City (Theme)", "items": [{"type": "hotel", "name": "..."}, {"type": "breakfast", "name": "..."}, {"type": "sightseeing", "name": "..."}, {"type": "lunch", "name": "..."}, {"type": "dinner", "name": "..."}, {"type": "optional", "name": "..."}]}]}\n';
+            prompt += '   Valid types: hotel, breakfast, lunch, dinner, sightseeing, optional, nap.\n';
+            prompt += '   Do NOT include coordinates — they will be looked up automatically.\n';
+            prompt += '   Each day must include hotel, breakfast, lunch, dinner. Group nearby activities geographically.\n\n';
+
+            prompt += '3) ITINERARY REFINEMENT — If a CURRENT CHAT-GENERATED ITINERARY exists above and the user asks to modify it (e.g., "make day 3 slower", "add a beach day", "swap the hotel"), output the COMPLETE updated itinerary as JSON (same format as mode 2). Include ALL days, not just modified ones.\n\n';
+
+            prompt += '4) INFORMATION REQUEST — If the user asks about a specific place (hours, reviews, tips, directions), respond with helpful text. Use web search when available.\n\n';
+
+            prompt += '5) GENERAL QUESTION — General travel question → respond with helpful text.\n\n';
+
+            prompt += 'MODE SELECTION RULES:\n';
+            prompt += '- Use mode 1 (day JSON array) ONLY when a CURRENT DAY CONTEXT exists AND the user wants to modify that specific day.\n';
+            prompt += '- Use mode 2 (full itinerary JSON object) when the user asks to create/build/plan a new trip from scratch.\n';
+            prompt += '- Use mode 3 (full itinerary JSON object) when CURRENT CHAT-GENERATED ITINERARY exists and user wants changes to it.\n';
+            prompt += '- Use modes 4/5 (natural text) for questions and information requests.\n';
+            prompt += '- When generating a full itinerary (modes 2/3), output ONLY raw JSON. No markdown, no backticks, no explanation.\n';
+            prompt += '- When asking clarifying questions (before having enough info for mode 2), use natural text.';
+
+            return prompt;
         }
 
         function findCoordForName(name) {
@@ -6509,11 +6696,6 @@
             const msg = input.value.trim();
             if (!msg) return;
 
-            if (!currentItinerary || !currentDay) {
-                addChatMessage('system', 'Please select an itinerary and expand a day first, then I can help rearrange it.');
-                return;
-            }
-
             if (!chatApiKey) {
                 showApiKeySetup();
                 return;
@@ -6525,9 +6707,12 @@
 
             const systemPrompt = buildSystemPrompt();
             if (!systemPrompt) {
-                addChatMessage('error', 'Could not build context. Make sure you have a day selected.');
+                addChatMessage('error', 'Could not build context. Make sure a destination is loaded.');
                 return;
             }
+
+            // Track conversation for multi-turn
+            chatConversation.push({ role: 'user', content: msg });
 
             // Disable input while waiting
             document.getElementById('chatSendBtn').disabled = true;
@@ -6535,6 +6720,20 @@
             addTypingIndicator();
 
             try {
+                // Use higher token limit for itinerary generation
+                const modelId = getModelId();
+                const maxTokens = modelId.includes('haiku') ? 4096 : 8192;
+
+                var reqBody = {
+                    model: modelId,
+                    max_tokens: maxTokens,
+                    system: systemPrompt,
+                    messages: chatConversation.slice(-8) // Keep last 8 messages for multi-turn context
+                };
+                if (chatWebSearch) {
+                    reqBody.tools = [{ type: 'web_search_20250305', name: 'web_search', max_uses: 5 }];
+                }
+
                 const response = await fetch('https://api.anthropic.com/v1/messages', {
                     method: 'POST',
                     headers: {
@@ -6543,18 +6742,7 @@
                         'anthropic-version': '2023-06-01',
                         'anthropic-dangerous-direct-browser-access': 'true'
                     },
-                    body: (function() {
-                        var reqBody = {
-                            model: getModelId(),
-                            max_tokens: 4096,
-                            system: systemPrompt,
-                            messages: [{ role: 'user', content: msg }]
-                        };
-                        if (chatWebSearch) {
-                            reqBody.tools = [{ type: 'web_search_20250305', name: 'web_search', max_uses: 5 }];
-                        }
-                        return JSON.stringify(reqBody);
-                    })()
+                    body: JSON.stringify(reqBody)
                 });
 
                 removeTypingIndicator();
@@ -6568,6 +6756,7 @@
                     } else {
                         addChatMessage('error', 'API error: ' + (errData.error?.message || response.status));
                     }
+                    chatConversation.pop(); // Remove failed message
                     return;
                 }
 
@@ -6576,13 +6765,16 @@
 
                 if (!text) {
                     addChatMessage('error', 'Empty response from AI.');
+                    chatConversation.pop();
                     return;
                 }
 
-                // Try to parse as JSON array (schedule change mode)
+                // Track assistant response for multi-turn
+                chatConversation.push({ role: 'assistant', content: text });
+
+                // Try to parse as JSON (could be day array OR full itinerary object)
                 let parsed = null;
                 try {
-                    // Extract JSON from response (handle markdown code blocks)
                     let jsonStr = text.trim();
                     if (jsonStr.startsWith('```')) {
                         jsonStr = jsonStr.replace(/^```(?:json)?\n?/, '').replace(/\n?```$/, '').trim();
@@ -6598,41 +6790,75 @@
                     return;
                 }
 
-                if (!Array.isArray(parsed) || parsed.length === 0) {
-                    addChatMessage('assistant', text);
+                // MODE 2/3: Full itinerary object (has "days" array with nested items)
+                if (parsed && parsed.days && Array.isArray(parsed.days) && parsed.days.length > 0) {
+                    // Look up coordinates for all items
+                    parsed.days.forEach(function(day) {
+                        if (!day.items) day.items = [];
+                        day.items.forEach(function(item) {
+                            if (!item.coord) item.coord = findCoordForName(item.name);
+                            if (!item.type) item.type = 'sightseeing';
+                        });
+                    });
+
+                    // Store for refinement and saving
+                    chatGeneratedItinerary = parsed;
+                    lastGeneratedItinerary = parsed;
+
+                    // Build inline itinerary preview in chat
+                    let previewHtml = '<div class="chat-itin-preview" style="margin-top:8px;border:1px solid #e5e7eb;border-radius:8px;padding:10px;background:#f9fafb;max-height:400px;overflow-y:auto;">';
+                    previewHtml += '<div style="font-size:13px;font-weight:700;color:#333;margin-bottom:8px;">' + escapeHtml(parsed.name || 'Generated Itinerary') + '</div>';
+                    parsed.days.forEach(function(day) {
+                        previewHtml += '<div style="margin-bottom:8px;padding:6px;background:white;border-radius:6px;border:1px solid #f0f0f0;">';
+                        previewHtml += '<div style="font-size:12px;font-weight:600;color:#4B5563;margin-bottom:4px;">Day ' + day.day + ' \u2014 ' + escapeHtml(day.title || '') + '</div>';
+                        (day.items || []).forEach(function(item) {
+                            var icon = item.type === 'hotel' ? '\ud83c\udfe8' : item.type === 'breakfast' ? '\ud83c\udf73' : item.type === 'lunch' ? '\ud83c\udf5c' : item.type === 'dinner' ? '\ud83c\udf77' : item.type === 'nap' ? '\ud83d\udca4' : item.type === 'optional' ? '\u2728' : '\ud83d\udccd';
+                            var coordStatus = item.coord ? '' : ' <span style="color:#F59E0B;font-size:10px;">(no coords)</span>';
+                            previewHtml += '<div style="font-size:11px;padding:2px 0;color:#555;"><span style="display:inline-block;min-width:20px;">' + icon + '</span> ' + escapeHtml(item.name) + coordStatus + '</div>';
+                        });
+                        previewHtml += '</div>';
+                    });
+                    previewHtml += '</div>';
+                    previewHtml += '<div style="margin-top:8px;display:flex;gap:8px;">';
+                    previewHtml += '<button class="chat-msg-apply-btn" onclick="saveChatGeneratedItinerary()" style="flex:1;background:#7C3AED;">Save as Itinerary</button>';
+                    previewHtml += '</div>';
+                    previewHtml += '<div style="margin-top:4px;font-size:10px;color:#9CA3AF;text-align:center;">You can refine this \u2014 just tell me what to change.</div>';
+
+                    addChatMessage('assistant', 'Here\'s your itinerary:' + previewHtml);
                     return;
                 }
 
-                // Validate and fix coordinates
-                parsed = parsed.map(item => {
-                    if (!item.coord || !Array.isArray(item.coord)) {
-                        item.coord = findCoordForName(item.name);
-                    }
-                    if (!item.type) item.type = 'sightseeing';
-                    return item;
-                });
+                // MODE 1: Day schedule change (JSON array of items)
+                if (Array.isArray(parsed) && parsed.length > 0) {
+                    // Validate and fix coordinates
+                    parsed = parsed.map(function(item) {
+                        if (!item.coord || !Array.isArray(item.coord)) {
+                            item.coord = findCoordForName(item.name);
+                        }
+                        if (!item.type) item.type = 'sightseeing';
+                        return item;
+                    });
 
-                // Store for potential application
-                lastAiDayData = parsed;
+                    lastAiDayData = parsed;
 
-                // Build preview
-                let previewHtml = '<div class="chat-msg-day-preview">';
-                parsed.forEach(item => {
-                    const icon = item.type === 'hotel' ? '\ud83c\udfe8' :
-                                 item.type === 'breakfast' ? '\ud83c\udf73' :
-                                 item.type === 'lunch' ? '\ud83c\udf5c' :
-                                 item.type === 'dinner' ? '\ud83c\udf77' :
-                                 item.type === 'nap' ? '\ud83d\udca4' :
-                                 item.type === 'optional' ? '\u2728' : '\ud83d\udccd';
-                    previewHtml += '<div class="preview-item"><span class="preview-type">' + icon + ' ' + escapeHtml(item.type) + '</span><span>' + escapeHtml(item.name) + '</span></div>';
-                });
-                previewHtml += '</div>';
-                previewHtml += '<button class="chat-msg-apply-btn" onclick="applyAiDay()">Apply this schedule</button>';
+                    let dayPreviewHtml = '<div class="chat-msg-day-preview">';
+                    parsed.forEach(function(item) {
+                        var icon = item.type === 'hotel' ? '\ud83c\udfe8' : item.type === 'breakfast' ? '\ud83c\udf73' : item.type === 'lunch' ? '\ud83c\udf5c' : item.type === 'dinner' ? '\ud83c\udf77' : item.type === 'nap' ? '\ud83d\udca4' : item.type === 'optional' ? '\u2728' : '\ud83d\udccd';
+                        dayPreviewHtml += '<div class="preview-item"><span class="preview-type">' + icon + ' ' + escapeHtml(item.type) + '</span><span>' + escapeHtml(item.name) + '</span></div>';
+                    });
+                    dayPreviewHtml += '</div>';
+                    dayPreviewHtml += '<button class="chat-msg-apply-btn" onclick="applyAiDay()">Apply this schedule</button>';
 
-                addChatMessage('assistant', 'Here\'s your updated day:' + previewHtml);
+                    addChatMessage('assistant', 'Here\'s your updated day:' + dayPreviewHtml);
+                    return;
+                }
+
+                // Fallback: show as text
+                addChatMessage('assistant', text);
 
             } catch(e) {
                 removeTypingIndicator();
+                chatConversation.pop(); // Remove failed user message
                 if (e.message?.includes('Failed to fetch')) {
                     addChatMessage('error', 'Network error. Check your internet connection.');
                 } else {
@@ -6643,6 +6869,41 @@
                 input.disabled = false;
                 input.focus();
             }
+        }
+
+        // Save an itinerary generated via chat conversation
+        function saveChatGeneratedItinerary() {
+            if (!chatGeneratedItinerary) { showCopyToast('No itinerary to save'); return; }
+
+            const genCount = Object.keys(itineraryData).filter(k => k.startsWith('gen_')).length;
+            const genKey = 'gen_' + (genCount + 1);
+            const colorIdx = genCount % GEN_COLORS.length;
+
+            const itinObj = {
+                name: chatGeneratedItinerary.name || 'Chat Itinerary',
+                color: GEN_COLORS[colorIdx],
+                days: chatGeneratedItinerary.days,
+                isGenerated: true
+            };
+
+            itineraryData[genKey] = itinObj;
+            originalItineraryData[genKey] = JSON.parse(JSON.stringify(itinObj));
+
+            try {
+                const storageKey = 'tripMap_genItin_' + activeDestination;
+                const existing = JSON.parse(localStorage.getItem(storageKey) || '{}');
+                existing[genKey] = itinObj;
+                localStorage.setItem(storageKey, JSON.stringify(existing));
+            } catch(e) {
+                console.warn('Could not save generated itinerary to localStorage:', e);
+            }
+
+            buildTabsUI();
+            selectItinerary(genKey);
+            if (currentView !== 'itineraries') switchView('itineraries');
+
+            addChatMessage('system', 'Itinerary saved! Check the new "' + escapeHtml(itinObj.name) + '" tab. You can keep refining it here or in the itinerary view.');
+            showCopyToast('Itinerary created!');
         }
 
         function applyAiDay() {
@@ -6885,7 +7146,8 @@
                     if (!poi.coord) return;
                     if (Math.abs(poi.coord[0] - coords[0]) < r && Math.abs(poi.coord[1] - coords[1]) < r) {
                         const catKey = poi.cat === 'hotel' ? 'hotels' : poi.cat === 'restaurant' ? 'restaurants' : poi.cat === 'experience' ? 'experiences' : poi.cat === 'kid-friendly' ? 'kidFriendly' : 'markets';
-                        const entry = poi.name + (poi.desc ? ' (' + poi.desc + ')' : '');
+                        const tagStr = (poi.tags && poi.tags.length) ? ' [' + poi.tags.join(', ') + ']' : '';
+                        const entry = poi.name + (poi.desc ? ' (' + poi.desc + ')' : '') + tagStr;
                         if (cityPois[city][catKey].length < 15) {
                             cityPois[city][catKey].push(entry);
                         }
