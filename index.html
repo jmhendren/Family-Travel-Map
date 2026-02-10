@@ -3329,6 +3329,7 @@
         const destinations = {};
         let activeDestination = null;
         let manifestData = null;  // Stores the destinations.json manifest
+        let destLoadGeneration = 0;  // Incremented on each loadDestination call to cancel stale async loads
 
         // ============================================
         // DESTINATION LOADING FROM JSON
@@ -3416,14 +3417,16 @@
             var dest = destinations[key];
             if (!dest) { showCopyToast('Destination not found'); return; }
 
+            // Increment load generation — if another load starts while we're awaiting,
+            // this load is stale and should abort to prevent corrupting state
+            const thisGeneration = ++destLoadGeneration;
+
             activeDestination = key;
 
             // Save current destination mods before switching
-            if (activeDestination) {
-                try {
-                    localStorage.setItem('tripMap_mods_' + activeDestination, JSON.stringify(modifiedState));
-                } catch(e) {}
-            }
+            try {
+                localStorage.setItem('tripMap_mods_' + key, JSON.stringify(modifiedState));
+            } catch(e) {}
 
             // Clear current map layers
             clearItineraryMarkers();
@@ -3488,6 +3491,9 @@
             await loadPersonalAnnotations(key);
             loadBrowserAnnotations(key);
 
+            // Abort if a newer destination load started while we were awaiting annotations
+            if (thisGeneration !== destLoadGeneration) return;
+
             // Rebuild categories and switch to default view
             categoryGroups.hotels = L.featureGroup();
             categoryGroups.restaurants = L.featureGroup();
@@ -3495,6 +3501,7 @@
             categoryGroups.kidFriendly = L.featureGroup();
             categoryGroups.markets = L.featureGroup();
             loadCategories();
+            activeFilterChips.clear();  // Reset filter state so old destination's filters don't hide new POIs
             switchView('categories');
             loadSavedGeneratedItineraries();
             buildTabsUI();
@@ -4415,13 +4422,13 @@
                 // Clear itinerary markers
                 clearItineraryMarkers();
                 
-                // Show category markers
-                categoryGroups.hotels.addTo(map);
-                categoryGroups.restaurants.addTo(map);
-                categoryGroups.experiences.addTo(map);
-                categoryGroups.kidFriendly.addTo(map);
-                categoryGroups.markets.addTo(map);
-                
+                // Show category markers (with null guards for race-condition safety)
+                if (categoryGroups.hotels) categoryGroups.hotels.addTo(map);
+                if (categoryGroups.restaurants) categoryGroups.restaurants.addTo(map);
+                if (categoryGroups.experiences) categoryGroups.experiences.addTo(map);
+                if (categoryGroups.kidFriendly) categoryGroups.kidFriendly.addTo(map);
+                if (categoryGroups.markets) categoryGroups.markets.addTo(map);
+
                 // Fit bounds
                 let allLayers = L.featureGroup([
                     categoryGroups.hotels,
@@ -4429,7 +4436,7 @@
                     categoryGroups.experiences,
                     categoryGroups.kidFriendly,
                     categoryGroups.markets
-                ]);
+                ].filter(Boolean));
                 if (allLayers.getLayers().length > 0) {
                     map.fitBounds(allLayers.getBounds().pad(0.1));
                 }
@@ -4441,12 +4448,12 @@
                 document.getElementById('categoriesView').style.display = 'none';
                 document.getElementById('itinerariesView').style.display = 'block';
                 
-                // Hide category markers
-                categoryGroups.hotels.removeFrom(map);
-                categoryGroups.restaurants.removeFrom(map);
-                categoryGroups.experiences.removeFrom(map);
-                categoryGroups.kidFriendly.removeFrom(map);
-                categoryGroups.markets.removeFrom(map);
+                // Hide category markers (with null guards)
+                if (categoryGroups.hotels) categoryGroups.hotels.removeFrom(map);
+                if (categoryGroups.restaurants) categoryGroups.restaurants.removeFrom(map);
+                if (categoryGroups.experiences) categoryGroups.experiences.removeFrom(map);
+                if (categoryGroups.kidFriendly) categoryGroups.kidFriendly.removeFrom(map);
+                if (categoryGroups.markets) categoryGroups.markets.removeFrom(map);
                 
                 // Load first itinerary
                 if (!currentItinerary) {
