@@ -3366,7 +3366,7 @@
         async function fetchAndLoadDestination(key) {
             // If already loaded, just switch
             if (destinations[key]) {
-                loadDestination(key);
+                await loadDestination(key);
                 return;
             }
 
@@ -3386,7 +3386,7 @@
                 const data = await response.json();
 
                 // Use existing registerExternalDest to validate and register
-                registerExternalDest(data);
+                await registerExternalDest(data);
 
             } catch(e) {
                 console.error('Failed to load destination ' + key + ':', e);
@@ -3421,20 +3421,26 @@
             // this load is stale and should abort to prevent corrupting state
             const thisGeneration = ++destLoadGeneration;
 
+            // Save previous destination's mods before switching (use OLD key, not new)
+            var previousDest = activeDestination;
             activeDestination = key;
+            if (previousDest) {
+                try {
+                    localStorage.setItem('tripMap_mods_' + previousDest, JSON.stringify(modifiedState));
+                } catch(e) {}
+            }
 
-            // Save current destination mods before switching
+            // Clear current map layers safely
             try {
-                localStorage.setItem('tripMap_mods_' + key, JSON.stringify(modifiedState));
-            } catch(e) {}
-
-            // Clear current map layers
-            clearItineraryMarkers();
+                clearItineraryMarkers();
+            } catch(e) { console.error('[loadDestination] clearItineraryMarkers error:', e); }
             Object.keys(categoryGroups).forEach(function(k) {
-                if (categoryGroups[k]) {
-                    map.removeLayer(categoryGroups[k]);
-                    categoryGroups[k] = null;
-                }
+                try {
+                    if (categoryGroups[k]) {
+                        map.removeLayer(categoryGroups[k]);
+                        categoryGroups[k] = null;
+                    }
+                } catch(e) { console.error('[loadDestination] removeLayer error for', k, ':', e); }
             });
 
             // Swap data arrays (mutate in place to preserve references)
@@ -3494,23 +3500,37 @@
             // Abort if a newer destination load started while we were awaiting annotations
             if (thisGeneration !== destLoadGeneration) return;
 
-            // Rebuild categories and switch to default view
-            categoryGroups.hotels = L.featureGroup();
-            categoryGroups.restaurants = L.featureGroup();
-            categoryGroups.experiences = L.featureGroup();
-            categoryGroups.kidFriendly = L.featureGroup();
-            categoryGroups.markets = L.featureGroup();
-            loadCategories();
-            activeFilterChips.clear();  // Reset filter state so old destination's filters don't hide new POIs
-            switchView('categories');
-            loadSavedGeneratedItineraries();
-            buildTabsUI();
-            buildFilterChips();
-            buildRegionFilter();
-            updateBookingsBadge();
+            // Rebuild categories and switch to default view — wrapped in try/catch
+            // so individual failures don't prevent the rest from executing
+            try {
+                categoryGroups.hotels = L.featureGroup();
+                categoryGroups.restaurants = L.featureGroup();
+                categoryGroups.experiences = L.featureGroup();
+                categoryGroups.kidFriendly = L.featureGroup();
+                categoryGroups.markets = L.featureGroup();
+                loadCategories();
+                activeFilterChips.clear();  // Reset filter state so old destination's filters don't hide new POIs
+                switchView('categories');
+            } catch(e) {
+                console.error('[loadDestination] Error rebuilding categories/view:', e);
+            }
+
+            try {
+                loadSavedGeneratedItineraries();
+                buildTabsUI();
+                buildFilterChips();
+                buildRegionFilter();
+                updateBookingsBadge();
+            } catch(e) {
+                console.error('[loadDestination] Error rebuilding UI components:', e);
+            }
 
             // Update mobile UI
-            updateMobileAfterDestLoad();
+            try {
+                updateMobileAfterDestLoad();
+            } catch(e) {
+                console.error('[loadDestination] Error updating mobile UI:', e);
+            }
         }
 
         function addDestination(key, config) {
@@ -3577,7 +3597,7 @@
             showCopyToast('Loading destination...');
             fetch(url)
                 .then(function(r) { return r.json(); })
-                .then(function(data) { registerExternalDest(data); })
+                .then(function(data) { return registerExternalDest(data); })
                 .catch(function(e) { showCopyToast('Error loading: ' + e.message); });
         }
 
@@ -3586,7 +3606,9 @@
             reader.onload = function(e) {
                 try {
                     var data = JSON.parse(e.target.result);
-                    registerExternalDest(data);
+                    registerExternalDest(data).catch(function(err) {
+                        console.error('Error loading destination from file:', err);
+                    });
                 } catch(err) {
                     showCopyToast('Invalid JSON file');
                 }
@@ -3624,7 +3646,7 @@
             });
         }
 
-        function registerExternalDest(data) {
+        async function registerExternalDest(data) {
             if (!data.key || !data.name || !data.itineraryData || !data.cityCenters) {
                 showCopyToast('Invalid schema: needs key, name, itineraryData, cityCenters');
                 return;
@@ -3651,7 +3673,7 @@
             addDestination(data.key, config);
             closeAddDestModal();
             showCopyToast(data.name + ' added!');
-            loadDestination(data.key);
+            await loadDestination(data.key);
         }
 
         function copyDestSchema() {
