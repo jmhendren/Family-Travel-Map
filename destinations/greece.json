@@ -2,7 +2,7 @@
   "key": "greece",
   "name": "Greece",
   "subtitle": "Interactive Trip Map",
-  "flag": "\ud83c\uddec\ud83c\uddf7",
+  "flag": "🇬🇷",
   "defaultCenter": [
     38.5,
     24
@@ -54,7 +54,7 @@
         "Family Friendly",
         "Photography Worthy",
         "Romantic",
-        "Toddler Friendly"
+        "Wellness & Spa"
       ]
     },
     {
@@ -113,7 +113,7 @@
       "longDesc": "Iconic cave-style suites carved into the caldera cliffside with dramatic white interiors and infinity pools opening to the Aegean. Pure Santorini romance and architectural drama.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Katikies%20Hotel&center=36.4617363,25.3824513",
       "placeId": "ChIJZfN8nIDMmRQRxE4k-4aOrXw",
-      "address": "Nik. Nomikou, O\u00eda 847 02, Greece",
+      "address": "Nik. Nomikou, Oía 847 02, Greece",
       "rating": 4.8,
       "ratingCount": 636,
       "website": "https://www.katikies.com/katikieshotelsantorini/",
@@ -130,10 +130,9 @@
       "photoAttribution": "Katikies Santorini",
       "tags": [
         "Art & Design",
-        "Family Friendly",
         "Photography Worthy",
         "Romantic",
-        "Toddler Friendly"
+        "Splurge"
       ]
     },
     {
@@ -146,7 +145,7 @@
       "longDesc": "Luxury resort with the celebrated Elements restaurant on-site, organic spa, and caldera-facing pools in serene Oia. An eco-conscious choice without compromising sophistication.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Canaves%20Oia%20Epitome&center=36.4636385,25.3711066",
       "placeId": "ChIJeRpcd4LLmRQRVWxVFYJRZ9k",
-      "address": "Main Street, O\u00eda 847 02, Greece",
+      "address": "Main Street, Oía 847 02, Greece",
       "rating": 4.8,
       "ratingCount": 349,
       "website": "https://canaves.com/canaves-oia-epitome/",
@@ -154,10 +153,8 @@
       "photoAttribution": "Canaves Epitome, an SLH Hotel",
       "tags": [
         "Art & Design",
-        "Family Friendly",
         "Photography Worthy",
         "Romantic",
-        "Toddler Friendly",
         "Wellness & Spa"
       ]
     },
@@ -179,10 +176,9 @@
       "photoAttribution": "Santo Pure",
       "tags": [
         "Family Friendly",
-        "Photography Worthy",
-        "Romantic",
         "Toddler Friendly",
-        "Wellness & Spa"
+        "Romantic",
+        "Photography Worthy"
       ]
     },
     {
@@ -204,7 +200,9 @@
       "tags": [
         "Art & Design",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Wellness & Spa",
+        "Cultural & Historical"
       ]
     },
     {
@@ -214,7 +212,7 @@
         25.3261947
       ],
       "desc": "Private beach, Ornos Bay, kids",
-      "longDesc": "Private beach resort in calm Ornos Bay with excellent kids' amenities and direct sand access\u2014ideal for families seeking Mykonos sophistication without the party scene.",
+      "longDesc": "Private beach resort in calm Ornos Bay with excellent kids' amenities and direct sand access—ideal for families seeking Mykonos sophistication without the party scene.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa%20Marina%20Resort&center=37.418268999999995,25.3261947",
       "placeId": "ChIJx9AWKWG-ohQRc_7gfyskSU4",
       "address": "Ornos Bay, Mikonos 846 00, Greece",
@@ -225,8 +223,9 @@
       "photoAttribution": "Santa Marina, a Luxury Collection Resort, Mykonos",
       "tags": [
         "Family Friendly",
-        "Photography Worthy",
-        "Toddler Friendly"
+        "Toddler Friendly",
+        "Romantic",
+        "Photography Worthy"
       ]
     },
     {
@@ -246,8 +245,9 @@
       "photoRef": "places/ChIJYyX2XCa5ohQRUOMWqGBOmQY/photos/AcnlKN11wXT4sYknoF7gWf7au9PuILBd3F9o7y-k-TDNoYZKmveruL05VwOa17DS6AjjKljJK7Ry9gtLvkIPIB_lkMHYEJIWj0fQZzimtBUvY7H4hHd5OofM1ZjPyrdZ-Yx4Zrt8C62lm0moTvfx0zEXvZLLpt4l2jKXdWV_u79xgA4O_1WAggV2KSoOeLyhNH7nm4h5KZ_VGdxrQF7BYU14TV5F0O1kGOUNL6I1GLKPkv_r7Xd8g88OjjIx_8q6MzyTgDBMCOlgyERyIdsrLvUJadTftH19a5kxWREipgx2gUVV2A",
       "photoAttribution": "Myconian Villa Collection",
       "tags": [
-        "Photography Worthy",
-        "Wellness & Spa"
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy"
       ]
     },
     {
@@ -260,7 +260,7 @@
       "longDesc": "Minimalist architectural gem on a cliffside overlooking Mykonos with an on-site Michelin-worthy gastronomy project and 280+ wine selections. Design lovers' paradise.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Bill%20%26%20Coo%20Suites&center=37.4376988,25.3278327",
       "placeId": "ChIJd9WIVlS-ohQRCteA-uAg29M",
-      "address": "Bill & Coo Suites and Lounge Megali Ammos Beach, \u039c\u03cd\u03ba\u03bf\u03bd\u03bf\u03c2 846 00, Greece",
+      "address": "Bill & Coo Suites and Lounge Megali Ammos Beach, Μύκονος 846 00, Greece",
       "rating": 4.8,
       "ratingCount": 309,
       "website": "https://billandcoo.com/suites/",
@@ -269,7 +269,9 @@
       "tags": [
         "Art & Design",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Splurge",
+        "Wellness & Spa"
       ]
     },
     {
@@ -291,7 +293,6 @@
       "tags": [
         "Art & Design",
         "Family Friendly",
-        "Photography Worthy",
         "Toddler Friendly",
         "Wellness & Spa"
       ]
@@ -303,7 +304,7 @@
         24.6579518
       ],
       "desc": "Family resort, water park, funicular",
-      "longDesc": "Family mega-resort in Crete with water park, kids' clubs, and a funicular down to the beach\u2014entertainment and relaxation all-in-one. Perfect for families who want activities built-in.",
+      "longDesc": "Family mega-resort in Crete with water park, kids' clubs, and a funicular down to the beach—entertainment and relaxation all-in-one. Perfect for families who want activities built-in.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Senses%20Resort&center=35.4167053,24.6579518",
       "placeId": "ChIJl18V9_inmxQRvvif7R9cMH0",
       "address": "Herakliou 58 km, Panormos 740 57, Greece",
@@ -314,8 +315,8 @@
       "photoAttribution": "The Royal Senses Resort & Spa Crete, Curio Collection by Hilton",
       "tags": [
         "Family Friendly",
-        "Photography Worthy",
-        "Toddler Friendly"
+        "Toddler Friendly",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -346,9 +347,8 @@
       "tags": [
         "Art & Design",
         "Family Friendly",
-        "Photography Worthy",
-        "Romantic",
-        "Toddler Friendly"
+        "Toddler Friendly",
+        "Romantic"
       ]
     },
     {
@@ -361,7 +361,7 @@
       "longDesc": "Luxurious cliff-top villas with infinity pools overlooking Agios Nikolaos bay in eastern Crete. Pure Mediterranean elegance and privacy.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Daios%20Cove&center=35.1466,25.720067",
       "placeId": "ChIJT-cUkfGAkBQRsKwobkTAobI",
-      "address": "\u0392\u03b1\u03b8\u03cd, Kritsa 721 00, Greece",
+      "address": "Βαθύ, Kritsa 721 00, Greece",
       "rating": 4.6,
       "ratingCount": 1496,
       "website": "https://www.daioscove.com/",
@@ -380,7 +380,7 @@
         "Family Friendly",
         "Photography Worthy",
         "Romantic",
-        "Toddler Friendly"
+        "Wellness & Spa"
       ]
     },
     {
@@ -402,7 +402,8 @@
       "tags": [
         "Art & Design",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Wellness & Spa"
       ]
     },
     {
@@ -432,8 +433,9 @@
       "photoAttribution": "Sani Resort",
       "tags": [
         "Family Friendly",
-        "Photography Worthy",
-        "Toddler Friendly"
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy"
       ]
     },
     {
@@ -453,10 +455,10 @@
       "photoRef": "places/ChIJQSK2FnVbWxMRRpYqu91QXU0/photos/AcnlKN3SDFKhflykVywEijGb5zX4bXqmOMPzI5VE--3IX8b8SivYpwh1TZrn_c5E_gAMA_x2KpbvhInts5gdbVtDRRNsEzg2_WvMlZa5sQBy4MSQs9nEwzVt3xeg8sKeo2C8eQjs1MceIs1jWEtvPQwqvFitriJHfi5upZLRoC4Mh-mROmQmHZ2SleuOOUOIHGircrIF5KQHg3655pR-aqZJUxLXmkMhXYJQH6mG62_RXraiejOPeaRucZ-_BzBEhtEC46vYaZ-b2Ykk4Ngiq67qTu5ozKjuw_0K2hwNQR6rwUX8w7-HfUY_V8U1o_bmg0khu8Hl2EfYjd2PgoaYlBFVJmwwQd2-iOGGTc3IyCB8Ge3uBcJWAncv0KdPOP6zaJak15JI-1ZdKM0acHz-N-j1UXJKlrXnHPD7qobIjtNTrm93GA",
       "photoAttribution": "Tom Baker",
       "tags": [
-        "Art & Design",
         "Family Friendly",
         "Romantic",
-        "Toddler Friendly"
+        "Wellness & Spa",
+        "Photography Worthy"
       ]
     },
     {
@@ -476,10 +478,9 @@
       "photoRef": "places/ChIJpy2f0Y5GZxMRFjPNm9KXI10/photos/AcnlKN1GniweqDY9RYd09ALnLTgAZGKQQaxSuX1KWiQeLHZjz5I0Rj3ni0KCzo9N5_epu8GHfpPBDchp93Tjz66ONMpJBHVb4I-Q5TULX9flmPhxusDXXloXZaZlHbamBRceKp0GhHk6Ma93l-CqaF77cAZAky0EMR-cCaCzj4qMB3-yfRJPGK8wDh07HHH2ewtOTx-Yuerbe4pCbaMJpCcgLeoL3lr4rJmRwM1mcyjnsb_J2kXNlG8B0qdwuwKL673fdvU1s8fBuNne-QGVDwkQKJgxzrd9zsSYWUb8HRMkEz22TQ",
       "photoAttribution": "Porto Zante Villas and Spa",
       "tags": [
-        "Art & Design",
         "Family Friendly",
-        "Photography Worthy",
         "Romantic",
+        "Photography Worthy",
         "Toddler Friendly"
       ]
     },
@@ -502,7 +503,9 @@
       "tags": [
         "Art & Design",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Wellness & Spa",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -522,10 +525,10 @@
       "photoRef": "places/ChIJKwqn-87roRQRo5RKNIcMG64/photos/AcnlKN0M9CV8Z3QiMmuUclP_e-K15xNOFs8nsiMARA9RCbGjFQihPpkO9eLNNq5JV78G5h5wkzTuCtLssDZdav8q0QGlOuXq9YfIqMphjhKwq60plHcUk82eYWPvR8KBgb3k5sJT1nZ7jXw6nzjqrSL_C52DrtsASOn_p43h0olLcs6GfFzzmvgeoGc_Ul49YNnmsXl9WVPIyFtsa53e-kUk7QO4vu2zItu1wPM1fcN4A5EXg2X4Bz4w32_yLh6i3dV25zWNnnWn3RHv1Z9PfDAzxJTk0iZA4C4XtqUtydOfofwtSw",
       "photoAttribution": "Four Seasons Astir Palace Hotel Athens",
       "tags": [
-        "Art & Design",
-        "Photography Worthy",
         "Romantic",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Family Friendly",
+        "Photography Worthy"
       ]
     },
     {
@@ -547,11 +550,10 @@
       "photoAttribution": "Hotel Grande Bretagne, a Luxury Collection Hotel, Athens",
       "tags": [
         "Art & Design",
-        "Family Friendly",
         "Photography Worthy",
         "Romantic",
         "Splurge",
-        "Toddler Friendly"
+        "Wellness & Spa"
       ]
     },
     {
@@ -582,7 +584,8 @@
       "tags": [
         "Art & Design",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Cultural & Historical"
       ]
     },
     {
@@ -606,7 +609,8 @@
         "Art & Design",
         "Photography Worthy",
         "Romantic",
-        "Splurge"
+        "Splurge",
+        "Cultural & Historical"
       ]
     },
     {
@@ -629,7 +633,8 @@
         "Art & Design",
         "Photography Worthy",
         "Romantic",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Splurge"
       ]
     },
     {
@@ -649,8 +654,9 @@
       "photoRef": "places/ChIJr45MSQaDoRQRRWfThhxHWnw/photos/AcnlKN0BXOGx9hefHTUqZDhU1GNSpAm1J935bW3F6pCQ__vkRBmN-7OMAng_ldHVXO2R8L1ZsIbFFDr9ADBoU3RgxC_Xd6CTiRk6hUKPxEVql1HVupHHDyR18N3VaFMxwp9bKFiNp23sPy0za6Wr-TqdKNaS8XnSovaeCT-VLkyaQ-aF985EyzO0UBCJI83VP-5xYACzKMnfpHw_pgipn7XWa8x_66Xg1diEJiN-Hjl6X6VLFKELF0Z-4Yux5qROHi25kplD6SvkDpNVH3fOI4_SBqoWgdnz8__XzsXC64tIDxuVRA",
       "photoAttribution": "Mati Hotel",
       "tags": [
+        "Romantic",
         "Photography Worthy",
-        "Romantic"
+        "Cultural & Historical"
       ]
     },
     {
@@ -680,10 +686,9 @@
       "photoAttribution": "San Antonio Hotel",
       "tags": [
         "Art & Design",
-        "Family Friendly",
         "Photography Worthy",
         "Romantic",
-        "Toddler Friendly"
+        "Wellness & Spa"
       ]
     },
     {
@@ -736,10 +741,9 @@
       "photoAttribution": "Cavo Tagoo Mykonos",
       "tags": [
         "Art & Design",
-        "Family Friendly",
         "Photography Worthy",
         "Romantic",
-        "Toddler Friendly"
+        "Wellness & Spa"
       ]
     },
     {
@@ -752,7 +756,7 @@
       "longDesc": "Sophisticated beachfront hotel in central Mykonos with direct beach access, waterfront dining, and contemporary design. Island glamour and comfort.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20Porto%20Mykonos&center=37.451838599999995,25.3296924",
       "placeId": "ChIJfZl3Xgi_ohQRXTdvqqcKRPw",
-      "address": "Old Port Area Mykonos Town, \u039c\u03cd\u03ba\u03bf\u03bd\u03bf\u03c2 846 00, Greece",
+      "address": "Old Port Area Mykonos Town, Μύκονος 846 00, Greece",
       "rating": 4.3,
       "ratingCount": 665,
       "website": "https://www.portomykonos.gr/",
@@ -760,7 +764,9 @@
       "photoAttribution": "PORTO MYKONOS HOTEL",
       "tags": [
         "Art & Design",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Romantic",
+        "Wellness & Spa"
       ]
     },
     {
@@ -781,7 +787,8 @@
       "photoAttribution": "Sirios Village Hotel & Bungalows",
       "tags": [
         "Family Friendly",
-        "Toddler Friendly"
+        "Toddler Friendly",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -794,23 +801,24 @@
       "longDesc": "Charming caldera-view hotel in Fira with intimate atmosphere, excellent service, and sunset terraces. Romantic Santorini without the mega-resort feel.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Horizon%20Santorini&center=36.4233027,25.4357676",
       "placeId": "ChIJuUQL4s7NmRQRneNwqI0I6oM",
-      "address": "BLUE HORIZON, \u03a6\u03b7\u03c1\u03ac 847 00, Greece",
+      "address": "BLUE HORIZON, Φηρά 847 00, Greece",
       "rating": 4.0,
       "ratingCount": 113,
       "hours": [
-        "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJuUQL4s7NmRQRneNwqI0I6oM/photos/AcnlKN2MFPtEEksbSP4tH11aDP8AybkvfNxaAYEIh7L3sNgqBaJNfhaUrTfgX3Cf4b9aW_36j1nqa3k_ecbMzmwDD1KLCIcG6TXI38Ip1Ps7aw1ghxx4h5lgws0W9K1dI1ja5ssOEVNO8hAlui2ZoSA_dMn5v3KUJw5ghVXgkIm1T7VEDauT3hTRukDoUh0OodufeixBTvHMk8chLTpwnG0Q7-nizANhfWRlEu7XyIA3EicDzjUm4NdJCbCwkkcTLbWWkqOt137ddxVG6SQ6EY5EfeLj6Ip3JsYk3BO0t6Eugo1vXQ",
       "photoAttribution": "Fira Blue Horizon",
       "tags": [
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -832,7 +840,8 @@
       "tags": [
         "Art & Design",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Wellness & Spa"
       ]
     },
     {
@@ -849,8 +858,9 @@
       "website": "https://www.vrbo.com/pdp/lo/111945167?MDPCID=VRBO-META.HPA.WEB-ORGANIC.VR",
       "tags": [
         "Family Friendly",
-        "Photography Worthy",
-        "Toddler Friendly"
+        "Toddler Friendly",
+        "Romantic",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -871,7 +881,9 @@
       "photoAttribution": "CityPlus Rhodes Hotel",
       "tags": [
         "Art & Design",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Romantic"
       ]
     },
     {
@@ -890,19 +902,18 @@
       "priceLevel": "MODERATE",
       "website": "https://www.facebook.com/Pelagos-331674793603958?utm_source=tripadvisor&utm_medium=referral&_rdc=1&_rdr",
       "hours": [
-        "Monday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Tuesday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Wednesday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Thursday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Friday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Saturday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Sunday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM"
+        "Monday: 12:00 PM – 1:00 AM",
+        "Tuesday: 12:00 PM – 1:00 AM",
+        "Wednesday: 12:00 PM – 1:00 AM",
+        "Thursday: 12:00 PM – 1:00 AM",
+        "Friday: 12:00 PM – 1:00 AM",
+        "Saturday: 12:00 PM – 1:00 AM",
+        "Sunday: 12:00 PM – 1:00 AM"
       ],
       "photoRef": "places/ChIJF8VBsemBkBQRJXR8EMEDcEY/photos/AcnlKN22GLF4UjCvgABuUPvJu453NRZAIjs4KkgMwvplC1nIOqtzGEg6sHWYx0b2EFdsZCZwqR9zyzdmJHPi1fbXMRWn6jM77lCRILPx-VwQNXBwBFFOCH_kN1NOv8ehgZg9H1DLe6gKdNsirZHgdw-K9htsdhvl2bXDDMYfvN0QEvA-zT6tbcLCSnd37Q7DvRIXXtxnEC3VNpHkp1CkUTMKP8rqFYgVa-V9BdZ1-HKpN5O_2xLHIxoq_KefQNcsDHSTdWbwMpny6NDJcO1pW-TUfAnJ993p1Da8zQLOs6obaqooNkoZpZVbqQ3nYSFHUIflErStBNdhCl9aYOU_TREGcLc85fxqgPCf8Z63P7opPl1aIpKS4NuSgHeCBbcv_eRe60B4k-YwbkP61Jk5naPH9B9kYKWVfjodTcAInPMJYhqZRT_zFFfDREtlJKKXqsEC",
       "photoAttribution": "D. S.",
       "tags": [
         "Art & Design",
-        "Budget Friendly",
         "Photography Worthy",
         "Romantic",
         "Wellness & Spa"
@@ -936,7 +947,8 @@
       "tags": [
         "Art & Design",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Wellness & Spa"
       ]
     },
     {
@@ -949,27 +961,26 @@
       "longDesc": "Luxurious suite-only hotel with dramatic caldera views, cliffside infinity pools, and fine dining. Exclusive Santorini sophistication.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Kirini%20Suites%20Santorini&center=36.4616492,25.387986599999998",
       "placeId": "ChIJIyJLg4fMmRQRfr_wvy64d_E",
-      "address": "Main Street, O\u00eda 847 02, Greece",
+      "address": "Main Street, Oía 847 02, Greece",
       "rating": 4.8,
       "ratingCount": 278,
       "website": "https://www.katikies.com/kirinisantorini/",
       "hours": [
-        "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Friday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 9:00 PM"
       ],
       "photoRef": "places/ChIJIyJLg4fMmRQRfr_wvy64d_E/photos/AcnlKN1dmA6gZ7flvmla-g2a6sL-gcPE84flhGABX5knXz6d6wthPXB6ludy3l5rMe79famzlJz3-BUaNoIcByQWzrSv2ISI-jfaucUzboKJQ8I8st61dbzzAnd16NvHKTenVpg9nuT9s7X5nLed8-GH4MtUFJsyywTXzaKmjUkOBAO6NoNXKA89lm4afWAKwf5789z8BwpqMrA9qE7zR-BzKK-jDwthG4WIBsYuKA0YV0YzMLI0MgCVSEoL8dxcp9sMAAFAl9PwBOcionGkWHnWWpE-6Ss5GLntR9JrQuZB6lo9Sg",
       "photoAttribution": "Katikies Kirini Santorini",
       "tags": [
         "Art & Design",
-        "Family Friendly",
         "Photography Worthy",
         "Romantic",
-        "Toddler Friendly"
+        "Wellness & Spa"
       ]
     },
     {
@@ -987,13 +998,13 @@
       "ratingCount": 120,
       "website": "http://www.mykonossecretspot.com/",
       "hours": [
-        "Monday: 8:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-        "Tuesday: 8:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-        "Wednesday: 8:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-        "Thursday: 8:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-        "Friday: 8:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-        "Saturday: 8:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
-        "Sunday: 8:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+        "Monday: 8:30 AM – 10:30 PM",
+        "Tuesday: 8:30 AM – 10:30 PM",
+        "Wednesday: 8:30 AM – 10:30 PM",
+        "Thursday: 8:30 AM – 10:30 PM",
+        "Friday: 8:30 AM – 10:30 PM",
+        "Saturday: 8:30 AM – 10:30 PM",
+        "Sunday: 8:30 AM – 10:30 PM"
       ],
       "photoRef": "places/ChIJ6XvW-gW_ohQRTKJI9HsHA4o/photos/AcnlKN29YQVOmDF3OQlRYojLV64hkHFbLLUCjezlsjagKlDOpyVdvL6qrCgwRZciLD8U1Q4qJ5KnuycI4cHbySkLqaU8rluGKb8rwQctaL-RKn3q4Mnp40TV2jeg9Fs-wCgl6fGtV8txE0YPDlXhtkqe4x56l3yjlltFUAlP9mPYzBgfgM4X-hSu7-SRRjpJGOH-EjAl7_Zkajdh6BE9CV3tarCEhWO_ZCNS3MvjsXmkYowDsN7Q2PKws_vUsA-XMtTVsKsYOsSFJtSyBHqjm1CeYEZKj3ASYimWcwRQVykoHSJa1Q",
       "photoAttribution": "Mykonos Secret Spot",
@@ -1001,7 +1012,8 @@
         "Art & Design",
         "Photography Worthy",
         "Romantic",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Splurge"
       ]
     }
   ],
@@ -1022,13 +1034,13 @@
       "priceLevel": "VERY_EXPENSIVE",
       "website": "http://www.spondi.gr/",
       "hours": [
-        "Monday: 7:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Tuesday: 7:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Wednesday: 7:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Thursday: 7:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Friday: 7:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Saturday: 7:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Sunday: 7:30\u202fPM\u2009\u2013\u20091:00\u202fAM"
+        "Monday: 7:30 PM – 1:00 AM",
+        "Tuesday: 7:30 PM – 1:00 AM",
+        "Wednesday: 7:30 PM – 1:00 AM",
+        "Thursday: 7:30 PM – 1:00 AM",
+        "Friday: 7:30 PM – 1:00 AM",
+        "Saturday: 7:30 PM – 1:00 AM",
+        "Sunday: 7:30 PM – 1:00 AM"
       ],
       "photoRef": "places/ChIJ87zFe2y9oRQR_ryfDQ9QfNI/photos/AcnlKN2AcEDsm7TMshTrZfxxAK9Bxsk7FI4ru1QR6BgGd5ukFUTmlMo2r1MLIYBRSUccrgSNahZnS_Q_Q2ldOY4GHmeiQIOOos_nyutb04jov1O7XMCEQlUCvEAyE-wSJjl5Zutn02XaTKsWqhebcFnob_8RuLJB36QXLXumtjgDLvlkqD6fOdzkzrkdj7uvnNDge4sn3GBF37aHaDbSwc_nqEpu1WSRmkYnKfoIsxaftCcwHYNeuxzqTQHQ9duDNtVezLodQvCUU3UcNP8hAjbaNy_F64W0R8UF1Bf7ZYp5NSbk6w",
       "photoAttribution": "Spondi Restaurant",
@@ -1067,8 +1079,8 @@
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Splurge"
       ]
     },
     {
@@ -1089,20 +1101,20 @@
       "hours": [
         "Monday: Closed",
         "Tuesday: Closed",
-        "Wednesday: 7:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-        "Thursday: 7:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-        "Friday: 7:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-        "Saturday: 7:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
-        "Sunday: 7:00\u202fPM\u2009\u2013\u20092:00\u202fAM"
+        "Wednesday: 7:00 PM – 2:00 AM",
+        "Thursday: 7:00 PM – 2:00 AM",
+        "Friday: 7:00 PM – 2:00 AM",
+        "Saturday: 7:00 PM – 2:00 AM",
+        "Sunday: 7:00 PM – 2:00 AM"
       ],
       "photoRef": "places/ChIJdTdlpiqjoRQRIk7Wh7FYGBY/photos/AcnlKN0cnjBEQW3OjTu_n09DjBXNW83h8eK0Gb4S8jJbfPrH1SOyNRhFeWwyO55PDV8iggw-KEhWHiZzae9PEQzpDlDNdoZYxYaHNa1x6--f32Gae0UcOn8IGBCIw1KO58mIhdzZnNLfSPnprdaKS5AoLZW6nkjHdZwteEvyCIHl172oozJH2HwllxjKXRtTxqpIcnqPxaQKwS6GqBpMr2iA_1xmIkCB14y-s-ktJivcGfG21i-Un7T422K8rGNsCRpTXxFIzux6ILRu6KHkE4VLrzbQFl7sVUiWLUsnC0zT8DZ6SA",
       "photoAttribution": "Hytra Restaurant & Bar",
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch",
         "Photography Worthy",
-        "Splurge"
+        "Splurge",
+        "Romantic"
       ]
     },
     {
@@ -1121,20 +1133,19 @@
       "priceLevel": "VERY_EXPENSIVE",
       "website": "https://www.varoulko.gr/",
       "hours": [
-        "Monday: 1:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Tuesday: 1:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Wednesday: 1:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Thursday: 1:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Friday: 1:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Saturday: 1:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Sunday: 1:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+        "Monday: 1:00 PM – 12:00 AM",
+        "Tuesday: 1:00 PM – 12:00 AM",
+        "Wednesday: 1:00 PM – 12:00 AM",
+        "Thursday: 1:00 PM – 12:00 AM",
+        "Friday: 1:00 PM – 12:00 AM",
+        "Saturday: 1:00 PM – 12:00 AM",
+        "Sunday: 1:00 PM – 12:00 AM"
       ],
       "photoRef": "places/ChIJw-V1pTC7oRQRwTRnUUr3DrE/photos/AcnlKN0NwKIaQZbpF8ukbAqtyRdApvZw0H_Rx2zGE45jbHofes8XefodUE19fipcJjuU3ctycF7JPdafysjk-YMzk1lKfSYwtRZO7pn00FUySQdyQpZVyb3vdK9GluGtFMAboVO4iBdajhR0q7LOZNT4nwc4r0n-QglUUOrUo2GEPTNo-062hq6zfK3Be-sGXzL5V2L_5OOsgiSuIvPZLNTauY7S75DxKYyaxhLcdg4kzkWbRhiN68awJoqDSXbMvpfjY_SwwKfCvB7Zt_Gs7liXbDgZxjnchhVAInXUEmoUTQGxhg",
       "photoAttribution": "Varoulko Seaside Restaurant",
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch",
         "Local Delicacies",
         "Photography Worthy",
         "Splurge"
@@ -1156,12 +1167,12 @@
       "priceLevel": "EXPENSIVE",
       "website": "https://nolanverse.com/nolan-2/",
       "hours": [
-        "Monday: 1:00\u2009\u2013\u20095:30\u202fPM, 7:00\u2009\u2013\u200911:30\u202fPM",
-        "Tuesday: 1:00\u2009\u2013\u20095:30\u202fPM, 7:00\u2009\u2013\u200911:30\u202fPM",
-        "Wednesday: 1:00\u2009\u2013\u20095:30\u202fPM, 7:00\u2009\u2013\u200911:30\u202fPM",
-        "Thursday: 1:00\u2009\u2013\u20095:30\u202fPM, 7:00\u2009\u2013\u200911:30\u202fPM",
-        "Friday: 1:00\u2009\u2013\u20095:30\u202fPM, 7:00\u2009\u2013\u200911:30\u202fPM",
-        "Saturday: 1:00\u2009\u2013\u20095:30\u202fPM, 7:00\u2009\u2013\u200911:30\u202fPM",
+        "Monday: 1:00 – 5:30 PM, 7:00 – 11:30 PM",
+        "Tuesday: 1:00 – 5:30 PM, 7:00 – 11:30 PM",
+        "Wednesday: 1:00 – 5:30 PM, 7:00 – 11:30 PM",
+        "Thursday: 1:00 – 5:30 PM, 7:00 – 11:30 PM",
+        "Friday: 1:00 – 5:30 PM, 7:00 – 11:30 PM",
+        "Saturday: 1:00 – 5:30 PM, 7:00 – 11:30 PM",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJtRVOyT29oRQRQQkHE2GmEwE/photos/AcnlKN2TTCMjkR8MCXxw3muT_lfrefyG6Sf7BuKrpl1srnzXSvXljzatX4q48-4Zk0arQRu7SOypiWwYF7qX6XRV5zrRS5z5tMfAzohUaNqqKAYCVtlICSC4_pmCLEgUQH9j97lMgMg6VIAA0bg17Jhnrf9McPMtyx-S3NyjSB6dVPeDKHdQc9uu81zfDwwo1PzGOPCk6wHA02bP3g5c_xRXbOkKpVXMaruNjnv8uJmxc2BdWIMdmh-rcuJT6hnYcvvLDf9Y32Mr8toYRf-OmnIJ0TpILUKImeabnrbjCpO5a2drFg",
@@ -1169,10 +1180,8 @@
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch",
-        "Local Delicacies",
-        "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Local Delicacies"
       ]
     },
     {
@@ -1192,11 +1201,11 @@
       "website": "http://www.botrinis.com/",
       "hours": [
         "Monday: Closed",
-        "Tuesday: 7:00\u2009\u2013\u200911:00\u202fPM",
-        "Wednesday: 7:00\u2009\u2013\u200911:00\u202fPM",
-        "Thursday: 7:00\u2009\u2013\u200911:00\u202fPM",
-        "Friday: 7:00\u2009\u2013\u200911:00\u202fPM",
-        "Saturday: 7:00\u2009\u2013\u200911:00\u202fPM",
+        "Tuesday: 7:00 – 11:00 PM",
+        "Wednesday: 7:00 – 11:00 PM",
+        "Thursday: 7:00 – 11:00 PM",
+        "Friday: 7:00 – 11:00 PM",
+        "Saturday: 7:00 – 11:00 PM",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJ2x4_mPaYoRQRi8YGpT4_wIo/photos/AcnlKN0nU0Qi6fW03ywFzDfPrW6gW4Yxm3Nb6P1GneslD8UAdAcONwU05q2xxycTd1gCJ1ZmimzTjdOFzA78Mi010bA_09Hy7cGSboKnOM-0ECa8NVdsqXfnPtx4tgmiMXcHik_gU6pVn1tAF1fWA7Y2r2QxZTWc31VPjrnVd163JgCYpcxrwhfdyZZgILOQsqr95ujGnpJj2S6c5EmEQ9ac8LvOoNTIsZCq-Kt2B8nbo2h9wm4o2Kry_WfV5T6nMd8-2lfBBi4GzSeBGPRtvIX29qb_NOHXw9QxyFU0vR5_2vwBAA",
@@ -1204,9 +1213,9 @@
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch",
         "Local Delicacies",
-        "Splurge"
+        "Splurge",
+        "Romantic"
       ]
     },
     {
@@ -1216,7 +1225,7 @@
         23.7256423
       ],
       "desc": "Deli-taverna, cured meats, Byzantine-Anatolian meze",
-      "longDesc": "Historic deli-taverna specializing in cured meats and Byzantine-Anatolian meze\u2014a flavor journey through Greece's complex cultural past. A local institution.",
+      "longDesc": "Historic deli-taverna specializing in cured meats and Byzantine-Anatolian meze—a flavor journey through Greece's complex cultural past. A local institution.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Ta%20Karamanlidika&center=37.9802444,23.7256423",
       "placeId": "ChIJ7z1TkSS9oRQRJTycL4l8QlM",
       "address": "Evripidou 52, Athina 105 52, Greece",
@@ -1225,22 +1234,21 @@
       "priceLevel": "MODERATE",
       "website": "https://karamanlidika.gr/",
       "hours": [
-        "Monday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Tuesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Wednesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Thursday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Friday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Saturday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Monday: 9:00 AM – 11:00 PM",
+        "Tuesday: 9:00 AM – 11:00 PM",
+        "Wednesday: 9:00 AM – 11:00 PM",
+        "Thursday: 9:00 AM – 11:00 PM",
+        "Friday: 9:00 AM – 11:00 PM",
+        "Saturday: 9:00 AM – 11:00 PM",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJ7z1TkSS9oRQRJTycL4l8QlM/photos/AcnlKN1ivRAw1tKZcoIEOlxYCAfOg0eD4cxMcLZFAAVds-PxStT3rVhCuXeSK78AHwNCUfxnqsY6OZ12C4agEzb1PN9p0obn_bvzBXWzCx7iahZBUFf7Fnui25jhyek7a1kh1dfoaz61MUqxpyQJcEM08YnmYYSN5Cavc4DL8Chgzs517LWmxFvkXNAi4Hh9hKi2Y1d7qy7y_cDio9Bj1ta9cuFoPGKWdbJ5T3abeG5WyUxR62rM768fbgPY7NuCrjMF-eVZPcGWPS5K6S9qwq5L6VICRNctsd_VVUIjSe3mdHQ3f0BnDPGyzlAUGyR1Kjs2eRrG4S5Rs20piqG3s3gQQDDcfdSkeiYA6Nj05SBuFi4o0ahgN6OMDScbQXehAYJEIWVyL1rJbC4JXOIBvyXNCA4lhkbnIsWtji9VYj5IYVg",
       "photoAttribution": "Claire Finch",
       "tags": [
-        "Budget Friendly",
-        "Casual Eats",
-        "Good for Dinner",
-        "Good for Lunch",
         "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Casual Eats",
         "Photography Worthy"
       ]
     },
@@ -1260,23 +1268,22 @@
       "priceLevel": "VERY_EXPENSIVE",
       "website": "http://www.vezene.gr/",
       "hours": [
-        "Monday: 6:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Tuesday: 6:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Wednesday: 6:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Thursday: 6:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Friday: 6:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Saturday: 6:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Sunday: 6:00\u202fPM\u2009\u2013\u200912:30\u202fAM"
+        "Monday: 6:00 PM – 12:30 AM",
+        "Tuesday: 6:00 PM – 12:30 AM",
+        "Wednesday: 6:00 PM – 12:30 AM",
+        "Thursday: 6:00 PM – 12:30 AM",
+        "Friday: 6:00 PM – 12:30 AM",
+        "Saturday: 6:00 PM – 12:30 AM",
+        "Sunday: 6:00 PM – 12:30 AM"
       ],
       "photoRef": "places/ChIJZfpgIVG9oRQRV1t5M4X78yE/photos/AcnlKN0QbpI4dUWUtomvA3gN5G1l0PvsMuJQ0W0RF_ISMLNdS9pfF5hdMuk547QNJ6YX7YPlXSmMq22s71F0tVPzY7KEE5fO5znuV-1rDcYN_6nWnbn_P_S2Iqh3wu2YPYW4dAWlVTXLt-W6uF38Wmw3CiOHJWv9x4vtBHo0RZ-HkUvCnvAYPo1DzcrsEzEw2O5xyKD_aZwCZR4tArMaC4HSKeH8wGRB10i5EyWdz_KTWP4DB7eeFFUP5bFLL1r7Kf8y5iqjIdUfbjScVSQjbPU73RVTazxV24ViDDulcF_mNnUs7g",
-      "photoAttribution": "Vezen\u00e9 Athens",
+      "photoAttribution": "Vezené Athens",
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch",
         "Local Delicacies",
-        "Photography Worthy",
-        "Splurge"
+        "Splurge",
+        "Photography Worthy"
       ]
     },
     {
@@ -1294,21 +1301,22 @@
       "ratingCount": 4621,
       "priceLevel": "INEXPENSIVE",
       "hours": [
-        "Monday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Tuesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Wednesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Thursday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Friday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
         "Saturday: Closed",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJg-PjyTy9oRQRzb0O2qxPA2Q/photos/AcnlKN3BFfe4pjLIsdRExrfaCPOSqXC0c4Dwy7ULZf5hst0KTeaD2fm8OxHeAe9J103OmQ4dxO06-KpJ-4J2Crin_CbOB-nzAXehd3ly6_wCvyps8tVUu6UE-GA4-LjR5eP0c3ytKKHkFYKwYxQmgVyf6mq3nWtXl20kCfLdDHmpP0TT8cqbfQzmwUTrAhCN18ZbkUclAmY6eYVZCv3M9vg9itmQnkUGAJSJt5u1XOIGPEcCGgFjFntFm-sGGYLkYH4LFmRSaxnQ7wBrLIRlZzGScO0zanCT15hUNC9JJrNpdB-7MTEU2ll9BmPr4IMgjFzQh_rl3glXaKhWtK51TUKntSociRvLMZAbWebqVLvQEMjfWVPJQmTsQ-7M-PmM5Nb6nUPXclDnEyKOAPyqDKw_BWCO_QdmmfovVnOoklaZvdT2vw",
-      "photoAttribution": "\uc815\uc138\uc9c4",
+      "photoAttribution": "정세진",
       "tags": [
         "Budget Friendly",
-        "Good for Dinner",
         "Good for Lunch",
-        "Photography Worthy"
+        "Good for Dinner",
+        "Local Delicacies",
+        "Casual Eats"
       ]
     },
     {
@@ -1321,7 +1329,7 @@
       "longDesc": "Pioneering Santorinian cuisine since 1985 in the village of Pyrgos using hyper-local ingredients and traditional recipes. The island's culinary soul.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Selene&center=36.4214959,25.4307765",
       "placeId": "ChIJX8E34kPPmRQRuP0FvNTwPMg",
-      "address": "Old catholic monastery, \u03a6\u03b7\u03c1\u03ac 847 00, Greece",
+      "address": "Old catholic monastery, Φηρά 847 00, Greece",
       "rating": 4.5,
       "ratingCount": 315,
       "priceLevel": "VERY_EXPENSIVE",
@@ -1329,10 +1337,8 @@
       "photoRef": "places/ChIJX8E34kPPmRQRuP0FvNTwPMg/photos/AcnlKN2LBXPydTuEXtY8Y7dM9QrUBTJ0uXus6zASDG_gfJy2i-oSSQTbTKAOm0o-XzWjzr4oXjFVRBiw5HAjk_CR082agRDcdudWDr1Y39h0kJmTzuyGmoZi1GNTGeUYvp9RB1XBq9O0cLIYTDIHLlYLcGJZ4zE3MY6nZ-ZuCWjhAqzfevkGw45Sm7yCzoSM262GRL9Dn0dvEQ24APKi-MsNtIIpFUSVR8d_loY9DHD_uJ2d-yLh_IQ0NkcJRXSvU6Di1ajiQkNmc0iQAo_Ph3sP5e6cRGjVMbWLqxZfUJNH4dYxAw",
       "photoAttribution": "Selene Restaurant",
       "tags": [
-        "Casual Eats",
         "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch",
         "Local Delicacies",
         "Photography Worthy"
       ]
@@ -1352,21 +1358,22 @@
       "ratingCount": 75,
       "website": "https://canaves.com/canaves-oia-epitome/dining/elements-restaurant/",
       "hours": [
-        "Monday: 7:30\u2009\u2013\u200911:00\u202fPM",
-        "Tuesday: 7:30\u2009\u2013\u200911:00\u202fPM",
-        "Wednesday: 7:30\u2009\u2013\u200911:00\u202fPM",
-        "Thursday: 7:30\u2009\u2013\u200911:00\u202fPM",
-        "Friday: 7:30\u2009\u2013\u200911:00\u202fPM",
-        "Saturday: 7:30\u2009\u2013\u200911:00\u202fPM",
-        "Sunday: 7:30\u2009\u2013\u200911:00\u202fPM"
+        "Monday: 7:30 – 11:00 PM",
+        "Tuesday: 7:30 – 11:00 PM",
+        "Wednesday: 7:30 – 11:00 PM",
+        "Thursday: 7:30 – 11:00 PM",
+        "Friday: 7:30 – 11:00 PM",
+        "Saturday: 7:30 – 11:00 PM",
+        "Sunday: 7:30 – 11:00 PM"
       ],
       "photoRef": "places/ChIJEeMpfAPLmRQRC9_J1c3nPZw/photos/AcnlKN000ME6p1FzQ2ExU3LzlZk7enoTLyuhBC7xk1K-nE08XDLFOfmi-H8UdeOm06q-xVd99HsEngpj2LNsrfhk4UuPVsZ01_r6hJhzLtto-IPYxmIBAwZi6YPRpWT6PMwPCu1yUXT0ZaL50SHsaFwB8RM4RtiJRvgPtCuUXonGrB4-mznJ2Kiq61iO5PCYvy688cex4wAExMurgLxoOE8M6Aq70-WbDGAnqddJploX8QbbVdKcsUSQorXd1kaIbDok509RyDrd0V3nzcCGh_EmuVVZw82P96FhymotKK1jqrWzVQ",
       "photoAttribution": "Elements Restaurant Bar",
       "tags": [
         "Good for Dinner",
-        "Good for Lunch",
         "Local Delicacies",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Romantic",
+        "Fine Dining"
       ]
     },
     {
@@ -1388,10 +1395,9 @@
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch",
-        "Local Delicacies",
+        "Romantic",
         "Photography Worthy",
-        "Romantic"
+        "Local Delicacies"
       ]
     },
     {
@@ -1438,11 +1444,11 @@
       "photoRef": "places/ChIJ9T0PmYPLmRQR7hzxFyr9Efk/photos/AcnlKN0T6eRkTvC4sA-NL1pWBi1KeV58tCIu_IPgkSCYj1hKJpyjEBjmV3eCjh44_1lcqPL21hZjiOtVLdE-vVGvC4_FAynTU8-ELRs1-SQiFEl7Fox1HmbIg8YPfax-OSQOyphqPdbrrpVUQMtN8WRDcDd_WBIsWYLe6wG8q82TJYBSJpwiJx-JP55Hy4chQ-t0nTCL42K6ea8xIS48VPHBp05vpi0WwtrtdDNzUuh4B0xrSgMI6Qh8M0w0nxOvzAAsfVrErcHoVo-RIn2KT7MEyHmTyV5VtFOE0rVL0bw61fU",
       "photoAttribution": "Ammoudi Fish Tavern",
       "tags": [
-        "Casual Eats",
         "Good for Dinner",
         "Local Delicacies",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Splurge"
       ]
     },
     {
@@ -1455,7 +1461,7 @@
       "longDesc": "Nobu's Mykonos outpost bringing Japanese-Peruvian precision to the Aegean island. High-end hospitality theater.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Matsuhisa%20Mykonos&center=37.443286799999996,25.330097400000003",
       "placeId": "ChIJ5QxMa6q_ohQRhV7S9Xrhb2U",
-      "address": "Belvedere Hotel School of Fine Arts District, \u0391\u03b3\u03af\u03bf\u03c5 \u0399\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5 1, \u039c\u03cd\u03ba\u03bf\u03bd\u03bf\u03c2 846 00, Greece",
+      "address": "Belvedere Hotel School of Fine Arts District, Αγίου Ιωάννου 1, Μύκονος 846 00, Greece",
       "rating": 4.2,
       "ratingCount": 149,
       "priceLevel": "VERY_EXPENSIVE",
@@ -1465,8 +1471,9 @@
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch",
-        "Splurge"
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
       ]
     },
     {
@@ -1485,22 +1492,23 @@
       "priceLevel": "MODERATE",
       "website": "https://www.kikidegrece.gr/",
       "hours": [
-        "Monday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Tuesday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Wednesday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Thursday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Friday: 4:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Saturday: 1:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Sunday: 1:00\u202fPM\u2009\u2013\u20091:00\u202fAM"
+        "Monday: 6:00 PM – 1:00 AM",
+        "Tuesday: 6:00 PM – 1:00 AM",
+        "Wednesday: 6:00 PM – 1:00 AM",
+        "Thursday: 6:00 PM – 1:00 AM",
+        "Friday: 4:00 PM – 1:00 AM",
+        "Saturday: 1:00 PM – 1:00 AM",
+        "Sunday: 1:00 PM – 1:00 AM"
       ],
       "photoRef": "places/ChIJkYeLwD29oRQR4h6Uhc_A5Wg/photos/AcnlKN2DxTPef2xXGxS63j0-QVqoYhg9Fj_X2YK-oxNbGotg78uHfiGWgu81ljKui5UbexIqiX6ardACkfG5Q9j4d0ig8KhJ9a0B7-gS4c00TCdCcTUwIE0sO2N9h1vl94uHrjZjCdWR8NOtxP9nktL9tabkFCTBuWNqefVhwJ1iD8i2K5-JlhA2irVeswdVjAqJ3HZI1Y-oY4jMND4IAQc_M2p7i-_bW0KnHfMpW-bH6Z77sE0SHn8pVlCjXZXuVEINNMLllY57P_I_gOvWX2XSQZAr5iPafey9xtJjhcijNyuUgLCnbT5LfTLrq2ek9AXL_a5vN66nyrCfE8ABHJzYBDejx0PDchiBJVAerXOxjwLMOZzJA98o7P1xO_UjjUtxRQdWxf5oY_kePWUr1J1CjfcUUiRUMFbURPzSjpzIX53XAzQ",
-      "photoAttribution": "\u039d\u0399\u039a\u039f\u03a3 \u039d\u0399\u039a\u039f\u039b\u0399\u0394\u0391\u039a\u0397\u03a3",
+      "photoAttribution": "ΝΙΚΟΣ ΝΙΚΟΛΙΔΑΚΗΣ",
       "tags": [
         "Budget Friendly",
         "Casual Eats",
         "Good for Dinner",
         "Good for Lunch",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Photography Worthy"
       ]
     },
     {
@@ -1519,21 +1527,19 @@
       "priceLevel": "EXPENSIVE",
       "website": "http://www.m-eating.gr/",
       "hours": [
-        "Monday: 7:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Tuesday: 7:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Wednesday: 7:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Thursday: 7:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Friday: 7:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Saturday: 7:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Sunday: 7:00\u202fPM\u2009\u2013\u200912:30\u202fAM"
+        "Monday: 7:00 PM – 12:30 AM",
+        "Tuesday: 7:00 PM – 12:30 AM",
+        "Wednesday: 7:00 PM – 12:30 AM",
+        "Thursday: 7:00 PM – 12:30 AM",
+        "Friday: 7:00 PM – 12:30 AM",
+        "Saturday: 7:00 PM – 12:30 AM",
+        "Sunday: 7:00 PM – 12:30 AM"
       ],
       "photoRef": "places/ChIJzYUwkam_ohQRLTeSMAFXTt0/photos/AcnlKN09mxarAacCqI_F5S_GnNdltCmOJK1EXrAqF2HMT-2eAvkGmDDZX-_lWSjoozxzMr7wTWvwbco-XJSKmxvZUUEmhNrH-lCzAbUl_yAy5z9lkYeIkZ8FBVTD95apN72Xa2E1dWVlBnPxcG2AgsRIOLpQM24J39XrUsHNzGaAj-kB7dWFiza7A9bHQuaDdk3k1pQNQExjzIFHjY8tvzvAG18S9BK8_pMWlztdl0q3JIXtt_DLEeM6oDLWm4ovP2W0CcxavrOEYmsP-Rk_DC09fGRYUf8qvikx_P5Icp8ylgB6lgmAKXtF7hrwpOtNBKvUYcNap8Kf8R2ls6FomKfKC9D50s-J2biOO6_Rx1LOtSI-jYNe0DuJHPG9s_Yk1hyvfIFYVG6MeN61c5q6nR5HV0FBWg8PEt6UPEw3ZD4AdXM",
       "photoAttribution": "Co Flo",
       "tags": [
-        "Casual Eats",
         "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch",
         "Local Delicacies",
         "Photography Worthy"
       ]
@@ -1553,13 +1559,13 @@
       "ratingCount": 426,
       "priceLevel": "MODERATE",
       "hours": [
-        "Monday: 12:00\u2009\u2013\u200910:30\u202fPM",
-        "Tuesday: 12:00\u2009\u2013\u200910:30\u202fPM",
-        "Wednesday: 12:00\u2009\u2013\u200910:30\u202fPM",
-        "Thursday: 12:00\u2009\u2013\u200910:30\u202fPM",
-        "Friday: 12:00\u2009\u2013\u200910:30\u202fPM",
-        "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
-        "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+        "Monday: 12:00 – 10:30 PM",
+        "Tuesday: 12:00 – 10:30 PM",
+        "Wednesday: 12:00 – 10:30 PM",
+        "Thursday: 12:00 – 10:30 PM",
+        "Friday: 12:00 – 10:30 PM",
+        "Saturday: 12:00 – 10:30 PM",
+        "Sunday: 11:00 AM – 11:00 PM"
       ],
       "photoRef": "places/ChIJw_t0TB8IlRQR3vt8iRTyzFw/photos/AcnlKN3AEvW1dU0Stw-RACQe9cH0tsr_adTow04eKpTfhQaGMHPVYatwHK-Sn8U5Z65V8o07-WZ8jML8EpccBQTZL2uwOCvh7wP7Xq74shxaY7L7etDhC6ZwmFN2XGodtsfNhDgB1FH938CN39P0E3NX4p7Zlwk83ORXvdQbfpNfom6s5mQ0O4Df5NNQWLTsrg0PGbdbHOarWcMwFRB0SVZ8fe60zH3Z5nqbvMxaW7DqsG2sZKj7K74lqYweAGnWuCRQpnPuzK82z5Qbo7ueVdMjL2nkEZwiyjcTR6M2QP1OBV09CqNS1_czd9qZhdloAi6jPA4IWrPGB-zQfPzTi-rUNtK6yDoWtDatkU0YaI9QqmbRwjV0Hd5qt3t-c2wKkoT-OKnviVvDomOe5vRJDsB8yUFtKgnyTYaqWG8g3_UM7pwZJmc",
       "photoAttribution": "Serafina Miller",
@@ -1588,20 +1594,20 @@
       "priceLevel": "MODERATE",
       "website": "https://peskesicrete.gr/el",
       "hours": [
-        "Monday: 1:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Tuesday: 1:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Wednesday: 1:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Thursday: 1:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Friday: 1:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Saturday: 1:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Sunday: 1:00\u202fPM\u2009\u2013\u20091:00\u202fAM"
+        "Monday: 1:00 PM – 1:00 AM",
+        "Tuesday: 1:00 PM – 1:00 AM",
+        "Wednesday: 1:00 PM – 1:00 AM",
+        "Thursday: 1:00 PM – 1:00 AM",
+        "Friday: 1:00 PM – 1:00 AM",
+        "Saturday: 1:00 PM – 1:00 AM",
+        "Sunday: 1:00 PM – 1:00 AM"
       ],
       "photoRef": "places/ChIJ-6wCIC9amhQRMkvzeBIbYQ0/photos/AcnlKN0DSWUaI1nbz4x50HEG-HCk__po64jkm4C4987xEUuQjBmedCNE4MuIlK2MERqOPJfwrHsXceuQXfyeugQsGu1imY_xoEwqHWk9bO1LnW7GMTqmHpsZA5_n5Jn160inyTrOaPEVrptRyXGEFrj5l-elDJnSq9UbOeFZNaR7uUmPHkrqcWWz1EDtJ1lYnLxbRyh7uqDApaHMzXiICGpOynJyDwwfc06Ef_TU_3Vta3VyDthVE4IPjukmlg20hG6JTs1X2nFw5ra23RnTV7fuD09AlVx3q-XWVGcjEGOilKFliA",
-      "photoAttribution": "\u03a0\u03b5\u03c3\u03ba\u03ad\u03c3\u03b9",
+      "photoAttribution": "Πεσκέσι",
       "tags": [
-        "Budget Friendly",
+        "Local Delicacies",
         "Good for Dinner",
-        "Good for Lunch",
+        "Cultural & Historical",
         "Photography Worthy"
       ]
     },
@@ -1623,11 +1629,11 @@
       "photoRef": "places/ChIJtYwGG9B9nBQRvu8G2_R2hrk/photos/AcnlKN32qKdJ3Gajpbxwv8eImwJPdxSb7jIkMWZYGyQrIyLirRlvdSOu-rxBJfDrGbX1zTN0Y2YImspv5RxU1q_Vrl84h7UUbyuErp5afA1hjomT7gXFEMU4rKD2zh3dWA9z0s9qqas-l348AAgoBPty8oD7EbA8RpGwzdUpscxotLyIcitnTguHPV6I1CAsQCgduBDC4ySAJPYlSXlD2QELLEoRJzawVLyzUMV8R5Tk2B10xHX4AnlZVQRLnu_dyZt3nDF6clOZHZ29CPe1ny6dnZRUDsdj-XO1phiyh6L_ifuDtQ",
       "photoAttribution": "Thalassino Ageri",
       "tags": [
-        "Budget Friendly",
         "Good for Dinner",
         "Good for Lunch",
         "Local Delicacies",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Romantic"
       ]
     },
     {
@@ -1648,10 +1654,11 @@
       "photoRef": "places/ChIJD72HWbx9nBQRwMjgj0P4FwI/photos/AcnlKN2AfDeKCsK8aPMz3Y2ZC8psId2jHXQt5CEGwv2fEJOVnJrO5LPdi-Q7aB_5fnZdTHJEMqGYIY4LDTKXx31ZiDK9iRcsQ-QSQEnBHQBP6gv4GY66Xiw7CFFkK_xmllq02AIjfRSt-vbFbA1pxRcysrga46_CRwLTU0im29-duSzetQ-7tgcx2WlboXphn6gw9kHvybriRc6Mu2uxuxfIbuG4pOJnm7YtfeIaQbrBVdFytLB7WKLG-aGO1fSmHmFZVu-zmJyStNIFSiuFBDCsR4Ns7zUNfAhBHyXpReYmaQo6IgqXbDSK-GAN5pn8UWpiIsaEBLj24aZeSvmnE1wygmlzoq_JTdapaXHLOZuJyF0WQLUnIgqPNo2t9Ct4CTkoGowBaiAsMCBS-m6oWiDktLObodQYQZaNQNN_t_XA7ckRRres",
       "photoAttribution": "Adrian S",
       "tags": [
-        "Budget Friendly",
+        "Cultural & Historical",
         "Good for Dinner",
         "Good for Lunch",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Romantic"
       ]
     },
     {
@@ -1669,7 +1676,9 @@
       "photoAttribution": "Giorgos Pap",
       "tags": [
         "Good for Dinner",
-        "Good for Lunch"
+        "Good for Lunch",
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -1682,9 +1691,11 @@
       "longDesc": "Farm-to-table gem in rural Naxos with a vine-covered pergola and direct access to organic island produce. Slow food done sincerely.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Axiotissa&center=37.005437,25.394973",
       "tags": [
-        "Good for Dinner",
         "Good for Lunch",
-        "Local Delicacies"
+        "Good for Dinner",
+        "Local Delicacies",
+        "Casual Eats",
+        "Romantic"
       ]
     },
     {
@@ -1697,28 +1708,27 @@
       "longDesc": "Gourmet seafood restaurant in Naoussa's picturesque harbor on Paros with direct views of fishing boats and sunset. Maritime excellence.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Mario%20Restaurant&center=36.4039887,25.4873959",
       "placeId": "ChIJN7Cdwg7SmRQR9A9-4wT3iH4",
-      "address": "\u0391\u03b3\u03af\u03b1 \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae, \u039c\u03bf\u03bd\u03cc\u03bb\u03b9\u03b8\u03bf\u03c2 847 00, Greece",
+      "address": "Αγία Παρασκευή, Μονόλιθος 847 00, Greece",
       "rating": 4.7,
       "ratingCount": 2010,
       "priceLevel": "MODERATE",
       "website": "http://www.santorinirestaurant.gr/",
       "hours": [
-        "Monday: 1:00\u2009\u2013\u200911:00\u202fPM",
-        "Tuesday: 1:00\u2009\u2013\u200911:00\u202fPM",
-        "Wednesday: 1:00\u2009\u2013\u200911:00\u202fPM",
-        "Thursday: 1:00\u2009\u2013\u200911:00\u202fPM",
-        "Friday: 1:00\u2009\u2013\u200911:00\u202fPM",
-        "Saturday: 1:00\u2009\u2013\u200911:00\u202fPM",
-        "Sunday: 1:00\u2009\u2013\u200911:00\u202fPM"
+        "Monday: 1:00 – 11:00 PM",
+        "Tuesday: 1:00 – 11:00 PM",
+        "Wednesday: 1:00 – 11:00 PM",
+        "Thursday: 1:00 – 11:00 PM",
+        "Friday: 1:00 – 11:00 PM",
+        "Saturday: 1:00 – 11:00 PM",
+        "Sunday: 1:00 – 11:00 PM"
       ],
       "photoRef": "places/ChIJN7Cdwg7SmRQR9A9-4wT3iH4/photos/AcnlKN25iOjSBcTK6OUVX3MP2qXFcdylCkLN2MI-MFYaJOKA1bLBkqSDe1ie7oBO36qoLCZqQidkblewKTGBxB5YCdM0VMA1Nf647kWMJGTU_2EMfh2rKOh4c6-mJlttkuNghtWT6FOWfEMJ58R3kgcBxU-pdMGlAidGGPrsyWo9KAWpKcyYGqMGJaL5V17bIRNm6YdNWR-lkdIwIaLp4vnBilSIUkM4xECEWRNJ3_ewl6nrrSxQRAcy2qUUWdNxVydJvUEmiYYbZRyNV3uFHT6yOLLXanKP96JrdnHo4w2l3u980A",
       "photoAttribution": "Mario Restaurant",
       "tags": [
-        "Budget Friendly",
-        "Fine Dining",
         "Good for Dinner",
+        "Romantic",
         "Photography Worthy",
-        "Romantic"
+        "Local Delicacies"
       ]
     },
     {
@@ -1761,9 +1771,9 @@
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch",
         "Photography Worthy",
-        "Splurge"
+        "Splurge",
+        "Romantic"
       ]
     },
     {
@@ -1782,21 +1792,18 @@
       "priceLevel": "MODERATE",
       "website": "http://www.lineathens.gr/",
       "hours": [
-        "Monday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-        "Tuesday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-        "Wednesday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-        "Thursday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-        "Friday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-        "Saturday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-        "Sunday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM"
+        "Monday: 10:00 AM – 2:00 AM",
+        "Tuesday: 10:00 AM – 2:00 AM",
+        "Wednesday: 10:00 AM – 2:00 AM",
+        "Thursday: 10:00 AM – 2:00 AM",
+        "Friday: 10:00 AM – 2:00 AM",
+        "Saturday: 10:00 AM – 2:00 AM",
+        "Sunday: 10:00 AM – 2:00 AM"
       ],
       "photoRef": "places/ChIJ13n7hoG9oRQRXHgFVrMGEGU/photos/AcnlKN3Z_TOycwzdNjAvXpYDLCJKebX4rIAX-_KAXUhYl-eEzScXu0MSxLN3J56IoD_KWLkHHvw0xBPB32l2G4MkAzL6oR4AB46nJG0YgQ7ugnTfHyWAlFj21cbhAOQ4_4hCklwpD-yxwrJpBCqswtP0GymH7onlb30iuZsPdWLaLWSk1m-JGpwXFExnvMvK9fASlYcMOxs_VbP6Hxvcc7QjW6QtKe91ZZyK5p04_9IqQWNVkYIb4EP6hT1SoWeUWG1oKXr0la9R5wl8zwEFegchCykTEVqdwIfoJZtnqabAPTW2YHIoTFvSyqm4oaP4w8tth8_53VxR_8KDeHZyBjoXCarVCmDpKlu0B4-kYWenn7K9w_X4CGLxUFXYRt_2gvKW-S7gV2JFYew76PT4TWiU-tXHuNv9G0wHrXvgf6ccEzaadnFykrFXOsd_DFKwuTA5",
       "photoAttribution": "Sotiria Filip",
       "tags": [
-        "Budget Friendly",
         "Cocktails & Bars",
-        "Good for Dinner",
-        "Good for Lunch",
         "Nightlife",
         "Photography Worthy"
       ]
@@ -1817,21 +1824,19 @@
       "priceLevel": "MODERATE",
       "website": "https://www.babaaurum.com/",
       "hours": [
-        "Monday: 7:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-        "Tuesday: 7:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-        "Wednesday: 7:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-        "Thursday: 7:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-        "Friday: 7:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
-        "Saturday: 7:00\u202fPM\u2009\u2013\u20093:30\u202fAM",
-        "Sunday: 7:00\u202fPM\u2009\u2013\u20093:00\u202fAM"
+        "Monday: 7:00 PM – 3:00 AM",
+        "Tuesday: 7:00 PM – 3:00 AM",
+        "Wednesday: 7:00 PM – 3:00 AM",
+        "Thursday: 7:00 PM – 3:00 AM",
+        "Friday: 7:00 PM – 3:00 AM",
+        "Saturday: 7:00 PM – 3:30 AM",
+        "Sunday: 7:00 PM – 3:00 AM"
       ],
       "photoRef": "places/ChIJFVsBjjy9oRQR7XnarON2k94/photos/AcnlKN0Ahf6axdDJey0k-b0SZJi0csoYbI5NhN3T3Bqu2mufLAZx5I4zS2o1u6fMvNDk8fMp8-zDcR3L2pbXf4WbRg7Ork59Nz5ydlT6b85UVQFzZqRxUVv5Na57uhmX8EaBG_EjL97Pylgs6Ft1uwoWXnBV6kR6utxWU2_Zv4SKiolbjbdN1no1ElXvPD3UuALooyz5dA6c1rYSBCq8j-x6FUqL3ziM8So0LiS6AWCOBARmI0Q61Pjzb7HApOLIYaO436cwAOGUS2Pbdwt2ovTO8iBrnZZ-Tg2mJ1joA9MaOLjFIqmsaMgidPeoY191YYjP73oHhSwx45vVUwyM4uSGo4sKLLMbFGXHG4_Kbjs-eXsSGpHF_bSR8GwSnTj7PhCsah70kZLEmROeH2C_A-136inTTgqFBd5cFC62FxUxFP7-mA",
-      "photoAttribution": "Burak \u00d6zkaraka\u015fl\u0131 \u2022 Gastronaut",
+      "photoAttribution": "Burak Özkarakaşlı • Gastronaut",
       "tags": [
-        "Budget Friendly",
         "Cocktails & Bars",
         "Good for Dinner",
-        "Good for Lunch",
         "Nightlife",
         "Photography Worthy"
       ]
@@ -1852,18 +1857,17 @@
       "priceLevel": "MODERATE",
       "website": "http://www.theclumsies.gr/",
       "hours": [
-        "Monday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-        "Tuesday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-        "Wednesday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-        "Thursday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-        "Friday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-        "Saturday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
-        "Sunday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM"
+        "Monday: 10:00 AM – 2:00 AM",
+        "Tuesday: 10:00 AM – 2:00 AM",
+        "Wednesday: 10:00 AM – 2:00 AM",
+        "Thursday: 10:00 AM – 2:00 AM",
+        "Friday: 10:00 AM – 2:00 AM",
+        "Saturday: 10:00 AM – 2:00 AM",
+        "Sunday: 10:00 AM – 2:00 AM"
       ],
       "photoRef": "places/ChIJYatZZTu9oRQRJrkQceYY2uQ/photos/AcnlKN1e5zaa3HMiKdrzi5ZVHmmRy7nVbcpInbt5Jceg8TnYesXsaQsIC7Ndy5ArIh-8RQX5XNKl0HhwUnr0nOd63h1mLErymaaEbZ4myMe5ikvwjyBWmT00pimNVEhm-IetG6085vL_iJcTLoR6ViDTppGPP2DwC-iFqHABJ-t1DMFgSqXyboNJ2IKLWSPFU5koYYbhul2oL8RZOMlqiP4OzsB92K7_2DU63mu6lI-fgJiKwLP3MtyBCm2ZjbecPv_BDeJG0g29Yb2m_w3aVtZeEZxveWL9mYxDUa-M1vpzO7vI21uRqguyS7acBXvsf8ctoRkr1Omsxnbu3HxnDv4fkkYZWdsE2qE5Z7HZs0FcTMHwtHp-nUHDXfDkELl_0Zz6DfiaiaU-3nqzWMF4xWf4lUdjQ6CNL3g-dCgMXo3vtP81zg",
       "photoAttribution": "Andreas Conrad (FrontRowSociety Magazine)",
       "tags": [
-        "Budget Friendly",
         "Cocktails & Bars",
         "Good for Dinner",
         "Nightlife",
@@ -1882,13 +1886,13 @@
       "tags": [
         "Cocktails & Bars",
         "Good for Dinner",
-        "Nightlife",
+        "Romantic",
         "Photography Worthy",
-        "Romantic"
+        "Nightlife"
       ]
     },
     {
-      "name": "180\u00b0 Sunset Bar",
+      "name": "180° Sunset Bar",
       "coord": [
         37.4493483,
         25.3323987
@@ -1903,13 +1907,13 @@
       "priceLevel": "MODERATE",
       "website": "http://www.180.bar/",
       "photoRef": "places/ChIJo18P4Ae_ohQRziyXNPrwxqY/photos/AcnlKN3kyLJo-_MSQnTlaopjbSNG-yVainOd8lrEvVCskBtGCGFT1JRqmMe2gRy9fTbA8vyxxMQS41UpDmsT5oURb6c9Mq9PVpCiXZA2Sx6xpRrFzStOHRlNJ-Sly6uQnwPweN4XXH3_P-y0HTknrvQRYISu1-vEgUQC5-GuAxyATw95NqrlVF3votCI-ablwncBnIkCmDpfNhswskGEu5iSsndwCfXa1ozX12iMToMs71_WY92YBj0OHmBJO4sTq_paFxJ4NbU2RX7kfz8AQrWwEAJtd3V2os7C2rjK3IDt4OFs0-Lgj1DA3MQ7yXY5EiQQqYEDRR7SCRERgD_XDrTLoJGhTnVoHkF82HYNYbS2j8JsaOaKpr2ahh9xRs5vDDyoprj9IdAO-BM5Oqpsw68mPjlX0WmIv0tMSFF2wA_lYN8A-gwN",
-      "photoAttribution": "R\u00f2 Bisi",
+      "photoAttribution": "Rò Bisi",
       "tags": [
-        "Budget Friendly",
         "Cocktails & Bars",
         "Good for Dinner",
         "Nightlife",
-        "Romantic"
+        "Romantic",
+        "Photography Worthy"
       ]
     },
     {
@@ -1922,7 +1926,7 @@
       "longDesc": "Bohemian sunset ritual at Paraga Beach on Mykonos with beach lounging, live music, and spiritual sunset energy. Hedonism with heart.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Scorpios&center=37.4069079,25.347629599999998",
       "placeId": "ChIJOXBwpJC-ohQRcW7o3YddSes",
-      "address": "Paraga, \u039c\u03cd\u03ba\u03bf\u03bd\u03bf\u03c2 846 00, Greece",
+      "address": "Paraga, Μύκονος 846 00, Greece",
       "rating": 4.2,
       "ratingCount": 5917,
       "priceLevel": "VERY_EXPENSIVE",
@@ -1933,7 +1937,9 @@
         "Fine Dining",
         "Good for Dinner",
         "Romantic",
-        "Splurge"
+        "Splurge",
+        "Nightlife",
+        "Photography Worthy"
       ]
     },
     {
@@ -1946,7 +1952,7 @@
       "longDesc": "Two Michelin stars for innovative modern Greek cuisine in an intimate Athens setting with theatrical presentations and seasonal menus. Culinary art.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Funky%20Gourmet&center=37.9831192,23.715986899999997",
       "placeId": "ChIJT2_TfCe9oRQRLfvCicFt7OE",
-      "address": "\u03a0\u03b1\u03c1\u03b1\u03bc\u03c5\u03b8\u03b9\u03ac\u03c2 13 \u03ba\u03b1\u03b9, Salaminos, Athina 104 35, Greece",
+      "address": "Παραμυθιάς 13 και, Salaminos, Athina 104 35, Greece",
       "rating": 4.5,
       "ratingCount": 346,
       "priceLevel": "VERY_EXPENSIVE",
@@ -1956,9 +1962,7 @@
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch",
         "Local Delicacies",
-        "Photography Worthy",
         "Romantic"
       ]
     },
@@ -1978,22 +1982,20 @@
       "priceLevel": "VERY_EXPENSIVE",
       "website": "https://www.estiatoriomilos.com/",
       "hours": [
-        "Monday: 7:00\u2009\u2013\u200911:00\u202fAM, 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Tuesday: 7:00\u2009\u2013\u200911:00\u202fAM, 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Wednesday: 7:00\u2009\u2013\u200911:00\u202fAM, 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Thursday: 7:00\u2009\u2013\u200911:00\u202fAM, 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Friday: 7:00\u2009\u2013\u200911:00\u202fAM, 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Saturday: 7:00\u2009\u2013\u200911:00\u202fAM, 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Sunday: 7:00\u2009\u2013\u200911:00\u202fAM, 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+        "Monday: 7:00 – 11:00 AM, 12:00 PM – 12:00 AM",
+        "Tuesday: 7:00 – 11:00 AM, 12:00 PM – 12:00 AM",
+        "Wednesday: 7:00 – 11:00 AM, 12:00 PM – 12:00 AM",
+        "Thursday: 7:00 – 11:00 AM, 12:00 PM – 12:00 AM",
+        "Friday: 7:00 – 11:00 AM, 12:00 PM – 12:00 AM",
+        "Saturday: 7:00 – 11:00 AM, 12:00 PM – 12:00 AM",
+        "Sunday: 7:00 – 11:00 AM, 12:00 PM – 12:00 AM"
       ],
       "photoRef": "places/ChIJt3BCIUW9oRQRqGEY6WKPNAs/photos/AcnlKN3gOdYFfs36b6TwpaUBuyF3yQwtSMgwB96GsW6GKOYJLvOrf98aN-EmJlPoaPZZvcUoggKNP9E1kr4VpkwLkOLtp0rFi9IKbNh_qmcWuwgm5IuiN6CMDuptYqxI_g9V-dxYF6FTU5-hS42aY4FdncSDubLloZH7VkhhBYhUFiiT_Akt-vUzuJp1dKMNqd3aDwnPLSB-e_4xf97dtmxDqKfCqD3PGdZesSN_T-eLRe6G2EjRNYyV84UKXTbNKiYWShH4u3SXyY6Z7CUzsnQNXbVrU2vb3-VrygnW4IUsndCKNA",
-      "photoAttribution": "Milos \u03b5\u03c3\u03c4\u03b9\u03b1\u03c4\u03cc\u03c1\u03b9\u03bf",
+      "photoAttribution": "Milos εστιατόριο",
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch",
         "Local Delicacies",
-        "Photography Worthy",
         "Splurge"
       ]
     },
@@ -2012,21 +2014,22 @@
       "ratingCount": 1177,
       "website": "http://www.medpap.gr/",
       "hours": [
-        "Monday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Tuesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Saturday: 6:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+        "Monday: 6:00 AM – 10:00 PM",
+        "Tuesday: 6:00 AM – 10:00 PM",
+        "Wednesday: 6:00 AM – 10:00 PM",
+        "Thursday: 6:00 AM – 10:00 PM",
+        "Friday: 6:00 AM – 10:00 PM",
+        "Saturday: 6:30 AM – 3:30 PM",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJo0qJKzK9oRQRcIJiwM05zgo/photos/AcnlKN0oXYr_PkPSn6o7ENDR2EzwmNldDLlLweLpi6oXja0z6lV9f9w8pld3feP6nVcUNqsmcgCXWuzQ5L1OXbUEE9dgeFO7YGgjaFbVvY6AA-3m550I1gIMaLJcKqHMjEfuRPtD6ZK-9x6Irgw_2wt9sZFApZ6OgQj__biFvECkGDCL2bhPygUkm1dxu-kR182mnEWtEUzrWhtS_RI4KJNWrnM3f2mqYpWt3QiQyBCYmf4_LnC4faZJzLkzS2Z6c-eq8XNUp8NDz8IS52A9y6QFIfwV5Np4CD4IrxeZlmxbW-E",
-      "photoAttribution": "\u03a0\u0391\u03a0\u0391\u039d\u0394\u03a1\u0395\u039f\u03a5 \u0399\u0391\u03a4\u03a1\u0399\u039a\u0395\u03a3 \u03a5\u03a0\u0397\u03a1\u0395\u03a3\u0399\u0395\u03a3 \u0391\u0398\u0397\u039d\u0391",
+      "photoAttribution": "ΠΑΠΑΝΔΡΕΟΥ ΙΑΤΡΙΚΕΣ ΥΠΗΡΕΣΙΕΣ ΑΘΗΝΑ",
       "tags": [
         "Casual Eats",
         "Good for Dinner",
         "Good for Lunch",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Family Friendly"
       ]
     },
     {
@@ -2044,22 +2047,22 @@
       "ratingCount": 439,
       "priceLevel": "INEXPENSIVE",
       "hours": [
-        "Monday: 7:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Tuesday: 7:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Wednesday: 7:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Thursday: 7:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Friday: 7:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Saturday: 7:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Monday: 7:00 PM – 12:00 AM",
+        "Tuesday: 7:00 PM – 12:00 AM",
+        "Wednesday: 7:00 PM – 12:00 AM",
+        "Thursday: 7:00 PM – 12:00 AM",
+        "Friday: 7:00 PM – 12:00 AM",
+        "Saturday: 7:00 PM – 12:00 AM",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJe84xwVK9oRQRiJTQH5E_NTs/photos/AcnlKN1Usa7euhthgGJ1ozI7M2z5EicbMvCMxO5v_QoWhZsAC2I36ffeUH_5Peqp-BLPd2VNFEWE4G9iwL0xE7ivJRiLP3IhDTtCn6l2mSuwxt7zQKzuwo4AZWityN8ffxbwKQ3MdasyRbyA-aBojRoIh0yEOlNoeBoM0ceT_mLy7-qMp3zuvV4MTgbnN7VXSavS2Or7KNcKrEzUvTE-pvdCeI4fcFTC2xJ6zl--nERR1sWnuwW7f4hBu51PTwX5IQzkZEyOnzVa5Nfus5DygrY9bL2RojPDxWt1eIdjHDCh3KJivw",
-      "photoAttribution": "\u039f\u03b9\u03bd\u03bf\u03bc\u03b1\u03b3\u03b5\u03b9\u03c1\u03b5\u03af\u03bf \u00ab \u03a4\u03bf \u03a4\u03c1\u03b9\u03c6\u03cd\u03bb\u03bb\u03b9 \u00bb",
+      "photoAttribution": "Οινομαγειρείο « Το Τριφύλλι »",
       "tags": [
         "Budget Friendly",
         "Casual Eats",
         "Family Friendly",
-        "Good for Dinner",
         "Good for Lunch",
+        "Good for Dinner",
         "Local Delicacies"
       ]
     },
@@ -2079,12 +2082,12 @@
       "priceLevel": "VERY_EXPENSIVE",
       "website": "http://www.aleria.gr/",
       "hours": [
-        "Monday: 7:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Tuesday: 7:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Wednesday: 7:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Thursday: 7:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Friday: 7:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
-        "Saturday: 7:00\u202fPM\u2009\u2013\u200912:30\u202fAM",
+        "Monday: 7:00 PM – 12:30 AM",
+        "Tuesday: 7:00 PM – 12:30 AM",
+        "Wednesday: 7:00 PM – 12:30 AM",
+        "Thursday: 7:00 PM – 12:30 AM",
+        "Friday: 7:00 PM – 12:30 AM",
+        "Saturday: 7:00 PM – 12:30 AM",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJq_UsCSe9oRQR4zQ8hj4rxRs/photos/AcnlKN2hNcYfnoX6v5qKFt1lKJqbMJfbU7GCgnk13BG22MlMRue0vrDdJ0aUmKNDR3fftfYlmeinHHdOq5uvyl9jvzKkecrJSCdDcTVWMEOUAd1JxAU0rx-MPcbDO6AsU50rQwn48SXnwaTwnpM__n5P0ZfGN1_2fTqUurQH48zmfC01qxEF27co8-eWJ7ZqCmbI47wbzJa_X5cDvUsN2EE9NaWjYzMYLLdm8inLGjDUCIUsGnACLDSBVgXaxMAyOtH-IeLDXeVO6tawZA7_9Vwnyo1zbZ-p_xIaaTgb8mK_VBbpIRWX4gday5RY2uhH1sI7-T-BbvvuFhDaGFUIOV11UUhcVR5antktGa51a_i6g3QCOv-I5yNbnTCSVR_oa7VYG-G01SZ8VF8IfKjpv6r0Ft7XkJJiyj4oU-DK6taSJsxnhA",
@@ -2093,9 +2096,8 @@
         "Cocktails & Bars",
         "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch",
         "Local Delicacies",
-        "Nightlife"
+        "Romantic"
       ]
     },
     {
@@ -2114,22 +2116,22 @@
       "priceLevel": "MODERATE",
       "website": "https://m.facebook.com/karavitistavern/?ref=bookmarks",
       "hours": [
-        "Monday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Tuesday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Wednesday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Thursday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Friday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Saturday: 1:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
-        "Sunday: 1:30\u202fPM\u2009\u2013\u20091:00\u202fAM"
+        "Monday: 7:00 PM – 1:00 AM",
+        "Tuesday: 7:00 PM – 1:00 AM",
+        "Wednesday: 7:00 PM – 1:00 AM",
+        "Thursday: 7:00 PM – 1:00 AM",
+        "Friday: 7:00 PM – 1:00 AM",
+        "Saturday: 1:30 PM – 1:00 AM",
+        "Sunday: 1:30 PM – 1:00 AM"
       ],
       "photoRef": "places/ChIJjwoiwUG9oRQRDJRwVgquFs0/photos/AcnlKN3zV6x7-qnIhrf4czAyfheYxjZ8AdI4YBrx2mZ0nxlCqWgWThKpgY5fRc_tL-tNwqIa7E2pTByA5TUMaXmED2o9pjbuR9a-EVmFOrGI9GT3MvEJwgqFFIbFVqJDUw6mrPclRsSX_4blZh8HsG72lmqLMiAK30ahw4tT2zyV9tjN4Fo9DCN1DInT-k8K91amTavc28WaJWXXFD-DSyeco5F-HZD9oDryVcd27f-bbxASsu-Gxgiql1e-ZXqsTfXTXA4SBmJMweApKlGQ5uc9FK3MCYOuvkwXCtLveq-cpac",
-      "photoAttribution": "\u039a\u03b1\u03c1\u03b1\u03b2\u03af\u03c4\u03b7\u03c2",
+      "photoAttribution": "Καραβίτης",
       "tags": [
-        "Budget Friendly",
         "Casual Eats",
-        "Good for Dinner",
         "Good for Lunch",
-        "Local Delicacies"
+        "Good for Dinner",
+        "Local Delicacies",
+        "Budget Friendly"
       ]
     },
     {
@@ -2142,27 +2144,27 @@
       "longDesc": "Hidden gem taverna tucked inside Central Market with no sign, no menu, just excellent grilled fish and meze. Pure market taverna authenticity.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Diporto%20Agoras&center=37.980747799999996,23.7258382",
       "placeId": "ChIJW25h6SS9oRQRajkTKiKmQVg",
-      "address": "\u03a3\u03c9\u03ba\u03c1\u03ac\u03c4\u03bf\u03c5\u03c2 9 \u03ba\u03b1\u03b9, Theatrou 10552, Athina 105 52, Greece",
+      "address": "Σωκράτους 9 και, Theatrou 10552, Athina 105 52, Greece",
       "rating": 4.4,
       "ratingCount": 2814,
       "priceLevel": "INEXPENSIVE",
       "website": "https://www.greekgastronomyguide.gr/item/taverna-to-diporto-attiki/",
       "hours": [
-        "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-        "Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-        "Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-        "Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-        "Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-        "Saturday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 7:00 PM",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJW25h6SS9oRQRajkTKiKmQVg/photos/AcnlKN32yqQ8G-5vVa1Yn7eyX3i3Hmlks2nyf1fv1kvr6VAK2iVajp9_L54vENOe5rqAJgcm0Zkpar7i1lV8ARKxOuCqD9FK72TjBKhNLyfiLaE1LddqLLwZWdixNk1JO9bQ2w6xzxHG4bGW49LpNOrT_4dbq0eidRqQg4kKi_83Ut5ijzofrnlNHXyMoNl9ExcLGlxi3k7Zo99ldyNRXy4YhIevVvMJiR58rl7yuvlmn9DhAcvoPy2UZew6TwjKuFe7A9XxoQWVhw48RwwBgpnmW7Ah5Peft5d0AFSHEXEYxs3948P0yhNlNMcc3i5zuFfR3MmCCqjNgZIGVxPbN4sHs24N0a5una5M2nqt4UXkXW-6l3IMwqFJ7_5k-1P7-qpTo3NKLmJwRCrZI_HimMJvqBmo8smkV7FFYa_S2CUMxZQ",
-      "photoAttribution": "Michal Wo\u017aniak",
+      "photoAttribution": "Michal Woźniak",
       "tags": [
         "Budget Friendly",
         "Casual Eats",
-        "Good for Dinner",
         "Good for Lunch",
+        "Good for Dinner",
         "Local Delicacies"
       ]
     },
@@ -2183,10 +2185,10 @@
       "photoRef": "places/ChIJgdm7amKjoRQRtmNc7Bo6TpU/photos/AcnlKN1KRSaeurEByFHo_FQWOMn1oaX5YnwsHIE4HpwA3qXfr6l-ifOrgl2eq34_bc5iiGsKYkpwHhj0Gv9RXxU3uGd43XQjNAuRotU9G0Jl-g4wCI39fWLUV6rE6-pDb0xyFHeVjAx4KrTht1S3r038mdWQ8hXbTSOeDx9nnukizppBTotPNgUd6KB9bUTZRQkpoLPLBifROwaQfhtvmpA9Vri70BXBnOSrAvylJznVmr7bSOGu-eXjblX2vxvhTP6oFamClXfli3C8vuLBheP8NbwH0OXtfQvaOTyancTf6jZCLdUBMk3oo74qYbAeyQtUoagUS0cJ3Aczsnn8BXy7TbBbJXWf27bgmasydxMJC1d2k2PjhIB7fi_MPLQQsNPMKvVCvsUvyWt1kcaTQp2n_QkAhJ_Nu5ZqMgXphucm0AgAeVp6",
       "photoAttribution": "Tomas Nikolson",
       "tags": [
-        "Budget Friendly",
-        "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch"
+        "Good for Lunch",
+        "Local Delicacies",
+        "Casual Eats"
       ]
     },
     {
@@ -2205,10 +2207,11 @@
       "photoRef": "places/ChIJOeN94Fy8oRQROM7nseu5D4g/photos/AcnlKN3OUFBJJacAg23Fn2To9S3WPNaqYnBCZfgdE5zVxFaqk7arTX6yWQgZdKIy4wficig0KE2D4hhLT7mPoklbDMmqdqXkGSH9rymrt88bW3a1ffV5p736xgPTbfzNzLZGtZ3tU7-yR7ZnsR1cc5F2rr5kNZKLKI6HqnTzuYVMLNCtlzjzh263t30seuwtz6_4DT5T1LmzY2OpRrYIxrqzXpc83joyrgQVt6GUOIHQ1e-OD0f5e_axi6xntgk4josXAVzT0f8Cxtkn4gsTpKYl2E34UbMxcWFSyoiG-CedzFD36hoLYWb2KqLb5eHrHvccQ3Z7bLY3cKG4wiTllIOmsw2JIU9wlgbf8NpoAK4SgaBe7bR2e3xXC7rw1ObvUAsFLeLuK1q73NUDXuJBOSWqlBGNYoakMarTfJjZS31P9dqlN9S7",
       "photoAttribution": "Jason Stefanou",
       "tags": [
-        "Good for Dinner",
         "Good for Lunch",
+        "Good for Dinner",
         "Local Delicacies",
-        "Romantic"
+        "Romantic",
+        "Casual Eats"
       ]
     },
     {
@@ -2225,22 +2228,20 @@
       "rating": 4.7,
       "ratingCount": 99,
       "hours": [
-        "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-        "Tuesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-        "Wednesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-        "Thursday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-        "Friday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-        "Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-        "Sunday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 12:00 AM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
       ],
       "photoRef": "places/ChIJWw4DccrP5zsRZ51aiTuuVS4/photos/AcnlKN0x63v1Jxh3uajUeN4-61SHD3TkwElt7zF-0LJQHUXhjEQgr_dWDOqSvNYHe2p5mhA7AY4UUQW2yna45VKXkEJzjsZZ6EGNlsCPGDz0YJOFMYCPkk8MBzLRRTMHaGHQaXfSo0HDM0u7iUpos2G_JXjHrfswAFyuiMw-kmc9NBZBCySsExlQmi6g41lC4Kwm_HyKft6m-MFrVHWvLGPMV7WY4WLlL4yHlfOS2SKRiEdRP4sa-brHAhTicikBDIKtJdcScIQI5sDGM17r1LbcTOfi8376A6sUe9JY50c_sgIxcw",
-      "photoAttribution": "Onomato All Day Diner \u2022 Bistro",
+      "photoAttribution": "Onomato All Day Diner • Bistro",
       "tags": [
         "Cocktails & Bars",
         "Good for Dinner",
-        "Good for Lunch",
         "Local Delicacies",
-        "Nightlife",
         "Photography Worthy"
       ]
     },
@@ -2259,21 +2260,20 @@
       "ratingCount": 432,
       "hours": [
         "Monday: Closed",
-        "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Saturday: 11:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:30 PM",
+        "Sunday: 11:00 AM – 11:00 PM"
       ],
       "photoRef": "places/ChIJCWkYyii9oRQRlUFc5L9AJOE/photos/AcnlKN1LVKLnC08MITRQE6fblOjc3cWEK2f9eQXIgMLZS2sZYmEG5ExGhVgEAawer656hNimK_vjsjfJUe3azcrk3V143-FOn47dkL88Uz462qSdDquysaEQZCUxhPiKeRRheJ1sB1-RhTDTaRt5KVBeOIojkoULQOSgBjnCr8WC0SUq9MyhYHj6sJN_g6qxmIRsaUHAJhiK48ML8lMFZyn4Igx-rGLnV0uADRzYH4DmZXvbPwYCNfd4fqjxBEIC4GkLXwIX9fuWjwip18jMftrZs1h96Om3fq6RhlxlGgWYkAVf9g",
-      "photoAttribution": "I Stoa tou Psiri \u0397 \u03a3\u03c4\u03bf\u03ac \u03c4\u03bf\u03c5 \u03a8\u03c5\u03c1\u03c1\u03ae",
+      "photoAttribution": "I Stoa tou Psiri Η Στοά του Ψυρρή",
       "tags": [
         "Casual Eats",
         "Good for Dinner",
         "Good for Lunch",
-        "Local Delicacies",
-        "Photography Worthy"
+        "Local Delicacies"
       ]
     },
     {
@@ -2291,20 +2291,22 @@
       "ratingCount": 84,
       "website": "https://www.7steaklounge.gr/",
       "hours": [
-        "Monday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Tuesday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Wednesday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Thursday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Friday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Saturday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Sunday: 7:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 11:00 PM",
+        "Thursday: 7:00 AM – 11:00 PM",
+        "Friday: 7:00 AM – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
       ],
       "photoRef": "places/ChIJy63czzfPmRQRgEzO0gx0VJw/photos/AcnlKN0sw9XmUhICScCuZO7Ug2usVTwj9KeYO31xxVxg6VtIuhukyGqlD7myVgNA1X3ZTpmM329s7hVqytjbpCEosJSoH4-8o_WAoJucf2iVgUQ8v5is_KCP8RokIAv7bksnm-9Je-sFR-Tscee3YYhgAwZsBFKVOP34GWcBzq6D6aMi_FrwjNNoAADwp_8L32nDD03l9OUcTdKqWNxd91AGOsnvslLTZEAkAZ_CA6ERrkFHWXCaF-Qo0P06Hptxu6PZGu0zO4uFLuEZklAGB_I73zgsIacfLCGcGaLCL9mPzHymVIDK3iePV_TUj7ada1_L7XJNd-stip4JSX2nQp9V2XWHe-N4ViEWQnrXY9VmZcI_Pb5gYjrCElUau688PHFKJ1TDVCOLr_VP_w6kpELYt6zSTJZEX5J9YgRmlBTnII8",
       "photoAttribution": "Freda Spillecke",
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Romantic",
+        "Splurge"
       ]
     },
     {
@@ -2317,11 +2319,11 @@
       "longDesc": "Traditional taverna in Oia with unforgettable caldera sunset views, homemade Greek dishes, and warm hospitality. Quintessential Santorini evening.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Oia%20Sunset%20Taverna&center=36.46501,25.37801",
       "tags": [
-        "Casual Eats",
+        "Romantic",
         "Good for Dinner",
         "Local Delicacies",
         "Photography Worthy",
-        "Romantic"
+        "Casual Eats"
       ]
     },
     {
@@ -2342,8 +2344,9 @@
       "photoAttribution": "Cavo Bianco",
       "tags": [
         "Good for Dinner",
+        "Romantic",
         "Photography Worthy",
-        "Romantic"
+        "Fine Dining"
       ]
     },
     {
@@ -2361,13 +2364,13 @@
       "ratingCount": 319,
       "priceLevel": "INEXPENSIVE",
       "hours": [
-        "Monday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Tuesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Wednesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Thursday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Friday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Saturday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+        "Monday: 12:00 PM – 12:00 AM",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 12:00 AM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 12:00 AM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: 12:00 PM – 12:00 AM"
       ],
       "photoRef": "places/ChIJdxPpPwRxmBQR8LT5kqlMAd4/photos/AcnlKN2-FFJWcnya7EtHw2tMpKsxPc_h4WKyYpPZlmQTGRKvmUc9BXWD9lBUg77BskVdPqtOGlUobQNinSLHB87jcsnEvGWKknE5bxmORX-9Htj8pIb4P1stgwClycD_Q5Ku5A7_gWaJ0W0gNaNPlEeL8LZFMWyaMV-x57UDydU6VnBSI4kpsuhr8G53HJhwjyALRMIVgqfnp064Yrr5JGeEJXEZtbkpG6vts4-lcjNLLPQZMEaw41yvd-O22jVh_9Xklg6FFvXgbhuICf6CxpuD-BHAs5yLzhDVMTPK_WatZhsOG63-3Jf6RRN6CW1udV8CeMhb8O77XTcH1vwrJ6KxRCCPkpsrgSHxAdFL3qQkO_4a11nlKj-LzqJv2RGliG-R5pQ7OlMVYW3XhUOfCNBM9CXhx-VXCN757PtwllBi2hvwVp0",
       "photoAttribution": "patrizia stefini",
@@ -2395,13 +2398,13 @@
       "ratingCount": 2308,
       "priceLevel": "MODERATE",
       "hours": [
-        "Monday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Tuesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Wednesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Thursday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Friday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Saturday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
-        "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+        "Monday: 12:00 PM – 12:00 AM",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 12:00 AM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 12:00 AM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: 12:00 PM – 12:00 AM"
       ],
       "photoRef": "places/ChIJsbJof9YLmBQR8Vu3RuMrwX0/photos/AcnlKN2GmLeCClotUcvrF0601Q94SL7aogS9l_92XOma8kFgbd0SeEV80FMzp_wZde49CZXtI7AVpt6BSoPAoyEW3DdXUD8z7xRXeZZpnJ72cL_7sIwmL4w3h25NzJ3TUSHjKDvlGjVR7liFrSwGg1HnXOXqWoLqQPeak5VestgjA4GGU0Q9qp8o10vHqhTST_1Oofcz_rqiFRgXiQPEy7O9LQefHjTtz3_XEJdl6IQWIwzeqv34UcpekfVPh2Mq78D167xxzrqMgVfg_CrX9onLEGTob_amnagJW0dmMzwU3sB8pcAIb2U5h7jYwF_XMznPO4j2bxJXdcBXkA3H47SWsCUqA-fUAfAVPEdiJn8f_kK9usyoFCYR5QAG7U0pYKWi-GZRhhmqQ917tij7LDL1mzFT78Mj51diAmLL8FQhJdcthw",
       "photoAttribution": "Dave Cohen",
@@ -2409,8 +2412,7 @@
         "Budget Friendly",
         "Casual Eats",
         "Good for Dinner",
-        "Local Delicacies",
-        "Photography Worthy"
+        "Local Delicacies"
       ]
     },
     {
@@ -2455,27 +2457,26 @@
       "longDesc": "Upscale Cretan restaurant in Elounda with refined techniques applied to local ingredients and sea views. Cretan elegance.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Elounda%20Dining&center=35.2625421,25.7214554",
       "placeId": "ChIJc-muypmDkBQR9Z85yVnyqUg",
-      "address": "\u0391\u039a\u03a4\u0397 \u0392\u03a1\u03a5\u03a4\u039f\u039c\u0391\u03a1\u03a4\u0399\u0394\u039f\u03a3 3, Schisma Elountas 720 53, Greece",
+      "address": "ΑΚΤΗ ΒΡΥΤΟΜΑΡΤΙΔΟΣ 3, Schisma Elountas 720 53, Greece",
       "rating": 4.9,
       "ratingCount": 519,
       "hours": [
-        "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 11:00 PM"
       ],
       "photoRef": "places/ChIJc-muypmDkBQR9Z85yVnyqUg/photos/AcnlKN00U7I3poU2_q-WKjjEFdlDj09ydLEbSu0tRZvsxmDiMDkwRaO18dkkeVNuPiQCmGdHaZWwCVMCrCo2UL65fSNRH1B1asQ3c4JN3pZsey2E9bRDe_sUgNaTnyMKuNEkJV-TsSBw0_kbpvkL863AnDNxUoJtn8YZTohsTIK8z1Bz7h-zoluxxkfYFdfuF0Lvq_plMekNzUF7lfeMkoXypvbq5R_hC2jX34AHAOHSFbDuFVvgMVMbtStJLxWSHIDYsmTAx9t_TMHAOLs8Zr5HSrRoG5yll--BUWP0P62_BxXkW6P797VRzTb7_AIKANM_fARwBsZjazhYTSfrcQYVjc0xSZ_oQLryroZkimVvZ3I7EEdcoek7Z2GfT1NsWp6nckvxq1guo8ic2dZcjylnU3PNpoISG92Jxsx17TReosK7Xv65E-PgPcLSVwLZ5Uj8",
       "photoAttribution": "Johanna L.",
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Good for Lunch",
         "Local Delicacies",
-        "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Photography Worthy"
       ]
     }
   ],
@@ -2487,7 +2488,7 @@
         23.7267166
       ],
       "desc": "Crown of Western civilization, book private family tour",
-      "longDesc": "The crown jewel of Western civilization\u2014the temple of Athena Parthenos crowning Athens' sacred rock. Book a private family tour for context and fewer crowds.",
+      "longDesc": "The crown jewel of Western civilization—the temple of Athena Parthenos crowning Athens' sacred rock. Book a private family tour for context and fewer crowds.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Acropolis%20%26%20Parthenon&center=37.9715285,23.7267166",
       "placeId": "ChIJYe45yhm9oRQRGKJ4uHmgPxs",
       "address": "Athens 105 58, Greece",
@@ -2528,13 +2529,13 @@
       "ratingCount": 79753,
       "website": "https://www.theacropolismuseum.gr/",
       "hours": [
-        "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Saturday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Sunday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 8:00 PM"
       ],
       "photoRef": "places/ChIJ4eRGPxe9oRQRPAoBLGq0D7A/photos/AcnlKN0C-A5D9uNlODQEYUNLdc6srxAQAYiHEqgmP49jhCjPwBhf7mkpcfGkU7ALzDUFAFwb7Rb1HN_8M6qd-bcGA4OaF3grmTvDy4cCzmxzk5Cbmu9EOESEWJ-Uvg4VLkmZJSk5-yFnDgxz2PS5KRf3U0wnrN8zX3C6MjEqgZJcV7JM_qgiHqoHZQVCmxBUQILurld-kq7NNhGzlGUXA7QvCGCH7CLzKk7iQda8axZKeELFjC9EYRiJzxvR4JF7YFqi9DmgHMTKTW2-DDla2TMDQ9_0OgrNzSOuN_vhTix5UD18feovfyRmVlEwIQwg2V7tOW7smraFrwXLMOvQ0K5gupXFKmVjsQPp1rZ2-G-DPtDi2XZBYhNRa3WUyeKK9LWFotohqJvGk4IGXGTvneOeKZB3wqFAwF6W8I6MDKbrh-C5pjGf",
       "photoAttribution": "BlueSky Studios",
@@ -2561,19 +2562,21 @@
       "ratingCount": 56427,
       "website": "http://odysseus.culture.gr/h/2/gh251.jsp?obj_id=716",
       "hours": [
-        "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Saturday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Sunday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJNQ973BZZmhQRQz90AluejNg/photos/AcnlKN12a91GmnlK58xiO29ZEPanJ0AAZRMAniojbaJ4BsAchSzEXMAk1IOFz8-2iTh5kxLybnRI_qkjMp3sZSEHvM4SiduFWQu1Zpd97NQrZTMBx10NWwZJQ5KHj4XFTrImsO5zVckxxdVmZT2a-lZRcnUdgMZnG7hp3YdLxZ96sjC-9CkCJ5vBl5ks4vuOwrdUNL8ksqbWyo5CWyIT5tADX-zhZMJqNM_YKBfvPg4kjkFvzVjUtDbdSyrjV--EBDzM4tRvuHsV9N8sMBUyO7D9tAJFXCTvjPOKdNtTl8s-wFOAQXfG40gj9iS7VaBc22BX2QW53Pm7eCdqPorq_h_FED-phH_0grWqcWcJMRSUoUGt-4mnB14NBhHGe78XjYHKd88BCHZdwpmya-NZje77sieWY18dxEARy6X_jaoOtdiGXMM",
       "photoAttribution": "freddy B",
       "tags": [
-        "Budget Friendly",
-        "Photography Worthy"
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Family Friendly"
       ]
     },
     {
@@ -2590,7 +2593,7 @@
       "rating": 4.7,
       "ratingCount": 443,
       "photoRef": "places/ChIJ36vmITuWohQRC8DNvi8Urb0/photos/AcnlKN1Y-y_wld7bipSuDsATkLflzF3ZMabXibVPr3teF87pXmW1S1U6Y0yKC3cccnSLLwpiDaKAdRe580kyquehtLYdiY2ptMWt654YBwLA8Osqh8yyFXEgtDVwc3gM_9bnxjuqU7GWyNJBCA4Y9PPr29NIDR_1ZdYCQ6U66rwjQyzT_JVIFMUmA9J-uQAtjwXp7DwkvJ8FHBVM67VKcHkyg9jQPGdFcFiXbzrJ-jtK57-boR2luEzTRuCxobyG3yNgzUXZDpn9DO5r6TtIhDCgcXBTj421R3lMr7QxiEzcpfnLQEO__dT3bB4DIj6kzr282GUipIZfORPurtfI18ibtcTKyEcnsALL1QTBXU_W_s3McdB3GtSyh8AOWAzNe5o6q897U4XY5l4OTnEqacJ5mNw4IsTgBTLHsZ8G9FIMSd8",
-      "photoAttribution": "Randolfo Santos \u00b7",
+      "photoAttribution": "Randolfo Santos ·",
       "tags": [
         "Cultural & Historical",
         "Outdoor & Nature",
@@ -2623,9 +2626,10 @@
       "photoRef": "places/ChIJEWPxPsJhlRQR_bpd3aiKclU/photos/AcnlKN1bNYH3OeKWRNE7W7-SmbZ34hEnp1gGdjvKW0A6CiKvGZ_lNeg341bS3mS8P-7WVa9MEOp5xJztnrSyz_wmFy2hNqNXnG2gdSuN7aN3Xpd_uCmgd3vCPeKwoXX3pMp2SpMICNrJuiwIZAwwXpw8ahArSFXI4JIYSqzjVUf4HJnxZnFhdpJkG2F7JEK7z5dILTFsIQebCYccV5zQvTqbBXI3Rhm_febnX31jb1Z2-UcThCHMESgW-8A-ghmM5srhbXdFRlSq5i-TalesJJiMU8vjWnD2KeE4QLebvVzQJbYzJgV_9JnfYj-HzXsgtMsHvdhw3YfOaiBojBlxruNAJXXxYDIhEJgMDAe6v2kc4WN9vGmwqoPBrhGXAjTOsauJBvUCfg9Mbqc9Lv5GHus4Udp1eAvHJtobrlPIzFPdkvcr3g",
       "photoAttribution": "sermondadaz roland",
       "tags": [
-        "Nightlife",
+        "Cultural & Historical",
+        "Photography Worthy",
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Family Friendly"
       ]
     },
     {
@@ -2647,7 +2651,8 @@
       "tags": [
         "Cultural & Historical",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -2664,10 +2669,12 @@
       "rating": 4.9,
       "ratingCount": 50607,
       "photoRef": "places/ChIJOX8y6K4PWRMR_zK82NStJ3E/photos/AcnlKN1saqvO97v3dL4bbsNuAYysVyOE4CKfN3pgKNfpi-p7dEBZu0KxFfC05TTlNvfX_vwARJ-vJbNLHWgJJF-gAbmseIP4AGQXdNQI7cDmwnCw7AE-1AD88tyZyXWg1QsfQT5c8TbixVDC8KrpxJ66YFRVRWP09W9j2IwfFoXJ9WbxJwyPw7PDsYZ9w_AChzHGCyEEXaRCgdVsKHqRzXG5zlj-8-hPNB4MeiJZPesc6N1MADyePRxtN1u-7utuxi8eBz-EC2Wn0VAKle1Ng_5fjeVGBK0hVYL-LLfscjz9BHflAGUBL0eQWp0CH68hpZd_IKin-8zaKuRKRUZTOIxvM0bslY2imL0kobkAO8zqRfPn4SNO-SJPW337owUxsL86VoPfWjx_q5R-KJoGEvrctwX33oA0oGGS7P6yDjIqQlzTGpLL",
-      "photoAttribution": "\u5433\u7f8e\u7389",
+      "photoAttribution": "吳美玉",
       "tags": [
         "Adventure & Active",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -2687,7 +2694,8 @@
       "photoAttribution": "Macy",
       "tags": [
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Adventure & Active"
       ]
     },
     {
@@ -2705,20 +2713,21 @@
       "ratingCount": 1471,
       "website": "https://www.santorini-yachts.com/",
       "hours": [
-        "Monday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Tuesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Saturday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Sunday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJdSDQ8tHNmRQRosSrX11OxI0/photos/AcnlKN2B9ExjWZ3ajaL77ARWk5MidC8fc0Pao_HQUVL7C1zn2xz0WsHWXOGomjJqlBg6RpBHM6ahmG2JMkvHxToUv_BkwifgEAjlLNd6drCdeBdMwmDiSsA1ZdBGULGCKNK9dctJN0-d99Nl9p6NgNyyjVHrV-yYkx8UO95RQ10zkHGib_QCm6ZJq36rFrOzjjHiz-u0AOIcpZfiT6IQOy8tphFE4eY83U3CWIIvwrERIZ2pf5HlNrjDWUGU3k2kLPUziqnH5Bp9jUBwzj3lUPtLjrKRwanQE9yiCTAnhVyF8B_PMw",
       "photoAttribution": "Spiridakos Sailing Cruises",
       "tags": [
         "Outdoor & Nature",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Adventure & Active"
       ]
     },
     {
@@ -2748,7 +2757,8 @@
       "photoAttribution": "Navagio Beach View",
       "tags": [
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Adventure & Active"
       ]
     },
     {
@@ -2789,7 +2799,7 @@
         23.541295899999998
       ],
       "desc": "Pink sand, shallow lagoon, perfect for toddlers, Crete",
-      "longDesc": "Unique pink-sand beach with protected shallow lagoon on Crete\u2014sensory and safe for small children. Natural wonder.",
+      "longDesc": "Unique pink-sand beach with protected shallow lagoon on Crete—sensory and safe for small children. Natural wonder.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Elafonissi%20Beach&center=35.271180099999995,23.541295899999998",
       "placeId": "ChIJv3tWjpHnnBQRG1_wYpI-aCg",
       "address": "Elafonissi Beach, Kissamos 730 01, Greece",
@@ -2809,7 +2819,8 @@
       "tags": [
         "Family Friendly",
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Toddler Friendly"
       ]
     },
     {
@@ -2831,7 +2842,8 @@
       "tags": [
         "Family Friendly",
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Adventure & Active"
       ]
     },
     {
@@ -2850,20 +2862,20 @@
       "website": "http://www.santowines.gr/",
       "hours": [
         "Monday: Closed",
-        "Tuesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Wednesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Thursday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Friday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Saturday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Sunday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJFbhZ3F7OmRQReOlBpwauSzg/photos/AcnlKN25uw1txAzNLBV5GMMeg2uUn8Lm_G7HBU4CG5yebZEbB8_mzpVL8eNZ8id31yZqBIGhWnmABzhUof-8zhvEEek1b9dMNkr7Prek19M-LHyDEok_FsZGu8c0CXXEo-VRiUuVsK2bVrg_ApS5OQgzE0Q-niJuqNuxt7ArDPNVVYzBSocJEaZkEsCFcL1dlSq8YYnAqR53IYeOv3oE8mxv8NCK7IM_EiLmqM0beMZrtgBdKGdy2WWkH2TpcF7zZLtDYGgRatRFBeXTfE-Dm9xoX_wFgaQ64MkTpr1DYqi1W9Ogu9aXIP7VjwVqxpqXc56Oh4Cat7m6R8zSyniOF5PI6ccX6Lcak-DwhTHzGJb0Awuvi5sXOYpBaxAjEK14ByI5vy_cT1YjzO8whixxDJDk4kViA0sQ88NicTfwLh-ni4hymw",
       "photoAttribution": "Helena",
       "tags": [
-        "Nightlife",
-        "Photography Worthy",
         "Romantic",
-        "Shopping"
+        "Photography Worthy",
+        "Shopping",
+        "Cultural & Historical"
       ]
     },
     {
@@ -2873,7 +2885,7 @@
         25.431520300000003
       ],
       "desc": "Restored 1947 winery, cliffside tasting terrace",
-      "longDesc": "Restored 1947 winery carved into a clifftside with a tasting terrace overlooking the caldera\u2014wine, history, and vistas combined. Atmospheric excellence.",
+      "longDesc": "Restored 1947 winery carved into a clifftside with a tasting terrace overlooking the caldera—wine, history, and vistas combined. Atmospheric excellence.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Venetsanos%20Winery&center=36.3823401,25.431520300000003",
       "placeId": "ChIJTy6LeFnOmRQRkX31v9sqMWo",
       "address": "Caldera Megalochori, Santorini Island 847 00, Greece",
@@ -2884,7 +2896,9 @@
       "photoAttribution": "Venetsanos Winery",
       "tags": [
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Cultural & Historical",
+        "Splurge"
       ]
     },
     {
@@ -2902,10 +2916,12 @@
       "ratingCount": 11378,
       "website": "http://odysseus.culture.gr/h/3/eh351.jsp?obj_id=2410",
       "photoRef": "places/ChIJ5xoba2rPmRQR-8qpNnWSnRM/photos/AcnlKN1WCsd1d8o73b-gQuh_j-IflJoZ7ZZSUi54ouHUdMHF_OfwlfYSVYc2N058PURxCQl9xlkJy7R6X8HbG3TAH5RAe9KzRo03szO__nf7O2gbTV-s5uE_r8L5F7Pkn8gZ-dMiggRHDOYWSz0kG8q_1BflNLkuy0KyXMxpdIHvZ3n__W2nJSjnaWpNPQkF5xa2uvaMoR8Mq7Av2zCyvUP4mT_fWFyk5y4F3A7FsApd-FxmvvCAt__r2zfVuVTZ18YxgFnv7z_SqHj9u0zbKwwTj92HIlb6JhTnX4pTdJ-0sEPtIwTVKK20aX3IRlpyJzCyvLqk9heDl1Nl4TZ6Yr_zEQTrxitKgLJwUEkggABXvttbxSanhl_XHXNCEzMnYcmUJHbQLrqsAtr_oW6RHObDW2Dx24g8e7_EN4mCLos4YUAAsbVq",
-      "photoAttribution": "\u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a4\u03c3\u03ac\u03ba\u03b1\u03bb\u03bf\u03c2",
+      "photoAttribution": "Γιάννης Τσάκαλος",
       "tags": [
-        "Art & Design",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Rainy Day"
       ]
     },
     {
@@ -2925,7 +2941,9 @@
       "photoAttribution": "Cesar Adelar Grinke",
       "tags": [
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Rainy Day"
       ]
     },
     {
@@ -2935,7 +2953,7 @@
         23.465345499999998
       ],
       "desc": "Car-free island, donkey rides, 90 min from Piraeus",
-      "longDesc": "Car-free island with donkey rides, harbor-side tavernas, and 90 minutes by ferry from Piraeus\u2014bohemian Mediterranean escape. Slow-paced perfection.",
+      "longDesc": "Car-free island with donkey rides, harbor-side tavernas, and 90 minutes by ferry from Piraeus—bohemian Mediterranean escape. Slow-paced perfection.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Hydra%20Island%20Day%20Trip&center=37.349870599999996,23.465345499999998",
       "placeId": "ChIJv1i9nnF3nxQROWXtlID1Voo",
       "address": "Kolpos Idras, Idra 180 40, Greece",
@@ -2943,19 +2961,22 @@
       "ratingCount": 87,
       "website": "https://www.gnghydracruises.gr/",
       "hours": [
-        "Monday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM, 7:00\u2009\u2013\u20099:00\u202fPM",
-        "Tuesday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM, 7:00\u2009\u2013\u20099:00\u202fPM",
-        "Wednesday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM, 7:00\u2009\u2013\u20099:00\u202fPM",
-        "Thursday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM, 7:00\u2009\u2013\u20099:00\u202fPM",
-        "Friday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM, 7:00\u2009\u2013\u20099:00\u202fPM",
-        "Saturday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM, 7:00\u2009\u2013\u20099:00\u202fPM",
-        "Sunday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM, 7:00\u2009\u2013\u20099:00\u202fPM"
+        "Monday: 11:00 AM – 5:00 PM, 7:00 – 9:00 PM",
+        "Tuesday: 11:00 AM – 5:00 PM, 7:00 – 9:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM, 7:00 – 9:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM, 7:00 – 9:00 PM",
+        "Friday: 11:00 AM – 5:00 PM, 7:00 – 9:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM, 7:00 – 9:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM, 7:00 – 9:00 PM"
       ],
       "photoRef": "places/ChIJv1i9nnF3nxQROWXtlID1Voo/photos/AcnlKN3nP_5AquuXcOeY3rpEO8Cjb-me3GttKm-0ocjojGo832SDQWZRxYfpkdAiLs5Dyeg5bmDcCENXJzcODw52eZYO1Kc9LojT-Rk4ChyXJkH8n_GZEsvUc6hn3qQZfjmlmehTfO3JBE9EhopSqCcAXfCf5TgxCDECF4kkiQBnPR7cXI5QPT6_VejqOknfG91ClWZc1J2zC-IvEPVj974gcZB9LfBCXIYwikE9b-3PRxZKDl4X8o8jgfjFM7tvObFyBSDK6ioOyR9DZmBAsrW1AMSMy6vHnXvts2LBq9ACGZ6eL6u9F-SnutY8v33KqtmZKPgITRZKsTc4ku43UDuC5kGFyScG5PY2uCDl5d2MHPQ7bsN6ud7DlyNMHLF4hhN2o76SQsylS1EH5m7u3Iw2NvaCJEdAAVbwsbMQ0yh5Dyq0SmUvMcoAkqo1jJKZdKzr",
-      "photoAttribution": "\u202b\u05d4\u05d3\u05e1 \u05e4\u05d0\u05dc (\u05d4\u05e0\u05d7\u05d9\u05d9\u05ea \u05d4\u05d5\u05e8\u05d9\u05dd \u05dc\u05d2\u05d9\u05dc \u05d4\u05e8\u05da)\u202c\u200e",
+      "photoAttribution": "‫הדס פאל (הנחיית הורים לגיל הרך)‬‎",
       "tags": [
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Family Friendly",
+        "Romantic",
+        "Cultural & Historical"
       ]
     },
     {
@@ -2968,7 +2989,7 @@
       "longDesc": "Colorful harbor village with photogenic houses climbing the hillside and traditional sponge shops, easily visited from Rhodes. Postcard-pretty.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Symi%20Island%20Day%20Trip&center=36.615613,27.836346",
       "placeId": "ChIJbX2mbt4rvhQRvcUaSy21aaM",
-      "address": "\u0393\u03c5\u03b1\u03bb\u03cc\u03c2, Simi 856 00, Greece",
+      "address": "Γυαλός, Simi 856 00, Greece",
       "rating": 4.9,
       "ratingCount": 341,
       "website": "https://symiexcursions.com/",
@@ -2987,7 +3008,8 @@
         "Adventure & Active",
         "Outdoor & Nature",
         "Photography Worthy",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical"
       ]
     },
     {
@@ -3005,21 +3027,21 @@
       "ratingCount": 88,
       "website": "http://www.cookinathens.com/",
       "hours": [
-        "Monday: 11:00\u202fAM\u2009\u2013\u20096:30\u202fPM",
-        "Tuesday: 11:00\u202fAM\u2009\u2013\u20096:30\u202fPM",
-        "Wednesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
-        "Thursday: 11:00\u202fAM\u2009\u2013\u20096:30\u202fPM",
-        "Friday: 11:00\u202fAM\u2009\u2013\u20096:30\u202fPM",
-        "Saturday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+        "Monday: 11:00 AM – 6:30 PM",
+        "Tuesday: 11:00 AM – 6:30 PM",
+        "Wednesday: 11:00 AM – 2:00 PM",
+        "Thursday: 11:00 AM – 6:30 PM",
+        "Friday: 11:00 AM – 6:30 PM",
+        "Saturday: 11:00 AM – 2:00 PM",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJg5s2N_e9oRQRQ0z1NpN3SzI/photos/AcnlKN0J4XfoC9FUyXusS5Vag9ZoEmxFPU4bZLS8cjpEmCLaU5Kw0SwN0FNTRx6j0Z6V5COYLzttqWrKKXJgTgeJWs_du3q0lT10xQdW2Yi4UGsgqb2JPl5vCYQ3Yi6oteuFUkf5fi0Xt40iyfyInaWXnzZUUNUpIAJoO9fyR3JFvACcKKuXvk6mK2f8YQu_L7fx8n8YlupR55QsgbOabbZCqSYdn39mnPWHRYb_X06I7eWew0Ax4hu9uLPIoXoohTA5s6NG6aoqFuzblNNemoe--Ly41U7Hy4tHkPupGyLrrDmZfw",
       "photoAttribution": "CookinAthens",
       "tags": [
         "Adventure & Active",
-        "Photography Worthy",
-        "Romantic",
-        "Shopping"
+        "Cultural & Historical",
+        "Local Delicacies",
+        "Romantic"
       ]
     },
     {
@@ -3037,20 +3059,21 @@
       "ratingCount": 493,
       "website": "http://www.foodaroundathens.com/",
       "hours": [
-        "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Sunday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJCxFEbDCjoRQRi49DiGSAYKs/photos/AcnlKN39BpiJ3w06vMs02K2xgNPuJ0oDxi4UAA1rw6EOAA5lqCG4Q0CY3LG5hjmQbViVHS88TlLBcuyQp6SK1U7qlGYrucgCIFIoHb2g4h8y94N0nbN3BgiLIHMCTmQInMOVWmG-K1CUlTj0hMytFPZv0h1hw6g6DJHVEwEHz7O-KdHvpnC3HWMsphOWwtlNMDwsuXDEAKD03LpdOkVg91BU_I6nAgVdtg8OKc0eFS7MxSQvj8YoCb5MamuMuCO_XekDRw42OagL9RTc94dUlf55hT0WIU3IIseBDmp0qKvnkYD76Q",
       "photoAttribution": "Food Around Athens",
       "tags": [
         "Family Friendly",
-        "Photography Worthy",
-        "Shopping"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -3060,7 +3083,7 @@
         20.991125999999998
       ],
       "desc": "Loggerhead sea turtles, Laganas Bay, Zakynthos",
-      "longDesc": "Loggerhead sea turtles nesting and hatchling season (June-September) in Laganas Bay, Zakynthos\u2014evening boat tours for ethical wildlife encounters. Conservation and magic.",
+      "longDesc": "Loggerhead sea turtles nesting and hatchling season (June-September) in Laganas Bay, Zakynthos—evening boat tours for ethical wildlife encounters. Conservation and magic.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Turtle%20Spotting&center=37.7163785,20.991125999999998",
       "placeId": "ChIJ7YzK_843ZxMRJfvBKhQmmmA",
       "address": "Zakynthos 291 00, Greece",
@@ -3068,19 +3091,21 @@
       "ratingCount": 206,
       "website": "http://www.marios-cruises.com/",
       "hours": [
-        "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Sunday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJ7YzK_843ZxMRJfvBKhQmmmA/photos/AcnlKN1Vli9mzDyZdCK0RQ6ck_InYORTWOsuRA9yn7xYaIqoFoeVV9Fv1x8nSyaOTwdEqsclni6L0AH4_jlK4RO66aVeqajjFnDannkTFllJ4GjuzSLKUUsgyXUhbo509KgI5NChmIQUMtYFcYdKaqr7sPEa1ClgwmdvOQTiEsZnRRbv2kOVPst5pk_U7634OqXuZP-A9HwVaSR5KQqAiX_qcXxRh8exrM1h194OiADpndHJMfHB0k4ncQz5k54fuu-32mUZzvFugaBYIBfzNf-TICuoIM_mj3trSBg0rVBBl48rbV0XP_zVmRKA6DlAEqVF-goqkcuzfyx3RijSJdgz7xWqYjF58Qgub9-mPu0aGr9rUuRZHKZvPPM5fPIVKdMx0AWaDtYILCRrwC-tdb0dLhr6FLFjKIp2DxtSR6sfBgy95A",
       "photoAttribution": "Rares Gherasim",
       "tags": [
-        "Budget Friendly",
-        "Photography Worthy"
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Family Friendly"
       ]
     },
     {
@@ -3100,7 +3125,9 @@
       "photoRef": "places/ChIJFdfmjm8PoBQRCu4yJ0PA5tw/photos/AcnlKN35q5YjkfyVZG-vlfX5lWjcfGhbrd9ObEdLK3Q7yUGIZg9N7pCDhLSn9WDJNTbFk1bjFLtCAWihiRa8DW5M0Im_lLleNU86s5_4HcFQfO8aqqbNxJ0bgAoWClDwavQ8UtP5nPTvJnCQJpD0o0docfv25eJfPO2Oq0yBpC3fr1KUnnzNxi1zTu_aO8ugAvui8SOukWcdFVhNRjJp28NEh_2PGa9lY5c3J9xaWPXrn8K2tYVfVLYaFvegrOrLQJn25b0W9zlwln-sIqBV-q3886gmeywztRCjf9VaHyZ-GMy6pg",
       "photoAttribution": "OLEOSOPHIA Olive Garden & Olive Oil Tastings",
       "tags": [
-        "Budget Friendly",
+        "Outdoor & Nature",
+        "Cultural & Historical",
+        "Local Delicacies",
         "Photography Worthy"
       ]
     },
@@ -3141,19 +3168,20 @@
       "ratingCount": 15507,
       "website": "https://delphi.culture.gr/",
       "hours": [
-        "Monday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Tuesday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Wednesday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Thursday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Friday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Saturday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Sunday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM"
+        "Monday: 8:30 AM – 3:30 PM",
+        "Tuesday: 8:30 AM – 3:30 PM",
+        "Wednesday: 8:30 AM – 3:30 PM",
+        "Thursday: 8:30 AM – 3:30 PM",
+        "Friday: 8:30 AM – 3:30 PM",
+        "Saturday: 8:30 AM – 3:30 PM",
+        "Sunday: 8:30 AM – 3:30 PM"
       ],
       "photoRef": "places/ChIJM-VvqXp5XxMRfkUS-0S-AGs/photos/AcnlKN2hrjlvfPN1wDjjBUj9HuHT0sdrs4CcJ6BgJWXNjMyncwbrzZqBuZDt-YCIIRYzKfe0_1yV-pH-fM02SfLbnCQx_5XlpL2e5ccpnq8cnQkUAAcFGA1l1WhKD0DibqVhRrA2P7jbYwQztL1b_UDLNFDk9Rj5Mx_Yr5PlI4AY2GB2LcBaZDWVc_IiFm4c7dT6PNkcmlMutzPLmgHiUIVFasDjzog_FhzL0s1DBkJx-BU_rbINlP7XvEUB1qyuPCBt3bqIFGt7d0MLKqmm-t1ogIEr4O6OYQ04BEPZKi81U5yDJAmJvtQOhyx3Gi_izR-PRflhlnUjEYMi0rx-9iV2JWa5GpsPmRyqDxQLpapkJ7kb9p9PxLNu-xL1-hMaRFbgBff87dBxG16rLSipMTMUhslt2axGFHaH2rH2XZoqCDVhlNdb",
       "photoAttribution": "Killian",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -3171,13 +3199,13 @@
       "ratingCount": 36590,
       "website": "https://www.namuseum.gr/",
       "hours": [
-        "Monday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Tuesday: 1:00\u2009\u2013\u20098:00\u202fPM",
-        "Wednesday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Thursday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Friday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Saturday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Sunday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM"
+        "Monday: 8:30 AM – 3:30 PM",
+        "Tuesday: 1:00 – 8:00 PM",
+        "Wednesday: 8:30 AM – 3:30 PM",
+        "Thursday: 8:30 AM – 3:30 PM",
+        "Friday: 8:30 AM – 3:30 PM",
+        "Saturday: 8:30 AM – 3:30 PM",
+        "Sunday: 8:30 AM – 3:30 PM"
       ],
       "photoRef": "places/ChIJi_3FvzO9oRQRtILLqjSdogI/photos/AcnlKN3lZLx8lm_rGYsmQc_cD8GtQyPt5Ok0GT6CeXjVugmH_X3P0t0xPS06oVHwiW-RT_zWL-QyHDj-x7vAuY16pdmlK3Hifomqa_wKLvHlQqvubq1GviznA1mpilE4hp2pBbrOskQDhfd-HM9yQsImEmPCM2cb3vbCgMHvYGXKW_z4lrKEos-64uFV88B-zudJMN-reSaI5qYBPJBI1fGtbKAMRGSxqyHzEcjhKAcN8D4XlawuSfYPBJBpke49rbQPxAnF0RbItuGFj_MwAy9uUtr8IPpDSegh12CP-sgvM8rBOrb7s_tNbrc51ZzO8CbeGNFcBetvclTvpg41DpTf_y2SrOlF22ZS_aQ6zPI9HgoFaNsalOHUID26cuFqinbgNTQNzNesJPKa8ksY4vr9hoz6gEX35tQy_fbakp5agJeCDUk",
       "photoAttribution": "mpampis antoniadis",
@@ -3185,8 +3213,7 @@
         "Art & Design",
         "Cultural & Historical",
         "Photography Worthy",
-        "Rainy Day",
-        "Wellness & Spa"
+        "Rainy Day"
       ]
     },
     {
@@ -3204,20 +3231,19 @@
       "ratingCount": 7512,
       "website": "https://www.benaki.org/",
       "hours": [
-        "Monday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Monday: 10:00 AM – 6:00 PM",
         "Tuesday: Closed",
-        "Wednesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Thursday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
-        "Friday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Saturday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Sunday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 11:30 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 4:00 PM"
       ],
       "photoRef": "places/ChIJdV48s0C9oRQRcDJK4TBpks8/photos/AcnlKN3GVtMXfdIGJqhpyPg0ledxrcd4AVrWKj0w1og6ICCUWjfmDDhH2xltVLIcz7Y4mlsGMLV2u1aq-iVZqz8QFRbsQJZuew0AnoHX0rDL4k3hGsT-e5lLdvtaF0rXYUvysBNCjAVlHDLs0L7M0WCN_fr0fsVZf2_Zpc4RgiblQUSgg2Q9bvZTr9tzhzwx6fcJdkR3iPVvifHLM-vk7NxiilMEQxqujOpWRw_SfOGcScVhPuR4oIv_cxAvgMZq_c5oGPJPqo86NViMM3deX-c9TzClMiiVkmgSjEpqBTQGLgNBedYKPWRq84gH01Pq4vhDRjiQw0heHiYFgC9kg00xGBu_4M3tzzlsbDc35efpWFD2eX3JK8PUJlhLVug2LtPbDhNE3aSpNkHJdJC6PYmFCYhn4OPTrvTTOyCqU3x26eGgWQ",
       "photoAttribution": "Fang Ho",
       "tags": [
         "Art & Design",
         "Cultural & Historical",
-        "Photography Worthy",
         "Rainy Day"
       ]
     },
@@ -3239,7 +3265,8 @@
       "photoAttribution": "Cycladic Arts",
       "tags": [
         "Art & Design",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Cultural & Historical"
       ]
     },
     {
@@ -3268,7 +3295,9 @@
       "photoAttribution": "Marios P",
       "tags": [
         "Budget Friendly",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -3286,7 +3315,10 @@
       "photoAttribution": "Thibaut Brd",
       "tags": [
         "Outdoor & Nature",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Romantic",
+        "Family Friendly"
       ]
     },
     {
@@ -3317,7 +3349,8 @@
       "tags": [
         "Art & Design",
         "Cultural & Historical",
-        "Shopping"
+        "Photography Worthy",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -3335,19 +3368,21 @@
       "ratingCount": 1419,
       "website": "http://www.ionian-cruises.com/",
       "hours": [
-        "Monday: 7:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Tuesday: 7:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Wednesday: 7:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Thursday: 7:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Friday: 7:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Saturday: 7:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Sunday: 7:30\u202fAM\u2009\u2013\u20093:00\u202fPM"
+        "Monday: 7:30 AM – 9:00 PM",
+        "Tuesday: 7:30 AM – 9:00 PM",
+        "Wednesday: 7:30 AM – 9:00 PM",
+        "Thursday: 7:30 AM – 9:00 PM",
+        "Friday: 7:30 AM – 9:00 PM",
+        "Saturday: 7:30 AM – 3:00 PM",
+        "Sunday: 7:30 AM – 3:00 PM"
       ],
       "photoRef": "places/ChIJg6j2pNFdWxMRDy1z5HVDEos/photos/AcnlKN0x_qXYIR3j6H8Gnkxo2wKog_iHrr1xUj72hjftSBqS1KvJluzKFQ-8ARXWtMr3EPFQRasjHZOb015kium9cPUchQK7H7LVF0gcHf_HSzl_8AMmRf_kpicAjRDf7EC8_E6meXNShjR5PThdndHqWdeS97EexlkJ8ZvIHtwTOE3XtcOY0UoMMh0ieUyIeiUUGiPcqhWsIVx2HS7sHmWwg58HJlGc-g34UbikPeB7wSPhsni4Z7rFYMAPpPd4mlYOXj5-qdYHTrbaQxzofXzYV0jrf7e1ZDykgHhlaEtM669v7A",
       "photoAttribution": "Ionian Cruises | Corfu Daily Cruises to Paxos, Sivota, Parga & Albania",
       "tags": [
         "Adventure & Active",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Cultural & Historical"
       ]
     },
     {
@@ -3365,18 +3400,19 @@
       "ratingCount": 75,
       "website": "http://www.aegeansailingschool.com/",
       "hours": [
-        "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
-        "Sunday: 2:30\u2009\u2013\u20097:00\u202fPM"
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 12:00 PM",
+        "Sunday: 2:30 – 7:00 PM"
       ],
       "photoRef": "places/ChIJFRkRCnjNoRQRBXGfb7rbwuQ/photos/AcnlKN3hU2LxMQT-W1Ju3WZpRmrG4K5RK7O-fC3VaNGC2sF4QC0JpEFI19mSGCsHu4-g3CHYCCM0nbWapjnrZGgCEOgHpBXW1hTlXzeyhUzZHSHxahmej2JqhvNEYscq6J6fUVmgpPo_UiGYD1843wFO50_GjXG-O98dQ32cd7yf_--OpoLGwvjz4WZac1HjPDBe6WAbGN9rDjcemzZl3Tbv8wVOoL1CoJyHQ-_pmO0gVrrCcNlkS9Rydo0HFTeSs9WL_HcV2MjxDfCrWlv3BFxulfHCWaaCZnVYvKbWgq5FadxK0bwoZDf3Kj4qUYT_EuvXk9iHD_cu5xuCwHsr9eQa2A4km7iJTDskXO-gCoZz4T43ccZts_AoBPrVPRf2m1msyVK88brmMlat4tOM7B13EuPAUXaxsqhBU_ScCXurnec",
       "photoAttribution": "Pieter Ver Heyen",
       "tags": [
         "Outdoor & Nature",
+        "Adventure & Active",
         "Photography Worthy"
       ]
     },
@@ -3395,17 +3431,18 @@
       "ratingCount": 175,
       "website": "https://www.calderadiving.com/",
       "hours": [
-        "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Saturday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Sunday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
       ],
       "photoRef": "places/ChIJ8W4Shv3PmRQRP9LRb3bGPQ0/photos/AcnlKN3WnhbmXuIgrzD8oxfHJRb_9UTCwXe5C-Vjnye9bGj6UMXnB2oO2WbzkIhddLt9JnazoIHa65YSEHyT3eQFEFInzfbJ4BWtihRHrR0yM1Lu5LGye3Eq3rSxCmReKLibsYeLSxBrqOJWgOvlXEceG71HnLL1vy1iabQdFiLIZFrBiHbbKyv7iJb3c8EuXynK_pQBV3YXFqhFb9wJzAYiWFfxxHHmGcstjbwACvFlq9svKAnDBL7XHUiFXebYwiOtz6aDwNxByitVl40BpJ0DvfwP_nwKmoiE2eOxk1qoWKhNzw",
       "photoAttribution": "CALDERA DIVING SANTORINI",
       "tags": [
+        "Adventure & Active",
         "Cultural & Historical",
         "Outdoor & Nature",
         "Photography Worthy"
@@ -3426,19 +3463,21 @@
       "ratingCount": 65,
       "website": "https://www.watersportsmykonos.com/",
       "hours": [
-        "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Sunday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
       ],
       "photoRef": "places/ChIJT636Qxq5ohQRrhGE6Msl0Y0/photos/AcnlKN3fo-bovICEFYoVQR3u3LmMcYFHMfqrk1PwnRWCFZ6KFQjAxw4K0SF95JGJLSigWsI3FaFDz-Vkd7SJE0USlAvYfp4sh6PVb9PNWyS4QFjYBGsSQE7j1sIUooHoTiJs8qofEudMvupVKw1heZfdsRU1wkAlNm0Q_vHFY5f3oLVL4Il2t15XuKPrirqN6aDJ8RhL1BYrsaWHhFzrkdIH5m3c5WGf1IpvvFL89ytdyJbo2PVswieB_hPe2MchlZj_8EH5JELPjPVf-dkuwLv-wDvItroUnUVxJJZHjBhBJHp9eTe0kBW-aoVzrZLxRhMQRq4VWlvb8tZfUlfhXPUNnnBYImyyWL8s7vbMGOPWONKRFq7lCVfGG3yfuWJaNSFSXUBeO4czwKdAWlGnKVG821SGJIgy3s9q04vfnsoX2fg",
-      "photoAttribution": "\u039a\u03c9\u03bd\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u0392\u03b1\u03bb\u03ba\u03b1\u03bd\u03ac\u03c2",
+      "photoAttribution": "Κωνταντίνος Βαλκανάς",
       "tags": [
-        "Budget Friendly",
-        "Photography Worthy"
+        "Adventure & Active",
+        "Romantic",
+        "Photography Worthy",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -3452,7 +3491,9 @@
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Island%20Foraging%20Tour&center=37.008,25.354",
       "tags": [
         "Adventure & Active",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Cultural & Historical",
+        "Local Delicacies"
       ]
     },
     {
@@ -3470,13 +3511,13 @@
       "ratingCount": 4822,
       "website": "http://www.byzantinemuseum.gr/",
       "hours": [
-        "Monday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+        "Monday: 8:30 AM – 3:30 PM",
         "Tuesday: Closed",
-        "Wednesday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Thursday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Friday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Saturday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Sunday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM"
+        "Wednesday: 8:30 AM – 3:30 PM",
+        "Thursday: 8:30 AM – 3:30 PM",
+        "Friday: 8:30 AM – 3:30 PM",
+        "Saturday: 8:30 AM – 3:30 PM",
+        "Sunday: 8:30 AM – 3:30 PM"
       ],
       "photoRef": "places/ChIJES0SOUG9oRQRPJMyejC41c8/photos/AcnlKN3haJvkPGE3if-wxXjAUT2EAjqpChBNO-2ya6r5BN_OrTEsOsdTR38MnJmrmqqmufhYqFiNAT882_ZgNbWgmXN1wrnsYpoyLPdDcsGxkxqWoicDWwy4I9qrVTB9HnK9JO90YGbSgP-FoJgcwT7qNcPt9LWSl-juo8JxhHAUj_HK9Ic4AXCrOT3vSHc5R1lWTRn0JBUCAiB64VrPYO4wkEZBRKqpg21awh-qYTRNepCjIQVo9fcqRW8COjNy3tLrA0EVx-UVQatZcbMLN7VdcHyaE05jiFSXJi4saVTEjj9yExiwVTmO_DA_Dx0B0eQechP79L7kyGDSHDpFC8DS_yWQpTg5Ua7hgXiju2aTfrskT76R8vI8ATCY5qwWIYShbpv6G_9I-4NjcR9BDEIdjwwaoBVkk5bGCcC5CkzDHVE",
       "photoAttribution": "Theresa Giakoumatou",
@@ -3484,8 +3525,7 @@
         "Art & Design",
         "Cultural & Historical",
         "Photography Worthy",
-        "Rainy Day",
-        "Wellness & Spa"
+        "Rainy Day"
       ]
     },
     {
@@ -3503,16 +3543,16 @@
       "ratingCount": 3804,
       "website": "http://warmuseum.gr/",
       "hours": [
-        "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-        "Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJLZBWAkS9oRQRIwHyd0_ypDg/photos/AcnlKN29MRObUYy4gkdWlCMaAeEPxzLO8O_aUIpv9agLrBprgMtqf2-yuk90GTVCDb9UNM3C6CyHwPQ6-BVnh-jF2xHrSlEosVO1zd-VivkDbTtzkwkw9MygRIjFUu6c5jk8nanBCsGs2WkRXaSzmmZV8_C5PXWUeovDlR_Ea0zaB3-WodVlsiPJQGjrU5jqVWN41VXK3B4y3xjZFijUuAL_CA6XBIjTk_iCWktMZJCENLhDV8yXV-bvq1tyutReBYgLxIC_pBlBAvJ9lAlTBNXZHJihKO1BD2HhAS7FbbN9ZeHS2Q",
-      "photoAttribution": "\u03a0\u03bf\u03bb\u03b5\u03bc\u03b9\u03ba\u03cc \u039c\u03bf\u03c5\u03c3\u03b5\u03af\u03bf \u0391\u03b8\u03b7\u03bd\u03ce\u03bd",
+      "photoAttribution": "Πολεμικό Μουσείο Αθηνών",
       "tags": [
         "Cultural & Historical",
         "Photography Worthy",
@@ -3536,18 +3576,19 @@
       "ratingCount": 27378,
       "website": "https://www.cretaquarium.gr/",
       "hours": [
-        "Monday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
-        "Tuesday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
-        "Wednesday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
-        "Thursday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
-        "Friday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
-        "Saturday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
-        "Sunday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM"
+        "Monday: 9:30 AM – 4:00 PM",
+        "Tuesday: 9:30 AM – 4:00 PM",
+        "Wednesday: 9:30 AM – 4:00 PM",
+        "Thursday: 9:30 AM – 4:00 PM",
+        "Friday: 9:30 AM – 4:00 PM",
+        "Saturday: 9:30 AM – 4:00 PM",
+        "Sunday: 9:30 AM – 4:00 PM"
       ],
       "photoRef": "places/ChIJuZbjvIddmhQRD3FAFu3aMWw/photos/AcnlKN15efe-NKv8EEJyv4xpcTUHbdNaRhISUeJTCj3J5IoCYpnoUl2ugJcBzMfvbDbYfGX4XO6Fm_l7DM5OhRxmYqWhg5DI2WrOk2PjEaDLcVxLV_EWBO-Kr_WftwoIKrgwfRKWBgmr1UGllGKIsApdRvj0xv55YP3DRPtRF3X9drYB9eOJRbYyNfs7pvO278_2SwA2aQjVb4fyBoTX9ZiD2F9S9McJ6F8kevdkoE60DLEGk71Alb74Dr-dnZcD3kSnXDaxnBv6rnQuK2Yf8WWjuoMS_zU2VxJdqFoA6tg6iyudcw",
       "photoAttribution": "CRETAquarium Thalassokosmos",
       "tags": [
         "Family Friendly",
+        "Toddler Friendly",
         "Photography Worthy",
         "Rainy Day"
       ]
@@ -3567,20 +3608,21 @@
       "ratingCount": 28854,
       "website": "https://www.atticapark.com/",
       "hours": [
-        "Monday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
-        "Tuesday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
-        "Wednesday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
-        "Thursday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
-        "Friday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
-        "Saturday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
-        "Sunday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM"
+        "Monday: 9:00 AM – 4:30 PM",
+        "Tuesday: 9:00 AM – 4:30 PM",
+        "Wednesday: 9:00 AM – 4:30 PM",
+        "Thursday: 9:00 AM – 4:30 PM",
+        "Friday: 9:00 AM – 4:30 PM",
+        "Saturday: 9:00 AM – 4:30 PM",
+        "Sunday: 9:00 AM – 4:30 PM"
       ],
       "photoRef": "places/ChIJ3fMLn_aaoRQRYw5jA5ltkMA/photos/AcnlKN0PQsw1oy3JnKckUjwK-TmCYDzkIRM12awCOz-gxP9HCqvhWuloNh_cKfD_t9YEX24zwt-stCrh66C27xK5MW4H1WOVCNEpqIjvd42kcy1JECX4wTR5VSvzF7pRc0fVJOyYFUhiYaT3GlaIiZMo8zvT1Kcgy5wxYPReaIubX2445TXOnw3ak8B0_2bzWWwXEJlrZRgs2hpw2X3MoLInf-PA2XQbeit5pxq9hvZcKeOzFf7Nm3lX-iQ0Cxs3Wt95Ie4FBaE-Qi8gT2E3KH10TPP0er-LUvtMH9e_WMwZwnHQsA",
-      "photoAttribution": "\u0391\u03c4\u03c4\u03b9\u03ba\u03cc \u0396\u03c9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03cc \u03a0\u03ac\u03c1\u03ba\u03bf",
+      "photoAttribution": "Αττικό Ζωολογικό Πάρκο",
       "tags": [
         "Family Friendly",
-        "Photography Worthy",
-        "Rainy Day"
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy"
       ]
     },
     {
@@ -3593,7 +3635,7 @@
       "longDesc": "Amusement park with rides for all ages plus Kidom interactive play area specifically designed for young children in central Athens. Classic fun.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Allou%21%20Fun%20Park&center=37.973399,23.672836999999998",
       "placeId": "ChIJkyqJcoO8oRQRdr8uEymL2Gs",
-      "address": "\u039b\u03b5\u03c9\u03c6. \u039a\u03b7\u03c6\u03b9\u03c3\u03bf\u03cd, Petrou Ralli \u03ba\u03b1\u03b9, Ag. Ioannis Rentis 182 33, Greece",
+      "address": "Λεωφ. Κηφισού, Petrou Ralli και, Ag. Ioannis Rentis 182 33, Greece",
       "rating": 4.1,
       "ratingCount": 21341,
       "website": "https://www.allou.gr/",
@@ -3601,7 +3643,8 @@
       "photoAttribution": "Allou! Fun Park",
       "tags": [
         "Family Friendly",
-        "Photography Worthy"
+        "Adventure & Active",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -3618,19 +3661,21 @@
       "rating": 4.4,
       "ratingCount": 58,
       "hours": [
-        "Monday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-        "Tuesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-        "Wednesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-        "Thursday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-        "Friday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-        "Saturday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-        "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+        "Monday: 11:00 AM – 7:00 PM",
+        "Tuesday: 11:00 AM – 7:00 PM",
+        "Wednesday: 11:00 AM – 7:00 PM",
+        "Thursday: 11:00 AM – 7:00 PM",
+        "Friday: 11:00 AM – 7:00 PM",
+        "Saturday: 11:00 AM – 7:00 PM",
+        "Sunday: 11:00 AM – 7:00 PM"
       ],
       "photoRef": "places/ChIJqVU07CpnlRQRCCh3hdapJP4/photos/AcnlKN3H6Bu-Knz66GlQ30Iw9KOU1pE5ww3Cqm9Ei6bIdprwSeeZ9_RAv4buXr8AXp9lohMChnih1e8snNXzRhr2-32RmBaOFKeeZ-c9TIbg_9lzuFMAmP7adI8VRP3os6t9qeh7Hn1E3742ao61WWGS90p7CP_zj9qavyDEKTLPIEr48buORj9g6rncVdc70_IrAQVlNRuCSK66uejO2tVBds8TNOtO9VxoCreoW6JFYqLGqUWbIzbrs51iv8sHv6qLYLxoEwkVRGEbM6a4-al4B54XNZ9zyCxfCFiKskBTY2neEPFIOBydFdSiBTuoSzc0PUpRIR-YTOrTyFITbzWhqXzcMhlz6gCwQFaXYA0aaFBKPzEZ-hWZJPWDHWlm404gq3CfcSKSYzB7pM7seQ8tXsJ2KUFD7jfsGPJA2BNZu2-aah1HGd__z1xpWF4PW3rX",
       "photoAttribution": "Julian Kay",
       "tags": [
         "Family Friendly",
-        "Photography Worthy"
+        "Toddler Friendly",
+        "Adventure & Active",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -3643,7 +3688,7 @@
       "longDesc": "Crete water park with multiple slides, splash zones, and dedicated toddler areas for safe summer cooling-off. Smaller and more manageable than megaparks.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Water%20City&center=35.3105903,25.2515",
       "placeId": "ChIJPeemANldmhQRO4DlpghjrVI",
-      "address": "Anopolis, \u0397\u03c1\u03ac\u03ba\u03bb\u03b5\u03b9\u03bf 700 08, Greece",
+      "address": "Anopolis, Ηράκλειο 700 08, Greece",
       "rating": 4.4,
       "ratingCount": 7115,
       "website": "https://www.watercity.gr/?utm_source=Google&utm_medium=MyBusiness&utm_campaign=location",
@@ -3651,7 +3696,9 @@
       "photoAttribution": "Watercity Waterpark Crete",
       "tags": [
         "Family Friendly",
-        "Toddler Friendly"
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active"
       ]
     },
     {
@@ -3673,15 +3720,15 @@
         "Tuesday: Closed",
         "Wednesday: Closed",
         "Thursday: Closed",
-        "Friday: 5:00\u2009\u2013\u20098:00\u202fPM",
-        "Saturday: 11:00\u202fAM\u2009\u2013\u200912:45\u202fPM, 1:15\u2009\u2013\u20093:00\u202fPM",
-        "Sunday: 11:00\u202fAM\u2009\u2013\u200912:45\u202fPM, 1:15\u2009\u2013\u20093:00\u202fPM"
+        "Friday: 5:00 – 8:00 PM",
+        "Saturday: 11:00 AM – 12:45 PM, 1:15 – 3:00 PM",
+        "Sunday: 11:00 AM – 12:45 PM, 1:15 – 3:00 PM"
       ],
       "photoRef": "places/ChIJV3-IVUC9oRQRfnqlPJZxY5o/photos/AcnlKN3ckszxVRzCXJ6ELvmmSD1z057a9_shdmNbH0w4r8iAbulHBAU0ryDuzAkYVMhBxMuxwgl9llfFdUQA2T2QJPam0c27Qg2SJIXowV4RxfgrSipMyp8EbC39pH5gHYRH2TDaE0eqzkPEvKpQ_y8g3xi_1N6FWdx3-68k78wNV6j_qObruCSG4pr--vxsKPCltlK01VBTKuo6o7L0HOhuuXcrpwHs-QPxVYsdiDDieJNncpjem802RfzBfapV7vlhTaG18PIaI1Abef_7kP2JNpsxbhuLQ6BjY0fl2QJtbaT8tiMenwpeksxj98i0ALmn2tE7aVO8uLPKXrem3V0yLpj26iUz19KE6EsLTJ9g5X9theRzimNitdbLCbg8uaTmZ09nmFN7DUsnOI720_0S3tVSqGpyPv2bLAPNU0lvHic",
       "photoAttribution": "Christina Ploumi",
       "tags": [
         "Family Friendly",
-        "Photography Worthy",
+        "Toddler Friendly",
         "Rainy Day"
       ]
     },
@@ -3692,7 +3739,7 @@
         23.737433
       ],
       "desc": "Duck ponds, mini zoo, playground, shaded, Athens",
-      "longDesc": "Botanical oasis in downtown Athens with duck ponds, mini zoo, playground, and shaded walkways\u2014perfect for young kids needing green space. Urban escape.",
+      "longDesc": "Botanical oasis in downtown Athens with duck ponds, mini zoo, playground, and shaded walkways—perfect for young kids needing green space. Urban escape.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Garden&center=37.9725878,23.737433",
       "placeId": "ChIJDSQ1vT-9oRQRnAtzDrZWPIw",
       "address": "Athens 105 57, Greece",
@@ -3703,8 +3750,8 @@
       "photoAttribution": "Itai Makmal",
       "tags": [
         "Family Friendly",
-        "Photography Worthy",
-        "Rainy Day"
+        "Outdoor & Nature",
+        "Photography Worthy"
       ]
     },
     {
@@ -3714,7 +3761,7 @@
         23.6891212
       ],
       "desc": "Modern playground, trampolines, seaside, Athens",
-      "longDesc": "Modern waterfront playground with trampolines, slides, and seaside location in Athens\u2014a contemporary facilities favorite. Aegean backyard.",
+      "longDesc": "Modern waterfront playground with trampolines, slides, and seaside location in Athens—a contemporary facilities favorite. Aegean backyard.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Flisvos%20Marina%20Playground&center=37.926758899999996,23.6891212",
       "placeId": "ChIJYQMHKx-8oRQRu39Ib8zKUD8",
       "address": "Palaio Faliro 175 61, Greece",
@@ -3734,6 +3781,8 @@
       "photoAttribution": "Marcel van Poeijer",
       "tags": [
         "Family Friendly",
+        "Toddler Friendly",
+        "Outdoor & Nature",
         "Photography Worthy"
       ]
     },
@@ -3744,7 +3793,7 @@
         25.3748659
       ],
       "desc": "Best toddler beach, calm shallow water, Naxos",
-      "longDesc": "Best toddler beach on Naxos with calm, shallow water and soft sand\u2014a rarity in Greece. Safety and sunshine.",
+      "longDesc": "Best toddler beach on Naxos with calm, shallow water and soft sand—a rarity in Greece. Safety and sunshine.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Agios%20Georgios%20Beach&center=37.0992715,25.3748659",
       "placeId": "ChIJobq0ZNcLmBQRcVqZKL4s2Yw",
       "address": "Agios Georgios Beach, Naxos, Greece",
@@ -3763,7 +3812,9 @@
       "photoAttribution": "Ash Patel",
       "tags": [
         "Family Friendly",
-        "Toddler Friendly"
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy"
       ]
     },
     {
@@ -3792,7 +3843,9 @@
       "photoAttribution": "vasilis Ale",
       "tags": [
         "Family Friendly",
-        "Photography Worthy"
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Toddler Friendly"
       ]
     },
     {
@@ -3802,7 +3855,7 @@
         23.541295899999998
       ],
       "desc": "Pink sand, shallow lagoon, nature reserve, Crete",
-      "longDesc": "Unique pink-sand beach with protected shallow lagoon on Crete\u2014sensory and safe for small children. Natural wonder.",
+      "longDesc": "Unique pink-sand beach with protected shallow lagoon on Crete—sensory and safe for small children. Natural wonder.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Elafonissi%20Beach&center=35.271180099999995,23.541295899999998",
       "placeId": "ChIJv3tWjpHnnBQRG1_wYpI-aCg",
       "address": "Elafonissi Beach, Kissamos 730 01, Greece",
@@ -3821,7 +3874,9 @@
       "photoAttribution": "Bianca Schmitt",
       "tags": [
         "Family Friendly",
-        "Photography Worthy"
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Toddler Friendly"
       ]
     },
     {
@@ -3831,17 +3886,18 @@
         28.088309
       ],
       "desc": "Sheltered cove, clear water, Lindos, Rhodes",
-      "longDesc": "Sheltered cove beach near Lindos, Rhodes with calm clear waters protected from waves\u2014a peaceful family swimming spot. Hidden gem.",
+      "longDesc": "Sheltered cove beach near Lindos, Rhodes with calm clear waters protected from waves—a peaceful family swimming spot. Hidden gem.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Paul%20Beach&center=36.0871048,28.088309",
       "placeId": "ChIJEceQNnMOlRQRR906nK1LEkk",
       "address": "St Paul's Bay, Greece",
       "rating": 4.4,
       "ratingCount": 678,
       "photoRef": "places/ChIJEceQNnMOlRQRR906nK1LEkk/photos/AcnlKN3lhuAVWO_nK5IOmGJics6VPG8qYs4s8bb4OEFdMk9R9qLCq9VHGLkyOr_EIbt2gYfSoIy2jx-zTq-tfqodaQW2_lCxte1-fFomzuyXm6nBOKA18gqGkSFjaBlE-SyMqg18QE8yiDN3x3gPFKrA-37lYNjE08O71VdetTaj6NRxmdtPwL-puwhPOYxrzjP4BSt3JEPFE-JsbhSaaX6w2J2UlPIGOL5-LhnziHcpgu4WwvMKYq63r2MKtpC3je605MqbedIA-uAZ8_CMkf81UOqYK7VCJa4Xqh1HBtBKvC8YhSDfs_5a4qA3KwOTcJUCHqQkGO1p3Jekv-aiMR62fxk0UKSawzaEnvgi7xUPnRF7wjTuxfFU1QkrZWv2-o0BgA3tqROxp_dX4PBJILCjude_ngsGXYd4P5YwWFJ7rDzqcw",
-      "photoAttribution": "Erzs\u00e9bet Fejes-Oravecz",
+      "photoAttribution": "Erzsébet Fejes-Oravecz",
       "tags": [
         "Family Friendly",
-        "Rainy Day"
+        "Outdoor & Nature",
+        "Photography Worthy"
       ]
     },
     {
@@ -3861,6 +3917,7 @@
       "photoAttribution": "Thodwris P.",
       "tags": [
         "Family Friendly",
+        "Outdoor & Nature",
         "Photography Worthy"
       ]
     },
@@ -3874,24 +3931,27 @@
       "longDesc": "Protected turtle nesting beach on Zakynthos with dedicated facilities, educational programs, and evening hatchling releases June-September. Conservation magic.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Caretta%20Turtle%20Beach&center=36.776942399999996,28.6315771",
       "placeId": "ChIJPacI2uCIvxQR_IY3XLyRIgk",
-      "address": "G\u00f6kbel, 48600 Ortaca/Mu\u011fla, T\u00fcrkiye",
+      "address": "Gökbel, 48600 Ortaca/Muğla, Türkiye",
       "rating": 4.6,
       "ratingCount": 8739,
       "website": "http://dalbel.com.tr/",
       "hours": [
-        "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
-        "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
       ],
       "photoRef": "places/ChIJPacI2uCIvxQR_IY3XLyRIgk/photos/AcnlKN35ylbkbxYqBDkDMq3FVtERD8oA9cvSUOveGQJjuVEPSk8aLMhaLcTscX7NgdNBafVxzEEwvDgu1YqSW3XcQVbS_pN-feSvO02p1cMtDkQso6S-B_V_3FornwPLihgWDfkEWfxgfUwFCLguhAZc2KAevKIyu6eepE1pckzLmDJMFl4xTmw0xlUwhOZaBc58Cx8mFW0YF4AhQNJUz3-3fccUBtNewm7bmdaSGQT3-qnSPbdipdwg5GlfN2XynOgfbUEZd-3yE5-gWGf8ylinKrfAn_jxUbcaK8Kwky064KUt51GcFTcIiye0u1qB7buHYPDf1a3IcuLt40U4vJ-Dp3PMx7DCRLgUWHL_0x2-Gmd0rCmErgot1lzUDQjFkbfOH72cVHVBoRJQJeDwqHf6ZiuXNe6zTBapKpGnXmeTi7ytPQmJ",
       "photoAttribution": "Sezgin Ata",
       "tags": [
         "Family Friendly",
-        "Photography Worthy"
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Cultural & Historical"
       ]
     },
     {
@@ -3912,7 +3972,9 @@
       "photoAttribution": "Acqua Plus Water Park",
       "tags": [
         "Family Friendly",
-        "Toddler Friendly"
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Adventure & Active"
       ]
     },
     {
@@ -3930,20 +3992,21 @@
       "ratingCount": 4822,
       "website": "http://www.byzantinemuseum.gr/",
       "hours": [
-        "Monday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+        "Monday: 8:30 AM – 3:30 PM",
         "Tuesday: Closed",
-        "Wednesday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Thursday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Friday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Saturday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-        "Sunday: 8:30\u202fAM\u2009\u2013\u20093:30\u202fPM"
+        "Wednesday: 8:30 AM – 3:30 PM",
+        "Thursday: 8:30 AM – 3:30 PM",
+        "Friday: 8:30 AM – 3:30 PM",
+        "Saturday: 8:30 AM – 3:30 PM",
+        "Sunday: 8:30 AM – 3:30 PM"
       ],
       "photoRef": "places/ChIJES0SOUG9oRQRPJMyejC41c8/photos/AcnlKN3deSyj8gkxdP_Axfmr00hiW6y17XwVIJ25Ziyn6EZ2aqJvZioJVbtobsKVi1Nxn_RtRV3-jlazAVfpk0WcOUTuSSAm6fEOjyGp83wucNFEcQczMjeB83_tHX4l5HicbbDSz-pDW8QHN77vz_XENkSX-zzatAZHQHakRtPwbjcs6cMzsDtsRD5dVhbIYS4EgjteMYpnsqXuzZQXFpenP08c1QWsbk5PC-lfCh9cP4BC4uBftKiERNvJtW0e6uIsuLNcVNSsldvbN9jk1rWx3g_h0_RZ0gJhjv1C8U-8nYik0qPjU_B6y-cRY8Hm9gwgVAp1OibkX8FayL2YW7z7JISmugLaKwLLTVW8z3S7Pn05EBYYrYnOEkMuo4oVNJx1941jnAkc-T9D4OBkKtth69k9FdwlA-Pwc8da6dc--pE",
       "photoAttribution": "Theresa Giakoumatou",
       "tags": [
         "Family Friendly",
-        "Photography Worthy",
-        "Rainy Day"
+        "Cultural & Historical",
+        "Rainy Day",
+        "Toddler Friendly"
       ]
     },
     {
@@ -3961,20 +4024,20 @@
       "ratingCount": 27378,
       "website": "https://www.cretaquarium.gr/",
       "hours": [
-        "Monday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
-        "Tuesday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
-        "Wednesday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
-        "Thursday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
-        "Friday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
-        "Saturday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
-        "Sunday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM"
+        "Monday: 9:30 AM – 4:00 PM",
+        "Tuesday: 9:30 AM – 4:00 PM",
+        "Wednesday: 9:30 AM – 4:00 PM",
+        "Thursday: 9:30 AM – 4:00 PM",
+        "Friday: 9:30 AM – 4:00 PM",
+        "Saturday: 9:30 AM – 4:00 PM",
+        "Sunday: 9:30 AM – 4:00 PM"
       ],
       "photoRef": "places/ChIJuZbjvIddmhQRD3FAFu3aMWw/photos/AcnlKN0oARmf3j3NEbQPm9QKAUEe5quralLC36HCCL0LJ9e-MIPbhu_oA8dtSVcuR_ANanGLkm6snmQX6bFtja304_6uMyyyNV3pRRYP-_TXagbcsFIU03fZ4loRiFDfx83Srk2JdvzIFqW0JTI4Kt0NHWzVhIBEf37T8G839JCZv7z_8avAOJWSpMMjmjZKjga20_mIUvfQPBF3g5AIldP0dz0HgEiOqzSXR6h1xbv-g4lGlA3Bnalne1AMEKDGdZXCr5XQtRP6hq7M_aRx0I8EwrQO_0dpAIrEdaltF4xJnGvWYg",
       "photoAttribution": "CRETAquarium Thalassokosmos",
       "tags": [
         "Family Friendly",
-        "Photography Worthy",
-        "Rainy Day"
+        "Rainy Day",
+        "Photography Worthy"
       ]
     },
     {
@@ -4003,7 +4066,9 @@
       "photoAttribution": "Marios P",
       "tags": [
         "Family Friendly",
-        "Photography Worthy"
+        "Toddler Friendly",
+        "Photography Worthy",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -4013,10 +4078,10 @@
         28.0561291
       ],
       "desc": "Family beach, calm water, tavernas, Mykonos",
-      "longDesc": "Family-friendly beach on Mykonos with calm water, beachfront tavernas, and shade facilities\u2014ideal for relaxed family beach days. Beach comfort.",
+      "longDesc": "Family-friendly beach on Mykonos with calm water, beachfront tavernas, and shade facilities—ideal for relaxed family beach days. Beach comfort.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Pefkos%20Beach%20Mykonos&center=36.075293900000005,28.0561291",
       "placeId": "ChIJWVC6pPEOlRQRvUwZ7pt2wAY",
-      "address": "Pefkos, \u03a1\u03cc\u03b4\u03bf\u03c2 851 07, Greece",
+      "address": "Pefkos, Ρόδος 851 07, Greece",
       "rating": 4.6,
       "ratingCount": 549,
       "website": "https://www.pefkosbeach.gr/",
@@ -4033,6 +4098,7 @@
       "photoAttribution": "Paul Bennett",
       "tags": [
         "Family Friendly",
+        "Outdoor & Nature",
         "Photography Worthy"
       ]
     }
@@ -4048,23 +4114,27 @@
       "longDesc": "Europe's most vibrant food market in downtown Athens with butchers, fishmongers, produce vendors, and aromatic spice stalls. Sensory overload in the best way.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Varvakios%20Central%20Market&center=37.980428599999996,23.7276638",
       "placeId": "ChIJmxTsUSO9oRQRLUSSm2pGMTA",
-      "address": "\u039d\u03bf68 \u0392\u03b1\u03c1\u03b2\u03b1\u03ba\u03b5\u03b9\u03bf\u03c2 \u0391\u03b3\u03bf\u03c1\u03b1, Athina 105 51, Greece",
+      "address": "Νο68 Βαρβακειος Αγορα, Athina 105 51, Greece",
       "rating": 4.2,
       "ratingCount": 25213,
       "hours": [
-        "Monday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Tuesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Wednesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Thursday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Friday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Saturday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Monday: 7:00 AM – 6:00 PM",
+        "Tuesday: 7:00 AM – 6:00 PM",
+        "Wednesday: 7:00 AM – 6:00 PM",
+        "Thursday: 7:00 AM – 6:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: 7:00 AM – 6:00 PM",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJmxTsUSO9oRQRLUSSm2pGMTA/photos/AcnlKN2pP6ltMt_fKCIF4eJfekVlwEuYYr9-OsGqNlwlVwM8pz5WrSj2yIHbDNsEYPiGcG8XUA0B29GL7M0gCSkLc6t4-ujTeAzl8vsKjgnRcPMFW_iy9scpSzEYkWG_QeQZR2h530Y2kaRHqfEEdT_RxMtYsu8ccOib8XYOJwJ9-JVgKvgQ1VmSLOy7lwq8SSAqawRhV2PVgJWY2q14nhL9KBzF5nQ7K37gOG98YChB7hA5dD2nKmXsCCr1pt0HyfcJ5EnysW3bcjwDqOWPQPGMiPtVfGA2ieaPhNqlSgEF3iikllB7UHqLdH1hMCh5gvDmpWtXaWp7jCtcwJvNA12GzKkUgmscjO1hOq_DevnEaTf7qwDURqNCrEX64EVm-4eBcx7Jk0gTpUKZPPaso5S4rAtHAsUAaN0Qz6C_kcifsrBSkH45",
       "photoAttribution": "Monia Onofri",
       "tags": [
         "Local Delicacies",
-        "Shopping"
+        "Shopping",
+        "Photography Worthy",
+        "Casual Eats",
+        "Outdoor & Nature",
+        "Cultural & Historical"
       ]
     },
     {
@@ -4081,19 +4151,21 @@
       "rating": 4.4,
       "ratingCount": 13504,
       "hours": [
-        "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
-        "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
       ],
       "photoRef": "places/ChIJsQ6HWCK9oRQR7QU0v_vbZho/photos/AcnlKN2pRQ6yJzMLAA1N16dWr2vyJlg_TNq_yUvjvPVTQAr137scIVbCfl8qe4HMLx-AGxAnrICItN_TAztGMeiTNenX5evSkC1SM4TwraHZwy49gb-k-kJ6r7Xzz80xGvc_iagaqvFL_sbZQNxgpjCJS54P3DMgmb5k8YKvh2_Vf-PoQTBh69RLzUpTUI8_zqXASLn05N2oGfy1wCM3sR6Z9ARxBdF7P6S5QxPSUWsgoKIc44eQZZCXuItfnCSEqPTEa7FzNIImwAjf4eUrW2kEXjk9ZX1cfNqFkSaNQ9P54xNsU1Nc6nZGJLetfu6aANMlH2IGfpyIhhNTh2IrBFpv4z74Tnfi-nPE3ieH_F7VrbOPE_z6KQJ_IJRaxm40zPfJuJdKZ6kWxoQYldCn0srEO7y7aPVdbNuYhcm1KbW8fWnhpg",
       "photoAttribution": "Dionisis Argiropoulos",
       "tags": [
         "Photography Worthy",
-        "Shopping"
+        "Shopping",
+        "Budget Friendly",
+        "Cultural & Historical"
       ]
     },
     {
@@ -4103,7 +4175,7 @@
         24.0203575
       ],
       "desc": "Cross-shaped hall built 1913, Cretan products",
-      "longDesc": "Beautiful cross-shaped 1913 stone hall filled with Cretan products\u2014cheeses, olive oil, herbs, and local crafts. Architectural charm meets gastronomy.",
+      "longDesc": "Beautiful cross-shaped 1913 stone hall filled with Cretan products—cheeses, olive oil, herbs, and local crafts. Architectural charm meets gastronomy.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Chania%20Central%20Market&center=35.514110099999996,24.0203575",
       "placeId": "ChIJC6z_aL59nBQRrdho7zuqg8M",
       "address": "Chania 731 32, Greece",
@@ -4113,7 +4185,10 @@
       "photoAttribution": "Albert Kosacz",
       "tags": [
         "Local Delicacies",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Budget Friendly"
       ]
     },
     {
@@ -4144,7 +4219,6 @@
       "tags": [
         "Budget Friendly",
         "Local Delicacies",
-        "Photography Worthy",
         "Shopping",
         "Sweet Treats"
       ]
@@ -4163,19 +4237,22 @@
       "rating": 4.4,
       "ratingCount": 1000,
       "hours": [
-        "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Friday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Sunday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM"
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 2:00 PM"
       ],
       "photoRef": "places/ChIJrxOYYwJbmhQRvGPXT1maOjk/photos/AcnlKN2i43soAEhLDt8fhNev6hF2Tyz3hG8E8rlkhQpmypbfgDiA3oyvO0Sn6X1UqpEIx0YDAGbnVPS1k6AwSDGV8DW1isszf2CV-DTWBWLCv0-gWbjnp7d0rev_h-fPh3IHFQvtb7d9fhNuPIppn1BLeas1HyeKzVYIXNitRioA9xH1dlAOHt6DvfG9ixH9JzvDJBi7WpZS3VNFtLi4R6OOhA6v_e9E9J2VwGU6JACb9bU8hFX9R9yeLDI3-EHlT4fmP82JZWarZOgYUfybYByAeMCeBpSZlUnhuNwvNnJtKnnxo0D9Q-LJV6zYy8ua5LPkBz_tv3QkAh7gEW0Mu0BeVY1unY62SItTJZXLyJMb1gxxoN91zbYwi4Ql9g80ukfsvI4BZq_IkHcqj1nBllWv2pAWyCuVMf3JvQdHk_HlOoY",
       "photoAttribution": "Alex P. (Alex P.)",
       "tags": [
         "Local Delicacies",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical",
+        "Budget Friendly",
+        "Photography Worthy"
       ]
     },
     {
@@ -4192,19 +4269,22 @@
       "rating": 4.3,
       "ratingCount": 10,
       "hours": [
-        "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJPXwo0D29oRQRVpEroHuuMPY/photos/AcnlKN33RXaM9S2OG-8aAHP5HaYDS5nPOLk60WOsHYmJOwHCGdwYgB8aCf3ihRLAoIF4rSWorT3Wvo5dUFz9wGFrV_19svFCsqxAy2LLRTb5i3YxjFXlzcjI3znJY1EjP7O437rPL9o7TkgPSsS3TivOC-tUWl25WPQ6I76YiqODwF1GUP_HjfIYPB1WnVAwx0xBt2_ZCYyVD-KTfoZFcz88xSvJFdQrB1NjhPc5piUFFGDKpUIeR78yTKZ0_8m70xaLo_bTLwmQfj_XCAMPWBAJ7mvMEjjwckqs3JN8InOM98cDaKVXEI8t0kNXyECZd9REk9ybCNmxmLZeiIDoddG6Geaj__hT5ACRGW6lq-ky_UqrqLYDx8rQ-CI-Gc94FVdDmeP7rvywkUMgsez2SxjQZx1aufHcm9bVXup3h32puUWxdg",
       "photoAttribution": "Kian Tesiani",
       "tags": [
         "Local Delicacies",
-        "Shopping"
+        "Shopping",
+        "Budget Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy"
       ]
     },
     {
@@ -4224,7 +4304,7 @@
         "Monday: Closed",
         "Tuesday: Closed",
         "Wednesday: Closed",
-        "Thursday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+        "Thursday: 8:00 AM – 2:00 PM",
         "Friday: Closed",
         "Saturday: Closed",
         "Sunday: Closed"
@@ -4235,7 +4315,7 @@
         "Budget Friendly",
         "Local Delicacies",
         "Shopping",
-        "Sweet Treats"
+        "Rainy Day"
       ]
     },
     {
@@ -4253,19 +4333,22 @@
       "ratingCount": 184,
       "website": "http://www.anemotrata-mykonos.gr/",
       "hours": [
-        "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Sunday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
       ],
       "photoRef": "places/ChIJ5egsXVy-ohQRKjO4Vz0HOVc/photos/AcnlKN2uY4sLNT1K7Yd5O-mhylL4BJ9rpEdXD5oriSD9p4RTVwaDxxX_R12gNKyDbesW4rG8BAggV7sYEeYNxVsktAP7xTLS0OSyWiExYwwfFNOD37Qf722aY-ZZYlocwAYTtADmOGt_AqxufIhgREs4HCNHClLw-cxJA-_v_X_-GdXhgtfpBLNDk5earzbL_s-N68HV9ODKpAa-RmlIKsVFCqsfVJ8vaW-jzAEhu3YoO-e3JPNN2HMDre2xoMre53A6XZJXqc8DyrUDK197rBS-J4pLYoXtHLD6YB1i-Xh52kG6Nd_kFlZZunjn3mG9PWlB6jtGKAFG-9dj9iBt7XBFJhxhiz0yVKqTymZ_G4XP3PpHcwDggcbSNH-9mtDNcIbiqiWaMA0pYPoZgybsU3Ggzc2BwBUcjApKARccb-bnjXSguKbIpC7aFXkUeALpzh4X",
       "photoAttribution": "Edwin Caraballo",
       "tags": [
         "Photography Worthy",
-        "Shopping"
+        "Shopping",
+        "Local Delicacies",
+        "Casual Eats",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -4282,20 +4365,22 @@
       "rating": 3.4,
       "ratingCount": 9,
       "hours": [
-        "Monday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-        "Tuesday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-        "Wednesday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-        "Thursday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-        "Friday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-        "Saturday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
-        "Sunday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+        "Monday: 9:00 AM – 12:00 AM",
+        "Tuesday: 9:00 AM – 12:00 AM",
+        "Wednesday: 9:00 AM – 12:00 AM",
+        "Thursday: 9:00 AM – 12:00 AM",
+        "Friday: 9:00 AM – 12:00 AM",
+        "Saturday: 9:00 AM – 12:00 AM",
+        "Sunday: 9:00 AM – 12:00 AM"
       ],
       "photoRef": "places/ChIJVYwLJBzNmRQRDMWvgwOA3uU/photos/AcnlKN0t8cbzJOomhvqRh42sIDvMs_by9IpsUGZKy197yTKv-9mpqr46nyGltPMgxNFEXADkSx88x9xxNRl_MM00mKvZAti3YObjkD4KceZJ7IvqoSl1SUJ3T5s60N7U-_7t5kf4_CqH95TkI2q70K_J-pqdL8LVHHYy6RwHBd-ZWvOxH_PYPyqa-txxqrbZrVBc3_jxOWrc1WCD7Z_GZ2vKdsrmDNDDDR5oyBXofSUPBsTXrbiyQ7i19lJTIX3n572ZPBCUZ9jKljDxO-1e-7LgEqwiUDi_eS71J8h1oRgm9jT6oWk6eBEhGW_TMSQD87Gh_SnN7Q7jIfpGmBeNaUbdQ4g7FIHK-c-pfYUEfbXmt340kX2ACD2fdU-0dppST3VO7wNDe13TRWkWsJE15GPSDoKw7eajqSSE76FSfDL_nVeyAw",
       "photoAttribution": "Akron Kostas Akrivos",
       "tags": [
         "Local Delicacies",
         "Romantic",
-        "Shopping"
+        "Shopping",
+        "Photography Worthy",
+        "Cultural & Historical"
       ]
     },
     {
@@ -4308,24 +4393,26 @@
       "longDesc": "Market featuring local Parian artisans, handmade crafts, marble sculptures, and unique island products. Creative commerce.",
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Paros%20Artisan%20Market&center=37.084733,25.150106599999997",
       "placeId": "ChIJu3vNoHdxmBQRgBHns3Zg7W0",
-      "address": "market street, \u03a0\u03b1\u03c1\u03bf\u03b9\u03ba\u03b9\u03ac 844 00, Greece",
+      "address": "market street, Παροικιά 844 00, Greece",
       "rating": 4.7,
       "ratingCount": 16,
       "hours": [
-        "Monday: 9:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Tuesday: 9:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Wednesday: 9:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Thursday: 9:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Friday: 9:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Saturday: 9:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
-        "Sunday: 9:30\u202fAM\u2009\u2013\u200911:00\u202fPM"
+        "Monday: 9:30 AM – 11:00 PM",
+        "Tuesday: 9:30 AM – 11:00 PM",
+        "Wednesday: 9:30 AM – 11:00 PM",
+        "Thursday: 9:30 AM – 11:00 PM",
+        "Friday: 9:30 AM – 11:00 PM",
+        "Saturday: 9:30 AM – 11:00 PM",
+        "Sunday: 9:30 AM – 11:00 PM"
       ],
       "photoRef": "places/ChIJu3vNoHdxmBQRgBHns3Zg7W0/photos/AcnlKN1j9O6Xkt3QYIf1t8nQEDka7-d419iCjHWuUAe0nr3U4Bj15wB3YQ914-7Y4RIxlj2_yz9yKEQMnWabaBfNyxfSLp3Y5mNQIAw65J6EVckkwQqbT04mPxdi725CFd8s08jBn__AbE1xwlSEslmaXvnXqHb2zlc2AWhTyr9vnmQbm32qdYaRd7NH-IV1-bN2hKhXnpS-Wk4-2p41NG4EXHtwIDHG6FDUw7qxePpPImANHsQ0RoXZC-h2plkvUz3Fv-NNWzOGbUeBaziJaJKsCzskMWCC3IZrRjJPum9ljtBYW53iqFnkUAyU2y4tWT_hUR2OptzR67-AnL8zrAM6FQq6ZuQ5uYT5dKHMa15rkHz-yMWdEW7OMxK9MBG5losJcd-60Egl3KBA98SqVtK9FHJOTA-IyBHf8DOD36UJwaQz0A_P",
       "photoAttribution": "Tea Franic",
       "tags": [
         "Local Delicacies",
         "Photography Worthy",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical",
+        "Art & Design"
       ]
     },
     {
@@ -4342,12 +4429,12 @@
       "rating": 4.3,
       "ratingCount": 1065,
       "hours": [
-        "Monday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Tuesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Wednesday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Thursday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Friday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Saturday: 8:30\u202fAM\u2009\u2013\u20092:00\u202fPM",
+        "Monday: 7:00 AM – 6:00 PM",
+        "Tuesday: 7:00 AM – 6:00 PM",
+        "Wednesday: 7:00 AM – 6:00 PM",
+        "Thursday: 7:00 AM – 6:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: 8:30 AM – 2:00 PM",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJ41oZ1JdhlRQRPKSa8LRvCAw/photos/AcnlKN3qxB4BW_TvykKV_nsoJ1pitZBQ4xzQ_N-SI3vRbVNfJ3HduvwSGG91i8xxilJh_LKuSaYf0GP4o66sJoBDEcz2Ygl6z2PR-DC1YkNxBK51F_RJu25vOXQisv8cyl3ZCJGs_KnMdlbe2J2vzxhugZceXOBrQRSA1snaB-ZFq0QAHCk4qDwA6FUvCE0W8OtUWOQMube9jwreXjeq3KdyQpd1PqOSaW5xjKOlCt_ub8OYYcMWAYXOi0-VpiAtFplU82jqiwrOwZDINGSO4KgzwZ0txz0Znp2HTXIkHDAc09FEMxl-LoRGE6fNH6IMQx1LbTlDOOZTsg7BQLlf8wEGoNNWYGmi40zK_6MCmHjWj9mrx-so0z4PqMCniD6G8SGyDm-BnDQalsw9J0DgShDGoGQ7xlScBZsRJhD96Pozy8SKVAYz",
@@ -4355,7 +4442,9 @@
       "tags": [
         "Budget Friendly",
         "Local Delicacies",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -4373,20 +4462,19 @@
       "ratingCount": 88,
       "website": "http://www.votanopoleio.gr/",
       "hours": [
-        "Monday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Tuesday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-        "Wednesday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
-        "Thursday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-        "Friday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
-        "Saturday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Monday: 9:00 AM – 3:00 PM",
+        "Tuesday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+        "Wednesday: 9:00 AM – 3:00 PM",
+        "Thursday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+        "Friday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+        "Saturday: 9:00 AM – 3:00 PM",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJ06fH-ihamhQRR_TTSz1JwT4/photos/AcnlKN2wRjDeocKrh6VDKRPrSAZg5RlLa7bcu8o3T-2tE2cs-DL5TyqPAuLiC-QMUeavDMbd4A-FBUGUIeKjLI459hIiRAyUDSIsUAbkk_Nzb4ruNz9pxSDOu2JfmOQErlHS6HHmcl_q9HpMBj125Bc5zdM2gW6zqPGNgyul93P3jx5M7TWdJFpXlj2aWl5a6h4Fcv7-Y02dUZsOSNrFmnNIQroSqOn-RMkMGW99LVoejrBZDdacYcAILQDENlAD46w1hdlgFevgAp-rgGuAb0TmvGSmzAbgjvGJDBBKrANmSnx7uUpJm_a5gE9bk7pF2N2HVrAfnowXgi4UUjKBKaJw8QyFObXSSthhgJK60dtH6Km2LWq-vh-uyoY_VQoDuuceUFtvIFJmj55Rwxxr8t0pVoTP8Nh3kXR8SRl1rIc0a8_Vnw",
-      "photoAttribution": "\u03a4\u03bf \u0392\u03bf\u03c4\u03b1\u03bd\u03bf\u03c0\u03c9\u03bb\u03b5\u03af\u03bf \u03c4\u03b7\u03c2 \u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ba\u03ae\u03c2",
+      "photoAttribution": "Το Βοτανοπωλείο της Βασιλικής",
       "tags": [
         "Budget Friendly",
         "Local Delicacies",
-        "Photography Worthy",
         "Shopping",
         "Sweet Treats"
       ]
@@ -4406,20 +4494,21 @@
       "ratingCount": 275,
       "website": "http://www.maisondolive.gr/",
       "hours": [
-        "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-        "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJ6cVaFeW9oRQRuCPOyjBAyW8/photos/AcnlKN1EQjWRfqTcM_pEuhbrFw5KvYbe8c05Q47jpRn3gDNxXvavOqWGijkcQdDKh9LUvmIkHIlt-8bstWaQU2aHfzO-XPmLB-WHo_LBbrz6Ie-B-5D-JUGvvsP6gj1mt78LLCFGDfAjB68NYuUr50Wx_DiXIH_KfIkv7ocXkKv1pmSK9XCSIham8cNdcJgjdXnnpMl_r2_li9YLG7JXZlGXzj2L2toCK6J8e8XK_d6SaGjSO6oibwPuTiXO4qGfKhERNhiJUq1bCBs39n9hdktwHQMkfBPfS0ATOuKdQLp4js_KLQ",
       "photoAttribution": "Maison d' Olive",
       "tags": [
         "Local Delicacies",
+        "Shopping",
         "Photography Worthy",
-        "Shopping"
+        "Budget Friendly"
       ]
     },
     {
@@ -4436,19 +4525,21 @@
       "rating": 4.3,
       "ratingCount": 29,
       "hours": [
-        "Monday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Tuesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Wednesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Thursday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Friday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
-        "Saturday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJWSXkUSK9oRQR_0Tb5OHrTLE/photos/AcnlKN20CTDjDdHChqj5oqKe71m1kWIRiqAvGbe2ODzM-yAMqsdQGSiq_sEYU9Nb8mHTWFo8whQjZLkGT0rHRyCDpK7VvSoijB1XC0mL6puLtHKsKjkuCYN_6h4Y-5cNQpxv3VBfa-iP6jriwBBoMl6mWCeNwELjMp_4yK22vYRIbk_q85oAlmx0UpOiu7B0BfoX7Nni27azPjqNevtNlCe9veUPlmwWmW2OX_aIYeO2ZoXGCncxN50mmvTKIWd6oy9PG9WlMf9EN1BuI-z7GpqFSXJb3QKd3Y1X5qzJh8Wo2STr88g-Nim90oQTiXrR7YjtUvG-F-vk5nKe5mjsahKwCM5nUg1x0piJl2_w_jVGyHJ5Za3KhePc0KgU8So8BP1FlPF--vqRw7EyeTchuPaoGVQ5y3hSL6OB0_a_1B9FsBpaYbM",
       "photoAttribution": "Paul Gibbons",
       "tags": [
-        "Local Delicacies",
-        "Shopping"
+        "Shopping",
+        "Art & Design",
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -4465,20 +4556,22 @@
       "rating": 4.6,
       "ratingCount": 2620,
       "hours": [
-        "Monday: 10:45\u202fAM\u2009\u2013\u20098:15\u202fPM",
-        "Tuesday: 10:45\u202fAM\u2009\u2013\u20098:15\u202fPM",
-        "Wednesday: 10:45\u202fAM\u2009\u2013\u20098:15\u202fPM",
-        "Thursday: 10:45\u202fAM\u2009\u2013\u20098:15\u202fPM",
-        "Friday: 10:45\u202fAM\u2009\u2013\u20098:15\u202fPM",
-        "Saturday: 10:45\u202fAM\u2009\u2013\u20098:15\u202fPM",
+        "Monday: 10:45 AM – 8:15 PM",
+        "Tuesday: 10:45 AM – 8:15 PM",
+        "Wednesday: 10:45 AM – 8:15 PM",
+        "Thursday: 10:45 AM – 8:15 PM",
+        "Friday: 10:45 AM – 8:15 PM",
+        "Saturday: 10:45 AM – 8:15 PM",
         "Sunday: Closed"
       ],
       "photoRef": "places/ChIJe8ee1NxdWxMRdHqJEsHZ_nE/photos/AcnlKN3Lg16Fjwzz6908JkjNLhZ_hW6aneE7WfKvfsaq2dT8MsQVfo_jVZL-aZHqKXvB9keD57n3gKYpmnwuhsOw4tNbwVzffM0PRjMTkbSWDq0AIIaTk07OmTQkTG-N92hl3OnIK0jFFU2Zrmg_4Tj_tnOMujlHT_OIOrn2lKnbYeqvImBwf_dnvXOkfRBH79Xw6ZFyjcQAOo7XLbrOAtD3fSfkX_LekiYeO4Tm_krkrJkW7cjNX417aGpIdSlHZgwcVJ_DtkfwDsbmbYlWqtrp4V-ck8upkEEKfN1qY2BDWbtxvDFGkAh6cakW2IXtLg6IEcEsSHb5mqwHmcIMTLCHcAfMUaiogn-9MXt16nbfh9H6mRihh23drPzPJCBHwdKqkBIzxKm-CFzmzrRVJCCyPvLoGRjpMpm-CdGzt3kjzBs",
       "photoAttribution": "Miroslava Duda",
       "tags": [
         "Local Delicacies",
-        "Photography Worthy",
-        "Shopping"
+        "Shopping",
+        "Budget Friendly",
+        "Family Friendly",
+        "Outdoor & Nature"
       ]
     }
   ],
@@ -4907,7 +5000,7 @@
             },
             {
               "type": "optional",
-              "name": "180\u00b0 Sunset Bar",
+              "name": "180° Sunset Bar",
               "coord": [
                 37.4493483,
                 25.3323987

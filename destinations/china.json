@@ -28,7 +28,9 @@
       "tags": [
         "Art & Design",
         "Photography Worthy",
-        "Splurge"
+        "Splurge",
+        "Cultural & Historical",
+        "Wellness & Spa"
       ]
     },
     {
@@ -49,7 +51,10 @@
       "photoAttribution": "Mila Kapitannikova",
       "tags": [
         "Romantic",
-        "Splurge"
+        "Splurge",
+        "Family Friendly",
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -70,10 +75,9 @@
       "photoAttribution": "Yee WANG (Architecte)",
       "tags": [
         "Art & Design",
-        "Family Friendly",
         "Photography Worthy",
-        "Toddler Friendly",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Romantic"
       ]
     },
     {
@@ -93,9 +97,11 @@
       "photoRef": "places/ChIJ8Zu4GtJS8DURy95elmhTEFg/photos/AcnlKN3mvtQoBdWy8RXFqCDTUl98Q5WwEIkUcDIEeO_yqVon3IUgnXbZEwTvdYyG-j1_iKygqoOE1h5MbC-XzHlj_PbJIQzsfMTH5qE1GtaJfahBGiPP051_QkUYv6iSEKAHhhBzrCLeoMY2P4FEfupk4ElX4i3VbSX5xh0LMLxtZVyyT9tcTgPg5sa39yJzsf1hEw7GVou1Q28bk8IUlqOc6guWNLM3ZwZn-QVkKnwZ_BwHYi7svc8IXEPc2zhIGKzNu6LYCgTSo5JSbU6P3xO1OXAoEP1I3VnR9RzPyXL7sXcUfuUoQ19XWYDCaI3RWUKOLSTDqFrLMCSvwA4CVIMKH6ZDoZZltZ6J4UnuQBOCF1-46x745kN4tW5if9ZbgZHzBaH_xnJfKuLrL6hACka9q6hx16fP6qE-iMDl-htf0ogJeQ",
       "photoAttribution": "Chialin Tan",
       "tags": [
+        "Splurge",
         "Art & Design",
         "Photography Worthy",
-        "Splurge"
+        "Cultural & Historical",
+        "Romantic"
       ]
     },
     {
@@ -116,9 +122,10 @@
       "photoAttribution": "Georg Thaler",
       "tags": [
         "Family Friendly",
-        "Splurge",
         "Toddler Friendly",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Outdoor & Nature",
+        "Cultural & Historical"
       ]
     },
     {
@@ -138,8 +145,9 @@
       "photoRef": "places/ChIJxz_lWM9S8DUR3fZnRhUqvWg/photos/AcnlKN1SxNrzd_nBA7oI0VmgpX2TkPXTIzM16HhqK6zaJWIUfvP-r9V7MmgKzmXy6aj48TDv3rfZxGTk5SXyiCSpCsPlWcrg_eQryGXuAETkeMlu2sD3Bu5iHr_7yJR3jNUCVpWJljmVgKQTF5T9yLj6EeF8Gwv9h7MGwg_Pm3npRJysv2S9RpbjjKYEzIF-Mv7esoBzuUbxt4U8QQRvts6lfws7vhiYNIffB1BPD9Pcp35_m_d7b5JX7IWtvUXZ_YZepqfAzoDfLjr_r3AA8-4ig3X-xXpt53NowZZeLVuopKp2H_3lPtgguJL7u8p4GGkiBkVLBs2FjwXbqmFGlnZ8lGqeH7rp1Wz1HkGaLDlD-WKwoIl-PBalBcqYQezkvTi922E_K7vE18_MtKGHLCE1NrWD45Lj8NyqbT8UY2wLdLNUHbNf",
       "photoAttribution": "Hilton Asia",
       "tags": [
+        "Splurge",
         "Photography Worthy",
-        "Splurge"
+        "Romantic"
       ]
     },
     {
@@ -159,7 +167,9 @@
       "photoAttribution": "VL Kong",
       "tags": [
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Cultural & Historical",
+        "Wellness & Spa"
       ]
     },
     {
@@ -180,7 +190,8 @@
       "photoAttribution": "Kenzo*",
       "tags": [
         "Art & Design",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Nightlife"
       ]
     },
     {
@@ -201,7 +212,9 @@
       "photoAttribution": "Daniel Louh",
       "tags": [
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Wellness & Spa",
+        "Splurge"
       ]
     },
     {
@@ -222,7 +235,8 @@
       "photoAttribution": "이병철",
       "tags": [
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Cultural & Historical"
       ]
     },
     {
@@ -242,8 +256,8 @@
       "photoAttribution": "Matthew H",
       "tags": [
         "Photography Worthy",
-        "Splurge",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Romantic"
       ]
     },
     {
@@ -263,11 +277,10 @@
       "photoRef": "places/ChIJVVUJoNtwsjUR3swwwSXhZHg/photos/AcnlKN04AYliwj_t5hNEj_F4I8qwDXzOuuiXwBZK7Z60cZPPOXrlfCcWFT1T82VaW4kOiKUpjmRH8vWOW0Ij5a5I8liOFxUHLihQhCKEtWW6hCeLw_6QlpS9GT2a34gKbfdEwyckHxjjvHQOpewBmWVFupfHM5Tj6ha1xdvEhBT8qLSE22L5ty36n5N8sfZCErojSwxoTDB7NIT0UElXX17Le7EOINQ7QDgIv3kDZDm2W1Qz5GxneM-K7YODVEqFTAUtrJlGKS_Eza_e2DlGp8MxSBXzX9yWA1Jl5CzVUEiKMUwAseGceacpAPWd49gJa_zMdLNFSuP_APGe0slbqIIRvrj95eZvSd5Qcsv9C2wVJNuzJO9Zz1N_21m8EQaOJcpdSfuHYCtnxEyMI6Ea6RptQMEpEinzj79iToXPsCVQsVEt9JY",
       "photoAttribution": "Surya L",
       "tags": [
-        "Family Friendly",
-        "Photography Worthy",
         "Splurge",
-        "Toddler Friendly",
-        "Wellness & Spa"
+        "Photography Worthy",
+        "Wellness & Spa",
+        "Romantic"
       ]
     },
     {
@@ -286,7 +299,8 @@
       "tags": [
         "Art & Design",
         "Photography Worthy",
-        "Splurge"
+        "Cultural & Historical",
+        "Romantic"
       ]
     },
     {
@@ -307,7 +321,9 @@
       "photoAttribution": "Bogdan Costache",
       "tags": [
         "Art & Design",
-        "Splurge"
+        "Splurge",
+        "Romantic",
+        "Photography Worthy"
       ]
     },
     {
@@ -328,9 +344,9 @@
       "photoAttribution": "Mark Sykes",
       "tags": [
         "Art & Design",
-        "Family Friendly",
         "Photography Worthy",
-        "Toddler Friendly"
+        "Romantic",
+        "Wellness & Spa"
       ]
     },
     {
@@ -351,8 +367,8 @@
       "tags": [
         "Family Friendly",
         "Photography Worthy",
-        "Toddler Friendly",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Splurge"
       ]
     },
     {
@@ -373,7 +389,9 @@
       "photoAttribution": "Regent Hong Kong - 5-Star Luxury Hotels",
       "tags": [
         "Photography Worthy",
-        "Splurge"
+        "Splurge",
+        "Romantic",
+        "Wellness & Spa"
       ]
     },
     {
@@ -405,7 +423,7 @@
         "Art & Design",
         "Photography Worthy",
         "Splurge",
-        "Wellness & Spa"
+        "Cultural & Historical"
       ]
     },
     {
@@ -427,7 +445,9 @@
       "photoAttribution": "Four Seasons Hotel Hong Kong",
       "tags": [
         "Photography Worthy",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Splurge",
+        "Romantic"
       ]
     },
     {
@@ -456,9 +476,10 @@
       "photoRef": "places/ChIJdRlVSfIABDQRq5S65hPQo-8/photos/AcnlKN0QOTeQU1IZpE_i4qj_NVLmJjwhUJU7jvj2XmBcYoYMR_E082AXVWrn1x-XO9Y4pgzsbioEFXq_t4TQT0AeXG3Uy3RhhRWGx8vGusAWL7HmgYpWPmrkJLVcvZz2NYjnMRE_1rsJPHnadti1YuJZ3lB-Tqwrq8PMA_sD5KO6VuzWANznthUx9_I9oF2IIXoVwIk9smKHgvwPaQu51jDHMNT_2TeWHaFLWOpretjcF8HOjggtO1uRLtGI00jBw9NJkjnvM6Jm-x8UuZXTp37tspoxfgd3L4j3aNaqHpFNHeZ_vw",
       "photoAttribution": "The Peninsula Hong Kong",
       "tags": [
-        "Family Friendly",
+        "Romantic",
         "Photography Worthy",
-        "Toddler Friendly"
+        "Splurge",
+        "Cultural & Historical"
       ]
     },
     {
@@ -488,9 +509,9 @@
       "photoAttribution": "Island Shangri-La, Hong Kong",
       "tags": [
         "Family Friendly",
-        "Photography Worthy",
         "Toddler Friendly",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Photography Worthy"
       ]
     },
     {
@@ -520,7 +541,9 @@
       "photoAttribution": "Rosewood Hong Kong",
       "tags": [
         "Art & Design",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Family Friendly",
+        "Cultural & Historical"
       ]
     },
     {
@@ -542,8 +565,8 @@
       "tags": [
         "Family Friendly",
         "Photography Worthy",
-        "Toddler Friendly",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Splurge"
       ]
     },
     {
@@ -565,7 +588,8 @@
       "tags": [
         "Photography Worthy",
         "Splurge",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Cultural & Historical"
       ]
     },
     {
@@ -585,9 +609,10 @@
       "photoRef": "places/ChIJcYGO5GQABDQRac6ASI5lchM/photos/AcnlKN0jyx_5pklu4mPDXvz3g7NGskwvAsZhk8n1eLE_RQPSBNPeDZAVqyB2rSjbK18RZzNogNDqS5F9FyC1ytm7ZeBxlnnOlbotIiQ6dhyPj5hruhZ1CxK0NqcmiOvrPqQPmhdzTDSoR2YRPWW62HVhLkcpOdd_Ho_AAZLVFI0x5HMwtKWwSi1wvNYfPpIJdG1-PoW3lndDpJACHcqqdiAtlZM1E3595rhAn8CWUAuSXAjn30MnKk2d6m0ys5HDHLy3tYRXVWIhoaeLHMGwoaG7UUP4RXzLDK65Awc9XI_FhGvn_Q",
       "photoAttribution": "Mandarin Oriental The Landmark, Hong Kong",
       "tags": [
-        "Photography Worthy",
+        "Wellness & Spa",
         "Splurge",
-        "Wellness & Spa"
+        "Shopping",
+        "Photography Worthy"
       ]
     },
     {
@@ -617,7 +642,9 @@
       "photoAttribution": "The Murray, Hong Kong, a Niccolo Hotel",
       "tags": [
         "Family Friendly",
-        "Wellness & Spa"
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -637,9 +664,9 @@
       "photoRef": "places/ChIJY0Z7t1OcTDQRyBbKXdktlro/photos/AcnlKN3IPLsTfQX_1dGAXFERUjgWv4XpDwIlr7HAh3RUQQvRdb3-H3CdO2F6vrn9eHyroBfCkn3i6Dx2mJFQnqxrxMLUH4-JeeZUNYdB34SfZo4-FXsS2nlg-QMLB90Vm3YGC1Ab2bD8HxbfKKaWI816-rCzUXmxknSd0hRihdbvKTGC69tR1j-LsQ7ayHU0GQ0qPrn3QK1Pwkb6cXTtoImaxe5JBMkjsHOEIveE5-LjUVj_0x2sIjUkbvkBQ4bdUQEKjdTVRWVdROV38pFY-FCXcUtFROvYfra-gQl26iSlT3wQxPej419gxCk4lI3CVXp9L_1ojNs1elawfuU8Riu9xdhRXKs7nNM2nlENKc0S-Gtckx-TbYO6hTYEVmkdVUeJL00XmuQ0VhdRNxu6JebxCm4CE_k4NldwM-8M-Ez_scJfLaeTbvskiWryZGHQA0qu",
       "photoAttribution": "Hannah Frank",
       "tags": [
+        "Wellness & Spa",
         "Photography Worthy",
-        "Splurge",
-        "Wellness & Spa"
+        "Cultural & Historical"
       ]
     },
     {
@@ -655,7 +682,8 @@
       "address": "China, Si Chuan Sheng, Cheng Du Shi, Wu Hou Qu, 成汉南路156号 邮政编码: 610000",
       "tags": [
         "Art & Design",
-        "Romantic"
+        "Romantic",
+        "Cultural & Historical"
       ]
     },
     {
@@ -675,7 +703,8 @@
       "photoAttribution": "Eve Khasom",
       "tags": [
         "Art & Design",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Cultural & Historical"
       ]
     },
     {
@@ -693,9 +722,9 @@
       "ratingCount": 1,
       "tags": [
         "Art & Design",
+        "Cultural & Historical",
         "Photography Worthy",
-        "Romantic",
-        "Wellness & Spa"
+        "Romantic"
       ]
     },
     {
@@ -716,7 +745,9 @@
       "photoAttribution": "John Burke",
       "tags": [
         "Photography Worthy",
-        "Splurge"
+        "Splurge",
+        "Cultural & Historical",
+        "Romantic"
       ]
     },
     {
@@ -737,7 +768,9 @@
       "photoAttribution": "John Teo",
       "tags": [
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Cultural & Historical",
+        "Splurge"
       ]
     },
     {
@@ -757,6 +790,8 @@
       "photoAttribution": "Betty Yung",
       "tags": [
         "Art & Design",
+        "Cultural & Historical",
+        "Photography Worthy",
         "Wellness & Spa"
       ]
     },
@@ -777,7 +812,9 @@
       "photoAttribution": "Chiayun Chuang",
       "tags": [
         "Art & Design",
-        "Splurge"
+        "Cultural & Historical",
+        "Splurge",
+        "Photography Worthy"
       ]
     },
     {
@@ -798,7 +835,9 @@
       "photoAttribution": "Jieyuan “Jerry” Wu",
       "tags": [
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Wellness & Spa",
+        "Splurge"
       ]
     },
     {
@@ -819,7 +858,9 @@
       "photoAttribution": "Shawn Xu",
       "tags": [
         "Photography Worthy",
-        "Splurge"
+        "Splurge",
+        "Romantic",
+        "Wellness & Spa"
       ]
     },
     {
@@ -840,9 +881,8 @@
       "photoAttribution": "Danny McDeeva",
       "tags": [
         "Art & Design",
-        "Family Friendly",
         "Photography Worthy",
-        "Toddler Friendly"
+        "Family Friendly"
       ]
     },
     {
@@ -861,8 +901,11 @@
       "photoRef": "places/ChIJn2Fiz5_JIDcROgy7QXxoZro/photos/AcnlKN1mY2-ipJUs9I-CJ3vJy3cN-o1WoAxUjk_3Dy54lkLTtzkd3kk7xHRCoDDupkYExmuZhWn-n8_sx62RuCtv_fInzXz6Q-znFUvOJt8x80NKO2RSSlR4KMvP_5gwgV6LI07uFcNPX-p5AkIo9TLgjYDcgKD6x-7Ci5tLKyQMQEhU4x_m6gCfpP09T7b28DHi0INv47JnP41M4OO6XYHBnLoBZPVHuD-YWAtU8r-Rk2soMkNAfORp8OCAm2_cKLN2gBucMm9ujPwfUWBCk5u3r4v38sn-6P07J6As8UTvNhmcRoEYQzD4IEUaMNaNqHogcHkYUopUDMXtxM7o2m87sWEfsezkbMmy7eRVWILkjxJhnwTQY38MZrUwY_8s3gD30qez6yWuQ6w1lpPvor2M5APaeuFXorHJwb2pMv1noHQ5XHfI",
       "photoAttribution": "Maisie",
       "tags": [
+        "Romantic",
         "Photography Worthy",
-        "Romantic"
+        "Wellness & Spa",
+        "Cultural & Historical",
+        "Adventure & Active"
       ]
     },
     {
@@ -884,7 +927,8 @@
       "tags": [
         "Photography Worthy",
         "Romantic",
-        "Splurge"
+        "Outdoor & Nature",
+        "Cultural & Historical"
       ]
     },
     {
@@ -905,7 +949,9 @@
       "photoAttribution": "mikael yeom",
       "tags": [
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Cultural & Historical",
+        "Wellness & Spa"
       ]
     }
   ],
@@ -940,8 +986,8 @@
         "Fine Dining",
         "Good for Dinner",
         "Local Delicacies",
-        "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Cultural & Historical"
       ]
     },
     {
@@ -971,6 +1017,9 @@
       "photoAttribution": "Zons Amado",
       "tags": [
         "Family Friendly",
+        "Local Delicacies",
+        "Good for Dinner",
+        "Cultural & Historical",
         "Photography Worthy"
       ]
     },
@@ -987,7 +1036,9 @@
       "address": "C8V5+JXJ, Yong Ding Bei Lu, Gu An Xian, Lang Fang Shi, He Bei Sheng, China, 065599",
       "tags": [
         "Local Delicacies",
-        "Splurge"
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Romantic"
       ]
     },
     {
@@ -1016,8 +1067,9 @@
       "photoAttribution": "Chanwook Lee",
       "tags": [
         "Local Delicacies",
-        "Photography Worthy",
-        "Splurge"
+        "Cultural & Historical",
+        "Good for Lunch",
+        "Family Friendly"
       ]
     },
     {
@@ -1033,7 +1085,9 @@
       "address": "China, Bei Jing Shi, Chao Yang Qu, CN 北京市 朝阳区 百子湾路 32 32号苹果社区北区5号楼北门 邮政编码: 100022",
       "tags": [
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Casual Eats",
+        "Cultural & Historical"
       ]
     },
     {
@@ -1063,7 +1117,11 @@
       "photoAttribution": "Akihito Morita",
       "tags": [
         "Good for Dinner",
-        "Good for Lunch"
+        "Good for Lunch",
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Fine Dining",
+        "Photography Worthy"
       ]
     },
     {
@@ -1089,7 +1147,9 @@
       ],
       "tags": [
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Family Friendly",
+        "Casual Eats"
       ]
     },
     {
@@ -1104,8 +1164,10 @@
       "placeId": "ChIJ-5cr6BJN8DURT5uL-ae3loY",
       "address": "China, Bei Jing Shi, Xi Cheng Qu, 19, Tai Ping Jie, 19号1楼陶然花园酒店 邮政编码: 100054",
       "tags": [
+        "Good for Lunch",
         "Good for Dinner",
-        "Good for Lunch"
+        "Local Delicacies",
+        "Cultural & Historical"
       ]
     },
     {
@@ -1124,8 +1186,10 @@
       "photoRef": "places/ChIJQZByR8IXLxgRLrTVlODAGSA/photos/AcnlKN3Dt3Pq8MNmA57BQCwvkW4frgyJ3-z6y9G1M-aNDIMWuNmcd_Lw781B1WIotekR2ZuYqRKGEKKmUI6RbY3gHO49Q4oNAJ5OTXaO24KE5naXDXtThbJ4xEXvYYyWvbVLQAEmtyG4EV0OJ1pcDYpVhVLTK0oZxcAlWJTEiiLTd_XuF7GjGShuvxatLxISyD4FFOfbL5OJbNGHuJyRohpTPUnXiItgA7DcYinXF-jyonBLIG5CJnwPjNqvp_rKxhTaNDAwQ9C857vMWy0CETCzEiaEh41GLATkLvRgZKAfw3TAag",
       "photoAttribution": "Capital M Residences - LEED Certified",
       "tags": [
-        "Local Delicacies",
-        "Romantic"
+        "Romantic",
+        "Good for Dinner",
+        "Fine Dining",
+        "Photography Worthy"
       ]
     },
     {
@@ -1154,7 +1218,10 @@
       "photoAttribution": "Sasha",
       "tags": [
         "Good for Dinner",
-        "Good for Lunch"
+        "Good for Lunch",
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -1182,8 +1249,10 @@
       "photoRef": "places/ChIJw5FCaNBS8DURqv6uYw9w7ag/photos/AcnlKN0Y0HqEeg3KG3dxR3q2PNI8W5DiVGXsEFvl9GjGlDtP6PTl6PI9pAMQhAiIodqlD5BiiUYw4akWZ6Bnt9zjXhX67g2lFKXb8TQhQSVNpYmZh8d2Bk3j02ppI9mZUbmVN4EFRGNEaW3Te89TuUTs9Q-7EYb8Jo7lq-jowc3Qk_H-Et9slN3H7TmYfz7YLlo0ZOrEZscx_dQ0OqGNp1mC0dw3AAWdR_2CA6VaSwQp2y0ou0fUGWgy4cdVv8cV7eE6R3pC_V7pHsaZjhxyJeVXgEHcaC7vn4QIE2kp5lGCgqZ_rhZIZ7ZzdOuwINFhiphuQyoSZRdxGkZKfH-xD3Fx6Vl3QPND_c09AGx7LyvMfHLy3eMeVB9viY0pTSW1KB27FolThjsuX9mUdz_pvVflWBvCvoCTU2WZj9iEmj_ZaB8nV5isAB_Lr-snpXm6ERt-",
       "photoAttribution": "吳建誼",
       "tags": [
+        "Good for Lunch",
         "Good for Dinner",
-        "Good for Lunch"
+        "Local Delicacies",
+        "Cultural & Historical"
       ]
     },
     {
@@ -1211,8 +1280,10 @@
       "photoRef": "places/ChIJFWbkj5dS8DURyrUu_gzJReM/photos/AcnlKN0eCeW-PbvjyUOl9u1UTtBPvAkqbhrElAydjsfNDx7fZVwui_gyJyfFAib1M4qAerKV3kAAcyM8Ph96RZTljyxlmpc7KJ_QwPw6STJ-v4v9GuQoefu6kJ5TntSL5w4cTTE1JS9gjMa-myHgowf9uiZckY0FG6jfl2U0S0WvN8nrDvToqpHef8-AImNp_ej6guo5wJtOL6_u341fd0vrPzFqtLpoP9ecmS_eFEn2cTrnkwTZSkBVZ1THK2u8pxgxzO4lh4Kq4j4Yr131chaO4lPTJ8Mi113mCnndiC2oC3hLyVq-k43Bd0XU7U8rabQxOEPk5gcAmL-CQAgsvoKkQpIbKgrZRe55oPVlXVUURJ3KSg8NKhMyNzI3jDQJOrGD0KjaCARGqMnoyk_winqyk_qxUKNlMnS0duBKpJEApNtWjWUH",
       "photoAttribution": "Randy Chandra",
       "tags": [
+        "Cultural & Historical",
+        "Local Delicacies",
         "Good for Dinner",
-        "Local Delicacies"
+        "Photography Worthy"
       ]
     },
     {
@@ -1234,7 +1305,9 @@
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -1263,7 +1336,10 @@
       "photoAttribution": "Johnny Johnny",
       "tags": [
         "Fine Dining",
-        "Good for Dinner"
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Cultural & Historical"
       ]
     },
     {
@@ -1293,7 +1369,9 @@
       "photoAttribution": "Ng bwei",
       "tags": [
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Casual Eats"
       ]
     },
     {
@@ -1324,7 +1402,9 @@
       "photoAttribution": "L'Atelier de Joël Robuchon",
       "tags": [
         "Fine Dining",
-        "Good for Dinner"
+        "Good for Dinner",
+        "Splurge",
+        "Photography Worthy"
       ]
     },
     {
@@ -1344,7 +1424,9 @@
       "photoRef": "places/ChIJF2exlVdwsjURz5hOdo-VzKg/photos/AcnlKN2pt1ECz0wLJIQ-MMcGM7ZZaANGrlzTn0KN-P2EyUTtf5IeJ1f1nYkFb4cGGnHi_TXJ9FJHuyz9KGth_gciT-VvheqMDg2NQKD3KBK0n2RmySrKrOBJBxddeC3FlmW8mwz66lCuz4qQ4Ci3O3J96_Je9c5TxbYZc4xW63wq3LPd-LX0EPsSL9r0E8Ejz827ex6jzT0v2uqeXS8kfkgo0yttnQi7fSHcw2qoz54B6NbTpnRKMu3CAOcXN1OpKwR4OnO9C7kQQPjNOtlpWId2eBowZMfLJ9AJPxm8XmFFQUGA_1gHvOHV7fyHlcU51gBjXHO2TXbIUNTx5QvvS9mHVq9-lTTBQA6TRnJ57xice2xl2cg3eyhtIb8OLr5nIqo3HqNDUSO2KosC7QitHYEKtVPyXlMl9i6seUjmwXTQce5o5A",
       "photoAttribution": "Randolfo Santos ·",
       "tags": [
-        "Local Delicacies",
+        "Fine Dining",
+        "Cultural & Historical",
+        "Art & Design",
         "Photography Worthy"
       ]
     },
@@ -1376,7 +1458,8 @@
       "tags": [
         "Good for Dinner",
         "Local Delicacies",
-        "Splurge"
+        "Family Friendly",
+        "Cultural & Historical"
       ]
     },
     {
@@ -1405,8 +1488,11 @@
       "photoRef": "places/ChIJ-fSazGFwsjURVVNkbWQOq3I/photos/AcnlKN1rgCbgo4PVB6hQro667GLqmCpI07BIZ08cnQiHpG0vgczD2IiCRwbhEq3HWUgze7wfYVkTSYYqpa3gExSrdvxkxSUCGFYNNSkUC1GxBFkY_FelhPr3Oir0lEI4bTg7RLncBUrVSVsqjhUWEr_AdZrTd-lsaTkZE7WaX0PF3LHqIjwqM2rv7tEshPY5-6q5K6pXXn3mq4uxoIl91ijEkIvz4CyQk3dscgSbFL_CEgUXymKF6RfyU4BT2jJsveqEVY_MiR2qMQ__r5gBn79KAiZtxqAf16JG0cyzkoY_p2DszhX9Z4WLCvQ_da2tsbB2bUCtwDyJNFmrDNlXrQtwCLar0fWNEE9TsyRIgHtBBMADLdUbHwLwxxnRHn4kBTYjBw_nKJeuy1pF06IfyCqKiZRtjeL03qBKIrURdnNyKD4RAQ",
       "photoAttribution": "Savoir Aimer (Admin)",
       "tags": [
-        "Local Delicacies",
-        "Sweet Treats"
+        "Romantic",
+        "Good for Lunch",
+        "Sweet Treats",
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -1436,7 +1522,9 @@
       "photoAttribution": "Teo Kim",
       "tags": [
         "Cocktails & Bars",
-        "Good for Dinner"
+        "Good for Dinner",
+        "Local Delicacies",
+        "Casual Eats"
       ]
     },
     {
@@ -1457,7 +1545,9 @@
       "photoRef": "places/ChIJeVPwc_hvsjURh8tmZJBM7vY/photos/AcnlKN2zkV8pzqJjt1xgztU1IO4CZth8xPnIPhWy22DJdw9MxhfYgbkXfokQVVHrEuFSmm-eq0RWixNR0QFTQA1mizZRYAsOsZpGam243Jv6TWZBv5URFWSA79BfEHLuPzgX1QnJmNnyoBVd-87XHRp1Uq8FVYvi67fx-IxgtH--TkHPVfZafRVwlOlXI3aMUiW0WV-1I9sjYFaieJShS7uY1LDSRMKG9MhYa9jM4sFCdM1bWr2hTcQTuG4onTsgfVadYpyBSoA75h1SUw6sQ-WDHx8okG6UzmHRIcdGEoepcs8f9Z8LoxkVVaPqMKWUrQbosQ-MzlP-JQ2yijFHe6ZnlOKrJPcteZfo3gp9g_Tnedr0XexjkmO-v57TuRUezYEMAnKjyk7x-PwrWXfHADR-8n-KCmOqAUYPYuFBEgb8_MP8CJZCsgMN4-GYOIslbk1c",
       "photoAttribution": "Best Food Best Hotel",
       "tags": [
+        "Fine Dining",
         "Local Delicacies",
+        "Cultural & Historical",
         "Photography Worthy"
       ]
     },
@@ -1473,8 +1563,12 @@
       "placeId": "ChIJmwIGL6FxsjUR01GaKC47tt8",
       "address": "7F7Q+W5P, Bao An Lu, Luxun Park, Hong Kou Qu, Shang Hai Shi, China, 200081",
       "tags": [
+        "Good for Lunch",
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Casual Eats",
+        "Budget Friendly"
       ]
     },
     {
@@ -1503,7 +1597,10 @@
       "photoAttribution": "Wayne Tsao",
       "tags": [
         "Local Delicacies",
-        "Photography Worthy"
+        "Cultural & Historical",
+        "Good for Lunch",
+        "Casual Eats",
+        "Budget Friendly"
       ]
     },
     {
@@ -1532,9 +1629,10 @@
       "photoRef": "places/ChIJ_U1BJNpwsjURybxwV1UAOGM/photos/AcnlKN2yEnvokK7KLxZ_vkRLTtgRLa-77b_rrJKXgjjDZfevFZ9mQWiv3RAmCXPSrAIVphqJBxBeuEAQ45pcDCP8wmeEtA4aHkkvaQJdejD6fGcHC1P16M4q59bXjOOM3_Ci7P8uLVB1PWtPrrpK9KmTG57S4YdN3OgeBGDuKKm7XtMtnDwypM91GGqQaX6EZs7l7w4LE7uVdXST5xdSOB0r3p2TM1z-cfZHHh6Eahs4RAX13c-FP3WxQ4bMTWyv5s4oPEFsJOcnBT3peE8QCIxy0psHf6w3He-iyDYWWhY9s8rwAWQtVSWdDjfSm9c8VrwfMM1QJP384g2YslDpv7gfHZ1_eb2916eS2GJjmecKvWrUaEXw3Fqw2_XrJFItxUCXc-Xc2kXGOjKlZzUT1mq_ujxiSO60Y7LxeyY4IVIAhKk",
       "photoAttribution": "Mingyi Wang",
       "tags": [
-        "Cocktails & Bars",
+        "Fine Dining",
         "Local Delicacies",
-        "Splurge"
+        "Splurge",
+        "Good for Dinner"
       ]
     },
     {
@@ -1562,8 +1660,11 @@
       "photoRef": "places/ChIJwefaxOVwsjURyTdx93eSRfo/photos/AcnlKN2Kve5FKhQTmcWojIaygJApnmZHL8StibyXG4jX7Vl0_pN4iiSkuVv1QoiDDtLgHh-RiNptu7bicUbgW7PAWuc5mmGZM2Dya_lsRqN0FH7VbO5b_GxxDLqIc3lumYbYV3J4OhTrtYf3Hsy-oXmlC0e84mbx47fVv2Ov8jxi58oE_VJ0BLBGkENb1Zh3RyMP_xXUu-CRLuoRF9fb7ynvIzHKsB5GtlhcDXwu_Gwg53mmyo9DHhJEZY1olllh1Z4wroQG_Ka1rf034optAFwvptXbH5uXbgUX_voLHcnpQVs4cuOk8bTsWDm5lt5jKZZym1Xxcl2UJTdCbZ0kToZCKFP9kMkNcVNIZxllFAJspMVR6YxdZIF58XDtIlrliktmc1O1sMnTEbHhG4I010e7O-UuB6yVk80we_xsEAph5RXoniiu",
       "photoAttribution": "陳俊儒",
       "tags": [
+        "Good for Lunch",
         "Good for Dinner",
-        "Good for Lunch"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -1592,9 +1693,10 @@
       "photoAttribution": "zy",
       "tags": [
         "Casual Eats",
-        "Cocktails & Bars",
         "Local Delicacies",
-        "Photography Worthy"
+        "Romantic",
+        "Good for Lunch",
+        "Good for Dinner"
       ]
     },
     {
@@ -1625,9 +1727,9 @@
       "photoAttribution": "Sharon Chan",
       "tags": [
         "Fine Dining",
+        "Romantic",
         "Local Delicacies",
-        "Photography Worthy",
-        "Romantic"
+        "Cultural & Historical"
       ]
     },
     {
@@ -1658,7 +1760,9 @@
       "photoAttribution": "T'ang Court",
       "tags": [
         "Fine Dining",
-        "Good for Dinner"
+        "Good for Dinner",
+        "Splurge",
+        "Local Delicacies"
       ]
     },
     {
@@ -1681,7 +1785,9 @@
       "tags": [
         "Fine Dining",
         "Local Delicacies",
-        "Romantic"
+        "Romantic",
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -1713,7 +1819,9 @@
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Romantic",
+        "Splurge"
       ]
     },
     {
@@ -1745,8 +1853,8 @@
       "tags": [
         "Fine Dining",
         "Good for Dinner",
-        "Local Delicacies",
-        "Photography Worthy"
+        "Splurge",
+        "Cultural & Historical"
       ]
     },
     {
@@ -1768,6 +1876,7 @@
       "tags": [
         "Fine Dining",
         "Good for Dinner",
+        "Local Delicacies",
         "Photography Worthy"
       ]
     },
@@ -1790,6 +1899,7 @@
       "photoAttribution": "Amber",
       "tags": [
         "Fine Dining",
+        "Romantic",
         "Local Delicacies",
         "Photography Worthy"
       ]
@@ -1822,7 +1932,10 @@
       "photoAttribution": "Summer Palace",
       "tags": [
         "Fine Dining",
-        "Splurge"
+        "Splurge",
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner"
       ]
     },
     {
@@ -1853,7 +1966,9 @@
       "photoAttribution": "北京樓 (尖沙咀) Peking Garden Restaurant (Tsimshatsui)",
       "tags": [
         "Good for Dinner",
-        "Good for Lunch"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Fine Dining"
       ]
     },
     {
@@ -1884,7 +1999,10 @@
       "photoAttribution": "Shiba dinlo A",
       "tags": [
         "Fine Dining",
-        "Good for Dinner"
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Cultural & Historical"
       ]
     },
     {
@@ -1914,7 +2032,9 @@
       "photoAttribution": "はせがわたくみ",
       "tags": [
         "Local Delicacies",
-        "Photography Worthy"
+        "Cultural & Historical",
+        "Good for Lunch",
+        "Good for Dinner"
       ]
     },
     {
@@ -1944,7 +2064,9 @@
       "photoAttribution": "E. N.",
       "tags": [
         "Fine Dining",
-        "Good for Dinner"
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies"
       ]
     },
     {
@@ -1972,9 +2094,10 @@
       "photoRef": "places/ChIJG2ord24BBDQRIWuda8K5bEo/photos/AcnlKN1iFZU6FKw9GKTo_IoWbnXY2--o6U0THogRa2nyEZlnPQR52PouuH92SK2s6sB6KXLHzsMayVW2nPqup66tX47Nk6NMw-A_xTizNjGBArZGfzufmahObi0QGp5i7scOu3exRoWGTX1FS2HpJgibxPG_0mY2zOPmx6RiNg7P0nqibzaCGiZ3cbEXZp179ePmOo3ORja71s_8O7DPRxclCPNNgHF_wtFTrpe7VJmLRtg2W4Nq8M62DXwtnQywP7oXS9Bh5jtVd-3dP-l-ZH1_x2inoVkCHodFZwm4TxhuUmXN9ZFjUfSdhkecVmKpwI7Qb1R-zrRIj14HXz7OxQb7rGGGNtcCR_HNIfmlhGSlk9XAV1_cGrrabyk0jSfz7NdMzBgcpvvkDnzmd_gQIJlHZHRzdgYKRT4EIloXxWKw76kjdI8q",
       "photoAttribution": "ison YIM",
       "tags": [
-        "Cocktails & Bars",
-        "Local Delicacies",
-        "Photography Worthy"
+        "Fine Dining",
+        "Romantic",
+        "Cultural & Historical",
+        "Good for Dinner"
       ]
     },
     {
@@ -2004,10 +2127,10 @@
       "photoRef": "places/ChIJzwqDFXMABDQRTPseLKIdglo/photos/AcnlKN1oygRT4l6G06qst9yqsgvbeUgG3XZaErsBVQ65GugHF5vct0kW77VqsFcV7Kr8QS3KxukuBih4kqK2Ga2C3HH86so8wvTWMOcToe4rgQTI7NoPSbenEul_PKq37vzMJkr9-Zay5RqZHJWautqErNCI6akPug_1-LkbjDNwmhB_HkbNjQqYoY6HWRFFTQY_7KUGEDLqir7IFLsyOAWml-hovheS93T4NgY1DF7QXZ9CMroVPdWnC_EiCsnTdCTSybd546wZtHivq07DZg9OPBKZuoM1XTH5mMKFrcHP-L317Q",
       "photoAttribution": "Bubba Gump Shrimp Co. Hong Kong",
       "tags": [
-        "Casual Eats",
         "Family Friendly",
         "Good for Dinner",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Casual Eats"
       ]
     },
     {
@@ -2038,7 +2161,11 @@
       "photoAttribution": "Yung Kee Restaurant",
       "tags": [
         "Good for Dinner",
-        "Good for Lunch"
+        "Good for Lunch",
+        "Fine Dining",
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -2065,7 +2192,9 @@
       "photoAttribution": "ミヤシタタダシ",
       "tags": [
         "Family Friendly",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Casual Eats",
+        "Cultural & Historical"
       ]
     },
     {
@@ -2084,7 +2213,8 @@
       "tags": [
         "Casual Eats",
         "Local Delicacies",
-        "Photography Worthy"
+        "Cultural & Historical",
+        "Budget Friendly"
       ]
     },
     {
@@ -2113,7 +2243,9 @@
       "photoAttribution": "My Linh Han",
       "tags": [
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Casual Eats"
       ]
     },
     {
@@ -2140,7 +2272,10 @@
       ],
       "tags": [
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Family Friendly",
+        "Casual Eats",
+        "Cultural & Historical"
       ]
     },
     {
@@ -2166,8 +2301,11 @@
         "Sunday: 10:00 AM – 9:30 PM"
       ],
       "tags": [
+        "Good for Lunch",
         "Good for Dinner",
-        "Good for Lunch"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Casual Eats"
       ]
     },
     {
@@ -2189,7 +2327,10 @@
       "photoAttribution": "Wendy",
       "tags": [
         "Casual Eats",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Good for Lunch",
+        "Good for Dinner"
       ]
     },
     {
@@ -2219,7 +2360,8 @@
       "tags": [
         "Good for Dinner",
         "Local Delicacies",
-        "Photography Worthy"
+        "Cultural & Historical",
+        "Adventure & Active"
       ]
     },
     {
@@ -2239,7 +2381,9 @@
       "photoAttribution": "Zakwan Fadzil",
       "tags": [
         "Local Delicacies",
-        "Sweet Treats"
+        "Casual Eats",
+        "Good for Lunch",
+        "Cultural & Historical"
       ]
     },
     {
@@ -2261,7 +2405,7 @@
         "Fine Dining",
         "Good for Dinner",
         "Local Delicacies",
-        "Photography Worthy",
+        "Cultural & Historical",
         "Splurge"
       ]
     },
@@ -2278,7 +2422,9 @@
       "address": "China, Shan Xi Sheng, Xi An Shi, Lian Hu Qu, 18, Da Xing Dong Lu, 18号1层大兴九臻商铺 邮政编码: 710082",
       "tags": [
         "Casual Eats",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -2294,7 +2440,9 @@
       "address": "China, Shan Xi Sheng, Wei Nan Shi, Lin Wei Qu, 20, 东北方向30米 邮政编码: 714026",
       "tags": [
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Casual Eats"
       ]
     },
     {
@@ -2324,7 +2472,9 @@
       "photoAttribution": "Xu’s Restaurant",
       "tags": [
         "Local Delicacies",
-        "Photography Worthy"
+        "Cultural & Historical",
+        "Good for Lunch",
+        "Good for Dinner"
       ]
     },
     {
@@ -2353,7 +2503,9 @@
       "photoAttribution": "K Kim",
       "tags": [
         "Casual Eats",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -2373,7 +2525,11 @@
       "photoAttribution": "jin kim",
       "tags": [
         "Local Delicacies",
-        "Photography Worthy"
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Casual Eats",
+        "Good for Lunch",
+        "Good for Dinner"
       ]
     },
     {
@@ -2402,7 +2558,9 @@
       "photoAttribution": "K Kim",
       "tags": [
         "Casual Eats",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -2431,7 +2589,9 @@
       "photoAttribution": "Jesús",
       "tags": [
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Romantic"
       ]
     },
     {
@@ -2461,7 +2621,8 @@
       "tags": [
         "Casual Eats",
         "Local Delicacies",
-        "Photography Worthy"
+        "Cultural & Historical",
+        "Budget Friendly"
       ]
     },
     {
@@ -2477,7 +2638,10 @@
       "address": "China, Shan Xi Sheng, Xi An Shi, Lian Hu Qu, 大兴西路辅路7VQP+7HJ 邮政编码: 710082",
       "tags": [
         "Casual Eats",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Cultural & Historical"
       ]
     },
     {
@@ -2507,7 +2671,10 @@
       "photoAttribution": "Fuldien Li李復甸",
       "tags": [
         "Fine Dining",
-        "Good for Dinner"
+        "Good for Lunch",
+        "Good for Dinner",
+        "Local Delicacies",
+        "Photography Worthy"
       ]
     },
     {
@@ -2535,8 +2702,11 @@
       "photoRef": "places/ChIJX5H7WY_4AjQRHbADa-EcdnU/photos/AcnlKN3aq6XUZey4uRGf2zSg3cm5IvTeUQddGdPEiNSs3O9npw6fRzNt_ThBtibAK094BNVDlI8DE8Qz4RNEv_kE-hhDwV3KLSRJZTSB2IxEknssvl6CFcf_Albv-ZqmdF_iMh0mx3FZUC49tPYitTj7Or5JCKxhZBnol_sVN2QtoqlE8LjmVs-NZTMFmptneSr6HJTXRQztnNPA-oLFewTXspDs-sTgtgN6wZbb6slW-RKsrRnK345sapCYcJNraR3i3i-PpKh8t6Q7KdiCgJZhvYhlTokJVmxfJpGtEMpk56fQT0t2Lf4mYhau-U4uHFGoYpDAG-wwLMnjMXj2C58cur8I878DyX7_Wh6bHU4l179RdOPFGErjwtmEJ70zXHAPw8f16GQ7VEEphmm8Abwp03Q-IPe1XQPwjRASQD3xADZXfw",
       "photoAttribution": "Myra Lee",
       "tags": [
+        "Good for Lunch",
         "Good for Dinner",
-        "Good for Lunch"
+        "Local Delicacies",
+        "Casual Eats",
+        "Photography Worthy"
       ]
     },
     {
@@ -2556,7 +2726,10 @@
       "photoAttribution": "Masaaki Moriyama",
       "tags": [
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Family Friendly",
+        "Photography Worthy"
       ]
     },
     {
@@ -2578,7 +2751,9 @@
       "tags": [
         "Good for Dinner",
         "Local Delicacies",
-        "Romantic"
+        "Romantic",
+        "Photography Worthy",
+        "Cultural & Historical"
       ]
     },
     {
@@ -2607,7 +2782,10 @@
       "photoAttribution": "Ian Chow",
       "tags": [
         "Casual Eats",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Good for Lunch",
+        "Cultural & Historical",
+        "Family Friendly"
       ]
     },
     {
@@ -2628,7 +2806,8 @@
       "tags": [
         "Good for Dinner",
         "Local Delicacies",
-        "Photography Worthy"
+        "Family Friendly",
+        "Cultural & Historical"
       ]
     },
     {
@@ -2658,7 +2837,9 @@
       "photoAttribution": "dyma alyn",
       "tags": [
         "Local Delicacies",
-        "Photography Worthy"
+        "Cultural & Historical",
+        "Casual Eats",
+        "Adventure & Active"
       ]
     },
     {
@@ -2689,7 +2870,9 @@
       "photoAttribution": "Betty H",
       "tags": [
         "Local Delicacies",
-        "Photography Worthy"
+        "Cultural & Historical",
+        "Good for Lunch",
+        "Good for Dinner"
       ]
     },
     {
@@ -2717,8 +2900,11 @@
       "photoRef": "places/ChIJLy0D9Mb1pDYRKM6vdFcB8VM/photos/AcnlKN2IWP5gTrjzFmtKHrmaR-LFA8Xd2i3ZLZVeylDNw_ZNcYcquIQ4RQZ12NowZwUt8f2tAe3XCi3Fpl-OtX7dx0vyDszB2JQGxtQ6Cz2DmOIUFjInJsQO5cUb4QrLsGRfKJgfAGiZa56Qjkvk6IfcG2p-8gtQWhVK7Ka4zjsPFOH2qFxA9uk-gJ_7czml6oYfw1Xsjte1_WOOwwQ3Gd4ZLO2qcyrIm4mlnVjMsYdam7fqsoYzQsh67WOwqc3QHxBtZzniXpO5rpO_YARmiM_cY1dnzUNnLdFESHz9wmJPa2_97eo8FgfdRK9r5mgghp5mZs1Iv3KLutnjsSf4lODwMty8DdXvC8Q0cH1Wv4DiS4XzCR4paW_BoA5YxxmniiZ8mdcPRxCa55BQHCZLzuqlhVEzalNe4kYfgpa1QjjbiBGPgg",
       "photoAttribution": "Martín Valdez Stuard",
       "tags": [
+        "Good for Lunch",
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Casual Eats",
+        "Budget Friendly"
       ]
     },
     {
@@ -2738,7 +2924,10 @@
       "photoAttribution": "Platinum Guide",
       "tags": [
         "Local Delicacies",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Good for Lunch",
+        "Good for Dinner",
+        "Casual Eats"
       ]
     },
     {
@@ -2752,9 +2941,10 @@
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Fish%20and%20Bamboo%20Raft%20Dinner&center=25.2908,110.2911",
       "tags": [
         "Good for Dinner",
+        "Romantic",
         "Local Delicacies",
-        "Nightlife",
-        "Romantic"
+        "Photography Worthy",
+        "Cultural & Historical"
       ]
     },
     {
@@ -2774,7 +2964,11 @@
       "photoAttribution": "吳吳守信",
       "tags": [
         "Local Delicacies",
-        "Photography Worthy"
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Romantic",
+        "Good for Lunch",
+        "Good for Dinner"
       ]
     },
     {
@@ -2795,7 +2989,10 @@
       "photoAttribution": "Clark Lin",
       "tags": [
         "Good for Dinner",
-        "Local Delicacies"
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Splurge",
+        "Photography Worthy"
       ]
     },
     {
@@ -2815,6 +3012,9 @@
       "photoAttribution": "DraDra Lee",
       "tags": [
         "Local Delicacies",
+        "Cultural & Historical",
+        "Good for Lunch",
+        "Good for Dinner",
         "Photography Worthy"
       ]
     },
@@ -2832,9 +3032,11 @@
       "rating": 5.0,
       "ratingCount": 1,
       "tags": [
-        "Cocktails & Bars",
         "Local Delicacies",
-        "Photography Worthy"
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly",
+        "Casual Eats"
       ]
     }
   ],
@@ -2867,8 +3069,7 @@
       "tags": [
         "Cultural & Historical",
         "Photography Worthy",
-        "Splurge",
-        "Wellness & Spa"
+        "Outdoor & Nature"
       ]
     },
     {
@@ -2946,8 +3147,7 @@
         "Cultural & Historical",
         "Outdoor & Nature",
         "Photography Worthy",
-        "Rainy Day",
-        "Splurge"
+        "Family Friendly"
       ]
     },
     {
@@ -2979,7 +3179,7 @@
       "tags": [
         "Cultural & Historical",
         "Photography Worthy",
-        "Rainy Day",
+        "Outdoor & Nature",
         "Wellness & Spa"
       ]
     },
@@ -3002,7 +3202,7 @@
         "Art & Design",
         "Cultural & Historical",
         "Photography Worthy",
-        "Wellness & Spa"
+        "Family Friendly"
       ]
     },
     {
@@ -3031,7 +3231,9 @@
       "photoAttribution": "XUJIA WANG",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Rainy Day"
       ]
     },
     {
@@ -3052,7 +3254,10 @@
       "photoAttribution": "Giannina Laffi",
       "tags": [
         "Cultural & Historical",
-        "Family Friendly"
+        "Family Friendly",
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active"
       ]
     },
     {
@@ -3082,10 +3287,10 @@
       "photoRef": "places/ChIJxUzg_TRT8DUR0MslZbKzbF4/photos/AcnlKN2RTv_AOYzWVi6iN6llGCkX9Oj_QUYQquEqfYxZ87rfvNHW2Yjn_ZfjUEG5bJw4HJkMWmJq4fYcCC_94h3oEoOQe4ageRywNWdAWAq-P0nfgcetm7BSQu7AwtxRUQ_yTCu5UvHRUKI53mVX7GoMnESAao1awRY5X2J0Tc3qZPx69gV--Vz1mt8OvEtwWQUUks90arEok6J0_3ABO7VzWrFD2yGHivKUfy5lxHEJmUkjZhEKrjOIcV1MV6-8j4-0ZTO6drc-PQFRkbIV3FrIJfRKSI8HzTmJGq9Kie2WiFvjNGSTXSQ1LZX8BNrFZft0PLhdaXbNkNmZt5mMLj-B_z5t76Sba-jsgwoqoWesbEi84dExFL0T7sg6ja0QLnIWq9_zDw8jMPImC4nWfoXCV3Ema0SzlcBiaX6Pn9CuKaFzt5Mx",
       "photoAttribution": "Anonya Roy",
       "tags": [
-        "Adventure & Active",
         "Cultural & Historical",
         "Photography Worthy",
-        "Rainy Day"
+        "Rainy Day",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -3116,7 +3321,8 @@
       "tags": [
         "Art & Design",
         "Cultural & Historical",
-        "Rainy Day"
+        "Rainy Day",
+        "Photography Worthy"
       ]
     },
     {
@@ -3134,7 +3340,10 @@
       "photoAttribution": "Jerry Kwok",
       "tags": [
         "Art & Design",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Casual Eats",
+        "Rainy Day"
       ]
     },
     {
@@ -3148,7 +3357,8 @@
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Beijing%20Calligraphy%20Masterclass&center=39.907,116.409",
       "tags": [
         "Art & Design",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Rainy Day"
       ]
     },
     {
@@ -3170,7 +3380,8 @@
         "Art & Design",
         "Cultural & Historical",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -3231,11 +3442,10 @@
       "photoRef": "places/ChIJPWUSbWlwsjURbNvIw3tOTE0/photos/AcnlKN2PLKeNNOAZGXeZvnsq9sjDE-Wg_Ilzbs3muH60n_I1HyEnet61gD7pN92-Z2mBpv2jJhdoU651jI0V42n3E_HctDylBAWM6zGYK_YBQMqC67Fx0yGHZy-yMB67o6SgzslkIprgVZAPp8tipCw7xaQQsj_M1B3MaQMxe0MSwtxtSxl-n7k0o3metLz1Og5QhBGnJ-qPO3u5n73XmU9NGDkZP9W24ekagNl881PYV6IzIcdRdahoIjI62W2aDEOXKmGT7RvX5vxobHmIHTTXSt6B9P4v4h69vtRecrvm7P3F5KxSWHkAugpzEcLyiTq1sM3MdczyjmQg8fwlxln912sLff91hFKVEoozjRrP5MMCUsh3tYp4l140k2gU3YlvyJuuOmosuENPycadAoaVhXM9oFkN71Et_EHluPiIOwk3WY7drtUd-Dq-2WupRA",
       "photoAttribution": "Simon Nadeau",
       "tags": [
-        "Adventure & Active",
-        "Art & Design",
         "Cultural & Historical",
+        "Art & Design",
         "Rainy Day",
-        "Wellness & Spa"
+        "Photography Worthy"
       ]
     },
     {
@@ -3255,7 +3465,9 @@
       "photoAttribution": "chrisiogwaan",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
       ]
     },
     {
@@ -3283,10 +3495,10 @@
       "photoRef": "places/ChIJVV1KHv5vsjURQgiHHZfGW3o/photos/AcnlKN0NB47L6mcW5uxT4OCWVk0Rl8uJXrV3BbXY9lJhnW_CZW_bm58M2emsYYPVexx52lpliTMaG65WBuDXAxEQQKSgnGlxHPj4svW7Ib_OCC34OBJ5G5jWDYhYV3cMF0QQaLUH-jMg3DrePc1E6dywAO4520RXakcFQqxZlcuGtGJRmVJFT0RD0YxNtRgN-JyWFCY5a0oOQ5tZtk3N_s6DOD-5Wi5q4KRJK842qtrlrjwuEzTgAQeSJ2QUFOdYcXELeQd4TNU-eDxSYg2NUzJ228MFYowNchqwVUX8UH_QW1OyZuR1BqvynDB2WfoQyllR84p7HDrot7L2OKpVy0N7e58OUxrayHbxVxFWH5I_3b5k-9YTx_1hFlHyARR88QxsOQ9WiH-yKOfzOpX28QukXSWAw4JFYaLcoJYZWj3TsfsWQ6diY_O8TuNULr34xM9r",
       "photoAttribution": "Doug Ho",
       "tags": [
-        "Adventure & Active",
         "Cultural & Historical",
         "Rainy Day",
-        "Wellness & Spa"
+        "Wellness & Spa",
+        "Photography Worthy"
       ]
     },
     {
@@ -3307,7 +3519,9 @@
       "photoAttribution": "Sumon Rahman",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Adventure & Active",
+        "Family Friendly"
       ]
     },
     {
@@ -3327,7 +3541,9 @@
       "photoAttribution": "Valts Vitums",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Family Friendly"
       ]
     },
     {
@@ -3348,7 +3564,6 @@
       "tags": [
         "Cultural & Historical",
         "Photography Worthy",
-        "Rainy Day",
         "Wellness & Spa"
       ]
     },
@@ -3369,11 +3584,10 @@
       "photoRef": "places/ChIJZVI3_ZpwsjURW7dMVvJAPS0/photos/AcnlKN1bba0LVWp79U6gQkxCR-NfoDK2GE8V2MV_F9XD7_EkpSotk7Lw6PyaAIMnh9G8L8TIdsRLPyS3HfzIfVd3rLD3aS3zyjFE6gRP2GPwGxldJkjLdEd_Z6akfBr6ITAW3TRUdYLGXwPV54BjhClu2rKYwLwXySq4WgXCXGQX28rh7zhD8guz8MVSxtxCn5MKdwA1ykvn06yaJcU44Lm_x-9X5aC2fiFxWEINxVqkkYlR1_L5RKdl9VWnsCr5sgRcFFwy3uvIsbazRmDbs3vB2RcYoI2_369hNmdnmuil_ekKjGfC-FaPN8grOgGeJ63m6-QuEVt6Oafer4nAP-HQuudMFYCyw1qUEX-659KsoHYMRXsbGQeWcF_u5S0jupXuosIhVdfYhSYioevXtk8ZCQfYv8fPF5VRlw6CDuLG_3E",
       "photoAttribution": "Sathya Narayanan Subramanian",
       "tags": [
-        "Adventure & Active",
-        "Art & Design",
         "Cultural & Historical",
-        "Rainy Day",
-        "Wellness & Spa"
+        "Art & Design",
+        "Photography Worthy",
+        "Rainy Day"
       ]
     },
     {
@@ -3395,7 +3609,9 @@
         "Art & Design",
         "Cultural & Historical",
         "Photography Worthy",
-        "Shopping"
+        "Shopping",
+        "Romantic",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -3425,7 +3641,9 @@
       "photoAttribution": "Xiangying Ji",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Local Delicacies",
+        "Family Friendly",
+        "Rainy Day"
       ]
     },
     {
@@ -3446,7 +3664,9 @@
       "photoAttribution": "Globetrotter",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Family Friendly"
       ]
     },
     {
@@ -3467,7 +3687,9 @@
       "photoAttribution": "Pat Chun Chan",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Family Friendly"
       ]
     },
     {
@@ -3499,7 +3721,7 @@
         "Cultural & Historical",
         "Outdoor & Nature",
         "Photography Worthy",
-        "Rainy Day"
+        "Adventure & Active"
       ]
     },
     {
@@ -3519,7 +3741,10 @@
       "photoAttribution": "Cathy Shiau",
       "tags": [
         "Cultural & Historical",
-        "Nightlife"
+        "Nightlife",
+        "Photography Worthy",
+        "Romantic",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -3550,7 +3775,9 @@
       "tags": [
         "Cultural & Historical",
         "Photography Worthy",
-        "Romantic"
+        "Romantic",
+        "Outdoor & Nature",
+        "Adventure & Active"
       ]
     },
     {
@@ -3579,11 +3806,10 @@
       "photoRef": "places/ChIJzZRAMu8ABDQRImlPUEb6RoI/photos/AcnlKN1oLefWTl7j-tGFHWjQdLz_xZmS8ZOZ7BFYoRQLsOi9ZgiPo_LyYa8oaQY-h9LGcbVyIxmNFPfe62DJHYcFem_cWuN6QpENia1CNUmj--K5ZPSk6O9m8GJpTYYVHpjxoeKfxIwU2--ynFwt850CTG1WYBne2-g6YEjViYQRtv0_1PA4v1sF0EhBZF_7B_h9S0960Va4Imc-YQcHybwCK-MLO0d3W8Nu_ZoIvGgThG_nx8PzDir8cAH5OubEwsCUOhUu6OP2wJETIChGry9UPAnM6ZUB8Qb4yLccMSyvF4yQan4ID6NcSYtSJkJkYnQBfTxNZKJTv-YZPjVmMu7v7x2iJkYBL5LwHgzC-tiigzHHpanqmLF2be70D19fPXB0QnupWS6M7-G1r5ydvdIVrE5v238AHl-6G05iQsCsMU1UE6o",
       "photoAttribution": "Ginger Luk Reiki",
       "tags": [
-        "Adventure & Active",
-        "Art & Design",
         "Cultural & Historical",
         "Rainy Day",
-        "Wellness & Spa"
+        "Photography Worthy",
+        "Family Friendly"
       ]
     },
     {
@@ -3614,8 +3840,10 @@
       "tags": [
         "Cultural & Historical",
         "Nightlife",
-        "Rainy Day",
-        "Shopping"
+        "Shopping",
+        "Local Delicacies",
+        "Photography Worthy",
+        "Budget Friendly"
       ]
     },
     {
@@ -3635,11 +3863,10 @@
       "photoRef": "places/ChIJPZXTUy_8AzQRBVRH5GyvszU/photos/AcnlKN1Jtr5EYRs3bkW4Y-RFZuWKx2UoyKLpnZKlTCJQjIc1ALrL6LyKJt0EZNcc-4r8At1rRoaFZqtnpunowqNeFMEZr8jb28IZwEwBn8gVnINVVyIl1EQCKAkO5K6-FCosHA4y81YeG0YCy0XGcWDwnTE7xK3wQcmRhv5fXktRBsiJFWdd7KlTD8q4sutljas8Icg-knH9_XuQzxsp0r-u5PvDey9aOxGy34zDzn9wt38xgfqriquzr5FEcQ-FlrTJtoCMRL09S5SG01G4eZi46nng_8VGrltHOknlkBQYfsP6XFkxreFnxEfRG2ZVHwOZRc4bJqs0S2X-M0DRUcmjiZB509hK7ORdVaMVZ4Kzf1aZpTI13Osdtsiz4isUz_WKxL0Hv7fARKR40MKMikIZzW9sBinxZwBHFzDJS9HmGxs",
       "photoAttribution": "Muhammad Rasyah",
       "tags": [
-        "Cultural & Historical",
         "Family Friendly",
         "Outdoor & Nature",
         "Photography Worthy",
-        "Wellness & Spa"
+        "Adventure & Active"
       ]
     },
     {
@@ -3656,10 +3883,10 @@
       "photoRef": "places/ChIJZcvy3piqBjQRpPH7HYUzUo4/photos/AcnlKN2eQdO71S3cXIUtrwXmD-RRkm-2ItO7EWDz2q3oRPGB7jtX026qvNwAP5Ig7Mu6iROWqKEQo389SunW6CCGpjIeA90vmEv_L_Hfnb6aHY2XoqK1dYoNcLZ5O8x2nV2YgYMWgE7ML9TlyoDYT652wIVCmJs0L0O-GWoZ0MqjXkkCAyoJ2i9Rb5HzxIDeperZzXafi91sckwnLJFTkgSmpTojQeVbRIRGGzRDrML0g2uC3lC0loV8j4YI29zsR0k_7c69bdmUEK0JjP6HUCknBPYi_RBDISZd4anJyBokLxbzYFXpY3Np8rgLJQZtDZWTXR2EJGqk6SZtiWYFL45mqTZghVI3kaOCSDaxsAyRITirwUE0PUlmCrHWRrTV77xi-LmJa5bnXh5_Z631OEgUWn8i2EKSIudSt2RBX_-AmtI",
       "photoAttribution": "T.O. Chan (國tai民on)",
       "tags": [
-        "Cultural & Historical",
         "Family Friendly",
         "Outdoor & Nature",
-        "Wellness & Spa"
+        "Adventure & Active",
+        "Photography Worthy"
       ]
     },
     {
@@ -3689,7 +3916,7 @@
       "photoAttribution": "Hugo But",
       "tags": [
         "Cultural & Historical",
-        "Rainy Day",
+        "Photography Worthy",
         "Wellness & Spa"
       ]
     },
@@ -3719,7 +3946,10 @@
       "photoAttribution": "Lim Pin",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Romantic",
+        "Cocktails & Bars"
       ]
     },
     {
@@ -3737,7 +3967,10 @@
       "photoAttribution": "Chinaphong Kowong",
       "tags": [
         "Cultural & Historical",
-        "Shopping"
+        "Shopping",
+        "Local Delicacies",
+        "Photography Worthy",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -3767,7 +4000,9 @@
       "photoAttribution": "maurizio mallia",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Family Friendly"
       ]
     },
     {
@@ -3797,7 +4032,9 @@
       "photoAttribution": "Savoir Aimer (Admin)",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Family Friendly",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -3819,8 +4056,7 @@
       "tags": [
         "Cultural & Historical",
         "Outdoor & Nature",
-        "Photography Worthy",
-        "Rainy Day"
+        "Photography Worthy"
       ]
     },
     {
@@ -3850,7 +4086,10 @@
       "photoAttribution": "Savoir Aimer (Admin)",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Local Delicacies",
+        "Shopping",
+        "Family Friendly"
       ]
     },
     {
@@ -3870,7 +4109,10 @@
       "photoAttribution": "Sarah Plack",
       "tags": [
         "Art & Design",
-        "Cultural & Historical"
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Local Delicacies"
       ]
     },
     {
@@ -3899,7 +4141,10 @@
       "photoAttribution": "Jimmy Lee",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Rainy Day",
+        "Local Delicacies",
+        "Photography Worthy",
+        "Romantic"
       ]
     },
     {
@@ -3920,7 +4165,8 @@
       "tags": [
         "Cultural & Historical",
         "Photography Worthy",
-        "Rainy Day"
+        "Outdoor & Nature",
+        "Family Friendly"
       ]
     },
     {
@@ -3942,7 +4188,6 @@
         "Cultural & Historical",
         "Outdoor & Nature",
         "Photography Worthy",
-        "Rainy Day",
         "Wellness & Spa"
       ]
     },
@@ -3964,7 +4209,9 @@
       "photoAttribution": "Mohan Sun",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Rainy Day"
       ]
     },
     {
@@ -3986,7 +4233,9 @@
       "tags": [
         "Art & Design",
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Family Friendly",
+        "Rainy Day"
       ]
     },
     {
@@ -4016,7 +4265,9 @@
       "photoAttribution": "Google Mechanic",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Family Friendly"
       ]
     },
     {
@@ -4038,7 +4289,8 @@
       "tags": [
         "Adventure & Active",
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -4058,9 +4310,7 @@
       "photoAttribution": "Phương Anh Lê",
       "tags": [
         "Cultural & Historical",
-        "Outdoor & Nature",
         "Photography Worthy",
-        "Rainy Day",
         "Wellness & Spa"
       ]
     },
@@ -4090,11 +4340,10 @@
       "photoRef": "places/ChIJd1pQT2FwYzYR-Bcdx8lqHg0/photos/AcnlKN0YnlsB29w68lnD5q9sPhGZNEHMwYAbMkkzEjI48lU_Doc2hkMOdlUXVjBdCVJG6IZibw7vpqDSvwCs4hqwkOk6WX1RHfPLU8Eyhl5ggc2YLl-KUjTUdiFasIYHV5hEJrzUo2DL1QVB9bNU0VjqphcYM_4pzukgjN6cGlQBJ5PeiGKPTCnplYxaip7nrHvfvqtSbMqVc3kKAE_5pa1kAKKBM5PDyw757BvuEUsS9q0pWUxyFnivdlrg1bzBQm35n5RrU0B_TOygReBSTkW7NX3v5-FIs-2oo3HpTw8TcibVt60nAeLJLYmO1kxdhP_7PkNtzUmEd041BaAb0-e8ggsNV2sjQEsJoqzJGb9po8j-LFDANf9SCDu4ukqh_3o0s1PXiV4_FaET1oYDtf8eOi4YdO4PRUiH5maZihoZQEaiuw",
       "photoAttribution": "Hao Wang",
       "tags": [
-        "Adventure & Active",
-        "Art & Design",
         "Cultural & Historical",
+        "Art & Design",
         "Rainy Day",
-        "Wellness & Spa"
+        "Photography Worthy"
       ]
     },
     {
@@ -4113,8 +4362,9 @@
       "photoRef": "places/ChIJ7UHGLGZ6YzYRahR4zEvkDBs/photos/AcnlKN1PZ31662Zt899oIEcZCdVwELZ4sUkTVqsWB9ykkdAP3YBPWikILYgDg56yAgHqSUMOB-0HWZLzuy6ezccTGCn757KNIWbW5H_DjqiR9_tPhLNPfCrWUbfvUYuGGiJYfLSqX_a6U6vRS1EEvtmj2SIUBJ3CyFt_zfGPas3crQx5RtRpLPcKe5EVpd0mSfRVxI5UxN9ZEuV3ANEhg2Q9TCwfxK3dyuiFm38uSpaM3uOtTUHys3qEE8WpIPsQDsQjr7wrH50jgI0vcbf4JzBqXVcNPrwEfVA0baY-6mnufXR_hQf4nuRsz4n3v_-2OiTRErIhwNRqsVZsq7HYGae1bgAxH_WgvNLSerHg5GD3wHOuh1pVgs96FWvV_rRUIs66px44JZyiWmJof2lpJJiP2MMBiBfA9fIhdFhnuzwx5BA2fgd_dtCQ5Sb3jDoIJKTg",
       "photoAttribution": "jin kim",
       "tags": [
-        "Art & Design",
         "Cultural & Historical",
+        "Local Delicacies",
+        "Outdoor & Nature",
         "Photography Worthy",
         "Shopping"
       ]
@@ -4136,6 +4386,7 @@
       "photoAttribution": "Tomáš Bok",
       "tags": [
         "Cultural & Historical",
+        "Photography Worthy",
         "Rainy Day"
       ]
     },
@@ -4157,7 +4408,8 @@
       "tags": [
         "Cultural & Historical",
         "Nightlife",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -4177,11 +4429,10 @@
       "photoRef": "places/ChIJh0jQqIF6YzYRhpNkKbDSkLA/photos/AcnlKN2Du5Ad1z0SD1t6vRfuNHAEuYnXY4eP6LRsgxOU0BWPUCaFHs_Fe3Aaah2B5yQop2Pnd5ZOhUSMhYXlVu-odbCJztsyd7BMStfZQM6K_WYeFJlpSU42-_UVPRzUvhQI78zdnNuEq3cYA-bY7bgKCukZj4AMcjHMdlTbghNawZBz4si0oq5qx0YaBQcr8ojwbVoUdWFPbwLjBzG4XRpinNHxHamYuLoT5zN8x0yWGob3i51gqdplFjvGv-A5MpSDFp5BsuYk-IQvibt5mUBugXSSEy4AMTwB8-SZ6DUZDE98LGdCJlNn91TzV0ZAR9L7ww1uqCcgD6gYNY2O3QnOFatEowBCOz9_90zRwAkIae_OvJKXaEuUC0bV6Qhh3KU9V9Gh_6CVIYleIINywPg-o7yHqKfhOSJvMyIkLmpWRyU",
       "photoAttribution": "Hao Wang",
       "tags": [
-        "Adventure & Active",
-        "Art & Design",
         "Cultural & Historical",
-        "Rainy Day",
-        "Wellness & Spa"
+        "Art & Design",
+        "Photography Worthy",
+        "Rainy Day"
       ]
     },
     {
@@ -4211,7 +4462,9 @@
       "photoAttribution": "Black Cuban",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Family Friendly",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -4231,7 +4484,9 @@
       "photoAttribution": "Chandana Gunatilake",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Adventure & Active"
       ]
     },
     {
@@ -4260,7 +4515,9 @@
       "photoAttribution": "Dennis L",
       "tags": [
         "Cultural & Historical",
-        "Outdoor & Nature"
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy"
       ]
     },
     {
@@ -4280,7 +4537,9 @@
       "photoAttribution": "BonnCrew",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Rainy Day"
       ]
     },
     {
@@ -4325,7 +4584,9 @@
       "gmapsUrl": "https://www.google.com/maps/search/?api=1&query=Cormorant%20Fishing%20%28Night%20Performance%29&center=25.2908,110.2911",
       "tags": [
         "Cultural & Historical",
-        "Nightlife"
+        "Nightlife",
+        "Photography Worthy",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -4354,7 +4615,9 @@
       "photoAttribution": "Taoan Ma",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Family Friendly"
       ]
     },
     {
@@ -4396,7 +4659,9 @@
       "photoAttribution": "Lê Quang Vũ",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Outdoor & Nature",
+        "Rainy Day"
       ]
     },
     {
@@ -4415,11 +4680,11 @@
       "photoRef": "places/ChIJz_HefQeF0DYRQa99Xk1W6Co/photos/AcnlKN06mzjmkDvgHAYH_d-I81gG2Fl-j1bF1rO8r16-3w_3EHIDcS-gmC4P3qHCzaSPHi48Ay70CX--kr-4z7uJvOfnzLXCd1RTK9B0HC2HOM4Ei03qaLl71YvDzTeHmZGwn_gOu405Lqf4TE2MliNYvx9-K9X4trvSy2DltcB7SbiPS6CWOQWFqMChs5_BrRK1Ehu1jQmySkxel01QN49P3WXNQh9PR24ik6i7507HnWGrlC7fkLCF48diLsSnBXv7Jb3Hw-QusUlpAoJledofLB3riqQN0XDj_6JQCzbda07n5QX-tLoHUUwqt3gVX0ok3nHIozjS5Q0bNuN1spAgZYmfax5As97HkBAhtZMuVMj5q97QB0BtoIADZ0rSqXHT2geH20UX9lAjoMppDXSLUMW4Lgx4N9R7maiXTy_dkqDbZP4C",
       "photoAttribution": "Sam Hsieh",
       "tags": [
-        "Adventure & Active",
-        "Art & Design",
         "Cultural & Historical",
+        "Art & Design",
         "Rainy Day",
-        "Wellness & Spa"
+        "Family Friendly",
+        "Photography Worthy"
       ]
     },
     {
@@ -4441,7 +4706,6 @@
         "Cultural & Historical",
         "Outdoor & Nature",
         "Photography Worthy",
-        "Rainy Day",
         "Wellness & Spa"
       ]
     },
@@ -4462,7 +4726,8 @@
       "photoAttribution": "Natalya B",
       "tags": [
         "Cultural & Historical",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Rainy Day"
       ]
     }
   ],
@@ -4485,7 +4750,8 @@
       "photoAttribution": "a t",
       "tags": [
         "Family Friendly",
-        "Rainy Day"
+        "Rainy Day",
+        "Toddler Friendly"
       ]
     },
     {
@@ -4506,7 +4772,9 @@
       "photoAttribution": "Alina",
       "tags": [
         "Family Friendly",
-        "Rainy Day"
+        "Toddler Friendly",
+        "Outdoor & Nature",
+        "Cultural & Historical"
       ]
     },
     {
@@ -4527,7 +4795,9 @@
       "photoAttribution": "吉达星",
       "tags": [
         "Family Friendly",
-        "Rainy Day"
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Toddler Friendly"
       ]
     },
     {
@@ -4547,7 +4817,9 @@
       "photoAttribution": "ᴋᴏᴜɴɪɴ ʟɪɪ",
       "tags": [
         "Family Friendly",
-        "Rainy Day"
+        "Outdoor & Nature",
+        "Adventure & Active",
+        "Photography Worthy"
       ]
     },
     {
@@ -4567,7 +4839,8 @@
       "photoAttribution": "Zhou Wan",
       "tags": [
         "Family Friendly",
-        "Photography Worthy",
+        "Cultural & Historical",
+        "Art & Design",
         "Rainy Day"
       ]
     },
@@ -4589,7 +4862,9 @@
       "photoAttribution": "Muhammad Rasyah",
       "tags": [
         "Family Friendly",
-        "Photography Worthy"
+        "Toddler Friendly",
+        "Photography Worthy",
+        "Adventure & Active"
       ]
     },
     {
@@ -4607,7 +4882,9 @@
       "photoAttribution": "T.O. Chan (國tai民on)",
       "tags": [
         "Family Friendly",
-        "Rainy Day"
+        "Adventure & Active",
+        "Outdoor & Nature",
+        "Photography Worthy"
       ]
     },
     {
@@ -4637,7 +4914,9 @@
       "photoAttribution": "Simon Wong",
       "tags": [
         "Family Friendly",
-        "Rainy Day"
+        "Rainy Day",
+        "Cultural & Historical",
+        "Adventure & Active"
       ]
     },
     {
@@ -4667,7 +4946,9 @@
       "photoAttribution": "Savoir Aimer (Admin)",
       "tags": [
         "Family Friendly",
-        "Photography Worthy"
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Cultural & Historical"
       ]
     },
     {
@@ -4687,7 +4968,9 @@
       "photoAttribution": "Chun Wui Tan",
       "tags": [
         "Family Friendly",
-        "Splurge"
+        "Cultural & Historical",
+        "Rainy Day",
+        "Art & Design"
       ]
     },
     {
@@ -4707,7 +4990,9 @@
       "photoAttribution": "小綿羊",
       "tags": [
         "Family Friendly",
-        "Rainy Day"
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Toddler Friendly"
       ]
     },
     {
@@ -4725,7 +5010,7 @@
       "ratingCount": 2,
       "tags": [
         "Family Friendly",
-        "Photography Worthy",
+        "Cultural & Historical",
         "Rainy Day"
       ]
     },
@@ -4756,7 +5041,10 @@
       "photoAttribution": "SUHAS Dubey",
       "tags": [
         "Family Friendly",
-        "Photography Worthy"
+        "Outdoor & Nature",
+        "Photography Worthy",
+        "Adventure & Active",
+        "Cultural & Historical"
       ]
     },
     {
@@ -4776,7 +5064,10 @@
       "photoAttribution": "BonnCrew",
       "tags": [
         "Family Friendly",
-        "Rainy Day"
+        "Rainy Day",
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Outdoor & Nature"
       ]
     },
     {
@@ -4796,7 +5087,10 @@
       "photoAttribution": "Mr. Kent NYC",
       "tags": [
         "Family Friendly",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Local Delicacies",
+        "Cultural & Historical",
+        "Shopping"
       ]
     },
     {
@@ -4816,7 +5110,9 @@
       "photoAttribution": "黄k",
       "tags": [
         "Family Friendly",
-        "Rainy Day"
+        "Outdoor & Nature",
+        "Toddler Friendly",
+        "Photography Worthy"
       ]
     },
     {
@@ -4846,7 +5142,10 @@
       "photoAttribution": "Neo Er Jyn",
       "tags": [
         "Family Friendly",
-        "Rainy Day"
+        "Rainy Day",
+        "Shopping",
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -4867,7 +5166,9 @@
       "photoAttribution": "Anders Stubkjaer",
       "tags": [
         "Family Friendly",
-        "Photography Worthy"
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Rainy Day"
       ]
     },
     {
@@ -4897,7 +5198,9 @@
       "photoAttribution": "FungSwee Wong",
       "tags": [
         "Family Friendly",
-        "Photography Worthy"
+        "Photography Worthy",
+        "Cultural & Historical",
+        "Rainy Day"
       ]
     },
     {
@@ -4917,7 +5220,9 @@
       "photoAttribution": "jinhorng lin",
       "tags": [
         "Family Friendly",
-        "Photography Worthy"
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Rainy Day"
       ]
     }
   ],
@@ -4938,8 +5243,10 @@
       "photoRef": "places/ChIJQXv84n2t8TURdKOxyRuIMMY/photos/AcnlKN330hxnKYCzP6KDYAMmgazqEeHQvR5FAY1uTfZcJRFatZgGuf2RlDiDkwDk_1dYCdWFjpDcu-5vunpB-52HGPdcCARG6IjhbIrWAavTDVIquZYm7duORn-stz1oosu34yP4BPIhH9-AnvW7XFnF7mg8UrgzcaAUce_eN1QmK9vvX0TgRuToh_gzOp0e7CwM0X4OuwVtBo0zqJzbQiFFBTH30Wxwb-diH48yCgrBCWq7rQyt7fXsN6R-EI7sXV8_rk9VztyeTc7kOxfX-cFAPdDGmR0iRLcTVQvLpF34l8WkoZB0rkr8bjebMov_clQfmZmsMHAvpdK0OwuVGuPg55K2CdzNOAB3_UtDJ-DscHIwpuQ20zWot0_ITmLx0hk0igwBP3cntiRHDuqSHJkb_a4oAG3b0hbt1BoT7aGnbEcVVGED",
       "photoAttribution": "Gerhard Knothe",
       "tags": [
-        "Local Delicacies",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Budget Friendly"
       ]
     },
     {
@@ -4958,8 +5265,10 @@
       "photoRef": "places/ChIJYzZvXkNN8DUR4h25sg3jCFM/photos/AcnlKN3lJl6V_KOfsyOEqV52dnVZ-eDGr5h35orZLIc9s1552jceFKUS8J-ez3HbmzKo3PAKuYvec6YUXmeWeVJd6LIFiWIlssydNiwApz3DMwv2XterpApkxfEew-cdQTo8thUg-U3eL8nAN01THyYQBSePLNlFW9JNAeJZFbIV5C4n41vLKh7wToGphUkg_8rlJ2V73XmhJt4WgwHw0etDhtp0ZHaoI0N5YxF952BQP6xFr1cKclN1hoScYYBvu7jBX9AgBBqpfTKkToj9SMjztKoxMBBWQv79QhXRLVEqOfGmLUDD-tCkd2Fo1i56A_PMPEvtg91aNpLA4t7HqPHtwXYF4klnrHce2p3KtGBso5ewfcZWryd7iujKyFz8wEprQl7Z46Mhd9X0qyoMLg_XoVzfupbotkXCm4V2XaEAJsvGMQ",
       "photoAttribution": "Nathalie Wagner",
       "tags": [
+        "Shopping",
+        "Cultural & Historical",
         "Local Delicacies",
-        "Shopping"
+        "Budget Friendly"
       ]
     },
     {
@@ -4978,8 +5287,10 @@
       "photoRef": "places/ChIJYzZvXkNN8DUR4h25sg3jCFM/photos/AcnlKN1Dv6p43AF-Ee5dIVUbLXnK4U51gIN0z8NYL3lAt-DAMuWQeuUKy_WSfbTOu4EgJbK0SiEO7SrGlxjkGyMw-ejANGiHBlu67GKO9wbGcAu_vEqyf-ODmyX67lPR9ES1h7FBaJjNaxUt2YpUOF8kzfbWAW7xTfR4LloF-yRmzt5Y211GcGNfKWlNSzKxgxki7Z2h8uexQ7KBKM7gNRTC6lRmNNoYBDfR2mimv6ydWQG32GtW4cED8ULEAlYKmE5-cNDa7oXiB-EAgGGyHwh0M0zAm8mJ-UH2zE1vLUWThcSnhx3bdXpzCLfnL6zqYd0nO-z1u9W4WzClscJSNSejpO_f4u8OBgCff0-G60jsUGVNN2QWf6qfVxJA17WIWjIx0ksyFpuSb4R8BCoD12WY3uiCmbGywMCsjGNUOMAhSISurA",
       "photoAttribution": "Nathalie Wagner",
       "tags": [
-        "Local Delicacies",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Budget Friendly"
       ]
     },
     {
@@ -5001,7 +5312,9 @@
       "tags": [
         "Local Delicacies",
         "Photography Worthy",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical",
+        "Rainy Day"
       ]
     },
     {
@@ -5029,8 +5342,10 @@
       "photoRef": "places/ChIJo02IhGBwsjURkMzTT4Z0198/photos/AcnlKN1aeKYZ9DpM2qwswumtp9W5WEI_EcswTSb5_U-FyltSjlOMywDLDiN988x6XmRtpwP73i3J38RSvKzqb4hZn1htiHeAU8hUSzbQUAn3n5b69lFff6r2w9BoDCrIEV2UKqHkkd5k_3VYHprAnwn5lx0FK_ByfvQWF9hUHXXGVEoya0O_uCAQWMwuhVrVwawlz_AKIgpzEvj1oIhB21w2LAcaFhuL_N7InKxPi5r_U46xQuvRN3n3kWo3d4aFuAs6Jhtc8aCgodScnA4C1L29MvXziSWklsN5vZfUMBpeNE8j6WoUEXCJnp9wevaXykdQHZvDEGjaf1ucu0o8DtoHhwwzeahv9Yh-Ls4BWTt8AicF-Gb0CRftXf773ur1FelnaDcnw9tFcTLkNc1MzE7RccCcoJh6BNy5VVALA2M5JdDQhg",
       "photoAttribution": "Charlene Poon",
       "tags": [
+        "Shopping",
+        "Cultural & Historical",
         "Local Delicacies",
-        "Shopping"
+        "Photography Worthy"
       ]
     },
     {
@@ -5049,9 +5364,10 @@
       "photoRef": "places/ChIJPS5gWIRwsjUROJg0qdMuu7A/photos/AcnlKN2mWXwcVBr2w8ZmIh8WNbBsst93Tmsq-T9eLzy3_KwvvmAINTtmlewAfLW2wGy61KzZWwIhyr19_7Kv8vu-FqbLKrpmVI0HRe8I2ZcangaQYIstbEcIikyNZzbckVwKj-YepG-OjR0Dzpj_cYi7cOn1bzlPty5viHa9vPT3_1F9hS3X1ClOfPNJKJ2IStrF76nS2iAQePSO-OzOp2Thpr_AoQoZ6Scd5y-yALKb-3SLGnPhuZncKY8gz9gLWXfV4s7w2YL5EOc5UVNDhT2UQ10hjaDzta6vJ1SD-_NnGVdcrJS3ay5KeWVBdA8ga2XVzZpsPFba9YeXydb4E9wz54y31Bnpsz-lOjZ1vphHgaHb6COzRw9PGVWpqHGfXumFninL-vppRDcobKL8MS4I3trylawaCb8zKf22cMdsbeOLMg",
       "photoAttribution": "Noorzidah M N",
       "tags": [
-        "Local Delicacies",
-        "Photography Worthy",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical",
+        "Budget Friendly",
+        "Photography Worthy"
       ]
     },
     {
@@ -5081,8 +5397,8 @@
       "photoAttribution": "차영기",
       "tags": [
         "Budget Friendly",
-        "Local Delicacies",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical"
       ]
     },
     {
@@ -5111,8 +5427,11 @@
       "photoRef": "places/ChIJbYMkZMgABDQRryWJe8ooWP0/photos/AcnlKN01My59bRgUio5xxx3imsmsEkOn8d4v75_1bMiNMfy72SOcJA4xmwAHCL68VH8BkoDPRQTBJUKO6vbJqmzCUmk0zBjnbVlLQYJstVBgDsDpaZKkyjZhu4rufXG2E1B862w4LdUD2LVxa1yhirJp-e--7o-Oo128i-xzZbQwueYhNVArrgl5f8OBJmFXksLyHPAfBSAjWr_WUmEH-R8wNCABNqNJYbR_J2fMbPKPEq08XERNB4OXWcMsKVTZ8tKb9KdNVAyikM2Ye95rQOm47_Bd716ylReTPgdEmLhk0nIFbqzRqrngd5xaQrVNfZWAmCtl05MAb-CeLpsTu8AZQ16rXkSVSPb01D0vg0VYWf3YgwaSVzLP2A4IQvst7wXbw4HjNNq4P3fFUliK-qfK6qBxA4NSP4zw80Bi_KyJhLMGPkpgS_k_eNRnbUVCr6Wi",
       "photoAttribution": "Pawon Soimut",
       "tags": [
-        "Local Delicacies",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly",
+        "Budget Friendly"
       ]
     },
     {
@@ -5143,7 +5462,10 @@
       "tags": [
         "Budget Friendly",
         "Local Delicacies",
-        "Shopping"
+        "Shopping",
+        "Nightlife",
+        "Photography Worthy",
+        "Cultural & Historical"
       ]
     },
     {
@@ -5173,7 +5495,10 @@
       "photoAttribution": "MS hui",
       "tags": [
         "Local Delicacies",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Budget Friendly"
       ]
     },
     {
@@ -5193,7 +5518,10 @@
       "photoAttribution": "Sarah Plack",
       "tags": [
         "Local Delicacies",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical",
+        "Art & Design",
+        "Photography Worthy"
       ]
     },
     {
@@ -5214,7 +5542,10 @@
       "tags": [
         "Budget Friendly",
         "Local Delicacies",
-        "Shopping"
+        "Shopping",
+        "Casual Eats",
+        "Cultural & Historical",
+        "Nightlife"
       ]
     },
     {
@@ -5236,7 +5567,9 @@
         "Budget Friendly",
         "Local Delicacies",
         "Photography Worthy",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical",
+        "Casual Eats"
       ]
     },
     {
@@ -5264,8 +5597,10 @@
       "photoRef": "places/ChIJTYNlCsj1pDYRewe5YYwESkA/photos/AcnlKN0-dQAO0wrY78jRJJYvxsVLHANh_chFKef9TbooDu0p_IA6T9i6k8k5FzHl6ABtJY_ZgQH2DBYbsIbJLFxPg2ONwC7GATLxmaP5ccBvHwJA3jEwUYYaJEUjcgy4cojTo4dkN-wIGiCJ-PajQ68D0N79VIJUG9b6mEk379ayDsXk_Qxc2I5WhoCpGFaBbUcsMGIH1nsnCvGCCT0mvdIYKI5EgVOcEXrSL1iFeJYEyaxtzQ1mbCfM_WvAhnMZ_SIJ0gU7chCTmLVgyB3FHD7R0wZ0Esw6UBQB29m0BOAAX-cBFBA66pxYHvkiyVx_KzgVZ1vFXFaK993m2r2ttqx9wUYl1wa-J8AK_ZUtDHkKnJl0LmeJxtl9JzVlQ_04aaP2Wsi3RweYzGf_otcIJJHSMjNg8BE6ZmyW2t_QNgNreOaEzA",
       "photoAttribution": "Ethan Hill",
       "tags": [
+        "Shopping",
         "Local Delicacies",
-        "Shopping"
+        "Cultural & Historical",
+        "Photography Worthy"
       ]
     },
     {
@@ -5286,7 +5621,8 @@
       "tags": [
         "Local Delicacies",
         "Photography Worthy",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical"
       ]
     },
     {
@@ -5305,9 +5641,10 @@
       "photoRef": "places/ChIJARzoFrGCTDQRVRtxYr3jhe8/photos/AcnlKN28qO24kdr25oOX2_ZakXIsWxli5lgfqeV_2ypv6a_qOLHNyRHYqw0rKEtYYjXNM6c23-ZQk3whY7fTFX28JVh9DelUBfZvuL3rsqLkVroEU8UzTRiHvHp6NWBzaa1cxZpl6e7u1EC_JGXgGcqG5j4VZnLpzhyhdRfiU0IzB6DHJ5qLXf3-XrYFoaifyjmGD6RWj665mEceTWv7ijsrW-Cv2BNaRbHwF2ZYKdsF5gsGJP2TGbCAiaDp3anx6cASEKiOlDa9cxfSTz2TobfXqdbawA2zovxxYzzrSj2iGGXulRjS4LA0FJSGAq7AQzey5espgQc9YbCThWtlPfGAfMbIAAx5jhM39wez6BdFA5A10cw5rE6NdRhq-b9hHa8ohHxHCpaqjUtkqIy_s953q65Gse6Q_ua4gpYNzCgPnwQeBg",
       "photoAttribution": "ブルトラasuka",
       "tags": [
+        "Shopping",
+        "Cultural & Historical",
         "Local Delicacies",
-        "Photography Worthy",
-        "Shopping"
+        "Photography Worthy"
       ]
     },
     {
@@ -5327,10 +5664,10 @@
       "photoRef": "places/ChIJIyHi70OdTDQRmQAg6H8E-WU/photos/AcnlKN1XTT6tN33SEL_5cLXZTpOQlZxD4d840UDaJ7_kr6k9yso9QWKT8gZW49_8uDejytSVLLXH5K887eeAkszbUU-dOj8cHtm93QYhfTO9elrlsPDV04wF5WKmLqzypiuElT-SXGAlHWfEwPHU-YZTekGdulrHbczra4HrvTgcJyeliaRggC4E2edRXS6KWjQk0OycwAz1aq4fbjuL2trtytJ-pYVCI2qjW0H4DX7_7QFAA1ZHcjMl4_NEWCp1CUwhqIFSjm1LVl5Hxa-vjLYNpKT-AOTW8eQp9kf1Iy1X5sDCD6s1__xmLE7JMbWhO7_4fTcYS_H3em4iinA5EX1T2UUC4yzxb7_ouA_KJ0WesBCULdVpm6ZwvfNKoD7QH45GVxj0z63RsAs4cRrIxhKZutHGB2VoF5Xh89quLd7xHaK5o1At",
       "photoAttribution": "Thu Hương Đỗ",
       "tags": [
-        "Budget Friendly",
-        "Local Delicacies",
+        "Cultural & Historical",
+        "Shopping",
         "Photography Worthy",
-        "Shopping"
+        "Budget Friendly"
       ]
     },
     {
@@ -5345,8 +5682,11 @@
       "placeId": "ChIJL4ypE-KD0DYRhEshjRbwA5s",
       "address": "Jin Bi Yang Guang Shang Zhu Lou, 41, Wu Hua Qu, Kun Ming Shi, Yun Nan Sheng, China, 650021",
       "tags": [
+        "Shopping",
         "Local Delicacies",
-        "Shopping"
+        "Cultural & Historical",
+        "Photography Worthy",
+        "Family Friendly"
       ]
     },
     {
@@ -5365,8 +5705,10 @@
       "photoRef": "places/ChIJv0DxhWH4AjQReoOt12VbjHg/photos/AcnlKN1vbbnmu-nLrMSPSURFdhAdIetdWXYB2QctJURBx2ogogy19Vtxsui4KlkcsO8IhGHAt5GQ-xqb3sBWDrUL1gSUaWeiFJZuND5Gmy8TUYwPbhPGQfkZMViFoc_F0ZdHNXwc9jBVFLI3ntZXVCTrmWYDcf1ztD2BYWx53hJ6GYM4pp7e1fazWPKMm4KfnzJt1gxPghilyN_6vwWELXuNFSGJtE2ZIqxZQV790R7uuLy6SNRg2C597faN93GkWAUJp8DetZ7IF9DbLPHyuY6_CZoEXgalh2aMSsW7XIVRf_S0J-eyrXJLDM-g7TyObkdRRUOpQH8h3PkPLct1NA_uNBKFw7pKFRQt7brQxYTzLtR_fubTIsbGU9y9aC2zanIxMkGPU-YNQp3Kjf-DVhJX6Y_uv0NlegghrkW1u2ML6Ny4WsRJNLKiNK2kkZuinB0D",
       "photoAttribution": "osservatorecortese",
       "tags": [
-        "Local Delicacies",
-        "Shopping"
+        "Cultural & Historical",
+        "Art & Design",
+        "Shopping",
+        "Photography Worthy"
       ]
     },
     {
@@ -5386,7 +5728,11 @@
       "photoAttribution": "Mr. Kent NYC",
       "tags": [
         "Photography Worthy",
-        "Shopping"
+        "Shopping",
+        "Cultural & Historical",
+        "Outdoor & Nature",
+        "Family Friendly",
+        "Rainy Day"
       ]
     }
   ],

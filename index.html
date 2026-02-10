@@ -2432,16 +2432,18 @@
         border-radius: 16px 16px 0 0;
         box-shadow: 0 -4px 24px rgba(0,0,0,0.15);
         z-index: 560;
-        transform: translateY(100%);
+        transform: translateY(calc(100% + 60px)); /* push fully below tab bar when hidden */
         transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
         overflow: hidden;
         display: flex;
         flex-direction: column;
         will-change: transform;
+        pointer-events: none; /* don't block taps on tab bar when hidden */
     }
 
     .mobile-poi-sheet.active {
         transform: translateY(0);
+        pointer-events: auto;
     }
 
     .mobile-poi-drag-handle {
@@ -3172,7 +3174,7 @@
     </div>
 
     <!-- Mobile Chat Panel -->
-    <div class="mobile-tab-panel" id="mobileChatPanel" style="position:relative;">
+    <div class="mobile-tab-panel" id="mobileChatPanel">
         <button class="sheet-close-btn" onclick="closeMobileSheet()" aria-label="Close" style="top:12px;">&times;</button>
         <div class="mobile-chat-header">
             <div class="mobile-chat-title">AI Trip Planner</div>
@@ -3209,7 +3211,7 @@
     <div class="mobile-sheet-backdrop" id="mobileSheetBackdrop" onclick="collapseMobileSheet()"></div>
 
     <!-- Mobile Search Panel -->
-    <div class="mobile-tab-panel sheet-half" id="mobileSearchPanel" style="position:relative;">
+    <div class="mobile-tab-panel sheet-half" id="mobileSearchPanel">
         <div class="sheet-drag-handle" id="searchDragHandle"></div>
         <button class="sheet-close-btn" onclick="closeMobileSheet()" aria-label="Close">&times;</button>
         <div class="mobile-search-bar">
@@ -3235,7 +3237,7 @@
     </div>
 
     <!-- Mobile Trips Panel -->
-    <div class="mobile-tab-panel sheet-half" id="mobileTripsPanel" style="position:relative;">
+    <div class="mobile-tab-panel sheet-half" id="mobileTripsPanel">
         <div class="sheet-drag-handle" id="tripsDragHandle"></div>
         <button class="sheet-close-btn" onclick="closeMobileSheet()" aria-label="Close">&times;</button>
         <div class="mobile-trips-header" id="mobileTripsHeader">
@@ -7336,10 +7338,10 @@
             const backdrop = document.getElementById('mobileSheetBackdrop');
             if (!panel) return;
 
-            // Remove old state classes
+            // Reset classes
             panel.classList.remove('sheet-half', 'sheet-expanded', 'sheet-visible');
 
-            // Apply new state
+            // Set the height class (half or expanded)
             if (state === 'half') {
                 panel.classList.add('sheet-half', 'sheet-visible');
                 mobileSheetState = 'half';
@@ -7347,6 +7349,9 @@
                 panel.classList.add('sheet-expanded', 'sheet-visible');
                 mobileSheetState = 'expanded';
             }
+
+            // Force transform directly via inline style to guarantee visibility
+            panel.style.transform = 'translateY(0)';
 
             // Show subtle backdrop when expanded
             if (backdrop) {
@@ -7359,6 +7364,7 @@
             const backdrop = document.getElementById('mobileSheetBackdrop');
             if (panel) {
                 panel.classList.remove('sheet-visible');
+                panel.style.transform = ''; // clear inline, fall back to CSS translateY(100%)
             }
             if (backdrop) backdrop.classList.remove('visible');
             mobileSheetState = 'hidden';
