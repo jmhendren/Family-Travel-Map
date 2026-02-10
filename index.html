@@ -3587,6 +3587,36 @@
             reader.readAsText(file);
         }
 
+        // Normalize itinerary days: parse "label" format into "day" + "title" fields
+        // JSON uses: { label: "Day 1 — Tokyo Arrival" }
+        // Code expects: { day: 1, title: "Tokyo Arrival", label: "Day 1 — Tokyo Arrival" }
+        function normalizeItineraryDays(itinData) {
+            if (!itinData) return;
+            Object.values(itinData).forEach(itin => {
+                if (!itin || !itin.days) return;
+                itin.days.forEach((dayData, idx) => {
+                    // If already has day+title (old format or already normalized), skip
+                    if (dayData.day !== undefined && dayData.title !== undefined) return;
+                    // Parse from label: "Day 1 — Tokyo Arrival & Icons"
+                    if (dayData.label) {
+                        const match = dayData.label.match(/^Day\s+(\d+)\s*[—–\-]\s*(.+)$/i);
+                        if (match) {
+                            dayData.day = parseInt(match[1]);
+                            dayData.title = match[2].trim();
+                        } else {
+                            // Fallback: use index+1 as day, full label as title
+                            dayData.day = idx + 1;
+                            dayData.title = dayData.label;
+                        }
+                    } else {
+                        // No label either — use index as fallback
+                        dayData.day = idx + 1;
+                        dayData.title = 'Day ' + (idx + 1);
+                    }
+                });
+            });
+        }
+
         function registerExternalDest(data) {
             if (!data.key || !data.name || !data.itineraryData || !data.cityCenters) {
                 showCopyToast('Invalid schema: needs key, name, itineraryData, cityCenters');
@@ -3608,6 +3638,9 @@
                 regions: data.regions || [],
                 originalItineraryData: JSON.parse(JSON.stringify(data.itineraryData))
             };
+            // Normalize day format (label → day + title) for both copies
+            normalizeItineraryDays(config.itineraryData);
+            normalizeItineraryDays(config.originalItineraryData);
             addDestination(data.key, config);
             closeAddDestModal();
             showCopyToast(data.name + ' added!');
@@ -6801,6 +6834,9 @@
                         });
                     });
 
+                    // Normalize day format (label → day + title) for chat-generated itineraries
+                    normalizeItineraryDays({ _chat: parsed });
+
                     // Store for refinement and saving
                     chatGeneratedItinerary = parsed;
                     lastGeneratedItinerary = parsed;
@@ -7322,6 +7358,9 @@
                     });
                 });
 
+                // Normalize day format (label → day + title) for form-generated itineraries
+                normalizeItineraryDays({ _form: parsed });
+
                 // Store for saving
                 lastGeneratedItinerary = parsed;
 
@@ -7357,7 +7396,8 @@
                 isGenerated: true
             };
 
-            // Add to itineraryData
+            // Normalize day format and add to itineraryData
+            normalizeItineraryDays({ [genKey]: itinObj });
             itineraryData[genKey] = itinObj;
             originalItineraryData[genKey] = JSON.parse(JSON.stringify(itinObj));
 
@@ -7389,6 +7429,8 @@
                 Object.entries(saved).forEach(([key, itinObj]) => {
                     if (!itineraryData[key]) {
                         itinObj.isGenerated = true;
+                        // Normalize day format for restored generated itineraries
+                        normalizeItineraryDays({ [key]: itinObj });
                         itineraryData[key] = itinObj;
                         originalItineraryData[key] = JSON.parse(JSON.stringify(itinObj));
                     }
